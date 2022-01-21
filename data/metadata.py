@@ -9,10 +9,10 @@ def update_metadata_file(options):
 
     metadata_file = {}
     repo = options["repository"]
-    metadata_file['updated'] = datetime.date.today().isoformat()
+    metadata_file["updated"] = datetime.date.today().isoformat()
     file_list = glob(f"data/{repo}/*/*.json")
 
-    metadata_file['files'] = file_list
+    metadata_file["files"] = file_list
 
     with open(f"data/{repo}/missing-files.json", "w") as f:
         json.dump(metadata_file, f, indent=4)
