@@ -10,7 +10,7 @@ Its main goal is to be a collection of fixes for the Harvard import data.
 Free Law Project built this ...  This project represents ...  
 We believe to be the ....
 
-# Tests 
+# Tests
 
 Tests should validate the format always follows the format of an opinion in the dataset we are importing.
 

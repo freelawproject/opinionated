@@ -18,7 +18,7 @@ def update_metadata_file(options):
         json.dump(metadata_file, f, indent=4)
 
 
-class Command(object):
+class Command:
     help = "Update metadata file for use with Courtlistener."
 
     VALID_ACTIONS = {
