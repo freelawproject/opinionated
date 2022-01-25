@@ -7,7 +7,7 @@ Its main goal is to be a collection of fixes for the Harvard import data.
 
 ## Background
 
-This repository is a collection of fixes for the Harvard import data and is to be used with 
+This repository is a collection of fixes for the Harvard import data and is to be used with
 Courtlistener.com and the Harvard dataset.  You can learn more about courtlistener [here](https://github.com/freelawproject/courtlistener/)
 
 ## Quick Start
@@ -23,7 +23,7 @@ Currently there is only one test which you can run by running the command:
 
     python -m unittest discover -s tests -p 'test_*.py'
 
-This test simply validates that the data is in the correct format and updated.  Essentially, if you 
+This test simply validates that the data is in the correct format and updated.  Essentially, if you
 add cases to the data source but don't update the missing-files.json it will throw an error.
 
 ## License
