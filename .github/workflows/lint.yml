@@ -84,13 +84,13 @@ jobs:
           echo "PYTHONPATH=$GITHUB_WORKSPACE" >> $GITHUB_ENV
           echo "$GITHUB_WORKSPACE/.venv/bin" >> $GITHUB_PATH
 
-#      - name: pylint Generate Report
-#        run: >
-#          pylint --exit-zero --load-plugins=pylint_json2html -f colorized data |
-#          pylint-json2html -f jsonextended -o pylint-report.html
+      - name: pylint Generate Report
+        run: >
+          pylint --exit-zero --load-plugins=pylint_json2html -f colorized data |
+          pylint-json2html -f jsonextended -o pylint-report.html
 
-#      - name: Upload report
-#        uses: actions/upload-artifact@v2
-#        with:
-#          name: pylint report
-#          path: pylint-report.html
+      - name: Upload report
+        uses: actions/upload-artifact@v2
+        with:
+          name: pylint report
+          path: pylint-report.html

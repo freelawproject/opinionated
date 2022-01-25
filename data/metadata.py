@@ -25,7 +25,7 @@ def update_metadata_file(options: Dict[str, str]):
         json.dump(metadata_file, file, indent=4)
 
 
-class Command(object):
+class Command:
     """Generate metadata file"""
 
     help = "Update metadata file for use with Courtlistener."
