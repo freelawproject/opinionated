@@ -1,24 +1,33 @@
+"Our main tool for processing opinionated data"
 import argparse
 import datetime
 import json
 from glob import glob
+from typing import Dict
 
 
-def update_metadata_file(options):
-    """Update metadata file"""
+def update_metadata_file(options: Dict[str, str]):
+    """Update or generate metadata file
+
+    :param options: The
+    :return:
+    """
 
     metadata_file = {}
     repo = options["repository"]
     metadata_file["updated"] = datetime.date.today().isoformat()
     file_list = glob(f"data/{repo}/*/*.json")
+    file_list = [file.replace("data/harvard/", "") for file in file_list]
 
     metadata_file["files"] = file_list
 
-    with open(f"data/{repo}/missing-files.json", "w") as f:
-        json.dump(metadata_file, f, indent=4)
+    with open(f"data/{repo}/missing-files.json", "w", encoding="utf8") as file:
+        json.dump(metadata_file, file, indent=4)
 
 
-class Command:
+class Command(object):
+    """Generate metadata file"""
+
     help = "Update metadata file for use with Courtlistener."
 
     VALID_ACTIONS = {
