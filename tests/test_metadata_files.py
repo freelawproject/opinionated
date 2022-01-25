@@ -13,7 +13,7 @@ class DataTest(TestCase):
         """
 
         with open("data/harvard/missing-files.json") as f:
-            data = json.load(f)
+            data = json.load(f)['files']
 
         self.assertEqual(
             len(glob.glob("data/harvard/*/*.json")),
