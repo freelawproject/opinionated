@@ -1,0 +1,16 @@
+{
+  "court": {
+      "url": "https://api.case.law/v1/courts/ny-dist-ct-3/",
+      "id": 9733, "slug": "ny-dist-ct-3",
+      "name": "South Carolina District Court",
+      "name_abbreviation": "S.C. Dist. Ct."
+  },
+  "jurisdiction": {
+      "url": "https://api.case.law/v1/jurisdictions/sc/",
+      "id": 1,
+      "slug": "sc",
+      "name": "S.C.",
+      "name_long": "South Carolina",
+      "whitelisted": false
+    }
+}
