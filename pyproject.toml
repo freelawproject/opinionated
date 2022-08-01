@@ -31,7 +31,7 @@ python = "^3.7"
 
 [tool.poetry.dev-dependencies]
 black = "^21.12b0"
-flake8 = "^4.0.1"
+flake8 = "^5.0.2"
 isort = "^5.10.1"
 mypy = "^0.931"
 pylint = "^2.13.8"
