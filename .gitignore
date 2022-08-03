@@ -161,3 +161,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# intelliJ configs
+.idea
