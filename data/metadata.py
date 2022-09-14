@@ -21,7 +21,7 @@ def update_metadata_file(options: Dict[str, str]) -> None:
 
     metadata_file["updated"] = datetime.date.today().isoformat()
     metadata_file["files"] = file_list
-    metadata_file['files'].sort()
+    metadata_file["files"].sort()
 
     with open(f"data/{repo}/missing-files.json", "w", encoding="utf8") as file:
         json.dump(metadata_file, file, indent=4, sort_keys=False)
