@@ -3,7 +3,7 @@ import argparse
 import datetime
 import json
 from glob import glob
-from typing import Dict, Union, List
+from typing import Dict, List, Union
 
 
 def update_metadata_file(options: Dict[str, str]) -> None:
