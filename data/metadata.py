@@ -3,26 +3,28 @@ import argparse
 import datetime
 import json
 from glob import glob
-from typing import Dict
+from typing import Dict, Union, List
 
 
-def update_metadata_file(options: Dict[str, str]):
+def update_metadata_file(options: Dict[str, str]) -> None:
     """Update or generate metadata file
 
-    :param options: The
-    :return:
+    :param options: The options to use
+    :return: None
     """
 
-    metadata_file = {}
+    metadata_file: Dict[str, Union[List[str], str]] = {}
+
     repo = options["repository"]
-    metadata_file["updated"] = datetime.date.today().isoformat()
     file_list = glob(f"data/{repo}/*/*.json")
     file_list = [file.replace("data/harvard/", "") for file in file_list]
 
+    metadata_file["updated"] = datetime.date.today().isoformat()
     metadata_file["files"] = file_list
+    metadata_file['files'].sort()
 
     with open(f"data/{repo}/missing-files.json", "w", encoding="utf8") as file:
-        json.dump(metadata_file, file, indent=4)
+        json.dump(metadata_file, file, indent=4, sort_keys=False)
 
 
 class Command:
@@ -39,13 +41,15 @@ class Command:
         "-a",
         "--action",
         help="Must choose an action",
-        required=True,
+        required=False,
+        default="update",
     )
     parser.add_argument(
         "-r",
         "--repository",
         help="The repository to generate the metadata for.",
-        required=True,
+        required=False,
+        default="harvard",
     )
 
     args = vars(parser.parse_args())
