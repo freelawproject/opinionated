@@ -18,5 +18,6 @@ class DataTest(TestCase):
         self.assertEqual(
             len(glob.glob("data/harvard/*/*.json")),
             len(data),
-            msg="The number of files in data/harvard/ is not equal to the number of files in missing-files.json",
+            msg="The number of files in data/harvard/ is not equal to the "
+            "number of files in missing-files.json",
         )
