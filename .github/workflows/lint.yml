@@ -20,6 +20,3 @@ jobs:
 
       - name: isort Import Sorter
         uses: isort/isort-action@v0.1.0
-
-      - name: mypy Static Type Checker
-        run: mypy data/
