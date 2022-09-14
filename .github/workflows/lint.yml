@@ -3,9 +3,26 @@ name: Lint
 on: [push, pull_request]
 
 jobs:
-  pre-commit:
+  black:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
-      - uses: pre-commit/action@v3.0.0
+        with:
+          # Once codebase is updated, this can easily be changed to any specific version.
+          python-version: "3.10"
+
+      - name: Black Code Formatter
+        uses: psf/black@stable
+
+      - name: Run flake8
+        uses: py-actions/flake8@v1
+
+      - name: isort Import Sorter
+        uses: isort/isort-action@v0.1.0
+
+      - name: pylint Error Checker
+        run: pylint --fail-under 9 -f colorized eyecite
+
+      - name: mypy Static Type Checker
+        run: mypy .
