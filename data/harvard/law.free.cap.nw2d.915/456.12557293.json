@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"456\" lastpage=\"456\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Gene RANSOM, Judy Ransom, Carla Mills, Marilyn Ackerson, Wallen Capper and Sarah G. Lister, Plaintiffs-Respondents,<br/> v.<br/> Janice M. BASSWOOD and Christopher J. Sargent, Defendants-Appellants,</parties>\n<docketnumber id=\"p-2\">The Ho-Chunk Nation, The Pacesetter Corporation, The Single-Family Dwelling and John Doe, Defendants.</docketnumber>\n<docketnumber id=\"p-3\">Appeal No. 2017AP1054-AC</docketnumber>\n<court id=\"p-4\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-5\">March 8, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed, reversed and remanded.</p></opinion></casebody></body></html>"
+  }
+}

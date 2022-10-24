@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"456\" lastpage=\"456\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE the termination of parental rights to A. D. C., a person under the age of 17:</parties>\n<docketnumber id=\"p-2\">State of Wisconsin, Petitioner-Respondent,<br/> v.<br/> D. C., Respondent-Appellant.<footnotemark>\u2020</footnotemark></docketnumber>\n<docketnumber id=\"p-3\">Appeal No. 2017AP1635</docketnumber>\n<court id=\"p-4\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-5\">DATED AND FILED March 20, 2018</decisiondate>\n\n\n<p id=\"p-10\">--------</p>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed.</p><p id=\"p-9\"><sup>\u2020</sup> Petition for Review Filed.</p></opinion></casebody></body></html>"
+  }
+}
