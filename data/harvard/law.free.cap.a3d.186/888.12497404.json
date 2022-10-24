@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of New Jersey, Plaintiff-Respondent,<br/> v.<br/> Samuel J. HOLDBROOK, Defendant-Petitioner.</parties>\n<docketnumber id=\"p-2\">C-925 September Term 2017<br/> 080328</docketnumber>\n<court id=\"p-3\">Supreme Court of New Jersey.</court>\n<decisiondate id=\"p-4\">June 1, 2018</decisiondate>\n\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\">To the Appellate Division, Superior Court:</p><p id=\"p-6\">A petition for certification of the judgment in A-004512-16 having been submitted to this Court, and the Court having considered the same;</p><p id=\"p-7\">It is ORDERED that the petition for certification is granted and the matter is summarily remanded to the trial court for resentencing consistent with <em>State v. Warren</em>, <extracted-citation case-ids=\"318635\" index=\"0\" url=\"https://cite.case.law/nj/115/433/\">115 N.J. 433</extracted-citation> (1989), and <em>State v. Hess</em>, <extracted-citation case-ids=\"4150817\" index=\"1\" url=\"https://cite.case.law/nj/207/123/\">207 N.J. 123</extracted-citation> (2011). Jurisdiction is not retained.</p></opinion></casebody>\n</body></html>"
+  }
+}
