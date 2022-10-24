@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"2730\" lastpage=\"2730\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Andre COLLIER, petitioner,<br/> v.<br/> NEW YORK.</parties>\n<docketnumber id=\"p-2\">No. 13-9537.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">June 9, 2014.</decisiondate>\n<p id=\"p-5\">Case below, <extracted-citation case-ids=\"4293561\" index=\"0\" url=\"https://cite.case.law/ny3d/22/429/\">22 N.Y.3d 429</extracted-citation>, <extracted-citation case-ids=\"4293561\" index=\"1\" url=\"https://cite.case.law/ny3d/22/429/\">982 N.Y.S.2d 34</extracted-citation>, <extracted-citation case-ids=\"4293561\" index=\"2\" url=\"https://cite.case.law/ny3d/22/429/\">5 N.E.3d 5</extracted-citation>.</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Petition for writ of certiorari to the Court of Appeals of New York denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

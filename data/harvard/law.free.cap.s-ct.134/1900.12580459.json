@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"1900\" lastpage=\"1900\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Jeffrey M. KINZLE, petitioner,<br/> v.<br/> WASHINGTON.</parties>\n<docketnumber id=\"p-2\">No. 13-9049.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">April 21, 2014.</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Case below, <extracted-citation case-ids=\"4055827,4053173,4052094,4051847\" index=\"0\" url=\"https://cite.case.law/wash-app/174/1073/\">174 Wash.App. 1073</extracted-citation>.</p><p id=\"p-6\">Petition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

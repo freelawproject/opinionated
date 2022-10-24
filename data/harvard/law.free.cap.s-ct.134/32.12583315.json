@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"32\" lastpage=\"32\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Joe DOE, petitioner,<br/> v.<br/> CITY OF NEW YORK, NEW YORK, et al.</parties>\n<docketnumber id=\"p-2\">No. 12-8634.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">July 22, 2013.</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Former decision, <extracted-citation case-ids=\"12697444,12697445,12697446,12697447,12697448,12697449\" index=\"0\" url=\"https://cite.case.law/s-ct/133/1818/\">133 S.Ct. 1818</extracted-citation>.</p><p id=\"p-6\">Motion for leave to file a petition for rehearing denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

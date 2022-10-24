@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"2888\" lastpage=\"2888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Clarence ROBINSON, petitioner,<br/> v.<br/> SOUTH CAROLINA.</parties>\n<docketnumber id=\"p-2\">No. 13-10163.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">June 30, 2014.</decisiondate>\n<p id=\"p-5\">Case below, <extracted-citation case-ids=\"4161989\" index=\"0\" url=\"https://cite.case.law/sc/407/169/\">407 S.C. 169</extracted-citation>, <extracted-citation case-ids=\"4162001,4161989\" index=\"1\" url=\"https://cite.case.law/se2d/754/862/\">754 S.E.2d 862</extracted-citation>.</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Petition for writ of certiorari to the Supreme Court of South Carolina denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

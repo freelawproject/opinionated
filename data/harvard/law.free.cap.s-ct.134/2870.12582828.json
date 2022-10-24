@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"2870\" lastpage=\"2871\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">AMGEN INC., et al., petitioners,<br/> v.<br/> Steve HARRIS, et al.</parties>\n<docketnumber id=\"p-2\">No. 13-888.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">June 30, 2014.</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Case below, <extracted-citation case-ids=\"3694559\" index=\"0\" url=\"https://cite.case.law/f3d/738/1026/\">738 F.3d 1026</extracted-citation>.</p><p id=\"p-6\">On petition for writ of certiorari to the United States Court of Appeals for the <a class=\"page-label\" data-citation-index=\"1\" data-label=\"2871\" href=\"#p2871\" id=\"p2871\">*2871</a>Ninth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Ninth Circuit for further consideration in light of <em>Fifth Third Bancorp v. Dudenhoeffer,</em> 573 U.S. ----, <extracted-citation case-ids=\"12581663\" index=\"1\" url=\"https://cite.case.law/s-ct/134/2459/\">134 S.Ct. 2459</extracted-citation>, --- L.Ed.2d ---- (2014).</p></opinion></casebody>\n</body></html>"
+  }
+}

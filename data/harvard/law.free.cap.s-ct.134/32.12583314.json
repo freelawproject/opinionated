@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"32\" lastpage=\"32\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Mary SABER, et al., petitioners,<br/> v.<br/> BANK OF AMERICA, et al.</parties>\n<docketnumber id=\"p-2\">No. 12-5362.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">July 22, 2013.</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Former decision, <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=133%20S.%20Ct.%20333\">133 S.Ct. 333</extracted-citation>.</p><p id=\"p-6\">Motion for leave to file a petition for rehearing denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

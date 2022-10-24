@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"47\" lastpage=\"47\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In Re Robert HEXIMER, petitioner.</parties>\n<docketnumber id=\"p-2\">No. 12-9595.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Aug. 30, 2013.</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Case below, <extracted-citation case-ids=\"12697839,12697841,12697842,12697849,12697850,12697851,12697852\" index=\"0\" url=\"https://cite.case.law/s-ct/133/2048/\">133 S.Ct. 2048</extracted-citation>.</p><p id=\"p-6\">Motion for leave to file a petition for rehearing denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

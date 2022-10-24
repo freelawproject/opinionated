@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"99\" lastpage=\"99\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">HEST TECHNOLOGIES, INC., et al., petitioners,<br/> v.<br/> NORTH CAROLINA, ex rel. Pat McCRORY, Governor, et al.</parties>\n<docketnumber id=\"p-2\">No. 12-1369.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Oct. 7, 2013.</decisiondate>\n<p id=\"p-5\">Case below, <extracted-citation case-ids=\"4347468\" index=\"0\" url=\"https://cite.case.law/nc/366/289/\">366 N.C. 289</extracted-citation>, --- S.E.2d ----.</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Petition for writ of certiorari to the Supreme Court of North Carolina denied.</p></opinion></casebody>\n</body></html>"
+  }
+}
