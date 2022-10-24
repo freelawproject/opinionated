@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"123\" lastpage=\"123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b141-2\">People ex rel. John Evans et al. v. Saginaw Circuit Judge.</parties>\n\n\n\n\n<otherdate id=\"AgXb\">Submitted June 18.</otherdate>\n\n<attorneys id=\"b141-7\"><em>Dan P. Foote </em>for the motion.</attorneys>\n<attorneys id=\"b141-8\"><em>E. M. Joslin </em>against.</attorneys>\n<opinion><p id=\"b141-4\">\n<em>Order opening judgment by defamlt not reviewable.</em>\n</p><p id=\"b141-5\">When the Circuit Court opens a judgment hy default, for alleged errors, it is like granting a new trial, and is not open to review.</p><p id=\"Azk\">Discretion is not reviowable on mandamus. <em>Per Ouriam.</em></p><p id=\"b141-6\">Motion for order to show cause.</p><p id=\"Axp\">Denied June 19.</p></opinion></casebody>\n</body></html>"
+  }
+}
