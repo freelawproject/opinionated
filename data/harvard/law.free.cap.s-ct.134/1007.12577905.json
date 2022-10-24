@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"1007\" lastpage=\"1007\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Jonas BRINKLEY, petitioner,<br/> v.<br/> GEORGIA.</parties>\n<docketnumber id=\"p-2\">No. 13-7381.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Jan. 21, 2014.</decisiondate>\n<p id=\"p-5\">Case below, <extracted-citation case-ids=\"3800451\" index=\"0\" url=\"https://cite.case.law/ga-app/320/275/\">320 Ga.App. 275</extracted-citation>, <extracted-citation case-ids=\"3800451\" index=\"1\" url=\"https://cite.case.law/ga-app/320/275/\">739 S.E.2d 703</extracted-citation>.</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Petition for writ of certiorari to the Court of Appeals of Georgia denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"44\" lastpage=\"44\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Curtis PITTER, petitioner,<br/> v.<br/> UNITED STATES.</parties>\n<docketnumber id=\"p-2\">No. 12-9539.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Aug. 30, 2013.</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Case below, <extracted-citation case-ids=\"12698321,12698322,12698233,12698234,12698235,12698236\" index=\"0\" url=\"https://cite.case.law/s-ct/133/2362/\">133 S.Ct. 2362</extracted-citation>.</p><p id=\"p-6\">Petition for rehearing denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

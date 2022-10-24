@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"634\" lastpage=\"634\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Daniel H. JONES, petitioner,<br/> v.<br/> John W. McCLARTY, Judge, et al.</parties>\n<docketnumber id=\"p-2\">No. 13-5166.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Nov. 12, 2013.</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Former decision, <extracted-citation case-ids=\"12703426,12703427,12703428,12703429,12703430,12581640,12581641,12581642,12581643,12581644,12581645,12703163\" index=\"0\" url=\"https://cite.case.law/s-ct/134/241/\">134 S.Ct. 241</extracted-citation></p><p id=\"p-6\">Petition for rehearing denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

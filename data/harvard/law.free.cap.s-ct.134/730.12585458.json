@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"730\" lastpage=\"730\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Vincent Sharnee JOHNSON, petitioner,<br/> v.<br/> UNITED STATES.</parties>\n<docketnumber id=\"p-2\">No. 13-5032.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Dec. 2, 2013.</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Former decision, <extracted-citation case-ids=\"12703299,12703300,12702027,12703309,12703317,12703318,12581209,12581210,12581211,12581212,12581213,12581214\" index=\"0\" url=\"https://cite.case.law/s-ct/134/218/\">134 S.Ct. 218</extracted-citation></p><p id=\"p-6\">Petition for rehearing denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

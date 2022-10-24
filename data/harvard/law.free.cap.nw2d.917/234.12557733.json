@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"234\" lastpage=\"234\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE the Termination of Parental Rights to S.T.E., a Person Under the Age of 17:</parties>\n<docketnumber id=\"p-2\">State of Wisconsin, Petitioner-Respondent,<br/> v.<br/> A.E., Respondent-Appellant.</docketnumber>\n<docketnumber id=\"p-3\">In re the Termination of Parental Rights to A.M.E., a Person Under the Age of 17:</docketnumber>\n<docketnumber id=\"p-4\">State of Wisconsin, Petitioner-Respondent,<br/> v.<br/> A.E.<footnotemark>\u2020</footnotemark> , Respondent-Appellant.</docketnumber>\n<docketnumber id=\"p-5\">Appeal Nos. 2017AP1773<br/> 2017AP1774</docketnumber>\n<court id=\"p-6\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-7\">FILED May 8, 2018</decisiondate>\n\n\n<p id=\"p-12\">--------</p>\n\n<opinion type=\"majority\"><p id=\"p-8\">Affirmed.</p><p id=\"p-11\"><sup>\u2020</sup> Petition for Review Filed.</p></opinion></casebody></body></html>"
+  }
+}
