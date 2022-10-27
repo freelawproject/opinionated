@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"234\" lastpage=\"234\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">COUNTY OF MILWAUKEE, Plaintiff-Respondent,<br/> v.<br/> Nicholas O. MORAN, Defendant-Appellant.</parties>\n<docketnumber id=\"p-2\">Appeal No. 2017AP001047<br/> 2017AP001048</docketnumber>\n<court id=\"p-3\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-4\">DATED AND FILED January 23, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion></casebody></body></html>"
+  }
+}

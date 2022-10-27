@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"830\" lastpage=\"830\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Justin TATUM, petitioner,<br/> v.<br/> MASSACHUSETTS.</parties>\n<docketnumber id=\"p-2\">No. 13-6997.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Dec. 16, 2013.</decisiondate>\n<p id=\"p-5\">Case below, <extracted-citation case-ids=\"4224741\" index=\"0\" url=\"https://cite.case.law/mass/466/45/\">466 Mass. 45</extracted-citation>, <extracted-citation index=\"1\" url=\"https://cite.case.law/citations/?q=992%20N.E.2d%20987\">992 N.E.2d 987</extracted-citation>.</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Petition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

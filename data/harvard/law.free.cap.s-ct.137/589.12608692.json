@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"589\" lastpage=\"589\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SYSTEMS, INC., petitioner,<br/> v.<br/> NORDOCK, INC.</parties>\n<docketnumber id=\"p-2\">No. 15-978.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Dec. 12, 2016.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">On petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of <em>Samsung Electronics Co. v. Apple Inc.,</em> 580 U.S. ----, <extracted-citation case-ids=\"12607884\" index=\"0\" url=\"https://cite.case.law/s-ct/137/429/\">137 S.Ct. 429</extracted-citation>, --- L.E.2d ---- (2016).</p></opinion></casebody>\n</body></html>"
+  }
+}

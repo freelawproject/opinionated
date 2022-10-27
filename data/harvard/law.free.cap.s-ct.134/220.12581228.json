@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"220\" lastpage=\"221\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Randall Jay DUGAN, petitioner,<br/> v.<br/> MONTANA.</parties>\n<docketnumber id=\"p-2\">No. 13-13.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Oct. 7, 2013.</decisiondate>\n<p id=\"p-5\">Case below, <extracted-citation case-ids=\"3758679\" index=\"0\" url=\"https://cite.case.law/mont/369/39/\">369 Mont. 39</extracted-citation>, <extracted-citation case-ids=\"3758679\" index=\"1\" url=\"https://cite.case.law/mont/369/39/\">303 P.3d 755</extracted-citation>.</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"221\" href=\"#p221\" id=\"p221\">*221</a>Petition for writ of certiorari to the Supreme Court of Montana denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

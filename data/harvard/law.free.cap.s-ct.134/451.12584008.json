@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"451\" lastpage=\"451\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Joe MENDEZ, petitioner,<br/> v.<br/> ILLINOIS.</parties>\n<docketnumber id=\"p-2\">No. 13-6152.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Oct. 15, 2013.</decisiondate>\n<p id=\"p-5\">Case below, <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=369%20Ill.%20Dec.%2061\">369 Ill.Dec. 61</extracted-citation>, <extracted-citation index=\"1\" url=\"https://cite.case.law/citations/?q=985%20N.E.2d%201047\">985 N.E.2d 1047</extracted-citation>.</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Petition for writ of certiorari to the Appellate Court of Illinois, Fourth District, denied.</p></opinion></casebody>\n</body></html>"
+  }
+}

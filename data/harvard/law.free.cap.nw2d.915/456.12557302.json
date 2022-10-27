@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"456\" lastpage=\"456\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Andrew T. MURPHY, Petitioner-Appellant,<br/> v.<br/> STATE of Wisconsin EMPLOYMENT RELATIONS COMMISSION, Chancellor Rebecca Blank and The Board of Regents of the University of Wisconsin, Respondents-Respondents.</parties>\n<docketnumber id=\"p-2\">Appeal No. 2017AP1488</docketnumber>\n<court id=\"p-3\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-4\">DATED AND FILED March 22, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion></casebody></body></html>"
+  }
+}

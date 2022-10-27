@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"201\" lastpage=\"201\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Jose RIVERA, petitioner,<br/> v.<br/> ILLINOIS.</parties>\n<docketnumber id=\"p-2\">No. 12-1492.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Oct. 7, 2013.</decisiondate>\n<p id=\"p-5\">Case below, <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=369%20Ill.%20Dec.%20321\">369 Ill.Dec. 321</extracted-citation>, <extracted-citation index=\"1\" url=\"https://cite.case.law/citations/?q=986%20N.E.2d%20634\">986 N.E.2d 634</extracted-citation>.</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Petition for writ of certiorari to the Supreme Court of Illinois denied.</p></opinion></casebody>\n</body></html>"
+  }
+}
