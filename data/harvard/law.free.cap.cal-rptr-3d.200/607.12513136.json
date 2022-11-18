@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"607\" lastpage=\"607\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">The People, Plaintiff and Respondent,<br/> v.<br/> Jorge Gonzalez et al., Defendants and Appellants.</parties>\n<docketnumber id=\"p-2\">B255375</docketnumber>\n<court id=\"p-3\">Court of Appeal, Second District, California.</court>\n<decisiondate id=\"p-4\">Filed March 30, 2016</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"607\" lastpage=\"607\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">The People, Plaintiff and Respondent,<br/> v.<br/> Jorge Gonzalez et al., Defendants and Appellants.</parties>\n<docketnumber id=\"p-2\">B255375</docketnumber>\n<court id=\"p-3\">Court of Appeal, Second District, California.</court>\n<decisiondate id=\"p-4\">Filed March 30, 2016</decisiondate>\n<opinion type=\"majority\">No opinion found.</opinion>\n</casebody></body></html>"
+  }
+}
