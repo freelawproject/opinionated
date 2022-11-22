@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"872\" lastpage=\"872\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">California Building Industry Association, Plaintiff and Respondent<br/> v.<br/> Bay Area Air Quality Management District, Defendant and Appellant.</parties>\n<docketnumber id=\"p-2\">A135335<br/> A136212</docketnumber>\n<court id=\"p-3\">Court of Appeal, First District, California.</court>\n<decisiondate id=\"p-4\">Filed August 12, 2016</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"872\" lastpage=\"872\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">California Building Industry Association, Plaintiff and Respondent<br/> v.<br/> Bay Area Air Quality Management District, Defendant and Appellant.</parties>\n<docketnumber id=\"p-2\">A135335<br/> A136212</docketnumber>\n<court id=\"p-3\">Court of Appeal, First District, California.</court>\n<decisiondate id=\"p-4\">Filed August 12, 2016</decisiondate>\n<opinion type=\"majority\">No opinion found.</opinion>\n</casebody></body></html>"
+  }
+}
