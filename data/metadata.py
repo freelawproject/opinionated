@@ -19,7 +19,7 @@ def update_metadata_file(options: Dict[str, str]):
     file_list = glob(f"data/{repo}/*/*.json")
     file_list = [file.replace("data/harvard/", "") for file in file_list]
 
-    metadata_file["files"] = file_list
+    metadata_file["files"] = sorted(file_list)
 
     with open(f"data/{repo}/missing-files.json", "w", encoding="utf8") as file:
         json.dump(metadata_file, file, indent=4)
