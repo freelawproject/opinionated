@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"1111\" lastpage=\"1111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Michael R. HOFFMAN, petitioner,<br/> v.<br/> DISCIPLINARY BOARD OF THE SUPREME COURT OF NORTH DAKOTA.</parties>\n<docketnumber id=\"p-2\">No. 13-515.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Dec. 16, 2013.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition for writ of certiorari to the Supreme Court of Dakota denied.</p></opinion>\n</casebody></body></html>"
+  }
+}
