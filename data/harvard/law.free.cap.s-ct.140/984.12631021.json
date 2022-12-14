@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"984\" lastpage=\"984\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Frederick GARCIA-CRUZ, Petitioner,<br/> v.<br/> UNITED STATES.</parties>\n<docketnumber id=\"p-2\">No. 19-6755</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States.</court>\n<decisiondate id=\"p-4\">January 27, 2020</decisiondate>\n\n\n<attorneys id=\"p-7\">I dissent for the reasons set out in <em>Brown v. United States</em> , 586 U.S. ----, <extracted-citation case-ids=\"12618957\" index=\"0\" url=\"https://cite.case.law/s-ct/139/14/\">139 S.Ct. 14</extracted-citation>, <extracted-citation case-ids=\"12622506,12622507,12622508,12618957,12622511\" index=\"1\" url=\"https://cite.case.law/l-ed-2d/202/302/\">202 L.Ed.2d 302</extracted-citation> (2018) ( Sotomayor, J., dissenting).</attorneys>\n<opinion type=\"majority\"><p id=\"p-5\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p><p id=\"p-6\">Justice Sotomayor, with whom Justice Ginsburg joins, dissenting from the denial of certiorari:</p></opinion>\n</casebody>\n</body></html>"
+  }
+}

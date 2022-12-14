@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"102\" lastpage=\"102\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Steve CHABOT, et al., Appellants,<br/> v.<br/> OHIO A. PHILIP RANDOLPH INSTITUTE, et al.</parties>\n<docketnumber id=\"p-2\">No. 19-110</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States.</court>\n<decisiondate id=\"p-4\">October 7, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Motion of Stephen M. Shapiro for leave to file a brief as <em>amicus curiae</em> granted. Judgment vacated, and cases remanded to the United States District Court for the Southern District of Ohio for further consideration in light of <em>Rucho</em> v. <em>Common Cause</em> , 588 U.S. ----, <extracted-citation case-ids=\"12620816\" index=\"0\" url=\"https://cite.case.law/s-ct/139/2484/\">139 S.Ct. 2484</extracted-citation>, <extracted-citation case-ids=\"12620816\" index=\"1\" url=\"https://cite.case.law/s-ct/139/2484/\">204 L.Ed.2d 931</extracted-citation> (2019).</p></opinion>\n</casebody>\n</body></html>"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"1231\" lastpage=\"1232\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Torrence ALLEN, petitioner,<br/> v.<br/> UNITED STATES.</parties>\n<docketnumber id=\"p-2\">No. 18-7421.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Feb. 19, 2019.</decisiondate>\n\n<attorneys id=\"p-6\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"1232\" href=\"#p1232\" id=\"p1232\">*1232</a>I dissent for the reasons set out in <em>Brown v. United States,</em> 586 U.S.----, --- S.Ct. ----, ---L.Ed.2d ---- (2018) (Sotomayor, J., dissenting).</attorneys>\n<opinion type=\"majority\"><p id=\"p-5\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied. Justice SOTOMAYOR, with whom Justice GINSBURG joins, dissenting from the denial of certiorari;</p></opinion>\n</casebody></body></html>"
+  }
+}

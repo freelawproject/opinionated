@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"1259\" lastpage=\"1259\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">BANK OF AMERICA CORPORATION, et al., Petitioners,<br/> v.<br/> CITY OF MIAMI, FLORIDA ;</parties>\n<docketnumber id=\"p-2\">No. 19-675.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States.</court>\n<decisiondate id=\"p-4\">March 2, 2020</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">The Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit is granted. The judgment of the United States Court of Appeals for the Eleventh Circuit is vacated as moot. See <em>United States v. Munsingwear, Inc.</em> , <extracted-citation case-ids=\"6930686\" index=\"0\" url=\"https://cite.case.law/us/340/36/\">340 U.S. 36</extracted-citation>, <extracted-citation case-ids=\"6930686\" index=\"1\" url=\"https://cite.case.law/us/340/36/\">71 S.Ct. 104</extracted-citation>, <extracted-citation index=\"2\" url=\"https://cite.case.law/citations/?q=95%20L.%20Ed.%2036\">95 L.Ed. 36</extracted-citation> (1950)</p></opinion>\n</casebody>\n</body></html>"
+  }
+}

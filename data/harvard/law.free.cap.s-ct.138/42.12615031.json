@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"42\" lastpage=\"42\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Donald J. TRUMP, President of the United States, et al., petitioners,<br/> v.<br/> INTERNATIONAL REFUGEE ASSISTANCE PROJECT, et al.</parties>\n<docketnumber id=\"p-2\">No. 16-1436.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Aug. 24, 2017.</decisiondate>\n<p id=\"p-5\">Further consideration of motion of respondents Hawaii, et al. to add John Doe as a party to No. 16-1540 is deferred to the hearing of the case on the merits.</p>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"
+  }
+}
