@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"160\" lastpage=\"160\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">COMMONWEALTH<br/> v.<br/> Jeremy ALICEA.</parties>\n<docketnumber id=\"p-2\">17-P-1517</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n<decisiondate id=\"p-4\">Entered: March 27, 2019</decisiondate>\n<p id=\"p-5\">Judgments affirmed.</p>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"160\" lastpage=\"160\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">COMMONWEALTH<br/> v.<br/> Jeremy ALICEA.</parties>\n<docketnumber id=\"p-2\">17-P-1517</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n<decisiondate id=\"p-4\">Entered: March 27, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Judgments affirmed.</p></opinion>\n</casebody></body></html>"
+  }
+}

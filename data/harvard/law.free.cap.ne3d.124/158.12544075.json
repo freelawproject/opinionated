@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"158\" lastpage=\"158\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">John DOE, Sex Offender Board No. 390998<br/> v.<br/> SEX OFFENDER REGISTRY BOARD.</parties>\n<docketnumber id=\"p-2\">17-P-1269</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n<decisiondate id=\"p-4\">Entered: March 11, 2019</decisiondate>\n<p id=\"p-5\">Judgment affirmed.</p>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"158\" lastpage=\"158\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">John DOE, Sex Offender Board No. 390998<br/> v.<br/> SEX OFFENDER REGISTRY BOARD.</parties>\n<docketnumber id=\"p-2\">17-P-1269</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n<decisiondate id=\"p-4\">Entered: March 11, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Judgment affirmed.</p></opinion>\n</casebody></body></html>"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1137\" lastpage=\"1137\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Kenneth MOATS, Sr., petitioner,<br/> v.<br/> WEST VIRGINIA DEPARTMENT OF TRANSPORTATION.</parties>\n<docketnumber id=\"p-2\">No. 13-7091.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Jan. 13, 2014.</decisiondate>\n<attorneys id=\"p-5\">Petition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied.</attorneys>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"
+    "data": "<html><body><casebody firstpage=\"1137\" lastpage=\"1137\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Kenneth MOATS, Sr., petitioner,<br/> v.<br/> WEST VIRGINIA DEPARTMENT OF TRANSPORTATION.</parties>\n<docketnumber id=\"p-2\">No. 13-7091.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Jan. 13, 2014.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied.</p></opinion>\n</casebody></body></html>"
   }
 }

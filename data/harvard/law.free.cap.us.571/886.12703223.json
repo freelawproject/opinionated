@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"886\" lastpage=\"886\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SNFA, petitioner,<br/> v.<br/> John RUSSELL, as Executor of the Estate of Michael Russell, Deceased.</parties>\n<docketnumber id=\"p-2\">No. 13-104.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Oct. 7, 2013.</decisiondate>\n<attorneys id=\"p-5\">Petition for writ of certiorari to the Supreme Court of Appeals of Illinois denied.</attorneys>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"
+    "data": "<html><body><casebody firstpage=\"886\" lastpage=\"886\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SNFA, petitioner,<br/> v.<br/> John RUSSELL, as Executor of the Estate of Michael Russell, Deceased.</parties>\n<docketnumber id=\"p-2\">No. 13-104.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Oct. 7, 2013.</decisiondate>\n<attorneys id=\"p-5\">Petition for writ of certiorari to the Supreme Court of Appeals of Illinois denied.</attorneys>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/us/571/886/12703223/\">Click here to view source material.</a></p></opinion></casebody></body></html>"
   }
 }

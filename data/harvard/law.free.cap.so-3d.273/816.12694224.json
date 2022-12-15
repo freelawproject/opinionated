@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"816\" lastpage=\"816\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">ALABAMA STATE PERSONNEL BOARD<br/> v.<br/> Sherryl PALMORE</parties>\n<docketnumber id=\"p-2\">2170090</docketnumber>\n<court id=\"p-3\">Court of Civil Appeals of Alabama.</court>\n<decisiondate id=\"p-4\">August 3, 2018<br/> Certiorari Denied September 14, 2018</decisiondate>\n<p id=\"p-5\">Alabama Supreme Court 1171069</p>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"816\" lastpage=\"816\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">ALABAMA STATE PERSONNEL BOARD<br/> v.<br/> Sherryl PALMORE</parties>\n<docketnumber id=\"p-2\">2170090</docketnumber>\n<court id=\"p-3\">Court of Civil Appeals of Alabama.</court>\n\n<p id=\"p-5\">Alabama Supreme Court 1171069</p>\n<opinion type=\"majority\"><p id=\"p-4\">August 3, 2018<br/> Certiorari Denied September 14, 2018</p></opinion>\n</casebody></body></html>"
+  }
+}
