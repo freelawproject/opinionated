@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"718\" lastpage=\"718\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<otherdate id=\"b746-9\">Submitted May 15, 1944;</otherdate>\n<decisiondate id=\"A9_\">decided May 25, 1944.</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"718\" lastpage=\"718\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<otherdate id=\"b746-9\">Submitted May 15, 1944;</otherdate>\n<decisiondate id=\"A9_\">decided May 25, 1944.</decisiondate>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/pdf/2060781/In%20re%20the%20Claim%20of%20Smith,%20292%20N.Y.%20718%20(1944).pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"632\" lastpage=\"632\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b678-14\">In the Matter of Frank E. Merriweather, Respondent, against Carroll J. Roberts et al., as Members of the Board of Health of the City of Buffalo, et al., Appellants.</parties>\n<otherdate id=\"AdFe\">(Submitted September 30, 1935;</otherdate>\n<decisiondate id=\"Afo\">decided October 8, 1935.)</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"632\" lastpage=\"632\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b678-14\">In the Matter of Frank E. Merriweather, Respondent, against Carroll J. Roberts et al., as Members of the Board of Health of the City of Buffalo, et al., Appellants.</parties>\n<otherdate id=\"AdFe\">(Submitted September 30, 1935;</otherdate>\n<decisiondate id=\"Afo\">decided October 8, 1935.)</decisiondate>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/pdf/2016487/Merriweather%20v.%20Roberts,%20268%20N.Y.%20632%20(1935).pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+  }
+}

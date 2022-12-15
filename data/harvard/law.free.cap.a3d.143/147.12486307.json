@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"147\" lastpage=\"147\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Sadie M. CASTRUCCIO<br/> v.<br/> The ESTATE OF Peter Adalbert CASTRUCCIO, et al.</parties>\n<docketnumber id=\"p-2\">No. 1665, Sept. Term, 2014.</docketnumber>\n<court id=\"p-3\">Court of Special Appeals of Maryland.</court>\n<decisiondate id=\"p-4\">July 28, 2016.</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"147\" lastpage=\"147\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Sadie M. CASTRUCCIO<br/> v.<br/> The ESTATE OF Peter Adalbert CASTRUCCIO, et al.</parties>\n<docketnumber id=\"p-2\">No. 1665, Sept. Term, 2014.</docketnumber>\n<court id=\"p-3\">Court of Special Appeals of Maryland.</court>\n<decisiondate id=\"p-4\">July 28, 2016.</decisiondate>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/a3d/143/147/12486307/\">Click here to view source material.</a></p></opinion></casebody></body></html>"
+  }
+}

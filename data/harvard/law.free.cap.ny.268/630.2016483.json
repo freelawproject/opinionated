@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"630\" lastpage=\"630\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b676-9\">John Byrne et al., Copartners, under the Firm Name of Byrne &amp; Bowman, Appellants, <em>v. </em>Thomas F. Barrett, Respondent.</parties>\n<otherdate id=\"b676-10\">(Submitted September 30, 1935;</otherdate>\n<decisiondate id=\"ADUs\">decided October 8, 1935.)</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"630\" lastpage=\"630\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b676-9\">John Byrne et al., Copartners, under the Firm Name of Byrne &amp; Bowman, Appellants, <em>v. </em>Thomas F. Barrett, Respondent.</parties>\n<otherdate id=\"b676-10\">(Submitted September 30, 1935;</otherdate>\n<decisiondate id=\"ADUs\">decided October 8, 1935.)</decisiondate>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/pdf/2016483/Byrne%20v.%20Barrett,%20268%20N.Y.%20630%20(1935).pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+  }
+}

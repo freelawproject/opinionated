@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"345\" lastpage=\"345\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF: A.R.-V.</parties>\n<docketnumber id=\"p-2\">No. COA18-584</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: May 21, 2019</decisiondate>\n<history id=\"p-5\">Appeal by juvenile from order entered 18 January 2018 by Judge Susan Dotson-Smith in Buncombe County District Court. Heard in the Court of Appeals 23 April 2019. Buncombe County, No. 17 JB 211.</history>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"345\" lastpage=\"345\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF: A.R.-V.</parties>\n<docketnumber id=\"p-2\">No. COA18-584</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: May 21, 2019</decisiondate>\n<history id=\"p-5\">Appeal by juvenile from order entered 18 January 2018 by Judge Susan Dotson-Smith in Buncombe County District Court. Heard in the Court of Appeals 23 April 2019. Buncombe County, No. 17 JB 211.</history>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/se2d/827/345/12654304/\">Click here to view source material.</a></p></opinion></casebody></body></html>"
+  }
+}

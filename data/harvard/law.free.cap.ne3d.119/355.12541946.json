@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"355\" lastpage=\"355\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">COMMONWEALTH<br/> v.<br/> Antonio O. DIAS, Jr.<footnotemark>1</footnotemark></parties>\n<docketnumber id=\"p-2\">18-P-681</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n<decisiondate id=\"p-4\">Entered: December 7, 2018.</decisiondate>\n<footnote label=\"1\">\n<p id=\"p-7\">We note that the criminal complaints also list the defendant's name as Antonio Dias and Antonio O. Dias.</p>\n</footnote>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"355\" lastpage=\"355\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">COMMONWEALTH<br/> v.<br/> Antonio O. DIAS, Jr.<footnotemark>1</footnotemark></parties>\n<docketnumber id=\"p-2\">18-P-681</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n<decisiondate id=\"p-4\">Entered: December 7, 2018.</decisiondate>\n<footnote label=\"1\">\n<p id=\"p-7\">We note that the criminal complaints also list the defendant's name as Antonio Dias and Antonio O. Dias.</p>\n</footnote>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/ne3d/119/355/12541946/\">Click here to view source material.</a></p></opinion></casebody></body></html>"
+  }
+}

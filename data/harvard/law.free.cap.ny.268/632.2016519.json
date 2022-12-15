@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"632\" lastpage=\"632\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b678-8\">In the Matter of Thomas O\u2019Keefe, Respondent, against Joseph H. Wilson, as Warden of Great Meadow Prison, Appellant.</parties>\n<otherdate id=\"b678-9\">(Submitted September 30, 1935;</otherdate>\n<decisiondate id=\"A0Wp\">decided October 8, 1935.)</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"632\" lastpage=\"632\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b678-8\">In the Matter of Thomas O\u2019Keefe, Respondent, against Joseph H. Wilson, as Warden of Great Meadow Prison, Appellant.</parties>\n<otherdate id=\"b678-9\">(Submitted September 30, 1935;</otherdate>\n<decisiondate id=\"A0Wp\">decided October 8, 1935.)</decisiondate>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/pdf/2016519/O'Keefe%20v.%20Wilson,%20268%20N.Y.%20632%20(1935).pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+  }
+}

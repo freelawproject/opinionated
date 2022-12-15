@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"921\" lastpage=\"921\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b959-12\">Sophie Szatmary, Respondent, <em>v. </em>Brick Supply and Contracting Company, Inc., et al., Appellants, et al., Defendants.</parties>\n<otherdate id=\"A_3\">Submitted February 21, 1949;</otherdate>\n<decisiondate id=\"Ajf\">decided March 3, 1949.</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"921\" lastpage=\"921\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b959-12\">Sophie Szatmary, Respondent, <em>v. </em>Brick Supply and Contracting Company, Inc., et al., Appellants, et al., Defendants.</parties>\n<otherdate id=\"A_3\">Submitted February 21, 1949;</otherdate>\n<decisiondate id=\"Ajf\">decided March 3, 1949.</decisiondate>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/pdf/2074436/Szatmary%20v.%20Brick%20Supply%20&amp;%20Contracting%20Co.,%20298%20N.Y.%20921%20(1949).pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+  }
+}
