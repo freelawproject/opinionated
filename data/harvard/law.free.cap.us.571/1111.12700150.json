@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"1111\" lastpage=\"1111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Andrew MOSS, petitioner,<br/> v.<br/> NEW YORK.</parties>\n<docketnumber id=\"p-2\">No. 13-5592.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Dec. 16, 2013.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"824\" href=\"#p824\" id=\"p824\">*824</a>Petition for writ of certiorari to the Court of Appeal of New York denied.</p></opinion>\n</casebody></body></html>"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"1\" lastpage=\"1\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">UNITED STATES, et al., Applicants<br/> v.<br/> U.S. DISTRICT COURT FOR DISTRICT OF OREGON.</parties>\n<docketnumber id=\"p-2\">No. 18A65.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">July 30, 2018.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">The application for stay presented to Justice Kennedy and by him referred to the Court is denied.</p><p id=\"p-6\">The Government's request for relief is premature and is denied without prejudice. The breadth of respondents' claims is striking, however, and the justiciability of those claims presents substantial grounds for difference of opinion. The District Court should take these concerns into account in assessing the burdens of discovery and trial, as well as the desirability of a prompt ruling on the Government's pending dispositive motions.</p></opinion>\n</casebody></body></html>"
+  }
+}

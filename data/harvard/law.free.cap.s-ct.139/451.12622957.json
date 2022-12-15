@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"451\" lastpage=\"451\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Curtis Giovanni FLOWERS, petitioner,<br/> v.<br/> MISSISSIPPI.</parties>\n<docketnumber id=\"p-2\">No. 17-9572.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Nov. 2, 2018.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Motion of petitioner for leave to proceed <em>in forma pauperis</em> granted. Petition for writ of certiorari to the Supreme Court of Mississippi granted limited to the following question: Whether the Mississippi Supreme Court erred in how it applied <em>Batson v. Kentucky,</em> <extracted-citation case-ids=\"12787\" index=\"0\" url=\"https://cite.case.law/us/476/79/\">476 U.S. 79</extracted-citation>, <extracted-citation case-ids=\"12787\" index=\"1\" url=\"https://cite.case.law/us/476/79/\">106 S.Ct. 1712</extracted-citation>, <extracted-citation case-ids=\"12787\" index=\"2\" url=\"https://cite.case.law/us/476/79/\">90 L.Ed.2d 69</extracted-citation> (1986), in this case.</p></opinion>\n</casebody>\n</body></html>"
+  }
+}

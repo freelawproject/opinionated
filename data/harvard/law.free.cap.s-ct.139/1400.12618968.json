@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"1400\" lastpage=\"1400\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Anthony BOYD, petitioner,<br/> v.<br/> Joe D. DRIVER, et al.</parties>\n<docketnumber id=\"p-2\">No. 18-8114.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">March 25, 2019.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p></opinion>\n</casebody></body></html>"
+  }
+}

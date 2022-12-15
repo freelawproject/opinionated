@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"1337\" lastpage=\"1337\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">CITY OF SAN DIEGO, CALIFORNIA, petitioner,<br/> v.<br/> PUBLIC EMPLOYMENT RELATIONS BOARD.</parties>\n<docketnumber id=\"p-2\">No. 18-910.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">March 18, 2019.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Motion of Pacific Legal Foundation for leave to file a brief as <em>amicus curiae</em> granted. Petition for writ of certiorari to the Supreme Court of California denied.</p></opinion>\n</casebody></body></html>"
+  }
+}
