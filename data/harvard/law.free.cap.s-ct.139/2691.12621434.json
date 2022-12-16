@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"2691\" lastpage=\"2692\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Dustin DRESSNER, petitioner,<br/> v.<br/> LOUISIANA.</parties>\n<docketnumber id=\"p-2\">No. 18-7693.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">June 10, 2019.</decisiondate>\n<attorneys id=\"p-5\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"2692\" href=\"#p2692\" id=\"p2692\">*2692</a>Petition for writ of certiorari to the Supreme Court of Louisiana denied.</attorneys>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"
+    "data": "<html><body><casebody firstpage=\"2691\" lastpage=\"2692\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Dustin DRESSNER, petitioner,<br/> v.<br/> LOUISIANA.</parties>\n<docketnumber id=\"p-2\">No. 18-7693.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">June 10, 2019.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"2692\" href=\"#p2692\" id=\"p2692\">*2692</a>Petition for writ of certiorari to the Supreme Court of Louisiana denied.</p></opinion>\n</casebody></body></html>"
   }
 }
