@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"264\" lastpage=\"264\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SEABOLT<br/> v.<br/> NORRIS.</parties>\n<docketnumber id=\"p-2\">No. S15A1692.</docketnumber>\n<court id=\"p-3\">Supreme Court of Georgia.</court>\n<decisiondate id=\"p-4\">Feb. 1, 2016.</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"264\" lastpage=\"264\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SEABOLT<br/> v.<br/> NORRIS.</parties>\n<docketnumber id=\"p-2\">No. S15A1692.</docketnumber>\n<court id=\"p-3\">Supreme Court of Georgia.</court>\n<decisiondate id=\"p-4\">Feb. 1, 2016.</decisiondate>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/se2d/782/264/\">Click here to view source material.</a></p></opinion></casebody></body></html>"
+  }
+}

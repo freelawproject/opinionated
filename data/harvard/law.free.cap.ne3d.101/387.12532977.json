@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"387\" lastpage=\"387\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">LOBELLO<br/> v.<br/> NEW YORK CENT. MUT. FIRE INS. CO.</parties>\n<court id=\"p-2\">Court of Appeals of New York.</court>\n<decisiondate id=\"p-3\">Decided January 30, 2018</decisiondate>\n<p id=\"p-4\">4th Dept: <extracted-citation case-ids=\"12293203\" index=\"0\" url=\"https://cite.case.law/ad3d/152/1206/\">152 AD3d 1206</extracted-citation></p>\n<history id=\"p-5\">Appeal withdrawn.</history>\n<opinion type=\"majority\"></opinion>\n</casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"387\" lastpage=\"387\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">LOBELLO<br/> v.<br/> NEW YORK CENT. MUT. FIRE INS. CO.</parties>\n<court id=\"p-2\">Court of Appeals of New York.</court>\n<decisiondate id=\"p-3\">Decided January 30, 2018</decisiondate>\n<p id=\"p-4\">4th Dept: <extracted-citation case-ids=\"12293203\" index=\"0\" url=\"https://cite.case.law/ad3d/152/1206/\">152 AD3d 1206</extracted-citation></p>\n<history id=\"p-5\">Appeal withdrawn.</history>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/ne3d/101/387/12532977/\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+  }
+}

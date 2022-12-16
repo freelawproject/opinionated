@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"632\" lastpage=\"632\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b678-11\">Sparkill Realty Corporation et al., Respondents, <em>v. </em>The State of New York, Appellant.</parties>\n<docketnumber id=\"Ah0\">(Claim No. 19587.)</docketnumber>\n<otherdate id=\"b678-12\">(Submitted September 30, 1935;</otherdate>\n<decisiondate id=\"AqaO\">decided October 8, 1935.)</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"632\" lastpage=\"632\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b678-11\">Sparkill Realty Corporation et al., Respondents, <em>v. </em>The State of New York, Appellant.</parties>\n\n<otherdate id=\"b678-12\">(Submitted September 30, 1935;</otherdate>\n<decisiondate id=\"AqaO\">decided October 8, 1935.)</decisiondate>\n<opinion type=\"majority\"><p id=\"Ah0\">(Claim No. 19587.)</p></opinion>\n</casebody>\n</body></html>"
+  }
+}

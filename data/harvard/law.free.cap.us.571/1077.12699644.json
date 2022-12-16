@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1077\" lastpage=\"1077\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Clarence RANDOLPH, Jr., petitioner,<br/> v.<br/> LOUISIANA; and Clarence Randolph, Jr., petitioner<br/> v.<br/> Louisiana.</parties>\n<docketnumber id=\"p-2\">No. 13-6514.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Dec. 2, 2013.</decisiondate>\n<attorneys id=\"p-5\">Petition for writ of certiorari to the Supreme Court of Louisiana denied.</attorneys>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"
+    "data": "<html><body><casebody firstpage=\"1077\" lastpage=\"1077\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Clarence RANDOLPH, Jr., petitioner,<br/> v.<br/> LOUISIANA; and Clarence Randolph, Jr., petitioner<br/> v.<br/> Louisiana.</parties>\n<docketnumber id=\"p-2\">No. 13-6514.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Dec. 2, 2013.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition for writ of certiorari to the Supreme Court of Louisiana denied.</p></opinion>\n</casebody></body></html>"
   }
 }

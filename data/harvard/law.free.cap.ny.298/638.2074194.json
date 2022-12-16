@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"638\" lastpage=\"639\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b676-7\">Laurie J. Carpenter, Appellant, <em>v. </em>State of New York, Respondent.</parties>\n<docketnumber id=\"At0\">(Claim No. 28296.)</docketnumber>\n<otherdate id=\"A3p\">Submitted October 4, 1948;</otherdate>\n<decisiondate id=\"AvlY\">decided October 7, 1948.</decisiondate>\n<attorneys id=\"b676-11\"><em>Nathaniel L. Goldstein, Attorney-General (Wortley B. Paul </em>of counsel), for motion.</attorneys>\n<attorneys id=\"b676-12\"><em>Laurie J. Carpenter, </em>in person, opposed.</attorneys>\n<opinion type=\"majority\"></opinion>\n</casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"638\" lastpage=\"639\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b676-7\">Laurie J. Carpenter, Appellant, <em>v. </em>State of New York, Respondent.</parties>\n\n<otherdate id=\"A3p\">Submitted October 4, 1948;</otherdate>\n<decisiondate id=\"AvlY\">decided October 7, 1948.</decisiondate>\n<attorneys id=\"b676-11\"><em>Nathaniel L. Goldstein, Attorney-General (Wortley B. Paul </em>of counsel), for motion.</attorneys>\n<attorneys id=\"b676-12\"><em>Laurie J. Carpenter, </em>in person, opposed.</attorneys>\n<opinion type=\"majority\"><p id=\"At0\">(Claim No. 28296.)</p></opinion>\n</casebody>\n</body></html>"
+  }
+}

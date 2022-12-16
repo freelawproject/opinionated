@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"65\" lastpage=\"65\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Luke W. REESE, Appellant-Defendant,<br/> v.<br/> STATE of Indiana, Appellee-Plaintiff.</parties>\n<docketnumber id=\"p-2\">Court of Appeals Case No. 18A-CR-2051</docketnumber>\n<court id=\"p-3\">Court of Appeals of Indiana.</court>\n<decisiondate id=\"p-4\">FILED May 22, 2019</decisiondate>\n<p id=\"p-5\"><strong><em>Unpublished Memorandum Decision</em></strong></p>\n<p id=\"p-6\">Judgment affirmed.</p>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"65\" lastpage=\"65\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Luke W. REESE, Appellant-Defendant,<br/> v.<br/> STATE of Indiana, Appellee-Plaintiff.</parties>\n<docketnumber id=\"p-2\">Court of Appeals Case No. 18A-CR-2051</docketnumber>\n<court id=\"p-3\">Court of Appeals of Indiana.</court>\n<decisiondate id=\"p-4\">FILED May 22, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong><em>Unpublished Memorandum Decision</em></strong></p><p id=\"p-6\">Judgment affirmed.</p></opinion>\n</casebody></body></html>"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"2624\" lastpage=\"2624\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Salim Abdu GOULD, petitioner,<br/> v.<br/> NORTH CAROLINA.</parties>\n<docketnumber id=\"p-2\">No. 18-8777.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">May 20, 2019.</decisiondate>\n<attorneys id=\"p-5\">Petition for writ of certiorari to the Supreme Court of North Carolina denied.</attorneys>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"
+    "data": "<html><body><casebody firstpage=\"2624\" lastpage=\"2624\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Salim Abdu GOULD, petitioner,<br/> v.<br/> NORTH CAROLINA.</parties>\n<docketnumber id=\"p-2\">No. 18-8777.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">May 20, 2019.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition for writ of certiorari to the Supreme Court of North Carolina denied.</p></opinion>\n</casebody></body></html>"
   }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"665\" lastpage=\"665\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b711-9\">Joseph A. Broderick, as Superintendent of Banks of the State of New York, Respondent, <em>v. </em>Max Aaron et al., Defendants, and Abe Kessler et al., Appellants.</parties>\n<otherdate id=\"AXB\">(Submitted September 30, 1935;</otherdate>\n<decisiondate id=\"AtQQ\">decided October 15, 1935.)</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"665\" lastpage=\"665\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b711-9\">Joseph A. Broderick, as Superintendent of Banks of the State of New York, Respondent, <em>v. </em>Max Aaron et al., Defendants, and Abe Kessler et al., Appellants.</parties>\n<otherdate id=\"AXB\">(Submitted September 30, 1935;</otherdate>\n<decisiondate id=\"AtQQ\">decided October 15, 1935.)</decisiondate>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/pdf/2016431/Broderick%20v.%20Aaron,%20268%20N.Y.%20665%20(1935).pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+  }
+}

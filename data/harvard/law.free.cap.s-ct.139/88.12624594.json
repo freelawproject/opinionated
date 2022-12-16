@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"88\" lastpage=\"88\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MORSY E., petitioner,<br/> v.<br/> COMMISSIONER, CONNECTICUT DEPARTMENT OF CHILDREN AND FAMILIES.</parties>\n<docketnumber id=\"p-2\">No. 17-1549.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Oct. 1, 2018.</decisiondate>\n<attorneys id=\"p-5\">Petition for writ of certiorari to the Supreme Court of Connecticut denied.</attorneys>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"
+    "data": "<html><body><casebody firstpage=\"88\" lastpage=\"88\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MORSY E., petitioner,<br/> v.<br/> COMMISSIONER, CONNECTICUT DEPARTMENT OF CHILDREN AND FAMILIES.</parties>\n<docketnumber id=\"p-2\">No. 17-1549.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Oct. 1, 2018.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition for writ of certiorari to the Supreme Court of Connecticut denied.</p></opinion>\n</casebody></body></html>"
   }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"664\" lastpage=\"664\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b710-10\">Dorothy Ford, as Administratrix of the Estate of Dennis Ford, Deceased, Respondent, <em>v. </em>The Grand Union Company, Appellant.</parties>\n<otherdate id=\"b710-11\">(Submitted October 14, 1935;</otherdate>\n<decisiondate id=\"A4D\">decided October 15, 1935.)</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"664\" lastpage=\"664\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b710-10\">Dorothy Ford, as Administratrix of the Estate of Dennis Ford, Deceased, Respondent, <em>v. </em>The Grand Union Company, Appellant.</parties>\n<otherdate id=\"b710-11\">(Submitted October 14, 1935;</otherdate>\n<decisiondate id=\"A4D\">decided October 15, 1935.)</decisiondate>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/pdf/2016576/Ford%20v.%20Grand%20Union%20Co.,%20268%20N.Y.%20664%20(1935).pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+  }
+}

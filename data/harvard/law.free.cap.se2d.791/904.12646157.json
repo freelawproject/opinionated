@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">State of North Carolina<br/> v.<br/> Joshua Sanchez</parties>\n<docketnumber id=\"p-2\">No. COA15-1401</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: October 18, 2016</decisiondate>\n<p id=\"p-5\">NEW TRIAL.</p>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">State of North Carolina<br/> v.<br/> Joshua Sanchez</parties>\n<docketnumber id=\"p-2\">No. COA15-1401</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: October 18, 2016</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">NEW TRIAL.</p></opinion>\n</casebody></body></html>"
+  }
+}

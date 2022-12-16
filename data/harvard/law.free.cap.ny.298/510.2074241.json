@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"510\" lastpage=\"510\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b548-13\">The People of the State of New York, Respondent, <em>v. </em>Murray Winters, Appellant.</parties>\n<otherdate id=\"Acg\">Submitted June 1, 1948;</otherdate>\n<decisiondate id=\"A3LpU\">decided June 4, 1948.</decisiondate>\n<opinion type=\"majority\"></opinion>\n</casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"510\" lastpage=\"510\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b548-13\">The People of the State of New York, Respondent, <em>v. </em>Murray Winters, Appellant.</parties>\n<otherdate id=\"Acg\">Submitted June 1, 1948;</otherdate>\n<decisiondate id=\"A3LpU\">decided June 4, 1948.</decisiondate>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/pdf/2074241/People%20v.%20Winters,%20298%20N.Y.%20510%20(1948).pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+  }
+}

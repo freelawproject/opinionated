@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1088\" lastpage=\"1089\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE EX REL. Willie THOMAS<br/> v.<br/> STATE of Louisiana</parties>\n<docketnumber id=\"p-2\">NO. 2017-KH-0835</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">September 14, 2018</decisiondate>\n<p id=\"p-5\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"1089\" href=\"#p1089\" id=\"p1089\">*1089</a>Denied; moot. R.S. 15:574.4(H).</p>\n<opinion type=\"majority\"></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"1088\" lastpage=\"1089\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE EX REL. Willie THOMAS<br/> v.<br/> STATE of Louisiana</parties>\n<docketnumber id=\"p-2\">NO. 2017-KH-0835</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">September 14, 2018</decisiondate>\n<p id=\"p-5\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"1089\" href=\"#p1089\" id=\"p1089\">*1089</a>Denied; moot. R.S. 15:574.4(H).</p>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/so-3d/251/1088/12675656/\">Click here to view source material.</a></p></opinion></casebody></body></html>"
+  }
+}
