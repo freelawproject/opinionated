@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"487\" lastpage=\"487\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Matter of TRENTO,<br/> v.<br/> BURK</parties>\n<court id=\"p-2\">Court of Appeals of New York.</court>\n<decisiondate id=\"p-3\">Decided February 13, 2018</decisiondate>\n\n<footnote label=\"*\">\n\n</footnote>\n<opinion type=\"majority\"><p id=\"p-4\">denied<footnotemark>*</footnotemark></p><p id=\"p-7\">Motion for poor person relief dismissed as academic or denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"487\" lastpage=\"487\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Matter of TRENTO,<br/> v.<br/> BURK</parties>\n<court id=\"p-2\">Court of Appeals of New York.</court>\n<decisiondate id=\"p-3\">Decided February 13, 2018</decisiondate>\n\n<footnote label=\"*\">\n<attorneys id=\"p-7\">Motion for poor person relief dismissed as academic or denied.</attorneys>\n</footnote>\n<opinion type=\"majority\"><p id=\"p-4\">denied<footnotemark>*</footnotemark></p></opinion>\n</casebody></body></html>"
+  }
+}
