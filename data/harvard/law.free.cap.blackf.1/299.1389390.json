@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"299\" lastpage=\"299\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b315-11\">M\u2019Garrah <em>v. </em>Prather.</parties>\n\n<footnote label=\"(1)\">\n\n</footnote>\n<opinion><p id=\"b315-12\"><em>HELD, </em>that if a hill of interpleader do not contain an offer to bring the money into Court, the omission is a ground, of: demurrer <footnotemark>(1)</footnotemark>.</p><p id=\"b315-13\"> 1 Madd. Ch. 174, note z.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html><body><casebody firstpage=\"299\" lastpage=\"299\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b315-11\">M\u2019Garrah <em>v. </em>Prather.</parties>\n\n<footnote label=\"(1)\">\n<p id=\"b315-13\"> 1 Madd. Ch. 174, note z.</p>\n</footnote>\n<opinion><p id=\"b315-12\"><em>HELD, </em>that if a hill of interpleader do not contain an offer to bring the money into Court, the omission is a ground, of: demurrer <footnotemark>(1)</footnotemark>.</p></opinion></casebody>\n</body></html>"
+  }
+}
