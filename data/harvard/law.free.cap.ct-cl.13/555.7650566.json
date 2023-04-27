@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "13 Ct. Cl. 555"
-        },
-        {
-            "type": "parallel",
-            "cite": "96 U. S. R., 232"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "13 Ct. Cl. 555"
+    },
+    {
+      "type": "parallel",
+      "cite": "96 U. S. R., 232"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<headnotes data-order=\"0\" data-type=\"headnotes\" id=\"b567-7\">MORRISON\u2019S CASE.</headnotes>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b567-8\">(Ante p. 1;</p>\n<citation data-order=\"2\" data-type=\"citation\" id=\"AFT\">96 U. S. R., 232.)</citation>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b567-9\">John T. Morrison, appellee, <em>v. </em>The United States, aplpelants.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b567-11\">\n<em>On the defendants\u2019 Appeal.</em>\n</summary>\n<syllabus data-order=\"5\" data-type=\"summary\" id=\"b567-12\"><em>In June, </em>1875, <em>a first lieutenant of earalry is appointed, with the approval of the Secretary of War,'regimental quartermaster. Subsequently he is </em>\u201cassigned to duty as assistant commissary.\u201d <em>He discharges the duties of both, offices, quartermaster and commissary, but is paid only as regimental quartermaster. He claims the pay </em>o/f\u00a1100 <em>a year, given by the Revised Statutes </em>(\u00a7 1261) <em>to an acting assistant commissary, in addition to the pay of his rank. The defendants insist that the higher pay given to regimental </em>quartermasters, ($1,800, <em>instead </em>o/$l,600 <em>given to other first lieutenants) and the provision of the Army Regulations </em>(No. 1345) <em>prohibiting </em>\u201cpay for two staff appointments for the same time\u201d <em>constitute a defense.</em></syllabus>\n<syllabus data-order=\"6\" data-type=\"summary\" id=\"b567-13\">Tlie court \"below construes tlie statutes and Army Regulations applicable to tlie ease. (See ante, p. 1.) Judgment for tlie claimant. The defendants appeal.</syllabus>\n<syllabus data-order=\"7\" data-type=\"summary\" id=\"b567-14\">The. judgment of the court \"below is affirmed. The Supreme Court-now holds: (1) That a lieutenant in a cavalry regiment assigned to duty as regimental quartermaster and also performing the additional duty of regimental commissary is entitled to tlie additional compensation of $100 a year given hy Revised Statutes, \u00a7 1261; (2) That the Army regulation (\u00a7 1345) which provides that \u201c <em>no officer shall receive pay for two staff appointments at the same time\u201d </em>does not apply to a regimental quartermaster in the cavalry, whose pay as a staff officer is fixed by law.</syllabus>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b567-15\">Tlie Chief Justice</author>\n<p id=\"A2W\">delivered tbe opinion of tbe Supreme Court, February 18, 1878.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"812\" lastpage=\"812\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE the MARRIAGE OF: Sara Epps O'CONNOR, Petitioner and Appellant,<br/> and<br/> Brian David O'Connor, Respondent and Appellee.</parties>\n<docketnumber id=\"p-2\">DA 17-0474</docketnumber>\n<court id=\"p-3\">Supreme Court of Montana.</court>\n<decisiondate id=\"p-4\">Submitted on Briefs: February 14, 2018<br/> Decided: March 6, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"812\" lastpage=\"812\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE the MARRIAGE OF: Sara Epps O'CONNOR, Petitioner and Appellant,\n    <br/>\n    and\n    <br/>\n    Brian David O'Connor, Respondent and Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    DA 17-0474\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Montana.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted on Briefs: February 14, 2018\n    <br/>\n    Decided: March 6, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

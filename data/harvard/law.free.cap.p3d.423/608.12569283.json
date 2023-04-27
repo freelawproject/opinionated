@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"608\" lastpage=\"608\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">PENNYMAC HOLDINGS, LLC, f/k/a PennyMac Mortgage Investment Trust Holdings I, Appellant,<br/> v.<br/> FIDELITY NATIONAL INSURANCE COMPANY; and Fidelity National Title Agency of Nevada, Inc., Respondents.</parties>\n<docketnumber id=\"p-2\">No. 72538</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED JULY 30, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED IN PART. REVERSED IN PART. REMAND.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"608\" lastpage=\"608\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    PENNYMAC HOLDINGS, LLC, f/k/a PennyMac Mortgage Investment Trust Holdings I, Appellant,\n    <br/>\n    v.\n    <br/>\n    FIDELITY NATIONAL INSURANCE COMPANY; and Fidelity National Title Agency of Nevada, Inc., Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 72538\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED JULY 30, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED IN PART. REVERSED IN PART. REMAND.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

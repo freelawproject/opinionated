@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"131\" lastpage=\"131\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">TNHYIF REIV GOLF LLC<br/> v.<br/> FORREST COUNTY, Mississippi</parties>\n<docketnumber id=\"p-2\">2017-CT-00574-COA</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: April 9, 2019<br/> Closed: June 13, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Motion Desc: Petition for Writ of Certiorari.</p><p id=\"p-6\">Certiorari - Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"131\" lastpage=\"131\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    TNHYIF REIV GOLF LLC\n    <br/>\n    v.\n    <br/>\n    FORREST COUNTY, Mississippi\n   </parties>\n   <docketnumber id=\"p-2\">\n    2017-CT-00574-COA\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: April 9, 2019\n    <br/>\n    Closed: June 13, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Motion Desc: Petition for Writ of Certiorari.\n    </p>\n    <p id=\"p-6\">\n     Certiorari - Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

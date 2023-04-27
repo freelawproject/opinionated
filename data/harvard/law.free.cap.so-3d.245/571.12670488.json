@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"571\" lastpage=\"571\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">EX PARTE Jimmy Dean WALKER</parties>\n<docketnumber id=\"p-2\">1150635 (CR-14-1099)</docketnumber>\n<court id=\"p-3\">Supreme Court of Alabama.</court>\n<decisiondate id=\"p-4\">March 3, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Writ of cert. quashed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"571\" lastpage=\"571\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    EX PARTE Jimmy Dean WALKER\n   </parties>\n   <docketnumber id=\"p-2\">\n    1150635 (CR-14-1099)\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Alabama.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 3, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Writ of cert. quashed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

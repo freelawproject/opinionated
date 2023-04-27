@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1084\" lastpage=\"1084\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Jill Dorian DIGERONIMO<br/> v.<br/> James Julian BEARDEN</parties>\n<docketnumber id=\"p-2\">2170028</docketnumber>\n<court id=\"p-3\">Court of Civil Appeals of Alabama.</court>\n<decisiondate id=\"p-4\">January 19, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Reh. denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1084\" lastpage=\"1084\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Jill Dorian DIGERONIMO\n    <br/>\n    v.\n    <br/>\n    James Julian BEARDEN\n   </parties>\n   <docketnumber id=\"p-2\">\n    2170028\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Civil Appeals of Alabama.\n   </court>\n   <decisiondate id=\"p-4\">\n    January 19, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Reh. denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

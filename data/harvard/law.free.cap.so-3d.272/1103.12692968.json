@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1103\" lastpage=\"1103\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">John David BURT<br/> v.<br/> Faye Lynn BURT</parties>\n<docketnumber id=\"p-2\">2170507</docketnumber>\n<court id=\"p-3\">Court of Civil Appeals of Alabama.</court>\n<decisiondate id=\"p-4\">March 23, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1103\" lastpage=\"1103\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    John David BURT\n    <br/>\n    v.\n    <br/>\n    Faye Lynn BURT\n   </parties>\n   <docketnumber id=\"p-2\">\n    2170507\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Civil Appeals of Alabama.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 23, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

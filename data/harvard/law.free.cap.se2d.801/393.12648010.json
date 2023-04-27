@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"393\" lastpage=\"393\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">BANK OF AMERICA, N.A., Plaintiff,<br/> v.<br/> Angel L. RIVERA and wife, Jennifer L. Wilson a/k/a Jennifer Wilson, Defendants.</parties>\n<docketnumber id=\"p-2\">No. COA16-166</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: July 5, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED IN PART; REMANDED IN PART.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"393\" lastpage=\"393\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    BANK OF AMERICA, N.A., Plaintiff,\n    <br/>\n    v.\n    <br/>\n    Angel L. RIVERA and wife, Jennifer L. Wilson a/k/a Jennifer Wilson, Defendants.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA16-166\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: July 5, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED IN PART; REMANDED IN PART.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1154\" lastpage=\"1154\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Blake Lawrence ANDERSON, Appellant,<br/> v.<br/> The STATE of Nevada; Clark County Public Defender's Office ; Patricia Denise Doyle (D.P.D.); and Philip J. Kohn, (C.C.P.D.), Respondents.</parties>\n<docketnumber id=\"p-2\">No. 79209</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED AUGUST 23, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">DISMISSED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1154\" lastpage=\"1154\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Blake Lawrence ANDERSON, Appellant,\n    <br/>\n    v.\n    <br/>\n    The STATE of Nevada; Clark County Public Defender's Office ; Patricia Denise Doyle (D.P.D.); and Philip J. Kohn, (C.C.P.D.), Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 79209\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED AUGUST 23, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

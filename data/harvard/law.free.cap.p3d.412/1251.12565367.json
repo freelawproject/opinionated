@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1251\" lastpage=\"1251\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MULTNOMAH COUNTY<br/> v.<br/> $13,602.00 IN U.S. CURRENCY et al. and Lashway</parties>\n<docketnumber id=\"p-2\">A164508</docketnumber>\n<court id=\"p-3\">Court of Appeals of Oregon.</court>\n<decisiondate id=\"p-4\">January 31, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1251\" lastpage=\"1251\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MULTNOMAH COUNTY\n    <br/>\n    v.\n    <br/>\n    $13,602.00 IN U.S. CURRENCY et al. and Lashway\n   </parties>\n   <docketnumber id=\"p-2\">\n    A164508\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Oregon.\n   </court>\n   <decisiondate id=\"p-4\">\n    January 31, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

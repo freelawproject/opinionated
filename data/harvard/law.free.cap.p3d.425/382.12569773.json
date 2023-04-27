@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"382\" lastpage=\"382\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF DISCIPLINE OF Brandon B. SMITH, Bar No. 7916.</parties>\n<docketnumber id=\"p-2\">No. 75823</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED SEPTEMBER 07, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Approved.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"382\" lastpage=\"382\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF DISCIPLINE OF Brandon B. SMITH, Bar No. 7916.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 75823\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED SEPTEMBER 07, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Approved.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

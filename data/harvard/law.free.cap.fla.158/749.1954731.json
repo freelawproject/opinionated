@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "158 Fla. 749"
-        },
-        {
-            "type": "parallel",
-            "cite": "30 So.2d 101"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 Fla. 749"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 So.2d 101"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"749\" lastpage=\"750\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b773-16\">IN RE: J. CARL LAMBDIN</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b773-17\">30 (2nd) 101</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Akb\">January Term, 1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b773-18\">April 22, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AjM\">En Banc</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b773-20\"><em>J. Carl Lambdin, </em>in pro. per.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b773-21\"><em>Alfred P. Marshall, </em>president, for Circuit Court Commission of Pinellas County.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b773-22\">BARNS, J.:</author>\n<p id=\"b773-23\">This cause comes on before this Court for consideration upon the petitioner\u2019s petition for reinstatement filed in the <page-number citation-index=\"1\" label=\"750\">*750</page-number>Circuit Court and the recommendations of the Circuit Judges after a hearing before them pursuant to Rule C (8), the Rule governing reinstatement;' whereupon,</p>\n<p id=\"b774-4\">It is ordered and adjudged that same be and it is hereby granted with directions that the Circuit Court Judges shall enter an order of reinstatement of petitioner which said order may be conditioned and qualified as by them recommended so long as such qualifications and conditions shall not exceed those recommended.</p>\n<judges id=\"b774-5\">TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n<judges id=\"b774-6\">THOMAS, C. J., and CHAPMAN, J., dissent.</judges>\n</opinion>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-2\" type=\"concurrence\">\n<author id=\"b774-7\">TERRELL, J.,</author>\n<p id=\"AjJ\">concurring:</p>\n<p id=\"b774-8\">I agree because I think the effect of the order of reinstatement is to give the petitioner another chance. I think it may be revoked any time he is shown not to be as penitent as he professes to be.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

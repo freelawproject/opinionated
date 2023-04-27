@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "158 Fla. 555"
-        },
-        {
-            "type": "parallel",
-            "cite": "28 So.2d 836"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 Fla. 555"
+    },
+    {
+      "type": "parallel",
+      "cite": "28 So.2d 836"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"555\" lastpage=\"556\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b579-11\">ROOSEVELT BENTLEY v. CAPITAL FINANCE CORPORATION, a corporation organized and existing by virtue of the laws of Florida, and T. S. GREEN individually and as President of CAPITAL FINANCE CORPORATION</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b579-12\">28 S. (2nd) 836</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AH9\">January Term, 1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b579-13\">January 21, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AGp6\">Division. B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b580-3\"><page-number citation-index=\"1\" label=\"556\">*556</page-number><em>Parker, Foster &amp; Wigginton </em>and <em>T. T. Turnbull, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b580-4\"><em>Parker </em>&amp; <em>Parker for </em>appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b580-5\">PER CURIAM:</author>\n<p id=\"b580-6\">The decree of the court below is affirmed on authority of Davidson et al v. Davis, 59 Fla. 476, 52 Sou. 139, 28 L.R.A. (N.S.) 102, 20 Ann. Cas. 1130.</p>\n<p id=\"b580-7\">It is so ordered.</p>\n<judges id=\"b580-8\">THOMAS, C.J., BUFORD, ADAMS and BARNS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"325\" lastpage=\"325\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF DISCIPLINE OF Jason L. LOPEZ, Bar No.</parties>\n<docketnumber id=\"p-2\">No. 73894</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED February 23, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">ORDER APPROVING CONDITIONAL GUILTY PLEA.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"325\" lastpage=\"325\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF DISCIPLINE OF Jason L. LOPEZ, Bar No.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 73894\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED February 23, 2018\n   </decisiondate>\n   <p type=\"majority\">\n    <p id=\"p-5\">\n     ORDER APPROVING CONDITIONAL GUILTY PLEA.\n    </p>\n   </p>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

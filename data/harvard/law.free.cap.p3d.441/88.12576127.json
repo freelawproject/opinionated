@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"88\" lastpage=\"88\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF K. S., a Minor</parties>\n<docketnumber id=\"p-2\">Kwame A. S., Appellant,<br/> v.<br/> State of Nevada Department of Family Services, Respondent.</docketnumber>\n<docketnumber id=\"p-3\">No. 78586</docketnumber>\n<court id=\"p-4\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-5\">FILED MAY 22, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">DISMISSED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"88\" lastpage=\"88\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF K. S., a Minor\n   </parties>\n   <parties id=\"p-2\">\n    Kwame A. S., Appellant,\n    <br/>\n    v.\n    <br/>\n    State of Nevada Department of Family Services, Respondent.\n   </parties>\n   <docketnumber id=\"p-3\">\n    No. 78586\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-5\">\n    FILED MAY 22, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

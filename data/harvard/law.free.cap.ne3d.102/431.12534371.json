@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"431\" lastpage=\"431\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">NORTH<br/> v.<br/> AIR &amp; LIQUID SYS. CORP.</parties>\n<court id=\"p-2\">Court of Appeals of New York.</court>\n<decisiondate id=\"p-3\">Decided April 3, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">Motion For Leave to Appeal denied</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"431\" lastpage=\"431\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    NORTH\n    <br/>\n    v.\n    <br/>\n    AIR &amp; LIQUID SYS. CORP.\n   </parties>\n   <court id=\"p-2\">\n    Court of Appeals of New York.\n   </court>\n   <decisiondate id=\"p-3\">\n    Decided April 3, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Motion For Leave to Appeal denied\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

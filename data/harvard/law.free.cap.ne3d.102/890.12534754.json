@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"890\" lastpage=\"890\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MAINSTREET PROPERTY GROUP LLC, et al., Appellants<br/> v.<br/> Pam PONTONES, et al.</parties>\n<court id=\"p-2\">Supreme Court of Indiana.</court>\n<decisiondate id=\"p-3\">June 19, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">Transfer denied. All Justices concur, except David and Slaughter, JJ., who vote to grant the petition to transfer.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"890\" lastpage=\"890\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MAINSTREET PROPERTY GROUP LLC, et al., Appellants\n    <br/>\n    v.\n    <br/>\n    Pam PONTONES, et al.\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Indiana.\n   </court>\n   <decisiondate id=\"p-3\">\n    June 19, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Transfer denied. All Justices concur, except David and Slaughter, JJ., who vote to grant the petition to transfer.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

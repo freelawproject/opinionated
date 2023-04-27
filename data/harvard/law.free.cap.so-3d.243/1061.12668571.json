@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1061\" lastpage=\"1061\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Brooke PULLIN<br/> v.<br/> Linda A. CHAUVIN, BST Leasing, Inc. and State Farm Mutual Automobile Insurance Company</parties>\n<docketnumber id=\"p-2\">NO. 2018-C-0572</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">June 1, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1061\" lastpage=\"1061\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Brooke PULLIN\n    <br/>\n    v.\n    <br/>\n    Linda A. CHAUVIN, BST Leasing, Inc. and State Farm Mutual Automobile Insurance Company\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2018-C-0572\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    June 1, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1086\" lastpage=\"1086\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">N.S.<br/> v.<br/> R.N. and L.N.</parties>\n<docketnumber id=\"p-2\">2170053</docketnumber>\n<court id=\"p-3\">Court of Civil Appeals of Alabama.</court>\n<decisiondate id=\"p-4\">January 9, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1086\" lastpage=\"1086\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    N.S.\n    <br/>\n    v.\n    <br/>\n    R.N. and L.N.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2170053\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Civil Appeals of Alabama.\n   </court>\n   <decisiondate id=\"p-4\">\n    January 9, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "13 Ct. Cl. 570"
-        },
-        {
-            "type": "parallel",
-            "cite": "96 U. S. R., 421"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "13 Ct. Cl. 570"
+    },
+    {
+      "type": "parallel",
+      "cite": "96 U. S. R., 421"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"570\" lastpage=\"570\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<headnotes data-order=\"0\" data-type=\"headnotes\" id=\"b582-4\">DRISCOLL\u2019S CASE.</headnotes>\n<p data-order=\"1\" data-type=\"headnotes\" id=\"b582-5\">(Ante, p. 15;</p>\n<citation data-order=\"2\" data-type=\"citation\" id=\"AVCd\">96 U. S. R., 421.)</citation>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b582-6\">James Driscoll, appellee, <em>v. </em>The United States, appellants.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b582-7\">\n<em>On the defendants' Appeal.</em>\n</summary>\n<syllabus data-order=\"5\" data-type=\"summary\" id=\"b582-8\"><em>Congress appropriate </em>$500,000 \u201cfor the construction, under the direction of the Secretary of State,\u201d <em>of a building for the State, War, anil Navy Departments. The Secretary enters into a contract with one Ordway for the granite for the building; and O. agrees to </em>\u201cfurnish all the labor, tools, and material necessary to cut, dress, and box at the quarry the granite aforesaid,\u201d <em>the defendants to pay him </em>\u201cthe full cost of the said labor, tools, and materials,\u201d <em>with fifteen per cent, added, and to furnish superintendents to supervise this work and keep an account of its cost. The claimant is a laborer under O. Ne signs monthly receipts, from time to time, acknowledging payment from 0. These receipts are returned by O. .to the Treasury and made a pari of his vouchers. The claimant works ten hours a day. Ne now claims that the contract between Ordway and the Secretary, of State was void; that it was made with the inten t of evading the Night-hour Taw; and that the claimant was in effect an emplog\u00e9 of the Government, and entitled to extra pay for his ten hours\u2019 service.</em></syllabus>\n<syllabus data-order=\"6\" data-type=\"summary\" id=\"b582-9\">The court below holds: (1) That a public contract not founded upon advertisement is at most voidable, and that, when performed, a third parson cannot come in and set rrp that it was void; (2) That the contract in this case was not an evasion of the Eight-hour Law; (3) That no privity existed between the claimant and the Government. But the claimant having no right of appeal and a large class of cases depending upon the decision, judgment pro <em>for ma </em>is rendered for him. The defendants appeal.</syllabus>\n<syllabus data-order=\"7\" data-type=\"summary\" id=\"b582-10\">The judgment <em>pro forma </em>of the court below is reversed. The Supreme Court, without passing in terms upon the preliminary questions discussed by the court, below, agrees with it in holding that no privity existed between the claimant and the Government.</syllabus>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b582-11\">Mr. Justice Swayne</author>\n<p id=\"AGE\">delivered the opinion of the Supreme \u25a0Court, May 6, 1878.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

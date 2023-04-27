@@ -1,8 +1,12 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "131 F.2d 351"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "131 F.2d 351"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"351\" lastpage=\"351\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b423-3\">SOKOLIN v. ESTES.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b423-4\">No. 8056.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b423-5\">United States Court of Appeals for the District of Columbia.</court>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b423-7\">Argued Oct. 15, 1942.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b423-8\">Decided Nov. 9, 1942.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b423-16\">Mr. Isadore H. Halpern, of Washington, D. C., for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b423-17\">Mr. James A. O\u2019Shea, with whom Mr. Alfred Goldstein, both of Washington D. C., was on the brief, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"b423-18\">Before GRONER, Chief Justice, and EDGERTON and RUTLEDGE, Associate Justices.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b423-19\">PER CURIAM.</author>\n<p id=\"b423-20\">This was an action for false arrest, and was begun February 21, 1940. Answer was filed the following March 18th. Pretrial proceeding was set for March 11, 1941, but at the instance of counsel for the plaintiff was continued first to March 19th and again to March 27th. Thereafter the cause went on the trial docket as a non-jury case, and in April counsel asked for an order of court authorizing the taking of plaintiff\u2019s deposition in Chicago. The court declined to enter the order and the cause came on in regular course for trial June 11th. Appellant\u2019s counsel not being ready to proceed in the absence of his client, the case was dismissed for want of prosecution.</p>\n<p id=\"b423-22\">On this appeal the only points made are that the refusal of the court to authorize the taking of the deposition in Chicago and the court\u2019s subsequent order dismissing the case were arbitrary. We think there is no merit to either contention. Counsel for appellant was entitled of right to take his client\u2019s deposition in Chica'go, or elsewhere, as soon as answer was filed.<footnotemark>1</footnotemark> <em>No </em>application to the court was required and the refusal of the court to enter the requested order was doubtless because it was unnecessary. After being advised that his client was in Chicago and would not return to Washington, counsel had three months in which to take the deposition and otherwise prepare for trial, and his failure to do so was responsible for the dismissal.</p>\n<p id=\"b423-23\">Affirmed.</p>\n<footnote label=\"1\">\n<p id=\"b423-34\"> Rule 26(a) of <em>the </em>Federal Rules of Civil Procedure, 28 U.S.C.A. following section 723c.</p>\n</footnote>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

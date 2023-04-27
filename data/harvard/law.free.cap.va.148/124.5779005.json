@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"124\" lastpage=\"124\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b182-3\">Commonwealth of Virginia, at the Relation of C. Lee Moore, Etc. v. Ouida Caldwell Watts, and Others.</parties>\n\n<decisiondate id=\"b182-4\">June 16, 1927.</decisiondate>\n<attorneys id=\"b182-7\"><em>E. Warren Wall, </em>for the Commonwealth.</attorneys>\n<attorneys id=\"b182-8\"><em>Shewmake &amp; Gary, </em>for the defendant in error.</attorneys>\n<opinion><p id=\"b182-9\">Mytheville.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"124\" lastpage=\"124\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b182-3\">Commonwealth of Virginia, at the Relation of C. Lee Moore, Etc. v. Ouida Caldwell Watts, and Others.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b182-4\">June 16, 1927.</decisiondate>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b182-7\"><em>E. Warren Wall, </em>for the Commonwealth.</attorneys>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b182-8\"><em>Shewmake &amp; Gary, </em>for the defendant in error.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b182-9\">Mytheville.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"709\" lastpage=\"709\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">BAC HOME LOANS SERVICING, LP, f/k/a Countrywide Home Loans Servicing, LP; and Recontrust Company, N.A., a Division of Bank of America, Appellants,<br/> v.<br/> ASPINWALL COURT TRUST, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 69885</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">JULY 20, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">REVERSED. REMAND.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"709\" lastpage=\"709\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    BAC HOME LOANS SERVICING, LP, f/k/a Countrywide Home Loans Servicing, LP; and Recontrust Company, N.A., a Division of Bank of America, Appellants,\n    <br/>\n    v.\n    <br/>\n    ASPINWALL COURT TRUST, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 69885\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    JULY 20, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     REVERSED. REMAND.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

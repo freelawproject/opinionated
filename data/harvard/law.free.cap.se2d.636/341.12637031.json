@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"341\" lastpage=\"341\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">ROY BURT ENTERPRISES, INC. v. MARSH.</parties>\n\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed November 7, 2006.</decisiondate>\n<decisiondate id=\"p-5\">Certification Date November 27, 2006.</decisiondate>\n<history id=\"p-6\">Appeal from the Moore (05CVS345).</history>\n\n<opinion type=\"majority\"><p id=\"p-2\">COA05-1391.</p><p id=\"p-7\">Case reported without published opinion. Dismissed in part, affirmed in part.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"341\" lastpage=\"341\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    ROY BURT ENTERPRISES, INC. v. MARSH.\n   </parties>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed November 7, 2006.\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date November 27, 2006.\n   </decisiondate>\n   <history id=\"p-6\">\n    Appeal from the Moore (05CVS345).\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-2\">\n     COA05-1391.\n    </p>\n    <p id=\"p-7\">\n     Case reported without published opinion. Dismissed in part, affirmed in part.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

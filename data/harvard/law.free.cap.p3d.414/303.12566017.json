@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"303\" lastpage=\"303\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Terrence Gerrard FORD, Appellant,<br/> v.<br/> James DZURENDA, Director, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 75060</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED MARCH 23, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">DISMISSED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"303\" lastpage=\"303\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Terrence Gerrard FORD, Appellant,\n    <br/>\n    v.\n    <br/>\n    James DZURENDA, Director, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 75060\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED MARCH 23, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

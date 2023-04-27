@@ -1,8 +1,12 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "3 Ohio Law Abs. 83"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 Ohio Law Abs. 83"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"83\" lastpage=\"83\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b83-7\">McBRIDE Treas. v. UNIVERSITY CLUB</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A5QF\">No. 18,826,</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AEaC\">Supreme Court.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ABF2\">11-18-24</decisiondate>\n<p data-order=\"4\" data-type=\"docketnumber\" id=\"A6-x\">2 Abs.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A6qR\">Attorneys\u2014E. C. Stanton and Geo. C. Hansen for McBride; both of Cleveland.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b83-11\">The University Club brought a suit in the Cuyahoga Common Pleas to recover certain taxes levied on its property, on the ground that the valuation or appraisal at which said property was placed on the county tax duplicate by the auditor was illegal and excessive. The county auditor had set the valuation at $2000 per front foot, while the Club contended that the fair market value thereof was $600 per foot due to certain restrictions in the deed limiting the use of premises. The Club paid the tax under protest, and the decree in the Common Pleas was in their favor.</p>\n<p id=\"b83-12\">McBride prosecuted error in the Court of Appeals, and the Club filed a motion to dismiss the appeal on the ground that the Court of Appeals had no jurisdiction, for the reason that the case at bar was not such a case in chancery as is within the meaning of the Constitution of Ohio. The motion was sustained. In claiming that the Court of Appeals erred in sustaining the motion, McBride contends:</p>\n<p id=\"b83-13\">Sec. 12075 GC. provides in part that the Common Pleas and Superior Courts have the right to enjoin illegal levies of taxes, assessments, and entertain actions to recover them back when collected. This action is one in equity. Why then should not a suit to enforce the remedy be an equity case?</p>\n<p id=\"b83-14\">The one question before the Supreme Court for consideration is: Whether the suit of the University Club is a chancery case within the meaning of Art. 4, sec. 6, of the Ohio Constitution.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

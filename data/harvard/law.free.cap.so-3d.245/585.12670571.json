@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"585\" lastpage=\"585\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">EX PARTE Shicolbe Devol BELL</parties>\n<docketnumber id=\"p-2\">1160304 (CR-15-1052)</docketnumber>\n<court id=\"p-3\">Supreme Court of Alabama.</court>\n<decisiondate id=\"p-4\">February 10, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Cert. denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"585\" lastpage=\"585\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    EX PARTE Shicolbe Devol BELL\n   </parties>\n   <docketnumber id=\"p-2\">\n    1160304 (CR-15-1052)\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Alabama.\n   </court>\n   <decisiondate id=\"p-4\">\n    February 10, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Cert. denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"264\" lastpage=\"264\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">GREEN<br/> v.<br/> SOMMERS</parties>\n<docketnumber id=\"p-2\">No. S08A0907.</docketnumber>\n<court id=\"p-3\">Supreme Court of Georgia.</court>\n<decisiondate id=\"p-4\">June 2, 2008.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Judgments affirmed without opinion (Supreme Court Rule 59).</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"264\" lastpage=\"264\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    GREEN\n    <br/>\n    v.\n    <br/>\n    SOMMERS\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. S08A0907.\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Georgia.\n   </court>\n   <decisiondate id=\"p-4\">\n    June 2, 2008.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Judgments affirmed without opinion (Supreme Court Rule 59).\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

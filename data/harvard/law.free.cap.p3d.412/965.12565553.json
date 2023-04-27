@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"965\" lastpage=\"965\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of Kansas, Appellee,<br/> v.<br/> Rick HILL, Appellant.</parties>\n<docketnumber id=\"p-2\">No. 112,545</docketnumber>\n<court id=\"p-3\">Supreme Court of Kansas.</court>\n<decisiondate id=\"p-4\">March 9, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Reversed, sentence vacated. Case remanded with directions.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"965\" lastpage=\"965\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Kansas, Appellee,\n    <br/>\n    v.\n    <br/>\n    Rick HILL, Appellant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 112,545\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 9, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Reversed, sentence vacated. Case remanded with directions.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

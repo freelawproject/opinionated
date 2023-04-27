@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"181\" lastpage=\"181\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Terra MAITRA, Plaintiff,<br/> v.<br/> QUARTER MILE MUSCLE, INC. and Bryan J. Klitz, Individually and as Owner of Quarter Mile Muscle, Inc., Defendants.</parties>\n<docketnumber id=\"p-2\">No. COA16-338</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: June 20, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"181\" lastpage=\"181\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Terra MAITRA, Plaintiff,\n    <br/>\n    v.\n    <br/>\n    QUARTER MILE MUSCLE, INC. and Bryan J. Klitz, Individually and as Owner of Quarter Mile Muscle, Inc., Defendants.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA16-338\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: June 20, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

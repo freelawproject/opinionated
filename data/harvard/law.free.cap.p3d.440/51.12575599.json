@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"51\" lastpage=\"51\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Leo SWITZER, Appellant,<br/> v.<br/> Patrick KELLER, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 77394</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED MAY 10, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"51\" lastpage=\"51\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Leo SWITZER, Appellant,\n    <br/>\n    v.\n    <br/>\n    Patrick KELLER, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 77394\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED MAY 10, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

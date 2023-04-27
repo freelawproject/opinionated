@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"539\" lastpage=\"539\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of Kansas, Appellee,<br/> v.<br/> DeAngelo Dwayne TURNER, Appellant.</parties>\n<docketnumber id=\"p-2\">Nos. 119<br/> 211<br/> 119,215</docketnumber>\n<court id=\"p-3\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-4\">Opinion filed May 24, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Vacate. Remand. Affirm.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"539\" lastpage=\"539\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Kansas, Appellee,\n    <br/>\n    v.\n    <br/>\n    DeAngelo Dwayne TURNER, Appellant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Nos. 119\n    <br/>\n    211\n    <br/>\n    119,215\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed May 24, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Vacate. Remand. Affirm.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"571\" lastpage=\"571\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">James Michael STEWART, Petitioner and Appellant,<br/> v.<br/> STATE of Montana, Respondent and Appellee.</parties>\n<docketnumber id=\"p-2\">DA 17-0597</docketnumber>\n<court id=\"p-3\">Supreme Court of Montana.</court>\n<decisiondate id=\"p-4\">Submitted on Briefs: April 11, 2018<br/> Decided: July 17, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"571\" lastpage=\"571\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    James Michael STEWART, Petitioner and Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Montana, Respondent and Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    DA 17-0597\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Montana.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted on Briefs: April 11, 2018\n    <br/>\n    Decided: July 17, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"396\" lastpage=\"396\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Curtis BROWN<br/> v.<br/> PROFESSIONAL BUILDING SERVICES, INC.</parties>\n<docketnumber id=\"p-2\">2016-CT-00818-SCT</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: February 20, 2018<br/> Closed: April 26, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Motion Desc: Appellants Petition for Writ of Certiorari.</p><p id=\"p-6\">Certiorari - Granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"396\" lastpage=\"396\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Curtis BROWN\n    <br/>\n    v.\n    <br/>\n    PROFESSIONAL BUILDING SERVICES, INC.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2016-CT-00818-SCT\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: February 20, 2018\n    <br/>\n    Closed: April 26, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Motion Desc: Appellants Petition for Writ of Certiorari.\n    </p>\n    <p id=\"p-6\">\n     Certiorari - Granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

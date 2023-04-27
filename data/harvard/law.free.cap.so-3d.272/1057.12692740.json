@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1057\" lastpage=\"1057\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">William B. CHINNIS, Jr., and Annette P. Chinnis<br/> v.<br/> PNC BANK, N.A.</parties>\n<docketnumber id=\"p-2\">2160559</docketnumber>\n<court id=\"p-3\">Court of Civil Appeals of Alabama.</court>\n<decisiondate id=\"p-4\">January 5, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1057\" lastpage=\"1057\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    William B. CHINNIS, Jr., and Annette P. Chinnis\n    <br/>\n    v.\n    <br/>\n    PNC BANK, N.A.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2160559\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Civil Appeals of Alabama.\n   </court>\n   <decisiondate id=\"p-4\">\n    January 5, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

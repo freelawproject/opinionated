@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"590\" lastpage=\"590\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">LOSCO<br/> v.<br/> EMPLOYMENT DEPARTMENT et al.</parties>\n<docketnumber id=\"p-2\">A165635</docketnumber>\n<court id=\"p-3\">Court of Appeals of Oregon.</court>\n<decisiondate id=\"p-4\">March 14, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"590\" lastpage=\"590\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    LOSCO\n    <br/>\n    v.\n    <br/>\n    EMPLOYMENT DEPARTMENT et al.\n   </parties>\n   <docketnumber id=\"p-2\">\n    A165635\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Oregon.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 14, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

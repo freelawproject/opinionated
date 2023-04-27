@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"615\" lastpage=\"615\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n\n<parties id=\"b625-10\">Kaulbach <em>v. </em>Kaulbach <em>&amp; a.</em></parties>\n\n<attorneys id=\"b625-12\"><em>Garter Nason </em>and <em>Wiggin Sf Fuller, </em>for the plaintiff.</attorneys>\n<attorneys id=\"b625-13\"><em>A. L. Mellows </em>and <em>Frink Batehelder, </em>for the defendants.</attorneys>\n<opinion><p id=\"b625-9\">[Strafford,</p><p id=\"AY8U\">June, 1884.]</p><p id=\"b625-11\">In Equity. The facts being insufficiently found, a new trial was ordered.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"615\" lastpage=\"615\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b625-10\">Kaulbach <em>v. </em>Kaulbach <em>&amp; a.</em></parties>\n<attorneys data-order=\"1\" data-type=\"attorneys\" id=\"b625-12\"><em>Garter Nason </em>and <em>Wiggin Sf Fuller, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b625-13\"><em>A. L. Mellows </em>and <em>Frink Batehelder, </em>for the defendants.</attorneys>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b625-9\">[Strafford,</p><p id=\"AY8U\">June, 1884.]</p><p id=\"b625-11\">In Equity. The facts being insufficiently found, a new trial was ordered.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

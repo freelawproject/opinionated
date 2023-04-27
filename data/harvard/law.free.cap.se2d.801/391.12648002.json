@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"391\" lastpage=\"391\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF: J.L.T. and S.R.J.T.</parties>\n<docketnumber id=\"p-2\">No. COA16-1242</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: June 20, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED IN PART, REVERSED IN PART.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"391\" lastpage=\"391\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF: J.L.T. and S.R.J.T.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA16-1242\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: June 20, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED IN PART, REVERSED IN PART.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

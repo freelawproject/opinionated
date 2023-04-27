@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1063\" lastpage=\"1063\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">W.B.E.</parties>\n<docketnumber id=\"p-2\">v.</docketnumber>\n<docketnumber id=\"p-3\">CULLMAN COUNTY DEPARTMENT OF HUMAN RESOURCES, S.B., and E.B.</docketnumber>\n<docketnumber id=\"p-4\">2160802</docketnumber>\n<court id=\"p-5\">Court of Civil Appeals of Alabama.</court>\n<decisiondate id=\"p-6\">February 23, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-7\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1063\" lastpage=\"1063\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    W.B.E.\n   </parties>\n   <docketnumber id=\"p-2\">\n    v.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    CULLMAN COUNTY DEPARTMENT OF HUMAN RESOURCES, S.B., and E.B.\n   </docketnumber>\n   <docketnumber id=\"p-4\">\n    2160802\n   </docketnumber>\n   <court id=\"p-5\">\n    Court of Civil Appeals of Alabama.\n   </court>\n   <decisiondate id=\"p-6\">\n    February 23, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

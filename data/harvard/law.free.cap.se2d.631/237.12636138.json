@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"237\" lastpage=\"237\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE v. KING.</parties>\n<docketnumber id=\"p-2\">No. COA05-1447.</docketnumber>\n<court id=\"p-3\">North Carolina Court of Appeals.</court>\n<decisiondate id=\"p-4\">Filed July 5, 2006.</decisiondate>\n<decisiondate id=\"p-5\">Certification Date July 25, 2006.</decisiondate>\n<history id=\"p-6\">Appeal from Rockingham (04CRS2135, 04CRS2136, 04CRS2137, 04CRS2138).</history>\n\n<opinion type=\"majority\"><p id=\"p-7\">Case without published opinion. No prejudicial error.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"237\" lastpage=\"237\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE v. KING.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA05-1447.\n   </docketnumber>\n   <court id=\"p-3\">\n    North Carolina Court of Appeals.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed July 5, 2006.\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date July 25, 2006.\n   </decisiondate>\n   <history id=\"p-6\">\n    Appeal from Rockingham (04CRS2135, 04CRS2136, 04CRS2137, 04CRS2138).\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     Case without published opinion. No prejudicial error.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

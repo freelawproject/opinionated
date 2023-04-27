@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"752\" lastpage=\"752\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MYERS<br/> v.<br/> BRYANT.</parties>\n<docketnumber id=\"p-2\">No. COA07-491.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed November 20, 2007.</decisiondate>\n<decisiondate id=\"p-5\">Certification Date December 10, 2007.</decisiondate>\n<history id=\"p-6\">Appeal from Lee (05CVS1092).</history>\n\n<opinion type=\"majority\"><p id=\"p-7\">Cases reported without published opinion. Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"752\" lastpage=\"752\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MYERS\n    <br/>\n    v.\n    <br/>\n    BRYANT.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA07-491.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed November 20, 2007.\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date December 10, 2007.\n   </decisiondate>\n   <history id=\"p-6\">\n    Appeal from Lee (05CVS1092).\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     Cases reported without published opinion. Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

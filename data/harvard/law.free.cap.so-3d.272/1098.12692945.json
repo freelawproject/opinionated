@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1098\" lastpage=\"1098\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Kevin D. MILLER<br/> v.<br/> CITY OF DOTHAN PERSONNEL BOARD and City of Dothan</parties>\n<docketnumber id=\"p-2\">2170357</docketnumber>\n<court id=\"p-3\">Court of Civil Appeals of Alabama.</court>\n<decisiondate id=\"p-4\">February 15, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1098\" lastpage=\"1098\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Kevin D. MILLER\n    <br/>\n    v.\n    <br/>\n    CITY OF DOTHAN PERSONNEL BOARD and City of Dothan\n   </parties>\n   <docketnumber id=\"p-2\">\n    2170357\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Civil Appeals of Alabama.\n   </court>\n   <decisiondate id=\"p-4\">\n    February 15, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

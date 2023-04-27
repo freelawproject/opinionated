@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"975\" lastpage=\"975\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE BOARD OF RETIREMENT<br/> v.<br/> Brian O'HARE &amp; another.</parties>\n<court id=\"p-2\">Supreme Judicial Court of Massachusetts.</court>\n<decisiondate id=\"p-3\">March 29, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">Appellate review granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"975\" lastpage=\"975\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE BOARD OF RETIREMENT\n    <br/>\n    v.\n    <br/>\n    Brian O'HARE &amp; another.\n   </parties>\n   <court id=\"p-2\">\n    Supreme Judicial Court of Massachusetts.\n   </court>\n   <decisiondate id=\"p-3\">\n    March 29, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Appellate review granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"808\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SOUTHERN CAPITAL PRESERVATION, LLC, Appellant,<br/> v.<br/> GSAA HOME EQUITY TRUST 2006-5, Asset-Backed Certificates Series 2006-5, U.S. Bank National Association, as Trustee, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 72461</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">MARCH 15, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">REVERSED. REMAND.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"808\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    SOUTHERN CAPITAL PRESERVATION, LLC, Appellant,\n    <br/>\n    v.\n    <br/>\n    GSAA HOME EQUITY TRUST 2006-5, Asset-Backed Certificates Series 2006-5, U.S. Bank National Association, as Trustee, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 72461\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    MARCH 15, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     REVERSED. REMAND.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

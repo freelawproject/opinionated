@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"686\" lastpage=\"686\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">NATIONSTAR MORTGAGE LLC<br/> v.<br/> COWAN et al. and Reeves</parties>\n<docketnumber id=\"p-2\">A166747</docketnumber>\n<court id=\"p-3\">Court of Appeals of Oregon.</court>\n<decisiondate id=\"p-4\">April 17, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"686\" lastpage=\"686\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    NATIONSTAR MORTGAGE LLC\n    <br/>\n    v.\n    <br/>\n    COWAN et al. and Reeves\n   </parties>\n   <docketnumber id=\"p-2\">\n    A166747\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Oregon.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 17, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

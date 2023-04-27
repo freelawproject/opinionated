@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "158 Fla. 736"
-        },
-        {
-            "type": "parallel",
-            "cite": "30 So.2d 100"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 Fla. 736"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 So.2d 100"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"736\" lastpage=\"736\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b760-6\">D. P. ELLIS, et al., v. JOHN STRICKLAND, et al.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b760-7\">30 (2nd) 100</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AiN0\">January Term, 1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b760-8\">April 15, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AdCP\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b760-11\"><em>Thomas B. Adams, </em>for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b760-12\"><em>Frank T. Cannon </em>for John Strickland, et al, and <em>Howell, McCarthy, Lane &amp; Howell, </em>for Springfield Atlantic Bank, appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b760-13\">PER CURIAM:</author>\n<p id=\"b760-14\">Whereas it appears that in the final decree the name of \u201cJohn Stallings\u201d is used where the name \u201cJohn Strickland\u201d should have been used, it is directed that the final decree be modified by inserting the name \u201cJohn Strickland\u201d where the name \u201cJohn Stallings\u201d was inadvertently used.</p>\n<p id=\"b760-15\">The decree when so modified is affirmed on authority of our opinion and judgment in Partin v. Tucker, 126 Fla. 817, 172 So. 89.</p>\n<p id=\"ABy\">So ordered.</p>\n<judges id=\"b760-17\">THOMAS, C. J., BUFORD, ADAMS and BARNS, JJ.,concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

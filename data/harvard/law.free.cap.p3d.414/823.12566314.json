@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"823\" lastpage=\"823\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF DISCIPLINE OF Joseph S. MELORO, Bar No. 12256.</parties>\n<docketnumber id=\"p-2\">In the Matter of Discipline of Joseph S. Meloro, Bar No. 12256.</docketnumber>\n<docketnumber id=\"p-3\">No 72945<br/> No. 74186</docketnumber>\n<court id=\"p-4\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-5\">March 23, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">ORDERED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"823\" lastpage=\"823\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF DISCIPLINE OF Joseph S. MELORO, Bar No. 12256.\n   </parties>\n   <parties id=\"p-2\">\n    In the Matter of Discipline of Joseph S. Meloro, Bar No. 12256.\n   </parties>\n   <docketnumber id=\"p-3\">\n    No 72945\n    <br/>\n    No. 74186\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-5\">\n    March 23, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     ORDERED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

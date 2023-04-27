@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"837\" lastpage=\"837\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">WYKOFF NEWBERG CORPORATION, a Nevada corporation; and International Smelting Company, Appellants,<br/> v.<br/> The STATE of Nevada, DEPARTMENT OF TRANSPORTATION, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 74022</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED FEBRUARY 26, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">DISMISSED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"837\" lastpage=\"837\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    WYKOFF NEWBERG CORPORATION, a Nevada corporation; and International Smelting Company, Appellants,\n    <br/>\n    v.\n    <br/>\n    The STATE of Nevada, DEPARTMENT OF TRANSPORTATION, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 74022\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED FEBRUARY 26, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

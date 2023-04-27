@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1204\" lastpage=\"1204\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the Matter of R. N., aka R. N., a Youth.</parties>\n<docketnumber id=\"p-2\">STATE<br/> v.<br/> R. N., aka R. N.</docketnumber>\n<docketnumber id=\"p-3\">A163164</docketnumber>\n<court id=\"p-4\">Court of Appeals of Oregon.</court>\n<decisiondate id=\"p-5\">December 6, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1204\" lastpage=\"1204\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the Matter of R. N., aka R. N., a Youth.\n   </parties>\n   <parties id=\"p-2\">\n    STATE\n    <br/>\n    v.\n    <br/>\n    R. N., aka R. N.\n   </parties>\n   <docketnumber id=\"p-3\">\n    A163164\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Oregon.\n   </court>\n   <decisiondate id=\"p-5\">\n    December 6, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

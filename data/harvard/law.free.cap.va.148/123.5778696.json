@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"123\" lastpage=\"123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b181-4\">Commonwealth of Virginia, at the relation of C. Lee Moore, Etc. v. Julia B. Jones, Executrix, Etc.</parties>\n\n<decisiondate id=\"b181-5\">June 16, 1927.</decisiondate>\n<attorneys id=\"b181-8\"><em>E. Warren Wall, </em>for the Commonwealth.</attorneys>\n<attorneys id=\"b181-9\"><em>J. Vaughan Gary </em>and <em>Jos. M. Hurt, Jr., </em>for the defendant in error.</attorneys>\n<opinion><p id=\"b181-3\">Mytheville.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"123\" lastpage=\"123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b181-4\">Commonwealth of Virginia, at the relation of C. Lee Moore, Etc. v. Julia B. Jones, Executrix, Etc.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b181-5\">June 16, 1927.</decisiondate>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b181-8\"><em>E. Warren Wall, </em>for the Commonwealth.</attorneys>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b181-9\"><em>J. Vaughan Gary </em>and <em>Jos. M. Hurt, Jr., </em>for the defendant in error.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b181-3\">Mytheville.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

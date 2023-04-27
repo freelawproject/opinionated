@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"566\" lastpage=\"566\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of Louisiana<br/> v.<br/> Charles LANDRUM</parties>\n<docketnumber id=\"p-2\">NO. 2017-KO-1783</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">Supreme Court of Louisiana May 25, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"566\" lastpage=\"566\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Louisiana\n    <br/>\n    v.\n    <br/>\n    Charles LANDRUM\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2017-KO-1783\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <court id=\"p-4\">\n    Supreme Court of Louisiana May 25, 2018\n   </court>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

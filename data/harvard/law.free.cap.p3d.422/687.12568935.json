@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"687\" lastpage=\"687\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Anthony RUCKER, Appellant,<br/> v.<br/> STATE of Kansas, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 118,112</docketnumber>\n<court id=\"p-3\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-4\">Opinion filed July 20, 2018.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Reversed. Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"687\" lastpage=\"687\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Anthony RUCKER, Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Kansas, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 118,112\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed July 20, 2018.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Reversed. Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

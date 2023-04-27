@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "158 Fla. 41"
-        },
-        {
-            "type": "parallel",
-            "cite": "27 So.2d 609"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 Fla. 41"
+    },
+    {
+      "type": "parallel",
+      "cite": "27 So.2d 609"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"41\" lastpage=\"43\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b65-8\">FLORIDA GREYHOUND LINES, INC., a Florida Corporation, v. EUGENE S. MATTHEWS, W. B. DOUGLASS and JERRY W. CARTER, CONSTITUTING THE RAILROAD COMMISSION OF THE STATE OF FLORIDA.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b65-9\">27 (2nd) 609</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AF\">June Term, 1946</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b65-10\">October 15, 1946</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Ae\">Special Division A</court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b65-11\">Rehearing denied November 5, 1946</otherdate>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AQx\"><em>Milam, Mcllvaine &amp; Milam </em>and <em>Ausley, Collins '&amp; Truett, </em>for petitioner.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b65-15\"><em>Lewis W. Petteway, </em>for respondents.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b66-3\"><page-number citation-index=\"1\" label=\"42\">*42</page-number>BARNS, Circuit Judge:</author>\n<p id=\"b66-4\">Fred W. Old made application to the Commission for a certificate of public convenience and necessity and petitioner protested. Applicant Old offered testimony in support of his petition.</p>\n<p id=\"b66-5\">During the progress of the hearing petitioner here, among other things, stated to the Commission that it \u201cagreed that the local service in the Ocala trade territory be extended\u201d through certain areas by applicant, \u201cconditioned on a stipulation that service will be devoted to the local traffic needs restricted against interchange and with a companion agreement with Florida Greyhound Lines that in the event of sale, that Florida Greyhound Lines would have the first option to acquire the inter-city service;\u201d that there would be no interchange of tickets.</p>\n<p id=\"b66-6\">The public policy of this state on interchange of tickets is reflected by the Commission\u2019s regulation 21 reading as follows:</p>\n<blockquote id=\"b66-7\">\u201cAll Common motor carriers shall interchange freight or passengers with all other common carriers except when expressly prohibited by the Commission.\u201d</blockquote>\n<p id=\"b66-8\">Apparently petitioner assumed that the announcement to the Commission by petitioner would bind or be accepted by the Commission so as to prevent an interchange of tickets. It offered no testimony. It was understood that an executed written agreement would be filed with the Commission. None was filed and the Commission issued its certificate and among other things specified:</p>\n<blockquote id=\"b66-9\">\u201cIt is further ordered and adjudged that said applicant shall have the privilege of interchanging passengers with all connecting carriers; provided, however, if applicant exercises said interchange privilege with one carrier, he shall interchange with all other connecting carriers, and said applicant shall not enter into any interchange agreement or arrangement which will interfere in any way with the rendition of convenient local service, which is the primary object of this Order.\u201d</blockquote>\n<p id=\"b66-10\">It is this interchange provision of the certificate of which petitioner complains.</p>\n<p id=\"b67-4\"><page-number citation-index=\"1\" label=\"43\">*43</page-number>It follows as a matter of course that upon the issuance of a certificate of public necessity and convenience to an applicant that the rules relating to interchange apply in conformity with the existing declared policy, unless a showing is made that in the instant case the applicant should come within the exception. No such showing was made and the Commission made no such finding.</p>\n<p id=\"b67-5\">Of course even an executed agreement binding on the parties would not be binding on the Commission in regard to the discharge of its functions in relation to the public welfare.</p>\n<p id=\"b67-6\">It is to be assumed that the Commission stands ready to hear application by any party affected to place applicant within the exception so as to prohibit interchange practice.</p>\n<p id=\"b67-7\">In consideration whereof the petition for certiorari is denied.</p>\n<judges id=\"b67-8\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

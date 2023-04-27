@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"498\" lastpage=\"498\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">LITTLE v. NASEKOS BLDG. CONTRACTORS, INC.</parties>\n<docketnumber id=\"p-2\">No. COA03-1371.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed March 1, 2005.</decisiondate>\n<decisiondate id=\"p-5\">Certification Date March 21, 2005.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Case reported without published opinion. Affirmed in part; vacated and remanded in part.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"498\" lastpage=\"498\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    LITTLE v. NASEKOS BLDG. CONTRACTORS, INC.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA03-1371.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed March 1, 2005.\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date March 21, 2005.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Case reported without published opinion. Affirmed in part; vacated and remanded in part.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

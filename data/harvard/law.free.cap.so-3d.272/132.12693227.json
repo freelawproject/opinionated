@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"132\" lastpage=\"132\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">DESOTO COUNTY, Mississippi<br/> v.<br/> STANDARD CONSTRUCTION COMPANY, INC.</parties>\n<docketnumber id=\"p-2\">2018-CT-00027-SCT</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: May 10, 2019<br/> Closed: June 27, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Motion Desc: Appellant's Petition for Writ of Certiorari.</p><p id=\"p-6\">Certiorari - Granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"132\" lastpage=\"132\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    DESOTO COUNTY, Mississippi\n    <br/>\n    v.\n    <br/>\n    STANDARD CONSTRUCTION COMPANY, INC.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-CT-00027-SCT\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: May 10, 2019\n    <br/>\n    Closed: June 27, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Motion Desc: Appellant's Petition for Writ of Certiorari.\n    </p>\n    <p id=\"p-6\">\n     Certiorari - Granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

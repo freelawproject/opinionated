@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"712\" lastpage=\"712\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">CITIMORTGAGE, INC., a New York Corporation, Appellant,<br/> v.<br/> K &amp; P HOMES, LLC, a Series Limited Liability Company of Dek Holdings, LLC, a Nevada Limited Liability Company, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 71016</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">JULY 20, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"712\" lastpage=\"712\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    CITIMORTGAGE, INC., a New York Corporation, Appellant,\n    <br/>\n    v.\n    <br/>\n    K &amp; P HOMES, LLC, a Series Limited Liability Company of Dek Holdings, LLC, a Nevada Limited Liability Company, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 71016\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    JULY 20, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"378\" lastpage=\"378\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE the DISSEMINATION OF CONFIDENTIAL CRIMINAL JUSTICE INFORMATION</parties>\n<docketnumber id=\"p-2\">Bobby Francis Lowry, Appellant,<br/> v.<br/> State of Montana, Appellee.</docketnumber>\n<docketnumber id=\"p-3\">DA 17-0646</docketnumber>\n<court id=\"p-4\">Supreme Court of Montana.</court>\n<decisiondate id=\"p-5\">Submitted on Briefs: July 18, 2018<br/> Decided: August 28, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"378\" lastpage=\"378\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE the DISSEMINATION OF CONFIDENTIAL CRIMINAL JUSTICE INFORMATION\n   </parties>\n   <parties id=\"p-2\">\n    Bobby Francis Lowry, Appellant,\n    <br/>\n    v.\n    <br/>\n    State of Montana, Appellee.\n   </parties>\n   <docketnumber id=\"p-3\">\n    DA 17-0646\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Montana.\n   </court>\n   <decisiondate id=\"p-5\">\n    Submitted on Briefs: July 18, 2018\n    <br/>\n    Decided: August 28, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

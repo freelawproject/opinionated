@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "1 Del. Cas. 518"
-        },
-        {
-            "type": "parallel",
-            "cite": "Clayton\u2019s Notebook, 36"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Del. Cas. 518"
+    },
+    {
+      "type": "parallel",
+      "cite": "Clayton\u2019s Notebook, 36"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"518\" lastpage=\"519\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b586-11\">JOSEPH BARKER v. THOMAS REYNOLDS.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b586-12\">Court of Common Pleas.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AVJ6\">December 3, 1814.</decisiondate>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b586-13\">\n<em>Clayton\u2019s Notebook 36.</em>\n</citation>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b587-6\"><page-number citation-index=\"1\" label=\"519\">*519</page-number><em>Ridgely, </em>for plaintiff,</attorneys>\n<p data-order=\"5\" data-type=\"legal\" id=\"AIUP\">moved for a new trial because the jury had given less than they ought.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b587-7\"><em>Clayton </em>and <em>Hall</em></attorneys>\n<p data-order=\"7\" data-type=\"attorneys\" id=\"AMg2\">opposed the motion.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b587-8\">Per Curiam.</author>\n<p id=\"AZs\">It appeared that Orrell, the clerk, had dealings with the defendant and that the defendant had taken receipts signed \u201cJohn Orrell\u201d only, which receipts have by the jury been defalked as acknowledgments of Barker, the plaintiff. The circumstances are such, on the whole, that we think plaintiff has not adduced all the evidence in his power and has been surprised.</p>\n<p id=\"b587-9\"><em>(Vide Price v. Brown, </em>2 Str. 691.)</p>\n<p id=\"b587-10\">New trial granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

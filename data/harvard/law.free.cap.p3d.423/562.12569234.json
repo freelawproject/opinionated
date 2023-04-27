@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"562\" lastpage=\"562\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN the INTERESTS OF V.S., A.S., and E.J., Minor Children.</parties>\n<docketnumber id=\"p-2\">119,009<br/> 119,010<br/> 119,011</docketnumber>\n<court id=\"p-3\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-4\">Opinion filed August 10, 2018.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"562\" lastpage=\"562\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN the INTERESTS OF V.S., A.S., and E.J., Minor Children.\n   </parties>\n   <docketnumber id=\"p-2\">\n    119,009\n    <br/>\n    119,010\n    <br/>\n    119,011\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed August 10, 2018.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

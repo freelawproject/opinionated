@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"576\" lastpage=\"576\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">EX PARTE CONTINENTAL MOTORS, INC.</parties>\n<docketnumber id=\"p-2\">1151260</docketnumber>\n<court id=\"p-3\">Supreme Court of Alabama.</court>\n<decisiondate id=\"p-4\">February 17, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Mand. pet. denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"576\" lastpage=\"576\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    EX PARTE CONTINENTAL MOTORS, INC.\n   </parties>\n   <docketnumber id=\"p-2\">\n    1151260\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Alabama.\n   </court>\n   <decisiondate id=\"p-4\">\n    February 17, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Mand. pet. denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

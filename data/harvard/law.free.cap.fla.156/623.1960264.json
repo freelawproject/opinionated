@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "156 Fla. 623"
-        },
-        {
-            "type": "parallel",
-            "cite": "24 So. (2nd) 51"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "156 Fla. 623"
+    },
+    {
+      "type": "parallel",
+      "cite": "24 So. (2nd) 51"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"623\" lastpage=\"624\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b647-16\">S. A. CONKLIN v. G. G. SIRMAN, doing business as Tropical Awning Shutter Company, not Inc., R. S. EVANS, et al.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b647-17\">24th So. (2nd) 51</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"ALl\">June Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AXX\">December 4, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AOqP\">Division A</court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"Aqb\">Rehearing denied Jan. 3, 1946</otherdate>\n<p data-order=\"6\" data-type=\"court\" id=\"Amo\">Division A</p>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b647-19\"><em>Frank L. Butts, </em>for appellant.</attorneys>\n<attorneys data-order=\"8\" data-type=\"attorneys\" id=\"b647-20\"><em>Knight, Underwood &amp; Cullen, </em>for appellees.</attorneys>\n<opinion data-order=\"9\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b648-3\"><page-number citation-index=\"1\" label=\"624\">*624</page-number>PER CURIAM:</author>\n<p id=\"b648-4\">This appeal is from a decree of the chancellor approving findings of fact by a master. Error has not been clearly shown so the decree is affirmed.</p>\n<judges id=\"b648-5\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

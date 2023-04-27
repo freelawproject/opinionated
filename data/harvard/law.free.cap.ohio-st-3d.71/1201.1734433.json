@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1201\" lastpage=\"1201\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b807-4\">Cincinnati Bar Association v. Nienaber.</parties>\n\n<docketnumber id=\"AB24\">(No. 93-2521</docketnumber>\n<decisiondate id=\"AppU\">Submitted and Decided October 11, 1994.)</decisiondate>\n<judges id=\"b807-12\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n<opinion><p id=\"b807-5\">[Cite as <em>Cincinnati Bar Assn. v. Nienaber </em>(1994), 71 Ohio St.3d 1201.]</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"1201\" lastpage=\"1201\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b807-4\">Cincinnati Bar Association v. Nienaber.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AB24\">(No. 93-2521</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AppU\">Submitted and Decided October 11, 1994.)</decisiondate>\n<judges data-order=\"3\" data-type=\"attorneys\" id=\"b807-12\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b807-5\">[Cite as <em>Cincinnati Bar Assn. v. Nienaber </em>(1994), 71 Ohio St.3d 1201.]</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

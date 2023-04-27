@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1232\" lastpage=\"1232\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF the GUARDIANSHIP OF the person and Estate of Larry RAGSDALE, an adult former protected person.</parties>\n<docketnumber id=\"p-2\">Larry Ragsdale, Appellant,<br/> v.<br/> Shannon Ernst, Public Guardian, Respondent.</docketnumber>\n<docketnumber id=\"p-3\">No. 76016</docketnumber>\n<court id=\"p-4\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-5\">FILED JULY 27, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">DISMISSED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1232\" lastpage=\"1232\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF the GUARDIANSHIP OF the person and Estate of Larry RAGSDALE, an adult former protected person.\n   </parties>\n   <parties id=\"p-2\">\n    Larry Ragsdale, Appellant,\n    <br/>\n    v.\n    <br/>\n    Shannon Ernst, Public Guardian, Respondent.\n   </parties>\n   <docketnumber id=\"p-3\">\n    No. 76016\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-5\">\n    FILED JULY 27, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

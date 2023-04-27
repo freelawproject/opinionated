@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1250\" lastpage=\"1250\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE EX REL ODOMS, Donald C.<br/> v.<br/> OFFENDER INFORMATION AND SENTENCING COMPUTATION CENTER et al.</parties>\n<docketnumber id=\"p-2\">A163912</docketnumber>\n<court id=\"p-3\">Court of Appeals of Oregon.</court>\n<decisiondate id=\"p-4\">January 24, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1250\" lastpage=\"1250\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE EX REL ODOMS, Donald C.\n    <br/>\n    v.\n    <br/>\n    OFFENDER INFORMATION AND SENTENCING COMPUTATION CENTER et al.\n   </parties>\n   <docketnumber id=\"p-2\">\n    A163912\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Oregon.\n   </court>\n   <decisiondate id=\"p-4\">\n    January 24, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

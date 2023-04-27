@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"289\" lastpage=\"289\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Robert S. PIERCE, Petitioner and Appellant,<br/> v.<br/> Tim BARKELL; Bill Sather; Steve Barclay ; Malissa Rasaakka; M.R., Minor Child; and Anaconda-Deer Lodge County, Respondents and Appellees.</parties>\n<docketnumber id=\"p-2\">DA 17-0472</docketnumber>\n<court id=\"p-3\">Supreme Court of Montana.</court>\n<decisiondate id=\"p-4\">Submitted on Briefs: February 28, 2018<br/> Decided: March 20, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"289\" lastpage=\"289\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Robert S. PIERCE, Petitioner and Appellant,\n    <br/>\n    v.\n    <br/>\n    Tim BARKELL; Bill Sather; Steve Barclay ; Malissa Rasaakka; M.R., Minor Child; and Anaconda-Deer Lodge County, Respondents and Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    DA 17-0472\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Montana.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted on Briefs: February 28, 2018\n    <br/>\n    Decided: March 20, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

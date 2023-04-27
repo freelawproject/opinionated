@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"288\" lastpage=\"288\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Kenneth ALFORD, et al., Appellants<br/> v.<br/> JOHNSON COUNTY COMMISSIONERS, et al.</parties>\n<court id=\"p-2\">Supreme Court of Indiana.</court>\n<decisiondate id=\"p-3\">May 24, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">Transfer denied. All Justices concur, except Slaughter and Goff, JJ., who did not participate in the decision of this matter.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"288\" lastpage=\"288\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Kenneth ALFORD, et al., Appellants\n    <br/>\n    v.\n    <br/>\n    JOHNSON COUNTY COMMISSIONERS, et al.\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Indiana.\n   </court>\n   <decisiondate id=\"p-3\">\n    May 24, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Transfer denied. All Justices concur, except Slaughter and Goff, JJ., who did not participate in the decision of this matter.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

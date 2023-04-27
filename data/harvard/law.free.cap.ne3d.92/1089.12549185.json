@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1089\" lastpage=\"1089\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Lucy MUNDIA, Appellee<br/> v.<br/> DRENDALL LAW OFFICE, PC</parties>\n<court id=\"p-2\">Supreme Court of Indiana.</court>\n<decisiondate id=\"p-3\">September 7, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">Transfer denied. All Justices concur, except Massa and Slaughter, JJ., who vote to grant the petition to transfer.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1089\" lastpage=\"1089\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Lucy MUNDIA, Appellee\n    <br/>\n    v.\n    <br/>\n    DRENDALL LAW OFFICE, PC\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Indiana.\n   </court>\n   <decisiondate id=\"p-3\">\n    September 7, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Transfer denied. All Justices concur, except Massa and Slaughter, JJ., who vote to grant the petition to transfer.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

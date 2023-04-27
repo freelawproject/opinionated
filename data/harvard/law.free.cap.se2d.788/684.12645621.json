@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"684\" lastpage=\"684\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Kellye J. BIBBS, Plaintiff,<br/> v.<br/> James S. BIBBS, Defendant.</parties>\n<docketnumber id=\"p-2\">No. COA15-1030.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">June 7, 2016.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>CASE REPORTED WITHOUT PUBLISHED OPINION</strong></p><p id=\"p-6\">Reversed and Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"684\" lastpage=\"684\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Kellye J. BIBBS, Plaintiff,\n    <br/>\n    v.\n    <br/>\n    James S. BIBBS, Defendant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA15-1030.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    June 7, 2016.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      CASE REPORTED WITHOUT PUBLISHED OPINION\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Reversed and Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

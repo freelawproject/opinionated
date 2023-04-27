@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "158 Fla. 749"
-        },
-        {
-            "type": "parallel",
-            "cite": "30 So.2d 100"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 Fla. 749"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 So.2d 100"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"749\" lastpage=\"749\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b773-4\">ODEN A. SCHAEFFER et ux, v. GERDA V. YOUNG (formerly Gerda V. Schaeffer) and ALFRED YOUNG, her husband</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b773-6\">30 (2nd) 100</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"ASC\">January Term, 1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b773-7\">April 22, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Ako\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b773-9\"><em>Hunt &amp; Salley, </em>for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b773-10\"><em>O. C. Parker, Jr., </em>and <em>Daniel P. Galen, </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A4s\">BUFORD, J.:</author>\n<p id=\"b773-11\">This is the third appearance of the issues involved in this case here. See Young et al v. Schaeffer, 155 Fla. 887, 22 So. (2) 252; Schaeffer et al v. Young et al, 157 Fla. 611, 26 So. (2) 725. The principles of law presented and determined in our disposition of those cases are identical with those presented on this appeal.</p>\n<p id=\"b773-12\">In fact, the burden of the insistence made by the appellant is that we reconsider our action in those cases and now overrule what was held in those cases and thereupon to reverse the decree which is the basis of this decree.</p>\n<p id=\"b773-13\">We find no error in the decree and, therefore, the same is affirmed on authority of our opinions and judgments in the cases above referred to.</p>\n<p id=\"b773-14\">So ordered.</p>\n<judges id=\"b773-15\">THOMAS, C. J., ADAMS and BARNS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

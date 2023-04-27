@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"570\" lastpage=\"570\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">WHITE-SPUNNER CONSTRUCTION, INC., and Hartford Fire Insurance Co.<br/> v.<br/> J &amp; J LAND DEVELOPMENT, INC.</parties>\n<docketnumber id=\"p-2\">1150330</docketnumber>\n<court id=\"p-3\">Supreme Court of Alabama.</court>\n<decisiondate id=\"p-4\">March 10, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"570\" lastpage=\"570\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    WHITE-SPUNNER CONSTRUCTION, INC., and Hartford Fire Insurance Co.\n    <br/>\n    v.\n    <br/>\n    J &amp; J LAND DEVELOPMENT, INC.\n   </parties>\n   <docketnumber id=\"p-2\">\n    1150330\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Alabama.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 10, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

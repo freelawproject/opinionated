@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"481\" lastpage=\"481\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE the MARRIAGE OF:</parties>\n<docketnumber id=\"p-2\">Kristin K. STRATFORD, Petitioner and Appellant,<br/> and<br/> Stephen J. ELDREDGE, Respondent and Appellee.</docketnumber>\n<docketnumber id=\"p-3\">DA 17-0477</docketnumber>\n<court id=\"p-4\">Supreme Court of Montana.</court>\n<decisiondate id=\"p-5\">Submitted on Briefs: February 6, 2018<br/> Decided: April 10, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Reversed. Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"481\" lastpage=\"481\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE the MARRIAGE OF:\n   </parties>\n   <parties id=\"p-2\">\n    Kristin K. STRATFORD, Petitioner and Appellant,\n    <br/>\n    and\n    <br/>\n    Stephen J. ELDREDGE, Respondent and Appellee.\n   </parties>\n   <docketnumber id=\"p-3\">\n    DA 17-0477\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Montana.\n   </court>\n   <decisiondate id=\"p-5\">\n    Submitted on Briefs: February 6, 2018\n    <br/>\n    Decided: April 10, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Reversed. Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

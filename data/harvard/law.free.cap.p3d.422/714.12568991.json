@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"714\" lastpage=\"714\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Chuck J. REINECK; and Jeanette J. Reineck, Appellants,<br/> v.<br/> SEASIDE TRUSTEE, INC.; and Bayview Loan Servicing, LLC, Respondents.</parties>\n<docketnumber id=\"p-2\">No. 76169</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED JULY 24, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"714\" lastpage=\"714\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Chuck J. REINECK; and Jeanette J. Reineck, Appellants,\n    <br/>\n    v.\n    <br/>\n    SEASIDE TRUSTEE, INC.; and Bayview Loan Servicing, LLC, Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 76169\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED JULY 24, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "13 Ct. Cl. 522"
-        },
-        {
-            "type": "parallel",
-            "cite": "95 U. S. R., 748"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "13 Ct. Cl. 522"
+    },
+    {
+      "type": "parallel",
+      "cite": "95 U. S. R., 748"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"522\" lastpage=\"522\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<headnotes data-order=\"0\" data-type=\"headnotes\" id=\"b534-8\">MEIGS\u2019S CASE.</headnotes>\n<p data-order=\"1\" data-type=\"p\" id=\"b534-9\">(Not reported in C. Cls. R.;</p>\n<citation data-order=\"2\" data-type=\"citation\" id=\"A-_F\">95 U. S. R., 748.)</citation>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b534-10\">Return J. Meigs and Others, appellees <em>v. </em>The United States, appellants.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b534-11\">\n<em>On the defendants' Appeal.</em>\n</summary>\n<syllabus data-order=\"5\" data-type=\"syllabus\" id=\"b534-12\"><em>The </em>Twenty-per cent. Resolution, 28thFebruary, 1867 (14 Stat. L.. 569), <em>gives an increase of pay to employ\u00e9s of the Executive Departments. The deputy cleric, crier, and messenger of the Supreme Court of the District of Columbia claim that the resolution extends to them.</em></syllabus>\n<syllabus data-order=\"6\" data-type=\"syllabus\" id=\"b534-13\">The court below holds in <em>Huntington\u2019s Case </em>(8 C. Cls. R., 495) that the <em>Twenty per cent. Resolution, </em>1867 (14 Stat L., 569) does not extend to the clerks and employ\u00e9s of the judiciary, and, accordingly, in this case, that the claimants are not entitled to the benefits of the resolution. But the claimants having no right of appeal, judgment <em>proforma,, </em>for the purposes of an appeal, is rendered in their favor. The defendants appeal.</syllabus>\n<syllabus data-order=\"7\" data-type=\"syllabus\" id=\"b534-14\">The judgment pro/oma of the court below is reversed. The Supreme Court holds with the Court of Claims in <em>Huntington\u2019s Case </em>(8. C. Cls. R., 495), that the clerks and employ\u00e9s of a court are not entitled to the benefits of the <em>Twenty per cent. Resolution, </em>1867 (14 Stat. L., 569).</syllabus>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b534-15\">Mr. Justice Miller</author>\n<p id=\"Axs\">delivered tbe opinion of tbe Supreme Court, January 21, 1878.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }
