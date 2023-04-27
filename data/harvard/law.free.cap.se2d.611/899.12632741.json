@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"899\" lastpage=\"899\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">WHITAKER v. WHITAKER.</parties>\n<docketnumber id=\"p-2\">No. COA04-10.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed March 15, 2005.</decisiondate>\n<decisiondate id=\"p-5\">Certification Date April 4, 2005.</decisiondate>\n<history id=\"p-6\">Appeal from the Forsyth (02CVS1327).</history>\n\n<opinion type=\"majority\"><p id=\"p-7\">Case reported without published opinion. Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"899\" lastpage=\"899\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    WHITAKER v. WHITAKER.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA04-10.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed March 15, 2005.\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date April 4, 2005.\n   </decisiondate>\n   <history id=\"p-6\">\n    Appeal from the Forsyth (02CVS1327).\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     Case reported without published opinion. Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"551\" lastpage=\"551\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE<br/> v.<br/> RUCKER</parties>\n<docketnumber id=\"p-2\">2018-1411</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">December 12, 2018</decisiondate>\n\n\n<judges id=\"p-7\">KENNEDY and FRENCH, JJ., dissent.</judges>\n<opinion type=\"majority\"><p id=\"p-5\"><strong>MOTION AND PROCEDURAL RULING</strong></p><p id=\"p-6\">On motion for leave to file delayed appeal. Motion denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"551\" lastpage=\"551\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE\n    <br/>\n    v.\n    <br/>\n    RUCKER\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-1411\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    December 12, 2018\n   </decisiondate>\n   <judges id=\"p-7\">\n    KENNEDY and FRENCH, JJ., dissent.\n   </judges>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      MOTION AND PROCEDURAL RULING\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     On motion for leave to file delayed appeal. Motion denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"804\" lastpage=\"804\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b734-6\">Sylvester M. DaFonte <em>v. </em>Den-Jo Automatic Transmission Company et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b734-7\">(5347)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b734-8\">Hull, Borden and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b734-9\">Submitted on briefs April 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aku\">decision released April 10, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b734-11\"><em>Mark K. Zackrison </em>filed a brief for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b734-12\"><em>Robert P. Cohen </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b734-13\">Per Curiam.</author>\n<p id=\"Ahn\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

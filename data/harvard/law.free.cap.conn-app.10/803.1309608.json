@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"804\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b733-13\">Daniel DeVarti <em>v. </em>Theodore L. Kemp</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AVS\">(5169)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b733-14\">Hull, Borden and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b733-15\">Submitted on briefs April 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AfyS\">decision released April 10, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b734-3\"><page-number citation-index=\"1\" label=\"804\">*804</page-number><em>Thomas M. Cassone </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b734-4\"><em>John J. LaCava </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b734-5\">Per Curiam.</author>\n<p id=\"A46\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"930\" lastpage=\"930\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b884-9\">Silverberg, Marvin and Swaim, P.C. <em>v. </em>Henry Malachowski</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Akl\">(9709)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b884-11\">Daly, Foti and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b884-12\">Argued December 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AWM\">decision released December 31, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b884-14\"><em>Vincent M. Simko, </em>with whom, on the brief, was <em>Henry Malachowski, </em>pro se, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b884-15\"><em>David S. Golub, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b884-16\">Per Curiam.</author>\n<p id=\"A4-\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

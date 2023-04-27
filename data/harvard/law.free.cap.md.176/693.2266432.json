@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"693\" lastpage=\"694\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b721-7\">ELIZA CORBIN <em>v. </em>WILLIAM W. POWELL, Trustee</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AZy\">[No. 16,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Avr\">January Term, 1939.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b721-10\">\n<em>Decided February 22nd, 1939.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b721-13\">The cause was argued before Bond, C. J., Offutt, Parke, Sloan, Mitchell, Shehan, Johnson, and Delaplaine, JJ. \u25a0-</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b722-3\"><page-number citation-index=\"1\" label=\"694\">*694</page-number><em>Josiah F. Henry, Jr., </em>and <em>Arthur E. Briscoe, </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b722-4\"><em>Robert C. McKee </em>and <em>William W. Powell, </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b722-5\">Parke, J.,</author>\n<p id=\"Asj\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

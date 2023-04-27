@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"946\" lastpage=\"946\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b958-3\">Watkins <em>v. </em>New York Cent. &amp; H. R. R. Co.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b958-4\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ax-G\">May 7, 1888.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A6M\">Case submitted on agreed statement.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b958-5\">Argued before Sedgwick, C. J\u201e and Freedman and O\u2019Gorman, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AFE\"><em>Frederick </em>Hemming, for plaintiff. <em>H. F. Kenney, </em>for defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b958-6\">Per Curiam.</author>\n<p id=\"AOj\">There should be judgment for defendant, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

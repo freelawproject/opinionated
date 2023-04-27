@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"922\" lastpage=\"922\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b876-2\">Northeastern University <em>v. </em>Lorretta Robinson</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b876-3\">(9997)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b876-4\">Daly, O\u2019Connell and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b876-5\">Submitted on briefs December 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A4mD\">decision released December 17, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b876-7\"><em>Lorretta Robinson, </em>pro se, the appellant (defendant) filed a brief.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b876-8\"><em>Norbert W. Church, Jr., </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b876-9\">Per Curiam.</author>\n<p id=\"A4I\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b745-2\">State of Connecticut <em>v. </em>Victor Rusgaitis</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ayyc\">(7124)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b745-3\">Borden, Daly and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b745-4\">Argued June 15 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVpd\">decision released June 21, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b745-6\"><em>Victor Rusgaitis, </em>pro se, the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b745-7\"><em>Geoffrey E. Marion, </em>deputy assistant state\u2019s attorney, with whom, on the brief, were <em>John A. Connelly, </em>state\u2019s attorney, and <em>Karen Diebolt, </em>deputy assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b745-8\">Per Curiam.</author>\n<p id=\"AWu\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1212\" lastpage=\"1212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<docketnumber id=\"p-2\">No. 2018-OB-0467</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">October 29, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-1\">IN RE: Appeal of the DECISION OF the DISCIPLINARY BOARD</p><p id=\"p-5\">Reconsideration denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1212\" lastpage=\"1212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <docketnumber id=\"p-2\">\n    No. 2018-OB-0467\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    October 29, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-1\">\n     IN RE: Appeal of the DECISION OF the DISCIPLINARY BOARD\n    </p>\n    <p id=\"p-5\">\n     Reconsideration denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

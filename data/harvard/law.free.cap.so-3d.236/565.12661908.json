@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"565\" lastpage=\"565\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Cynthia WALLER, et al.\n  <br/>\n  v.\n  <br/>\n  CHEVRON U.S.A., et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2017-CC-2164\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  February 23, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE CIVIL DISTRICT COURT FOR THE PARISH OF ORLEANS\n  </strong>\n </p>\n <opinion id=\"p-6\">\n  Writ application denied.\n </opinion>\n <judges id=\"p-7\">\n  Crichton, J., would grant and assigns reasons.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   I would grant this application to examine the issue of improper venue in Orleans Parish.\n   <em>\n    See\n   </em>\n   La. C.C.P. art. 73.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

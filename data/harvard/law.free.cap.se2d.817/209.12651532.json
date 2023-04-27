@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"209\" lastpage=\"209\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Charles Antonio MEANS\n </parties>\n <docketnumber id=\"p-2\">\n  No. 266P18\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 23, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Mr. Charles Antonio Means, for Means, Charles Antonio\n </attorneys>\n <attorneys id=\"p-6\">\n  Mr. Daniel P. O'Brien, Special Deputy Attorney General, for State of N.C.\n </attorneys>\n <attorneys id=\"p-7\">\n  Ms. Susan I. Doyle, District Attorney, for State\n </attorneys>\n <p id=\"p-8\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   Upon consideration of the application filed by Defendant on the 22nd of August 2018 in this matter for Writ of Habeas Corpus, the following order was entered and is hereby certified to the Superior Court, Johnston County:\n  </p>\n  <p id=\"p-10\">\n   \"Dismissed by order of the Court in conference, this the 23rd of August 2018.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1056-7\">CIMIOTTI UNHAIRING CO. et al. v. SCHULANG.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ADA\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AoD\">October 29, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AM5\">No. 11.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AL3\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AYF\">Theodore B. Chancello, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AToi\">Louis C. Raegener, for appellees.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AVLl\">Before WALLACE, TOWNSEND, and COXE, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0Z\">No opinion. Order reversed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

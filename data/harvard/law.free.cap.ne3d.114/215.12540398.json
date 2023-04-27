@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"215\" lastpage=\"215\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  COVELL\n  <br/>\n  v.\n  <br/>\n  COVELL\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1443\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  December 26, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <history id=\"p-6\">\n  APPEALS NOT ACCEPTED FOR REVIEW\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   Kennedy, J., dissents.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

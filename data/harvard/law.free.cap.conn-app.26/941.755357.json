@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"941\" lastpage=\"941\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b895-9\">Oxford Paint and Hardware, Inc. <em>v. </em>Hubert Baxter et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b895-11\">(10405)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b895-12\">Landau, Heiman and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b895-13\">Argued January 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aa1\">decision released February 4, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b895-15\"><em>Raymond A. Desautels III, </em>with whom, on the brief, were <em>Ralph C. Crozier </em>and <em>Allan Friedman, </em>certified legal intern, for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b895-16\"><em>Frederick W. Krug, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b895-17\">Per Curiam.</author>\n<p id=\"Aefi\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

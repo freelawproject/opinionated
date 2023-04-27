@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"834\" lastpage=\"835\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b768-13\">William Foley <em>v. </em>City of New Britain et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b768-14\">(7048)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b768-15\">Spallone, O\u2019Connell and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b768-16\">Argued February 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AEl\">decision released February 22, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b769-3\"><page-number citation-index=\"1\" label=\"835\">*835</page-number><em>Harold J. Geragosian, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b769-4\"><em>Jason M. Dodge, </em>with whom were <em>Joseph E. Skelly, Jr., </em>and, on the brief, <em>James L. Pomeranz, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b769-5\">Per Curiam.</author>\n<p id=\"A4Ar\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

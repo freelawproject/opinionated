@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"971\" lastpage=\"971\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b989-11\">People <em>ex rel. </em>Brush Illuminating Co., Appellant, <em>v. </em>Wemple, Comptroller, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b989-12\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ADVv\">September 25, 1891.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"Aex3\">Argued before Learned, P. J., and Landon and Mayham, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b989-13\">No opinion. Motion to amend granted. For opinion on appeal, see 15 N. Y. Supp. 718.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

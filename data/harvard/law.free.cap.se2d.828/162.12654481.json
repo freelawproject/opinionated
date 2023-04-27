@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"162\" lastpage=\"162\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Christopher Lee NEAL\n </parties>\n <docketnumber id=\"p-2\">\n  No. 102P19\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  June 11, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Christopher Lee Neal, For Neal, Christopher Lee.\n </attorneys>\n <attorneys id=\"p-6\">\n  Kimberly N. Callahan, Assistant Attorney General, H. Sean Boone, Assistant District Attorney, Jocelyn C. Wright, Attorney at Law, Patrick Nadolski, District Attorney, For State of North Carolina.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Defendant on the 26th of March 2019 in this matter for a writ of mandamus, the following order was entered and is hereby certified to the Superior Court, Alamance County:\n  </p>\n  <p id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 11th of June 2019.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

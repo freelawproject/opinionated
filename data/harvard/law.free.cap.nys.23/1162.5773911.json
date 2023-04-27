@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1162\" lastpage=\"1162\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1194-11\">HARTLEY, Respondent, v. MEYER, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1194-12\">(Common Pleas of New York City and County,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AOQ\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AE9Y\">June 19, 1893.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1194-13\">Action by Marcelina Hartley against Arthur L. Meyer.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1194-14\">M. H. Regensberger, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1194-15\">Alexander &amp; Green, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1194-16\">No opinion. Motion for reargument. Reargument denied, with $10 costs. See 20 N. Y. Supp. 855.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

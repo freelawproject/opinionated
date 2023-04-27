@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b974-5\">JEREMIAH HILL, PROSECUTOR, v. CITY OF BAYONNE, RESPONDENT.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b974-6\">Decided October 7, 1924.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b974-8\">Before Justices Kalisch, Black and Campbell.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b974-9\">For the prosecutor, <em>Bichard Doherty.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b974-10\">For the respondent, <em>Eugene T. Sharkey.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b974-11\">Memorandum,</author>\n<p id=\"b974-12\">The posecutor having failed to file his brief, the writ of <em>certiorari </em>is dismissed, with costs, for lack of prosecution.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

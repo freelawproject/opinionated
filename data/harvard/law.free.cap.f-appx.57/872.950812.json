@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"872\" lastpage=\"873\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b908-34\">MELKA MARINE, INC., Plaintiff-Appellant, v. UNITED STATES, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Alx\">No. 02-5166.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b908-36\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b908-37\">March 7, 2003.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b909-4\"><page-number citation-index=\"1\" label=\"873\">*873</page-number>Before MAYER, Chief Judge, LOURIE and CLEVENGER, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b909-5\">Judgment</p>\n<author id=\"ARZ\">PER CURIAM.</author>\n<p id=\"b909-6\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b909-7\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

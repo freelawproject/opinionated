@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1168\" lastpage=\"1168\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1200-5\">WILLIAMS, Respondent, v. BRITTANNICA PUB. CO., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1200-6\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aim-\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aas\">June 19, 1893.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1200-7\">Action by Ramon V. Williams against the Brittannica Publishing Company.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"Adhb\">Argued before McG\u00d3WN, VAN WYCK, and FITZSIMONS, JJ. *</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1200-8\">Smith <em>&amp; </em>White, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1200-9\">S. Mallet Prevost, for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1200-10\">FITZSIMONS, J.</author>\n<p id=\"AH7\">Finding no meritorious objection to the judgment herein, it is affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

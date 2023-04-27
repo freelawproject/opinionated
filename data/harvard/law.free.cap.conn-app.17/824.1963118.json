@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"824\" lastpage=\"824\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b758-4\">Anthony Lorenzo <em>v. </em>Frank B. Hall and Company, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b758-5\">(7163)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b758-6\">Dupont, C. J., Norcott and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b758-7\">Submitted on briefs January 12</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Akl\">decision released January 18, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b758-9\"><em>Robert E. Beach, Jr., </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b758-10\"><em>Gerald F. Stevens </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b758-11\">Per Curiam.</author>\n<p id=\"AzOW\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

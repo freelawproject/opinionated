@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"826\" lastpage=\"826\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b766-2\">Joseph Cewe, Administrator (Estate of Mark D. Cewe) <em>v. </em>Henry Bohn, Jr., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b766-4\">(8234)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b766-5\">Daly, O\u2019Connell and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b766-6\">Argued May 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AKz\">decision released May 10, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b766-8\"><em>Howard A. Lawrence, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b766-9\"><em>PaulE. Pollock, </em>for the appellees (named defendant et al.).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b766-10\">Per Curiam.</author>\n<p id=\"Acf\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"699\" lastpage=\"699\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b729-8\">Duyonn Andre VINCENT, Petitioner\u2014Appellee, v. Kurt JONES, Respondent\u2014Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AgMT\">No. 00-2441.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AvKX\">United States Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AFBA\">July 9, 2003.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b729-15\">Before SUHRHEINRICH and GILMAN, Circuit Judges; and HOOD, District Judge.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b729-16\">ORDER</p>\n<p id=\"b729-17\">Upon receipt of the judgment of the Supreme Court of the United States reversing the judgment of this court, the matter is hereby remanded to the district court with instructions to deny the writ of habeas corpus in accordance with the opinion of the Supreme Court.</p>\n<p id=\"b729-18\">IT IS SO ORDERED.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

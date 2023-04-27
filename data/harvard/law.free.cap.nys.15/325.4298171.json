@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"325\" lastpage=\"325\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b343-4\">Jube, Respondent, <em>v. </em>Hodge, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b343-5\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AtG\">March 3, 1891.)</decisiondate>\n<p data-order=\"3\" data-type=\"headnotes\" id=\"AAd\">On reargument.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b343-6\"><em>I. N. Williams, </em>for appellant. <em>A. Gilhooly, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b343-7\">Per Curiam.</author>\n<p id=\"Aza\">Final order reversed, with $10 costs. The reversal on the former argument to stand. See 11 N. Y. Supp. 957, <em>mem.; </em>12 N. Y. Supp. 960, <em>mem.</em></p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"527\" lastpage=\"527\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b537-6\">[*] ANONYMOUS.</parties>\n<summary data-order=\"1\" data-type=\"headnotes\" id=\"b537-7\">A <em>feme sole </em>gave a warrant of attorney to confess a judgment, and then married, and the husband run away.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b537-8\">\n<em>Eioing</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"AGQ\">moved for leave to enter up judgment against the husband and wife.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b537-9\">By the Cotjbt.</author>\n<p id=\"A82\">We think that you cannot do it.<footnotemark>1</footnotemark></p>\n<footnote label=\"1\">\n<p id=\"b537-13\"> S. P. <em>1 Bell. 279. Salh. 117. 2 Kent, 506.</em></p>\n</footnote>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"934\" lastpage=\"934\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b888-9\">Northeast Savings, F.A. <em>v. </em>Kenneth Schwartz et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b888-11\">(10502)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b888-12\">Daly, O\u2019Connell and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b888-13\">Argued January 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AyLY\">decision released January 28, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b888-15\"><em>Kerry M. Wisser, </em>with whom were <em>Jennifer Jaff </em>and, on the brief, <em>Richard P. Weinstein, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b888-16\"><em>Gerald L. Garlick, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b888-17\">Per Curiam.</author>\n<p id=\"AX3H\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

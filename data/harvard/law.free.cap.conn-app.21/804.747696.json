@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"804\" lastpage=\"804\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b744-6\">State of Connecticut <em>v. </em>Charles Batts</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AzDs\">(8289)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b744-7\">Borden, Daly and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b744-8\">Argued February 8</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A1qQ\">decision released February 23, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b744-10\"><em>Donald D. Dakers, </em>public defender, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b744-11\"><em>Leon F. Dalbec, Jr., </em>deputy assistant state\u2019s attorney, with whom, on the brief, were <em>Michael Dearington, </em>state\u2019s attorney, and <em>Michael Pepper, </em>assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b744-12\">Per Curiam.</author>\n<p id=\"AQL\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

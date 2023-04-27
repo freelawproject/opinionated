@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1253\" lastpage=\"1253\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the Matter of the Tax Appeal of Lewis W. POE, Taxpayer-Appellant<br/> v.<br/> CITY AND COUNTY OF HONOLULU, Appellee</parties>\n<docketnumber id=\"p-2\">NO. CAAP-16-0000624</docketnumber>\n<court id=\"p-3\">Intermediate Court of Appeals of Hawai'i.</court>\n<decisiondate id=\"p-4\">January 30, 2019.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>SUMMARY DISPOSITION ORDER</strong></p><p id=\"p-6\">Vacate. Remand.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1253\" lastpage=\"1253\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the Matter of the Tax Appeal of Lewis W. POE, Taxpayer-Appellant\n    <br/>\n    v.\n    <br/>\n    CITY AND COUNTY OF HONOLULU, Appellee\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. CAAP-16-0000624\n   </docketnumber>\n   <court id=\"p-3\">\n    Intermediate Court of Appeals of Hawai'i.\n   </court>\n   <decisiondate id=\"p-4\">\n    January 30, 2019.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      SUMMARY DISPOSITION ORDER\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Vacate. Remand.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

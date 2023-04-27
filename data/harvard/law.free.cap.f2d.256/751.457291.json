@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"751\" lastpage=\"751\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"aif-dedup-0\">Raymond KOENIG, Appellant, v. B. J. RHAY, Superintendent, Washington State Penitentiary, Walla Walla, Washington, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AqWW\">No. 15703.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"akk-dedup-1\">United States Court of Appeals Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AkBl\">Aug. 5, 1958.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aop\">John A. Gose, Walla Walla, Wash., for ,, , ^ '</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"aji-dedup-0\">John J. O Connell, Atty. Gen., for appellee</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AIY8\">Before MATHEWS, FEE and BARNES, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"anx-dedup-1\">PER CURIAM.</author>\n<p id=\"ABr\">This appeal is from an order denying an application of appellant for a writ of habeas corpus. The order is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

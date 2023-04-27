@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"486\" lastpage=\"486\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b540-4\">Hillsbori</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AV86\">June 4, 1935</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b540-6\">Merle J. Pratt <em>v. </em>Hazel M. Magnuson <em>&amp; a.</em></parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b540-9\"><em>Frederick J. Gaffney, </em>for the plaintiff, furnished no brief.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b540-10\"><em>Osgood &amp; Osgood </em>and <em>0. Neil Tolman, </em>for the defendants, furnished no brief.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b540-11\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"A3f\">The defendants were entitled to the order granting the motion as matter of law. <em>Farnum </em>v. <em>Company, </em>69 N. H. 231.</p>\n<p id=\"b540-13\">\n<em>Exception overruled.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

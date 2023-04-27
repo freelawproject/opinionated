@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"932\" lastpage=\"932\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b886-5\">Joseph R. Ganem <em>v. </em>Jessie M. Ganem</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A9A\">(9712)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b886-6\">Foti, Landau and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b886-7\">Argued December 13, 1991</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A3H\">decision released January 7, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b886-9\"><em>Joseph R. Ganem, </em>pro se, the appellant (plaintiff.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b886-10\"><em>Jeffrey A. Lang, </em>with whom was <em>Jeffrey D. Mickelson, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b886-11\">Per Curiam.</author>\n<p id=\"AGB\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"292\" lastpage=\"292\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF the Petition for Change of Name by: Jason Nicholas Eleson GUNN.</parties>\n<docketnumber id=\"p-2\">Jason Nicholas Eleson Gunn, Appellant.</docketnumber>\n<docketnumber id=\"p-3\">No. 77487</docketnumber>\n<court id=\"p-4\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-5\">FILED FEBRUARY 11, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"292\" lastpage=\"292\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF the Petition for Change of Name by: Jason Nicholas Eleson GUNN.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Jason Nicholas Eleson Gunn, Appellant.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    No. 77487\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-5\">\n    FILED FEBRUARY 11, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

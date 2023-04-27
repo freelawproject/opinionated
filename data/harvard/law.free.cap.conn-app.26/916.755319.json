@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"916\" lastpage=\"917\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b870-12\">Thomas J. DeMarchis <em>v. </em>Dolores R. DeMarchis</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b870-13\">(9954)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b870-14\">O\u2019Connell, Norcott and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b870-15\">Argued November 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ag_D\">decision released November 26, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b871-3\"><page-number citation-index=\"1\" label=\"917\">*917</page-number><em>James R. Smith, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Ad5\"><em>Richard J. Joseph, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b871-4\">Per Curiam.</author>\n<p id=\"A-T\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

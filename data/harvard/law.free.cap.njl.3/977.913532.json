@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"532\" lastpage=\"532\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b542-4\">LEONARD <em>against </em>FULKERSON.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b542-5\">ON CERTIORARI.</summary>\n<summary data-order=\"2\" data-type=\"summary\" id=\"b542-6\">At the trial below, on the return of the jury, the justice entered the verdict in his docket in figures, and not in words at length; but rendered no judgment.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b542-7\">\n<em>Halsted</em>\n</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"AAN\">moved the reversal of the proceedings below; first, that there was not any judgment rendered. But if the entry of the verdict by the justice could be substituted for -a judgment, yet it was in figures, and not in words at length.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b542-8\">By the Court.</author>\n<p id=\"Aj5c\">There is no judgment. Let the proceedings below be rendered void.</p>\n<p id=\"b542-9\">Proceedings made void.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

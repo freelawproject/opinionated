@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"972\" lastpage=\"972\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b990-4\">Smith, Appellant, v. Pelott, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b990-5\">(Supreme <em>Court, General Term, Third Department.</em></court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ATg\">September 25, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"Alh\">Action by James M. Smith against Frank Pelott.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b990-6\">Argued before Learned, P. J., and Landon and Mayham, JJ. .</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b990-7\">No opinion. Jurlgment affirmed, with costs. Appeal from order of referee dismissed, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

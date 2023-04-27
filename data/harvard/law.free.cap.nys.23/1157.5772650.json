@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1157\" lastpage=\"1157\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1189-26\">McHUGH, Respondent, v. MILLER, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1189-27\">(Common Pleas of New York City and County,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"ATb\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A9c\">May 1, 1893.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1189-28\">Appeal from eleventh district court.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b1189-29\">Action by Patrick McHugh against Carrie Miller.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1189-30\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, JJ.</p>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1189-31\">E. F. James, for appellant.</attorneys>\n<attorneys data-order=\"8\" data-type=\"attorneys\" id=\"b1189-32\">J. T. Fenlon, for respondent.</attorneys>\n<opinion data-order=\"9\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1189-33\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

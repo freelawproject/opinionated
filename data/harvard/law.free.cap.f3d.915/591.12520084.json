@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"591\" lastpage=\"591\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  UNITED STATES of America, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Riley BRIONES, Jr., AKA Unknown Spitz, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 16-10150\n </docketnumber>\n <court id=\"p-3\">\n  United States Court of Appeals, Ninth Circuit.\n </court>\n <decisiondate id=\"p-4\">\n  FILED FEBRUARY 13, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   THOMAS, Chief Judge:\n  </author>\n  <p id=\"p-7\">\n   Upon the vote of a majority of nonrecused active judges, it is ordered that this case be reheard en banc pursuant to Federal Rule of Appellate Procedure 35(a) and Circuit Rule 35-3. The three-judge panel disposition in this case shall not be cited as precedent by or to any court of the Ninth Circuit.\n  </p>\n  <p id=\"p-8\">\n   Judge Watford did not participate in the deliberations or vote in this case.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

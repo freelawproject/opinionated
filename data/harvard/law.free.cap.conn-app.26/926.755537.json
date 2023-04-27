@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"926\" lastpage=\"926\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b880-2\">Zef Hassane <em>v. </em>Gerald Lawrence</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AEC\">(9650)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b880-3\">Daly, Lavery and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b880-4\">Argued December 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AcN5\">decision released December 31, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b880-6\"><em>Prescott W. May, </em>with whom, on the brief, was <em>Steven P. Kulas, </em>for the appellant-appellee (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b880-7\"><em>Stephen R. Beilis, </em>for the appellee-appellant (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b880-8\">Per Curiam.</author>\n<p id=\"AjB\">The judgment is reversed and the case is remanded for further proceedings in accordance with Practice Book \u00a7 443.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"941\" lastpage=\"941\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b895-2\">Catherine Barber <em>v. </em>Ann Houle</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AvI\">(10279)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b895-3\">O\u2019Connell, Norcott and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b895-4\">Argued January 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ASEB\">decision released February 4, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b895-6\"><em>Zbigniew S. Rozbicki, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b895-7\"><em>James G. Kelly, </em>with whom, on the brief, was <em>Claudia A. Baio, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b895-8\">Per Curiam.</author>\n<p id=\"A8F\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

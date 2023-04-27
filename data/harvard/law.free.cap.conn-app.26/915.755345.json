@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b869-2\">Robert Epstein et al. <em>v. </em>Greco Auto Parts, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b869-3\">(9833)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b869-4\">Daly, Foti and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b869-5\">Argued October 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ANh\">decision released November 19, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b869-7\"><em>Jonathan Perkins, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b869-8\"><em>Frederick M. VoUono, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b869-9\">Per Curiam.</author>\n<p id=\"AS7\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

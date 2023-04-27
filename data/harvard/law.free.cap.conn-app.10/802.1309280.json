@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"802\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b732-14\">City of Meriden <em>v. </em>Audrey Willametz et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b732-15\">(4909)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b732-16\">Dupont, C. J., Hull and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b732-17\">Submitted on briefs February 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AJu\">decision released February 17, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b733-3\"><page-number citation-index=\"1\" label=\"803\">*803</page-number><em>Joseph Patrucco </em>filed a brief for the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b733-4\"><em>A. Jeffrey Somers </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b733-5\">Per Curiam.</author>\n<p id=\"AtC\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

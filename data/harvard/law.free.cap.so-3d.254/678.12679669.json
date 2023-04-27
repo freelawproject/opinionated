@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"678\" lastpage=\"679\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE: COMMITTEE ON BAR ADMISSIONS CFN-296758\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-BA-1652\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  October 12, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BAR ADMISSIONS PROCEEDING\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   After reviewing the evidence and considering the law, we conclude petitioner is eligible to be admitted to the practice of law in Louisiana.\n  </p>\n  <p id=\"p-8\">\n   <strong>\n    ADMISSION GRANTED.\n   </strong>\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

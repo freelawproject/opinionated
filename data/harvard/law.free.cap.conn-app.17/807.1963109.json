@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"807\" lastpage=\"807\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b741-6\">Harold Mayer et al. <em>v. </em>Andrew W. Evans et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b741-7\">(6235)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b741-8\">Bokden, O\u2019Connell and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b741-9\">Submitted on briefs November 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AvM\">decision released November 17, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b741-11\"><em>Philip F. Spillane </em>and <em>James D. Hirschfield </em>filed a brief for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b741-12\"><em>Murray J. Kessler </em>filed a brief for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b741-13\">Per Curiam.</author>\n<p id=\"A1r\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

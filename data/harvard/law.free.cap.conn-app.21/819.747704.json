@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"819\" lastpage=\"820\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b759-12\">Janet Hunt <em>v. </em>Andy West et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b759-13\">(8494)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b759-14\">Spallone, Norcott and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b759-15\">Argued April 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AUa\">decision released April 25, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b760-3\"><page-number citation-index=\"1\" label=\"820\">*820</page-number><em>Richard Paladino, </em>with whom, on the brief, was <em>Frederick J. Mia\u00f1o, </em>for the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b760-4\"><em>James W. Oliver, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b760-5\">Per Curiam.</author>\n<p id=\"Ab2\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

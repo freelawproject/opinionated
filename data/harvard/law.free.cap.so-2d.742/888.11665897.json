@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"AsEr\">99-0630 (La. 4/23/99)</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AjXT\">Walter SPINKS v. JAMES HUTCHINS FARMS.</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b920-14\">No. 99-C-0630.</docketnumber>\n<court data-order=\"3\" data-type=\"court\" id=\"b920-15\">Supreme Court of Louisiana.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b920-16\">April 23, 1999.</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b920-18\">IN RE: James Hutchins Farms; Hutchins, James Farms; Employers Insurance/Wausau; \u2014 Defendant(s); Applying for Writ of Certiorari and/or Review; Office of Workers Compensation District IE Number 97-04845; to the Court of Appeal, Third Circuit, Number CA98 0811</p>\n<p id=\"b920-19\">Denied.</p>\n<judges id=\"b920-23\">KIMBALL and VICTORY, JJ. would grant the writ.</judges>\n<judges id=\"b920-24\">KNOLL, J. not on panel.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

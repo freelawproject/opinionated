@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b855-2\">Thomas P. Rust v. Rudolph A. DiPietro</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A22\">(9403)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b855-3\">Daly, Laveey and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b855-4\">Argued September 12</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AK5\">decision released October 1, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b855-6\"><em>Edward W. Case, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b855-7\"><em>Daniel H. Kennedy, Jr., </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b855-8\">Per Curiam.</author>\n<p id=\"AAh\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

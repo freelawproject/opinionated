@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"721\" lastpage=\"721\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b761-2\">Supreme Court, Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Adqn\">December, 1896.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b761-3\">Before Daly, P. J., McAdam and Bischoff, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b761-4\">Bernard Mackell, Respondent, v. Henry G. Hilton, Appellant.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A_t\">Appeal from a judgment and order of the General Term of the City Court affirming a judgment of said Court and denying a motion for a new trial.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A4K\">Rollin Tracy, for Appellant; Coffin &amp; Smith, for Respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4Y\">Affirmed, with costs, upon, argument.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

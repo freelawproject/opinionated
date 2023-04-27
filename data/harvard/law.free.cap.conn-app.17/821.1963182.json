@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"821\" lastpage=\"821\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b755-2\">Stanley V. Tucker <em>v. </em>City of Hartford</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A5c\">(6632)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b755-3\">Spallone, Stoughton and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b755-4\">Argued December 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A6F\">decision released December 14, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b755-6\"><em>Stanley V. Tucker, </em>pro se, the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b755-7\"><em>Lisa Silvestri, </em>deputy corporation counsel, with whom, on the brief, was <em>Richard M. Cosgrove, </em>corporation counsel, for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b755-8\">Per Curiam.</author>\n<p id=\"AhX\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

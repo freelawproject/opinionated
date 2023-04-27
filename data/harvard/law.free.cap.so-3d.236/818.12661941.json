@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"818\" lastpage=\"818\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Connie HAWKINS<br/> v.<br/> HECK YEA QUARTER HORSES, LLC</parties>\n<docketnumber id=\"p-2\">2016-CT-00215-SCT</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: November 16, 2017<br/> Closed: February 8, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Motion Desc: Petition for Writ of Certiorari.</p><p id=\"p-6\">Certiorari - Granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"818\" lastpage=\"818\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Connie HAWKINS\n    <br/>\n    v.\n    <br/>\n    HECK YEA QUARTER HORSES, LLC\n   </parties>\n   <docketnumber id=\"p-2\">\n    2016-CT-00215-SCT\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: November 16, 2017\n    <br/>\n    Closed: February 8, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Motion Desc: Petition for Writ of Certiorari.\n    </p>\n    <p id=\"p-6\">\n     Certiorari - Granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

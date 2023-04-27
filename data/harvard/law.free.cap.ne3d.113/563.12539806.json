@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"563\" lastpage=\"563\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE EX REL. SPEEDWAY, L.L.C.<br/> v.<br/> WRAY</parties>\n<docketnumber id=\"p-2\">2017-0813</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">December 19, 2018</decisiondate>\n\n\n<judges id=\"p-7\">KENNEDY and FRENCH, JJ., dissent.</judges>\n<opinion type=\"majority\"><p id=\"p-5\"><strong>RECONSIDERATION OF PRIOR DECISION</strong></p><p id=\"p-6\">On relators' motion for reconsideration. Motion denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"563\" lastpage=\"563\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE EX REL. SPEEDWAY, L.L.C.\n    <br/>\n    v.\n    <br/>\n    WRAY\n   </parties>\n   <docketnumber id=\"p-2\">\n    2017-0813\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    December 19, 2018\n   </decisiondate>\n   <judges id=\"p-7\">\n    KENNEDY and FRENCH, JJ., dissent.\n   </judges>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      RECONSIDERATION OF PRIOR DECISION\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     On relators' motion for reconsideration. Motion denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

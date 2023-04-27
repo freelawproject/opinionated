@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"916\" lastpage=\"917\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  James Flint LEE, Appellant,\n  <br/>\n  v.\n  <br/>\n  STATE of Missouri, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  WD 80779\n </docketnumber>\n <court id=\"p-3\">\n  Missouri Court of Appeals, Western District.\n </court>\n <decisiondate id=\"p-4\">\n  ORDER FILED: August 28, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Melissa A. Featherston, St. Louis, MO, for appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Robert J. Bartholomew, Jr., Jefferson City, MO, for respondent.\n </attorneys>\n <judges id=\"p-7\">\n  Before Division One: Thomas H. Newton, Presiding Judge, Cynthia L. Martin, Judge and Gary D. Witt, Judge\n </judges>\n <p id=\"p-8\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Per curiam:\n  </author>\n  <p id=\"p-10\">\n   James Lee (\"Lee\") appeals the denial of his motion for post-conviction relief under Rule 24.035 by the Circuit Court of Clay County, Missouri following an evidentiary hearing. We affirm. Rule 84.16(b).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

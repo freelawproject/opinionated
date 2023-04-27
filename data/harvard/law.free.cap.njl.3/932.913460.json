@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"489\" lastpage=\"489\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b499-9\">GRIFFITH <em>against </em>JONES.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b499-10\">The judgment in this case, was obtained on a bond payable by installments. Execution had issued on this judgment, indorsed for the whole sum.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b499-11\">\n<em>Pearson</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"ANav\">moved to set aside the execution, as having improvidently issued.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b499-12\">By the Court.</author>\n<p id=\"AXa\">The execution is right, but the indorsement is wrong.</p>\n<p id=\"b499-13\">Let the clerk correct the indorsement.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

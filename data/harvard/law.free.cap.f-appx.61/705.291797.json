@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"705\" lastpage=\"705\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b864-7\">POLICY ANALYSIS CO., INC., Plaintiff-Appellant, v. UNITED STATES, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A-0\">No. 02-5033.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b864-10\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b864-11\">April 11, 2003.</decisiondate>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b864-12\">Rehearing Denied June 11, 2003.</otherdate>\n<p data-order=\"5\" data-type=\"judges\" id=\"b864-14\">Before LOURIE, BRYSON, and GAJARSA, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b864-15\">\n<em>JUDGMENT</em>\n</p>\n<author id=\"AXk\">PER CURIAM.</author>\n<p id=\"b864-16\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b864-17\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

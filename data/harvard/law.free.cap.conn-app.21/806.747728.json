@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"806\" lastpage=\"806\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b746-2\">Ronald Tutsky <em>v. </em>YMCA of Greenwich et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b746-3\">(8181)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b746-4\">Dupont, C. .J., Borden and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b746-5\">Argued February 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ANI\">decision released February 23, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b746-7\"><em>Lawrence E. Larson, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b746-8\"><em>Thomas A. Mulligan, </em>with whom, on the brief, was <em>Thomas J. Hickey, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b746-9\">Per Curiam.</author>\n<p id=\"A5I\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

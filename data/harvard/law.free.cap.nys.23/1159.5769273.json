@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1159\" lastpage=\"1159\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1191-29\">ZIVI, Respondent, v. EINSTEIN, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1191-30\">(Common Pleas of New York City and County,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AeZ6\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ALKs\">May 8, 1893.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1191-31\">Action by Bernard Zivi against Elias Einstein.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1191-32\">Argued before BOOKSTAYER, BISCHOFF, and PRYOR, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1191-33\">Townsend, Dyett &amp; Einstein, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1191-34\">Jas. Murphy, for respondent</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1191-35\">No opinion. Motion for leave to go to the court of appeals denied. See 21 N. Y. Supp. 583.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

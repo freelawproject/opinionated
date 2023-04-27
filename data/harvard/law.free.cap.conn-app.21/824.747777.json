@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"824\" lastpage=\"824\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b764-4\">Russ Street Associates Limited Partnership <em>v. </em>The Fox and Hound, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b764-6\">(8525)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b764-7\">Spallone, Lavery and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b764-8\">Argued May 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ARX\">decision released May 10, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b764-10\"><em>Kimball Haines Hunt, </em>with whom, on the brief, was <em>Meryl Shoneman, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b764-11\"><em>Eric Onore, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b764-12\">Per Curiam.</author>\n<p id=\"A8C\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

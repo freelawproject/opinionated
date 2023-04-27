@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"589\" lastpage=\"589\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b635-11\">Philip S. JACKSON, Plaintiff-Appellant, v. CASIO PHONEMATE, INC., Asahi Corporation, and Casio Communications, Inc., Defendants-Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b635-14\">No. 01-1456.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b635-15\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b635-16\">April 10, 2002.</decisiondate>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b635-17\">Rehearing En Banc Denied May 17, 2002.</otherdate>\n<p data-order=\"5\" data-type=\"judges\" id=\"b635-19\">Before NEWMAN, RADER, and PROST, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b635-20\">JUDGMENT</p>\n<author id=\"AeE\">PER CURIAM.</author>\n<p id=\"b635-21\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED: <em>AFFIRMED. See </em>Fed. Cir. R. 36</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1037-5\">PAUL KAHN, RELATOR, v. EDWARD A. McGRATH, JUDGE OF THE ELIZABETH DISTRICT COURT, AND GEORGE J. SMITH, CLERK OF THE ELIZABETH DISTRICT COURT, DEFENDANTS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b1037-6\">Submitted June 2, 1927</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"An0\">Decided November 25, 1927.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b1037-8\">Before Justices Teenchard, Kalirch and Katzbnbach.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Auf\">Eor the relator, <em>Michael H. Feldman.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1037-9\">Eor the defendants, <em>Henry IValdman.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1037-10\">Per Curiam.</author>\n<p id=\"b1037-11\">We incline to think that there is presented by the matters laid before us sufficient to justify the award of an alternative writ of <em>mandamus, </em>and it will be awarded accordingly.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"686\" lastpage=\"686\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b726-4\">VIOLA G. KREINER <em>v. </em>MICHAEL KREINER, SR.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b726-5\">[No. 9,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AxPE\">October Term, 1945.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b726-7\">\n<em>Decided November 2, 1945.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b726-11\">The cause was submitted to Marbury, C. J., Delaplaine, Collins, Grason, Melvin, Henderson, and Markell, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b726-12\"><em>Sidney M. Jacobs </em>and <em>H. Harry Rosenberg </em>appeared on brief for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b726-13\"><em>Joseph Loeffler </em>and <em>Benjamin L. Berman </em>appeared on brief for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b726-14\">Marbury, C. J.,</author>\n<p id=\"A-p\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"133\" lastpage=\"133\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b163-5\">Degillio, Appellant, <em>v. </em>Degillio, Appellant.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b163-6\">Argued November 29, 1961.</otherdate>\n<judges data-order=\"2\" data-type=\"judges\" id=\"AYB\">Before Bell, C. J., Jones, Cohen, Eagen and Alpern, JJ.</judges>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b163-10\"><em>Nicholas </em>Degillio, defendant, in propria persona.</attorneys>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b163-11\">No argument was made nor brief submitted for plaintiff.</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"Aa1\">January 3, 1962:</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b163-12\">Opinion</p>\n<author id=\"Amp\">Per Curiam,</author>\n<p id=\"b163-13\">Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

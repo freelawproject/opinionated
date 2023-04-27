@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1150\" lastpage=\"1150\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1166-23\">ROTHSCHILD, Appellant, v. ZUCKER, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1166-24\">(Superior Court of New York City, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AT1X\">July 3, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1166-25\">Action by Jacob Rothschild against Alfred Zucker. From an order directing: bill of particulars, plaintiff appeals.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1166-26\">Argued before FREEDMAN and GILDERSLEEYE, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1166-27\">S. F. Rawson, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1166-28\">Freeman &amp; Green, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1166-29\">PER CURIAM.</author>\n<p id=\"AODJ\">The order should be affirmed, with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

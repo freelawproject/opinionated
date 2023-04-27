@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"819\" lastpage=\"819\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b753-4\">Richard Daniels <em>v. </em>City of Hartford et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b753-5\">(6947)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b753-6\">Spallone, Stoughton and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b753-7\">Submitted on briefs December 8</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AD8\">decision released December 14, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b753-9\"><em>John P. Clarkson </em>filed a brief for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b753-10\"><em>Dennis G. Hersh </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b753-11\">Per Curiam.</author>\n<p id=\"ADW\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"578\" lastpage=\"578\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b624-8\">No. 2,068.</docketnumber>\n<parties data-order=\"1\" data-type=\"attorneys\" id=\"A_c\">STATE OF MONTANA ex rel. JAS. DONOVAN, Relator, <em>v. </em>T. A. WILLIAMS, Respondent.</parties>\n<p data-order=\"2\" data-type=\"court\" id=\"b624-9\">Original.</p>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A4dc\">\n<em>Quo warranto.</em>\n</summary>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b624-10\">Decided May 10, 1904.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ANx\"><em>Mr. Jos. Donovan, </em>for Relator.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b624-11\">Pee Cueiam.</author>\n<p id=\"A8P\">The application heretofore submitted to and by the court taken under advisement, is this day denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

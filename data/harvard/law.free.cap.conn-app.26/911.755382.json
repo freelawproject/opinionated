@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b865-9\">Peter Rosow <em>v. </em>Rus Hil Landscape Contracting, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b865-10\">(10063)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b865-11\">Daly, Norcott and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b865-12\">Argued October 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A3i\">decision released November 19, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b865-14\"><em>William R. Kinloch, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b865-15\"><em>Cynthia A. Blair, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b865-16\">Per Curiam.</author>\n<p id=\"AWhy\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"675\" lastpage=\"676\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b691-13\">SCOTT v. DENZIGER.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b691-14\">Decided June 7, 1927.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b691-17\">Before Justices Parker and Campbell.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b692-3\"><page-number citation-index=\"1\" label=\"676\">*676</page-number>Eor the motion, <em>Feder &amp; Binder.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b692-4\">\n<em>Contra, Minnie Simon.</em>\n</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b692-5\">Memorandum.</p>\n<p id=\"Anj2\">The motion is to dismiss a rule to show cause held by defendant why a verdict against him should not he set aside. Such dismissal is asked upon the ground of lack of prosecution. There is an absolute lack of diligence. Nothing has been done under the rule since its allowance.</p>\n<p id=\"b692-7\">The motion is therefore granted and the rule dismissed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b749-10\">Lan, Inc., et al. <em>v. </em>William P. Gelinas</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aeb\">(8410)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b749-11\">Dupont, C. J., Norcott and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b749-12\">Argued February 13</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A3s\">decision released March 14, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b749-14\"><em>Paul S. Levin, </em>with whom, on the brief, was <em>Edward H. Freeman, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b749-15\"><em>Paul J. Yamin, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b749-16\">Per Curiam.</author>\n<p id=\"AK-\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

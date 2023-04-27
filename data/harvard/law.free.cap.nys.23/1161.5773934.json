@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1161\" lastpage=\"1161\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1193-11\">KAHN, Respondent, v. NEW YORK EL. R. CO., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1193-12\">(Common Pleas of New York City and County,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"ANx3\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AtsR\">May 10, 1893.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1193-13\">Action by Herman Kahn against the New York Elevated Railroad Company.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1193-14\">Argued before DALY, C. J., and BOOKSTAVER, J.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1193-15\">Davies &amp; Rapallo, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1193-16\">Wolff &amp; Hodge, for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1193-17\">No opinion. Motion for reargument granted. See 22 N. Y. Supp. 793.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

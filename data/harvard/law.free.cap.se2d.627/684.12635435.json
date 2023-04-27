@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"684\" lastpage=\"684\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE v. GLOVER.</parties>\n<docketnumber id=\"p-2\">No. COA05-588.</docketnumber>\n<court id=\"p-3\">North Carolina Court of Appeals.</court>\n<decisiondate id=\"p-4\">Filed April 4, 2006.</decisiondate>\n<decisiondate id=\"p-5\">Certification Date April 24, 2006.</decisiondate>\n<history id=\"p-6\">Appeal from Cumberland (04CRS55044).</history>\n\n<opinion type=\"majority\"><p id=\"p-7\">Case without published opinion. No error.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"684\" lastpage=\"684\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE v. GLOVER.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA05-588.\n   </docketnumber>\n   <court id=\"p-3\">\n    North Carolina Court of Appeals.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed April 4, 2006.\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date April 24, 2006.\n   </decisiondate>\n   <history id=\"p-6\">\n    Appeal from Cumberland (04CRS55044).\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     Case without published opinion. No error.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

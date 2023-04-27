@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"924\" lastpage=\"924\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b878-6\">Claudette Tremblay <em>v. </em>Henry Tremblay</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AR0l\">(10160)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b878-7\">Norcott, Lavery and W. Sullivan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b878-8\">Argued December 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AraP\">decision released December 17, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b878-10\"><em>Carlo Forzani, </em>with whom was <em>Carol Widing, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b878-11\"><em>Jonathan W. A. Ruhe, </em>with whom, on the brief, was <em>Barbara J. Ruhe, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b878-12\">Per Curiam.</author>\n<p id=\"AOi\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

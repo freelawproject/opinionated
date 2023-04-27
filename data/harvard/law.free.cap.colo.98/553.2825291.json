@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"553\" lastpage=\"553\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b569-3\">No. 13,790.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b569-4\">Equitable Life Assurance Society of the United States <em>v. </em>Fotheringill.</parties>\n<p data-order=\"2\" data-type=\"court\" id=\"b569-5\">(... P. [2d] ...)</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b569-6\">Decided May 25, 1936.</decisiondate>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"A7q\">Rehearing denied June 15, 1936.</otherdate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b569-9\">Mr. Percy Robinson, Mr. Carl C. Hearnsberger, Mr. A. W. McHendrie, for plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b569-10\">Mr. Henry J. Job, for defendant in error.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b569-7\">Judgment affirmed in department without written opinion, Mr. Justice Burke, sitting for Mr. Chief Justice Campbell, Mr. Justice Butler and Mr. Justice Holland, participating.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

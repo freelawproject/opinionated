@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"334\" lastpage=\"334\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b350-10\">TILLMAN REINERT, PLAINTIFF, v. ATLANTIC CITY RAILROAD COMPANY, DEFENDANT.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b350-11\">Submitted January term, 1927.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b350-13\">Before Justices Black and Campbell.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b350-14\">Eor the defendant, <em>Floyd H. Bradley.</em></attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b350-15\">Per Curiam.</author>\n<p id=\"b350-16\">The application for a re-hearing in this ease is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

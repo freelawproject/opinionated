@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"826\" lastpage=\"826\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b766-11\">Dianne De Martino <em>v. </em>Parkview West Associates</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b766-12\">(8239)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b766-13\">Daly, Lavery and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b766-14\">Argued April 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A7a\">decision released May 10, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b766-16\"><em>Ira B. Grudberg, </em>with whom was <em>AliceS. Miskimin, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b766-17\"><em>James P. Connolly, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b766-18\">Per Curiam.</author>\n<p id=\"AmL\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

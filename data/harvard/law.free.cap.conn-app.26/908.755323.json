@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b862-10\">Helen C. Flaws et al. <em>v. </em>Bruce D. Tyler et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b862-11\">(9840)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b862-12\">Daly, Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b862-13\">Submitted on briefs October 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AKAF\">decision released October 22, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b863-3\"><page-number citation-index=\"1\" label=\"909\">*909</page-number><em>James W. Sherman, </em>for the appellants (defendant Robert Blake et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b863-4\"><em>John H. Parks, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b863-5\">Per Curiam.</author>\n<p id=\"AZPh\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

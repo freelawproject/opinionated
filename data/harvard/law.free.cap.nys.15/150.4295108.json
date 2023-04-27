@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"150\" lastpage=\"150\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b168-4\">McKernan v. New York El. R. Co. <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b168-5\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A6J\">July 2, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"b168-6\">Appeal from special term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b168-7\">Action by Eliza McKernan against the New York Elevated Railroad Company and the Manhattan Railway Company. There was a judgment for plaintiff, and defendant appeals.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b168-8\">Argued before Freedman, Dugro, and Gildersleeve, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b168-9\"><em>Davies &amp; Rapallo, </em>for appellants. <em>Jeroloman &amp; Arrowsmith, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b168-10\">Per Curiam.</author>\n<p id=\"Ak5\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

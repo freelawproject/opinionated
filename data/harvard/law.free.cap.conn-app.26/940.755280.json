@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"940\" lastpage=\"940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b894-6\">Norwalk Twin Towers, Inc. <em>v. </em>Davidson and Naylor et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b894-7\">(10174)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b894-8\">O\u2019Connell, Heiman and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b894-9\">Argued January 17</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AWO\">decision released February 4, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b894-11\"><em>Michael Kurs, </em>with whom, on the brief, were <em>Mary Alice Leonhardt, </em>and <em>Elliot B. Pollack, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b894-12\"><em>Matthew B. Woods, </em>for the appellee (defendant Peter L. Leepson).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b894-13\">Per Curiam.</author>\n<p id=\"A8PV\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

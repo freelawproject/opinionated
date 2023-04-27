@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"818\" lastpage=\"818\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b758-9\">Michael Romano v. Donald Armatino et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ABB\">(8567)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b758-10\">Daly, Norcott and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b758-11\">Argued April 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A3y\">decision released April 18, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b758-13\"><em>Glenn W. Falk, </em>for the appellants (defendants). <em>Laura S. Mitler, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b758-14\">Per Curiam.</author>\n<p id=\"A2R2\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

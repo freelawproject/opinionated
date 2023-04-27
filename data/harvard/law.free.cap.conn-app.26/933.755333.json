@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b887-6\">Jacqueline M. Whiting et al. <em>v. </em>Planning and Zoning Commission of the Town of North Branford</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AdKl\">(10313)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b887-7\">Norcott, Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b887-8\">Argued December 12, 1991</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A8cX\">decision released January 7, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b887-10\"><em>Michael R. Caporale, Jr., </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b887-11\"><em>John M. Gesmonde, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b887-12\">Per Curiam.</author>\n<p id=\"Aba\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

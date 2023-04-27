@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b520-3\">BLUE RIDGE HOMES, INC., and RICHARD CARVALHO, Plaintiffs and Appellees, v. RONALD J. THEIN, RACHEL THEIN, and FIRST SECURITY BANK, Defendants and Appellants.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b520-6\">No. DA 07-0267.</docketnumber>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b520-7\">Submitted on Briefs March 12, 2008.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b520-8\">Decided May 29, 2008.</decisiondate>\n<citation data-order=\"4\" data-type=\"citation\" id=\"b520-9\">2008 MT 188.</citation>\n<p data-order=\"5\" data-type=\"citation\" id=\"b520-10\">343 Mont. 500.</p>\n<p data-order=\"6\" data-type=\"court\" id=\"b520-11\">_P.3d_.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b520-12\">Opinion withdrawn by Supreme Court and reissued on July 29, 2008. The reissued opinion is now cited at 345 Mont. 125.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

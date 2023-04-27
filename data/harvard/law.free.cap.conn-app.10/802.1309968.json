@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"802\" lastpage=\"802\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b732-6\">Glenwood on the Park, Inc. <em>v. </em>Mario D. Paniccia</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b732-7\">(5158)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b732-8\">Dupont, C. J., Hull and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b732-9\">Submitted on briefs February 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AqFW\">decision released February 17, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b732-11\"><em>Raymond W. Beckwith </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b732-12\"><em>Kenneth B. Povodator </em>filed a brief for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b732-13\">Per Curiam.</author>\n<p id=\"AA7\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

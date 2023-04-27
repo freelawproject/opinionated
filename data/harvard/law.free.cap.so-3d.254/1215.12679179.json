@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1215\" lastpage=\"1215\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of Louisiana<br/> v.<br/> Sidney John HANDY</parties>\n<docketnumber id=\"p-2\">NO. 2018-KO-1234</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">October 29, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Denied; untimely. See La.S.Ct. Rule X, \u00a7 5(a).</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1215\" lastpage=\"1215\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Louisiana\n    <br/>\n    v.\n    <br/>\n    Sidney John HANDY\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2018-KO-1234\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    October 29, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Denied; untimely. See La.S.Ct. Rule X, \u00a7 5(a).\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b866-2\">Joseph D. Celano <em>v. </em>J. William Burns, Commissioner of Transportation</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aan\">(9948)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b866-3\">Daly, Norcott and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b866-4\">Argued October 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AX6\">decision released November 19, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b866-6\"><em>Joseph D. Celano, </em>pro se, the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b866-7\"><em>Lawrence G. Widem, </em>assistant attorney general, with whom, on the brief, was <em>Richard Blumenthal, </em>attorney general, for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b866-8\">Per Curiam.</author>\n<p id=\"AQd\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

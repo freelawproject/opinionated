@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"975\" lastpage=\"975\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b993-15\">Occidental Oil Co., Respondent, v. Young, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b993-16\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AjVf\">July 6, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A-c\">Appeal from first district court.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b993-17\">Action by Occidental Oil Company against Annie V. Young.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b993-18\">Argued before Allen and Bischoff, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b993-19\"><em>A. B. Stewart, </em>for appellant. <em>W. R. Griffith, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b993-20\">No opinion. Judgment reversed, new trial ordered, with costs to abide the event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

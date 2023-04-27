@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"16\" lastpage=\"16\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b40-12\">PEOPLE ex rel. SMITH v. WEEKES, Town Clerk.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b40-13\">(Supreme Court, Appellate Division, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A9r\">September 28, 1903.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b40-14\">Proce\u00e9ding by the people of the state of New York, on the relation of Charles Smith, against H. Luther Weekes, town clerk of the town of Hempstead.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b40-15\">Argued before GOODRICH, P. J\u201e and BARTLETT, JENKS, WOODWARD, HIRSCHBERG, and HOOKER, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"pA8q\">PER CURIAM.</author>\n<p id=\"Ayj\">Order affirmed,.on authority of In re Seaman, 175 N. Y. 506, 67 N. E. 1090, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"487\" lastpage=\"487\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b507-11\">Twenty-Third Street R. Co. v. Mayor, Etc., of the City of New York.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Agm\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AKAW\">June 19, 1888.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b507-12\">Appeal from special term, New York county.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b507-13\"><em>David J. Bean, </em>for appellant. <em>S. B. Clark, </em>for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b507-14\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b507-15\">Per CurIam.</author>\n<p id=\"AjG\">Order reversed, with $10 costs and disbursements, and preliminary injunction vacated on opinion in <em>Broadway &amp; S. A. R. Co. </em>v. <em>Mayor, </em>(1 N. Y. Supp. 646,) decided herewith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

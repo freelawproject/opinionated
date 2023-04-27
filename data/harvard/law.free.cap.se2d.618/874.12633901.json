@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"874\" lastpage=\"874\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE v. HAMLIN</parties>\n<docketnumber id=\"p-2\">No. COA04-1271.</docketnumber>\n<court id=\"p-3\">North Carolina Court of Appeals,</court>\n<decisiondate id=\"p-4\">Filed September 20, 2005.</decisiondate>\n<decisiondate id=\"p-5\">Certification Date October 10, 2005.</decisiondate>\n<history id=\"p-6\">Appeal from Guilford (03CRS79883).</history>\n\n<opinion type=\"majority\"><p id=\"p-7\">Case reported without published opinion. No error.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"874\" lastpage=\"874\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE v. HAMLIN\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA04-1271.\n   </docketnumber>\n   <court id=\"p-3\">\n    North Carolina Court of Appeals,\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed September 20, 2005.\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date October 10, 2005.\n   </decisiondate>\n   <history id=\"p-6\">\n    Appeal from Guilford (03CRS79883).\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     Case reported without published opinion. No error.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

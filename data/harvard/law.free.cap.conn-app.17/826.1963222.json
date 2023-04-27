@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"826\" lastpage=\"826\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b760-2\">Salvatore Cicale et al. <em>v. </em>Redevelopment Agency of the City of Norwalk</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJC\">(6769)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b760-3\">Spallone, Daly and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b760-4\">Argued January 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AGm\">decision released January 25, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b760-6\"><em>John A. Milici, </em>with whom, on the brief, was <em>Martina Nicholls Israely, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b760-7\"><em>Vincent D. Flaherty, </em>with whom, on the brief, was <em>John T. Loforese, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b760-8\">Per Curiam.</author>\n<p id=\"AV3\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1201\" lastpage=\"1202\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Allen B. MINIX, et al.\n  <br/>\n  v.\n  <br/>\n  CITY OF RAYNE, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-C-0722\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  October 15, 2018\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON WRIT OF CERTIORARI TO THE COURT OF APPEAL, THIRD CIRCUIT, PARISH OF ACADIA\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   GUIDRY, J., would grant.\n  </author>\n  <p id=\"p-8\">\n   CLARK, J., would grant.\n  </p>\n  <p id=\"p-9\">\n   CRICHTON, J., would grant and assigns reasons.\n  </p>\n  <p id=\"p-10\">\n   In this case involving a fall on a sidewalk, for the thorough reasons assigned by Judge Amy's dissent, I would grant the writ application of City of Rayne thereby reinstating the trial court's dismissal of plaintiff's claim.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

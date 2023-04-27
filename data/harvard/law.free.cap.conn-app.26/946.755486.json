@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"946\" lastpage=\"946\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b900-10\">Norwest Equipment Finance, Inc. <em>v. </em>Stonecrafters, Ltd., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b900-12\">(10545)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b900-13\">Daly, O\u2019Connell and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b900-14\">Argued February 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A3t\">decision released March 3, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b900-16\"><em>F. Woodward Lewis, Jr., </em>for the appellants (named defendant et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b900-17\"><em>Jonathan J. Einhorn, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b900-18\">Per Curiam.</author>\n<p id=\"AzS\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

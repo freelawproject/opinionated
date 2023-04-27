@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b895-10\">No.-.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AnI\">In re O\u2019Bryan.</parties>\n<opinion data-order=\"2\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AII\">Motion for leave to file petition for writ of habeas corpus denied.</p>\n</opinion>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-2\" type=\"dissent\">\n<author id=\"b895-12\">Justice Brennan and Justice Marshall,</author>\n<p id=\"Aznc\">dissenting.</p>\n<p id=\"AZr\">Adhering to our views that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth <page-number citation-index=\"1\" label=\"902\">*902</page-number>and Fourteenth Amendments, <em>Gregg </em>v. <em>Georgia, </em>428 U. S. 153, 227, 231 (1976), we would grant the motion and vacate the death sentence in this case.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

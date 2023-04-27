@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SUMMERS<br/> v.<br/> FOX</parties>\n<docketnumber id=\"p-2\">2018-0959</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">December 18, 2018</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>MEDIATION MATTER</strong></p><p id=\"p-6\">The case has been returned to the regular docket under S.Ct.Prac.R. 19.01.</p><p id=\"p-7\">Respondents shall file response to complaint within 21 days.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    SUMMERS\n    <br/>\n    v.\n    <br/>\n    FOX\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-0959\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    December 18, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      MEDIATION MATTER\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     The case has been returned to the regular docket under S.Ct.Prac.R. 19.01.\n    </p>\n    <p id=\"p-7\">\n     Respondents shall file response to complaint within 21 days.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

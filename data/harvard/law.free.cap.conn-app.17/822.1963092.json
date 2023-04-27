@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"822\" lastpage=\"822\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b756-2\">State of Connecticut <em>v. </em>Steve Dattilo</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AQH\">(6618)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b756-3\">Borden, Spallone and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b756-4\">Argued December 20, 1988</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Az0S\">decision released January 3, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b756-6\"><em>Robert M. Casale, </em>with whom, on the brief was <em>Tara L. Knight, </em>law student intern, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b756-7\"><em>Paul J. Ferencek, </em>deputy assistant state\u2019s attorney, with whom, on the brief, was <em>Timothy Pothin, </em>former assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b756-8\">Per Curiam.</author>\n<p id=\"Ai6\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

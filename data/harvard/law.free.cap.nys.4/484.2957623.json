@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"484\" lastpage=\"484\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b504-22\">Wingate <em>v. </em>Lipsey Gas-Burner Co. <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b504-23\">\n<em>(Supreme Court, General Term, Second Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AKsW\">May 14, 1888.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AQk\">Argued before Barnard, P. J., and Dykman, J.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b504-24\"><em>Daniel S. Remsen, </em>for appellant, E. P. Gleason Manufacturing Company. <em>Augustus A. Levy, </em>for respondent Wingate. <em>Edgar J. Levy, </em>for respondent Lipsey Gas-Burner Company.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b504-25\">Ho opinion. Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

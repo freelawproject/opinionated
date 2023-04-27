@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"818\" lastpage=\"818\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b752-2\">Robert Lee Johnson <em>v. </em>Warden, Connecticut Correctional Institute</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A7s\">(6508)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b752-3\">Dupont, C. J., O\u2019Connell and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b752-4\">Argued November 17</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AIW\">decision released December 13, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b752-6\"><em>Ernest J. Diette, Jr., </em>special public defender, for the appellant (petitioner).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b752-7\"><em>Julia DiCocco Dewey, </em>assistant state\u2019s attorney, with whom, on the brief, was <em>Steven Sellers, </em>deputy assistant state\u2019s attorney, for the appellee (respondent).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b752-8\">Per Curiam.</author>\n<p id=\"AP7Q\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

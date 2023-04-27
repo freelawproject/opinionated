@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"642\" lastpage=\"642\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"ALk\" pgmap=\"690\">Bates A. Clarke, appellant, v. Illinois Commercial Men\u2019s Association, appellee.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AYC\" pgmap=\"690\">Gen. No. 32,510.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"ADX\" pgmap=\"690\">Taylor, J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ac5\" pgmap=\"690\">Opinion filed June 20, 1928.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aeq\" pgmap=\"690\">Rathje, Wesemann, Hinckley &amp; Barnard, for appellant; John Laux, of counsel. Ryan, Condon &amp; Livingston, for appellee; Lowell A. Lawson, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"Ag1\" pgmap=\"690\">Mr. Presiding Justice Holdom</author> <p id=\"ApG\" pgmap=\"690\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

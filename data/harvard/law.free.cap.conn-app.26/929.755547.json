@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"929\" lastpage=\"929\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b883-2\">New Canaan Bank and Trust Company <em>v. </em>Nicholas D. Cerretani III et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b883-4\">(10205)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b883-5\">O\u2019Connell, Norcott and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b883-6\">Argued December 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AW9\">decision released December 31, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b883-8\"><em>Norton P. Feinstein, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b883-9\"><em>Todd H. Lampert, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b883-10\">Per Curiam.</author>\n<p id=\"ALaL\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"660\" lastpage=\"660\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b706-2\" pgmap=\"706\">Woodlawn Motor Car Sales &amp; Service Company, appellant, v. Dennis J. Egan et al., appellees.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AxE0\" pgmap=\"706\">Gen. No. 30,139.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AI1\" pgmap=\"706\">Taylor, J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AVT9\" pgmap=\"706\">Opinion filed January 20, 1926.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b706-4\" pgmap=\"706\">Gray &amp; Nuttall, for appellant.</attorneys><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AAH\" pgmap=\"706\">Richard S. Folsom and Frank C. Levit\u00f3n, for appellees.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b706-5\" pgmap=\"706\">Mr. Presiding Justice Thomson</author> <p id=\"AlLk\" pgmap=\"706\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"918\" lastpage=\"918\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b872-9\">Dorothy A. Isola <em>v. </em>Geraldine McDermott</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AYJZ\">(9807)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b872-10\">O\u2019Connell, Norcott and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b872-11\">Argued November 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A1r\">decision released November 26, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b872-13\"><em>James M. S. Ullman, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b872-14\"><em>Charles K. Thompson, </em>with whom, on the brief, was <em>Jeremiah O\u2019Connor, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b872-15\">Per Curiam.</author>\n<p id=\"Azp3\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

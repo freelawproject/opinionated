@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"835\" lastpage=\"835\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b769-6\">Karel Marshak <em>v. </em>Sheldon Marshak</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AxD\">(6225)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b769-7\">Spallone, O\u2019Connell and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b769-8\">Argued February 16</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A1e\">decision released March 1, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b769-10\"><em>William F. Gallagher, </em>with whom, on the brief, was <em>Gwen B. Weltman, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b769-11\"><em>Sean G. FitzMaurice, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b769-12\">Per Curiam.</author>\n<p id=\"A0z\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"975\" lastpage=\"975\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b993-21\">Rubin, Respondent, v. Elias, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b993-22\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AHGa\">July 6, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AWSI\">Appeal from second district court.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b993-23\">Action by D. Rubin against Michael A. Elias.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b993-24\">Argued before Allen and Bischoff, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b993-25\"><em>Campbell &amp; Son, </em>for appellant. <em>H. Fox, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b993-26\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

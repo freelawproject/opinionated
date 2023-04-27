@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"539\" lastpage=\"539\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Carl E. GABRIEL\n  <br/>\n  v.\n  <br/>\n  DELTA AIRLINES, INC. and ACE American Insurance Company\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2017-C-1990\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  January 29, 2018\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON WRIT OF CERTIORARI TO THE COURT OF APPEAL, FIFTH CIRCUIT, OFFICE OF WORKERS' COMPENSATION, DISTRICT 7\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   HUGHES, J., concurs with reasons.\n  </author>\n </opinion>\n <opinion type=\"concurrence\">\n  <author id=\"p-8\">\n   Hughes, J. concurring.\n  </author>\n  <p id=\"p-9\">\n   <strong>\n    Respondent in its opposition represents that the radiofrequency nerve ablation sought by applicant \"has been authorized and paid for by Defendant/Appellee\", essentially rendering this matter moot.\n   </strong>\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

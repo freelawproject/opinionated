@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"721\" lastpage=\"721\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b761-13\">Supreme Court, Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Aoh\">March, 1897.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b761-14\">Before Daly, P. J., McAdam and Bischoff, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b761-15\">E. T. Goldberg, Appellant, v. Herman. C. Guentsche, et al., Respondents.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A_D\">Appeal from an order of the General Term of the City Court affirming order of the Special Term.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ADO\">E. T. Goldberg, Appellant, in person; William E. Morris, for Respondents. Respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApjX\">Affirmed upon argument.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

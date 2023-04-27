@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"163\" lastpage=\"163\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b179-5\">ANNIE BOYLE ET AL. v. NATIONAL UNION BANK.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b179-6\">Decided January 19, 1927.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b179-8\">Before G-ummeee, Chiee Justice, and Justices Trenchabd and Mintuen.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b179-9\">For the plaintiffs (respondents), <em>Leon E. Cone.</em></attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"b179-10\">For the appellant, no appearance.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b179-11\">Per Curiam.</author>\n<p id=\"b179-12\">The failure of the appellant to prosecute its appeal, either by submitting'a brief or by oral argument, is in effect an abandonment thereof.</p>\n<p id=\"b179-13\">The apppeal, therefore, will be dismissed, with costs to the respondents.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

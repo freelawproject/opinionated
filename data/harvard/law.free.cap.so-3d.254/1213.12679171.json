@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1213\" lastpage=\"1213\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Joey HIGGINBOTHAM\n  <br/>\n  v.\n  <br/>\n  USAGENCIES CASUALTY INSURANCE COMPANY, INC., et al.\n </parties>\n <parties id=\"p-2\">\n  Joey Higginbotham\n  <br/>\n  v.\n  <br/>\n  USAgencies Casualty Insurance Company, Inc., et al.\n </parties>\n <docketnumber id=\"p-3\">\n  NO. 2018-C-1217\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-5\">\n  October 29, 2018\n </decisiondate>\n <opinion id=\"p-6\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   WEIMER, J., would grant.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

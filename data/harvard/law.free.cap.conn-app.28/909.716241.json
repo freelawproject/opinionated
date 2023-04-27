@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b893-6\">Wilcox Trucking, Inc. <em>v. </em>Leslie and Elliott Company et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b893-7\">(10955)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b893-8\">Daly, Landau and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b893-9\">Argued June 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVN\">decision released July 7, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b893-11\"><em>John K. Harris, Jr., </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b893-12\"><em>Morton N. Katz, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b893-13\">Per Curiam.</author>\n<p id=\"Acr\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

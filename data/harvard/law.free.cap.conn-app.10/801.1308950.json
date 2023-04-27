@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b731-2\">Ann M. Harkey <em>v. </em>Eugene R. Caron et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Anhj\">(4733)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b731-3\">Dupont, C. J., Hull and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b731-4\">Submitted on briefs February 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ASvq\">decision released February 17, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b731-6\"><em>Herbert Watstein </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b731-7\"><em>James H. Rotondo </em>filed a brief for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b731-8\">Per Curiam.</author>\n<p id=\"AQQ\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

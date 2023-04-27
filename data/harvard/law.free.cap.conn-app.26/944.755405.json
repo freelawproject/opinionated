@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"944\" lastpage=\"944\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b898-4\">Carl H. Roesch <em>v. </em>Lila Roesch</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ag4s\">(9803)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b898-5\">O\u2019Connell, Heiman and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b898-6\">Argued January 17</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Az5\">decision released February 11, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b898-8\"><em>Francis Thomas Daley, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b898-9\"><em>Deborah L. Grover, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b898-10\">Per Curiam.</author>\n<p id=\"AXjL\">The judgment is affirmed in all respects except that, by stipulation of the parties, the amount of attorney\u2019s fees to be paid by the plaintiff to the defendant shall be $12,463.88.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

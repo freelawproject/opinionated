@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"820\" lastpage=\"820\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b754-5\">Joan E. Burry <em>v. </em>William T. Meredith et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b754-6\">(6844)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b754-7\">Spallone, Stoughton and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b754-8\">Submitted on briefs December 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AzF6\">decision released December 14, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b754-10\"><em>Joel Schlossberg </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b754-11\"><em>Bruce M. Killion </em>filed a brief for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b754-12\">Per Curiam.</author>\n<p id=\"Acx\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

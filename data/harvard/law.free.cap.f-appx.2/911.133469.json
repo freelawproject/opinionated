@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b941-30\">Ronald J. TOWNSEND, Petitioner, v. DEPARTMENT OF JUSTICE, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b941-32\">No. 00-3014.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b941-33\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b941-34\">Jan. 11, 2001.</decisiondate>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b941-35\">Rehearing and Rehearing en banc Denied May 1, 2001.</otherdate>\n<p data-order=\"5\" data-type=\"judges\" id=\"b941-37\">Before MICHEL, SCHALL and GAJARSA, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b941-38\">\n<em>Judgment</em>\n</p>\n<author id=\"A_E\">PER CURIAM.</author>\n<p id=\"b941-39\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b941-40\">AFFIRMED. <em>See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

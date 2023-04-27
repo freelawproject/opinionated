@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"721\" lastpage=\"721\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b761-7\">Supreme Court, Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A3Fq\">February, 1897.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b761-8\">Before Daly, P. J., McAdam and Bischoff, JJ</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b761-10\">Joseph M. Biggert, Respondent, v. Edwin Nichols, Appellant.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ANZ\">Appeal from an order of the General Term of the City Court dismissing an appeal from order of Special Term.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A-H\">J. B. Sabine, for Appellant; Cardozo &amp; Nathan, for Respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXM2\">Appeal dismissed, with costs, upon argument.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"502\" lastpage=\"502\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<docketnumber id=\"p-2\">Bangeo Real Estate Investments, LLC</docketnumber>\n<docketnumber id=\"p-3\">Cameron Street Partners I, LLC.</docketnumber>\n<docketnumber id=\"p-4\">No. COA17-1275</docketnumber>\n<court id=\"p-5\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-6\">Filed: August 7, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-1\">In the MATTER OF: Judy C. COGGINS # 1 Judy C. Coggins # 2 Judy C. Coggins # 3</p><p id=\"p-7\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"502\" lastpage=\"502\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-2\">\n    Bangeo Real Estate Investments, LLC\n   </parties>\n   <parties id=\"p-3\">\n    Cameron Street Partners I, LLC.\n   </parties>\n   <docketnumber id=\"p-4\">\n    No. COA17-1275\n   </docketnumber>\n   <court id=\"p-5\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-6\">\n    Filed: August 7, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-1\">\n     In the MATTER OF: Judy C. COGGINS # 1 Judy C. Coggins # 2 Judy C. Coggins # 3\n    </p>\n    <p id=\"p-7\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

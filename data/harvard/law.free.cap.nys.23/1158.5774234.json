@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1158\" lastpage=\"1158\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1190-10\">JUNG, Appellant, v. KEUFFEL et al., Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1190-11\">(Common Pleas of New York City and County,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"Afm6\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A_3\">May 3, 1893.)</decisiondate>\n<summary data-order=\"4\" data-type=\"history\" id=\"AQn\">Appeal from trial term.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b1190-12\">Action by Emil Jung against William Keuffel and another.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1190-13\">Argued before DALY, C. J., and BISCHOFF and PRYOR, JJ.</p>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1190-14\">Leopold Leo, for appellant.</attorneys>\n<attorneys data-order=\"8\" data-type=\"attorneys\" id=\"b1190-15\">Smith, Bowman &amp; Close, for respondents.</attorneys>\n<opinion data-order=\"9\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1190-16\">No opinion. Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

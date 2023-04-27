@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"563\" lastpage=\"563\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  MILLER\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0948\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  December 19, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   MOTION AND PROCEDURAL RULING\n  </strong>\n </p>\n <opinion id=\"p-6\">\n  On appellee's motion to dismiss appeal as being improvidently allowed. Motion denied.\n </opinion>\n <judges id=\"p-7\">\n  O'CONNOR, C.J., and FRENCH, J., dissent.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   DEGENARO, J., not participating.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

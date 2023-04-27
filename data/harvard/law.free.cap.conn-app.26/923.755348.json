@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"923\" lastpage=\"924\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b877-11\">New Haven Investments, Inc. <em>v. </em>Ernest Oxford et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b877-13\">(10411)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b877-14\">Daly, O\u2019Connell and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b877-15\">Argued December 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A2C1\">decision released December 17, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b878-3\"><page-number citation-index=\"1\" label=\"924\">*924</page-number><em>James J. Nugent, </em>for the appellant (defendant Vanessa McCray).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b878-4\"><em>William F. Gallagher, </em>with whom, on the brief, were <em>Wilbur J. Land </em>and <em>Cynthia C. Bott, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b878-5\">Per Curiam.</author>\n<p id=\"A-ir\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

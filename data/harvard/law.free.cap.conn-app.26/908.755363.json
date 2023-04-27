@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b862-2\">Alex Del Vecchio et al. <em>v. </em>Stonehill Associates, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b862-3\">(9787)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b862-4\">O\u2019Connell, Landau and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b862-5\">Argued October 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A9bu\">decision released October 22, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b862-7\"><em>William F. Gallagher, </em>with whom, on the brief, were <em>Sheldon A. Messinger </em>and <em>Thomas B. Pursell, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b862-8\"><em>Vincent T. McManus, Jr., </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b862-9\">Per Curiam.</author>\n<p id=\"AK-g\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

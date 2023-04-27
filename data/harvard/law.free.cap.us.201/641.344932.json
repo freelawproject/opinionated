@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"641\" lastpage=\"641\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p id=\"b665-6\">No. \u2014, Original.</p>\n<parties id=\"Ag3M\"><em>Ex parte: </em>In the Matter of Columbia George and Toy Toy, Petitioners.</parties>\n<decisiondate id=\"APgg\">March 5, 1906.</decisiondate>\n\n<attorneys id=\"Adtj\"><em>Mr. A. E. Crane </em>and <em>Mr. F. T. Woodburn </em>for petitioners.</attorneys>\n<opinion><p id=\"A19p\">Motion for leave to file petition for a writ of <em>habeas corpus </em>denied.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"641\" lastpage=\"641\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b665-6\">No. \u2014, Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ag3M\"><em>Ex parte: </em>In the Matter of Columbia George and Toy Toy, Petitioners.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"APgg\">March 5, 1906.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Adtj\"><em>Mr. A. E. Crane </em>and <em>Mr. F. T. Woodburn </em>for petitioners.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A19p\">Motion for leave to file petition for a writ of <em>habeas corpus </em>denied.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

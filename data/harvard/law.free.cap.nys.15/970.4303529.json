@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"970\" lastpage=\"970\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b988-17\">Dillon, Respondent, <em>v. </em>Lee, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b988-18\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AgEZ\">September 25, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AOq\">Action by John Dillon against William Lee.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b988-19\">Argued before Learned, P. J., and Mayham, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b988-20\">Ho opinion. Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

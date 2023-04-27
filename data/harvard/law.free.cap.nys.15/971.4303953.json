@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"971\" lastpage=\"971\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b989-21\">Rouse, Appellant, v. Catskill &amp; New York Steam-Boat Co., Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ABF\"><em>(Supreme Court, General </em>Term., <em>Third Department.</em></court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"APy\">September 25, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AKT\">Action by Beulah Rouse, an infant, against the Catskill &amp; New York SteamBoat Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b989-22\">Argued before Learned, P. J., and Landon and Mayham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b989-23\">No opinion. Judgment affirmed, with costs. For former report, see 13 N. Y. Supp. 126.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

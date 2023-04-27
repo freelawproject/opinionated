@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"921\" lastpage=\"921\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b875-4\">Dunhill Personnel of New Haven, Inc. <em>v. </em>Jonathan Einhorn</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A1H8\">(9949)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b875-6\">O\u2019Connell, Laveey and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b875-7\">Argued on November 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Azol\">decision released December 3, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b875-9\"><em>David R. Sirois, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b875-10\"><em>Nancy J. Vavra, </em>with whom, on the brief, was <em>Jonathan J. Einhorn, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b875-11\">Per Curiam.</author>\n<p id=\"AIh7\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

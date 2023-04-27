@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"651\" lastpage=\"651\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"Ad3\">No. 6,</docketnumber>\n\n<parties id=\"ADD\"><em>Ex parte: </em>In the Matter of Alphonso B. Bowers and Bowers California Dredging Company, Petitioners.</parties>\n<decisiondate id=\"AeR\">April 16, 1906.</decisiondate>\n\n<attorneys id=\"ADm\"><em>Mr. John H. Miller </em>for petitioners.</attorneys>\n\n<opinion><p id=\"AWmX\">Original.</p><p id=\"AOqh\">Dismissed on authority of counsel for the petitioners.</p><p id=\"AorB\">No appearance f\u00f3r respondents.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"651\" lastpage=\"651\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"Ad3\">No. 6,</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ADD\"><em>Ex parte: </em>In the Matter of Alphonso B. Bowers and Bowers California Dredging Company, Petitioners.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AeR\">April 16, 1906.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ADm\"><em>Mr. John H. Miller </em>for petitioners.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AWmX\">Original.</p><p id=\"AOqh\">Dismissed on authority of counsel for the petitioners.</p><p id=\"AorB\">No appearance f\u00f3r respondents.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

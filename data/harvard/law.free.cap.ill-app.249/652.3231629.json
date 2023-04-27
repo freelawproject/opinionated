@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"652\" lastpage=\"652\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b700-7\" pgmap=\"700\">Leo E. Burr, appellee, v. W. E. Schofield, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ar1g\" pgmap=\"700\">Gen. No. 32,437.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AR3\" pgmap=\"700\">Barnes, J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aok\" pgmap=\"700\">Opinion filed July 10, 1928.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b700-9\" pgmap=\"700\">MeGilvray, Eames, Vaughan &amp; Tilley, for appellant; Pranklin E. Vaughan, of counsel. S. L. &amp; Fred Lowenthal and Harry P. Munns, for appellee; Harry P. Munns, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b700-10\" pgmap=\"700\">Mr. Presiding Justice Gridley</author> <p id=\"A2h0\" pgmap=\"700\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

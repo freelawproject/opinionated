@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"947\" lastpage=\"947\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b901-2\">Walter Poe <em>v. </em>Maria Chona-Guillen</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AZ-\">(10270)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b901-3\">Norcott, Landau and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b901-4\">Argued February 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AYWV\">decision released March 3, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b901-6\"><em>John R. Williams, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b901-7\"><em>Patty Jenkins Pittman, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b901-8\">Per Curiam.</author>\n<p id=\"AiL\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

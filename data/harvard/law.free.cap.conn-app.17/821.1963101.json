@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"821\" lastpage=\"821\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b755-9\">Sam Piccione, Jr., et al. <em>v. </em>Paul Limone et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b755-10\">(6458)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b755-11\">Spallone, Stoughton and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b755-12\">Argued December 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AG2\">decision released December 14, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b755-14\"><em>Thomas F. Brown, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b755-15\"><em>Gerald H. Kahn, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b755-16\">Per Curiam.</author>\n<p id=\"AimP\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

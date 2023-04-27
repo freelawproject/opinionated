@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1150\" lastpage=\"1150\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1166-4\">PEOPLE v. KING et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1166-5\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIHq0\">August 9, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1166-6\">Action by the people of the state of New York, against Emma King, as principal, and Jacob Klinger, as surety, on a forfeited bail bond, in which there was-a judgment for plaintiffs, and defendants moved to vacate such judgment.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1166-7\">Argued before BltiCHOFE and GIEGERICH, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1166-8\">Burritt ti. Stone, for surety.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ABQ\">Delancey Nicoll, for the People.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1166-9\">No opinion. Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

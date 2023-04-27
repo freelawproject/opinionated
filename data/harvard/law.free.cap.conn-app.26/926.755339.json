@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"926\" lastpage=\"927\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b880-9\">Robert Sawyer et al. <em>v. </em>Stonington on the River, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b880-10\">(10299)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b880-11\">Dupont, C. J., Foti and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b880-12\">Argued December 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AlMP\">decision released December 31, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b881-3\"><page-number citation-index=\"1\" label=\"927\">*927</page-number><em>Leon M. Kaatz, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b881-4\"><em>Judith D. Meyer, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b881-5\">Per Curiam.</author>\n<p id=\"Ar8Vz\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

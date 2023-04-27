@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"855\" lastpage=\"855\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b867-10\">Mitchell <em>et al. v. </em>Herman <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b867-11\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXpN\">January 28,1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b867-12\">Appeal from special term; New York county.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b867-13\">Argued before Van Brunt, P J., and Brady and Macomber, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b867-14\"><em>R. A. Root, </em>for appellant. <em>BVumenstiel &amp; Rirseh, </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b867-15\">Brady, J.</author>\n<p id=\"AGqA\">Por the reasons stated in the c^se of <em>Kibbe </em>v. <em>Herman, ante, </em>S52, (decided herewith,) the order appealed from should be reversed, and the. motion granted, with \u00a710 costs and disbursements. All concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

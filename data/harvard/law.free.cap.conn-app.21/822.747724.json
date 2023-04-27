@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"822\" lastpage=\"822\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b762-5\">State of Connecticut <em>v. </em>Henry Bridgeforth</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b762-6\">(7034)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b762-7\">Dupont, C. J., Spallone and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b762-8\">Submitted on briefs April 19</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AjFK\">decision released May 2, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b762-10\"><em>Vincent Turley </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b762-11\"><em>John M. Bailey, </em>state\u2019s attorney, and <em>Carolyn K. Longstreth </em>and <em>James Thomas, </em>assistant state\u2019s attorneys, filed a brief for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b762-12\">Per Curiam.</author>\n<p id=\"AFR\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"1\" data-type=\"parties\" id=\"b941-23\">SUNRISE TELECOM, INC., Plaintiff-Appellee, v. ELECTRODATA, INC., Defendant-Appellant.</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b941-26\">No. 00-1017.</docketnumber>\n<court data-order=\"3\" data-type=\"court\" id=\"b941-27\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b941-28\">Jan. 10, 2001.</decisiondate>\n<p data-order=\"0\" data-type=\"judges\" id=\"b941-9\">Before CLEVENGER, SCHALL, and BRYSON, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b941-10\">\n<em>Judgment</em>\n</p>\n<author id=\"Azj\">PER CURIAM.</author>\n<p id=\"b941-11\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b941-12\">AFFIRMED. <em>See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

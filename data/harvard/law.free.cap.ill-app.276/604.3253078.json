@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"604\" lastpage=\"604\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b644-6\" pgmap=\"644\">Chicago Laundry Owners Association et al., appellees, v. American Wet Wash Laundry, Inc., et al., appellants.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AjY\" pgmap=\"644\">Gen. No. 37,568.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"A1_\" pgmap=\"644\">Matehett, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ALh\" pgmap=\"644\">Opinion filed July 6, 1934.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b644-8\" pgmap=\"644\">Elmer W. Arch, for appellants; Elmer W. Arch and Charles H. Borden, of counsel. Jacobson, Merrick, Nierman &amp; Silbert, for appellees; Lewis F. Jacobson, Sidney C. Nierman, David Silbert and Arthur Altschul, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b644-9\" pgmap=\"644\">Mr. Justice MeSurely</author> <p id=\"ADp\" pgmap=\"644\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

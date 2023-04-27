@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"819\" lastpage=\"820\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b753-12\">Colline M. Gernert <em>v. </em>Nancy Emery et al., Executrices (Estate of Walter R. Vollhardt)</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_4\">(6841)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b753-13\">Spallone, Stoughton and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b753-14\">Argued December 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AzF\">decision released December 14, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b754-3\"><page-number citation-index=\"1\" label=\"820\">*820</page-number><em>Brian J. Farrell, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A-0\"><em>Patrice S. Noah, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b754-4\">Per Curiam.</author>\n<p id=\"A2o\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

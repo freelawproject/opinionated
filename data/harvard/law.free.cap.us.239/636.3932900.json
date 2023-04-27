@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"636\" lastpage=\"636\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b682-5\">No. -. Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Am_\"><em>Ex parte: </em>In the Matter of Robert B. Whitt, Petitioner.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AGD\">Submitted January 6, 1916.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AKA\">Decided January 10, 1916.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ALVX\"><em>Mr. Frank W. Clancy </em>for the petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0B\">Motion for leave to</p>\n<p id=\"AA8\">'file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

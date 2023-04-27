@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"949\" lastpage=\"949\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b865-9\">No. 45,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A1n_\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A9f6\">Washington et al. <em>v. </em>General Motors Corp. et al.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmR\">Motion of the State of Idaho to be named as a party plaintiff granted.</p>\n<judges id=\"AhlS\">Mr. Justice Blackmun took no part in the consideration or decision of this motion.</judges>\n<p id=\"A5A\">[For earlier order herein, see 402 U. S. 940.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

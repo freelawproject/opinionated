@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"AFJI\">99-0408 (La. 4/1/99)</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AOF\">RAINTREE COURT APARTMENTS v. Schawanda BAILEY.</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A4s\">No. 99-CC-0408.</docketnumber>\n<court data-order=\"3\" data-type=\"court\" id=\"An0\">Supreme Court of Louisiana.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AmYe\">April 1, 1999.</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQz\">IN RE: Raintree Court Apartments;\u2014 Plaintiff(s); Applying for Supervisory and/or Remedial Writs; Parish of St. Charles 29th Judicial District Court Div. \u201cC\u201d Number 50,129; to the Court of Appeal, Fifth Circuit, Number 98CW-1138</p>\n<p id=\"AEt\">Denied.</p>\n<judges id=\"ArQ\">LEMMON and TRAYLOR, JJ. would grant the writ.</judges>\n<judges id=\"APqH\">JOHNSON, J. not on panel; recused.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

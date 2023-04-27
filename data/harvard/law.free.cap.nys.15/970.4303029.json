@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"970\" lastpage=\"970\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b988-14\">Dexter, Appellant, <em>v. </em>Dustin <em>et al., </em>Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b988-15\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AfdQ\">September 25, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AWU\">Action by Orlando P. Dexter against William D. Dustin and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"Aqpq\">Argued before Learned, P. J., and Landon and Mayham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b988-16\">Ho opinion. Judgment reversed, and new trial granted on the issues ordered as for mistrial, costs to abide event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

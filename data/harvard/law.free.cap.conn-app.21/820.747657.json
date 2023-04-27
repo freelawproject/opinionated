@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"820\" lastpage=\"820\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b760-6\">State of Connecticut <em>v. </em>George Rios</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Afd\">(8167)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b760-7\">Spall one, Lavery and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b760-8\">Argued April 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aa_K\">decision released May 2, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b760-10\"><em>Dennis F. O\u2019Toole, </em>assistant public defender, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b760-11\"><em>Mary Lesser, </em>deputy assistant state\u2019s attorney, with whom, on the brief, were <em>John M. Bailey, </em>state\u2019s attorney, and <em>Warren Maxwell, </em>assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b760-12\">Per Curiam.</author>\n<p id=\"AAC\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

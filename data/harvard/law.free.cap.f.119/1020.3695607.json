@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1056-4\">RUSH et al. v. BAILEY.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AhO\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ajn\">February 10, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ATxJ\">No. 1,203.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AOu\">Appeal from the Circuit Court of the United States for the Northern District of Mississippi.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"Ag6\">Before PARDEE and SHELBY, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1056-5\">PER CURIAM.</author>\n<p id=\"AZi\">As neither of the judges who participated in the decision of this case desires a rehearing, but each is still satisfied with the justice and equity of the decision as rendered, the application for rehearing is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

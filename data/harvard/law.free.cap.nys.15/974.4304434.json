@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"974\" lastpage=\"974\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b992-13\">Sutorius, Appellant, <em>v. </em>North, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b992-14\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aymp\">June 22, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"Aud\">Appeal from special term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b992-15\">Argued before Allen, Bischoff, and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b992-16\"><em>Davison &amp; Chapman, </em>for appellant. <em>D. W. Sherman, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b992-17\">No opinion. Motion for reargument denied, with $10 costs. For opinion \u2022on appeal, see 13 N. Y. Supp. 557.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

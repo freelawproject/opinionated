@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"49\" lastpage=\"49\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b61-3\">Hunt and Others <em>v. </em>Standart and Others.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b61-20\"><em>Tuesday, November </em>27.</decisiondate>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b61-4\">APPEAL from <em>Marion </em>Circuit Court.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b61-7\"><em>H. B. </em>Taylor, for appellant.</attorneys>\n<p data-order=\"4\" data-type=\"citation\" id=\"ANd\">(1) Ante, p. 33.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b61-5\"><em>Per </em>Curiam.</author>\n<p id=\"Any\">This case is similar to that of <em>Hunt et al. </em>v. <em>The Same </em>Appellees, at this term (1).</p>\n<p id=\"b61-6\">The judgment as to the makers of the note is affirmed; as to the indorsers, it is reversed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

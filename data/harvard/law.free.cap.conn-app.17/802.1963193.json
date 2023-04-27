@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"802\" lastpage=\"802\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b736-9\">Roger C. Emerick <em>v. </em>Walter A. Borden et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b736-10\">(6295)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b736-11\">Spallone, Norcott and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b736-12\">Argued October 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVd\">decision released October 26, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b736-15\"><em>Roger C. Emerick, </em>pro se, the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b736-16\"><em>Gerald R. Swirsky, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b736-17\">Per Curiam.</author>\n<p id=\"AO_\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1031-6\">BONSALL v. T. B. PEDDIE &amp; CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ARW3\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AMR\">February 8, 1910.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AOK\">No. 118.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ATK\">Appeal from the Circuit Court of tha United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A6cI\">H. S. Mackaye, for appellant. Louis C. Raegener and. S. L. Moody, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AaZ\">Before WARD and NOYES, Circuit Judges, and HOUGH, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1031-7\">PER CURIAM.</author>\n<p id=\"Amr9\">Decision affirmed, on opinion of Judge Ray (161 Fed. 564).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

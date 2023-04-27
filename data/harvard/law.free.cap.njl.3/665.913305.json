@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"242\" lastpage=\"242\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b252-7\">[491] ANONYMOUS.</parties>\n<attorneys data-order=\"1\" data-type=\"attorneys\" id=\"b252-8\">\n<em>Mr. Hwiter</em>\n</attorneys>\n<p data-order=\"2\" data-type=\"legal\" id=\"Acbn\">moved the court for a rule on the judges of the Common Pleas of Monmouth, to show [*] cause why a mandamus should not issue to compel them to put their seals to a bill of exception, taken before them, by one of the parties below. It appeared that the exception taken below, was, that the court refused to hear read an affidavit of one of the referees, on a motion to set aside a report of the referees.</p>\n<p data-order=\"3\" data-type=\"legal\" id=\"AH-I\">Chief Justice and Rossell, J. Take your rule.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b252-10\">Pennington, J.</author>\n<p id=\"AT4\">Was not satisfied that the matter alleged was a proper subject of a bill of exception.</p>\n<p id=\"b252-11\">Rule allowed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

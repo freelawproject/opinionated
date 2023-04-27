@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"978\" lastpage=\"978\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b994-6\">INTERSTATE REFRIGERATING COMPANY v. ALPER SHRETER.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b994-7\">Decided November 12, 1927.</decisiondate>\n<p data-order=\"2\" data-type=\"attorneys\" id=\"b994-9\">For the plaintiff, <em>Milton M. linger.</em></p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b994-10\">\n<em>Contra, Mendelsohn &amp; Mendelsohn.</em>\n</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b994-11\">Per Curiam.</author>\n<p id=\"b994-12\">Our examination of the proofs and rulings in the aDove cause leads us to the conclusion that none of the grounds relied upon by the plaintiff for setting aside the verdict have legal merit.</p>\n<p id=\"b994-13\">The rule to show cause will be discharged.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

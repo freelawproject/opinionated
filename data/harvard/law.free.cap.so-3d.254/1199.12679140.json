@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1199\" lastpage=\"1199\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  REAL ESTATE DE LOUISIANE, INC.\n  <br/>\n  v.\n  <br/>\n  ALLEN/LABORDE\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-C-1108\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  October 15, 2018\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON WRIT OF CERTIORARI TO THE COURT OF APPEAL, THIRD CIRCUIT, PARISH OF ST. LANDRY\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <judges id=\"p-7\">\n  HUGHES, J., concurs and assigns reasons.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   I concur in the writ denial. The only entity that would benefit under the facts presented is the real estate agency, which has not been made a party defendant.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"953\" lastpage=\"953\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b973-10\"><em>In re </em>Galway.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b973-11\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A1OP\">November 23, 1888.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"Afl\">Petition by James Galway to vacate assessments.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b973-12\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AtZ\"><em>George L. Sterling, </em>for petitioner. <em>Truman H. Baldwin, contra.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b973-13\">Ho opinion. Order affirmed, with usual costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"562\" lastpage=\"562\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  MOBLEY\n  <br/>\n  v.\n  <br/>\n  O'DONNELL\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1417\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  December 19, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   MERIT DECISION WITHOUT OPINION\n  </strong>\n </p>\n <opinion id=\"p-6\">\n  On respondent's motion to dismiss. Motion granted. Cause dismissed.\n </opinion>\n <judges id=\"p-7\">\n  O'CONNOR, C.J., and KENNEDY, FRENCH, FISCHER, DEWINE, and DEGENARO, JJ., concur.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   O'DONNELL, J., not participating.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

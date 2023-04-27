@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"268\" lastpage=\"268\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b278-4\">[511] [*] ROSEVELT <em>against </em>GARDINER.</parties>\n<attorneys data-order=\"1\" data-type=\"attorneys\" id=\"b278-5\">\n<em>Mr. Hornbloioer</em>\n</attorneys>\n<p data-order=\"2\" data-type=\"legal\" id=\"A7S\">moved for leave to amend the notice given in this cause of special matter under the plea of the general issue.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b278-6\">\n<em>Mr. Van Arsdale</em>\n</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"A9A\">opposed this motion, on the ground that notice is not amendable, and cited <em>Barnes, 294-</em></p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b278-7\">By the Court.</author>\n<p id=\"A7U\">Notice in this case, is in the nature of pleadings, and therefore amendable; take your rule.</p>\n<p id=\"b278-8\">Rule allowed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

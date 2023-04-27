@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"805\" lastpage=\"805\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b735-2\">Vincent Brzozowski <em>v. </em>John Sileo</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AiM\">(4507)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b735-3\">Dupont, C. J., Hull and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b735-4\">Submitted on briefs April 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AoK\">decision released April 28, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b735-6\"><em>Richard H. G. Cunningham </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b735-7\"><em>Dennis M. Laccavole </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b735-8\">Per Curiam.</author>\n<p id=\"AcRF\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

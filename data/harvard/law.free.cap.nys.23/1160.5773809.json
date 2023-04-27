@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1160\" lastpage=\"1160\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1192-11\">CARLSON, Respondent, v. WINTERSEN, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1192-12\">(Common Pleas of New York City and County,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ad4\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AUxs\">May 8, 1893.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1192-13\">Action by Louise Carlson against Marie F. Wintersen;</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1192-14\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, J.T.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1192-15\">E. F. Bullard, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1192-16\">H. M. Hitchings, for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1192-17\">No opinion. Motion for a reargument denied, with $10 costs. See 20 N. Y. Supp. 897.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

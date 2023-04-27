@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1018\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1054-11\">CHINA &amp; JAPAN TRADING CO., Limited, v. DAVIS et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A6M\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AZ4q\">February 10, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ATf\">No. 1,192.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AjI\">In Error to the Circuit Court of the United States for the Eastern District of Texas;</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"AED\">Before PARDEE and SHELBY, Circuit Judges, and BOARMAN, District Judge.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1055-3\"><page-number citation-index=\"1\" label=\"1019\">*1019</page-number>PER CURIAM.</author>\n<p id=\"AVp\">As no one of the judges who participated in the decision-of this case desires a rehearing, and as all are satisfied with the decision as rendered, the petition for rehearing is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

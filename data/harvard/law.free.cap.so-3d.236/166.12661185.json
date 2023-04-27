@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"166\" lastpage=\"166\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Ex parte State\n </parties>\n <parties id=\"p-2\">\n  (In re: STATE v. Lynda BRANCH)\n </parties>\n <docketnumber id=\"p-3\">\n  CR-15-1203\n </docketnumber>\n <court id=\"p-4\">\n  Court of Criminal Appeals of Alabama.\n </court>\n <decisiondate id=\"p-5\">\n  October 24, 2016\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Mand. pet. granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

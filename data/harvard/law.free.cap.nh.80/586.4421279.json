@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"586\" lastpage=\"586\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b616-2\">Sullivan,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b616-3\">Jan. 4, 1921.</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b616-4\">Lyman B. Eaton <em>v. </em>Lizzie H. Clarke <em>&amp; a., Ex\u2019rs.</em></parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b616-6\"><em>Hurd &amp; Kinney, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b616-7\"><em>Ira C. Colby, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b616-5\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"Aqqt\">The questions argued cannot be determined upon the facts agreed.</p>\n<p id=\"b616-8\">\n<em>Case discharged.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

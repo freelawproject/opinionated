@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"812\" lastpage=\"812\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b746-4\">No. 73,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A1CA\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AUV\">California <em>v. </em>Nevada.</parties>\n<seealso data-order=\"3\" data-type=\"seealso\" id=\"AVHH\">[For earlier decision herein, see, <em>e. g., </em>456 U. S. 867.]</seealso>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACpk\">It is ordered that the Honorable Robert Van Pelt be discharged as Special Master in this case.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

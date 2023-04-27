@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b737-2\">Thomas Goudie <em>v. </em>Anne Mona Goudie</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AX8\">(6332)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b737-3\">Borden, Stoughton and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b737-4\">Argued October 19</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AICJ\">decision released November 7, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b737-6\"><em>Anne D. Goudie, </em>pro se, the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b737-7\"><em>Gregory P. Lynch, </em>with whom, on the brief, was <em>Theodore R. Tyma, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b737-8\">Per Curiam.</author>\n<p id=\"AmX\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

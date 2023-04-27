@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"928\" lastpage=\"928\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b882-6\">C.S.R. Associates <em>v. </em>191 Wooster Street Ltd. Partnership et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b882-7\">(10173)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b882-8\">Daly, Landau and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b882-9\">Argued December 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AQF5\">decision released December 31, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b882-11\"><em>Noah Eisenhandler, </em>with whom, on the brief, was <em>Frank J. Kolb, Jr., </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b882-12\"><em>David C. Pite, </em>with whom, on the brief, was <em>James S. Brownstein, </em>for the appellee (defendant Ruthann L. Williams).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b882-13\">Per Curiam.</author>\n<p id=\"AAY\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

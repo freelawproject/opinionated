@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"834\" lastpage=\"834\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b768-6\">Robert Gavin <em>v. </em>City of New Britain</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_qV\">(7049)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b768-7\">Spallone, O\u2019Connell and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b768-8\">Argued February 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AOp\">decision released February 22, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b768-10\"><em>Harold J. Geragosian, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b768-11\"><em>Joseph E. Skelly, Jr., </em>with whom were <em>Jason M. Dodge </em>and, on the brief, <em>James L. Pomeranz </em>and <em>Richard T. Stabnick, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b768-12\">Per Curiam.</author>\n<p id=\"ASb\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

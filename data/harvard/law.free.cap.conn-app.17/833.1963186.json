@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"833\" lastpage=\"833\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b767-2\">Jin Sung Bok et al. <em>v. </em>Donato Antone et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b767-3\">(7121)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b767-4\">Spallone, O\u2019Connell and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b767-5\">Argued February 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ae8\">decision released February 22, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b767-7\"><em>Thomas E. Eaton, </em>with whom, on the brief, was <em>Joseph E. Faughnan, for the </em>appellants (defendants Beazley Company et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b767-8\"><em>George E. Tillinghast, Jr., </em>for the appellee (named defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b767-9\">Per Curiam.</author>\n<p id=\"AQT\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

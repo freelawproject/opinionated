@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"792\" lastpage=\"792\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b806-3\">CHARLES A. DEREMER, PLAINTIFF, v. PATRICK J. MACKIN, DEFENDANT.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b806-5\">Decided July 24, 1924.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b806-7\">Before Justices Kalisch, Katzenbach and Lloyd.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b806-8\">For the rule, <em>Gross </em>cG <em>Gross.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b806-9\">\n<em>Conira, William C. Gebhardt &amp; Son.</em>\n</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b806-10\">Per Curiam.</author>\n<p id=\"b806-11\">The facts are the same as in No. 436 of the February term, 1924. The cases were tried together. In this case the judgment entered by default was $7,453.88 in favor of the plaintiff and against the defendant.</p>\n<p id=\"b806-12\">For the reasons stated in No. 436, Scherrer <em>v. </em>Mackin, the judgment entered in this case is vacated.and set aside and a new trial ordered, and upon the same terms.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"561\" lastpage=\"561\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"Aqfc\">No. \u2014,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"APIF\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AebA\"><em>Ex parte: </em>In the Matter of George H. Crawford, Petitioner.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ANr\">Submitted April 29, 1907.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ax83\">Decided May 13, 1907.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Asou\"><em>Mr. Seth T. McCormick </em>for petitioner.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A4a6\"><em>Mr. A. L..Cole, Mr. Jno. Houston Merrill </em>and <em>Mr. C. H. McCauley </em>opposing.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9Dz\">Motion for leave, to file petition for a writ of <em>habeas corpus </em>denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

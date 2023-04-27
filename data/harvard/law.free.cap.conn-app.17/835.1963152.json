@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"835\" lastpage=\"836\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b769-13\">Alex Campbell <em>v. </em>Charles Pommier et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ASe\">(6018)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b769-14\">Spallone, O\u2019Connell and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b769-15\">Argued February 16</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ao_\">decision released February 28, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b770-3\"><page-number citation-index=\"1\" label=\"836\">*836</page-number><em>Richard H. G. Cunningham, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b770-4\"><em>Arnold J. Bai, </em>with whom were <em>Elizabeth M. Buckmir </em>and, on the brief, <em>Garie J. Mulcahey, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b770-5\">Per Curiam.</author>\n<p id=\"Ans\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

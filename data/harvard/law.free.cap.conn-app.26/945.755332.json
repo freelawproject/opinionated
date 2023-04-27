@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"945\" lastpage=\"945\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b899-7\">R.L.D. Associates Limited Partnership <em>v. </em>Inland Wetlands Commission of the Town of Seymour</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b899-8\">(10345)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b899-9\">Norcott, Poti and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b899-10\">Argued February 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A-m\">decision released March 3, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b899-12\"><em>Richard R. Ryan, </em>with whom, on the brief, were <em>Annacarina Del Mastro </em>and <em>William J. Ryan, Jr., </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b899-13\"><em>Richard S. Bruchal, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b899-14\">Per Curiam.</author>\n<p id=\"Apb\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

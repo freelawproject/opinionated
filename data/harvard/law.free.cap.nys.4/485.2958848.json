@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"485\" lastpage=\"485\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b505-4\">Cornelius <em>v. </em>Crug <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b505-5\"><em>(Supreme Court, General </em>Term, <em>Second Department.</em></court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AvI\">May 14, 1888.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"ArK\">Argued before Barnard, P. J., and Dykman and Pratt, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b505-6\"><em>William J. Stanford, </em>for appellants. <em>E. L. Frost, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b505-7\">No opinion. Judgment affirmed for non-submission of papers according to stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
