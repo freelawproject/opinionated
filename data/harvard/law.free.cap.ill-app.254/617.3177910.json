@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"617\" lastpage=\"617\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b649-9\" pgmap=\"649\">H. Wagner, appellee, v. Ziff Brothers, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A7W\" pgmap=\"649\">Gen. No. 33,462.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"A8f\" pgmap=\"649\">McSurely, P. J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ATl\" pgmap=\"649\">Opinion filed October 14, 1929.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b649-11\" pgmap=\"649\">Otto F. Reich and Ode L. Rankin, for appellant. John J. Sonsteby and Joseph J. Berzin, for appellee.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b649-12\" pgmap=\"649\">Mr. Justice O\u2019Connor</author> <p id=\"ATcZ\" pgmap=\"649\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

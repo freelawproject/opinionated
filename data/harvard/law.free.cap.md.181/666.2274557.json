@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"666\" lastpage=\"666\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b726-3\">MARY LOREA <em>v. </em>SAMUEL LOREA</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AUA\">[No. 61,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"ARVp\">October Term, 1942.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b726-5\">\n<em>Decided January 29, 1943.</em>\n</decisiondate>\n<judges data-order=\"4\" data-type=\"judges\" id=\"b726-9\">The cause was argued before Sloan, Delaplaine, Collins, Marbury, and Grason, JJ.</judges>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b726-11\"><em>George B. Wo elf el </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b726-12\"><em>Emanuel Klawans </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b726-13\">Sloan, J.,</author>\n<p id=\"AlA\">delivered the opinion of the Court.</p>\n<p id=\"b726-14\">\n<em>Decree affirmed, with costs on the defendant.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"10\" lastpage=\"10\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Eddie CAPLE.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 437P05.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  December 19, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Victoria L. Voight, Special Deputy Attorney General, Daniel P. O'Brien, Assistant Attorney General, L. Johnson Britt, III, District Attorney, for State of NC.\n </attorneys>\n <opinion id=\"p-6\">\n  The following order has been entered on the motion filed on the 13th day of July 2006 by Defendant to Dissolve Stay:\n </opinion>\n <opinion id=\"p-7\">\n  \"Motion Dismissed as Moot by order of the Court in conference this the 19th day of December 2006.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Justice BRADY recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"122\" lastpage=\"122\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Todd BULGER, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  The BOARD OF TRUSTEES OF the CITY PENSION FUND FOR FIREFIGHTERS AND POLICE OFFICERS IN the CITY OF TAMPA, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-4445\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  November 27, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Petitioner's notice of voluntary dismissal is accepted and this petition for writ of certiorari is dismissed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

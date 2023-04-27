@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"949\" lastpage=\"949\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1001-4\">UNITED STATES of America, Appellant, v. BROWN &amp; WILLIAMSON TOBACCO CORPORATION, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1001-6\">No. 12573.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1001-7\">United States Court of Appeals Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1001-8\">Feb. 7, 1956.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1001-10\">John G. Laughlin, Melvin Richter, Washington, D. C., J. Leonard Walker, Rhodes Bratcher, Louisville, Ky., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1001-11\">Louis Seelbach, Louisville, Ky., for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1001-12\">Before SIMONS, Chief Judge, and McALLISTER and STEWART, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1001-13\">PER CURIAM.</author>\n<p id=\"b1001-14\">The judgment of the district court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

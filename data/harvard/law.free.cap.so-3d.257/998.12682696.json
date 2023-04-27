@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jose MORA, Appellant(s)/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  The STATE of Florida, Appellee(s)/Respondent(s),\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 3D18-0108\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  SEPTEMBER 18, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

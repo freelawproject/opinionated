@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"494\" lastpage=\"495\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b542-35\">Jeff S. BRIGGS v. R. E. SCHIERENBERG et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b542-37\">No. 6659.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b542-38\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b542-39\">April 11, 1961.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b542-41\">No attorney for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ah_\">Philip H. Sheridan, Denver, Colo., William B. Paynter, Brush, Colo., and Rich<page-number citation-index=\"1\" label=\"495\">*495</page-number>ard B. Paynter, Fort Morgan, Colo., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b543-4\">Before MURRAH, Chief Judge, and BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b543-5\">PER CURIAM.</author>\n<p id=\"b543-6\">Appeal dismissed for failure of appellant diligently to prosecute same.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

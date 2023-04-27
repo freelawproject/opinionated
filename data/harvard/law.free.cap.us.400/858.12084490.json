@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"858\" lastpage=\"858\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AUUHq\">October 13, 1970</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AuT5b\">No. -.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AHlW\">Marcello <em>v. </em>United States.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AT32\">C. A. 5th Cir. Application for bail presented to \u25a0 Mr. Justice Black, and by him referred to the Court, denied.</p>\n</opinion>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-2\" type=\"dissent\">\n<author id=\"b736-10\">Mr. Justice Black,</author>\n<judges id=\"Aizy\">with whom Mr. Justice Douglas ' joins,</judges>\n<p id=\"AlDV\">dissenting. </p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1052-7\">J. H. ROSSBACH &amp; BRO. v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AiHK\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQT\">April 18, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AXu\">No. 104.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AaD\">Appeal from the Circuit Court of the United States for the \u2022 Southern District of New York.</summary>\n<seealso data-order=\"5\" data-type=\"seealso\" id=\"ACi\">For opinion below, see 116 Fed. 781.</seealso>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AB7u\">W. W. Smith, for appellant. Chas. I. Baker, for the United States.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AWO\">Before TOWNSEND and COXE, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1052-8\">PER CURIAM.</author>\n<p id=\"Apx\">Affirmed in open court</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

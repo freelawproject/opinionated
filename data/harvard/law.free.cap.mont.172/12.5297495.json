@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"12\" lastpage=\"12\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A-a\">STATE OF MONTANA, Plaintiff, vs. DENNIS LEE MARKS, Defendant.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"b612-13\">DECISION</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b612-12\">No. 2761-A</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ApK\">DATED this 13th day of May, 1977.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b612-14\">The application of the above-named defendant for a review of the sentence of Ten years imposed on October 25, 1976, was fully heard and after a careful consideration of the entire matter it is decided that:</p>\n<p id=\"b612-15\">The sentence be and remain as originally imposed.</p>\n<p id=\"b612-16\">We wish to thank James Johnstone, of the Montana Defender Project, for his assistance to the defendant and to this Court.</p>\n<p id=\"b612-18\">SENTENCE REVIEW DIVISION</p>\n<judges id=\"b612-19\">Jack L. Green, Chairman; Robert C. Sykes.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1142\" lastpage=\"1142\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Kelvin Maurice COBB, Appellant,\n  <br/>\n  v.\n  <br/>\n  The STATE of Florida, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D18-1810\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed October 24, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Kelvin Maurice Cobb, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Pamela Jo Bondi, Attorney General, for appellee.\n </attorneys>\n <judges id=\"p-7\">\n  Before SALTER, SCALES, and LINDSEY, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n   <em>\n    See\n   </em>\n   <em>\n    Christopher v. State\n   </em>\n   ,\n   <extracted-citation case-ids=\"7569547,7569613\" index=\"0\" url=\"https://cite.case.law/so-2d/489/22/\">\n    489 So.2d 22\n   </extracted-citation>\n   (Fla. 1986).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"692\" lastpage=\"693\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b722-7\">FRANK BOUCHAT <em>v. </em>WILLIAM A. SMITH et al</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A2V\">[No. 17,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AOV\">October Term, 1938.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b722-10\">\n<em>Decided October 28th, 1938.</em>\n</decisiondate>\n<judges data-order=\"4\" data-type=\"judges\" id=\"b722-13\">The cause was submitted on briefs to Bond, C. J., Urner, Offutt, Parke, Sloan, Mitchell, Shehan, and Johnson, JJ.</judges>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b723-3\"><page-number citation-index=\"1\" label=\"693\">*693</page-number><em>Robert F. Leach, </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b723-4\"><em>Michael J. Manley, </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b723-5\">Urner, J.,</author>\n<p id=\"Av-\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

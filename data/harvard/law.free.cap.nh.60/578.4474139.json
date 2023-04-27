@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"578\" lastpage=\"578\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b588-9\">[Hillsborough,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A1aF\">June, 1880.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b588-10\">Ring <em>v. </em>Holt.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b588-11\"><em>Burns, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b588-12\"><em>Wallace, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b588-13\">Report of a referee whose general finding for the plaintiff was apparently based on an inference of fact. No error, of law appearing, judgment was rendered on the report.</p>\n<judges id=\"b588-14\">Allen, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

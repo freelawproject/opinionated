@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"2\" lastpage=\"2\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Norris S. NELSON, BY AND THROUGH Janice BATEMAN as personal representative of the Estate of Norris S. Nelson\n  <br/>\n  v.\n  <br/>\n  Jaroslava Karusova NELSON\n </parties>\n <docketnumber id=\"p-2\">\n  2160211\n </docketnumber>\n <court id=\"p-3\">\n  Court of Civil Appeals of Alabama.\n </court>\n <decisiondate id=\"p-4\">\n  October 18, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Dismissed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

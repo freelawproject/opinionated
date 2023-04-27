@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"584\" lastpage=\"584\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b594-16\">[Carroll,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AsF6\">June, 1881.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b594-17\">Gleason <em>v. </em>Hodge.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b594-18\"><em>Batchelder &lt;f Faulkner, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b594-19\"><em>Hill </em>and <em>Hibbard, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b594-20\">Stanley, J.</author>\n<p id=\"ALx\">The referee found the plaintiff to be an innocent holder of a note against the plaintiff for value.</p>\n<p id=\"b594-21\">\n<em>Exceptions overruled.</em>\n</p>\n<judges id=\"b594-22\">Blodgett, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

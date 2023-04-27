@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"683\" lastpage=\"683\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <attorneys id=\"p-1\">\n  Leslie BURNS, Landry Davis, Edith Dozier, Carrie Ferguson, Jamekelea Pinkston, Linette Richard, Yarkeshala Waldon, Kimberly Walker, Kenneth Brad Ott, Edwin Ray Parker, and the American Federation of State, County, and Municipal Employees, Council 17\n  <br/>\n  v.\n  <br/>\n  LOUISIANA STATE UNIVERSITY HEALTH SCIENCES CENTER-SHREVEPORT and The Department of State Civil Service\n </attorneys>\n <docketnumber id=\"p-2\">\n  NO. 2017-C-0483\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  June 15, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   WEIMER, J., would grant.\n  </author>\n  <p id=\"p-7\">\n   HUGHES, J., would grant.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

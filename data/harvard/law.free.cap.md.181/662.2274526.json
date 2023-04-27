@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"662\" lastpage=\"662\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Aff\">ABE FELDSTEIN <em>v. </em>STATE OF MARYLAND</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AP2\">[No. 28,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aobh\">October Term, 1942.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Azz\">\n<em>Decided October 15, 1942.</em>\n</decisiondate>\n<judges data-order=\"4\" data-type=\"judges\" id=\"APL\">The cause was argued before Bond, C. J., Delaplaine, Collins, Marbury, and Grason, JJ.</judges>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A0T8\"><em>Leonard J.. Harmatz </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A4W_\"><em>William C. Walsh, Attorney General, </em>and <em>Robert E. Clapp, Assistant Attorney General, </em>with whom was <em>Morgan C. Harris, State\u2019s Attorney for Allegany County, </em>on the brief, for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AlM\">Marbury, J.,</author>\n<p id=\"AqG\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

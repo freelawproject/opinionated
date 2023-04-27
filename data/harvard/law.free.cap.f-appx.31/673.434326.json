@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"673\" lastpage=\"673\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AfQ\">THERMACOR PROCESS, L.P., Plaintiff-Appellant, v. ROVANCO PIPING SYSTEMS, INC., Defendant-Appellee, and Lawrence J. Stonitsch, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"An4\">No. 01-1635.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"A2r\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AOV\">Jan. 31, 2002.</decisiondate>\n<p data-order=\"4\" data-type=\"docketnumber\" id=\"APi\">ON MOTION</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnsW\">\n<em>ORDER</em>\n</p>\n<p id=\"ALXk\">Rovanco Piping Systems, Inc. and Lawrence J. Stonitsch move without opposition to dismiss Thermacor Process, L.P.\u2019s appeal.</p>\n<p id=\"AlW\">Upon consideration thereof,</p>\n<p id=\"A1-p\">IT IS ORDERED THAT:</p>\n<p id=\"Au6\">(1) The unopposed motion to dismiss is granted.</p>\n<p id=\"A5B\">(2) All sides shall bear their own costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

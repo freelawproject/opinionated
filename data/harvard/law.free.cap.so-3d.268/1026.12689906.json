@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1026\" lastpage=\"1026\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Torbio SANTACRUZ\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2019-KK-0328\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 6, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE CRIMINAL DISTRICT COURT, PARISH OF ORLEANS\n  </strong>\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM:\n  </author>\n  <p id=\"p-7\">\n   Writ granted. We vacate the district court's ruling to the extent it ordered defendant to appear in court for periodic visits. After conducting a contradictory hearing in accordance with La.C.Cr.P. art. 648(B)(1), the district court determined that the incompetent defendant is unlikely in the foreseeable future to be capable of standing trial. Therefore, we order the district court to either order the defendant released or remanded to the custody of the Louisiana Department of Health, in accordance with La.C.Cr.P. art. 648(B)(3).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

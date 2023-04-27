@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"958\" lastpage=\"958\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1010-15\">Carl R. RITTER v. T. J. MORRIS, Trustee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1010-17\">No. 5252.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1010-18\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1010-19\">Jan. 6, 1956.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1010-21\">Stanley E. Wisdom, Wichita, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1010-22\">Harold Irwin, Wichita, Kan., for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1010-23\">Before BRATTON, Chief Judge, and MURRAH and PICKETT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1010-24\">PER CURIAM.</author>\n<p id=\"b1010-25\">Dismissed, pursuant to stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"29\" lastpage=\"29\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  EX PARTE Mary EMERY\n </parties>\n <parties id=\"p-2\">\n  (In re: Clark Corbett Dickerson III and Joyce Dickerson, as his guardian v. Mary Emery)\n </parties>\n <docketnumber id=\"p-3\">\n  2160923\n </docketnumber>\n <court id=\"p-4\">\n  Court of Civil Appeals of Alabama.\n </court>\n <decisiondate id=\"p-5\">\n  October 5, 2017\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Mand. pet. denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

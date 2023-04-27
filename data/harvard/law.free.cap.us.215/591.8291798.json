@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"591\" lastpage=\"591\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b641-11\"><em>Ex parte </em>UNITED STATES CONSOLIDATED SEEDED RAISIN COMPANY.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b641-12\">PETITION POR MANDAMUS.</summary>\n<p data-order=\"2\" data-type=\"misc\" id=\"b641-13\">No. \u2014. Original.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AYi\">Submitted December 20, 1909.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AzN\">Decided January 3, 1910.</decisiondate>\n<syllabus data-order=\"5\" data-type=\"syllabus\" id=\"b641-15\">Motion for leave to file petition for a Writ of mandamus or certiorari denied.</syllabus>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b641-16\"><em>Mr. John H. Miller </em>for petitioner.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b641-17\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AV9m\">Motion for leave to file petition for writ of mandamus or certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

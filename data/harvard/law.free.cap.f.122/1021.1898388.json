@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1053-7\">In re SLIMMAN.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AEA\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A3FU\">May 4, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"As9\">No. 176.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AEc\">Appeal from the District Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ah91\">E. Frayer, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AEt\">E. Putney, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"ATXc\">Before WALLACE, LAOOMBE, and TOWNSEND, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJR\">Appeal dismissed, the court holding that petition for review is the only remedy.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"254\" lastpage=\"254\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b282-3\">Richmond</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b282-4\">Virginia Railway and Power Company v. Avera.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b282-5\">March 12, 1914.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b282-6\">Error to a judgment of the Law and Equity Court of the city of Richmond.</summary>\n<disposition data-order=\"4\" data-type=\"disposition\" id=\"b282-7\">\n<em>Affirmed-</em>\n</disposition>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b282-8\"><em>H. W. Anderson, A. B. Guigion </em>'and <em>Harold S. Bloom-berg, </em>for the plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b282-9\"><em>Albert O\u2019Boschen, </em>for the defendant in error.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b282-10\">Decided by a divided court. No opinion was delivered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

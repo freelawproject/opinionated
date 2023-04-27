@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1052-4\">CROCKER v. OAKES et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ATM\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aat\">May 8, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ArTQ\">No. 185.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AYIO\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"APY\">H. Y. M. Dennis, Jr., for appellants. Wm. T. Reed, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AEMK\">Before WALLACE, TOWNSEND, and COXE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1052-5\">PER CURIAM.</author>\n<p id=\"AKG\">Affirmed in open court. See 117 Fed. 363.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"425\" lastpage=\"425\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b455-12\">WEBMETHODS, INC., Plaintiff-Appellant, v. IWORK SOFTWARE, LLC, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b455-15\">No. 03-1410.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b455-16\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b455-17\">Jan. 12, 2004.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b455-19\">Before CLEVENGER, LINN, and PROST, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b455-20\">Judgment</p>\n<author id=\"b455-21\">PER CURIAM.</author>\n<p id=\"b455-22\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b455-23\">AFFIRMED. <em>See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

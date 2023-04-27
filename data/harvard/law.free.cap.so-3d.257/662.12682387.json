@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"662\" lastpage=\"663\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jody GASPARD, et al.\n  <br/>\n  v.\n  <br/>\n  Marvin HUTSON, Brian Dauzat Trucking, LLC, QBE Specialty Insurance, Helena Chemical Company and ABC Insurance Company\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-CC-1424\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  December 3, 2018\n </decisiondate>\n <history id=\"p-5\">\n  ON WRIT OF CERTIORARI TO THE COURT OF APPEAL, FIRST CIRCUIT, PARISH OF POINTE COUPEE\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   Granted. The district court did not err in finding there were genuine issues of material fact in this case. Accordingly, the judgment of the court of appeal is reversed, and the judgment of the district court denying the motion for summary judgment is reinstated. The case is remanded to the district court for further proceedings.\n  </p>\n  <p id=\"p-8\">\n   Weimer, J., would deny.\n  </p>\n  <p id=\"p-9\">\n   Guidry, J., would deny.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"29\" lastpage=\"30\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b462-10\">DATED this 23rd day of March, 2007.</decisiondate>\n<parties data-order=\"0\" data-type=\"parties\" id=\"b462-3\">STATE OF MONTANA, Plaintiff, vs. CHRISTOPHER ROULEAU, Defendant,</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b462-23\">Cause No. DC-29-2005-9</docketnumber>\n<p data-order=\"3\" data-type=\"summary\" id=\"ABk\">NUNC PRO TUNC ORDER TO CORRECT DECISION</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b462-8\">The sentencing date in paragraph one and paragraph six of the February 8, 2007 Decision of the Sentence Review Division was incorrectly listed as July 21, 2006.</p>\n<p id=\"b462-9\">NOW, THEREFORE, IT IS ORDERED ADJUDGED AND DECREED THAT the sentencing date in paragraph one and paragraph six is hereby amended to the correct sentencing date of July 10, 2006.</p>\n<judges id=\"b462-11\">Chairperson, Hon. Randal I. Spaulding</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

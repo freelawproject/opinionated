@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1150\" lastpage=\"1150\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1176-7\">VIETOR et al., Respondents, v. NICHOL et al., Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AlqN\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A7DQ\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A-i-\">April 28, 1897.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A2a8\">Action by George F. Vietor and another against George T. Nichol and others.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AnLn\">Campbell &amp; Murphy, for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AGgp\">Blumenstiel &amp; Hirsch, for respondents.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1176-8\">PER CURIAM.</author>\n<p id=\"AhC\">We .think that the trial justice was right in directing a verdict in the favor of the plaintiffs, because the defendants\u2019 evidence presented no defense. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1053-12\">UNITED STATES v. GABRIEL et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AvDK\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AoW\">January 22, 1901.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A1D\">No. 2,793.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AkK3\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<seealso data-order=\"5\" data-type=\"seealso\" id=\"A7H\">For opinion below, see 99 Fed. 716.</seealso>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Abn\">D. Frank Lloyd, Asst. U. S. Atty. W. Wickham Smith, for appellees.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AXm\">Before WALLACE, LACOMBE, and SHIPMAN, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ABlQ\">PER CURIAM.</author>\n<p id=\"A2Th\">Affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

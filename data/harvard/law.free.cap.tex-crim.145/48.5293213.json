@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"48\" lastpage=\"48\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b78-4\">Ex Parte Antonio Rodriguez.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b78-5\">No. 22246.</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AxJ\">Delivered November 11, 1942.</decisiondate>\n<p data-order=\"3\" data-type=\"summary\" id=\"b78-11\">The opinion states the case.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b78-12\"><em>Julian La Crosse, </em>of Del Rio, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b78-13\"><em>Spurgeon E. Bell, </em>State\u2019s Attorney, of Austin, for the State.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b78-14\">HAWKINS, Presiding Judge.</author>\n<p id=\"b78-15\">The question sought to be presented on appeal is moot, as appears from the opinion in No. 22,224 Ex parte Maria Sanchez. (Page 48 of this volume.)</p>\n<p id=\"b78-16\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

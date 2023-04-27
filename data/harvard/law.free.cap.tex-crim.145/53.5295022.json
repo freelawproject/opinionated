@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"53\" lastpage=\"54\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b83-8\">Joe Jeffries v. The State.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b83-9\">No. 22300.</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AzJ\">Delivered November 18, 1942.</decisiondate>\n<p data-order=\"3\" data-type=\"summary\" id=\"b83-15\">The opinion states the case.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b83-16\">No attorney for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b83-17\"><em>Spurgeon E. Bell, </em>State\u2019s Attorney, of Austin, for the State.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b83-18\">BEAUCHAMP, Judge.</author>\n<p id=\"b84-4\"><page-number citation-index=\"1\" label=\"54\">*54</page-number>The appellant was assessed a fine of $150.00 upon his plea of guilty to a complaint charging a violation of the liquor laws.</p>\n<p id=\"b84-5\">The appeal presents nothing for our consideration and the judgment of the trial court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

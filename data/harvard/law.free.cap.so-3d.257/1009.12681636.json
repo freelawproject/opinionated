@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1009\" lastpage=\"1009\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <attorneys id=\"p-1\">\n  Mary K. BRAZ, Kevin Casey, Jeffrey Casey and Timothy John Casey a/k/a Timothy J. Casey, Deceased, Appellants,\n  <br/>\n  v.\n  <br/>\n  U.S. BANK NATIONAL ASSOCIATION, as Trustee for J.P. Morgan Mortgage Trust 2007-S3, Wells Fargo Bank National Association, as Successor by Merger to Wachovia Bank National Association, JPMorgan Chase Bank National Association Assignee of Chemical Bank, Unknown Tenant #1 and Unknown Tenant #2, Appellees.\n </attorneys>\n <docketnumber id=\"p-2\">\n  No. 4D17-2753\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Fourth District.\n </court>\n <decisiondate id=\"p-4\">\n  [November 15, 2018]\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

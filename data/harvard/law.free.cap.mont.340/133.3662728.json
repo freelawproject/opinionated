@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"133\" lastpage=\"133\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b565-6\">STATE OF MONTANA, Plaintiff, vs. ELI SAYLER, Defendant,</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b565-23\">CAUSE NO. DC-03-40</docketnumber>\n<p data-order=\"2\" data-type=\"docketnumber\" id=\"Am3\">NUNC PRO TUNC ORDER TO CORRECT DECISION</p>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b565-10\">The counsel of record listed on the third paragraph of the November 1,2007 Decision of the Sentence Review Division was incorrectly listed as Eric Olson.</p>\n<p id=\"b565-11\">Now, THEREFORE, IT IS ORDERED THAT the third paragraph of the November 1, 2007 Decision of the Sentence Review Division shall be amended to read: \u201cThe defendant was present and was represented by JOSEPH CONNORS. The state was represented by Robert Zimmerman.\u201d</p>\n<p id=\"b565-12\">DATED this 29th day of November, 2007.</p>\n<judges id=\"b565-13\">Chairperson, Hon. Randal I. Spaulding</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

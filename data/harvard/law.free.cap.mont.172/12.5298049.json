@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"12\" lastpage=\"12\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AH_\">STATE OF MONTANA, Plaintiff, vs. MARVIN B. HOWETH, JR., Defendant.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"b612-5\">DECISION</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b612-4\">No. 10152</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AaU\">DATED this 13th day of May, 1977.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b612-6\">The application of the above-named defendant for a review of the sentence of Twenty years imposed on February 28, 1977, was fully heard and after a careful consideration of the entire matter it is decided that:</p>\n<p id=\"b612-7\">The sentence be and remain as originally imposed.</p>\n<p id=\"b612-8\">We wish to thank Neal Jensen, of the Montana Defender Project, for his assistance to the defendant and to this Court.</p>\n<p id=\"b612-10\">SENTENCE REVIEW DIVISION</p>\n<judges id=\"AI0\">Jack L. Green, Chairman; Robert C. Sykes, Peter G. Meloy.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"9\" lastpage=\"9\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AMb\">STATE OF MONTANA, Plaintiff, vs. DAVID ARTHUR DEPUE, Defendant.</parties>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b609-4\">DECISION</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b609-5\">No. 3705</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ar7\">DATED this 18th day of March, 1977.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b609-6\">The application of the above-named defendant for a review of the sentence of Seven (7) years imposed on October 18, 1976, was fully heard and after a careful consideration of the entire matter it is decided that:</p>\n<p id=\"b609-7\">The sentence be and remain as originally imposed.</p>\n<p id=\"b609-8\">We wish to thank Michael G. Barer, Montana Defender Project, for his assistance to the defendant and this Court.</p>\n<p id=\"b609-10\">SENTENCE REVIEW DIVISION</p>\n<judges id=\"A7Y\">Jack D. Shanstrom, Chairman; Jack L. Green, Robert C. Sykes.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

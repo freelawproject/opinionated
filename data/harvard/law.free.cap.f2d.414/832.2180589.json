@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"832\" lastpage=\"832\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b888-21\">DESERT OUTDOOR ADVERTISING, INC., et al., Plaintiffs and Appellants, v. COUNTY OF RIVERSIDE et al., Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b888-23\">No. 22689.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b888-24\">United States Court of Appeals Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b888-25\">July 7, 1969.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b888-27\">Tilden L. Brooks (argued), Deputy County Counsel, Ray T. Sullivan, Jr., County Counsel, Steven A. Broiles, Deputy County Counsel, Riverside, Cal., for appellees.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b888-28\">Before CHAMBERS and JERTBERG, Circuit Judges, and KILKENNY, District Judge.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b888-29\">PER CURIAM:</author>\n<p id=\"b888-30\">The judgment is affirmed for the reasons stated in the order of the district judge dated October 9, 1967, 302 F.Supp. 599.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1149\" lastpage=\"1149\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1175-16\">TOPLITZ, Plaintiff, v. KING BRIDGE CO., Defendant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AyS1\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A4rk\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Azey\">April 28, 1897.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AsG\">Action by George Toplitz against the King Bridge Company.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AdDi\">M. H. Oppenheim, for plaintiff.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AMM7\">J. Stikeman, for defendant.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aq5o\">No opinion. Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

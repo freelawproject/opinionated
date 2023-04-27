@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"173\" lastpage=\"173\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Fred GRAY, Appellant,\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 4D17-3527\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Fourth District.\n </court>\n <decisiondate id=\"p-4\">\n  [April 17, 2019]\n </decisiondate>\n <attorneys id=\"p-5\">\n  Fred Gray, Quincy, pro se.\n </attorneys>\n <attorneys id=\"p-6\">\n  No appearance for appellee.\n </attorneys>\n <court id=\"p-7\">\n  <strong>\n   <em>\n    ON REMAND FROM THE SUPREME COURT OF FLORIDA\n   </em>\n  </strong>\n </court>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Per Curiam.\n  </author>\n  <p id=\"p-9\">\n   Upon remand from the Florida Supreme Court, we reverse appellant's sentence in accordance with\n   <em>\n    State v. Lewars\n   </em>\n   ,\n   <extracted-citation case-ids=\"12683625\" index=\"0\" url=\"https://cite.case.law/so-3d/259/793/\">\n    259 So.3d 793\n   </extracted-citation>\n   (Fla. 2018), and remand for resentencing.\n  </p>\n  <p id=\"p-10\">\n   Warner, Conner and Kuntz, JJ., concur.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

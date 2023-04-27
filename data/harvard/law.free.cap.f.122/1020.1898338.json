@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1052-13\">NEW YORK, N. H. &amp; H. R. CO. v. WEISBERG.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AcS\">(Circuit Court of Appeals, First Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A74H\">April 14, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AidB\">No. 469.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ace\">David S. Baker, for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A2J\">Lucius Brown, for defendant in error.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AJe\">Before COLT and PUTNAM, Circuit Judges, and ALDRICH, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AyE\">No opinion. Dismissed by agreement of counsel.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

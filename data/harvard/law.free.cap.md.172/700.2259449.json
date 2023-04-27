@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"700\" lastpage=\"701\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b730-7\">WILLIAM L. WILKINS et al. <em>v. </em>THOMAS M. ANDERSON</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aq1a\">[No. 36,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AsEJ\">January Term, 1937.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b731-4\">\n<page-number citation-index=\"1\" label=\"701\">*701</page-number>\n<em>Decided April 9th, 1937.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b731-7\">The cause was argued before Bond, C. J., Urner, Offutt, Parke, Sloan, Mitchell, Shehan, and Johnson, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b731-8\"><em>Charles C. Wallace, </em>for the appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b731-9\"><em>John L. Sanford </em>and <em>John C. </em>Weiss, submitting on brief, for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b731-10\">Sloan, J.,</author>\n<p id=\"A9L\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

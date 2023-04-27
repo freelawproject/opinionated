@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1185\" lastpage=\"1185\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Terry L. BALZ, Appellant-Defendant,\n  <br/>\n  v.\n  <br/>\n  CLAIMS PROFESSIONAL REPRESENTATIVES, LLC, Appellee-Plaintiff.\n </parties>\n <docketnumber id=\"p-2\">\n  Court of Appeals Case No. 10A04-1711-CT-2816\n </docketnumber>\n <court id=\"p-3\">\n  Court of Appeals of Indiana.\n </court>\n <decisiondate id=\"p-4\">\n  FILED August 2, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DISPOSITION OF CASE BY UNPUBLISHED MEMORANDUM DECISION\n  </strong>\n </p>\n <judges id=\"p-6\">\n  <strong>\n   BARNES\n  </strong>\n  ,\n  <em>\n   Sr.J.\n  </em>\n </judges>\n <opinion id=\"p-7\">\n  Affirmed.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   VAIDIK, C.J., Concurs.\n  </author>\n  <p id=\"p-9\">\n   PYLE, J., Concurs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

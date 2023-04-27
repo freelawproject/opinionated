@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"629\" lastpage=\"629\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b653-6\" pgmap=\"653\">Southern Surety Company, appellant, v. The Peoples State Bank of Astoria, appellee.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJoG\" pgmap=\"653\">Gen. No. 7,945.</docketnumber><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Akr\" pgmap=\"653\">Opinion filed December 19, 1928.</decisiondate><p data-order=\"3\" data-type=\"otherdate\" id=\"A69\" pgmap=\"653\">Original opinion reported in full in 243 Ill. App. 195.</p><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b653-8\" pgmap=\"653\">Gillespie &amp; Gillespie, for appellant; Hugh J. Dobbs and Louis F. Gillespie, of counsel. Glenn Ratcliff and Robert E. White, for appellee.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b653-9\" pgmap=\"653\">Per curiam.</author> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

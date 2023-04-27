@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1052-9\">KRUTTSCHNIT v. SIMMONS et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AaOe\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AAN\">May 23, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A7V\">No. 193.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Af8g\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A4u\">A. G. Bowen, for appellant. A. C. Hanff, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"Aht\">Before WALLACE, LAGOMBE, and COXE, Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1052-10\">PER CURIAM.</author>\n<p id=\"A69\">Decree affirmed, with costs, on opinion of Circuit Court. 118 Fed. 851.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

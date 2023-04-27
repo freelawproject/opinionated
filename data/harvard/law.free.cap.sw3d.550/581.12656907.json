@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"581\" lastpage=\"582\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  John M. LOOMIS, Appellant,\n  <br/>\n  v.\n  <br/>\n  STATE of Missouri, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  WD 80402\n </docketnumber>\n <court id=\"p-3\">\n  Missouri Court of Appeals, Western District.\n </court>\n <decisiondate id=\"p-4\">\n  ORDER FILED: June 26, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Samuel E. Buffaloe, Columbia, MO, for appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Karen L. Kramer, Jefferson City, MO, for respondent.\n </attorneys>\n <judges id=\"p-7\">\n  Before Division Three: Victor C. Howard, Presiding Judge, Cynthia L. Martin, Judge and Gary D. Witt, Judge\n </judges>\n <p id=\"p-8\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Per curiam:\n  </author>\n  <p id=\"p-10\">\n   John Loomis appeals from the denial of his Rule 29.15 motion following an evidentiary hearing. Loomis argues that the motion court clearly erred in denying his motion because he received ineffective assistance of counsel in that trial counsel failed to\n   move for a mistrial. Finding no error, we affirm. Rule 84.16(b).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"765\" lastpage=\"765\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b795-7\">APPLIED MEDICAL RESOURCES CORPORATION, Plaintiff-Appellee, v. UNITED STATES SURGICAL CORPORATION, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b795-10\">No. 03-1030.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b795-11\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b795-12\">DECIDED: Sept. 11, 2003.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b795-14\">Before NEWMAN, Circuit Judge, FRIEDMAN, Senior Circuit Judge, and RADER, Circuit Judge.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b795-15\">JUDGMENT</p>\n<author id=\"b795-16\">PER CURIAM.</author>\n<p id=\"b795-17\">This CAUSE having been heard and considered, it is</p>\n<p id=\"b795-18\">ORDERED and ADJUDGED: <em>AFFIRMED. See </em>Fed. Cir. R. 36</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

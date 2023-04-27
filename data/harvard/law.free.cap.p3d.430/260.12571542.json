@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"260\" lastpage=\"260\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Washington, Respondent,\n  <br/>\n  v.\n  <br/>\n  Brandon J. JOHNSON, Petitioner.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 96192-1\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Washington.\n </court>\n <decisiondate id=\"p-4\">\n  DATED at Olympia, Washington, November 28, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   \u00b6 1 Department II of the Court, composed of Chief Justice Fairhurst and Justices Madsen, Stephens, Gonz\u00e1lez and Yu, considered at its November 27, 2018, Motion Calendar whether review should be granted pursuant to RAP 13.4(b) and unanimously agreed that the following order be entered.\n  </p>\n  <p id=\"p-7\">\n   \u00b6 2 IT IS ORDERED:\n  </p>\n  <p id=\"p-8\">\n   \u00b6 3 That the petition for review is denied.\n  </p>\n  <p id=\"p-9\">\n   For the Court\n  </p>\n  <author id=\"p-10\">\n   <em>\n    /s/ Fairhurst, C.J.\n   </em>\n  </author>\n  <p id=\"p-11\">\n   CHIEF JUSTICE\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

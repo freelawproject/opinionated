@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"802\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b679-8\">October 6, 1970</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ANsU\"><page-number citation-index=\"1\" label=\"802\">*802</page-number>No. 43,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AOX\">Orig.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AC-\">Oregon <em>v. </em>Mitchell, Attorney General.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AfR\">Motion for leave to file bill of complaint granted. Motion of New York City Board of Elections for leave to intervene in this case and in No. 44, Orig. <em>[infra], </em>denied. Motion of Youth Franchise Coalition et al. for leave to participate in oral argument as <em>amici curiae </em>in this case and in No. 46, Orig. <em>[infra], </em>denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

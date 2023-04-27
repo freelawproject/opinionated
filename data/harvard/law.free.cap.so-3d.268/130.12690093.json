@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"130\" lastpage=\"130\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Perry ROUHANI, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  SUPERIOR FENCE &amp; RAIL OF PINELLAS COUNTY, INC., et al., Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D16-4325\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  April 16, 2019\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   This is an appeal from an order entered in the proceedings supplementary to a final judgment entered in lower court case number 2009-CA-007533. That final judgment has been reversed by this court. 1385 Starkey, LLC v. Superior Fence &amp; Rail of Pinellas County. Inc., 44 Fla. L. Weekly D251 (Fla. 2d DCA Jan. 18, 2019). As a result, this appeal is dismissed as moot.\n  </p>\n  <judges id=\"p-7\">\n   NORTHCUTT, VILLANTI, and BLACK, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

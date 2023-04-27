@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"890\" lastpage=\"890\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX. REL. Theodore SMITH\n  <br/>\n  v.\n  <br/>\n  STATE of Louisiana\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2017-KH-0833\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  August 31, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied. Relator has previously exhausted his right to state collateral review. See State ex rel. Smith v. State, 15-0018 (La. 10/30/15),\n  <extracted-citation case-ids=\"6831939,6831973\" index=\"0\" url=\"https://cite.case.law/so-3d/178/131/\">\n   178 So.3d 131\n  </extracted-citation>\n  .\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   WEIMER, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

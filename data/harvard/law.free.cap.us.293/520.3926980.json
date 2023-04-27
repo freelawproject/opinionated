@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"520\" lastpage=\"520\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b586-7\">No. \u2014, original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AIR\">Ex parte Brown.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AVZ\">October 8, 1934.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AA4Q\">\n<em>Mr. John Brown, pro se.</em>\n</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUn\">The motion for leave to file a petition for writ of habeas corpus is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

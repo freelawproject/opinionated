@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"89\" lastpage=\"89\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b521-14\">DATED this 30th day of August, 2007.</decisiondate>\n<parties data-order=\"0\" data-type=\"parties\" id=\"b521-8\">STATE OF MONTANA, Plaintiff, vs. CRAIG W. FRAZIER, Defendant,</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b521-24\">CAUSE NO. ADC-87-100</docketnumber>\n<p data-order=\"3\" data-type=\"summary\" id=\"A7q\">NUNC PRO TUNC ORDER TO CORRECT DECISION</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b521-12\">The sentencing date listed in the first and last paragraph of the August 14, 2007 Decision of the Sentence Review Division was incorrectly listed as November 29, 2005.</p>\n<p id=\"b521-13\">NOW, THEREFORE, IT IS ORDERED THAT the sentencing date in the first and last paragraph of the August 14, 2007 Decision of the Sentence Review Division, is hereby amended to read September 29, 2005.</p>\n<judges id=\"b521-15\">Chairperson, Hon. Randal I. Spaulding</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

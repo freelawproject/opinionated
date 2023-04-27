@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1187\" lastpage=\"1187\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Christopher VICOLI, Appellant/Cross-Appellee-Petitioner,\n  <br/>\n  v.\n  <br/>\n  Ashley MULLICA (Vicoli), Appellee/Cross-Appellant-Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  Court of Appeals Case No. 41A04-1711-DR-2624\n </docketnumber>\n <court id=\"p-3\">\n  Court of Appeals of Indiana.\n </court>\n <decisiondate id=\"p-4\">\n  Filed August 14, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DISPOSITION OF CASE BY UNPUBLISHED MEMORANDUM DECISION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    KIRSCH\n   </strong>\n   ,\n   <em>\n    J.\n   </em>\n  </author>\n  <p id=\"p-7\">\n   Affirmed, reversed, and remanded.\n  </p>\n  <p id=\"p-8\">\n   BRADFORD, J., Concurs.\n  </p>\n  <p id=\"p-9\">\n   BAKER, J., Concurs with separate opinion.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

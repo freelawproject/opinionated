@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1034\" lastpage=\"1035\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Michael MCPHERSON\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-KH-1158\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  April 29, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied. Applicant has previously exhausted his right to state collateral review.\n </opinion>\n <p id=\"p-6\">\n  See State ex rel. McPherson v. State, 15-2127 (La. 3/31/17),\n  <extracted-citation case-ids=\"12363670\" index=\"0\" url=\"https://cite.case.law/so-3d/214/851/\">\n   214 So.3d 851\n  </extracted-citation>\n  .\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   WEIMER, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

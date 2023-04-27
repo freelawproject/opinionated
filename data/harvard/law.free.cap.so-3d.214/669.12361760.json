@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"669\" lastpage=\"669\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b699-4\">DISTRICT COURTS OF APPEAL</court>\n<p data-order=\"1\" data-type=\"court\" id=\"b699-5\">FIRST DISTRICT</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ASX\">Brummett v. State</parties>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AF5f\">1D15-2951</docketnumber>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"akk-dedup-0\">08/12/2016</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnG\">Aff.</p>\n<p id=\"Ae2i\">Cir. Ct. (Santa Rosa)</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

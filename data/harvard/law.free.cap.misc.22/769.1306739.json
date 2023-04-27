@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"769\" lastpage=\"769\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"Ai1\">SUPREME COURT, APPELLATE TERM,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ATA\">FEBRUARY, 1898.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"ASB_\">Before Beekman, P. J., Gildersleeve and Giegbrich, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A03M\">Ferdinand Kerber, Respondent, v. Nathaniel Niles, Appellant.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ARb\">Appeal from, a judgment of the General Term of the City Court, affirming a judgment in favor of plaintiff entered upon a verdict, and from order denying motion for a new trial.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A-Cs\">Henry T. Brennan, for Appellant. Alfred and Charles Steckler, for Respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aie\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
