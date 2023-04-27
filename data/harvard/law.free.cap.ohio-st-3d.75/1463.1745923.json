@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1463\" lastpage=\"1463\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"axx-dedup-1\">\n<em>Thursday, April 25, 1996</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"adc-dedup-1\">RECONSIDERATION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A_6k\">95-2279.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AJ6G\">Feichtner v. Ohio Dept. of Transp.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0XH\"><em>Franklin County, </em>No. 95API01-47. Reported at 75 Ohio St.3d 1411, 661 N.E.2d 759. On motion for reconsideration. Motion granted; <em>sua sponte, </em>discretionary appeal allowed and merit briefing to proceed.</p>\n<judges id=\"Az99\">Moyer, C.J., and Resnick, J., dissent.</judges>\n<judges id=\"AGXK\">Stratton, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

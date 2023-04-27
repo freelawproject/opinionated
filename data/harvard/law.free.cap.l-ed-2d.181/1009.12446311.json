@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1009\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1109-23\">No. 11-7715.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AyuH\">Derrick Bullard, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1109-24\">565 U.S. 1174, 132 S. Ct. 1118,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AYpFI\">181 L. Ed. 2d 1009,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AsI-\">2012 U.S. LEXIS 630.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1109-25\">January 17, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMRzh\">Petition for writ of certiorari to the United States Court of <page-number citation-index=\"1\" label=\"1010\">*1010</page-number>Appeals for the Third Circuit denied.</p>\n<judges id=\"Abby6\">Justice Kagan took no part in the consideration or decision of this petition.</judges>\n<p id=\"b1110-4\">Same case below, 440 Fed. Appx. 81.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

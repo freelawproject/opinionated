@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"536\" lastpage=\"537\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b560-11\">Nelly Harris, Appellant, <em>v. </em>Valentine Stratten, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b560-12\">Decided January 27, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AVO\">Appeal from judgment <page-number citation-index=\"1\" label=\"537\">*537</page-number>dismissing complaint.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AON\">John Brooks Leavitt, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ARW\">P. C. Tallman, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AqQj\">Before Sedgwick, Oh. J., Van Vorst and Freedman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFf\">Opinion</p>\n<author id=\"A_X\">Per Curiam.</author>\n<p id=\"AM\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

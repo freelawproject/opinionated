@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"259\" lastpage=\"259\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b281-6\">THE ADRIATIC. THE ST. MICHAEL.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b281-8\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AdF\">December 22, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AsY\">No. 124.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b281-12\">Karlin, Woolsey, Campbell, Hickox &amp; Keating, of New York City (W. H. McOrann, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b281-13\">Burlingham, Veeder, Masten <em>&amp; </em>Fearey, of New York City (Chauncey I. Clark and J. Harvey Turnure, both of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b281-14\">Before BOGEBS, HOUGH, and MAYEB, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b281-15\">PEB CUBIAM.</author>\n<p id=\"AB_X\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

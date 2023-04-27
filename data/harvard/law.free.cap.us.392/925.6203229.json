@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"925\" lastpage=\"926\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b737-8\">No. 1185,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AemU\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A2pz\">Benton <em>v. </em>Maryland.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ac3K\">Ct. Sp. App. Md. Motion for leave to proceed <em>in forma pauperis </em>granted. Certiorari granted limited to the following questions:</p>\n<p id=\"b737-9\">(1) Is the double jeopardy clause of the Fifth Amendment applicable to the States through the Fourteenth Amendment?</p>\n<attorneys id=\"Aum9\"><page-number citation-index=\"1\" label=\"926\">*926</page-number><em>H. Thomas Sisk </em>and <em>M. Michael Cramer </em>for petitioner.</attorneys>\n<attorneys id=\"AmTd\"><em>Francis B. Burch, </em>Attorney General of Maryland, and <em>Edward F. Borgerd-ing, </em>Assistant Attorney General, for respondent.</attorneys>\n<p id=\"b738-3\">(2) If so, was the .petitioner \u201ctwice put in jeopardy\u201d in this case?</p>\n<p id=\"b738-4\">Case transferred to appellate docket.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

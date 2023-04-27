@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b821-2\">October 5, 1948.</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b821-4\">No.-.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A7-\">Johnson et al. <em>v. </em>Stevenson.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AiGp\"><em>Alvin 3. Wirtz, James V. Allred, Thurman Arnold, Abe Fortas, Hugh Cox, Raymond Buck, Luther E. Jones, Jr. </em>and <em>Everett L. Looney </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Afz\"><em>Henry H. Brooks </em>and <em>Dan Moody </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AS8_\">On consideration of the supplemental motion for stay submitted by counsel for the petitioners, it is ordered by this Court that the motion to expand the order of Mr. Justice Black of September 29, 1948, be, and it is hereby, denied.</p>\n<judges id=\"A0r\">Mr. Justice Murphy took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

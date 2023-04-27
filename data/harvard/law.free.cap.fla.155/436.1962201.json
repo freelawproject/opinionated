@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"436\" lastpage=\"436\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b460-6\">C. R. GILLILAND, EDWARD P. STRONG, and WALTER R. CLARK, as Sheriff of Broward County, Florida, v. MERCANTILE INVESTMENT &amp; HOLDING COMPANY, a Florida Corporatoin.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b460-7\">20 So. (2nd) 502</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"A7I\">January Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b460-8\">January 16, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Ax7\">Special Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b460-10\"><em>T. D. Ellis, Jr., </em>for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b460-11\"><em>Arthur S. Friedman </em>and <em>W. G. Ward, </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b460-12\">PER CURIAM:.</author>\n<p id=\"b460-13\">The decree appealed from is affirmed.</p>\n<judges id=\"b460-14\">CHAPMAN, C. J., TERRELL, BUFORD and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"401\" lastpage=\"401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"pAeuF\">No. 11-6344.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A7-f\">Michael William Ledford, Petitioner v. Georgia.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b501-25\">565 U.S. 1017, 132 S. Ct. 556,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ARz7\">181 L. Ed. 2d 401,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ARPB\">2011 U.S. LEXIS 7952.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b501-26\">November 7, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A6z3\">Petition for writ of certiorari to the Supreme Court of Georgia denied.</p>\n<p id=\"b501-27\">Same case below, 289 Ga. 70, 709 S.E.2d 239.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

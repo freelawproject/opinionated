@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"584\" lastpage=\"584\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b604-7\">Albert Nolte, Respondent <em>v. </em>The Manhattan Railway Company, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b604-8\">Decided June 27, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AfGa\">Appeal from judgment entered in favor of plaintiff upon the verdict of a jury, and from an order denying defendant\u2019s motion for a new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AA3\">Davies &amp; Rapallo, for app\u00e9llant. Charles Steckler, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Ahr\">Before Freedman and Truax, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AK6\">The Court</author>\n<p id=\"AY3\">held (Freedman, J., writing, Truax, J., concurring) that the judgment and order should be affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1201\" lastpage=\"1201\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b835-9\">In re Resignation of Renshaw.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b835-10\">[Cite as <em>In re Resignation of Renshaw </em>(1996), 75 Ohio St.3d 1201.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AuLV\">(No. 96-233</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Aggc\">Submitted February 21, 1996</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"al2-dedup-0\">Decided March 6, 1996.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b835-12\">The resignation as an attorney of Robert Eugene Renshaw of Dayton, Ohio, Attorney Registration No. 0033739, is accepted.</p>\n<judges id=\"b835-13\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

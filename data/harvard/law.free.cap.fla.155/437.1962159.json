@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"437\" lastpage=\"437\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b461-4\">MARIA de ARRIBA v. JOSE de ARRIBA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b461-5\">20 So. (2nd) 501</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"ABH\">January Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AqXB\">January 16, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Aon\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b461-8\"><em>W. C. Kemp, </em>for appellant</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ApE\"><em>Nestor Morales, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b461-9\">PER CURIAM:</author>\n<p id=\"b461-10\">Affirmed.</p>\n<judges id=\"b461-11\">CHAPMAN, C. J., BROWN, BUFORD, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

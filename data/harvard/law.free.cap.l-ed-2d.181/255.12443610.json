@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"255\" lastpage=\"255\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b355-18\">No. 10-9659.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"atgq-dedup-0\">Felix Rocha, Petitioner v. Rick Thaler, Director, Texas Department of Criminal Justice, Correctional Institutions Division.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b355-19\">565 U.S. 941, 132 S. Ct. 397,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AmHb\">181 L. Ed. 2d 255,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ad64\">2011 U.S. LEXIS 7268.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b355-20\">October 11, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AzZ5\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b355-21\">Same case below, 619 F.3d 387 and 626 F.3d 815.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

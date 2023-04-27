@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"290\" lastpage=\"290\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b290-8\">Frederick A. Stokes v. Nathaniel P. Jacobs.</parties>\n<headnotes data-order=\"1\" data-type=\"headnotes\" id=\"b290-9\">Assignments of error are not necessary on common law cerfcioraris.</headnotes>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b290-10\">\n<em>Decided June 3d.</em>\n</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b290-11\">Certiorari to a Circuit Court Commissioner, to review his proceedings on the dissolution of an attachment.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b290-12\"><em>A. Russell, </em>for plaintiff in error,</attorneys>\n<p data-order=\"5\" data-type=\"disposition\" id=\"Aiy\">moved for leave to amend the assignment of errors; but</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b290-13\">The Court</author>\n<p id=\"AOL\">held that it was unnecessary, as no assignment of errors is required on a common law certiorari.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

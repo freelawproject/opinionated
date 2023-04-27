@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1047-32\">Israel GOODMAN and Aaron Goodman, Copartners, Doing Business under the Firm Name and Style of Goodman Bros., Appellees, v. UNION INDEMNITY COMPANY, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1047-33\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Amq\">December 2, 1929.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1047-34\">No. 33.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1047-37\">Bernard J. Vincent, of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1047-38\">Prince <em>&amp; </em>Loeb, of New York City (Sidney J. Loeb, of New York City, of counsel), for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1047-39\">Before L. HAND, SWAN, and CHASE, Circuit, Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1047-40\">PER CURIAM.</author>\n<p id=\"Ap4\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

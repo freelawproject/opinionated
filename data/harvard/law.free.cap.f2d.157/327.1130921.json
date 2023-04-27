@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"327\" lastpage=\"328\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b381-41\">LIBERTY ROYALTIES CORPORATION, a Corporation, et al., v. Francis PORTA, Trustee, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b381-42\">No. 3392.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b381-43\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ACu\">Aug. 29, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b382-3\"><page-number citation-index=\"1\" label=\"328\">*328</page-number>Bradford J. Williams, Fenelon Boesche, and Richard P. Ryan, all of Tulsa, Okl., for appellees.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b382-4\">Before PHILLIPS, Circuit Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b382-5\">PER CURIAM.</author>\n<p id=\"b382-6\">Appeal dismissed pursuant to stipulation August 29, 1946.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

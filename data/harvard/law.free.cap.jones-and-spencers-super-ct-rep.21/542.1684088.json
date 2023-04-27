@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"542\" lastpage=\"542\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b566-5\">Peter Born, Appellant, <em>v. </em>Henry Schrenkeisen, <em>et al., </em>Respondents.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b566-6\">Decided May 3, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Ag0\">Appeal from judgment dismissing complaint.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ATd\">Wehle &amp; Jordan, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Avb\">MacFarland, Reynolds &amp; Harrison, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AC7\">Before Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AUY\">Per Curiam.</author>\n<p id=\"AxZX\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1420\" lastpage=\"1421\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A-pB\">\n<em>Wednesday, March 27, 1996</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A-XO\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"aiv-dedup-1\">95-1536.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A5a\">ALLTEL Ohio, Inc. v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9QZ\">Public Utilities Commission, No. 94-2012-TP-ACE. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"AZ6\"><page-number citation-index=\"1\" label=\"1421\">*1421</page-number>Moyer, C.J., Douglas, F.E. Sweeney, Pfeifer, Cook and Stratton, JJ., concur.</judges>\n<judges id=\"A5u6\">Resnick, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

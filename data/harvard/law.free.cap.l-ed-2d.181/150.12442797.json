@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"150\" lastpage=\"150\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b250-27\">No. 11-5016.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A71N\">Erick Daniel Davila, Petitioner v. Texas.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b250-28\">565 U.S. 885, 132 S. Ct. 258,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"agv_-dedup-0\">181 L. Ed. 2d 150,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"a_x_-dedup-0\">2011 U.S. LEXIS 5700.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b250-29\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AR7_\">Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

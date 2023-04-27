@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"586\" lastpage=\"586\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b606-7\">New York Life Insurance Company, Plaintiff <em>v. </em>James Aitkin, as Executor, etc., Defendant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b606-9\">Decided June 30, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AF7\">The case was tried before the court and a jury. A verdict was ordered for the defendant and the trial judge ordered the exceptions to be heard in the first instance at the general term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ADh\">Henry G. Atwater, for plaintiff. Johnston &amp; Johnston, for defendant.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AtZ\">Before Truax and Dugro, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A6m\">Per Curiam.</author>\n<p id=\"AYp\">The plaintiff\u2019s exceptions are overruled and judgment is ordered for the defendant, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

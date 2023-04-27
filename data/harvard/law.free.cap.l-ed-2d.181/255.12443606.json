@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"255\" lastpage=\"255\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b355-3\">No. 10-1320.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"amcl-dedup-0\">Alex Blueford, Petitioner v. Arkansas.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b355-4\">565 U.S. 941, 132 S. Ct. 397,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AS6v\">181 L. Ed. 2d 255,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ae9i\">2011 U.S. LEXIS 7339.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b355-5\">October 11, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AI5qm\">Petition for writ of certiorari to the Supreme Court of Arkansas granted.</p>\n<p id=\"b355-6\">Same case below, 2011 Ark. 8, 370 S.W.3d 496.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

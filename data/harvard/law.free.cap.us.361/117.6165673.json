@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"117\" lastpage=\"117\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b199-12\">BREATON <em>v. </em>UNITED STATES.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b199-14\">No. 54,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"An-I\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A0Uc\">Decided November 23, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b199-16\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b199-17\"><em>Solicitor General Rankin </em>for the United States.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b199-18\">Per Curiam.</author>\n<p id=\"b199-19\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for writ of certiorari are granted.. The judgment is vacated and the case is remanded to the District Court for further consideration in the light of Public Law 86-320, approved September 21, 1959, 73 Stat. 590.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

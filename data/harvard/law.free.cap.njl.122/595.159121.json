@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"595\" lastpage=\"595\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b641-3\">PORTO RICAN AMERICAN TOBACCO CO., PROSECUTOR, v. ESSEX COUNTY BOARD OF TAXATION ET AL., DEFENDANTS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b641-4\">Submitted May 2, 1939</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEc\">Decided July 11, 1939.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b641-6\">Before Justices Parker, Bodine and Perskie.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b641-7\">For the prosecutor, <em>Edward E. Barker.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b641-8\">For the defendants, <em>James F. X. O'Brien.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b641-9\">Per Curiam.</author>\n<p id=\"b641-10\">The judgment under review will be set aside for the reasons stated in <em>Duke Power Co. </em>v. <em>The Essex County Board of Taxation and the City of </em>Newark, <em>122 N. J. L. </em>589.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

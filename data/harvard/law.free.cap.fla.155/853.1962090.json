@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"853\" lastpage=\"853\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b877-6\">DALLIE ARRANT v. STATE OF FLORIDA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b877-7\">22 So. (2nd) 156</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Acq\">January Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b877-8\">May 11, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A-W\">Division <em>A</em></court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b877-9\">Rehearing denied May 31, 1945</otherdate>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b877-11\">John M. Coe and Clyde R. Brown, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b877-12\"><em>J. Tom Watson, </em>Attorney General; and <em>Reeves Bowen, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b877-13\">PER CURIAM:</author>\n<p id=\"b877-14\">The judgment appealed from is affirmed.</p>\n<judges id=\"b877-15\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

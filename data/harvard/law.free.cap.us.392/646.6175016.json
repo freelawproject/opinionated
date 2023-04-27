@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"646\" lastpage=\"646\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b688-13\">HEARD et al. <em>v. </em>RIZZO et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b688-15\">No. 1530,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AeIy\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A2P\">Decided June 17, 1968.<footnotemark>*</footnotemark></decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b688-17\"><em>Lois G. Forer </em>for appellants in No. 1530, Mise. <em>William Kunstler </em>for appellants in No. 1662, Mise.</attorneys>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b688-20\">Together with No. 1662, Misc., <em>Traylor et al. </em>v. <em>Rizzo et al., </em>also on appeal from the same court.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"b688-18\">Per Curiam.</author>\n<p id=\"b688-19\">The motion to affirm is granted and the judgments are affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"42\" lastpage=\"42\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b142-7\">No. 10-1526.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AhPW\">Nelson Fernandes, et ux., Petitioners v. Sparta Township Council, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b142-8\">565 U.S. 826, 132 S. Ct. 118,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"at2-dedup-0\">181 L. Ed. 2d 42,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A5o\">2011 U.S. LEXIS 5268.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b142-9\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Az5\">Petition for writ of certiorari to the Supreme Court of New Jersey denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

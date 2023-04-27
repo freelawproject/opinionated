@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"541\" lastpage=\"541\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b565-7\">Edward Willis, Administrator, &amp;c., Appellant, <em>v. </em>James Finan, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b565-8\">Decided May 3, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A7O\">Appeal from judgment dismissing complaint.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AQs\">J. N. Goldbacher, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AKJ\">J. M. Lyddy, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AkK\">Before Sedgwick, Ch. J., Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A0_\">Per Curiam.</author>\n<p id=\"AXN\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

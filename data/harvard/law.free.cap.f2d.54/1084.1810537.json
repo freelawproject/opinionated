@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1084\" lastpage=\"1084\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1112-4\">In the Matter of TRIANGLE METAL NOVELTY CORP., Bankrupt, Izak Fried, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1112-5\">No. 61.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1112-6\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ASf\">Nov. 16, 1931.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1112-8\">Hoenig &amp; Hoenig, of New York City (Moses H. Hoenig, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1112-9\">Copal Mintz, of New York City, for Trustee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1112-10\">Before MANTON, AUGUSTUS N. HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1112-11\">PER CURIAM.</author>\n<p id=\"b1112-12\">Orders affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

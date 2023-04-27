@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"918\" lastpage=\"919\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  R.L.S., Respondent,\n  <br/>\n  v.\n  <br/>\n  Willie C. THOMAS, JR., Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  WD 81041\n </docketnumber>\n <court id=\"p-3\">\n  Missouri Court of Appeals, Western District.\n </court>\n <decisiondate id=\"p-4\">\n  ORDER FILED: May 29, 2018\n  <br/>\n  Rehearing Denied July 3, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Crissy Del Percio and Madison K. Peak, Legal Aid of Western Missouri, Kansas City, MO, Attorneys for Respondent.\n </attorneys>\n <attorneys id=\"p-6\">\n  Linda S. Mock, Kansas City, MO, Attorney for Appellant.\n </attorneys>\n <judges id=\"p-7\">\n  Before Division Two: Karen King Mitchell, Presiding Judge, and Alok Ahuja and Edward R. Ardini, Jr., Judges\n </judges>\n <p id=\"p-8\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Per Curiam:\n  </author>\n  <p id=\"p-10\">\n   Willie Thomas appeals from a judgment entering a full order of protection against him and in favor of R.S. Finding no reversible error, we affirm. Rule 84.16(b).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

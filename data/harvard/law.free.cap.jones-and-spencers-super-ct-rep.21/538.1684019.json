@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"538\" lastpage=\"538\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b562-4\">Jefferson Patten, Jr., <em>et al., </em>Respondents, <em>v. </em>Richard Pancoast, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b562-5\">Decided March 1, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AJ53\">Appeal from judgment and from order denying motion for new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A-8\">John L. Logan, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ag8\">Cephas Brainerd, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AJO\">Before Sedgwick, Ch. J., and O\u2019Gorman, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Amr\">Opinion by O\u2019Gorman, J. Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"103\" lastpage=\"103\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b203-13\">No. 10-10972.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ANsC\">Albert Smith, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b203-14\">565 U.S. 860, 132 S. Ct. 197,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ar1z\">181 L. Ed. 2d 103,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ACc1\">2011 U.S. LEXIS 5879.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b203-15\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACvy\">Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n<p id=\"axa-dedup-0\">Same case below, 419 Fed. Appx. 619.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

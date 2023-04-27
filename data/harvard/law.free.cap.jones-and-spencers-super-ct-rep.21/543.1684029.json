@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"543\" lastpage=\"543\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b567-4\">Maria Fredericks, Appellant, <em>v. </em>Alexander V. Davidson, as Sheriff, &amp;c., Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b567-5\">Decided June 8, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AQO4\">Appeal from a judgment on verdict, and order denying motion for new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ab9\">Francis B. Ohedsey, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ADDG\">W. Bourke Cockran, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AH1\">Before Sedgwick, Oh. J., Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ao-\">Opinion by O\u2019Gorman, J. Verdict set aside ; new trial ordered ; costs to abide event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

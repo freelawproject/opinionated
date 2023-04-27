@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"922\" lastpage=\"922\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b734-12\">No. 1724,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Anf\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AL2\">McLoughlin Manufacturing Corp. et al. <em>v. </em>Wright, U. S. Circuit Judge, et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A1TN\"><em>Earl D. Yaffe </em>and <em>Jacob E. Yaffe </em>on the motion.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ADv\"><em>Solicitor General Griswold, Arnold Ord-man, Dominick L. Manoli, </em>and <em>Norton J. Come </em>for respondents Wright et al. in opposition.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aac_\">Motion for leave to file petition for writ of mandamus and/or prohibition denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

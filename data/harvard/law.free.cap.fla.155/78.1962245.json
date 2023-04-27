@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"78\" lastpage=\"78\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b102-5\">ROY HANSFORD and BELLE HANSFORD, v. ROY PEACOCK</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b102-6\">19 So. (2nd) 576</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AeS\">June Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b102-7\">November 3, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AFj\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b102-9\"><em>B. L. Solomon, </em>for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b102-10\"><em>Marion B. Knight, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b102-11\">PER CURIAM:</author>\n<p id=\"b102-12\">Affirmed.</p>\n<judges id=\"b102-13\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

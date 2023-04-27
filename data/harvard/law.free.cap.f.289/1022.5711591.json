@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1042-3\">MINFORD et al. v. MOORE &amp; McCORMICK CO., Inc.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A11K\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AyRU\">May 21, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AAqC\">No. 280.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AaB\">Burlingham, Yeeder, Masten &amp; Fearey, of New York City (Ray Rood Allen, of New York City, of counsel), for appellants. William Hayward, U. S. Atty., of New York City (Horace T. Atkins and Glen R. Snider, both of New York City, of counsel), for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A8O9\">Before ROGERS, MANTON, and MAYER,Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1042-4\">PER CURIAM.</author>\n<p id=\"ARf7\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

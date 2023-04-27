@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"587\" lastpage=\"587\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b607-10\">Eliza W. White, <em>et al., </em>Respondents <em>v. </em>Edward M. Benjamin, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b607-11\">Decided November 3, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AsX\">Appeal from an order directing defendant to furnish a bill of particulars.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ATfx\">Whitlock &amp; Simonds, for respondents. Smith &amp; Dougherty, for appellant.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AMR\">Before Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWJ\">Order affirmed with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

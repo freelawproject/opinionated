@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b723-9\">No. 1236,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AZT\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AWP\">Sutton <em>v. </em>Texas.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A8h\"><em>Charles W. Tessmer </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AQ4\"><em>Crawford C. Martin, </em>Attorney General of Texas, <em>Nola White, </em>First Assistant Attorney General, <em>Robert C. Flowers </em>and <em>Lonny F. Zwiener, </em>Assistant Attorneys General, and <em>A. J. Carubbi, Jr., </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_ot\">Ct. Crim. App. Tex. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

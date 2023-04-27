@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"322\" lastpage=\"322\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b346-6\">PAUL BURKETT v. STATE OF FLORIDA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b346-7\">20 So. (2nd) 63</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"ALF\">June Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b346-8\">December 8, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Axb\">Special Division B</court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b346-9\">Rehearing denied January 8, 1945</otherdate>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b346-11\"><em>Martin &amp; Martin, </em>for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b346-12\"><em>J. Tom Watson, </em>Attorney General, and <em>John C. Wynn, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b346-13\">PER CURIAM:</author>\n<p id=\"b346-14\">Affirmed.</p>\n<judges id=\"b346-15\">BUFORD, C. J., BROWN, THOMAS and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

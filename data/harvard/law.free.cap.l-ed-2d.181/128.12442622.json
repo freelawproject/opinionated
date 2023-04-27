@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"128\" lastpage=\"128\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b228-15\">No. 10-11219.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AZdL\">Gerard Jerry Snapp, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"A7al\">565 U.S. 873, 132 S. Ct. 229,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"agtt-dedup-0\">181 L. Ed. 2d 128,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ajrq-dedup-0\">2011 U.S. LEXIS 7112.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b228-17\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AtUH\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b228-18\">Same case below, 423 Fed. Appx. 706.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

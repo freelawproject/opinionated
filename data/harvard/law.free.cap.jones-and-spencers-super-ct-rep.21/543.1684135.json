@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"543\" lastpage=\"543\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b567-6\">Enoch Rutzler, Appellant, <em>v. </em>William Belden, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b567-7\">Decided June 8, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AUK\">Appeal from judgment entered upon verdict directed by court.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AqC3\">Flanagan &amp; Hamlin, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AoS4\">Marsh, Wilson &amp; Marsh, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ASK\">Before Sedgwick, \u2022 Oh. J. and Truax, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AB9\">Opinion</p>\n<author id=\"APJ\">Per Curiam.</author>\n<p id=\"A2R\">Judgment set aside ; new trial ordered ; costs of appeal to abide event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b873-10\">October 27, 1947.</decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b873-11\">\n<em>Per Curiam Decision.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b873-12\">No. 376.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AjH\">Miami Transportation Co., Inc. <em>v. </em>United States et al.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AX4\"><em>United States </em>v. <em>Carolina Freight Carriers Corp., </em>315 U. S. 475. <em>Howell Ellis </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ARd\"><em>Solicitor General Perlman </em>and <em>Daniel W. Knowlton </em>for the United States and the Interstate Commerce Commission, appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AS5H\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AZZ9\">The motion to affirm is granted and the judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

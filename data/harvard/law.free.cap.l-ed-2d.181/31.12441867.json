@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"31\" lastpage=\"31\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b131-23\">No. 10-1415.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ate-dedup-2\">Mark Daniel Hartman, Petitioner v. Michigan.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b131-24\">565 U.S. 820, 132 S. Ct. 104,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AZI\">181 L. Ed. 2d 31,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AZPr\">2011 U.S. LEXIS 6872.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b131-25\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AF6r\">Petition for writ of certiorari to the Court of Appeals of Michigan denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

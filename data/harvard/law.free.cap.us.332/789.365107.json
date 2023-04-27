@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"789\" lastpage=\"789\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b859-10\">\n<em>Certiorari Granted.</em>\n</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b859-11\">No. 290.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AHjf\">Hurd et al. <em>v. </em>Hodge et al.; and Urciolo et al. <em>v. </em>Hodge et al.</parties>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b859-12\">No. 291.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AXG5\"><em>Charles H. Houston, Phineas Indritz </em>and <em>Morris P. Glushien </em>for petitioners.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AXhC\"><em>Henry Gilligan </em>and <em>James A. Crooks </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHb\">Certiorari granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

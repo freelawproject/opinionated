@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"497\" lastpage=\"497\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b521-7\">Samuel H. Randall, Respondent <em>v. </em>Jacob A. Sherman, and another, Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b521-8\">Decided January 11, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"APY\">Appeal by defendants from order of reference.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aqj\">Leavitt &amp; Keith, attorneys, and John Brooks Leavitt of counsel, for appellants. Samuel H. Randall, attorney in person, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A8Z\">Before Freedmen, P. J., and Gildersleeve, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A_Fg\">Per Curiam.</author>\n<p id=\"AMP\">Order affirmed, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

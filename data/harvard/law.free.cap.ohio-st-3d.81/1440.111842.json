@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1440\" lastpage=\"1440\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b926-12\">\n<em>Tuesday, February 17, 1998</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b926-13\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b926-14\">98-135.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AH-\">State ex rel. Sealy v. Court of Common Pleas of Montgomery Cty.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b926-15\">Montgomery App. No. 16596. This cause is pending before the court as an appeal from the Court of Appeals for Montgomery County. Upon consideration of appellant\u2019s motion for stay,</p>\n<p id=\"b926-16\">IT IS ORDERED by the court that the motion for stay be, and hereby is, denied.</p>\n<judges id=\"b926-17\">Resnick, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

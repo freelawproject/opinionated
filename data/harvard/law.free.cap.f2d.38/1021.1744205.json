@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AN-\">UNITED STATES of America, Appellant, v. John PARROTT et al., Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ArB\">No. 6120.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AqC0\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AVEh\">April 7, 1930.</decisiondate>\n<seealso data-order=\"4\" data-type=\"seealso\" id=\"AVVe\">See, also, 30 F.(2d) 792.</seealso>\n<p data-order=\"5\" data-type=\"judges\" id=\"AYpm\">Before DIETRICH and WILBUR, Circuit Judges, and N0RCR0S8, District Judge.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AEOQ\">PER CURIAM.</author>\n<p id=\"Au6\">Upon motion of counsel for the appellant, ordered appeal herein dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

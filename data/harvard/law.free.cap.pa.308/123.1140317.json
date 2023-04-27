@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"123\" lastpage=\"123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b145-3\">Wesolowski et al. <em>v. </em>John Hancock Mutual Life Ins. Co.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b145-4\">(Appeal, No. 137,</docketnumber>\n<p data-order=\"2\" data-type=\"otherdate\" id=\"Aro\">Jan. T., 1932.)</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AXl\">May 26, 1932:</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b145-5\">Opinion by</p>\n<author id=\"At4\">Mr. Justice Maxey,</author>\n<p id=\"b145-6\">The judgment of the court below in the above entitled case is affirmed for the reasons stated in the opinion this day filed to the case similarly entitled and indexed to No. 138, January Term, 1932.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

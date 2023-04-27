@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"491\" lastpage=\"491\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b515-5\">William Nelson Cromwell, as Assignee, etc., Respondent <em>v. </em>William F. Black, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A6k\">Decided November 10, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AJX\">Appeal from order .denying defendant\u2019s motion for a further bill of particulars.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AbT\">Eugene D. Hawkins, for appellant. William J. Curtis, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"At9\">Before Sedgwick, Ch. J., Freedman and Dugro, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A6E\">Per Curiam.</author>\n<p id=\"ALr\">Order affirmed, with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

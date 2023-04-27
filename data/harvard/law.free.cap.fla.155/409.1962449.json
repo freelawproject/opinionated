@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"409\" lastpage=\"409\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b433-14\">A. H. HUBBARD v. JOSEPHINE HUBBARD</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b433-15\">19 So. (2nd) 870</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AU_b\">January Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b433-16\">January 9, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Ahn\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b433-18\"><em>Sumner &amp; Sumner, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b433-19\"><em>Elmore Cohen, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b433-20\">PER CURIAM:</author>\n<p id=\"b433-21\">No reversible error being made to appear, decree is affirmed.</p>\n<p id=\"b433-22\">So ordered.</p>\n<p id=\"b433-23\">Affirmed.</p>\n<judges id=\"b433-24\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

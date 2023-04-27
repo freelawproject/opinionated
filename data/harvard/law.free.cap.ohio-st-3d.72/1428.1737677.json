@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1428\" lastpage=\"1428\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b766-4\">\n<em>Monday, May 8, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b766-5\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b766-6\">94-372.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AHLa\">State v. Joseph.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AZxR\">\n<em>Allen County,</em>\n</court>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"Ako\">No. 1-91-11.</docketnumber>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AIj\">This cause is pending before the court as an appeal from the Court of Appeals for Allen County. Upon consideration of appellant\u2019s motion to strike merit brief of appellee,</p>\n<p id=\"b766-7\">IT IS ORDERED by the court that the motion to strike merit brief of appellee be, and hereby is, denied, effective May 5, 1995.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

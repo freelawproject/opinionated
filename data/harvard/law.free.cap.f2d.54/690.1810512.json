@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"690\" lastpage=\"690\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b718-10\">STEELE v. ERIE R. CO.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b718-11\">No. 62.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b718-12\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Avn\">\n<em>Nov. 16, 1931.</em>\n</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b718-14\">Moot, Sprague, Brownell, Maxcy &amp; Carr, of Buffalo, N. Y. (Welles V. Moot and Edward B. Horning, both of Buffalo, N. Y., of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b718-15\">Ward, Flynn, Spring &amp; Tillou, of Buffalo, N. Y. (Dana L. Spring, of Buffalo, N. Y., of counsel), for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"legal\" id=\"b718-16\">. Before MANTON, AUGUSTUS N. HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b718-17\">PER CURIAM.</author>\n<p id=\"b718-18\">Judgment affirmed (54 F.(2d) 688) with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

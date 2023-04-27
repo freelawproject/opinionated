@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1532\" lastpage=\"1532\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b870-14\">\n<em>Thursday, June 1, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b870-15\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b870-16\">95-1049.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AXH\">State ex rel. Pizza v. Lucas Cty. Court of Common Pleas.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqzN\">In Prohibition. This cause originated in this court on the filing of a complaint for a writ of prohibition or, in the alternative, for a stay of proceedings. Upon consideration thereof,</p>\n<p id=\"b870-17\">IT IS ORDERED by the court that the writ of prohibition be, and hereby is, denied.</p>\n<p id=\"b870-18\">IT IS FURTHER ORDERED by the court that this cause be, and hereby is, dismissed.</p>\n<judges id=\"b870-19\">Moyer, C.J., Wright, Pfeifer and Cook, JJ., concur.</judges>\n<judges id=\"b870-20\">Douglas, Resnick and F.E. Sweeney, JJ., dissent and would grant an alternative writ.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

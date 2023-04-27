@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"543\" lastpage=\"543\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b567-10\">Edwin D. Bettens, <em>et al., </em>Respondents, <em>v. </em>Anderson Fowler, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b567-11\">Decided June 9, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AHB\">Appeal from judgment entered upon report of referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AD9\">Martin &amp; Smith, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aeo\">Bettens &amp; Lilienthal, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AEl\">Before Sedgwick, Oh. J., Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AR4n\">Per Curiam.</author>\n<p id=\"A_tE\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

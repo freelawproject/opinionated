@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"463\" lastpage=\"463\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b537-5\">McNEIL <em>v. </em>UNITED STATES.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b537-7\">No. 1048,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"ATt\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AVM\">Decided June 9, 1969.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b537-9\"><em>Solicitor General Griswold </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b537-10\">Per Curiam.</author>\n<p id=\"b537-11\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for a writ of certiorari are granted. The judgment is vacated and the ease is remanded to the United States District Court for the Eastern District of Virginia for further consideration in light of <em>McKart </em>v. <em>United States, ante, </em>p. 185.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

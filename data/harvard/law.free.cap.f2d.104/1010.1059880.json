@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1066-5\">In the Matter of Benjamin BALISH, Bankrupt-Appellant, Horace G. Pender, Trustee-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1066-6\">No. 400.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1066-7\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ajj-dedup-0\">June 19, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1066-9\">Myers &amp; Guerin, of New York City (Joseph K. Guerin, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1066-10\">Julius Zizmor, of Brooklyn, N. Y., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1066-11\">Before SWAN, AUGUSTUS N. HAND, and CLARK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1066-12\">PER CURIAM.</author>\n<p id=\"b1066-13\">Order affirmed on opinion below.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"496\" lastpage=\"496\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b520-5\">Valentine Diefenthaler, Respondent <em>v. </em>The Metropolitan Elevated Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b520-6\">Decided January 11, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A8db\">Appeaf by defendants from judgment entered upon the report of a referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A1Y\">Davies <em>&amp; </em>Rapallo, for appellants. Edwin M. Felt, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AMb\">Before Freedman, P. J., McAdam and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AU6\">Per Curiam.</author>\n<p id=\"A-I\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"495\" lastpage=\"495\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b519-9\">Philip Milligan, Respondent <em>v. </em>The Metropolitan Elevated Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b519-10\">Decided January 11, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AAA\">Appeal by defendants from judgment entered upon report of referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ah5\">Davies &amp; Rapallo, for appellants. Edwin M. Felt, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AV8\">Before Freedman, P. J., McAdam and Gilder-sleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A1A\">Per Curiam.</author>\n<p id=\"AZkV\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

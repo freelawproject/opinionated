@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"585\" lastpage=\"586\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b605-12\">John Petersen, Appellant <em>v. </em>John Swan, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b605-13\">Decided June 27, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AzS\">Appeal by plaintiff from a judgment in favor of defendant, entered upon a verdict directed by the court.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AID\">Hart &amp; Price, for appellant. James K. Hill, Wing &amp; Shoudy, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Alz\">Before Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Aqnf\">Per Curiam.</author>\n<p id=\"b606-4\"><page-number citation-index=\"1\" label=\"586\">*586</page-number>Judgment affirmed, with costs, on the authority of 53 <em>N. Y. Superior Ct. R. </em>151.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

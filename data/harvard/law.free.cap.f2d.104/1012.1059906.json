@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1012\" lastpage=\"1012\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1068-24\">Michael Glynn CARROLL, Appellee, v. AMERICAN AUTOMOBILE INSURANCE COMPANY, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1068-25\">No. 356.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1068-26\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"a5s-dedup-0\">May 29, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1068-28\">Fenton, Wing &amp; Morse, R. Clarke Smith, and Leonard F. Wing, all of Rut-land, Vt., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1068-29\">Lawrence <em>&amp; </em>O\u2019Brien and Edwin W. Lawrence, all of Rutland, Vt., for appel-lee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1068-30\">Before L. HAND, CHASE, and PATTERSON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1068-31\">PER CURIAM.</author>\n<p id=\"b1068-32\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

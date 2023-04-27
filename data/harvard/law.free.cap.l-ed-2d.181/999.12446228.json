@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1099-5\">No. 11-7739.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Alsd\">Lloyd Mack Royal, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1099-6\">565 U.S. 1168, 132 S. Ct. 1119,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AmJn\">181 L. Ed. 2d 999,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Al3do\">2012 U.S. LEXIS 602.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1099-7\">January 17, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AA-ob\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b1099-8\">Same case below, 442 Fed. Appx. 794.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

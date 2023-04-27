@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"542\" lastpage=\"542\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b566-9\">Justo de Susini Etcheverry, Appellant, <em>v. </em>Edward de Castro, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b566-10\">Decided May 3, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AuR\">Appeal from interlocutory judgment sustaining demurrer to complaint.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ArR\">Charles B. Meyer, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ag3\">E. J. Myers, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A2t\">Before Sedgwick, Ch. J. and Ingraham, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFE\">Opinion</p>\n<author id=\"ATo\">Per Curiam.</author>\n<p id=\"Ak0k\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AgD\">UNITED STATES, Plaintiff-Appellee, v. Bertha E. ROBIE, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A11\">No. 245.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"Aad\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AW2\">Feb. 18, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AYUQ\">Herbert W. Blake, of Gardner, Mass., and Daniel L. Strauss, of Newark, N. J., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Agtz\">Harry B. Amey, of Burlington, Vt., foi the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AFN\">Before MANTON, AUGUSTUS N HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AgdG\">PER CURIAM.</author>\n<p id=\"AJrZ\">Judgment affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

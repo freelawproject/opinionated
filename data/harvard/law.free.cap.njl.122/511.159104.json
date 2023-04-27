@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"511\" lastpage=\"511\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b557-4\">IN THE MATTER OF THE APPLICATION OF CHARLES MILLER FOR A WRIT OF HABEAS CORPUS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b557-5\">Argued April 21, 1939</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Agm\">Decided May 22, 1939.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b557-7\">Before Justice Donges.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b557-8\">For the petitioner, <em>Mario H. Volpe.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b557-9\">For the state, <em>Robert Peacock </em>and <em>Lynwood Lord.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b557-10\">Donges, J.</author>\n<p id=\"Aag\">For the reasons stated in the opinion filed on a similar application by James Rose, 122 <em>N. J. L. </em>507, submitted herewith, the petitioner is directed to be discharged from custody.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

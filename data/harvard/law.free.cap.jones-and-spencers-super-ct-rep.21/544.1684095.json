@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"544\" lastpage=\"544\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b568-7\">Ward E. Robinson, Respondent, <em>v. </em>Luther M. Fuller, as Executor, &amp;c., Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b568-8\">Decided July 2, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AES\">Appeal from a judgment and order denying motion for new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AIQ\">William King Hall, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AJ1\">John C. Shaw, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A3V\">Before Sedgwick, Ch. J., Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aa0\">Opinion by Truax, J. Judgment reversed ; new trial ordered ; costs to appellant to abide event, unless plaintiff stipulate to reduce verdict to $235, in which event judgment affirmed, without costs to either party.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"11\" lastpage=\"11\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b111-24\">No. 11M17.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AB9n\">David Lynd, Petitioner v. McDonald\u2019s Corporation.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b111-25\">565 U.S. 808, 132 S. Ct. 78,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AGZ\">181 L. Ed. 2d 11,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A7O\">2011 U.S. LEXIS 6873.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b111-26\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AxsY\">Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.</p>\n<p id=\"b111-27\">Same case below, 420 Fed. Appx. 348.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

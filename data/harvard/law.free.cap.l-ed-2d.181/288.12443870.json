@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"288\" lastpage=\"289\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b388-27\">No. 11-6204.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"amhp-dedup-0\">Ismail Pierce, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b388-28\">565 U.S. 960, 132 S. Ct. 434,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"anzl-dedup-0\">181 L. Ed. 2d 288,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A0mZ\">2011 U.S. LEXIS 7176.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b388-29\">October 11, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aqci-dedup-3\">Petition for writ of certiorari to the United States Court of <page-number citation-index=\"1\" label=\"289\">*289</page-number>Appeals for the Second Circuit denied.</p>\n<judges id=\"Aro1-\">Justice Sotomayor took no part in the consideration or decision of this petition.</judges>\n<p id=\"b389-3\">Same case below, 637 F.3d 59.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

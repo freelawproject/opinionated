@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1045-4\">SWILLEY v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AeC\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQ5\">April 3, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ALS\">No. 3913.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ATC\">C. O. Jaap, Jr., of Jackson, Miss., for plaintiff in error. E. E. Hindman, U. S. Atty., of Jackson, Miss.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A_K4\">Before WALKER, BRYAN, and KING, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1045-5\">PER CURIAM.</author>\n<p id=\"ASu\">The judgment in this case is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

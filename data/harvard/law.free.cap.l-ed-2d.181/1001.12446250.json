@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1101-29\">No. 11-7791.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ADOoN\">Juan Landa-Ordaz, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1101-30\">565 U.S. 1170, 132 S. Ct. 1123,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AXVn6\">181 L. Ed. 2d 1001,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AqV5d\">2012 U.S. LEXIS 610.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1101-31\">January 17, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQv-1\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b1102-3\"><page-number citation-index=\"1\" label=\"1002\">*1002</page-number>Same case below, 440 Fed. Appx. 430.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

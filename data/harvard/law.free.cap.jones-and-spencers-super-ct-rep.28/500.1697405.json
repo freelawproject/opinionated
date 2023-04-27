@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b524-9\">Florence W. Haigh, and another, Respondents v. Christine H. Crocker, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b524-10\">Decided March 14, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AL4\">Appeal by defendants from order continuing injunction.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aq8\">D. A. Stephens, for appellants. Foster &amp; Stephens, attorneys, and George W. Stephens of counsel, for respondents.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AWG\">Before Sedgwick, Ch. J., Dugro and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ATg\">Per Curiam.</author>\n<p id=\"AmF\">Order affirmed, with $10 costs to abide the event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

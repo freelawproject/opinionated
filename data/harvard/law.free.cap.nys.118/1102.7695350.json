@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1102\" lastpage=\"1102\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1128-9\">DAHLSTROM v. GEMUNDER et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A9Wa\">(Supreme Court, Appellate Division, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AY0S\">October 15, 1909.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"Akl\">Action by Carl A. Dahlstrom against August M. Gemunder and others.</summary>\n<p data-order=\"4\" data-type=\"summary\" id=\"A3k\">With this case has been consolidated in this court, cases bearing titles as follows: People v. Eugene Shellenberg; People ex rel. James G. Collins v. John F. Ahearn, as President, et al.; Brainard T. Norris et al. v. Charles F. Hoffman et al.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMfO\">No opinions. Motions granted, and questions certified as stated in orders. Orders filed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

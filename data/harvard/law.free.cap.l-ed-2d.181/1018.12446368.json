@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1118-10\">No. 11-532.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AigJ\">General Motors Corporation, Petitioner v. Michigan Department of Treasury.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1118-11\">565 U.S. 1178, 132 S. Ct. 1143,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Apj7U\">181 L. Ed. 2d 1018,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Af-5Z\">2012 U.S. LEXIS 1004.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1118-12\">January 23, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMgqD\">Petition for writ of certiorari to the Court of Appeals of Michigan denied.</p>\n<p id=\"b1118-13\">Same case below, 290 Mich. App. 355, 803 N.W.2d 698.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

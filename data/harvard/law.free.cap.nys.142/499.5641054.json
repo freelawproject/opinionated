@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"499\" lastpage=\"499\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b525-5\">BRODERICK &amp; BASCOM ROPE CO. v. McGRATH.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b525-6\">(Supreme Court, Appellate Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AOVM\">June 24, 1913.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b525-7\">Appeal from Municipal Court, Borough of Manhattan, First District. - Action by the Broderick &amp; Bascom Rope Company against Margaret Mc-Grath. From a judgment for defendant, plaintiff appeals. Reversed and remanded.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b525-8\">Argued June term, 1913, before SEABURY, PAGE, and BIJUR, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b525-9\">PER CURIAM.</author>\n<p id=\"Axi\">Judgment reversed, and new trial ordered, with costs to appellant to abide the event. See Broderick &amp; Bascom Rope Co. v. McGrath, 142 N. Y. Supp. 497, decided herewith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

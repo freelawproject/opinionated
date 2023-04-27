@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1415\" lastpage=\"1415\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b753-7\">DISCRETIONARY APPEALS ALLOWED</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b753-8\">95-100.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AMaK\">Trader v. People Working Coop., Inc.</parties>\n<court data-order=\"3\" data-type=\"court\" id=\"AB5\">\n<em>Hamilton County,</em>\n</court>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"AMV\">No. C-930716.</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADyK\">Discretionary appeal allowed; swa <em>sponte, </em>cause held for the decision in 94-405, <em>Haynes v. Zoological Soc. of Cincinnati, </em>Hamilton County, Nos. C-910598 and C-910635; briefing schedule stayed.</p>\n<judges id=\"b753-9\">Douglas and F.E. Sweeney, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

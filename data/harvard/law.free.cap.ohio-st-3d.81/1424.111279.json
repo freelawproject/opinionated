@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1424\" lastpage=\"1424\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b910-24\">\n<em>Wednesday, January 28, 1998</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b910-25\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b910-26\">97-779.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AiD\">Cincinnati Bell Tel. Co. v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b910-27\">Public Utilities Commission, No. 95-845-TP-COI. On motion to dismiss. Motion to dismiss\u2019 sustained. Cause dismissed.</p>\n<judges id=\"b910-28\">Moyer, C.J., Douglas, F.E. Sweeney, Cook and Lundberg Stratton, JJ., concur.</judges>\n<judges id=\"b910-29\">Pfeifer, dissents.</judges>\n<judges id=\"b910-30\">Resnick, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

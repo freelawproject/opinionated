@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"768\" lastpage=\"769\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b792-20\">ERNEST J. CASSEN v. PAULINE MORIN CASSEN</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b792-21\">21 So. (2nd) 458</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"ALcX\">January Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b792-22\">March 23, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Aj6\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b793-4\"><page-number citation-index=\"1\" label=\"769\">*769</page-number><em>Murray Sams </em>and <em>John L. Graham, </em>for .appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A9KO\"><em>Strayhorn &amp; Strayhorn, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b793-5\">PER CURIAM:</author>\n<p id=\"b793-6\">The record and briefs in this cause have been examined and we find no reversible error.</p>\n<p id=\"b793-7\">Affirmed.</p>\n<judges id=\"b793-8\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

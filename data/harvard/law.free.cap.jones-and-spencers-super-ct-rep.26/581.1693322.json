@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"581\" lastpage=\"581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b601-5\">Robert Morrison, Respondent <em>v. </em>The Metropolitan Elevated Railroad Company, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b601-6\">Decided March 4, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ABA\">Appeal from a judgment entered upon a verdict of a jury and from an order denying a motion for a new trial made upon the minutes.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aqp\">Davies &amp; Rapallo, for appellant. Calvin <em>&amp; </em>Breck, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A0J\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AEQ\">Per Curiam.</author>\n<p id=\"Anq\">Judgment and order affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

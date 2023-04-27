@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"985\" lastpage=\"985\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b991-7\">No. 1104,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A_0S\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Apn-\">Jacques <em>v. </em>New Jersey.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AP3W\"><em>Leo Kaplowitz </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATrE\">Sup. Ct. N. J. Certiorari denied.</p>\n<judges id=\"ARyT\">Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n<judges id=\"AkmM\">Mr. Justice Harlan dissents for the reasons stated in his separate opinion in <em>North Carolina </em>v. <em>Pearce, ante, </em>p. 744.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

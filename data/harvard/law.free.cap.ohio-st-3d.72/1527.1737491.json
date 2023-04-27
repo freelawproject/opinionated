@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1527\" lastpage=\"1527\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b865-6\">\n<em>Wednesday, May 31, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b865-7\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b865-8\">95-350.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AfF\">State ex rel. Gillen v. Schotten.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ayqu\">In Habeas Corpus. <em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"A6a\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

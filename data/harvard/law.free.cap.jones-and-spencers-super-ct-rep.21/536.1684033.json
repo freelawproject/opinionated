@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"536\" lastpage=\"536\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b560-8\">The People, <em>ex rel. </em>The Twenty-Third Street R. R. Co., Respondent, <em>v. </em>Rollin M. Squire, Commissioner of Public Works of, &amp;c., of New York, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AWj9\">Decided January 4, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ATx\">Appeal from order directing writ of mandamus to issue.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AFs3\">E. Henry Lacombe, counsel of corporation, &amp;c.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AJ8\">Osborn E. Blight, for relator.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Ax8\">Before Sedgwick, Ch. J., Van Vorst and Freedman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"APG\">Per Curiam.</author>\n<p id=\"Alh\">Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

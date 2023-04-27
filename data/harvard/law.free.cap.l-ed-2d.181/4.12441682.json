@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"4\" lastpage=\"4\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b104-16\">No. 10-10738.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ay2\">Jefferson A. McGee, Petitioner v. California, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b104-17\">565 U.S. 804, 132 S. Ct. 374,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A_F\">181 L. Ed. 2d 4,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A6t\">2011 U.S. LEXIS 6782.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b104-18\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AIO\">Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari dismissed. See Rule 39.8.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

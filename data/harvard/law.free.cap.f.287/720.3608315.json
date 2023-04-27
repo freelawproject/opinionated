@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"720\" lastpage=\"720\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b742-7\">FOLKES et al. v. MITCHELL.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b742-8\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AOT\">December 18, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b742-9\">No. 91.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ALe\">O. D. Batchelor, of New York City, for plaintiffs in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b742-12\">Bandler &amp; Haas, of New York City (John E. Collins, of New York City, of counsel), for defendant in error.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b742-13\">Before HOUGH, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b742-14\">' PER CURIAM.</author>\n<p id=\"Avx\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

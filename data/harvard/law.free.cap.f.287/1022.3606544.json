@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-5\">THE MUNCASTER CASTLE.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AJQ\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A2z\">March 5, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AQs\">No. 176.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AZ7L\">Kirlin, Woolsey, Campbell, Hickox <em>&amp; </em>Keating, of New York City (L. De Grove Potter and E. B. Long, Jr., both of White Plains, N. Y., of counsel), for appellant. Austin &amp; Abruzzo, of Brooklyn, N. Y. (Vine H. Smith, of New York City, of\u2019 counsel), for appellee. A. G. Maul, of New York City (G. Everett Hunt, of New York City, of counsel), for Atlantic Stevedoring Co.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Aax\">Before ROGERS, HOUGH, and MANTON, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-6\">PER CURIAM.</author>\n<p id=\"Ayk0\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

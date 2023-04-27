@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1401\" lastpage=\"1401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b739-4\">\n<em>Monday, March 27, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b739-5\">RECONSIDERATION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b739-6\">94-2686.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AKoC\">State ex rel. Nicholis v. Indus. Comm.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"Ass0\">\n<em>Franklin County,</em>\n</court>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"AKSU\">No. 93APD12-1649.</docketnumber>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AL3\">Reported at 71 Ohio St.3d 1488, 646 N.E.2d 464. IT IS ORDERED by the court that the motion for reconsideration of this court\u2019s dismissal of the appeal of George M. Nicholis for want of prosecution be, and the same is hereby, denied, effective March 23, 1995.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

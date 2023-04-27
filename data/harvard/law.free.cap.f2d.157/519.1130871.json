@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"519\" lastpage=\"519\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b573-5\">Mollie L. G. EUBANKS, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ah-\">No. 11576.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b573-7\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b-AuJ\">Oct. 30, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b573-9\">H. M. Powell, of Birmingham, Ala., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b573-10\">John D. Hill, U. S. Atty., and Gorman R. Jones, Asst. U. S. Atty., both of Birmingham, Ala., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b573-11\">Before HOLMES, McCORD, and LEE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b573-12\">For failure to comply with Rule 23 of this Court, the appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

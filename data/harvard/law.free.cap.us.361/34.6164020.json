@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"34\" lastpage=\"34\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b116-3\">EX PARTE POWELL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A-I\">No. 58,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"ASZO\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Az-\">Decided October 19, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b116-7\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b116-8\"><em>MacDonald Gallion, </em>Attorney General of Alabama, and <em>James W. Webb, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b116-9\">Per Curiam.</author>\n<p id=\"b116-10\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the District Court for a full hearing. <em>Ellis </em>v. <em>United States, </em>356 U. S. 674.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"495\" lastpage=\"495\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b519-4\">Katharine Neuman, Respondent <em>v. </em>The New York Elevated Railroad Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b519-5\">Decided January 11, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AVE\">Appeal from a judgment rendered at the special term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AZb\">Davies <em>&amp; </em>Rapallo, attorneys, and Joseph E. Lord of counsel, for appellants. Peckham &amp; Tyler, attorneys, and Henry G. Atwater of counsel, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AV_\">Before Freedman, P. J., McAdam and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"concurrence\">\n<author id=\"APB\">Opinion by Gildersleeve, J.; Freedman, P. J., and McAdam, J., concurred.</author>\n<p id=\"Afia\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

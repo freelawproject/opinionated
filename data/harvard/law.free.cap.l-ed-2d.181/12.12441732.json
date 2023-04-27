@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"12\" lastpage=\"12\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b112-9\">No. 11M21.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AZ_q\">Uthman Abdul Rahim Mohammed Uthman, Petitioner v. Barack H. Obama, President of the United States, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b112-10\">565 U.S. 808, 132 S. Ct. 80,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A98g\">181 L. Ed. 2d 12,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Amb\">2011 U.S. LEXIS 6696.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b112-11\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJ8\">Motion for leave to file a petition for writ of certiorari under seal granted.</p>\n<p id=\"b112-12\">Same case below, 394 U.S. App. D.C. 466, 637 F.3d 400.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

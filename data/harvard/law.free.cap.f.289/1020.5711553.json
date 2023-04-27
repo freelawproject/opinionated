@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1040-10\">DAVIS, Director General of Railroads, v. KEENAN.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A0nA\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ARyi\">April 16, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AhD\">No. 229.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AvmF\">Alexander &amp; Green, of New York City (Clifton P. Williamson, H. S. Ogden, and Edward W. Bourne, all of New York City, of counsel), for plaintiff in error. Edward J. McCrossin, of New York City, for defendant in error.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Al1\">Before ROGERS, MANTON and MAYER,. Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1040-11\">PER CURIAM.</author>\n<p id=\"Adoy\">Judgment' affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

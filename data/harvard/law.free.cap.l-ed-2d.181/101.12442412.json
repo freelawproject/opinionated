@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"101\" lastpage=\"101\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b201-19\">No. 10-10955.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Annl\">Calvin Paul Stewart, Petitioner v. Vernice Trease.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b201-20\">565 U.S. 859, 132 S. Ct. 194,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AHnO\">181 L. Ed. 2d 101,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"az_q-dedup-0\">2011 U.S. LEXIS 6294.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b201-21\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_Eh\">Petition for writ of certiorari to the Court of Appeals of Utah denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

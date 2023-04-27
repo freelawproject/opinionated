@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"70\" lastpage=\"70\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b170-24\">No. 10-10636.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ajqv\">Jon Evan Cearlock, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b170-25\">565 U.S. 842, 132 S. Ct. 155,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ASG2\">181 L. Ed. 2d 70,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"An20\">2011 U.S. LEXIS 5922.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b170-26\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFPF\">Petition for writ of certiorari to the Appellate Court of Illinois, Fifth District, denied.</p>\n<p id=\"b170-27\">Same case below, 402 Ill. App. 3d 1211, 376 Ill. Dec. 797, 1 N.E.3d 130.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

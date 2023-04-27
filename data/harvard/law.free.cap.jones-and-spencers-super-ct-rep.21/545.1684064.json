@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"545\" lastpage=\"545\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b569-7\">Marshall Cutler, <em>et al., </em>Respondents, <em>v. </em>The American Exchange National Bank, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b569-8\">Decided July 2, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Azf\">Appeal from judgment entered on verdict.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AIO\">L. B. Bunnell, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AtQ\">Dudley B. Horton, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AQe\">Before Sedgwick, Ch. J. and O\u2019Gorman, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1a\">Opinion</p>\n<author id=\"ARu\">Per Curiam.</author>\n<p id=\"AZr\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

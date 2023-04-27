@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"535\" lastpage=\"535\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b559-5\">Charles W. Durant, Jr., Respondent, <em>v. </em>William P. Abendroth, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b559-6\">Decided January 4, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Ams\">Appeal from order denying motion to set aside judgment entered on verdict.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AT2\">William H. Arnoux, for appellant, and Carlisle Norwood, Jr., for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"ARPc\">Sedgwick, Oh. J., Van Vorst and Freedman, JJ., sitting.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Az9\">Opinion</p>\n<author id=\"ALE\">per Curiam.</author>\n<p id=\"ABd\">Order affirmed, with $10 costs, &amp;c.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

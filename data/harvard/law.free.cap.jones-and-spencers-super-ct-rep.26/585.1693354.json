@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"585\" lastpage=\"585\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b605-5\">George T. Newhall, Respondent <em>v. </em>William H. Appleton, <em>et al., </em>Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b605-6\">Decided June 27, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A2x\">Appeal from a judgment for the plaintiff entered on the report of a referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AAD\">William W. Badger, for plaintiff. Campbell &amp; Paige, for defendants.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AvZ\">Before Freedman and Truax, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYZr\">The only question involved was one of fact. The general term (Per Curiam) affirmed the judgment with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

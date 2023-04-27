@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"522\" lastpage=\"522\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b546-7\">E. R. HEINRICHS v. MERLE LUZIER and NORA LUZIER, his wife</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"AQP\">20 So. (2nd) 696</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AHu\">January Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b546-8\">January 30, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AUq\">Special <em>Division B</em></court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b546-10\"><em>James F. Wisehart, Jr., </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b546-11\"><em>Victor H. Knight, </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b546-12\">PER CURIAM:</author>\n<p id=\"b546-13\">The decree is affirmed.</p>\n<p id=\"b546-14\">It is so ordered.</p>\n<judges id=\"b546-15\">CHAPMAN, C. J., BUFORD, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

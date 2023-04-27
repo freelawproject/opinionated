@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"493\" lastpage=\"493\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b517-5\">Jacob Bookman, Respondent <em>v. </em>The New York Elevated Railroad Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b517-6\">Decided January 11, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Amy\">Appeal by defendants from judgment entered upon decision by a judge after trial at special term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Amp\">Davies &amp; Rapallo, attorneys, and Edward B. Thomas of counsel, for appellants. William G. Peckham, attorney, and E. W. Tyler of counsel, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AT0\">Before Freedman, P. J., McAdam and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"concurrence\">\n<author id=\"A-N\">Opinion by McAdam, J.; Freedman, P. J., and Gildersleeve, J., concurred.</author>\n<p id=\"AhK\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

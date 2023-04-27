@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1534\" lastpage=\"1534\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b872-12\"><em>Wednesday, June </em>7, <em>1995</em></decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AKe4\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b872-13\">93-2379.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"APX\">State ex rel. Hight v. Ohio Adult Parole Auth.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AT6A\">On motion to dismiss. Motion to dismiss sustained. .Cause dismissed.</p>\n<judges id=\"b872-14\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

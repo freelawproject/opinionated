@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1213\" lastpage=\"1213\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b769-4\">Office of Disciplinary Counsel <em>v. </em>Gosling.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b769-5\">[Cite as <em>Disciplinary Counsel v. Gosling </em>(1999), 86 Ohio St.3d 1213.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AHp\">(No. 97-438</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AWH\">Submitted and decided August 11, 1999.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b769-11\">For earlier case, see <em>Disciplinary Counsel v. Gosling </em>(1997), 79 Ohio St.3d 113, 679 N.E.2d 1096.</p>\n<judges id=\"b769-12\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

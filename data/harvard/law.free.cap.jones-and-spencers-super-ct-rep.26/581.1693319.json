@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"581\" lastpage=\"581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b601-9\">Ada L. James, Appellant <em>v. </em>James McCreery, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b601-10\">Decided April 14, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A3R\">Appeal from an order staying all proceedings on the part of the plaintiff until payment of the costs of an action brought by Edward F. J ames against the defendant.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"As3\">Edward F. James, for appellant. W. F. Dunning, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AmN\">Before Sedgwick, Ch. J., and Dugro, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ASr\">Per Curiam.</author>\n<p id=\"AzvN\">Order affirmed with $10 costs and disbursements, to be taxed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

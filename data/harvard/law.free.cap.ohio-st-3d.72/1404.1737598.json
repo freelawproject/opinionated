@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1404\" lastpage=\"1404\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b742-10\">\n<em>Wednesday, April 12, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b742-11\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b742-12\">90-291.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AfY\">State v. Durr.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"Aio\">\n<em>Cuyahoga County,</em>\n</court>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"AnT\">No. 57140.</docketnumber>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8qc\">On motion for reconsideration under S.CtPrac.R. XI(1)(B). Motion denied on authority of <em>State v. Buell </em>(1994), 70 Ohio St.3d 1211, 639 N.E.2d 110.</p>\n<judges id=\"b742-13\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

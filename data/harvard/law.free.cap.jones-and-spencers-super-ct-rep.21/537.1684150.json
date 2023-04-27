@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"537\" lastpage=\"537\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b561-7\">Jacob Rubino, Appellant, <em>v. </em>William L. Scott, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b561-8\">Decided March 1, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AJq\">Appeal from judgment.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AS-\">Deuel &amp; Willson, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AVB\">Shearman &amp; Sterling, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AxI\">Before Sedgwick, Ch. J., Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ae0\">Opinion by O\u2019Gorman, J. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

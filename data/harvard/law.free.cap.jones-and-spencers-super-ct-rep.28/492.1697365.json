@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"492\" lastpage=\"492\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b516-7\">Frederick Zimmerman, Respondent <em>v. </em>The Broadway and Seventh Avenue Railroad Company, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b516-8\">Decided January 11, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AqV\">Appeal by defendant from judgment entered on verdict of jury in the plaintiffs favor and from an order denying motion for a new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AH17\">Root <em>&amp; </em>Clarke, for appellant. Earned &amp; Warren, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A3b\">Before Freedman, P. J., McAdam and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"concurrence\">\n<author id=\"ASu\">Opinion by Freedman, P J.; McAdam and Gildersleeve, JJ., concurred.</author>\n<p id=\"ATS\">Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"935\" lastpage=\"935\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b747-10\">No. 1401,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aje\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ap1Q\">Jackson <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AiqFb\"><em>Murray M. Segal </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AAxu\"><em>Solicitor General Griswold, Assistant Attorney General Vinson, Beatrice Rosenberg, </em>and <em>Robert G. Maysack </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AIJ\">C. A. 2d Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

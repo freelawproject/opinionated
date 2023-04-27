@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"587\" lastpage=\"587\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b607-8\">Emilie Raberg Noel, Respondent <em>v. </em>H. Bencke Lithographic Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b607-9\">Decided November 3, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ALE\">Appeal from a judgment entered on the verdict of a jury in favor of plaintiff, and also from a judgment dismissing counter-claims set up bythe Lithograph Company, on the merits.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Auub\">Hatch <em>&amp; </em>Warren, for appellants. De-Lancy Nicoll, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Atg\">Before Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AcE\">The Court held (Ingraham, J., writing, Freedman, J., concurring) that the judgments should be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

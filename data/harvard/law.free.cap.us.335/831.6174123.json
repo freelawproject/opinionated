@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"831\" lastpage=\"832\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b851-12\">No. 27,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AzIQ\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AtiA\">Felton <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Azog\"><em>Allen J. Krouse </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AqCc\"><em>Solicitor General Perlman, Assistant Attorney </em><page-number citation-index=\"1\" label=\"832\">*832</page-number><em>General Quinn, Robert S. Erdahl </em>and <em>Josephine H. Klein </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AtIO\"><page-number citation-index=\"1\" label=\"831\">*831</page-number>United States Court of Appeals for the District of Columbia Circuit. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1517\" lastpage=\"1517\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b855-4\">\n<em>Wednesday, May 17, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Aio5\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b855-5\">94-2508.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A-1\">State ex rel. Cuyahoga Cty. Dept. of Children &amp; Family Serv. v. Ferreri.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AB02\">\n<em>Cuyahoga County,</em>\n</court>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"A6ff\">No. 68023.</docketnumber>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgE\"><em>Sua sponte, </em>cause dismissed as moot.</p>\n<judges id=\"b855-6\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"198\" lastpage=\"198\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b280-4\">KING <em>v. </em>CONSOLIDATED UNDERWRITERS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b280-6\">No. 273,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A-pO\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A6g\">Decided December 14, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b280-9\"><em>Richard E. McDaniel </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b280-10\"><em>Fred Hull, </em>for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b280-11\">Per Curiam.</author>\n<p id=\"b280-12\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

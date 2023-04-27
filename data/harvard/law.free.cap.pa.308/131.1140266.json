@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"131\" lastpage=\"131\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b153-2\">Robin <em>v. </em>Garfield Bldg. Assn., Appellants.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b153-3\">(No. 205,</docketnumber>\n<p data-order=\"2\" data-type=\"otherdate\" id=\"AbB\">Jan. T., 1932.)</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A5s\">May 26, 1932:</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b153-4\">Opinion by.</p>\n<author id=\"AP9t\">Mr. Justice Maxey,</author>\n<p id=\"b153-5\">\u2022The judgment of the court below in the above entitled case is affirmed for the reasons stated in the opinion this day filed to the case similarly entitled and indexed to No. 206, January Term, 1932.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

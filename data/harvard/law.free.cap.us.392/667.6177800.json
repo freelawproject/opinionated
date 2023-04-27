@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"667\" lastpage=\"667\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b709-5\">TAGGART <em>v. </em>NEW YORK.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b709-7\">No. 1668,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A5f\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aaqd\">Decided June 17, 1968.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b709-9\"><em>Leon B. Polsky </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b709-10\"><em>Thomas J. Mackell </em>and <em>Peter J. O\u2019Connor </em>for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Ann\">Per Curiam.</author>\n<p id=\"b709-11\">The motion to dismiss is granted and the appeal is dismissed for failure to file the notice of appeal within the time provided by Rule 11.</p>\n<judges id=\"b709-12\">Mr. Justice Black is of the opinion that the appeal should be dismissed for want of a substantial federal question.</judges>\n<judges id=\"b709-13\">Mr. Justice Douglas dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"535\" lastpage=\"535\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b553-8\">James T. Swift, <em>et al., </em>respondents, <em>v. </em>Thomas L. James, as assignee, &amp;c., impleaded, &amp;c., appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b553-9\">Decided December 1, 1884.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AAf\">Appeal from order denying defendants\u2019 motion for a bill of particulars.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Axy\">Stern and Myers, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"APa\">Edward M. Shepard, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ANx\">Before Sedgwick Ch. J., Van Vorst and Freedman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aqf\">Opinion</p>\n<author id=\"A8Z\">Per Curiam.</author>\n<p id=\"ATm\">Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

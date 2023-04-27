@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"494\" lastpage=\"494\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b518-8\">Benjamin B. Johnston, Respondent <em>v. </em>The Manhattan Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b518-9\">Decided January 11, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AGH\">Appeal from a judgment rendered at the special term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Al1\">Davies <em>&amp; </em>Rapallo, attorneys, and Joseph E. Lord of counsel, for appellants. Peckham &amp; Tyler for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A_c\">Before Freedman, P. J., McAdam and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"concurrence\">\n<author id=\"Aj9l\">Opinion by Gildersleeve, J.; Freedman, P. J., and McAdam, J., concurred.</author>\n<p id=\"AZo\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"296\" lastpage=\"296\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b320-8\">HASTINGS H. SMITH, et al., v. R. G. FOSTER, et al.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b320-9\">19 So. (2nd) 869</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"A0f\">June Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b320-10\">December 5, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AU8\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b320-12\"><em>Talbot Whitfield, </em>for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b320-13\"><em>Ausley, Collins &amp; Truett, </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b320-14\">PER CURIAM:</author>\n<p id=\"b320-15\">Affirmed.</p>\n<judges id=\"b320-16\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

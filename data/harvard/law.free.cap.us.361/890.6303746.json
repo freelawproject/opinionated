@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"890\" lastpage=\"890\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b712-5\">No. 337,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ATa\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AJYq\">Thomas <em>v. </em>Smyth, Superintendent, Virginia State Penitentiary.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AJTp\"><em>William Alfred Hall, Jr. </em>for petitioner. <em>A. S. Harrison, Jr., </em>Attorney General of Virginia, and <em>Thomas M. Miller, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlHR\">Supreme Court of Appeals of Virginia. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1516\" lastpage=\"1516\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b854-21\">\n<em>Tuesday, May 16, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b854-22\">MISCELLANEOUS DISMISSALS</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b854-23\">93-2153.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AoO\">Johnson v. Cleveland Clinic Found.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"ATL\">\n<em>Franklin County,</em>\n</court>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"ABQ\">No. 93AP-1032.</docketnumber>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aqm\">This cause is pending before the court as an appeal from the Court of Appeals for Franklin County. Upon consideration of appellant\u2019s application for dismissal,</p>\n<p id=\"b854-24\">IT IS ORDERED by the court that the application be, and the same is hereby, granted.</p>\n<p id=\"b854-25\">ACCORDINGLY, IT IS FURTHER ORDERED by the court that this cause be, and hereby is, dismissed, effective May 15, 1995.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

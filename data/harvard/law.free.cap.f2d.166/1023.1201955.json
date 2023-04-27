@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1075-28\">William BARISOFF, Robert I. Knudson, Hubert L. Dawson, Jr., and Arthur M. Lilly, Appellants, v. HOLLYWOOD BASEBALL ASSOCIATION, a Corporation, Ap-pellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1075-29\">No. 11706.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1075-30\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AF1\">April 5, 1948.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1075-32\">Before MATHEWS, BONE, and ORR, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1075-33\">PER CURIAM.</author>\n<p id=\"b1075-34\">On the grounds and for the reasons stated in its opinion (71 F.Supp. 493), the judgment of the District 'Court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1049-8\">E. P. PHILLIPS, Appellant, v. UNITED STATES, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1049-9\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEql\">January 25, 1930.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AqN5\">No. 5608.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1049-12\">Charles D. Russell, of Savannah, Ga. (Russell &amp; Herzog, of Savannah, Ga., on the brief), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1049-13\">Charles L. Redding, U. S. Atty., of Savannah, Ga., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1049-14\">Before BRYAN and FOSTER, Circuit Judges, and GRUBB, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1049-15\">PER CURIAM.</author>\n<p id=\"AyLQ\">The judgment in the above numbered and entitled cause is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

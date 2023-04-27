@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"233\" lastpage=\"233\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b265-8\">R. H. GORE v. NEWS-JOURNAL CORPORATION, a Florida corporation, et al.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b265-9\">9 So. (2nd) 809</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AN8\">June Term, 1942</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b265-10\">October 2, 1942</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AeT\">En Banc</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b265-13\"><em>McGune, Hiaasen &lt;&amp; Fleming, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b265-14\"><em>Alfred A. Green, </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b265-15\">PER CURIAM:</author>\n<p id=\"b265-16\">The appellant has failed clearly to show error in the decree of the chancellor, therefore, it is \u2014</p>\n<p id=\"b265-17\">Affirmed.</p>\n<judges id=\"b265-18\">BROWN, C. J., WHITFIELD, TERRELL, BUFORD, CHAPMAN, THOMAS and ADAMS, JJ., concur.,</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"829\" lastpage=\"829\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b903-5\">HOUSE <em>v. </em>UNITED STATES et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b903-7\">No. 1642,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AxBW\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AiPg\">Decided June 23, 1969.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b903-9\"><em>Solicitor General Griswold, Assistant Attorney General Ruckelshaus, </em>and <em>Alan S. Rosenthal </em>for the United States et al.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b903-10\">Per Curiam.</author>\n<p id=\"b903-11\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1406\" lastpage=\"1406\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"adn-dedup-0\">MOTION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AoKr\">89-310.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AtOU\">State v. Wickline.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0Dd\"><em>Franklin County, </em>No. 87AP-46. On motion for reconsideration under S.Ct.Prae.R. XI(1)(B). Motion denied.</p>\n<judges id=\"ail-dedup-1\">Wright, J., not participating.</judges>\n<p id=\"abv-dedup-0\">On motion to set execution date. Motion granted.</p>\n<judges id=\"a1t-dedup-0\">Wright, J., not participating.</judges>\n<p id=\"AQm\">On motion to strike. Motion denied.</p>\n<judges id=\"AyCn\">Wright, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

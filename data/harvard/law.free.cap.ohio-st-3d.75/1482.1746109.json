@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1482\" lastpage=\"1482\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b942-24\">\n<em>Wednesday, May 15, 1996</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b942-25\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b942-26\">96-480.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"auu-dedup-2\">Smith v. Record Custodian, Ohio Dept. of Pub. Safety, Bur. of Motor Vehicles.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiUK\">In Mandamus. On answer of respondent. <em>Sua sponte, </em>the cause is dismissed without prejudice for failure of relator to comply with the affidavit requirement of S.Ct.Prac.R. X(4)(B).</p>\n<judges id=\"b942-27\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

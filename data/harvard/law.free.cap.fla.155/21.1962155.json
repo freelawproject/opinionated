@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"21\" lastpage=\"21\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b45-10\">NELLIE LINDLAHR v. OTTO LINDLAHR</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b45-11\">19 So. (2nd) 412</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ar\">June Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b45-12\">October 17, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Am\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b45-14\"><em>William J. Pruitt, </em>for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b45-15\">PER CURIAM:</author>\n<p id=\"b45-16\">Affirmed.</p>\n<judges id=\"b45-17\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

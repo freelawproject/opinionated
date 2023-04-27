@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"32\" lastpage=\"32\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b132-7\">No. 10-1421.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"af6-dedup-0\">Timothy S. Vernor, Petitioner v. Autodesk, Inc.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b132-8\">565 U.S. 820, 132 S. Ct. 105,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AMyj\">181 L. Ed. 2d 32,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AC2F\">2011 U.S. LEXIS 6875.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b132-9\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AEf9\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b132-10\">Same case below, 621 F.3d 1102.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

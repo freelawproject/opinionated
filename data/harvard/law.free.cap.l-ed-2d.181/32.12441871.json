@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"32\" lastpage=\"32\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b132-11\">No. 10-1422.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AHlm\">Albert Troyer, Petitioner v. California.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b132-12\">565 U.S. 820, 132 S. Ct. 105,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ad7a\">181 L. Ed. 2d 32,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"abe-dedup-0\">2011 U.S. LEXIS 6657.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b132-13\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9R\">Petition for writ of certiorari to the Supreme Court of California denied.</p>\n<p id=\"b132-14\">Same case below, 51 Cal. 4th 599, 120 Cal. Rptr. 3d 770, 246 P.3d 901.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

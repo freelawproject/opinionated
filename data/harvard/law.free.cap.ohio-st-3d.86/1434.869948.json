@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1434\" lastpage=\"1434\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b814-7\">\n<em>Wednesday, August 4, 1999</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b814-8\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b814-9\">98-2470.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"APy\">State ex rel. Spangler v. WW Schaub Elec. Co.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b814-10\">Franklin App. No. 97APD08-1072. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"b814-11\">Moyer, C.J., Douglas, Resnicic, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

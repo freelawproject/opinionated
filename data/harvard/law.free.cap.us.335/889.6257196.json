@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"889\" lastpage=\"890\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b909-14\">No. 86,</docketnumber>\n<p data-order=\"1\" data-type=\"summary\" id=\"AUf6\">Mise.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AFLJ\">Roberts <em>v. </em>Memphis Street Railway Co.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AR2\"><page-number citation-index=\"1\" label=\"890\">*890</page-number><em>Grover N. McCormick </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AQV6\"><em>Roane Waring </em>and <em>Sam P. Walker </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AJDWG\">\n<em>Per Curiam.:</em>\n</author>\n<p id=\"A762\">Petition for writ of certiorari granted. The order of the Court of Appeals is vacated and the case is remanded to that court for further consideration in the light of the opinion of this Court in <em>Adkins </em>v. <em>DuPont de Nemours &amp; Co., ante, </em>p. 331.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

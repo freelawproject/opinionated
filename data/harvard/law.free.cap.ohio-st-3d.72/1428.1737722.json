@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1428\" lastpage=\"1428\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b766-17\">MOTION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b766-18\">94-2099.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AYM\">Smith v. Cosco, Inc.</parties>\n<court data-order=\"3\" data-type=\"court\" id=\"Ap_o\">\n<em>Hamilton County,</em>\n</court>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"ALHV\">No. C-940289.</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZrZ\">On motion for stay of execution. Motion denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

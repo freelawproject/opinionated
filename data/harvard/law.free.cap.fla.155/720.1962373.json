@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"720\" lastpage=\"720\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b744-13\">WILLIE C. MORGAN v. STATE OF FLORIDA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b744-14\">21 So. (2nd) 217</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"A-p\">January Term, 1915</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b744-15\">March 13, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A_f\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b744-17\"><em>B. L. Solomon, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b744-18\"><em>J. Tom Watson, </em>Attorney General, and John C. Wynn; -Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b744-19\">PER CURIAM:'</author>\n<p id=\"b744-20\">\u25a0 On motion of the State the judgment is affirmed on authority of Lane, et al., v. State, 154 Fla. 853, 19 So. (2nd) 366.</p>\n<judges id=\"b744-21\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ;, concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

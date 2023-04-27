@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"536\" lastpage=\"536\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b554-9\">John Newman, respondent, <em>v. </em>Edmund C. Marshall, appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b554-10\">Decided December 22, 1884.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AFE\">Appeal from judgment and order denying motion for new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A5aU\">Edmund Van Ness, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ail\">William J. Hardy, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A8Vn\">Before Sedgwick, Ch. J., Van Vorst and Freedman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aek\">Opinion</p>\n<author id=\"Ang\">per Curiam.</author>\n<p id=\"AZUA\">Judgment and order appealed from affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

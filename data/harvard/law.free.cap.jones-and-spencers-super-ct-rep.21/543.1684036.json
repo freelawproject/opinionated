@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"543\" lastpage=\"543\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b567-8\">Leander Taggart, Respondent, <em>v. </em>Edward Annan, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b567-9\">Decided June 8, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A_D\">Appeal from judgment entered on verdict and from order denying motion for new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Apv\">James 0. Bergen, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ak_\">Jerome Buck, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AnY\">Before Sedgwick, Oh. J. and Ingraham, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ats\">Opinion</p>\n<author id=\"APb\">Per Curiam.</author>\n<p id=\"Asz\">Judgment and order reversed on facts ; new trial ordered ; costs to abide event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

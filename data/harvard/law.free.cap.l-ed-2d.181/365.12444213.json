@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"365\" lastpage=\"365\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b465-19\">No. 11-6259.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A5vda\">Ronald Christmas, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b465-20\">565 U.S. 987, 132 S. Ct. 520,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AOK-\">181 L. Ed. 2d 365,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AV7d\">2011 U.S. LEXIS 7895,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b465-21\">October 31, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGINE\">Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied.</p>\n<p id=\"b465-22\">Same case below, 406 Ill. App. 3d 1206, 376 Ill. Dec. 172, 998 N.E.2d 714.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

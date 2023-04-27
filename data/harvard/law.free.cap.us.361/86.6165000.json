@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"86\" lastpage=\"86\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b168-12\">GLOVER <em>v. </em>MICHIGAN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b168-14\">No. 265,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Atez\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGD\">Decided November 9, 1959.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b168-16\">Per Curiam.</author>\n<p id=\"b168-17\">The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

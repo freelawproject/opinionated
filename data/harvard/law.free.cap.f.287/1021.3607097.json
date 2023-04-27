@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1043-10\">MAX KURZROK, Inc., v. DEBENHAM, GARDINER <em>&amp; </em>CO., Limited.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AeBK\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AgpT\">March 6, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A8c\">No. 181.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aja\"><page-number citation-index=\"1\" label=\"1022\">*1022</page-number>McLaughlin &amp; Stern, of New York City (Martin Lippman, of New York City, of counsel), for plaintiff in error. Abraham AUenberg, of New York City (George Edwin Joseph, of New York City, of counsel), for defendant in error.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Al9\">Before HOUGH, MANTON, and MAYEE, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-4\">PER CURIAM.</author>\n<p id=\"AXV3\">Judgment affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

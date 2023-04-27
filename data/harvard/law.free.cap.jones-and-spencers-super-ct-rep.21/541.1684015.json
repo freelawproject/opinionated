@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"541\" lastpage=\"542\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b565-12\">Carl Pfeiffer, Respondent, <em>v. </em>James Campbell, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b565-13\">Decided May 3, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ADk\">Appeal from judgment entered <page-number citation-index=\"1\" label=\"542\">*542</page-number>upon the report of referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A_u\">Thomas C. Ennever, and William H. Arnoux, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Axq\">Stickney &amp; Shepard, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Aj4\">Before Sedgwick, Oh. J., Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AM9\">Opinion</p>\n<author id=\"A_v\">Per Curiam.</author>\n<p id=\"APhz\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"575\" lastpage=\"576\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b583-13\">JOHN LEHMAIER, <em>et al., </em>Plaintiffs <em>v. </em>ALMON W. GRISWOLD, Defendant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b583-14\">Before Curtis, Ch. J., and Speir, J.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b583-15\"><em>Decided May </em>8, 1877.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b583-16\"><em>Lewis Sanders, </em>for plaintiffs.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b583-17\"><em>C. A. Runkle, </em>for defendant.</attorneys>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b584-4\"><page-number citation-index=\"1\" label=\"576\">*576</page-number>Verdict directed for plaintiffs, and defendant\u2019s exceptions ordered to be heard at the general term.</summary>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b584-5\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AB4\">Judgment for plaintiff on the verdict with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

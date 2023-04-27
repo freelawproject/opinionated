@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"607\" lastpage=\"607\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b617-3\">State <em>v. </em>Crenshaw.</parties>\n<p data-order=\"1\" data-type=\"misc\" id=\"AVI\">November Term, 1888.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-M\">November 28, 1888.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AxA8\">Per Curiam,</author>\n<p id=\"AmFs\">Appellant having failed to file his case, and not appearing on the regular call of the cause on the docket, on motion of Mr., Solicitor Orr, for respondent, an order was entered dismissing the appeal for want of prosecution.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

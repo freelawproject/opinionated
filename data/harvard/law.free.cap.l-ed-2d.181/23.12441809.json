@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"23\" lastpage=\"23\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b123-25\">No. 10-1233.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aqc-dedup-0\">Douglas A. Smoot, Petitioner v. West Virginia Lawyer Disciplinary Board.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"A7D\">565 U.S. 815, 132 S. Ct. 94,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Axts\">181 L. Ed. 2d 23,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A-Yc\">2011 U.S. LEXIS 6731.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b123-27\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AK7C\">Petition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied.</p>\n<p id=\"b123-28\">Same case below, 228 W. Va. 1, 716 S.E.2d 491.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

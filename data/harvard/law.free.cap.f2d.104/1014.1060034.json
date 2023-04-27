@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1070-34\">Walter E. IRVING and Irving Iron Works Co., Plaintiffs-Appellants, v. KERLOW STEEL FLOORING CO., Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1070-35\">No. 6988.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1070-36\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"atj-dedup-1\">June 1, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1070-38\">Richard Eyre, of New York City, and Thomas G. Haight, of Jersey City, N. J., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1070-39\">John C. Kerr, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1070-40\">Before BIGGS, MARIS, and BIDDLE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1070-41\">PER CURIAM.</author>\n<p id=\"b1070-42\">The decree is affirmed upon the opinion of Judge Clark, D.C., 25 F.Supp. 901.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

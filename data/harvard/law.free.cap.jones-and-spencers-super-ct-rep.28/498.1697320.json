@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"498\" lastpage=\"498\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b522-5\">Annie C. Sperb, Respondent <em>v. </em>The Metropolitan Elevated Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b522-6\">Decided January 29, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AgM\">Appeal by defendants from judgment in favor of plaintiff entered upon the report of a referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aooo\">Davies &amp; Rapallo, attorneys, and Brainard Tolles of counsel, for appellants. Edwin M. Felt, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Aly\">Before Dugro and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"concurrence\">\n<author id=\"Aiay\">Opinion by Gildersleeve, J.; Dugro, J., concurred.</author>\n<p id=\"Ai3\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

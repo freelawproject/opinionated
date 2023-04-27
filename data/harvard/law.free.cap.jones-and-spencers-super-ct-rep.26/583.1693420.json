@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"583\" lastpage=\"583\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b603-7\">Samuel G. Brown Appellant <em>v. </em>Emil Ney, <em>et al., </em>Respondents.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b603-8\">Decided May 5, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Ael\">Appeal by plaintiff from a judgment in favor of defendants entered upon the verdict of a jury, and from an order denying plaintiff\u2019s motion for a new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A9r\">Morris S. Wise, for appellant. Charles Strauss, for respondents.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A79\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ARs\">The Court (Per Curiam )</author>\n<p id=\"AUJ\">affirmed the judgment and order.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

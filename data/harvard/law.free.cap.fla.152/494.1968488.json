@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"494\" lastpage=\"495\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b526-9\">BLACKSTONE HOLDING COMPANY, v. W. H. LAWRENCE, as Sheriff, etc.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b526-10\">12 So. (2nd) 167</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AvR\">January Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b526-11\">March 5, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A8-\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b527-4\"><page-number citation-index=\"1\" label=\"495\">*495</page-number><em>Carroll Dunscombe, </em>for plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b527-5\"><em>E. M. Baynes, </em>for defendant in error.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b527-6\">PER CURIAM:</author>\n<p id=\"b527-7\">The whole record has been considered, and no error is made to appear.</p>\n<p id=\"b527-8\">The judgment is affirmed.</p>\n<judges id=\"b527-9\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ\u201e concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

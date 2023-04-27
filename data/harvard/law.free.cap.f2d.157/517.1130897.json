@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"517\" lastpage=\"518\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b571-39\">John Francis COCHRAN, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b-A5Ud\">No. 11627.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b571-40\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b-Aih\">Oct. 30, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b572-3\"><page-number citation-index=\"1\" label=\"518\">*518</page-number>John Francis Cochran, of Tallahassee, Fla., in pro. per., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b572-4\">John P. Cowart, U. S. Atty., and James H. Fort, Asst. U. S. Atty., both of Macon, Ga., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b572-5\">Before HOLMES, WALLER, and LEE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b572-6\">PER CURIAM.</author>\n<p id=\"Ax-\">The judgment of the Court below is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

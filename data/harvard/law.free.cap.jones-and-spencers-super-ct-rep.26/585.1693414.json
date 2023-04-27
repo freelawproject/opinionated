@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"585\" lastpage=\"585\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b605-7\">Lucien Barnes, Respondent <em>v. </em>James R. Keene, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b605-8\">Decided June 27, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AZQ\">Appeal from judgment entered in favor of the plaintiff upon the verdict of a jury, and from an order denying defendant\u2019s motion for a new trial. .</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AkT\">Shipman, Barlow, Larocque &amp; Choate, for appellant. S. H. Randall, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AKC\">Before Freedman and Truax, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AKaO\">Per Curiam.</author>\n<p id=\"b605-9\">Judgment and order affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

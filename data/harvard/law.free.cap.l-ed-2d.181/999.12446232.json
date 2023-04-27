@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1099-21\">No. 11-7747.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AjAcj\">Jerome Harold Hall, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1099-22\">565 U.S. 1168, 132 S. Ct. 1120,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AZAH7\">181 L. Ed. 2d 999,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AY88\">2012 U.S. LEXIS 701.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1099-23\">January 17, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ANED\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"AcKzA\">Same case below, 449 Fed. Appx. 617.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

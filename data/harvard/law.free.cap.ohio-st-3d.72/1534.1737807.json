@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1534\" lastpage=\"1534\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b872-15\">MOTION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b872-16\">95-778.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AW2\">State v. Guess.</parties>\n<court data-order=\"3\" data-type=\"court\" id=\"A6i\">\n<em>Franklin County,</em>\n</court>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"AWq\">No. 94APA09-1278.</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AdII\">On motion for stay of execution. Motion denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

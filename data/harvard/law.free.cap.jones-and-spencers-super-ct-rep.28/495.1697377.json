@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"495\" lastpage=\"495\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b519-7\">William B. Norman, Respondent <em>v. </em>Solomon Johnson, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b519-8\">Decided January 11, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Asz\">Appeal by defendant from judgment entered on verdict of jury and from order denying motion for a new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AKC\">William B. Waring, attorney, and Charles W. Brooke of counsel, for appellant. Walter R. Beach, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AjV\">Before Freedman, P. J., and Gildersleeve, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"concurrence\">\n<author id=\"A8S\">Opinion by Gildersleeve, J.; Freedman P. J., concurred.</author>\n<p id=\"AghB\">Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

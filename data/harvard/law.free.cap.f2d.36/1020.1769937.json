@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1048-27\">PACIFIC MAIL STEAMSHIP COMPANY, Appellee, v. UNION STEVEDORING CORPORATION, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1048-28\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-sS\">December 2, 1929.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1048-29\">No. 43.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1048-31\">Alfred L. Marilley, of New York City (Martin Conboy, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1048-32\">Burlingham, Veeder, Fearey, Clark &amp; Hupper, of New York City (Ray Rood Allen and Frederic Conger, both of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"legal\" id=\"b1048-33\">before L. HAND, SWAN, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1048-34\">PER CURIAM.</author>\n<p id=\"ANHq\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

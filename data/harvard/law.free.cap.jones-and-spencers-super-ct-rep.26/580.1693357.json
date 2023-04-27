@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"580\" lastpage=\"580\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b600-4\">Morris Goldstein, Appellant <em>v. </em>Henry Parker, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b600-5\">Decided March 4, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ACB\">Appeal from a judgment entered upon a dismissal of the complaint at the trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AhF\">Goodhardt &amp; Phillips, for appellant. H. Joseph, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A1R\">Before Truax and Dugro, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AG0\">The question involved was, whether the evidence was sufficient to carry the case to the jury. The Court held (Dugro J., writing, Truax, J., concurring), that it was not, and affirmed the judgment.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

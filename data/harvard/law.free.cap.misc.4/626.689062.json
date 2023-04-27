@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"626\" lastpage=\"626\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b664-14\">CITY COURT OF BROOKLYN</court>\n<p data-order=\"1\" data-type=\"p\" id=\"AqM\">GENERAL TERM,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A11\">JUNE, 1893.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b664-15\">Kelly <em>v. </em>Loughran.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b664-16\"><em>E. G. Bulla/rd, </em>for plaintiff (appellant).</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b664-17\"><em>John, F. Ola/rhe, </em>for defendant (respondent).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b664-18\">\n<em>Per Ouriam.</em>\n</author>\n<p id=\"AJp\">We have carefully examined the authorities cited by the counsel for the appellant, and find that they are not in point.. As a new question, we, without hesitation, hold that tfie complaint does not state a cause of action.</p>\n<p id=\"b664-19\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

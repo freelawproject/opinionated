@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1519\" lastpage=\"1519\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b1005-9\">\n<em>Thursday, April 23, 1998</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b1005-10\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b1005-11\">98-68.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AYOV\">State ex rel. Nix v. Cleveland.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1005-12\">In Mandamus. This cause originated in this court on the filing of a complaint for a writ of mandamus. Upon consideration of respondents\u2019 motion to quash subpoena,</p>\n<p id=\"b1005-13\">IT IS ORDERED by the court that the motion to quash subpoena be, and hereby is, granted.</p>\n<judges id=\"AoY\">Pfeifer, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

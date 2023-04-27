@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"581\" lastpage=\"581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b601-7\">Francis Dougherty, <em>et al., </em>Respondents <em>v. </em>Henry J. McGuckin, impleaded, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b601-8\">Decided March 5, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Al5\">Appeal from a judgment entered on the report of a referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AVS\">Daniel P. Mahony, for appellant. Hector M. Hitchings, for respondents.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Azm\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A1o\">Per Curiam.</author>\n<p id=\"Aq6\">Judgment affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

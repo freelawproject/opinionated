@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"539\" lastpage=\"539\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b563-4\">Emlen T. Littell, <em>et al., </em>Respondents, <em>v. </em>William Kent, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b563-5\">Decided March 1, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Aq7v\">Appeal from judgment entered on verdict directed by court.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AjW\">G-. Tillotson, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Alg\">R. W. De Forest, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ANU\">Before Sedgwick, Ch. J., and O\u2019Gorman, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Akl\">Per Curiam.</author>\n<p id=\"AWV\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

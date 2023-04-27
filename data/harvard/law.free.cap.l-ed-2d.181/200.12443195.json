@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"200\" lastpage=\"200\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b300-30\">No. 11-5522.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ARx6\">Teddy Shawn Stokes, Petitioner v. Florida.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b300-31\">565 U.S. 912, 132 S. Ct. 324,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AhBu\">181 L. Ed. 2d 200,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"At3f\">2011 U.S. LEXIS 5947.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b300-32\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"at-y-dedup-0\">Petition for writ of certiorari to the District Court of Appeal of Florida, First District, denied.</p>\n<p id=\"b300-33\">Same case below, 77 So. 3d 1262.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

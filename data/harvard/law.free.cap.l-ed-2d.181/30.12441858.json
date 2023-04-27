@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"30\" lastpage=\"30\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b130-18\">No. 10-1394.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ABlq\">Willie M. Godley, Petitioner v. North Carolina Department of Health and Human Services, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b130-19\">565 U.S. 818, 132 S. Ct. 103,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AWvJ\">181 L. Ed. 2d 30,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AUzE\">2011 U.S. LEXIS 6783.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b130-20\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlRH\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b130-21\">Same case below, 397 Fed. Appx. 857.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

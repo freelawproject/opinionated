@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"898\" lastpage=\"898\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b918-6\">No. 267,</docketnumber>\n<p data-order=\"1\" data-type=\"summary\" id=\"A1b8\">Mise.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Af_G\">Kimura et al. <em>v. </em>MacArthur et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AD3L\"><em>John W. Crandall, William Logan, Jr., Ben Bruce Blakeney, John G. Brannon </em>and <em>George Yamaoka </em>for petitioners.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZ0\">The motions are denied. See the opinion announced today in <em>Hirota </em>v. <em>MacArthur, </em>338 U. S. 197. <footnotemark>*</footnotemark></p>\n<footnote label=\"*\">\n<p id=\"b918-13\"> [The reporting of the opinion of the Court in this case was delayed pending announcement of the opinion of Mr. Justice Douglas, which was announced on June 27,1949.]</p>\n</footnote>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

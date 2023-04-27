@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"198\" lastpage=\"198\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b298-24\">No. 11-5502.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ADBI\">Ali El Ghannam, Petitioner v. Suburban Hospital Inc., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b298-25\">565 U.S. 911, 132 S. Ct. 321,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AG3d\">181 L. Ed. 2d 198,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AntR\">2011 U.S. LEXIS 6191,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b298-26\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A086\">Petition for writ of certiorari to the Court of Special Appeals of Maryland denied.</p>\n<p id=\"b298-27\">Same case below, 196 Md. App. 714 and 196 Md. App. 732.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-7\">In re PALEAIS.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A-B6\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ALuT\">February 9, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AJ31\">No. 152.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A3tl\">J. G. M. Browne and Barnett E. Kopelman, both of New York City, for petitioner. David B. Tolins and Max Silverstein, both of New York City, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A_Tq\">Before HOUGH, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-8\">PER CURIAM.</author>\n<p id=\"A5o\">Petition dismissed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

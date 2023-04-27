@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"111\" lastpage=\"111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b211-6\">No. 10-11045.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AQzU\">Marcus Jordan Koepnick, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b211-7\">565 U.S. 864, 132 S. Ct. 206,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A7D5\">181 L. Ed. 2d 111,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"a3xm-dedup-0\">2011 U.S. LEXIS 6101.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b211-8\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKLM\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b211-9\">Same case below, 409 Fed. Appx. 138.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1012\" lastpage=\"1012\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1068-4\">Jerry W. CARTER, as Chairman, and W. B. Douglass and Eugene S. Matthews, as Members of the Railroad Commission of the State of Florida, Appellants, v. Legh R. POWELL, Jr., and Henry W. Anderson, Receivers of Seaboard Air Line Railway Company, Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1068-5\">No. 9032.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1068-6\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ae7-dedup-0\">July 14, 1939.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1068-8\">Before SIBLEY, HUTCHESON, and HOLMES, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1068-9\">PER CURIAM.</author>\n<p id=\"b1068-10\">Neither of the judges who concurred in the decision, 104 F.2d 428, rendered in the above cause desiring a rehearing, it is ordered that the petition therefor be, and it is hereby, denied.</p>\n<p id=\"b1068-11\">HUTCHESON, Circuit Judge, dissents.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1420\" lastpage=\"1420\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"aoj-dedup-1\">\n<em>Wednesday, March 20, 1996</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Al_G\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A3Eh\">96-573.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"aqdm-dedup-0\">State ex rel. Brooks v. Hayes.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AB9-\">In Prohibition. This cause originated in this court on the filing of a complaint for a writ of prohibition with emergency action requested. Upon consideration thereof,</p>\n<p id=\"AcSp\">IT IS ORDERED by the court that the complaint for writ of prohibition be, and hereby is, dismissed, effective March 18,1996.</p>\n<judges id=\"a5s-dedup-0\">Moyek, C.J., Douglas, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n<judges id=\"AW3n\">Cook and Stratton, JJ., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"496\" lastpage=\"497\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b520-9\">William Murphy, Respondent <em>v. </em>The Broadway and Seventh Avenue Railroad Company, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b520-10\">Decided January 11, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ADT\">Appeal by defendant from judgment entered in favor of the plaintiff upon the verdict of a jury and from order denying defendant\u2019s motion for a new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AeV\">Root &amp; Clarke, for appellant. <page-number citation-index=\"1\" label=\"497\">*497</page-number>Shaffer &amp; Burt, attorneys, and Chauncey Shaffer of counsel, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AHX\">Before Freedman, P. J., McAdam and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AeT\">Per Curiam.</author>\n<p id=\"AtI\">Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

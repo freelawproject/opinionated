@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1207\" lastpage=\"1207\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b841-4\">In re Resignation of Maurer.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b841-5\">[Cite as <em>In re Resignation of Maurer </em>(1996), 75 Ohio St.3d 1207.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AGbR\">(No. 96-486</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ac2\">Decided March 27, 1996.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b841-7\">The resignation as an attorney of Earl Hoak Maurer of Columbus, Ohio, Attorney Registration No. 0006694, is accepted.</p>\n<judges id=\"b841-8\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Stratton, JJ., concur.</judges>\n</opinion>\n<correction data-order=\"5\" data-type=\"correction\" id=\"arl-dedup-0\">Submitted March 20, 1996</correction>\n</casebody>\n",
+    "status": "ok"
+  }
+}

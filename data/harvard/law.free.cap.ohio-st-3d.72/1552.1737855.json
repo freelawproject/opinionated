@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1552\" lastpage=\"1552\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b890-5\">\n<em>Wednesday, July 5, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b890-6\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b890-7\">95-544.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A6GK\">Logsdon v. Fifth Third Bank of Toledo.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AcGt\">\n<em>Lucas County,</em>\n</court>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"A51M\">No. L-93-225.</docketnumber>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZN\">On review of order certifying a conflict. The court determines that no conflict exists within the meaning of S.Ct.Prac.R. IV(2)(B) and <em>Whitelock v. Gilbane Bldg. Co. </em>(1993), 66 Ohio St.3d 594, 613 N.E.2d 1032. This cause is therefore dismissed.</p>\n<judges id=\"b890-8\">Moyer, C.J., Dougla^ Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

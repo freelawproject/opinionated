@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"490\" lastpage=\"490\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b514-4\">Charles C. Bauer, Respondent <em>v. </em>The Consumers\u2019 Ice Company, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b514-5\">Decided October 10, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AeB\">Appeal by defendant from judgment entered on a verdict of jury in favor of plaintiff, and from order denying motion for a new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A-T\">Edwards <em>&amp; </em>Odell, for appellant. Lachman, Morgenthau <em>&amp; </em>Goldsmith, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Am0\">Before Freedman, P. J., Dugro and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"concurrence\">\n<author id=\"A64\">Opinion by Dugro, J.; Freedman, P. J., and Gildersleeve, J., concurred.</author>\n<p id=\"AOqK\">Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

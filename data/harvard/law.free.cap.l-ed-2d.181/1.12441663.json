@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1\" lastpage=\"1\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b101-2\">No. 10-755.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A9\">Dallas County, Texas, et al., Appellants v. Texas Democratic Party.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b101-3\">565 U.S. 801, 132 S. Ct. 74,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AaK\">181 L. Ed. 2d 1,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AL\">2011 U.S. LEXIS 6810.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b101-4\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AT\">On appeal from the United States District Court for the Northern District of Texas. Appeal dismissed as moot.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

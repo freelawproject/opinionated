@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"682\" lastpage=\"682\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b720-4\" pgmap=\"720\">Donald Rieck, Appellee, v. Benjamin Barsema, Defendant, Thomas M. Madden Company, Intervening Petitioner. Appeal of Thomas M. Madden Company, Appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b720-6\" pgmap=\"720\">Gen. No. 42,818.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"b720-8\" pgmap=\"720\">Hebel, P. J., not participating.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AJ5\" pgmap=\"720\">opinion filed November 17, 1943.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A6A\" pgmap=\"720\">Ross, Berchem &amp; Sehwantes, for appellant;</attorneys><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A6B\" pgmap=\"720\">no appearance for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"AtJ_\" pgmap=\"720\">Opinion by</p> <author id=\"AihX\" pgmap=\"720\">Justice Burke.</author> <p id=\"AIk\" pgmap=\"720\">Not to be published in full.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1140\" lastpage=\"1140\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1166-10\">SCHNEIDER v. FINKELSTEIN.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AfcV\">(Supreme Court, Appellate Division, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AO69\">June 11, 1909.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"Ahp\">Action by Charles Schneider against Morris F. Finkelstein.</summary>\n<p data-order=\"4\" data-type=\"summary\" id=\"Aq--\">Witt this case has been consolidated in this court cases bearing titles as follows: Monro G. Dessauer v. John B. Sagarra; Henry Erkins v. John Tucker; Frederick Engelhardt v. James T. Fargo; Joseph Kirschner v. Fourteenth Street Store.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AfGF\">No opinions. Applications de nied, with $10 costs in each case. Order: signed. See, also, 107 N. Y. Supp. 126; 61 Misc. Rep. 495, 115 N. Y. Supp. 256.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

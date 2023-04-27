@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"586\" lastpage=\"586\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b606-5\">George W. White <em>v. </em>Mary Reed, as Executrix, etc., <em>et al.</em></parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b606-6\">Decided June 27, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A_K\">Motion to re-settle order dated first Monday of December, 1887.</summary>\n<p data-order=\"3\" data-type=\"judges\" id=\"A5F\">Before Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ACh\">Per Curiam.</author>\n<p id=\"A3q\">Order re-settled.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

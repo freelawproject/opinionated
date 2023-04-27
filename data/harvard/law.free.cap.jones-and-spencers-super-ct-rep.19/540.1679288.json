@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"540\" lastpage=\"540\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b558-4\">Peter Born, respondent, <em>v. </em>Henry Schrenkeisen, <em>et al., </em>appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b558-5\">Decided February 2, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AuM\">Appeal by defendants from judgment against them entered on decision of judge at special term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AYA\">Porter &amp; Kilvert, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AWV\">Wehle &amp; Jordan, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AEq9\">Before Sedgwick, Ch. J. and Truax, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AeN\">Per Curiam.</author>\n<p id=\"AqZZ\">Judgment affirmed, with costs, on opinion of the judge at special term.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"5\" lastpage=\"5\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b87-4\">WOMACK <em>v. </em>OHIO.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b87-6\">No. 12,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AVK8\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A2T\">Decided October 12, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b87-8\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b87-9\"><em>Mark McElroy, </em>Attorney General of Ohio, and <em>William M. Vance, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b87-10\">Per Curiam.</author>\n<p id=\"b87-11\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for writ of certiorari are granted and the judgment is reversed. <em>Burns </em>v. <em>Ohio, </em>360 U. S. 252.</p>\n<judges id=\"b87-12\">Mr.' Justice Stewart took no part in the consideration. or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

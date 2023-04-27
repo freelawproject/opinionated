@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"546\" lastpage=\"546\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b578-7\">MARIE HAYDEN POWELL v. JOSEPH POWELL</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b578-8\">12 So. (2nd) 448</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AZz\">January Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b578-9\">March 16, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A2m\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b578-11\"><em>Ray M. Watson, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b578-12\"><em>B. F. Brass, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b578-13\">PER CURIAM:</author>\n<p id=\"b578-14\">We have duly considered the record on appeal and appellant\u2019s petition for counsel fees in this Court. The decree is affirmed and the petition denied.</p>\n<p id=\"b578-15\">So ordered.</p>\n<judges id=\"b578-16\">BUFORD, C. J., TERRELL, CHAPMAN and .ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

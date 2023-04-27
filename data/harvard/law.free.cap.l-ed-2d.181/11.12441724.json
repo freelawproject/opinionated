@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"11\" lastpage=\"11\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b111-10\">No. 11M13.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A59\">Michael Wigren, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b111-11\">565 U.S. 809, 132 S. Ct. 79,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ActM\">181 L. Ed. 2d 11,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ASJ\">2011 U.S. LEXIS 6755.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b111-12\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-DF\">Motion for leave to file a petition for writ of certiorari with the supplemental appendix under seal granted.</p>\n<p id=\"b111-13\">Same case below, 641 F.3d 944.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

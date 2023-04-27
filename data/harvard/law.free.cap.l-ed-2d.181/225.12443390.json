@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"225\" lastpage=\"225\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b325-2\">No. 11-5910.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AZ23\">Alexis Alverio-Melendez, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b325-3\">565 U.S. 925, 132 S. Ct. 356,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AcU-\">181 L. Ed. 2d 225,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AU59\">2011 U.S. LEXIS 6891.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b325-4\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AP8Y\">Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied.</p>\n<p id=\"b325-5\">Same case below, 640 F.3d 412.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

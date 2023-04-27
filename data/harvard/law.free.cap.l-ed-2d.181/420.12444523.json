@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"420\" lastpage=\"420\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b520-4\">No. 11-161.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AtSfv\">Christine Armour, et al., Petitioners v. City of Indianapolis, Indiana, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b520-5\">565 U.S. 1033, 132 S. Ct. 576,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ARYV\">181 L. Ed. 2d 420,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AVi-\">2011 U.S. LEXIS 8180.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b520-6\">November 14, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AX23\">Petition for writ of certiorari to the Supreme Court of Indiana granted.</p>\n<p id=\"b520-7\">Same case below, 946 N.E.2d 553.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"491\" lastpage=\"492\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b515-11\">Eliza Whitlock White, Respondent <em>v. </em>The New York Elevated Railroad Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b516-4\"><page-number citation-index=\"1\" label=\"492\">*492</page-number>Decided December 17, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AEd\">Appeal by defendants from judgment entered upon decision of at equity term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AUf\">Davies &amp; Rapallo, attorneys, and J. C. Thomson of counsel, for appellants. G. Willett Van Nest, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Aa8\">Before McAdam and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A1s\">Per Curiam.</author>\n<p id=\"A01\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

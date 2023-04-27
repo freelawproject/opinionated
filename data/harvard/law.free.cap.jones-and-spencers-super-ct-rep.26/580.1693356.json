@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"580\" lastpage=\"580\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b600-8\">George C. Johns, Respondent <em>v. </em>The Press Publishing Company, Appellant,</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b600-9\">Decided March 4, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AsF\">Appeal from an order vacating an order for the examination of the plaintiff before answer,</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A4o\">DeLancy Nicoll, for appellant. Artemas B. Smith, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Aq1\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Ak63\">The Court (Per Curiam)</author>\n<p id=\"AAT\">affirmed the order on the authority of Roberts <em>v. </em>The Press Publishing Company, 57 <em>N. Y. Superior Court </em>R. 526.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

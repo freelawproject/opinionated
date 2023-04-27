@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"587\" lastpage=\"587\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b607-6\">Josephine Stampfer, Respondent <em>v. </em>Siegmund, <em>alias </em>William Stampfer, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b607-7\">Decided November 3, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A_C\">Appeal from an order granting plaintiff an allowance for counsel fee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aqf\">Louis Ansbacher, for appellant. Samuel D. Sewards, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AZXj\">Before Freedman, Truax and Ingraham. JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A0c\">Per Curiam.</author>\n<p id=\"AHe\">The order was reversed and motion denied, without costs, on the authority of Beadelston <em>v. </em>Beadelston, 103 <em>N. Y. </em>402.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

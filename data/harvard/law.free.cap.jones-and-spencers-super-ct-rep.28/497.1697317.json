@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"497\" lastpage=\"498\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b521-9\">James H. Shady, Respondent <em>v. </em>The Metropolitan Elevated Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b521-10\">Decided January 29, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Aj_\">Appeal by defendant from judgment entered on the report of a referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AlP\">Davies &amp; Rapallo, attorneys, and Plerbert Barry of counsel, for appellants. Edwin M. Felt, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AIof\">Before Freedman, P. J., McAdam and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"concurrence\">\n<author id=\"AghE\"><page-number citation-index=\"1\" label=\"498\">*498</page-number>Opinion by Gildersleeve, J.; Freedman, P. J., and McAdam, J., concurred.</author>\n<p id=\"A8W\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

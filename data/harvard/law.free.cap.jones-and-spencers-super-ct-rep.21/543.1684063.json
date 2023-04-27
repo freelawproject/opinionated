@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"543\" lastpage=\"544\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b567-12\">The Florida Midland, &amp;c., Co., Respondent, <em>v. </em>Edwin E. Glashin, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b567-13\">Decided June 14, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AK2\">Appeal from order setting <page-number citation-index=\"1\" label=\"544\">*544</page-number>aside order of reference.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AnK\">Ira Shafer, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AQu\">Charles B. Meyer, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AgaR\">Before Sedgwick, Ch. J. and Truax, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AD91\">Opinion by Sedgwick, Ch. J. Order reversed; motion below denied. Defendant to have $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

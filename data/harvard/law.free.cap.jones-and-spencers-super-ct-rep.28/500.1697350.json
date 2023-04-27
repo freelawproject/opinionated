@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b524-5\">Lewis Seasongood, <em>et al., </em>Respondents <em>v. </em>The New York Elevated Railroad Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b524-6\">Decided March 14, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Azs\">Appeal by defendants from judgment in favor of plaintiffs entered upon the report of a referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AhaL\">Davies &amp; Rapallo, for appellants. Sackett &amp; Bennett, for respondents.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AYW\">Before Sedgwick, Ch. J., Dugro and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"concurrence\">\n<author id=\"A2a\">Opinion by Gildersleeve, <em>J.; </em>Sedgwick, Ch. J., and Dugro, J., concurred.</author>\n<p id=\"AQp\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

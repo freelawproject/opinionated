@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"493\" lastpage=\"493\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b517-7\">George Southwick, Respondent <em>v. </em>Adolph Bernhard, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b517-9\">Decided January 11, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AUa2\">Appeal by defendant from judgment entered upon the verdict of a jury in plaintiff\u2019s favor, and from an order denying defendant\u2019s motion for a new trial. Action to recover damages for wrongful discharge of plaintiff from defendant\u2019s employ.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AM2\">E. A. Jacob, attorney, and David Leventritt of counsel, for appellant. Milnor <em>&amp; </em>Willis, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A_n\">Before Freedman, P. J., McAdam and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"concurrence\">\n<author id=\"AEf\">Opinion by McAdam, <em>J.; </em>Freedman, P. J., and Gildersleeve, J., concurred.</author>\n<p id=\"Ax5\">Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

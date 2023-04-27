@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"539\" lastpage=\"539\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b563-8\">Edward S. Hamilton, <em>et al., </em>Executors, &amp;c., Respondents, <em>v. </em>Cassius H. Reed, <em>et al., </em>Appellants. [Two cases.]</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Ajjb\">Decided April 7, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"An9\">Appeals from judgments for plaintiffs entered upon report of referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ACN\">Christopher Fine, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AaP\">I. T. Williams, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Acz\">Before Sedgwick, Ch. J., Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A4J\">Per Curiam.</author>\n<p id=\"AABe\">Judgments affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"850\" lastpage=\"850\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b920-5\">January 12, 1948.</decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b920-6\">\n<em>Per Curiam Decision.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b920-7\">No. 449.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"An9r\">Marden &amp; Murphy, Inc. <em>v. </em>City of Lowell.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A7qu\"><em>Burton E. Eames </em>for appellant-petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A6Je\"><em>P. Harold Ready </em>and <em>Raymond D. O\u2019Brien </em>for appellee-respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ALTa\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"Av2\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question. The petition for writ of certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

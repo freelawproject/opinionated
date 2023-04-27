@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"510\" lastpage=\"510\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b556-6\">IN THE MATTER OF THE APPLICATION OF ALLEN STERLING FOR A WRIT OF HABEAS CORPUS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b556-7\">Argued April 21, 1939</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A3R\">Decided May 22, 1939.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b556-9\">Before Justice Donges.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b556-10\">For the petitioner, <em>Mario H. Volpe.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b556-11\">For the state, <em>Robert Peacock </em>and <em>Lynwood Lord.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b556-12\">Donges, J.</author>\n<p id=\"AC-\">Por the reasons stated in the opinion filed on a similar application by James Rose, <em>122 N. J. L. </em>507, submitted herewith, the petitioner is directed to be discharged from custody.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

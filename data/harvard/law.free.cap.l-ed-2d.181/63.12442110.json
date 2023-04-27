@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"63\" lastpage=\"63\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b163-5\">No. 10-10471.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aqe7\">Roger C. Cassidy, Petitioner v. Florida.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b163-6\">565 U.S. 838, 132 S. Ct. 145,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aq7-dedup-0\">181 L. Ed. 2d 63,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"atg-dedup-1\">2011 U.S. LEXIS 5999.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b163-7\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHTv\">Petition for writ of certiorari to the District Court of Appeal of Florida, Fifth District, denied.</p>\n<p id=\"b163-8\">Same case below, 53 So. 3d 236.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

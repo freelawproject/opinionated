@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1536\" lastpage=\"1536\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b874-13\">\n<em>Monday, June 12, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A2o\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b874-14\">95-976.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AnB\">State v. Yeagley.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AJe\">\n<em>Wayne County,</em>\n</court>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"A-IG\">No. 2895.</docketnumber>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqWS\">This cause is pending before the court as a discretionary appeal and a claimed appeal of right. Upon consideration of appellant\u2019s motion for stay,</p>\n<p id=\"b874-15\">IT IS ORDERED by the court that the motion for stay be, and hereby is, denied, effective June 9, 1995.</p>\n<judges id=\"b874-16\">Wright, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

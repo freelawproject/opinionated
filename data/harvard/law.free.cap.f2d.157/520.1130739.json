@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"520\" lastpage=\"520\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b574-38\">Vester WARD, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b574-39\">No. 11683.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b574-40\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b-AjR4\">Oct. 30, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b574-42\">Chas. R. Robinson, of Birmingham, Ala., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b574-43\">Hartwell Davis, Asst. U. S. Atty., of Montgomery, Ala., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b574-44\">Before HOLMES, McCORD, and LEE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b574-45\">PER CURIAM.</author>\n<p id=\"b574-46\">The judgment appealed from is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

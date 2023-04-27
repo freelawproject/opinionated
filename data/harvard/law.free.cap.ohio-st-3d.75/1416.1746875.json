@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1416\" lastpage=\"1416\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"a3b-dedup-0\">\n<em>Friday, March 8, 1996</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A4eb\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"aqu-dedup-1\">96-388.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ay0y\">State ex rel. Klingler v. Perry Cty. Bd. of Elections.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXth\"><em>Sua sponte, </em>writ denied. Moyer, C.J., F.E. Sweeney, Cook and Stratton, JJ., concur.</p>\n<judges id=\"AZV\">Douglas, J., would dismiss the cause.</judges>\n<judges id=\"aj9-dedup-0\">Resnick and Pfeifer, JJ., dissent and would grant the writ.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

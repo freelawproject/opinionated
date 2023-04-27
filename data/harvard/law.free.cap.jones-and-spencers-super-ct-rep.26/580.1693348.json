@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"580\" lastpage=\"581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b600-10\">Bennett J. King, Appellant v. Abraham Liebeskind, <em>et. al., </em>Respondents.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b600-11\">Decided March 4, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AO6\">Appeal from an order denying a motion of the plaintiff for an order that plaintiff have judgment against the defendant on his demurrer to the complaint as frivolous, and for <page-number citation-index=\"1\" label=\"581\">*581</page-number>the relief demanded in the complaint,</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AL\">Charles H. Smith, for appellant. Franklin Bien, for respondents.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AYL\">Before Sedgwick, Ch. J., Truax and Dugro, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AB9\">The pleadings were not before the general term. For that reason the Court (Per Curiam) held there was nothing to show that the court below erred, and affirmed the order.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

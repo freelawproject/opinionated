@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b723-5\">No. 1137,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AHDG\">No. 1138,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aph\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"AiO\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"A3pM\">Beachum <em>v. </em>New Mexico; and Williams <em>v. </em>New Mexico.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AfY\"><em>Boston E. Witt, </em>Attorney General of New Mexico, for respondent in both cases.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFP\">Sup. Ct. N. M. Certiorari denied.</p>\n<p id=\"AQT\">Reported below: 78 N. M. 390, 432 P. 2d 101.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

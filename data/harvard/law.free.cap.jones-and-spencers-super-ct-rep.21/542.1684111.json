@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"542\" lastpage=\"542\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b566-11\">Vincent Barker, Appellant, <em>v. </em>Niels Poulson, <em>et al., </em>Respondents.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b566-12\">Decided May 12, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A13\">Appeal from judgment entered on verdict.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ALq\">Isaac N. Mills, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A6S\">John H. Bird, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Aqt1\">Before Sedgwick, Ch. J. and Ingraham, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3f\">Opinion</p>\n<author id=\"A9zK\">Per Curiam.</author>\n<p id=\"Ae0z\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

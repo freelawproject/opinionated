@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b821-6\">No.-.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ABv\">Johnson et al. <em>v. </em>Stevenson.</parties>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"AeL2\"><em>Alvin J. Wirtz, James V. Allred, Thurman Arnold, Abe Fortas, Hugh Cox, Raymond Buck, Luther E. Jones, Jr. </em>and <em>Everett L. Looney </em>for petitioners.</attorneys>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ABk0\"><em>Henry H. Brooks </em>and <em>Dan Moody </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4r\">On consideration of the motion of counsel for Coke R. Stevenson to vacate the order of Mr. Justice Black of September 29, 1948, and to dismiss the proceedings, it is ordered by this Court that the said motion be, and it is hereby,</p>\n<p id=\"AdX\">denied.</p>\n<judges id=\"ALI\">Mr. Justice Murphy took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

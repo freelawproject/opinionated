@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"536\" lastpage=\"536\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b560-6\">Thomas M. Carter, Respondent, <em>v. </em>The Brooklyn Life Insurance Co., Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b560-7\">Decided January 4, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AzR\">Appeal from judgment entered at special term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AQa\">W. H. Ford, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AiF\">Raphael J. Moses, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ACA\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AdU\">Per Curiam.</author>\n<p id=\"A0bf\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

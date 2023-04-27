@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1402\" lastpage=\"1402\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"ACx\">\n<em>Monday, March 4, 1996</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"aj-dedup-0\">DISCIPLINARY DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"am7-dedup-0\">94-2254.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"abd-dedup-0\">Cincinnati Bar Assn. v. Sullivan.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aak-dedup-2\">This cause came on for further consideration upon the filing of respondent\u2019s motion for continuance of hearing. Upon consideration thereof,</p>\n<p id=\"aqh-dedup-0\">IT IS ORDERED by the court that respondent\u2019s motion be, and is hereby, granted, and that a hearing before the court be held on March 19,1996.</p>\n<judges id=\"AM_l\">Douglas, Resnick, and Cook, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

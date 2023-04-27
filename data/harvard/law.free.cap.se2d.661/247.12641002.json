@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"247\" lastpage=\"247\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the Matter of JEJ, BMJ, TLJ.\n  <br/>\n  Appealed by Respondent Mother.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 83P08.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  April 10, 2008.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Peter Wood, for Mother.\n </attorneys>\n <attorneys id=\"p-6\">\n  Andrew J. Fitzgerald, Winston-Salem, for Guardian ad Litem.\n </attorneys>\n <attorneys id=\"p-7\">\n  Roger A. Askew, Scott W. Warren, Raleigh, for Wake County Human Services.\n </attorneys>\n <p id=\"p-8\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   Upon consideration of the petition filed on the 28th day of February 2008 by Respondent (Mother) in this matter for discretionary review of the decision of the North Carolina Court of Appeals pursuant to G.S. 731, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-10\">\n   \"Denied by order of the Court in conference, this the 10th day of April 2008.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

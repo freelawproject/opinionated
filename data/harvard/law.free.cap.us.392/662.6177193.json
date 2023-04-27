@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"662\" lastpage=\"662\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b704-4\">TOLES <em>v. </em>CLARK, ATTORNEY GENERAL, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b704-6\">No. 933,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AvF\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A7b_\">Decided June 17, 1968.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b704-8\"><em>Solicitor General Griswold, Assistant Attorney General Vinson, Beatrice Rosenberg, </em>and <em>Paul C. Summitt </em>for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b704-9\">Per Curiam.</author>\n<p id=\"b704-10\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the United States District Court for the Western District of Washington with directions to dismiss the petition as moot.</p>\n<judges id=\"b704-11\">Mr. Justice Douglas dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

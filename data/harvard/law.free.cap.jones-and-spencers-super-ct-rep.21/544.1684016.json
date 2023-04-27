@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"544\" lastpage=\"544\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b568-5\">Monitz Cohn, Appellant, <em>v. </em>Edward H. Ammidown, <em>et al., </em>Respondents.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b568-6\">Decided July 2, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ACJD\">Plaintiffs exception ordered to be heard in first instance at general term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AeO\">Leonard Brown, for plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AQx\">A. P. Whitehead, for defendants.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AAg\">Before Sedgwick, Ch. J., and O\u2019Gorman, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADt\">Opinion by Sedgwick, Ch. J. Exception overruled and judgment for dismissal of complaint, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

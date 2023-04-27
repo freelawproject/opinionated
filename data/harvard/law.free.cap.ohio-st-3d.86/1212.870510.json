@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1212\" lastpage=\"1212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b768-3\">Office of Disciplinary Counsel <em>v. </em>Petroff.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b768-4\">[Cite as <em>Disciplinary Counsel v. Petroff </em>(1999), 86 Ohio St.3d 1212.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Aru\">(No. 98-2641</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A_2\">Submitted and decided July 30, 1999.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b768-10\">For earlier case, see <em>Disciplinary Counsel v. Petroff </em>(1999), 85 Ohio St.3d 396, 709 N.E.2d 111.</p>\n<judges id=\"b768-11\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

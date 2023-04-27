@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Ad0\">Lee KELLEY, Appellant, v. UNITED STATES of America et al., Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AhX\">No. 5552.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"Akq\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ACZ-\">April 4, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AxiW\">Edgar Soule, of Houston, Tex., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AJC\">Roy C. Sewell, of Houston, Tex. (Morris, Sewell, Taylor &amp; Morris and W. J. Knight, all of Houston, Tex., on the brief), for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"Ay3G\">Before BRYAN and FOSTER, Circuit Judges, and GRUBB, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AC9J\">PER CURIAM.</author>\n<p id=\"Al6\">The decree in the above numbered and entitled cause is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

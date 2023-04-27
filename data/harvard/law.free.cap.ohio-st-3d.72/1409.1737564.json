@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1409\" lastpage=\"1409\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b747-11\">\n<em>Wednesday, April 12, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"b747-12\">DISCRETIONARY APPEALS NOT ALLOWED</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b747-13\">95-28.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AWb\">Cleveland City School Dist. Bd. of Edn. v. URS Co.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AcQ\">\n<em>Cuyahoga County,</em>\n</court>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"A1z\">No. 64496.</docketnumber>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Agq\">On motion for discretionary appeal. Motions denied.</p>\n<judges id=\"b747-14\">Moyer, C.J., Wright and F.E. Sweeney, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

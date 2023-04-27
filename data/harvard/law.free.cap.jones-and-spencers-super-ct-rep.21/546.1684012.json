@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"546\" lastpage=\"546\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b570-8\">The Mayor, &amp;c., Respondents, <em>v. </em>Collis P. Huntington, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b570-9\">Decided July 6, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Ax99\">Appeal from judgment.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AWR\">Charles N. Tweed, attorney, and Francis Lynde Stetson, of counsel for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"At9\">E. H. Lacombe, counsel to the corporation, and D. J. Dean, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AV-\">Before Sedgwick, Ch. J., Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A4Bl\">Per Curiam.</author>\n<p id=\"Akr\">The judgment is affirmed with costs, on the opinion of the trial judge.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

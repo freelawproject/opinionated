@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ANz4\">UNITED STATES of America v. Claude CARTER.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AZk\">No. 6037.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AcO\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Akz\">March <em>12, </em>1930.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"AXh\">Before DIETRICH and WILBUR, Circuit Judges, and KERRIGAN, District Judge.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AYf\">PER CURIAM.</author>\n<p id=\"AqB\">Ordered appeal dismissed, and mandate issued forthwith pursuant to stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

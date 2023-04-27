@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"215\" lastpage=\"215\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b373-3\">The State of Ohio, Appellee, <em>v. </em>Luna, Appellant.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b373-4\">[Cite as <em>State v. Luna </em>(1996), 75 Ohio St.3d 215.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b373-6\">(No. 95-2288</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AfA\">Submitted February 6, 1996</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AU4\">Decided March 5, 1996.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b373-10\">\n<em>Michael K. Luna, pro se.</em>\n</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b373-11\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AaM\">We affirm the decision of the court of appeals for the reason stated in its judgment entry.</p>\n<p id=\"b373-12\">\n<em>Judgment affirmed.</em>\n</p>\n<judges id=\"b373-13\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

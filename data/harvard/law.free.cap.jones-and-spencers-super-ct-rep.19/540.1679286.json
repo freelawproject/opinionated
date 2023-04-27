@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"540\" lastpage=\"540\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b558-8\">Amelia Merritt, respondent, <em>v. </em>John H. Merritt, appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b558-9\">Decided March 2, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ApN\">Appeal from order that defendant pay alimony.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Atz\">Edward P. Wilder, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Afb\">Edgar Ketchum, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AADS\">Before Sedgwick, Ch. J., and Truax, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AUh\">Per Curiam.</author>\n<p id=\"AjC\">The facts show that the discretion of the court below was duly exercised. The fact that the plaintiff had means of her own should be considered and have due weight, especially as to the amount, but of itself it does not require that no alimony should be given. Order affirmed, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

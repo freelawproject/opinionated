@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"39\" lastpage=\"40\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b139-29\">No. 10-1502.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"abr-dedup-1\">APP Pharmaceuticals, LLC, Petitioner v. Navinta LLC.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b139-30\">565 U.S. 825, 132 S. Ct. 115,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AHpc\">181 L. Ed. 2d 39,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ad4K\">2011 U.S. LEXIS 5450.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b139-31\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"asn-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied.</p>\n<p id=\"b140-3\"><page-number citation-index=\"1\" label=\"40\">*40</page-number>Same case below, 625 F.3d 1359.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

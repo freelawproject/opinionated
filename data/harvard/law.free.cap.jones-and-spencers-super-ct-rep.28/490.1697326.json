@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"490\" lastpage=\"491\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b514-11\">The New York Life Insurance Co., Respondent <em>v. </em>James Aitkin, as Executor, etc., Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b514-12\">Decided November 10, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AM8\">Appeal from part of order allowing defendant to amend answer terms.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A-df\">Johnston &amp; Johnston, for appellant. H. G. Atwater, <page-number citation-index=\"1\" label=\"491\">*491</page-number>for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AdPt\">Before Sedgwick, Ch. J., Freedman and Dugro, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ALF\">Per Curiam.</author>\n<p id=\"AC-\">Order affirmed, with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

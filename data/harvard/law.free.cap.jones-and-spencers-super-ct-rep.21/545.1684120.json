@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"545\" lastpage=\"545\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b569-5\">Mary T. Barnes, by Guardian, &amp;c., Respondent, <em>v. </em>James R. Keene, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b569-6\">Decided July 2, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A_U\">Appeal from judgment entered on verdict, and from order denying motion for new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AmC\">Shipman, B. L. &amp; C., for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aor\">S. H. Bandall, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A76Q\">Before Sedgwick,.Ch. J., Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AfD\">Opinion by O\u2019Gorman, J. Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

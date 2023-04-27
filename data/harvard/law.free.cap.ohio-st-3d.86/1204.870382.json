@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1204\" lastpage=\"1206\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b760-13\">Toledo Bar Association <em>v. </em>Viren.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b760-14\">[Cite as <em>Toledo Bar Assn. v. Viren </em>(1999), 86 Ohio St.3d 1204.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b760-15\">(No. DD 86-14</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AqE\">Submitted June 9, 1999</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AXP\">Decided June 29, 1999.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b762-9\"><page-number citation-index=\"1\" label=\"1206\">*1206</page-number>For earlier case, see <em>Toledo Bar Assn. v. Viren </em>(1986), 25 Ohio St.3d 200, 25 OBR 264, 496 N.E.2d 243.</p>\n<judges id=\"b762-10\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

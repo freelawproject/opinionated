@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"501\" lastpage=\"501\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b525-4\">Eliza L. Hinschberger, Respondent <em>v. </em>The Manhattan Railway Company, <em>et </em>al., Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b525-5\">Decided March 14, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AVn\">Appeal by defendants from judgment in favor of plaintiff entered upon decision of a judge at special term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A_x\">Davies &amp; Rapallo, attorneys, and Joseph E. Lord of counsel, for appellants. Peck-ham <em>&amp; </em>Tyler, attorneys, and Charles A. B. Pratt, Jr. of counsel, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AZu\">Before Sedgwick, Ch. J., Dugro and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Ahq\">Per Curiam.</author>\n<p id=\"AyZ\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

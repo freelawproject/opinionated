@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"365\" lastpage=\"365\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b465-5\">No. 11-6236.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"akgq-dedup-0\">Antonio Blanchard, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b465-6\">565 U.S. 987, 132 S. Ct. 519,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A0tj\">181 L. Ed. 2d 365,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AID3\">2011 U.S. LEXIS 7818.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b465-7\">October 31, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AuWT\">Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied.</p>\n<p id=\"b465-8\">Same case below, 405 Ill. App. 3d 1195, 375 Ill. Dec. 696, 997 N.E.2d 1007.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

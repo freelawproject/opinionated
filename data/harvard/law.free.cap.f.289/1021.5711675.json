@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1041-9\">HUCK et al. v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AFn\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ayu\">May 16, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Afe\">No. 286.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aq2\">George Wolf, of New York City, for plaintiff in error. William Hayward, U. S. Atty., of New York City (Elmer H. Lemon, Sp. Asst. U. S. Atty., of Middletown, N. Y., of counsel), for the United States.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A3eG\">Before ROGERS, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1041-10\">PER CURIAM.</author>\n<p id=\"AKY\">Judgment affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

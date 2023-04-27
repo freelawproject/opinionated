@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"890\" lastpage=\"891\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b910-13\">No. 121,</docketnumber>\n<p data-order=\"1\" data-type=\"summary\" id=\"Ach\">Mise.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AyvD\">Taylor <em>v. </em>Dennis, Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AWT\"><em>Nesbitt Elmore, Thurgood Marshall, Marian Wynn Perry </em>and <em>Frank D. Reeves </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2Ca\">Motion for leave to file petition for writ of certiorari granted. Petition for writ of certiorari granted.</p>\n<judges id=\"Afo0\">Mr. Justice Black took no part in the consideration or decision of these applications.</judges>\n<attorneys id=\"b911-4\"><page-number citation-index=\"1\" label=\"891\">*891</page-number><em>A. A. Carmichael, </em>Attorney General of Alabama, <em>Bernard F. Sykes </em>and <em>James L. Screws, </em>Assistant Attorneys General, for respondent.</attorneys>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

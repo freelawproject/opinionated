@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"215\" lastpage=\"215\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b315-18\">No. 11-5722.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AbvT\">Edward Harvey Stokes, Petitioner v. Oregon.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b315-19\">565 U.S. 920, 132 S. Ct. 343,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"APML\">181 L. Ed. 2d 215,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AOaV\">2011 U.S. LEXIS 6998.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b315-20\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AyAU\">Petition for writ of certiorari to the Supreme Court of Oregon denied.</p>\n<p id=\"b315-21\">Same case below, 350 Or. 44, 248 P.3d 953.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

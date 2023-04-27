@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"545\" lastpage=\"545\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b569-9\">John Merry, Appellant, <em>v. </em>Evan T. Hoopes, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b569-10\">Decided July 2, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A6DL\">Appeal from judgment at special term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AvU\">George B. Carrington, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AUqA\">Clark &amp; Sanborn, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AJuk\">Before Sedgwick, Ch. J., Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Al7P\">Per Curiam.</author>\n<p id=\"A8G\">Judgment is affirmed with costs, on the opinion of the trial judge.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

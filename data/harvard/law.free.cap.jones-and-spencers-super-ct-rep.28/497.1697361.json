@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"497\" lastpage=\"497\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b521-5\">George Langdon, Plaintiff <em>v. </em>The New York Book Company, Defendant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b521-6\">Decided January 11, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AIl\">Appeal by receiver from order denying motion to vacate order granting John B. Alden leave to sue receiver.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ABH\">Straley, Hasbrouck &amp; Schloeder, attorneys, and Frederic R. Kellogg of counsel, for respondent Alden. Dill, Chandler &amp; Seymour, attorneys for George H. Stonebridge, Jr., the receiver, appellant.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AVm\">Before Freedman, P. J., and Gildersleeve, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AkeR\">Per Curiam.</author>\n<p id=\"AOg\">Order affirmed, with $10 costs\u2019 and disbursements to be paid by the receiver.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

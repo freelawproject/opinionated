@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"583\" lastpage=\"583\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b603-9\">John D. Demarest, Appellant v. William Koch, impleaded, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b603-10\">Decided May 5, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Ajp\">Appeal from a.judgment entered in favor of defendant Koch against plaintiff on the report of a referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aho-\">S. V. R. Cooper, for appellant. Augustus Ford, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"A1B\">Before Truax and Dugro, JJ. The question involved was whether under the provisions of a certain contract, Koch, one of the parties thereto, was liable to third parties as\" a partner with the other party thereto.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"APr\">The Court (Per Curiam)</author>\n<p id=\"Ali\">held he was not, and affirmed the judgment.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

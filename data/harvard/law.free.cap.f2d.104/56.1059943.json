@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"56\" lastpage=\"57\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b112-9\">WENDEL v. HOFFMAN et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b112-10\">No. 7078.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"Alf\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AaV\">May 16, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b112-17\">Thomas L. Zimmerman, Jr., of Ridge-wood, N.J., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b113-4\"><page-number citation-index=\"1\" label=\"57\">*57</page-number>Harry Green, of Newark, N. J., for ap-pellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b113-5\">Before BIGGS and MARIS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b113-6\">PER CURIAM.</author>\n<p id=\"b113-7\">The appeal is dismissed for failure to comply with the provisions of Federal Civil Procedure Rule 73(g), 28 U.S.C.A. following section 723c,</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

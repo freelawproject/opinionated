@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"538\" lastpage=\"538\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b556-7\">Horace W. Barton, respondent, <em>v. </em>Robert Caterson, appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b556-8\">Decided February 2, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Acp\">Appeal by defendant from an order denying his motion for a further bill of particulars.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Avp\">Augustus O. Brown, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ASAi\">Richard S. Newcombe, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A_U\">Before Sedgwick, Oh. J., Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AuY\">Per Curiam.</author>\n<p id=\"AGQ\">As it is not manifest that the court should have used its discretion, otherwise than by denying the motion, the order is affirmed, with $10 costs and disbursements to be taxed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

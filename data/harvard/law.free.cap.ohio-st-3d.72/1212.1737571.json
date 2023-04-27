@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1212\" lastpage=\"1212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b728-3\">In re Resignation of Potts.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b728-4\">[Cite as <em>In re Resignation of Potts </em>(1995), 72 Ohio St.3d 1212.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A19\">(No. 95-660</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AZ5\">Submitted April 18, 1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AxJ_\">Decided April 19, 1995.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b728-6\">The resignation as an attorney of Dominic J. Potts of Steubenville, Ohio, Attorney Registration No., 0029915, is accepted.</p>\n<judges id=\"b728-7\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"222\" lastpage=\"222\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b322-16\">No. 11-5853.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A3RN\">Samuel Freeman, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b322-17\">565 U.S. 923, 132 S. Ct. 352,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ahvn\">181 L. Ed. 2d 222,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AuJp\">2011 U.S. LEXIS 6913.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b322-18\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ahqb-dedup-1\">Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"AoKf\">Same case below, 405 Fed. Appx. 584.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

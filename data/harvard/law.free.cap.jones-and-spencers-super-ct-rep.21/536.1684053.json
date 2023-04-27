@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"536\" lastpage=\"536\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b560-4\">The Oregon &amp; Transcontinental Co. <em>v. </em>Abraham Kuhn, <em>et al.</em></parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b560-5\">Decided January 4, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AVn\">Execeptions by defendants to direction of verdict in favor of plaintiff, ordered to be heard at general term in the first instance.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Adl\">Holmes &amp; Adams, and James C. Carter, for plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AYf\">John E. Parsons, for defendants.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A0n\">Before Sedgwick, Ch. J., Van Vorst and Freedman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGJ\">Opinion</p>\n<author id=\"AKUh\">Per Curiam.</author>\n<p id=\"Amm7\">Exceptions overruled and judgment ordered for plaintiff upon verdict, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

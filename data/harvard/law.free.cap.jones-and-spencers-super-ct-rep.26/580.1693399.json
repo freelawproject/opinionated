@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"580\" lastpage=\"580\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b600-6\">Valentine Hammann, Respondent v. Richard Jordan, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b600-7\">Decided March 4, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AOz\">Appeal from a judgment entered in favor of plaintiff upon a verdict directed by the court.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AJu\">A. Britton Havens, for appellant. Jacob F. Miller, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Axr\">Before Truax and Dugro, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AaTg\">The question involved was whether the evidence did not call for a submission to the jury. The Court (Dugro J., writing, Truax, J,, concurring) held that it did and reversed the judgment.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"815\" lastpage=\"815\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b839-4\">CHARLES LEROY LANE v. STATE OF FLORIDA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b839-5\">21 So. (2nd) 715</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AQf\">January Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b839-6\">April 13, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Aqqn\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b839-8\"><em>W. P. Chavous, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b839-9\"><em>J. Tom Watson, </em>Attorney General, and <em>Sumter Leitner, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b839-10\">PER CURIAM:</author>\n<p id=\"b839-11\">The record and the briefs in this case have been examined and reveal no reversible error.</p>\n<p id=\"b839-12\">Affirmed.</p>\n<judges id=\"b839-13\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

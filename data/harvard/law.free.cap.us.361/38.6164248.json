@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"38\" lastpage=\"38\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b120-3\">SMITH <em>v. </em>UNITED STATES.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b120-5\">No. 27,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"APo\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AoB\">Decided October 26, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b120-7\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b120-8\"><em>Solicitor General Rankin, Assistant Attorney General Wilkey, Beatrice Rosenberg </em>and /. <em>F. Bishop </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b120-9\">Per Curiam.</author>\n<p id=\"b120-10\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for writ of certiorari are granted. The judgment is reversed. <em>Ellis </em>v. <em>United States, </em>356 U. S. 674.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

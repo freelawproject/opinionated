@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1524\" lastpage=\"1524\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b862-13\">MOTION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b862-14\">93-2275.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Af2I\">In re Mansfield Gen. Hosp.</parties>\n<court data-order=\"3\" data-type=\"court\" id=\"Ai9\">\n<em>Franklin County,</em>\n</court>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"Aoqc\">No. 93AP-330.</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMrA\">On motion for leave to file an additional authority. Motion denied.</p>\n<judges id=\"b862-15\">Wright and F.E. Sweeney, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

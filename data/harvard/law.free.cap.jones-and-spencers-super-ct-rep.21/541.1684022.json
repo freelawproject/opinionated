@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"541\" lastpage=\"541\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b565-11\">The Central National Bank of the City of New York, Respondent, <em>v. </em>Leonard D. White, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AXz\">Decided May 3, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AIE\">Appeal from order permitting plaintiff, upon terms, to comply with a certain previous order as to which it was in default.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A_n\">Edwards &amp; Odell, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AP2\">Martin &amp; Smith, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AQj\">Before Sedgwick, Ch. J. and Freedman, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Az2n\">Opinion</p>\n<author id=\"AEA\">Per Curiam.</author>\n<p id=\"A-s\">Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

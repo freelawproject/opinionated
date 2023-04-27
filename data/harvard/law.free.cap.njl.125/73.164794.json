@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"73\" lastpage=\"73\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b123-4\">THE CITY OF CAMDEN, PROSECUTOR, v. LOCAL GOVERNMENT BOARD, DEFENDANT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b123-5\">Submitted May 7th, 1940</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ACR\">Decided July 9, 1940.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b123-7\">Before Justices Case, Donges and Heher.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b123-8\">For the prosecutor, <em>John J. Crean </em>and <em>William, J. Shepp.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b123-9\">For the defendant, <em>David T. Wilentz </em>and <em>John F. Bruther.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b123-10\">Per Curiam.</author>\n<p id=\"b123-11\">An examination of the record on this application for a writ of <em>certiorari </em>discloses that fairly debatable questions are presented, which should receive judicial consideration, and, accordingly, the writ of <em>certiorari </em>is allowed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

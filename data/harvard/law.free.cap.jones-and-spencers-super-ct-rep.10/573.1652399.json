@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"573\" lastpage=\"573\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b581-7\">RUST, Plaintiff <em>v. </em>HAUSELT, <em>et </em>al., Defendants.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b581-8\">Before Sedgwick and Sandford, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b581-9\"><em>Decided February </em>5, 1877.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b581-10\">Motion for leave to amend order of reversal, by inserting a direction for a new trial, agreeably to the decision of the court at general term, the same having been inadvertently omitted.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b581-11\">Motion granted upon terms.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b581-12\">Decision <em>per Curiam.</em></p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

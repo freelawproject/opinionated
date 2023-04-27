@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"440\" lastpage=\"440\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b472-9\">ROXIE L. CALHOUN, et al., v. THE SOMERSET COMPANY, a corporation.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b472-10\">12 So. (2nd) 166</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AcQ\">January Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b472-11\">March 2, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AWf\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b472-13\"><em>Knight &amp; Thompson </em>and <em>Sam Bucklew, </em>for petitioners.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AU-\"><em>Worth, Bivens &amp; Lively, </em>for respondent. \u2022</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b472-14\">PER CURIAM:</author>\n<p id=\"b472-15\">Certiorari denied.</p>\n<judges id=\"b472-16\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

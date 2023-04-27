@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"647\" lastpage=\"647\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b689-4\">SINGER <em>v. </em>MYERS, CORRECTIONAL SUPERINTENDENT.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b689-6\">No. 1485,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ape-\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ay5\">Decided June 17, 1968.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b689-8\"><em>Peter Hearn </em>for petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b689-9\">Per Curiam.</author>\n<p id=\"b689-10\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for a writ of certiorari are granted. The judgment is reversed. <em>Jackson </em>v. <em>Denno, </em>378 U. S. 368, and <em>Roberts </em>v. <em>LaVallee, </em>389 U. S. 40.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

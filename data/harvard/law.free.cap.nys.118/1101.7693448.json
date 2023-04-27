@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1101\" lastpage=\"1101\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1127-8\">CONNOLLY v. CITY OF NEW YORK.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AQF\">(Supreme Court, Appellate Division, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A2pX\">June 11, 1909.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AIVk\">Action by Ellen Connolly against the City of New York.</summary>\n<p data-order=\"4\" data-type=\"summary\" id=\"Ave9\">With this case has been consolidated in this court cases bearing titles as follows: Jas. C. Deering v. City of New York; Gerolamo Danneo v. Same; Frank Danneo v. Same; Herman Fromme v. Same; Henry W. Seabold v. Same.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A6_4\">No opinions. Motions granted, with $10 costs. Orders filed. See, also, 107 N. Y., Supp. 934.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

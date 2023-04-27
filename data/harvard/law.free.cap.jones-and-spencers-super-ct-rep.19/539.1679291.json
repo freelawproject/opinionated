@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"539\" lastpage=\"539\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b557-4\">Jacob Rubino, appellant, <em>v. </em>William L. Scott, respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b557-5\">Decided February 2, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AmB\">Appeal from order denying examination before trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"An8\">James M. Fisk, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ag6\">Thomas G. Shearman, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AFO\">Before Sedgwick, Ch. J., Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AnH\">Per Curiam.</author>\n<p id=\"A5u\">Order affirmed, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

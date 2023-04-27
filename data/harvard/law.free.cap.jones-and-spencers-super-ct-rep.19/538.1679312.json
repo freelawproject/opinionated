@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"538\" lastpage=\"538\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b556-5\">William G. Dominick, <em>et al., </em>respondents, <em>v. </em>C. C. Murphy, appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b556-6\">Decided February 2, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AEE\">Appeal from order referring the action to a referee to hear and determine the issues.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A9L\">Wingate &amp; Cullen, for respondents.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A1V\">D. M. Helm, for appellant.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AvA\">Before Sedgwick, Oh. J., and O\u2019Gorman, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Are\">Opinion by O\u2019Gorman, J. Order affirmed, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

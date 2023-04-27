@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"538\" lastpage=\"538\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b562-12\">Sophie Rosenberg, Respondent, <em>v. </em>Reece M. Oberteufer, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b562-13\">Decided March 1, 1886.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A_L\">Appeal from judgment entered on verdict, and from order denying motion for new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AbB\">Blumenstiel &amp; Hirsh, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ANqZ\">Kurzman &amp; Yea-man, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AMx\">Before Sedgwick, Ch. J., and Truax, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARZD\">Opinion per Curiam. Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
