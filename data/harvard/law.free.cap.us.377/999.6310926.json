@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b933-8\">No. 863,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AW94\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AB7\">Shipp <em>v. </em>California.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AH_\"><em>Vincent Hallinan </em>and <em>Carl B. Shapiro </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A82Z\"><em>Stanley Mosk, </em>Attorney General of California, <em>William E. James, </em>Assistant Attorney General, and <em>Jack E. Goertsen, </em>Deputy Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMJu\">Supreme Court of California. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

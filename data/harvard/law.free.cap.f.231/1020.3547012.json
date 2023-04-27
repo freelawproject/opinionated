@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1034-7\">J. G. WHITE <em>&amp; </em>CO., Inc., v. THOMAS, District Judge.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Axgl\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AcuU\">March 7, 1916.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"A-k\">Before COXE and ROGERS, Circuit Judges, and HOUGH, District Judge.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1034-8\">PER CURIAM.</author>\n<p id=\"AYi\">This court did not direct that a final judgment be entered; it simply directed that such proceedings be had in the District Court in accordance with the decision of this court \u201cas according to right and justice and the laws of the United States ought to be had.\u201d The petition is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

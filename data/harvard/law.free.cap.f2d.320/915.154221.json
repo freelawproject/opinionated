@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b961-41\">NATIONAL LABOR RELATIONS BOARD v. COLONY MATERIALS, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b961-44\">No. 7196.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b961-45\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b961-46\">March 25, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b961-48\">Dominick L. Manoli, Assoc. Gen. Counsel, and Marcel Mallet-Prevost, Asst. Gen. Counsel, N.L.R.B., Washington, D. C., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b961-49\">Leonard L. Pickering, Albuquerque, N. M., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b961-50\">Before MURRAH, Chief Judge, and SETH, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b961-51\">PER CURIAM.</author>\n<p id=\"b961-52\">Dismissed, without prejudice, March 25, 1963, on motion of petitioner.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

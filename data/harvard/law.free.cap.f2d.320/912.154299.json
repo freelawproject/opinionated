@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b958-35\">UNITED STATES of America v. NAVAJO FREIGHT LINES, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b958-37\">No. 7246.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b958-38\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b958-39\">May 28, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b958-41\">Alan S. Rosenthal and Terence N. Doyle, Attys., Dept, of Justice, Washington, D. C., and Arthur L. Fine, Asst. U. S. Atty., Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b958-42\">Barry &amp; Boyle, Denver, Colo., for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b958-43\">Before PICKETT and BREITEN-STEIN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b958-44\">PER CURIAM.</author>\n<p id=\"b958-45\">Appeal dismissed May 28, 1963, pursuant to stipulation of the parties. 186 F.Supp. 377.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"884\" lastpage=\"884\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b984-12\">HALE <em>v. </em>NEW JERSEY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b984-14\">No. 1502,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AVrp\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Am1t\">Decided June 20, 1966.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b984-16\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b984-17\"><em>Arthur J. Sills, </em>Attorney General of New Jersey, <em>Alan B. Handler, </em>First Assistant Attorney General, and <em>Richard A. Koemer, </em>Deputy Attorney General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b984-18\">Per Curiam.</author>\n<p id=\"b984-19\">The motion to dismiss the appeal is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

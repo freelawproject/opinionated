@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"349\" lastpage=\"349\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  CITY OF ROSEVILLE, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  John MUSTA, Jr., Defendant-Appellant,\n  <br/>\n  and\n  <br/>\n  Kim C. Loffredo and First Federal of Michigan, a/k/a Charter One Bank, FSB, Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158977\n  <br/>\n  COA: 338535\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  July 2, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the motion for expedited consideration is GRANTED. The application for leave to appeal the October 16, 2018 judgment of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

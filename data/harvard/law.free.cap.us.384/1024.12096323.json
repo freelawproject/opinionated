@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1024\" lastpage=\"1024\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1122-6\">No. 1151,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A7Cv\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AU7P\">Bell <em>v. </em>Colorado.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A7CB\"><em>Rollie R. Rogers </em>for petitioner. <em>Duke W. Dunbar, </em>Attorney General of Colorado, and <em>James W. Creamer, Jr., </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATt\">Sup. Ct. Colo.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

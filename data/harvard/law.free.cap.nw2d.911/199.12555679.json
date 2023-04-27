@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"199\" lastpage=\"199\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  SUNNYBROOK GOLF, BOWL &amp; MOTEL, INC., Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  CITY OF STERLING HEIGHTS, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157691\n  <br/>\n  COA: 340649\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  May 16, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of plaintiff-appellee to extend the time for filing its answer to the application for leave to appeal is GRANTED. The answer will be accepted as timely filed if submitted on or before July 20, 2018.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

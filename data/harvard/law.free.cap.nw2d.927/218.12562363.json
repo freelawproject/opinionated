@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"218\" lastpage=\"218\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Roosevelt Patterson PETTIFORD, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158027\n  <br/>\n  COA: 343181\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  May 28, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the May 7, 2018 order of the Court of Appeals and the motions to remand are considered. We DIRECT the Wayne County Prosecuting Attorney to answer the application for leave to appeal within 28 days after the date of this order.\n  </p>\n  <p id=\"p-7\">\n   The application for leave to appeal and the motions to remand remain pending.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

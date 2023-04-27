@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b859-12\">May 13, 1964.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b859-14\">No. 1047,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Agt\">Misc.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Axc\">Wilson <em>v. </em>New York.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AgSQ\"><em>Leon B. Polsky </em>for appellant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AsqT\">Appeal from the Court of Appeals of New York. Dismissed pursuant to Rule 60 of the Rules of this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

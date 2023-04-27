@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"831\" lastpage=\"831\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b895-4\">MILLER <em>v. </em>VIRGINIA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b895-6\">No. 196,</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"Aa3b\">Mise.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AXWp\">Decided April 4, 1966.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b895-8\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b895-9\"><em>Reno S. Harp III, </em>Assistant Attorney General of Virginia, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b895-10\">Per Curiam.</author>\n<p id=\"b895-11\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n<judges id=\"b895-12\">Mr. Justice Douglas is of the opinion that in treating the papers as a petition for a writ of certiorari, certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

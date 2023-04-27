@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1\" lastpage=\"1\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Robert F. McDONNELL, Applicant\n  <br/>\n  v.\n  <br/>\n  UNITED STATES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 15A218.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 24, 2015.\n </decisiondate>\n <p id=\"p-5\">\n  ORDER\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   JOHN G. ROBERTS, JR., Chief Justice of the United States.\n  </author>\n  <p id=\"p-7\">\n   UPON CONSIDERATION of the application of counsel for the applicant,\n  </p>\n  <p id=\"p-8\">\n   IT IS ORDERED that a response to the application be filed on or before Wednesday, August 26, 2015, by 4 p.m. It is further ordered that the issuance of the mandate of the United States Court of Appeals for the Fourth Circuit in case No. 15-4019 is hereby stayed pending consideration of the response and further order of the undersigned or of the Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b792-8\">June 4, 1962.<footnotemark>*</footnotemark></decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b792-10\">No.-.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AilX\">In re Shields.</parties>\n<footnote data-order=\"3\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b792-13\">Mr. Justice Frankfurter took no part in the consideration or decision of cases in which orders were this day announced.</p>\n</footnote>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AN7\">Henry R. Shields, Esquire, of New York, New York, having resigned as a member of the Bar of this Court, it is ordered that his name be stricken from the roll of attorneys admitted to practice in this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

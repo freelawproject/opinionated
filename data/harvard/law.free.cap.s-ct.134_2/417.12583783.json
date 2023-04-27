@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"417\" lastpage=\"417\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  ASIA PULP &amp; PAPER COMPANY, LTD., et al.,\n  <br/>\n  v.\n  <br/>\n  JPMORGAN CHASE BANK. N.A., Successor in Interest to the First National Bank of Chicago.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-1502, R46-001.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 9, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"3537727\" index=\"0\" url=\"https://cite.case.law/f3d/707/853/\">\n   707 F.3d 853\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  The petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

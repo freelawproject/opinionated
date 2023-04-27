@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b935-11\">No. 1188,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AEi\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ANB\">Nelson et al. <em>v. </em>New Hampshire.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ABet\"><em>Leo Patrick McGowan </em>and <em>Richard W. Leonard </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ar5_\"><em>William Maynard, </em>Attorney General of New Hampshire, and <em>Alexander J. Kolinski, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATv6\">Supreme Court of New Hampshire. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

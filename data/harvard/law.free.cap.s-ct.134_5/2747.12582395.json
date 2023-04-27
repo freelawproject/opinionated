@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2747\" lastpage=\"2747\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  N.W., petitioner,\n  <br/>\n  v.\n  <br/>\n  MONTANA DEPARTMENT OF PUBLIC HEALTH AND HUMAN SERVICES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-9496.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  June 9, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <em>\n   In re K.L.,\n  </em>\n  <extracted-citation case-ids=\"4041624\" index=\"0\" url=\"https://cite.case.law/mont/373/421/\">\n   373 Mont. 421\n  </extracted-citation>\n  ,\n  <extracted-citation case-ids=\"4041624\" index=\"1\" url=\"https://cite.case.law/mont/373/421/\">\n   318 P.3d 691\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the Supreme Court of Montana denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

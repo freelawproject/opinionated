@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1471\" lastpage=\"1471\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b977-21\">\n<em>Wednesday, May 27, 1992</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b977-22\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b977-23\">91-1354.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AtW\">Sherrills v. State ex rel. State.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOBm\"><em>Cuyahoga County, </em>No. 61604. <em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"b977-24\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

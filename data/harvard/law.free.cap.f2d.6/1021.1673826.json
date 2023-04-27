@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1045-13\">John J. JAKUBIEL, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Ad21\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aff-\">June 1, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AGJ\">No. 366.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aot\">Robert A. Peattie, of New York City (Raymond L. Wise, of New York City, of counsel), for plaintiff in error. Emory R. Buckner, U. S. Atty., of New York City (John M. Cashin, Sp. Asst. U. S. Atty., of New York City, of counsel), for the United States.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AW07\">Before HOUGH, MANTON, and HAND, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1045-14\">PER CURIAM.</author>\n<p id=\"ABy\">Judgment affirmed</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

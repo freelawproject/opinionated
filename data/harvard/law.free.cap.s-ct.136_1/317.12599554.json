@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"317\" lastpage=\"318\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  THE FIRST MARBLEHEAD CORPORATION, et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  MASSACHUSETTS COMMISSIONER OF REVENUE.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14-1422.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 13, 2015.\n </decisiondate>\n <opinion id=\"p-5\">\n  On petition for writ of certiorari to the Supreme Judicial Court of Massachusetts. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Judicial Court of Massachusetts for further consideration in the light of\n  <em>\n   Comptroller of Treasury of Md. v.\n  </em>\n </opinion>\n <p id=\"p-6\">\n  <em>\n   Wynne,\n  </em>\n  576 U.S. ----,\n  <extracted-citation case-ids=\"12589280\" index=\"0\" url=\"https://cite.case.law/s-ct/135/1787/\">\n   135 S.Ct. 1787\n  </extracted-citation>\n  ,\n  <extracted-citation case-ids=\"12589280\" index=\"1\" url=\"https://cite.case.law/s-ct/135/1787/\">\n   191 L.Ed.2d 813\n  </extracted-citation>\n  (2015).\n </p>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

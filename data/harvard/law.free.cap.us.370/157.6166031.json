@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"157\" lastpage=\"157\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b213-14\">HOLDEN <em>v. </em>PIONEER BROADCASTING CO. et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b213-16\">No. 1092,</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"AGe\">Mise.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A4P\">Decided June 4, 1962.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b213-19\"><em>Dale A. Rader </em>and <em>Robert F. Maguire </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AOC\"><em>Clarence J. Young </em>for appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b213-20\">Per Curiam.</author>\n<p id=\"b213-21\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<judges id=\"b213-22\">Mr. Justice Frankfurter took no part in the consideration or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

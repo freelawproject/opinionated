@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AjsV\">ORLANDO PETROLEUM COMPANY v. COMMISSIONER OF INTERNAL REVENUE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aa4\">No. 78.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AyKr\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A75\">Aug. 7, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AxE\">Lillard, Hurd &amp; Eidson, of Topeka, Kan., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ADSP\">C. M. Charest, Gen. Counsel, Bureau of Internal Revenue, of Washington, D. C., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"ALe\">Before LEWIS, PHILLIPS, and McDERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ALV\">PER CURIAM.</author>\n<p id=\"A3l\">Appeal dismissed August 7, 1930, per stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

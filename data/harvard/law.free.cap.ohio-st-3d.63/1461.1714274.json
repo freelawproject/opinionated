@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1461\" lastpage=\"1461\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b967-3\">\n<em>Wednesday, May 13, 1992</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b967-4\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b967-5\">92-427.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AXD_\">State v. Ross.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiKR\"><em>Hamilton County, </em>No. C-910769. On motion to dismiss or for extension of time. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"b967-6\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright and Resnick, JJ., concur.</judges>\n<judges id=\"b967-7\">H. Brown, J., dissents and would grant the motion for extension of time.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

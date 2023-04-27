@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"878\" lastpage=\"878\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b716-10\">No. 192,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AiJW\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ac00\">Cooper et al. <em>v. </em>New York.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AcfL\"><em>Joseph Linde </em>and <em>Nathan Kestnbaum </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AV62\"><em>John J. O\u2019Brien </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AcL\">Court of Appeals of New York. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

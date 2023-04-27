@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"245\" lastpage=\"245\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b275-5\" pgmap=\"275\">William L. O'Connell, Receiver, Appellee, v. Abraham Jacobs et al. Appeal of Abraham Jacobs, Appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b275-7\" pgmap=\"275\">Gen. No. 41,327.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"b275-9\" pgmap=\"275\">Denis E. Suhhvan, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ARH\" pgmap=\"275\">opinion filed November 20, 1940.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AMd\" pgmap=\"275\">Fred Albert, for appellant; Norman C. Barry, for appellee; Harold L. Reeve, Norbert B. Tyrrell and Daniel S. Wentworth, Jr., of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"AVp\" pgmap=\"275\">Opinion by</p> <author id=\"AI_v\" pgmap=\"275\">Justice Burke.</author> <p id=\"A7UZ\" pgmap=\"275\">\u201cNot to be published in full.\u2019\u2019</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

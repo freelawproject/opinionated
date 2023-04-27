@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"460\" lastpage=\"460\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Dorothy HAWTHORNE-BURDINE, a/k/a Dorothy Hawthorne and Dorothy Burdine, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  Hermann BANKS, Elliott Wolf, and Walter John Baker, Defendants-Appellees.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157666\n  <br/>\n  COA: 336756\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  May 23, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the separate motions of defendants-appellees to extend the time for filing their answers to the application for leave to appeal are GRANTED. The answers will be accepted as timely filed if submitted on or before June 7, 2018.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

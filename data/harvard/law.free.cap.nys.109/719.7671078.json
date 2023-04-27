@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"719\" lastpage=\"719\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b747-7\">NEIDLINGER v. STOKES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b747-8\">(Supreme Court, Appellate Division, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"At0A\">January 24, 1908.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b747-9\">Action by George H. Neidlinger against William E. D. Stokes. Judgment for plaintiff. Erom an order denying a new trial, defendant appeals. Affirmed.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b747-10\">Argued before JENKS, HOOKER, RICH, MILLER, and GAYNOR, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b747-11\">Abraham Gruber, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b747-12\">Frank Harvey Field, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b747-13\">PER CURIAM.</author>\n<p id=\"Anf\">Order affirmed, with costs, on the authority of Neidlinger v. Onward Construction Company (decided herewith) 109 N. Y. Supp. 717.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

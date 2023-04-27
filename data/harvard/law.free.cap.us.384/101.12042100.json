@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"101\" lastpage=\"101\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b199-10\">PRENSKY <em>v. </em>GELLER, JUSTICE OF THE SUPREME COURT OF THE STATE OF NEW YORK, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b199-12\">No. 1273,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AtY\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Adr\">Decided April 25, 1966.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b199-14\"><em>Basil R. Pollilt </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b199-15\"><em>Frank S. Hogan </em>for appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b199-16\">Per Curiam.</author>\n<p id=\"b199-17\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

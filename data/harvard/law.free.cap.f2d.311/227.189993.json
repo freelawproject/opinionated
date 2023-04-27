@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"227\" lastpage=\"227\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b307-19\">Ralph W. TAYLOR v. UNITED STATES DISTRICT COURT, DISTRICT OF KANSAS, Topeka, Kansas.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b307-21\">No. 7112.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b307-22\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b307-23\">Sept. 14, 1962.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b307-25\">No representation for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A3U\">Newell A. George, U. S. Atty., and Benjamin E. Franklin, Asst. U. S. Atty., Topeka, Kan., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b307-26\">Before MURRAH, Chief Judge, and PICKETT, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b307-38\">PER CURIAM.</author>\n<p id=\"b307-39\">Motion for writ of mandamus denied September 14, 1962.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1111-10\">No. 162,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A6qq\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AivC\">Bennings <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Amt\"><em>George F. Bason, Jr., </em>for petitioner. <em>Solicitor </em><page-number citation-index=\"1\" label=\"1014\">*1014</page-number><em>General Marshall, Assistant Attorney General Vinson, Beatrice Rosenberg </em>and <em>Ronald L. Gainer </em>for the United States.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ayar\"><page-number citation-index=\"1\" label=\"1013\">*1013</page-number>C. A. D. C. Cir. Motion to strike brief of the United States denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

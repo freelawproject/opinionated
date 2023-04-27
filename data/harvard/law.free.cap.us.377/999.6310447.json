@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b933-5\">No. 1179,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AVXH\">No. 1180,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AASC\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"Aolj\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"Am8d\">Fisher <em>v. </em>United States; and Lindquist <em>v. </em>United States.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Afad\"><em>John S. Connolly </em>for petitioners.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ABju\"><em>Solicitor General Cox, Assistant Attorney General Miller, Beatrice Rosenberg </em>and <em>Ronald L. Gainer </em>for the United States.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A16H\">C. A. 8th Cir. Certiorari denied.</p>\n<p id=\"AcEz\">Reported below: 324 F. 2d 775.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

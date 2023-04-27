@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"718\" lastpage=\"718\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b816-12\">GRAY <em>v. </em>ILLINOIS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b816-14\">No. 1494,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AIWU\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ayln\">Decided June 13, 1966.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b816-16\"><em>Elmer Gertz </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b816-17\"><em>William G. Clark, </em>Attorney General of Illinois, and <em>Richard A. Michael </em>and <em>Philip J. Rock, </em>Assistant Attorneys General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b816-18\">Per Curiam.</author>\n<p id=\"b816-19\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

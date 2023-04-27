@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1401\" lastpage=\"1401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AIs\">\n<em>Friday, September 1, 2000</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AOqb\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AAm\">00-108.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AVM-\">Bennett v. Stanley.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aylr\">Washington App. No. 98CA86. This cause is pending before the court as an appeal from the Court of Appeals for Washington County. Upon consideration of the motion of <em>amicus curiae, </em>Ohio Academy of Trial Lawyers, to participate in oral argument scheduled for October 18, 2000,</p>\n<p id=\"AB2\">IT IS ORDERED by the court that the motion to participate in oral argument be, and hereby is, granted, and the <em>amicus curiae </em>shall share the time allotted to appellants.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

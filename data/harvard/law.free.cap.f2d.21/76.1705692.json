@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"76\" lastpage=\"76\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b106-8\">THE SOUTHERN CROSS. THE SOCONY NO. 4.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b106-10\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AGH\">June 6, 1927.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b106-11\">No. 312.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b106-13\">Before MANTON, L. HAND, and SWAN, Circuit Judges.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b106-14\">Macklin, Brown, Lenahan &amp; Speer, of New York City (Paul Speer, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b106-15\">William E. Purdy, of New York City, for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b106-16\">PER CURIAM.</author>\n<p id=\"Aj8\">Decree (21 E.[2d] 75) affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

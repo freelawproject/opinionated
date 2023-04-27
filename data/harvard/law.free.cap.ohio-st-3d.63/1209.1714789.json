@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1209\" lastpage=\"1209\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b897-11\">In re Resignation of Anderson.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b897-12\">[Cite as <em>In re Resignation of Anderson </em>(1992), 63 Ohio St.3d 1209.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ApF\">(No. 92-176</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ApQt\">Submitted March 17, 1992</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AAs\">Decided April 1, 1992.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b897-13\">The resignation of Delores Joan Anderson as an attorney, Registration No. 0023114, is accepted.</p>\n<judges id=\"b897-14\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

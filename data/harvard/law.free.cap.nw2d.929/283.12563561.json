@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"283\" lastpage=\"284\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  David Ross AMES, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 156077\n  <br/>\n  COA: 337848\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  June 26, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On January 24, 2019, the Court heard oral argument on the application for leave to appeal the May 12, 2017 order of the\n   Court of Appeals. On order of the Court, the application is again considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

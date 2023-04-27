@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"330\" lastpage=\"330\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b384-18\">BODY &amp; TANK CORP., Petitioner, v. NATIONAL LABOR RELATIONS BOARD, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b384-20\">No. 50, Docket 28589.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b384-21\">United States Court of Appeals Second Circuit.</court>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b384-22\">Petition for Rehearing Dec. 16, 1964.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aj7\">Decided April 21, 1965.</decisiondate>\n<p data-order=\"5\" data-type=\"judges\" id=\"b384-24\">Before LUMBARD, Chief Judge, and HAYS and ANDERSON, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b384-25\">PER CURIAM:</author>\n<p id=\"b384-26\">The petition for a rehearing is granted and the previous decision of this Court, 339 F.2d 76 (1964), is withdrawn. Enforcement of the order of the Board is denied and the order is set aside. American Ship Bldg. Co. v. NLRB, 85 S.Ct. 955 (March 29, 1965).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

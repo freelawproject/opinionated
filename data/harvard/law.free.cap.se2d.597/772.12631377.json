@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"772\" lastpage=\"772\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Howard Thomas OGLES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 7P04.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  May 6, 2004.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Brenda S. McLain, Shelby, for Ogles.\n </attorneys>\n <attorneys id=\"p-6\">\n  R. Kirk Randleman, Assistant Attorney General, William C. Young, District Attorney, for State.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed on the 6th day of January 2004 by Defendant in this matter for discretionary review of the decision of the North Carolina Court of Appeals pursuant to G.S. 7A-31, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <blockquote id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 6th day of May 2004.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

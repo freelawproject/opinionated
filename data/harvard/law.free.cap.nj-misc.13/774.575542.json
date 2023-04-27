@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"774\" lastpage=\"774\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b786-3\">JULIA PLASKON SIBERRY, PROSECUTOR, v. NATIONAL SULPHUR COMPANY, DEFENDANT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b786-4\">Argued October 3, 1935</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEm\">Decided October 17, 1935.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b786-6\">Before Brogan, Chief Justice, and Justices Lloyd and Donges.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b786-7\">For the prosecutor, <em>John A. Laird.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b786-8\">For- the defendant, <em>John J. Francis.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b786-9\">Per Curiam.</author>\n<p id=\"b786-10\">The rule to show cause is discharged for the sole reason that the court is of opinion that the statutory appeal to the Court of Common Pleas should be first pursued.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

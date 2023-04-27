@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"800\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State of North Carolina\n  <br/>\n  v.\n  <br/>\n  Thomas Craig Campbell\n </parties>\n <docketnumber id=\"p-2\">\n  No. 252PA14-2\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  June 9, 2016.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Barbara S. Blackman, Assistant Appellate Defender, Hannah H. Love, Assistant Appellate Defender, for Campbell, Thomas Craig.\n </attorneys>\n <attorneys id=\"p-6\">\n  Teresa M. Postell, Assistant Attorney General, Mike Miller, District Attorney, for State of North Carolina.\n </attorneys>\n <p id=\"p-7\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   The State's Petition for Discretionary Review is allowed only as to whether the Court of Appeals erred in invoking Rule 2 of the North Carolina Rules of Appellate Procedure under the circumstances of this case. The State's Petition for Discretionary Review is otherwise denied.\n  </p>\n  <p id=\"p-9\">\n   By order of the Court in Conference, this\n   <em>\n    9th\n   </em>\n   day of\n   <em>\n    June\n   </em>\n   , 2016.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

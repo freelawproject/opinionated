@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1012\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1110-10\">No. 1117,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A_EJ\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AS8d\">Rasheed et al. <em>v. </em>Louisiana.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ACKy\"><em>Robert F. Collins </em>and <em>Nils R. Douglas </em>for peti<page-number citation-index=\"1\" label=\"1013\">*1013</page-number>tioners. <em>Jim, Garrison </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-SY\"><page-number citation-index=\"1\" label=\"1012\">*1012</page-number>Sup. Ct. La.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

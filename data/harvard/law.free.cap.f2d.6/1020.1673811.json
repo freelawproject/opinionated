@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-6\">BEAVER BOARD COMPANIES, Plaintiff, v. James IMBRIE, et al., Defendants, and Madelaine H. West, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ABM\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AWi\">May 4, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AQ4m\">No. 354.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AHT\">Ferris, Shepard, Joyce &amp; McCoy, of New York City (John E. Joyce, of New York City, of counsel), for appellant. Rabenold &amp; Scribner, of New York City (Ralph M. Ketch-am. of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ARXZ\">Before ROGERS, HOUGH, and HAND, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-9\">PER CURIAM.</author>\n<p id=\"AGc\">Order reversed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

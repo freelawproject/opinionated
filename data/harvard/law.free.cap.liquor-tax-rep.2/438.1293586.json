@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"438\" lastpage=\"438\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b456-13\">Supreme Court, Kings Special Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AAD\">January, 1901.</decisiondate>\n<p data-order=\"2\" data-type=\"misc\" id=\"AT1\">Unreported.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b456-14\">People ex rel. David Stevenson Brewing Company, (Barry) <em>v. </em>Henry H. Lyman.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b456-16\"><em>McCrea, Somerville &amp; Taylor, </em>for plaintiff.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b456-17\"><em>P. W. Cullinan, </em>for defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b456-18\">. Dickey, J.</author>\n<p id=\"AZn\">Motion for a peremptory writ of mandamus denied. Relator may have alternative writ if he wishes. Fallert Brewing Co. case is an essentially different case from this.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

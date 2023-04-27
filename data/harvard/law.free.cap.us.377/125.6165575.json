@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"257\" lastpage=\"257\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b191-4\">SANDERS <em>v. </em>ALABAMA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b191-6\">No. 856,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AtME\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aes\">Decided April 20, 1964.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b191-8\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b191-9\"><em>Richmond M. Flowers, </em>Attorney General of Alabama, and <em>David W. Clark, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b191-10\">Per Curiam.</author>\n<p id=\"b191-11\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for writ of certiorari are granted. The judgment is reversed. <em>Gideon </em>v. <em>Wainwright, </em>372 U. S. 335; <em>Draper </em>v. <em>Washington, </em>372 U. S. 487; <em>Douglas </em>v. <em>California, </em>372 U. S. 353.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

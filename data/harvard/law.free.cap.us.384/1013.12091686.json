@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1111-5\">No. 1188,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ATbr\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A2_X\">McClung <em>v. </em>Washington.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A1ne\">Petitioner <em>pro se. James E. Kennedy </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2KS\">Sup. Ct. Wash.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

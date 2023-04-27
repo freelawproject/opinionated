@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1401\" lastpage=\"1401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AHT\">\n<em>Wednesday, September 6, 2000</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AVx\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ANvg\">00-1576.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Atk\">Indus. Energy Users-Ohio v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAk\">In Prohibition. This cause originated in this court on the filing of a complaint for a writ of prohibition.</p>\n<p id=\"Amz\">Upon consideration of relator\u2019s request for immediate issuance of an alternative writ,</p>\n<p id=\"AqUg\">IT IS ORDERED by the court that this cause be, and hereby is, dismissed.</p>\n<judges id=\"AXSp\">Moyer, C.J., Resnick, F.E. Sweeney and Lundberg Stratton, JJ., concur.</judges>\n<judges id=\"Aml\">Douglas, J., dissents and would grant an alternative writ.</judges>\n<judges id=\"AI_\">Pfeifer, J., would deny the request.</judges>\n<judges id=\"AOF\">Cook, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

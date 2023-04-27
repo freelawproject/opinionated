@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AQL\">Morton S. HAWKINS v. T. B. WHITE, Warden.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AAEu\">No. 328.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AOg\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A3p\">Aug. 7, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AgW\">Lee Bond, of Leavenworth, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Acu\">S. M. Brewster, U. S. Atty., of Topeka, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AQ2\">Before LEWIS, PHILLIPS, and McDERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AWeV\">PER CURIAM.</author>\n<p id=\"AEU\">Dismissed August 7, 1930, for lack of merit.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

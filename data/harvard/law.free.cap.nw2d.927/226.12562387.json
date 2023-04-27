@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"226\" lastpage=\"226\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE APPLICATION OF CONSUMERS ENERGY COMPANY TO INCREASE RATES.\n </parties>\n <parties id=\"p-2\">\n  Phil Forner, Appellant,\n  <br/>\n  v.\n  <br/>\n  Michigan Public Service Commission, Appellee,\n  <br/>\n  and\n  <br/>\n  Consumers Energy Company, Petitioner-Appellee.\n </parties>\n <docketnumber id=\"p-3\">\n  SC: 158437\n  <br/>\n  COA: 334276\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  May 28, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Court, the application for leave to appeal the June 21, 2018 judgment of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court. The motion for sanctions and costs is DENIED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b775-5\">No. 3,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AdVM\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Av3R\">Scalf <em>v. </em>Skeen, Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A9bcC\">Petitioner <em>pro se. John G. Fox, </em>Attorney General of West Virginia, and <em>T. D. Kauffelt, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ab4\">Petition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied for the reason that the judgment below is based upon a non-federal ground adequate to support it.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

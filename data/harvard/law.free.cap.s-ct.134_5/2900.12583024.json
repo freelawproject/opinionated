@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2900\" lastpage=\"2900\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Clyde REED, et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  TOWN OF GILBERT, ARIZONA, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-502.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  July 1, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"3537671\" index=\"0\" url=\"https://cite.case.law/f3d/707/1057/\">\n   707 F.3d 1057\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Motion of Professors Ashutosh Bhagwat, et al. for leave to file a brief as\n  <em>\n   amici curiae\n  </em>\n  granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit granted.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

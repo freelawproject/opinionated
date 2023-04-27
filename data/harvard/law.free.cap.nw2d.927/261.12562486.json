@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"261\" lastpage=\"261\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  Edward Michael CZUPRYNSKI, Defendant-Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158416\n  <br/>\n  COA: 336883\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  May 29, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   By order of December 21, 2018, the parties were directed to provide supplemental briefing. On order of the Court, the briefs having been received, the application for leave to appeal the August 2, 2018 judgment of the Court of Appeals is again considered, and it is DENIED, because we are not persuaded that the question presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

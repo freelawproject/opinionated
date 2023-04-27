@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1493\" lastpage=\"1494\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"citation\" id=\"arm-dedup-1\">[Cite as <em>12/24/2002 Case Announcements, </em>2002-0hio-7118.]</p>\n<p data-order=\"1\" data-type=\"court\" id=\"acc-dedup-2\">CASE ANNOUNCEMENTS AND ADMINISTRATIVE ACTIONS</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"axq-dedup-1\">\n<em>December 24, 2002</em>\n</decisiondate>\n<p data-order=\"3\" data-type=\"otherdate\" id=\"ae7-dedup-0\">MEDIATION REFERRALS</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWr\">The following cases have been referred to mediation pursuant to S.Ct.Prac.R. XIV(6):</p>\n<docketnumber id=\"armg-dedup-0\"><page-number citation-index=\"1\" label=\"1494\">*1494</page-number>2002-2061.</docketnumber>\n<parties id=\"AsV5\">State ex rel. Mulholland v. Schweikert.</parties>\n<p id=\"A7_F\">Hamilton App. No. C-020603.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

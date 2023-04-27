@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1447\" lastpage=\"1447\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AuOO\">\n<em>Wednesday, October 25, 2000</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AEG\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Alqy\">00-1544.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AEoV\">AT&amp;T Communications of Ohio, Inc. v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ArOP\">Public Utilities Commission, Nos. 00-127-TP-COI and 83-464-TP-COI. <em>Sua sponte, </em>cause dismissed, the appeal being premature.</p>\n<judges id=\"Anx\">Moyer, C.J., Douglas, F.E. Sweeney, Cook and Lundberg Stratton, JJ., concur.</judges>\n<judges id=\"Aay\">Pfeifer, J., dissents, would deny the stay, and would grant the motion for leave to intervene of Ameritech Ohio.</judges>\n<judges id=\"A8B\">Resnick, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

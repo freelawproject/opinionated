@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1206\" lastpage=\"1206\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b830-8\">In re Resignation of Anderson.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b830-9\">[Cite as <em>In re Resignation of Anderson </em>(1992), 64 Ohio St.3d 1206.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AcO\">(No. 92-1141</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ATO\">Submitted July 8, 1992</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Avt\">Decided July 9, 1992.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b830-10\">The resignation of Mark Edward Anderson, Attorney Registration No. 0020858, is accepted.</p>\n<judges id=\"b830-11\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

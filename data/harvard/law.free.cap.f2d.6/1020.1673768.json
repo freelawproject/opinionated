@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-11\">CENTRAL VERMONT RAILWAY COMPANY, Plaintiff in Error, v. George B. HOWARD, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A35h\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AmF\">April 20, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AuZO\">No. 321.</docketnumber>\n<seealso data-order=\"4\" data-type=\"seealso\" id=\"ARF0\">See, also, 297 F. 566.</seealso>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Aq4\">J. W. Redmond, of Newport, Vt., for plaintiff in error. M. G. Leary, of Burlington, Vt., and H. C. Shurtleff, of Montpelier, Vt., for defendant in error.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"A4JD\">Before ROGERS, MANTON, and HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-12\">PER CURIAM.</author>\n<p id=\"AoV\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

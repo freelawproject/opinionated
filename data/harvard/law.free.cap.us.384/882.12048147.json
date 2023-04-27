@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"882\" lastpage=\"882\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b982-10\">CAVANAUGH <em>v. </em>CALIFORNIA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b982-12\">No. 747,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"ARq7\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AaBG\">Decided June 20, 1966.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b982-14\"><em>Winfield W. Foster </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b982-15\"><em>Thomas C. Lynch, </em>Attorney General of California, <em>Albert W. Harris, Jr., </em>Assistant Attorney General, and <em>Deraid E. Granberg, </em>Deputy Attorney General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b982-16\">Per Curiam.</author>\n<p id=\"b982-17\">The motion to dismiss is granted and the appeal is dismissed as moot.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

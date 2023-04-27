@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AVs\">Meyer HERMANN, etc., v. LYLE, Prohibition Administrator.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ASX7\">No. 6255.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"A9q\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AQfh\">Sept. 15, 1930.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"AbE\">Before DIETRICH and WILBUR, Circuit Judges, and WEBSTER, District Judge.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AUKC\">PER CURIAM.</author>\n<p id=\"AzS9\">Pursuant to stipulation, ordered appeal dismissed; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

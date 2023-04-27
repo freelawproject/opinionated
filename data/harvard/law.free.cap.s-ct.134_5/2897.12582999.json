@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2897\" lastpage=\"2897\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Marvin B. SMITH, III, et ux., petitioners,\n  <br/>\n  v.\n  <br/>\n  COUNTRYWIDE HOME LOANS, INC., et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-8924.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  June 30, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12706209,12706216,12706217,12706218,12581035,12581036,12581037,12581038,12581039,12581040,12706219,12706220\" index=\"0\" url=\"https://cite.case.law/s-ct/134/2141/\">\n   134 S.Ct. 2141\n  </extracted-citation>\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

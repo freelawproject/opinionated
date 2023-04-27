@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"712\" lastpage=\"712\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b782-9\">No. 123,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ApuW\">No. 124,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A2nL\">October Term, 1940.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A4qt\">Moon <em>v. </em>Home Life Insurance Co. of New York; and Moon <em>v. </em>Mutual Health &amp; Accident Assn.</parties>\n<p data-order=\"4\" data-type=\"p\" id=\"AEjI\">October Term, 1940.</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"AyUs\">November 24, 1941.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUcg\">The motion for leave to file a third petition for rehearing is denied. 311 U. S. 728.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

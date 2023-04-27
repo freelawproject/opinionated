@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"114\" lastpage=\"114\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Mashawntay MONTGOMERY, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157779\n  <br/>\n  COA: 341556\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  December 4, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the April 17, 2018 order of the Court of Appeals is considered, and it is DENIED, because the defendant has failed to meet the burden of establishing entitlement to relief under MCR 6.508(D).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

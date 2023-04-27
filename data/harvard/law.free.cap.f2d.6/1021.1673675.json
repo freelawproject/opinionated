@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1045-5\">HIDEMITSU TOYOTA, Defendant, Appellant, v. UNITED STATES, Petitioner, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A9qm\">(Circuit Court of Appeals, First Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ANn\">August 6, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AEn\">No. 1653.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AQ5\">Laurence M. Lombard, of Boston, Mass., for appellant. Laurence Curtis, 2d., Asst. U. S. Atty., of Boston, Mass. (Robert O. Harris, U. S. Atty., of Boston, Mass., on the brief), for the United States.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A8G\">Before BINGHAM, JOHNSON, and ANDERSON, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1045-11\">PER CURIAM.</author>\n<p id=\"Afu\">The decree of the District Court (299 F. 971) is affirmed, in conformance with answers to certified questions. 45 S. Ct. 563, 69 L. Ed. \u2014.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

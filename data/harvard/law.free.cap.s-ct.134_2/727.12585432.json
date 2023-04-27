@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"727\" lastpage=\"727\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In re Wei ZHOU, petitioner.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-10731.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 2, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12702340,12702341,12702918,12702919,12702920,12702921,12702201,12579795,12579796,12579797,12579798,12579799,12579800,12579801\" index=\"0\" url=\"https://cite.case.law/s-ct/134/162/\">\n   134 S.Ct. 162\n  </extracted-citation>\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

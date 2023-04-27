@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"536\" lastpage=\"536\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b470-14\">WILLIAMS <em>v. </em>UNITED STATES et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b470-16\">No. 1022,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A_4\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ADr7\">Decided June 1, 1964.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b470-18\">Per Curiam.</author>\n<p id=\"b470-19\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

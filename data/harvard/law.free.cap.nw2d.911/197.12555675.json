@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"197\" lastpage=\"197\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Joseph WHITE, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  DETROIT EAST COMMUNITY MENTAL HEALTH, Marilyn Snowden, Shirley Calhoun, Doris Sterreh, and Gateway Community Health Provider, Defendants-Appellees.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157683\n  <br/>\n  COA: 340740\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  May 16, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of plaintiff-appellant to waive the statutory filing fees is DENIED. The fee must be paid by June 6, 2018, or the application will be administratively dismissed. MCR 7.317.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

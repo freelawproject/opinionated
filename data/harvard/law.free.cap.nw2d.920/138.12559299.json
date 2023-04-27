@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"138\" lastpage=\"138\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE Parole of Frederick WILKINS\n </parties>\n <parties id=\"p-2\">\n  Monroe County Prosecuting Attorney, Appellee,\n  <br/>\n  v.\n  <br/>\n  Frederick Wilkins, Appellee,\n  <br/>\n  and\n  <br/>\n  Parole Board, Intervenor-Appellant.\n </parties>\n <docketnumber id=\"p-3\">\n  SC: 158396\n  <br/>\n  COA: 344426\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  December 5, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Court, the application for leave to appeal the August 1, 2018 order of the Court of Appeals is considered and, pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we REMAND this case to the Court of Appeals for consideration as on leave granted, and we DIRECT that court to decide this case on an expedited basis.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

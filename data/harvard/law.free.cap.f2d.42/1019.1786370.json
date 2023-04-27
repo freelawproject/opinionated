@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ArG\">OSAGE OIL AND REFINING COMPANY v. CONTINENTAL OIL COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_H\">No. 240.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AZM\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AoB\">June 18, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AOqu\">J. E. Whitehead, of Dallas, Tex., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A2E\">Ray S. Fellows, of Tulsa, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"Ar_\">Before LEWIS, COTTERAL, and McDERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AoBm\">PER CURIAM.</author>\n<p id=\"AYA\">Appeal dismissed June 18, 1930, at appellant\u2019s costs, on motion of appellee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

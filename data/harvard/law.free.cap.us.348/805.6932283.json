@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"805\" lastpage=\"805\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b643-6\">No. 11,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AVi_\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AZD2\">Mississippi <em>v. </em>Louisiana.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AG1\"><em>J. P. Coleman, </em>Attorney General, <em>Gerard H. Brandon </em>and <em>James D. Thames, </em>Special Assistant Attorneys General, and <em>Clarence Clifton, </em>Associate Attorney, for the State of Mississippi, plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AkS\"><em>Fred S. LeBlanc, </em>Attorney General, and <em>John L. Madden, </em>Assistant Attorney General, for the State of Louisiana, defendant. <em>L. Bryan Dabney </em>for Woolgar et al., movants.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUWM\">The motion of Eleanor R. Woolgar and Erma L. Richards for leave to intervene as codefendants is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1432\" lastpage=\"1432\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AFvB\">\n<em>Thursday, October 5, 2000</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ArdV\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AMQM\">00-1420.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AsXS\">Boggs v. Moovies, Inc.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ASNs\">Mahoning App. No. 98CA155. This cause is pending before the court as a discretionary appeal. On September 25, 2000, appellant filed a suggestion of stay upon Chapter 11 bankruptcy. Upon consideration thereof,</p>\n<p id=\"AoP\">IT IS ORDERED by the court that the proceedings in this case be, and hereby are, stayed pending further order of this court.</p>\n<p id=\"AmEc\">IT IS FURTHER ORDERED by the court, <em>sua sponte, </em>that appellants shall file a notice with this court upon the termination of the automatic stay under the Bankruptcy Code.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

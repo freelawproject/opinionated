@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"914\" lastpage=\"914\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b960-29\">Maude Esther LAWTON v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b960-31\">No. 7350.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b960-32\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b960-33\">May 16, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b960-35\">Elisha Scott, Topeka, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b960-36\">Benjamin E. Franklin, Asst. U. S. Atty., Topeka, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b960-37\">Before MURRAH, Chief Judge, and BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b960-38\">PER CURIAM.</author>\n<p id=\"b960-39\">Docketed and dismissed May 16, 1963, on motion of appellee, for failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

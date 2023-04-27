@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"663\" lastpage=\"663\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AmbE\">Deposit Bank of Owensboro <em>v. </em>Daviess County.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AgJ\">No. 150.</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A0R\">No. 669,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"A0jn\">Argued with</p>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"A14\"><em>ante, </em>636, and by the same counsel.</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"Ajt\">Decided April 3, 1899.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A9b\">Mr. Justice White :</author>\n<p id=\"Aa-\">By a written stipulation it is agreed that this cause abide, the result of No. 149, <em>Deposit Bank of Owensboro </em>v. <em>Owensboro. </em>The decree in that case having been affirmed, the same result is therefore . necessary in this, and accordingly the decree of the Court of Appeals of Kentucky in this case is also</p>\n<p id=\"b689-5\">\n<em>Affirmed.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

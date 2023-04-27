@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1068-38\">SHELL PETROLEUM CORPORATION et al. v. SUN OIL COMPANY et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1068-39\">No. 1522.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1068-40\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1068-41\">Jan. 15, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1068-43\">Hervey, Dow, Hill &amp; Hinkle, of Roswell, N. M., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1068-44\">Hurd &amp; Crile, of Roswell, N. M., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1068-45\">Before LEWIS, PHILLIPS, and BRATTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1068-46\">PER CURIAM.</author>\n<p id=\"b1068-47\">Appeal dismissed on stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

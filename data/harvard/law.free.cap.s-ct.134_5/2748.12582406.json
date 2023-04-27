@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2748\" lastpage=\"2748\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Fred T. CALDWELL, petitioner,\n  <br/>\n  v.\n  <br/>\n  Perry PHELPS, Warden, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-9135.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  June 9, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12580480,12580481,12580482,12580483,12705805,12705806,12705807,12705808,12705809,12705660,12580478,12580479\" index=\"0\" url=\"https://cite.case.law/s-ct/134/1904/\">\n   134 S.Ct. 1904\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

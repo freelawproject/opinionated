@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1444\" lastpage=\"1444\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b950-23\">\n<em>Wednesday, April 22, 1992</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b950-24\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b950-25\">91-307.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ar4\">State, ex rel. Ball, v. Cleary.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AieX\">In Habeas Corpus. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"b950-26\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

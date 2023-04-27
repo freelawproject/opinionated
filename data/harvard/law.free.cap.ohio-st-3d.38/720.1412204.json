@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"720\" lastpage=\"720\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"A5Z\">MOTION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A3R\">88-1434.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A0EI\">Walden v. State.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aad\"><em>Franklin County, </em>No. 87AP-1026. On motion to consolidate with 88-1440, <em>Walden </em>v. <em>State, </em>Franklin County No. 87AP-1026. Motion denied.</p>\n<judges id=\"AfA\">Moyer, C.J., Locher and Holmes, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

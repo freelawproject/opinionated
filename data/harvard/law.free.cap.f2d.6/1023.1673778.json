@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1047-8\">UNITED STATES SHIPPING BOARD EMERGENCY FLEET CORPORATION and Clyde Steamship Company, Plaintiffs in Error, v. John V. HART, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AdzF\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AcE\">March 16, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AtCy\">No. 224.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A-k\">Ralph C. Greene, U. S. Atty., of Brooklyn, N. Y. (Joseph M. Dreyer, of New York City, of counsel), for plaintiffs in error. Arthur Lavenburg, of New York City, for defendant in error.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Aa4G\">Before HOUGH, MANTON, and HAND, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1047-9\">PER CURIAM.</author>\n<p id=\"AjB6\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

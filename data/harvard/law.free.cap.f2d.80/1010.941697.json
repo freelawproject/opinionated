@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1042-38\">Arthur H. ENSMINGER, Appellant, v. LEHIGH VALLEY RAILROAD CO., Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1042-39\">No. 215.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1042-40\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1042-41\">Jan. 6, 1936.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1042-43\">Thomas J. O\u2019Neill, of New York City (Archie E. Latt\u00f3, of New York City, of counsel), for appellant\u2019.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1042-44\">Alexander &amp; Green, of New York City (H. S. Ogden, of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1042-45\">Before L. HAND, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1042-46\">PER CURIAM.</author>\n<p id=\"b1042-47\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

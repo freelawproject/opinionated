@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"260\" lastpage=\"260\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Ricky TURNER\n  <br/>\n  v.\n  <br/>\n  CHERRY HOSPITAL\n </parties>\n <docketnumber id=\"p-2\">\n  No. 403P16\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  October 31, 2016\n </decisiondate>\n <attorneys id=\"p-5\">\n  Ricky Turner, for Turner, Ricky.\n </attorneys>\n <p id=\"p-6\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Upon consideration of the application filed by Petitioner on the 26th of October 2016 in this matter for Writ of Habeas Corpus, the following order was entered and is hereby certified to the Superior Court, Wayne County:\n  </p>\n  <p id=\"p-8\">\n   \"Denied by order of the Court in conference, this the 31st of October 2016.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

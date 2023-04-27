@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"984\" lastpage=\"984\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b918-6\">No. 1322,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AteU\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Au-\">Johnson et al. <em>v. </em>Yeager, Prison Keeper.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"APWi\"><em>Curtis B. Reitz, Stanford Shmukler </em>and <em>M. Gene Haeberle </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AGPz\"><em>Norman Heine </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiyF\">C. A. 3d Cir. Certiorari denied.</p>\n<judges id=\"AYIh\">Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

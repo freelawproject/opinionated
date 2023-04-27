@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1042-15\">Samuel LEFKOWITZ, Plaintiff In Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1042-16\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ai0-dedup-0\">November 12, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1042-17\">No. 142.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1042-19\">Samuel N. Ostroll, of New York City, for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1042-20\">William A. De Groot, U. S. Atty., of Brooklyn (Herbert H. Kellogg, Asst. U. S. Atty., of Brooklyn, N. Y., of counsel), for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1042-21\">Before L. HAND, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1042-41\">PER CURIAM.</author>\n<p id=\"aloz-dedup-0\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

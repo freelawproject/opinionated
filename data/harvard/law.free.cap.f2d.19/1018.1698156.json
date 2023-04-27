@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1046-24\">J. P. DEVINE COMPANY, Plaintiff in Error, v. BISHOPRIC &amp; LENT COMPANY, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1046-25\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"aoc-dedup-0\">May 2, 1927.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1046-26\">No. 299.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1046-28\">Kenefick, Cooke, Mitchell &amp; Bass, of Buffalo, N. Y. (Lyman M. Bass, of Buffalo, N. Y., of counsel), for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1046-29\">Williams <em>&amp; </em>Williams, of Buffalo, N. Y., for defendant in error.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1046-30\">Before MANTON and SWAN, Circuit Judges, and CAMPBELL, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1046-31\">PER CURIAM.</author>\n<p id=\"AHGT\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

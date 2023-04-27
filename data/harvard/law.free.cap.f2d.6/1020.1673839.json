@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-17\">Frank D\u2019ALBA, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A5Bo\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQs\">June 1, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AzHO\">No. 378.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Af4\">M. T. Abruzzo and John C. Judge, both of Brooklyn, N. Y., for plaintiff in error. Ralph C. Greene, U. S. Atty., of Brooklyn, N. Y. (William A. De Groot, Asst. U. S. Atty., of Brooklyn, N. Y., of counsel), for the United States.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AWO\">Before HOUGH, MANTON, and HAND, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-20\">PER CURIAM.</author>\n<p id=\"AAag\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

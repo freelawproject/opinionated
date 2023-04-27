@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1214\" lastpage=\"1214\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b838-4\">In re Resignation of Iafelice.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b838-5\">[Cite as <em>In re Resignation of Iafelice </em>(1992), 64 Ohio St.3d 1214.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b838-6\">(No. 92-1365</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AdFs\">Submitted July 29, 1992</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AoBO\">Decided July 30, 1992.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b838-7\">The resignation of Sharon L. Iafelice, a.k.a. Sharon Simmons Iafelice, as an attorney, Registration No. 0040236, is accepted.</p>\n<judges id=\"b838-8\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

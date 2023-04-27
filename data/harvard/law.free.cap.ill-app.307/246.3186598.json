@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"246\" lastpage=\"246\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b276-4\" pgmap=\"276\">Bernice Grossman, Appellee, v. Herman Grossman, Appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b276-6\" pgmap=\"276\">Gen. No. 41,366.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"b276-8\" pgmap=\"276\">Denis E. Sullivan, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AcL\" pgmap=\"276\">opinion filed November 20, 1940.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AB8A\" pgmap=\"276\">Samuel Shamberg and Russell J. Topper, for appellant; Russell J. Topper, of counsel; Turner &amp; Turner, for appellee; Maurice Turner, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"A-e\" pgmap=\"276\">Opinion by</p> <author id=\"AUT\" pgmap=\"276\">Justice Burke.</author> <p id=\"AgRd\" pgmap=\"276\">\u201cNot to be published, in full.\u201d</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"368\" lastpage=\"368\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b432-4\">Guy T. HELVERING, Commissioner of Internal Revenue, Petitioner, v. Herbert ABRAHAM, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b432-5\">No. 62.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b432-6\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b432-7\">Nov. 18, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b432-9\">L. W. Post, Sp. Asst, to Atty. Gen., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b432-10\">Milton J. Levitt, of New York City, for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b432-11\">Before L. HAND, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b432-12\">PER CURIAM.</author>\n<p id=\"b432-13\">Order reversed on authority of Helvering v. Clifford, 309 U.S. 331, 60 S.Ct. 554, 84 L.Ed. 788.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

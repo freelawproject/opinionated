@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b443-10\">Columbus Bar Association <em>v. </em>Haytcher.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b443-11\">[Cite as Columbus Bar Assn. <em>v. </em>Haytcher (1988), 38 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b443-12\">(No. D.D. 88-7</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A2f\">Submitted July 27, 1988</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AkO\">Decided August 24, 1988.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b443-14\">Paul J. Haytcher is publicly reprimanded.</p>\n<judges id=\"b443-15\">Moyer, C.J., Sweeney, Locher,</judges>\n<judges id=\"Agn\">Holmes, Douglas and H. Brown, JJ., concur.</judges>\n<judges id=\"b443-16\">Wright, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

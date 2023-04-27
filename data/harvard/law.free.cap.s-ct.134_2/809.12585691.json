@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  BROADCOM CORPORATION, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES DISTRICT COURT OF the EASTERN DISTRICT OF TEXAS, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-1475.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 9, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=526%20Fed.%20Appx.%20960\">\n   526 Fed.Appx. 960\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  On petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of\n  <em>\n   Atlantic Marine Constr. Co. v. United States Dist. Court for Western Dist. of Tex.,\n  </em>\n  571 U.S. ---- (2013).\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

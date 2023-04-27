@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b752-7\">No. 8,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AeWR\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AWGq\">Bigness <em>v. </em>Nevada.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ar74\"><em>F. Morgan Anglim </em>for petitioner. <em>W. T. Mathews, </em>Attorney General of Nevada, <em>Geo. P. Annand, William N. Dunseath, John W. Barrett, </em>Deputy Attorneys General, and <em>Alan Bible </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AV9jg\">Supreme Court of Nevada. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

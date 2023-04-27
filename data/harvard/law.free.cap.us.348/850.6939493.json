@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"850\" lastpage=\"850\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b688-6\">No. 2,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AclO\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ANEd\">Cato <em>v. </em>California.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AWB\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AxsU\"><em>Edmund G. Brown, </em>Attorney General of California, <em>Clarence A. Linn, </em>Chief Assistant Attorney General, and <em>Arlo E. Smith, </em>Deputy Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHgz\">Supreme Court of California. Petition for writ of certiorari denied without prejudice to the petitioner's rights under the facts alleged to prosecute an appeal in the California state courts in accordance with principles announced in <em>People </em>v. <em>Slobodion, </em>30 Cal. 2d 362, 181 P. 2d 868.</p>\n<judges id=\"Ao\">The Chief Justice took no part in the consideration or decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

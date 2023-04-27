@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"701\" lastpage=\"701\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AKQ\">Thursday, July 7, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AQWN\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A2r\">88-650.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AYk2\">Parma v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AEp\">Appeal from the Public Utilities Commission of Ohio, No. 87-31-GAGCR. On joint motion for stay. Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

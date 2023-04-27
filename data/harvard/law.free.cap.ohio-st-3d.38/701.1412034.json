@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"701\" lastpage=\"701\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A7D\">Wednesday, July 13, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Aqx\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AAft\">86-1707.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AGt\">Wilmington Green v. Clinton Cty. Bd. of Revision.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGj\">Appeal from the Board of Tax Appeals, Nos. 84-A-874, 85-F-611, 84-A-875 and 85-B-612. On joint motion for remand. Motion granted.</p>\n<judges id=\"AT3\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

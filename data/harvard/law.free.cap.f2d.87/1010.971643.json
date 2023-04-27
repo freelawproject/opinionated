@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1062-24\">Buell McKEEVER and Harriett McKeever v. COMMISSIONER OF INTERNAL REVENUE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1062-26\">No. 6068.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1062-27\">Circuit Court of Appeals, Seventh Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1062-28\">Oct. 29, 1936.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1062-30\">Before EVANS and SPARKS, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1062-31\">PER CURIAM.</author>\n<p id=\"b1062-32\">On motion of counsel for respondent, counsel for petitioner consenting thereto, it is now here ordered, and adjudged that this cause be docketed in this court and that the petition for a review of the decision of the United States Board of Tax Appeals entered on December <em>28, </em>1934, be, and the same is hereby, dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

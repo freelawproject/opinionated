@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"913\" lastpage=\"914\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b777-12\">December 14, 1953.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b777-14\">No. 5,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AoxB\">Original, October Term, 1950.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AMKs\">New Jersey <em>v. </em>New York et al.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQL\">The applications of New Jersey and Pennsylvania for an extension of time within which to answer the amended petition of the City of New York are <page-number citation-index=\"1\" label=\"914\">*914</page-number>granted and the time is extended to and including December 31, next.</p>\n<attorneys id=\"A6Ty\"><em>Kenneth H. Murray, </em>Deputy Attorney General, for the State of New Jersey. <em>Frank F. Truscott, </em>Attorney General, and <em>William A. Schnader </em>for the State of Pennsylvania.</attorneys>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

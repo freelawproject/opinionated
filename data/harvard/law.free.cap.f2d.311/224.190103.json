@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"224\" lastpage=\"224\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AR1\">KERR-McGEE OIL INDUSTRIES, INC., v. FEDERAL POWER COMMISSION.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ASB\">Nos. 7016, 7017.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b304-36\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b304-37\">Sept. 5, 1962.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b304-39\">Jack T. Conn, Ada, Okl., and Lynn Adams, Oklahoma City, Okl., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b304-40\">Richard A. Solomon, General Counsel, and Howard E. Wahrenbrock, Solicitor, Federal Power Commission, Washington, D. C., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b304-41\">Before PICKETT, LEWIS and HILL, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b304-42\">PER CURIAM.</author>\n<p id=\"b304-43\">Petitions to review dismissed September 5, 1962, on motions of petitioner.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

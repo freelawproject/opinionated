@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"247\" lastpage=\"247\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b259-3\">HOLD-MEREDITH COMPANY, A BODY CORPORATE, PROSECUTOR, v. REGINALD PARNELL, TAX RECEIVER AND DIRECTOR OF THE DEPARTMENT OF REVENUE AND FINANCE OF THE CITY OF NEWARK, DEFENDANT.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b259-4\">Decided February 15, 1935.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b259-6\">Before Justices Trenchard, TTetter and Perskie.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b259-7\">Por the prosecutor, <em>Harry Kaplan.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b259-8\">Por the defendant, <em>Frank A. Boettner.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b259-9\">Per Curiam.</author>\n<p id=\"b259-10\">We have reached the conclusion that the prosecutor is not, in the circumstances here presented, entitled to a <em>certiorari, </em>and the application will therefore be denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

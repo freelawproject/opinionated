@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"65\" lastpage=\"65\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ACW\">Richard EATON, Appellant, v. Lila A. EATON, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ANc\">No. 1392.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"Agk\">District Court of Appeal of Florida. Fourth District.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A6i\">Sept. 21, 1967.</decisiondate>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"AbV\">Rehearing Denied Oct. 24, 1967.</otherdate>\n<p data-order=\"5\" data-type=\"otherdate\" id=\"A69\">Rehearing Denied Oct. 24, 1967.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AYS\">PER CURIAM.</author>\n<p id=\"AX-\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"867\" lastpage=\"867\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b705-7\">No. 193,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ASpq\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A3jr\">Marron <em>v. </em>Ragen, Warden.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKW\">Appeal from the United States Court of Appeals for the Seventh Circuit.</p>\n<author id=\"Anbt\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AUOq\">The appeal is dismissed for the want of jurisdiction. 28 U. S. C. \u00a7 1254 (2).<footnotemark>*</footnotemark></p>\n<footnote label=\"*\">\n<p id=\"b705-8\">As amended by order entered December 6, 1954, <em>post, </em>p. 893.</p>\n</footnote>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

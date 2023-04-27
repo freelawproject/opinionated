@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"666\" lastpage=\"666\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<citation data-order=\"0\" data-type=\"citation\" id=\"b692-12\">165 A.3d 467</citation>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AR6\">NIVENS, Stephen v. STATE of Maryland</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AHG\">Pet. Docket No. 120,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"A_06\">Sept. Term, 2017</p>\n<court data-order=\"4\" data-type=\"court\" id=\"AXU\">Court of Appeals of Maryland.</court>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b692-14\">July 28, 2017</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b692-15\">Dismissed by the Court of Special Appeals (No. 2197, Sept. Term, 2016).</p>\n<p id=\"b692-16\">Petition for writ of certiorari denied</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

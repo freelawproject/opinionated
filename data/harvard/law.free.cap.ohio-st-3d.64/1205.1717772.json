@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1205\" lastpage=\"1205\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b829-14\">In re Resignation of Miller.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b829-15\">[Cite as <em>In re Resignation of Miller </em>(1992), 64 Ohio St.3d 1205.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b829-16\">(No. 92-1082</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AN4\">Submitted June 17, 1992</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A-KT\">Decided June 24, 1992.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b829-17\">The resignation of Otto Miller III as an attorney, Registration No. 0003636, is accepted.</p>\n<judges id=\"b829-18\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

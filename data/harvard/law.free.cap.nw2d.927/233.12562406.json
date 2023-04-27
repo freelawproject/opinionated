@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"233\" lastpage=\"233\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE POLK REVOCABLE TRUST.\n </parties>\n <parties id=\"p-2\">\n  Arlene Edmonds and C. Timothy Polk, Other Parties,\n  <br/>\n  and\n  <br/>\n  Audrey Polk Appellee,\n  <br/>\n  v.\n  <br/>\n  Bridget Prybula, a/k/a Bridget Polk, Appellant.\n </parties>\n <docketnumber id=\"p-3\">\n  SC: 158913\n  <br/>\n  COA: 344601\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  May 28, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Court, the application for leave to appeal the November 26, 2018 order of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

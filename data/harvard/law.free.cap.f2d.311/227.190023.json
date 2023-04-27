@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"227\" lastpage=\"228\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b307-41\">WESTINGHOUSE ELECTRIC CORPORATION, General Electric Company and Allis-Chalmers Manufacturing Company, v. The JUDGES OF THE UNITED STATES DISTRICT COURT, District of Utah, Central Division.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b307-44\">No. 7067.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b307-45\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b307-46\">Dec. 12, 1962.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b307-48\">Calvin A. Behle, Peter W. Billings and Dennis McCarthy, Salt Lake City, Utah, for petitioners.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b308-3\"><page-number citation-index=\"1\" label=\"228\">*228</page-number>Before MURRAH, Chief Judge, and PICKETT and BREITENSTEIN, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b308-4\">PER CURIAM.</author>\n<p id=\"b308-5\">Dismissed December 12, 1962, on motion of petitioners.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

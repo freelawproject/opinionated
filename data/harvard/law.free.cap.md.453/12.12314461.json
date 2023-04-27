@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"12\" lastpage=\"12\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<citation data-order=\"0\" data-type=\"citation\" id=\"b42-14\">160 A.3d 548</citation>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AC\">COLEMAN v. WARDS</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b42-17\">Pet. Docket No. 7,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"AUK\">Sept. Term, 2017</p>\n<court data-order=\"4\" data-type=\"court\" id=\"b42-18\">Court of Appeals of Maryland.</court>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b42-19\">May 22, 2017</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b42-20\">Opinion of the Court of Special Appeals unreported (No. 2675, Sept. Term, 2014).</p>\n<p id=\"b42-21\">Petition for writ of certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

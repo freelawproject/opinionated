@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b726-9\">No. 174,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A-Vt\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A7AZ\">Brown <em>v. </em>Texas.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aopz\"><em>Maury Hughes </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AMbq\"><em>John Ben Shepperd, </em>Attorney General of Texas, and <em>Rudy G. Rice, Frank Pinedo </em>and <em>Katherine W. Conti, </em>Assistant Attorneys General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZKu\">Court of Criminal Appeals of Texas. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

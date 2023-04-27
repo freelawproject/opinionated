@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"290\" lastpage=\"290\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b346-12\">PATSKAN <em>v. </em>BUCHKOE, WARDEN, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b346-14\">No. 1262,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A6R\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aj7\">Decided June 18, 1962.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b346-17\">Per Curiam.</author>\n<p id=\"b346-18\">The appeal is dismissed.</p>\n<judges id=\"b346-19\">Mr. Justice Frankfurter took no part in the consideration or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

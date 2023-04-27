@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"452\" lastpage=\"452\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b470-9\">Supreme Court, Kings Special Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Ati\">February, 1901.</decisiondate>\n<p data-order=\"2\" data-type=\"misc\" id=\"ASP\">Unreported.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b470-10\">In the Matter of the Application of Benjamin W. Wilson to Revoke the Liquor Tax Certificate of Leon Geisman.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b470-11\">Gaynor, J.:</author>\n<p id=\"ASqS\">The mere fact that the boys were allowed to meet in a school building at night at a sort of club or association to keep them off the street does not enable us to say that the building is not used exclusively for school purposes.</p>\n<p id=\"b470-12\">Application granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

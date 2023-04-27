@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"918\" lastpage=\"918\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Agtf\">Mark VAUGHN v. McKISSICK PRODUCTS CORPORATION et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"agc-dedup-1\">No. 7340.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"APm\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AeQq\">May 15, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A5t\">Willard F. Kitts, Albuquerque, N. M., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Advv\">Jackson G. Akin, Albuquerque, N. M., and Hall <em>&amp; </em>Sublett, Tulsa, Okl., for ap-pellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"A23\">Before MURRAH, Chief Judge, and LEWIS, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"aub-dedup-0\">PER CURIAM.</author>\n<p id=\"AhEM\">Appeal dismissed May 15, 1963, pursuant to stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"610\" lastpage=\"610\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b276-10\">Toledo Bar Association <em>v. </em>Gatwood.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b276-11\">[Cite as Toledo Bar Assn. <em>v. </em>Gatwood (1988), 36 Ohio St. 3d 610.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b276-12\">(D.D. No. 88-5</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AuN\">Decided April 13, 1988.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b276-14\">David W. Gatwood is publicly reprimanded.</p>\n<judges id=\"AtKn\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

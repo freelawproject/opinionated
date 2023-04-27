@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b934-8\">No. 1088,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AbIE\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AMk7\">Randazzo et al. <em>v. </em>California.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AFIV\"><em>A. L. Wirin </em>and <em>Fred Ok-rand </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AFZ\"><em>Roger Arnebergh, Philip E. Grey </em>and <em>Wm. E. Doran </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUWqd\">District Court of Appeal of California, Second Appellate District. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

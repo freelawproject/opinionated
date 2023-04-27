@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"567\" lastpage=\"567\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b599-8\">PEOPLE ex rel. HECHT v. COX, Town Clerk, et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b599-9\">(Supreme Court, Appellate Division, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A2_\">October 26, 1915.)</decisiondate>\n<summary data-order=\"3\" data-type=\"misc\" id=\"b599-10\">Appeal from Special Term, Westchester County.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b599-11\">Petition for mandamus by Charles Hecht against George K. Cox, Town Clerk of the Town of White Plains, and others. From an order denying the writ, ho appeals. Affirmed.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b599-12\">Argued before JENKS, P. J., and CARR, STAPLETON, MILLS, and PUTNAM, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b599-13\">PER CURIAM.</author>\n<p id=\"APye\">Order affirmed, with $10 costs and disbursements, <em>on the </em>authority of People ex rel. Haight v. Brown, 155 N. Y. Supp. 564, decided herewith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

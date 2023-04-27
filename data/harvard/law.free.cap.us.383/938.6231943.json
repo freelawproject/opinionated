@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"938\" lastpage=\"938\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b938-4\">No. 555,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AFz\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ag3\">Thomas <em>v. </em>Florida.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AFi\">Petitioner <em>pro se. Earl Faircloth, </em>Attorney General of Florida, and <em>John S. Burton, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AK_L\">Sup. Ct. Fla. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

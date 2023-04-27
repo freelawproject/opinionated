@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"400\" lastpage=\"400\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b462-11\">UNITED STATES of America, Plaintiff-Appellee, v. Theodore DOWNING, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b462-12\">No. 384.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b462-13\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b462-14\">June 7, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b462-16\">Fred D. Kaplan, of New York City (Jacob W. Friedman, of New York City, of counsel) for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b462-17\">John T. Cahill, U. S. Atty., of New York City (W. R. Mansfield, Asst. U. S. Atty., of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b462-18\">Before SWAN, AUGUSTUS N. HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b462-20\">PER CURIAM.</author>\n<p id=\"b462-21\">Judgment reversed in open Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

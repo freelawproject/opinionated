@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1\" lastpage=\"1\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  FIBROGEN, INC., Applicant\n  <br/>\n  v.\n  <br/>\n  AKEBIA THERAPEUTICS, INC.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 15A252.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 31, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  William M. Jay, Goodwin Procter LLP, Washington, DC, for Petitioner.\n </attorneys>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   ANTHONY M. KENNEDY, Associate Justice of the Supreme Court of the United States.\n  </author>\n  <p id=\"p-8\">\n   UPON CONSIDERATION of the application of counsel for the applicant,\n  </p>\n  <p id=\"p-9\">\n   IT IS ORDERED that the order of the United States District Court for the Northern District of California granting discovery is stayed pending further order of the undersigned or of the Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

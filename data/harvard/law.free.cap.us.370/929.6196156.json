@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"929\" lastpage=\"929\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b815-8\">June 25, 1962.<footnotemark>*</footnotemark></decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b815-10\">No. 13,</docketnumber>\n<p data-order=\"2\" data-type=\"docketnumber\" id=\"Ax46\">Original.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AI1\">Texas <em>v. </em>New Jersey et al.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b815-11\">Mr. Justice FRANKFURTER took no part in the consideration or decision of cases in which orders were this day announced.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AeF\">In the light of the concessions that no State will proceed with any action, other than- discovery proceedings, the motion for temporary injunctions is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"28\" lastpage=\"28\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  RJR NABISCO INC., et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  The EUROPEAN COMMUNITY, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 15-138.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 1, 2015.\n </decisiondate>\n <opinion id=\"p-5\">\n  Motion of Washington Legal Foundation for leave to file a brief as\n  <em>\n   amicus curiae\n  </em>\n  granted. Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit granted.\n </opinion>\n <opinion id=\"p-6\">\n  Justice SOTOMAYOR took no part in the consideration or decision of this motion and this petition.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

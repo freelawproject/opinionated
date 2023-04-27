@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1071-27\">The UNITED STATES v. Harvey E. MEREDITH.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1071-28\">No. 5813.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1071-29\">Circuit Court of Appeals, Seventh Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AlZ\">Oct. 21, 1936.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1071-31\">James R. Fleming, of Fort Wayne, Ind., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1071-32\">Floyd O. Jellison and Lewis J. Murphy, both of South Bend, Ind., for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1071-33\">Before EVANS and SPARKS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Aztv\">PER CURIAM.</author>\n<p id=\"b1071-35\">On motion of counsel for appellant, counsel for appellee consenting thereto, it is now here ordered and adjudged by this court that this appeal be, and the same is hereby, dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

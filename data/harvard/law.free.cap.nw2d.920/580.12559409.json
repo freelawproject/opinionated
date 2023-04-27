@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"580\" lastpage=\"580\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <attorneys id=\"p-1\">\n  Troy WILLIAMS, Allesha Morris, Jose Mireles, Kim Hopkins, Josh Lafave, Ryan Ebbinghaus, Mamuda Cham, Kyle Smith, and Craig Walsh, Plaintiffs-Appellants,\n  <br/>\n  v.\n  <br/>\n  CITY OF EAST LANSING, Wayne Beede, Todd Sneathen, and Cathryn Garnham, Defendants-Appellees.\n </attorneys>\n <docketnumber id=\"p-2\">\n  SC: 158109, SC: 158110\n  <br/>\n  COA: 335467, COA: 335662\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  December 21, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the stipulation to dismiss plaintiff Allesha Morris is GRANTED. The application for leave to appeal the June 26, 2018 judgment of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the question presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

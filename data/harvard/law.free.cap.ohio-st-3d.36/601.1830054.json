@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b267-3\">In re Resignation of Welly.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b267-4\">[Cite as In re Resignation of Welly (1988), 36 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b267-5\">(D.R. No. 88-3</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AHNd\">Decided March 23, 1988.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b267-6\">The resignation of Robert H. Weily as an attorney is accepted.</p>\n<judges id=\"AUs\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

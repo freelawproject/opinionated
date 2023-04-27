@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"982\" lastpage=\"982\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b1080-8\">June 13, 1966.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1080-10\">No. 27,</docketnumber>\n<p data-order=\"2\" data-type=\"docketnumber\" id=\"AZH7\">Original.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AjI\">Ohio <em>v. </em>Kentucky.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Am5g\"><em>William B. Saxbe, </em>Attorney General of Ohio, and <em>Robert M. Duncan </em>for plaintiff on the motion. <em>Robert Matthews, </em>Attorney General of Kentucky, and <em>John B. Browning, </em>Assistant Attorney General, for defendant in opposition.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ahs\">The motion for leave to file bill of complaint granted and the Commonwealth of Kentucky is allowed sixty days to answer.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

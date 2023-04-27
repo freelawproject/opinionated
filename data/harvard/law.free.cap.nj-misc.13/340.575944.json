@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"340\" lastpage=\"340\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b352-3\">VITO LEMONGELLI, PETITIONER-RESPONDENT, v. THE CARLSON COMPANY, RESPONDENT-PROSECUTOR.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b352-4\">Argued January 16, 1935</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Al1\">Decided April 15, 1935.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b352-6\">Before Justices Heher and Perskie.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b352-7\">For the prosecutor, <em>Kalisch &amp; Kalisch.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b352-8\">For the respondent, <em>Cohen &lt;&amp; Klein.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b352-9\">Per Curiam.</author>\n<p id=\"b352-10\">Our study of the record submitted, leads us to the conclusion that it presents no debatable question, and accordingly the writ of <em>certiorari </em>is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

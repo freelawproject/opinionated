@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"333\" lastpage=\"333\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Margaret A. BACON, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  State of Michigan and DEPARTMENT OF ENVIRONMENTAL QUALITY, Defendants-Appellants.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158462\n  <br/>\n  COA: 339009\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  July 2, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the motions to hold the defendants' application for leave to appeal in abeyance for\n   <em>\n    Mays v. Governor\n   </em>\n   (Docket Nos. 157335-7, 157340-2) and to expedite consideration are considered, and they are GRANTED in part. We ORDER that the application for leave to appeal the August 16, 2018 judgment of the Court of Appeals be held in ABEYANCE pending the decisions in\n   <em>\n    Mays.\n   </em>\n  </p>\n  <p id=\"p-7\">\n   Clement, J., not participating due to her prior involvement as chief legal counsel for the Governor.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

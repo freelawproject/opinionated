@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"418\" lastpage=\"418\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  VIRGINIA, et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  ENVIRONMENTAL PROTECTION AGENCY\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-1152.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 15, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"5879349,5874918\" index=\"0\" url=\"https://cite.case.law/f3d/684/102/\">\n   684 F.3d 102\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

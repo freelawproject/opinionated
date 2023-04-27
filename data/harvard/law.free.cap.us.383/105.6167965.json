@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"105\" lastpage=\"105\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b169-4\">VITORATOS <em>v. </em>MAXWELL, WARDEN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b169-6\">No. 1003,</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"AKh\">Mise.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AUF\">Decided February 21, 1966.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b169-8\">Per Curiam.</author>\n<p id=\"b169-9\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1205\" lastpage=\"1205\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b893-4\">In re Resignation of White.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b893-5\">[Cite as <em>In re Resignation of White </em>(1992), 63 Ohio St.3d 1205.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AbYr\">(No. 92-167</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AR5k\">Submitted February 12, 1992</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ACVH\">Decided February 19, 1992.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b893-6\">The resignation of David Otto White as an attorney, Registration No. 0024374, is accepted.</p>\n<judges id=\"b893-7\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

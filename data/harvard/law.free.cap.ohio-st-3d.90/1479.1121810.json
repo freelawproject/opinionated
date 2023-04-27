@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1479\" lastpage=\"1479\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"ALt\">\n<em>Wednesday, December 6, 2000</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AAGU\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AvPF\">00-1421.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A69s\">Toledo v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AvT\">Public Utilities Commission, No. 99-1609-EL-ORD. On motion to dismiss appeal. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"AvDd\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"916\" lastpage=\"916\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b962-28\">PHILLIPS PETROLEUM COMPANY v. FEDERAL POWER COMMISSION.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b962-30\">No. 7025.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b962-31\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b962-32\">May 3, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b962-34\">Lloyd G. Minter, Kenneth Heady and John R. Rebman, Bartlesville, Okl., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b962-35\">Richard A. Solomon, Gen., Counsel, and Howard E. Wahrenbrock, Solicitor, Federal Power Commission, Washington, D. C., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b962-36\">Before MURRAH, Chief Judge, and BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b962-37\">PER CURIAM.</author>\n<p id=\"b962-38\">Petition for review dismissed May 3, 19'63, on motion of petitioner,</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

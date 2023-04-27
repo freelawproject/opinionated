@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1053-44\">UNITED STATES of America v. Thomas Le Vaughn GLENN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1053-45\">No. 353.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1053-46\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A-e\">Sept. 9, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1053-47\">Fred A. Wagoner, Asst. U. S. Atty., of Oklahoma City, Okl.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1053-48\">J. F. Sharp, Jr., of Oklahoma City, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1053-49\">Before LEWIS, PHILLIPS, and McDERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1054-3\"><page-number citation-index=\"1\" label=\"1022\">*1022</page-number>PER CURIAM.</author>\n<p id=\"b1054-4\">Dismissed September 9, 1930, on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

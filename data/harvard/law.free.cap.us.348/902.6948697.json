@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b740-6\">No. 229,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aofg\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AAMN\">Bradshaw et al. <em>v. </em>Marks et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A2M\"><em>George M. Johnson </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AD76\"><em>Geo. Gunby </em>for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ao8t\">Supreme Court of Louisiana. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

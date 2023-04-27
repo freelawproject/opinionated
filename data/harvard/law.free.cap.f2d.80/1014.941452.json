@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1046-25\">Emmerson LADNER, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1046-26\">No. 7720.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1046-27\">Circuit Court of Appeals, Fifth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AxGO\">Dec. 19, 1935.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1046-30\">Sidney C. Mize, of Gulfport, Miss., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1046-31\">R. M. Bourdeaux, U. S. Atty., of Meridian, Miss., for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1046-32\">Before SIBLEY, HUTCHESON, and WALKER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1046-33\">PER CURIAM.</author>\n<p id=\"b1046-34\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

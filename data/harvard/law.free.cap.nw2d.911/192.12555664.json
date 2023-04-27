@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"192\" lastpage=\"192\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Brandon Lewis CAIN, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 156146\n  <br/>\n  COA: 336623\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  May 16, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the July 7, 2017 order of the Court of Appeals is considered. Pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we VACATE that part of the December 13, 2016 order of the Wayne Circuit Court relating to Wayne CC: 12-003375-FC, because it does not address the issues raised in the motion for relief from judgment that the defendant filed in that case. We REMAND this case to the Wayne Circuit Court to address the issues in the defendant's motion for relief from judgment. The motions for miscellaneous relief are DENIED.\n  </p>\n  <p id=\"p-7\">\n   We do not retain jurisdiction.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"225\" lastpage=\"225\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b305-15\">John M. LAWRENCE v. Stephen L. R. McNICHOLS et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b305-17\">No. 7114.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b305-18\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b305-19\">Nov. 8, 1962.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b305-21\">No representation for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b305-22\">Duke W. Dunbar, Atty. Gen., State of Colorado, Denver, Colo., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b305-23\">Before BRATTON, LEWIS and SETH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b305-24\">PER CURIAM.</author>\n<p id=\"b305-25\">Appeal dismissed November 8, 1962, for failure diligently to prosecute same.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

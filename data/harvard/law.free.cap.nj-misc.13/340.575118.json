@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"340\" lastpage=\"340\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b352-11\">JAMES HARRAN, PROSECUTOR, v. FORD MOTOR COMPANY, RESPONDENT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b352-12\">Argued January 16, 1935</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aaj\">Decided April 15, 1935.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b352-14\">Before Justices Heher and Perskie.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b352-15\">For the prosecutor, <em>David Roskein </em>and <em>Harold Krieger.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b352-16\">For the respondent, <em>McCarter &amp; English.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b352-17\">Per Curiam.</author>\n<p id=\"b352-18\">Our study of the record submitted, leads us to the conclusion that it presents debatable questions, and that the entire case should be reviewed; accordingly the writ of <em>certiorari </em>is allowed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

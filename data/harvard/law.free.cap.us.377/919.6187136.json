@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"919\" lastpage=\"919\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b853-10\">No. 1313,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Adj\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AHN\">Rudolph <em>v. </em>Alabama.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A09X\"><em>Fred Blanton, Jr. </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ALc\">Supreme Court of Alabama. Certiorari denied. The application for a stay of execution presented to Mr. Justice Black, and by him referred to the Court, is also denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

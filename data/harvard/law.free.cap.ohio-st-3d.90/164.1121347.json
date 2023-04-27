@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"164\" lastpage=\"164\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b316-4\">Gallo, Appellee, <em>v. </em>Trakas, Appellant, et al.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b316-5\">[Cite as <em>Gallo v. Trakas </em>(2000), 90 Ohio St.3d 164.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A0q\">(Nos. 00-403 and 00-482</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A1v\">Submitted August 22, 2000</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aqz\">Decided October 11, 2000.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b316-10\"><em>Crabbe, Brown, Jones, Potts &amp; Schmidt, Daniel J. Hurley </em>and <em>Steven E. Miller, </em>for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b316-11\">The judgment of the court of appeals is affirmed on the authority of <em>Johnson v. Rhodes </em>(2000), 89 Ohio St.3d 540, 733 N.E.2d 1132.</p>\n<judges id=\"b316-12\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"914\" lastpage=\"914\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b848-7\">April 27, 1964.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b848-9\">No. 1014,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A13\">Misc.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AyI\">Krepel <em>v. </em>Heinze, Warden.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Attk\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A_Cb\"><em>Stanley Mosk, </em>Attorney General of California, and <em>Doris H. Maier, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXC\">Motion for leave to file petition for writ of habeas corpus denied. Treating the papers submitted as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

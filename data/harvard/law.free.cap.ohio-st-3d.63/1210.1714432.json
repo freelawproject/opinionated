@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1210\" lastpage=\"1210\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b898-4\">In re Resignation of Muldrow.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b898-5\">[Cite as <em>In re Resignation of Muldrow </em>(1992), 63 Ohio St.3d 1210.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A7H\">(No. 92-416</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AhX\">Submitted March 17, 1992</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVqv\">Decided April 1, 1992.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b898-6\">The resignation of Norris Muldrow as an attorney, Registration No. 0033138, is accepted.</p>\n<judges id=\"b898-7\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

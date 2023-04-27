@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"226\" lastpage=\"226\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b306-39\">UNITED STATES of America v. Robert W. COLLIER et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b306-41\">No. 7190.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b306-42\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b306-43\">Dec. 4, 1962.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b306-45\">Lawrence M. Henry, U. S. Atty., Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b306-46\">William F. Fair, Denver, Colo., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b306-47\">Before MURRAH, Chief Judge, and BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b306-48\">PER CURIAM.</author>\n<p id=\"b306-49\">Appeal dismissed December 4, 1962, on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

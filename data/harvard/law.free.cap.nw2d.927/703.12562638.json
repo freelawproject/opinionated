@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"703\" lastpage=\"703\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE SUTTON\n </parties>\n <docketnumber id=\"p-2\">\n  T J Sutton, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  Wayne Circuit Court, Defendant-Appellee.\n </docketnumber>\n <docketnumber id=\"p-3\">\n  SC: 159381\n  <br/>\n  COA: 345900\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  June 4, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Chief Justice, Appellant's motion for reconsideration of the May 17, 2019 order is denied because it does not appear that the order was entered erroneously. Within 21 days of the date of this order, Appellant shall submit a copy of the May 17, 2019 order and refile a copy of the pleadings as ordered. Failure to comply with this order shall result in the administrative dismissal of Appellant's appeal.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

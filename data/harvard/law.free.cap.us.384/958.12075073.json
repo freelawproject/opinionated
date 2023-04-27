@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"958\" lastpage=\"958\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b1056-12\">May 31, 1966.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1056-14\">No. 1511,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b1056-15\">No. 1521,</docketnumber>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1056-16\">No. 1528,</docketnumber>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"b1056-17\">No. 1529,</docketnumber>\n<p data-order=\"5\" data-type=\"misc\" id=\"AbuX\">Misc.</p>\n<p data-order=\"6\" data-type=\"misc\" id=\"AcL\">Misc.</p>\n<p data-order=\"7\" data-type=\"misc\" id=\"Arhe\">Misc.</p>\n<p data-order=\"8\" data-type=\"misc\" id=\"AsD\">Misc.</p>\n<parties data-order=\"9\" data-type=\"parties\" id=\"ARZ8\">Caruth <em>v. </em>Oliver, Warden; Wion <em>v. </em>Willingham, Warden; Madden <em>v. </em>California; and Thomas <em>v. </em>United States.</parties>\n<opinion data-order=\"10\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ArEr\">Motions for leave to file petitions for writs of habeas corpus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1120-12\">No. 590,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AUHd\">No. 631,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Avz\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"AFv\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"Aez\">Ordog <em>v. </em>New Jersey; and Rush <em>v. </em>New Jersey.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Apu2\">Petitioners <em>pro se. Norman Heine </em>for respondent in both cases.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8vB\">Sup. Ct. N. J.</p>\n<p id=\"AKne\">Reported below: 45 N. J. 347, 212 A. 2d 370.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"720\" lastpage=\"720\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b776-14\">WASILEWSKI <em>v. </em>BOARD OF SCHOOL DIRECTORS OF THE CITY OF MILWAUKEE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b776-16\">No. 1124,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AOD\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AjjT\">Decided June 25, 1962.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b776-18\">Per Curiam.</author>\n<p id=\"b776-19\">The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<judges id=\"b776-20\">Mr. Justice Frankfurter took no part in the consideration or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

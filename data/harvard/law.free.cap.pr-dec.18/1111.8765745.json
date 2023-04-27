@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1111\" lastpage=\"1111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b1193-6\">No. .</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ATDl\">Su\u00e1rez <em>v. </em>Batista.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A9V9\">Resuelto en junio 24, 1912.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AZy\">Abogado del promovente: <em>Sr.-Francisco Socorro. </em>Abogado de la parte contraria: <em>Sr. Ram\u00f3n F\u00e1lc\u00f3n.</em></attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Apd1\">Apelaci\u00f3n procedente de la Corte de Distrito de San Juan. Moci\u00f3n para que se deses-time la apelaci\u00f3n.</p>\n<p id=\"AhOE\">Denegada la moci\u00f3n por no constar en autos si en este caso se present\u00f3 o n\u00f3 escrito de exposici\u00f3n del caso, cuya existencia o inexis-tencia ha de' servir de base para apreciar si ha vencido o n\u00f3 el t\u00e9rmino se\u00f1alado por la ley para la presentaci\u00f3n del r\u00e9cord.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

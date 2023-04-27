@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1070-42\">Alex MOHR, Appellant, v. GREAT LAKES TRANSIT CORPORATION, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1070-43\">No. 385.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1070-44\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"aap-dedup-0\">May 3, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1070-46\">Henry Fogler, of Buffalo, N. Y., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1070-47\">Brown, Ely &amp; Richards, of Buffalo,. N. Y. (Laurence E. Coffey and W. A.. Eldridge, both of Buffalo, N. Y., of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1071-3\"><page-number citation-index=\"1\" label=\"1015\">*1015</page-number>Before L. HAND, SWAN, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1071-4\">PER CURIAM.</author>\n<p id=\"b1071-5\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

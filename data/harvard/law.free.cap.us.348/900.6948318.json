@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"900\" lastpage=\"900\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b738-5\">No. 96,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AjFI\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Amp\">Dunne <em>v. </em>Cranor, Superintendent, Washington State Penitentiary.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AK19\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AB78\"><em>Don Eastvold, </em>Attorney General of Washington, and <em>Keith S. Bergman </em>and <em>E. P. Donnelly, </em>Assistant Attorneys General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Abo4\">Supreme Court of Washington. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

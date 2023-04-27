@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"122\" lastpage=\"122\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Dennis Patrick BIRD, Jr., Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157758\n  <br/>\n  COA: 342030\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  December 4, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the April 30, 2018 order of the Court of Appeals is considered, and it is DENIED, because the defendant's motion for relief from judgment is prohibited by MCR 6.502(G). The motion to appoint counsel and the motion to abey are DENIED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

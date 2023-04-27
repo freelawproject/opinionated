@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b443-4\">Office of Disciplinary Counsel <em>v. </em>Head.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b443-5\">[Cite as Disciplinary Counsel <em>v. </em>Head (1988), 38 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Al5\">(No. D.D. 85-22</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ARC\">Submitted July 27, 1988</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZN\">Decided August 24, 1988.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b443-6\">The application for reinstatement to the practice of law is granted. Robert D. Head is reinstated to the practice of law in the state of Ohio.</p>\n<p id=\"b443-7\">For earlier case, see (1985), 20 Ohio St. 3d 16, 20 OBR 87, 484 N.E. 2d 702.</p>\n<judges id=\"b443-9\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

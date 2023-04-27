@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b836-10\">No. 865,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Ayy\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AAWA\">Raubinger, Commissioner of Education of New Jersey, et al. <em>v. </em>Augelli, U. S. District Judge.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AWCY\"><em>Arthur J. Sills, </em>Attorney General of New Jersey, <em>Theodore I. Botter, </em>First Assistant Attorney General, <em>Joseph A. Hoffman, </em>Deputy Attorney General, and <em>Richard Newman </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A6L\"><em>Milton T. Lasher </em>for Yolpe et al., intervenors.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Apo\">Motion for leave to file petition for writ of prohibition denied.</p>\n<judges id=\"AiyS\">Mr. Justice Douglas is of the opinion that the motion for leave to file should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"291\" lastpage=\"291\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b347-11\">WILBUR <em>v. </em>UNITED STATES.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b347-13\">No. 1383,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AZV\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AyF\">Decided June 18, 1962.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b347-15\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b347-16\"><em>Solicitor General Cox </em>for the United States.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b347-17\">Per Curiam.</author>\n<p id=\"b347-18\">The motion to dismiss is granted and the appeal is dismissed.</p>\n<judges id=\"b347-19\">Mr. Justice Frankfurter took no part in the consideration or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

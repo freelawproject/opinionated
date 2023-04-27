@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"509\" lastpage=\"509\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b521-3\">BOOKER WHITE, RESPONDENT, v. SPIROS PAPPAYLIOU ET AL., APPELLANTS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b521-4\">Submitted January term, 1935</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aje\">Decided June 20, 1935.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b521-7\">Before Justices Lloyd, Case and Donges.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b521-8\">For the appellants, <em>Ward Eremer.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b521-9\">For the respondent, <em>Marlaclc &amp; Laulman.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b521-10\">Per Cubiam.</author>\n<p id=\"b521-11\">No action of the trial court is pointed out in any of the reasons urged for reversal. What determination, if any, the judge made with reference to the predicated facts are not specified, and there is nothing before us for adjudication.</p>\n<p id=\"ATG\">The judgment is affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

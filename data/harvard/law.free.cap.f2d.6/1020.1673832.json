@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-14\">August J. CONIGLIARO and Salvatore Conigliaro, Plaintiffs in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ABin\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AGB\">April 24, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Aldt\">No. 254.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AlO\">Nicholas Selvaggi, of New York City (Harry G. Anderson, of New York City, of counsel), for plaintiffs in error. Emory R. Buckner, U. S. Atty., of New York City (John M. Cashin, Special Asst. U. S. Atty., of New York City, of counsel), for the United States.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A73H\">Before HOUGH, MANTON, and HAND, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-15\">PER CURIAM.</author>\n<p id=\"Aqo\">Judgment affirmed..</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

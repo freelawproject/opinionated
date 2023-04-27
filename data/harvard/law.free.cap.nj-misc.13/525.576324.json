@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"525\" lastpage=\"525\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b537-6\">EDWARD O\u2019NEILL, BY HIS NEXT FRIEND, ET AL., PLAINTIFFS-APPELLANTS, v. FRANK BREIDT, DEFENDANT-RESPONDENT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b537-7\">Argued May 9, 1935</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AlK\">Decided May 9, 1935.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b537-9\">Before Chief Justice Brogan, and Justices Lloyd and Donges.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b537-10\">Por the appellants, <em>Benjamin Gordon </em>and <em>Earl A. Merrill.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b537-11\">Por the respondent, <em>Connolly &amp; Hueston.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b537-12\">Per Curiam.</author>\n<p id=\"b537-13\">The proofs have been examined and from the evidence we can find no proof whatever of negligence on the part of the defendant.</p>\n<p id=\"b537-14\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

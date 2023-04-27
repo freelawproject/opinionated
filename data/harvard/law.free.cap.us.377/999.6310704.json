@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b933-7\">No. 574,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ASEV\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A4KB\">Lee <em>v. </em>Florida.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AEgK\"><em>Howard W. Dixon </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AjlV\"><em>Richard W. Ervin, </em>Attorney General of Florida, and <em>James G. Mahorner, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ASLC\">District Court of Appeal of Florida, First District. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"487\" lastpage=\"488\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Anthony Gestail TUCKER, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 152798\n  <br/>\n  COA: 322151\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  September 5, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the motion to withdraw the application for leave to appeal\n   is considered, and it is GRANTED. We VACATE this Court's order of May 25, 2018, granting leave to appeal. Accordingly, the application for leave to appeal is DISMISSED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

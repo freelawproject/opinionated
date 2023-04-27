@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"44\" lastpage=\"44\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  David FELTON\n  <br/>\n  v.\n  <br/>\n  C.D. HARKLEROAD et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 116P04.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  June 24, 2004.\n </decisiondate>\n <attorneys id=\"p-5\">\n  David Felton, Pro Se.\n </attorneys>\n <attorneys id=\"p-6\">\n  William P. Hart, Special Deputy Attorney General, for Harkleroad.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Plaintiff on the 8th day of March 2004 in this matter for a writ of certiorari to review the order of the Superior Court, McDowell County, the following order was entered and is hereby certified to the Superior Court of that County:\n  </p>\n  <blockquote id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 24th day of June 2004.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

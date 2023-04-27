@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"431\" lastpage=\"431\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Isaiah D. JORDAN\n </parties>\n <docketnumber id=\"p-2\">\n  2017AP503-CR\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Wisconsin.\n </court>\n <decisiondate id=\"p-4\">\n  July 10, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Petition for review granted.\n </opinion>\n <opinion id=\"p-6\">\n  Petition granted, Court of Appeals' decision summarily reversed, circuit court judgment reinstated.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   BRADLEY, A. W., J. did not participate.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

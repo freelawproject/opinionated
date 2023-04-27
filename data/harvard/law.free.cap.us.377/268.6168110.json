@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"400\" lastpage=\"400\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b334-13\">HORNER <em>v. </em>FLORIDA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b334-15\">No. 1156,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AePe\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ae4\">Decided May 25, 1964.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b334-17\">Per Curiam.</author>\n<p id=\"b334-18\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

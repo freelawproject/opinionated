@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"245\" lastpage=\"245\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b263-6\">County Court, Westchester County,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AYq\">February, 1900.</decisiondate>\n<p data-order=\"2\" data-type=\"misc\" id=\"AbQ\">Unreported.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b263-7\">People ex rel. Charles Schuler <em>v. </em>Adam E. Schatz.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b263-8\">Lent, Co. J.</author>\n<p id=\"Aar\">It may be that the defendant was entitled to liave the people elect to try upon only one charge, that of giving away, or that of selling \u2014 either is a violation of the statute, and I do not see that the defendant is prejudiced by the form of the information.</p>\n<p id=\"b263-9\">Application for discharge denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

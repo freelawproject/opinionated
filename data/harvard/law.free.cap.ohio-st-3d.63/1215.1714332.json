@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1215\" lastpage=\"1215\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b903-4\">In re Resignation of App.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b903-6\">[Cite as <em>In re Resignation of App </em>(1992), 63 Ohio St.3d 1215.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AQo\">(No. 92-880</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ATGh\">Submitted May 12, 1992</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AoT\">Decided May 13, 1992.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b903-7\">The resignation of Robert Philip App as an attorney, Registration No. 0027874, is accepted.</p>\n<judges id=\"b903-8\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

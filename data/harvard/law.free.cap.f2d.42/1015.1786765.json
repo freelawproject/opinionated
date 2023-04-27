@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Adl\">HOM WING GWONG v. WEEDIN, United States Commissioner of Immigration at Seattle, Washington.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A2b_\">No. 6252.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"A6s\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Av4\">Sept. 15, 1930.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"Apt\">Before DIETRICH and WILBUR, Circuit Judges, and WEBSTER, District Judge,</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1048-3\"><page-number citation-index=\"1\" label=\"1016\">*1016</page-number>PER CURIAM.</author>\n<p id=\"b1048-4\">Pursuant to motion of appellee to docket and dismiss appeal for failure of appellant to file record and docket cause, ordered appeal dismissed; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

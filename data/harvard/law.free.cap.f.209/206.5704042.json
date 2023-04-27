@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"206\" lastpage=\"206\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b218-6\">ARCHER et al. v. IMPERIAL MACH. CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b218-7\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AaY\">August 5, 1913.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b218-8\">No. 251.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b218-9\">On motion for'reargument.</summary>\n<disposition data-order=\"5\" data-type=\"disposition\" id=\"AmGS\">Denied.</disposition>\n<seealso data-order=\"6\" data-type=\"seealso\" id=\"b218-10\">See 207 Fed. 81.</seealso>\n<p data-order=\"7\" data-type=\"judges\" id=\"b218-11\">Before LACOMBE and COXE, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b218-12\">PER CURIAM.</author>\n<p id=\"AXQ\">One of the judges who concurred in majority-opinion. resigned before motion was made for reargument. The remaining judges being divided in opinion, as they were on original argument, motion for reargument is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

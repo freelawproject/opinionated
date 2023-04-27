@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"719\" lastpage=\"719\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AEnt\">Friday, September 2, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ACo\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Am4\">88-1501.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AEeY\">State, ex rel. Harrell, v. Bd. of Edn. of the Streetsboro City School Dist.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9zo\"><em>Portage County, </em>No. 1970. On motion to stay execution. Motion granted.</p>\n<judges id=\"AquRQ\">Sweeney, Douglas and H. Brown, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

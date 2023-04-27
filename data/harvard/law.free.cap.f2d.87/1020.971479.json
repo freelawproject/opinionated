@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1072-4\">The UNITED STATES of America, Appellee, v. Mike POPOLA, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1072-5\">No. 264.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1072-6\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AXA\">Feb. 15, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1072-8\">David Goldstein and George A. Saden, both of Bridgeport, Conn., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1072-9\">Robert P. Butler, U. S. Atty., of Hartford, Conn., and Arthur T. Gorman, Asst. U. S. Atty., of New. Haven, Conn.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1072-10\">Before MANTON, AUGUSTUS N. HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1072-11\">PER CURIAM.</author>\n<p id=\"b1072-12\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

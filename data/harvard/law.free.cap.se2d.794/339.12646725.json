@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"339\" lastpage=\"339\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State of North Carolina\n  <br/>\n  v.\n  <br/>\n  Silvestre Alvarado Chaves\n </parties>\n <docketnumber id=\"p-2\">\n  No. 339P16\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  December 8, 2016\n </decisiondate>\n <attorneys id=\"p-5\">\n  Mr. Silvestre Alvarado Chaves, For Chaves, Silvestre Alvarado.\n </attorneys>\n <attorneys id=\"p-6\">\n  Mr. Robert C. Montgomery, Special Deputy Attorney General, Mr. Howard S. Boney, Jr., District Attorney, For State of N.C.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Ervin, J.\n  </author>\n  <p id=\"p-9\">\n   Upon consideration of the petition filed by Defendant on the 12th of September 2016 in this matter for a writ of certiorari to review the order of the Superior Court, Unknown County, the following order was entered and is hereby certified to the Superior Court of that County:\n  </p>\n  <p id=\"p-10\">\n   \"Dismissed by order of the Court in conference, this the 8th of December 2016.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

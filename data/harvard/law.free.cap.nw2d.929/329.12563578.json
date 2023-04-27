@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"329\" lastpage=\"329\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <attorneys id=\"p-1\">\n  Stephanie SHERMAN, Kayla Rollend, Amanda Rollend, by her Next Friend Jacob Marciniak, and Emily Rollend, by her Next Friend Jacob Marciniak, Plaintiffs-Appellees,\n  <br/>\n  v.\n  <br/>\n  ISRAEL BROS, INC., Defendant-Appellant.\n </attorneys>\n <docketnumber id=\"p-2\">\n  SC: 158038\n  <br/>\n  COA: 333514\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  July 2, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the stipulation signed by counsel for the parties agreeing to the dismissal of this appeal is considered, and the motion for reconsideration is DISMISSED with prejudice and without costs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

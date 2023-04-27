@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1500\" lastpage=\"1500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"citation\" id=\"A4-L\">[Cite as <em>01/03/2003 Case Announcements, </em>2003-Ohio-6.]</p>\n<p data-order=\"1\" data-type=\"court\" id=\"AUm-\">CASE ANNOUNCEMENTS AND ADMINISTRATIVE ACTIONS</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AzWj\">\n<em>January 3, 2003</em>\n</decisiondate>\n<p data-order=\"3\" data-type=\"attorneys\" id=\"ADTh\">RECONSIDERATION OF PRIOR DECISIONS</p>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"ALLL\">2002-1538.</docketnumber>\n<parties data-order=\"5\" data-type=\"parties\" id=\"AnWa\">Gertz v. Nerone &amp; Sons, Inc.</parties>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aaj-dedup-1\">Cuyahoga App. No. 80422, 2002-Ohio-3782. Reported at 97 Ohio St.3d 1482, 2002-Ohio-6866, 780 N.E.2d 286. On motion for reconsideration. Motion denied.</p>\n<p id=\"aca-dedup-2\">Douglas, J., participated in the decision of this motion before his retirement.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

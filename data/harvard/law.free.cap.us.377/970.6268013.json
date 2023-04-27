@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"970\" lastpage=\"970\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b904-7\">No. 1231,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Al2\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AO1h\">Hargraves et al. <em>v. </em>Hamilton et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AJ6q\"><em>R. L. Netterville </em>and <em>H. Alva Brumfield </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A9yQ\"><em>Oliver M. Hornsby </em>for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A6q-\">Supreme Court of Mississippi. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

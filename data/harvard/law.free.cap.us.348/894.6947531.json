@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"894\" lastpage=\"894\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b732-7\">No. 276,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AKUJ\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AmSO\">United States ex rel. Fitzgerald <em>v. </em>Ryan, U. S. District Judge, et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AcG\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AY21\"><em>Solicitor General Sobeloff </em>for the United States, and <em>Arthur H. Dean </em>for Ryan et al., respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ay_d\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

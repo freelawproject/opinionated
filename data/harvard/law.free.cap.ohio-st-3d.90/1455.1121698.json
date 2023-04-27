@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1455\" lastpage=\"1455\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"ApC\">\n<em>Friday, October 27, 2000</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"APyv\">RECONSIDERATION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AlF1\">00-1640.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ANO\">State ex rel. Ohio Heritage Dev. Co. v. Portage Cty. Bd. of Elections.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9f\">In Prohibition. Reported at 90 Ohio St.3d 1436, 736 N.E.2d 476. IT IS ORDERED by the court that the motion for reconsideration in this case be, and hereby is, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

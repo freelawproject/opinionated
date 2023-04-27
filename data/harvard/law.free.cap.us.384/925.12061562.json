@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1023-7\">No. 987,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A4mR\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A6S\">Fadely <em>v. </em>California et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AOSN\">Petitioner <em>pro se. Thomas C. Lynch, </em>Attorney General of California, <em>William E. James, </em>Assistant Attorney General, and <em>David S. Sperber, </em>Deputy Attorney General, for respondents.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0BR\">Motion for leave to file petition for writ of habeas corpus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

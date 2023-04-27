@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"270\" lastpage=\"270\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b344-3\">SHELTON <em>v. </em>UNITED STATES.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b344-5\">No. 235,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AL-\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AZo\">Decided June 15, 1953.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b344-8\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b344-9\"><em>Acting Solicitor General Stern </em>for the United States.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b344-10\">Per Curiam.</author>\n<p id=\"b344-11\">The petition for certiorari is granted. Upon consideration of the Government\u2019s confession of error, after reviewing the record in this case, we vacate the judgments of the Court of Appeals and the District Court. The case is remanded to the District Court for further proceedings in light of the confession of error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"712\" lastpage=\"712\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AhD\">Wednesday, August 10, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A8X-\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AfZ\">88-1234.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AQs\">State v. Gontmakher.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A55\"><em>Lake County, </em>No. 12-182. On motion for transfer of bond and for stay of sentence. Motion denied.</p>\n<judges id=\"A0Ev\">H. Brown, J., dissents.</judges>\n<judges id=\"Aaz\">Locher, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"113\" lastpage=\"113\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Anthony D. JONES, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  GUS HARRISON CORRECTIONAL FACILITY WARDEN, Defendant-Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158148\n  <br/>\n  COA: 342620\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  December 4, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the motion to supplement is GRANTED. The application for leave to appeal the July 19, 2018 order of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court. The motions for immediate discharge are DENIED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

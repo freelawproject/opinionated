@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"509\" lastpage=\"510\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b579-9\">STATE v. MRS. T. E. McAFEE.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b579-10\">(Filed 19 March, 1930.)</decisiondate>\n<p data-order=\"2\" data-type=\"court\" id=\"b579-11\">See same case next preceding.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b580-5\">\n<page-number citation-index=\"1\" label=\"510\">*510</page-number>\n<em>Attorney-General Brummitt and Assistant Attorney-General Nash for the State.</em>\n</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b580-6\"><em>0. </em>N. <em>Allen for defendant.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b580-7\">Adams, J.</author>\n<p id=\"AK3\">Tbe disposition of the defendant\u2019s appeal is controlled by the opinion in the preceding <em>case</em>\u2014S. <em>v. Mrs. T. E. McAfee, ante, </em>507.</p>\n<p id=\"Akg\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

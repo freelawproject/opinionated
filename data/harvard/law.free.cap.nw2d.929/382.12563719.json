@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"382\" lastpage=\"383\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE SUTTON\n </parties>\n <docketnumber id=\"p-2\">\n  T. J. Sutton, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  Wayne Circuit Court, Defendant-Appellee.\n </docketnumber>\n <docketnumber id=\"p-3\">\n  SC: 159381\n  <br/>\n  COA: 345900\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  July 5, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Chief Justice, Appellant having failed to submit a copy of the May\n   17, 2019 order and refile a copy of the pleadings as required by the June 4, 2019 order, the Clerk of the Court is hereby directed to close this file.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

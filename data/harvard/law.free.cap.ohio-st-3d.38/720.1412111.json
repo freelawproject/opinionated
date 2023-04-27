@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"720\" lastpage=\"720\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A1lq\">Monday, September 12, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A5J\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AFi\">87-192.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ajb\">State v. Coleman.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHp\"><em>Hamilton County, </em>No. C-850340. Reported at 37 Ohio St. 3d 286, 525 N.E. 2d 792. On motion for stay. Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

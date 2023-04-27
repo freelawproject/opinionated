@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"381\" lastpage=\"381\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  SKANSKA USA BUILDING, INC., Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  M.A.P. MECHANICAL CONTRACTORS, INC., Amerisure Insurance Company, and Amerisure Mutual Insurance Company, Defendants-Appellees.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 159510, 159511\n  <br/>\n  COA: 340871, 341589\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  July 3, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion for the temporary admission of out-of-state attorney Patrick J. Wielinski to appear and practice in this case under MCR 8.126(A) is GRANTED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

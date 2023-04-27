@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"712\" lastpage=\"712\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AaI\">Wednesday, August 3, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AV0B\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AUS\">88-631.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AjS\">Pride v. Hale.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aeb2\">In Mandamus. On motion for injunctive relief. Motion denied.</p>\n<judges id=\"Aezo\">Locher, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

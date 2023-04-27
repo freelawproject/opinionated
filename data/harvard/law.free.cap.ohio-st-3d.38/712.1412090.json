@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"712\" lastpage=\"712\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AaC\">Wednesday, August 17, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A68d\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Aug\">88-1288.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AyC0\">State, ex rel. Oser, v. Maier.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1XH\">On motion for peremptory or alternative writ. Motion denied.</p>\n<p id=\"AOHY\">Sweeney, J., would grant the motion and hold the election results until the court considers the merits of the cause.</p>\n<judges id=\"Aa6V\">Wright, J., would grant an alternative writ.</judges>\n<judges id=\"Auj\">Locher, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"720\" lastpage=\"720\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AAJV\">Wednesday, September 14, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AmX\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ANc\">87-1900.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A6Uc\">Barton v. Shupe.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AA7\">In Mandamus. Reported at 37 Ohio St. 3d 308, 525 N.E. 2d 812. On motion for contempt. <em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"Asqy\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

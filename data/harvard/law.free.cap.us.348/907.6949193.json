@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b745-12\">No. 10,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A11j\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ATI5\">Arizona <em>v. </em>California et al.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnN\">The motion of the State of California for an allowance of time to file a brief in response to the briefs of Colorado, Wyo<page-number citation-index=\"1\" label=\"908\">*908</page-number>ming, Utah, and New Mexico is granted. California is allowed thirty days from this date to file its brief in response.</p>\n<attorneys id=\"A-V\"><em>Northcutt Ely </em>for the State of California, defendant.</attorneys>\n<judges id=\"An42\">The Chief Justice took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

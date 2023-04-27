@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"237\" lastpage=\"237\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Ninti EL BEY\n  <br/>\n  v.\n  <br/>\n  COUNTY OF MECKLENBURG, Register of Deeds David Granberry, Official and Individual Capacity\n </parties>\n <docketnumber id=\"p-2\">\n  No. 300P16\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  September 22, 2016\n </decisiondate>\n <attorneys id=\"p-5\">\n  Ms. Ninti El-Bey, Pro se.\n </attorneys>\n <attorneys id=\"p-6\">\n  Mr. Robert S. Adden, Jr., Attorney at Law, For Mecklenburg County, et al.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Petitioner on the 16th of August 2016 in this matter for a writ of certiorari to review the order of the Superior Court, Mecklenburg County, the following order was entered and is hereby certified to the Superior Court of that County:\n  </p>\n  <p id=\"p-9\">\n   \"Dismissed by order of the Court in conference, this the 22nd of September 2016.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

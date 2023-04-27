@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"754\" lastpage=\"754\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Patricia HIGGINS, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED CENTER JOINT VENTURE, respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 122372\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Illinois.\n </court>\n <decisiondate id=\"p-4\">\n  September 27, 2017\n </decisiondate>\n <opinion id=\"p-5\">\n  <strong>\n   PETITION FOR LEAVE TO APPEAL\n  </strong>\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   Denied (Thomas, J. took no part).\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

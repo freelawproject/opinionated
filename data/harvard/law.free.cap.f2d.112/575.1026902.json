@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"575\" lastpage=\"575\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b637-9\">UNITED STATES of America v. Culbert L. OLSON et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b637-10\">No. 2100.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b637-17\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A9S\">June 7, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b637-19\">Dan B. Shields, U. S. Atty., of Salt Lake City, Utah, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b637-20\">Lewis &amp; Lewis, of Salt Lake City, Utah, for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b637-21\">Before PHILLIPS and LEWIS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b637-22\">PER CURIAM.</author>\n<p id=\"b637-23\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

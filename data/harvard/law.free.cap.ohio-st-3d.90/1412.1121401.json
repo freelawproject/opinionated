@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1412\" lastpage=\"1412\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Apb\">\n<em>Wednesday, September 20, 2000</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A0Y\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AGP\">00-627.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AZs\">Westside Cellular, Inc. v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aip\">Public Utilities Commission, No. 97-1700-TP-COI. On motion for leave to intervene by the Ameritech Entities, motion to dismiss, and motion for leave to intervene by Verizon Wireless. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"Ak1\">Moyer, C.J., Douglas, F.E. Sweeney, Cook and Lundberg Stratton, JJ., concur.</judges>\n<judges id=\"A1qC\">Pfeifer, J., dissents, would deny the motion to dismiss, and would grant the motions for leave to intervene.</judges>\n<judges id=\"Ahp\">Resnicic, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

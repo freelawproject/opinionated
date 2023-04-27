@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"581\" lastpage=\"582\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b619-8\">No. 1497.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ANE\">Renneker <em>v. </em>Warren.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"AtxX\">November Term, 1883.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ALq7\"><page-number citation-index=\"1\" label=\"582\">*582</page-number>January 16th, 1884.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXO\">Motion refused</p>\n<author id=\"Agn\">per curiam,</author>\n<p id=\"Abf\"><page-number citation-index=\"1\" label=\"581\">*581</page-number>This was an application to re-instate on the docket an appeal <page-number citation-index=\"1\" label=\"582\">*582</page-number>which had been dismissed by this court. But as no notice of intention to appeal had been given to respondent or his attorney, within ten days after the rising of the court, as imperatively required by statute, (Code, \u00a7\u00a7 348, 349,) the court has no power to remedy this omission.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

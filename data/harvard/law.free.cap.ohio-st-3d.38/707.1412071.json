@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"707\" lastpage=\"707\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"APa\">Thursday, July 21, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AME\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AYxk\">88-1172.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Aap\">State v. Jones.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Atr\"><em>Licking County, </em>No. CA-3333. On motion to set bond. Motion denied.</p>\n<judges id=\"Ae-\">Sweeney and H. Brown, JJ., dissent.</judges>\n<judges id=\"AZ3d\">Wright, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

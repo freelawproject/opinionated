@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1412\" lastpage=\"1412\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b854-10\">\n<em>Wednesday, June 24, 1992</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b854-11\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b854-12\">92-724.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AVWe\">State ex rel. Whitehead v. Wilkinson.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATG\">In Mandamus. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"b854-13\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

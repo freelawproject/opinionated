@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"720\" lastpage=\"720\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AhLN\">Friday, September 9, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Ac7\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Abz\">85-1860.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AeQ\">State v. Jester.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5WM\"><em>Cuyahoga County, </em>No. 49065. Reported at 32 Ohio St. 3d 147, 512 N.E. 2d 962. On motion for stay. Motion denied.</p>\n<judges id=\"Arl\">Sweeney, Wright and H. Brown, JJ., would grant the stay for sixty days.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

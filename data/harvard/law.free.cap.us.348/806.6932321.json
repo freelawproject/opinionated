@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"806\" lastpage=\"806\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b644-14\">No. 76,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AMEL\">Misc.</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AXR\">No. 77,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"AmAd\">Misc.</p>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"ALT\">No. 122,</docketnumber>\n<p data-order=\"5\" data-type=\"misc\" id=\"AsjG\">Misc.</p>\n<parties data-order=\"6\" data-type=\"parties\" id=\"A-r\">Ex parte Compton; Lewis <em>v. </em>Attorney General of the United States; and Glisson <em>v. </em>Michigan et al.</parties>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AX78\">Motions for leave to file petitions for writs of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

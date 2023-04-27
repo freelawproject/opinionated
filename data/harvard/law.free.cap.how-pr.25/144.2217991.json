@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"144\" lastpage=\"144\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b148-4\">SUPREME COURT.</court>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b148-5\">Sanderson agt. Morgan.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"b148-6\"><em>Albany General </em>Term,</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGk\"><em>March, </em>1863.</decisiondate>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b148-7\">Gould, Peckham and Miller, <em>Justices.</em></p>\n<summary data-order=\"5\" data-type=\"legal\" id=\"b148-8\">Order overruling demurrer affirmed, on the ground that a citizen of Florida, who is (averred to be) engaged in <em>war </em>against the United States, though not an <em>alien </em>enemy, is an <em>enemy; </em>and his rights to sue in our courts are <em>suspended </em>during the continuance of the war.</summary>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b148-9\">An answer averring such facts is a good answer.</p>\n<p id=\"b148-10\">[This is Judge Gould\u2019s memorandum ; and it was so decided by the concurrence of the three judges.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

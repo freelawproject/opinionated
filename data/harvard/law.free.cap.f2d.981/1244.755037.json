@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1244\" lastpage=\"1244\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b958-3\">Earl Jason LARISCEY, Plaintiff-Appellant, v. The UNITED STATES, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b958-6\">No. 90-5129.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b958-7\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b958-8\">Dec. 28, 1992.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b958-13\">Before NIES, Chief Judge, RICH, NEWMAN, ARCHER, MAYER, MICHEL, PLAGER, LOURIE, CLEVENGER, and RADER, Circuit Judges.<footnotemark>*</footnotemark></p>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b958-18\"> Circuit Judge Schall took no part in the decision of this case.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"b958-14\">ORDER</p>\n<author id=\"b958-15\">PER CURIAM.</author>\n<p id=\"b958-16\">The judgment in the above appeal is affirmed by an equally divided court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
