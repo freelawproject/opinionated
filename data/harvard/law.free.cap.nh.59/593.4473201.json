@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"593\" lastpage=\"593\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b605-2\">[Rockingham,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AVG\">June, 1879.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b605-3\">Haley <em>v. </em>Colcord.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b605-4\"><em>Leavitt, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b605-5\"><em>A. R. Hatch </em>and <em>John Hatch, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b605-6\">Foster, J.</author>\n<p id=\"AID\">This case is disposed of by the decision in <em>Haley </em>v. <em>S. J. Colcord (ante </em>7).</p>\n<p id=\"b605-7\">\n<em>Judgment on the verdict.</em>\n</p>\n<judges id=\"Avq\">Allen, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

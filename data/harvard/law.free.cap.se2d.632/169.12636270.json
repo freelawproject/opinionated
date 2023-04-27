@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"169\" lastpage=\"169\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Walter CLINE and William Hagler\n  <br/>\n  v.\n  <br/>\n  Mark BLACK, Robert Trobich, Marvin Henderson and J. Michael Farrell.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 597P05.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  May 4, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Walter Cline, Pro Se.\n </attorneys>\n <attorneys id=\"p-6\">\n  William Hagler, Pro Se.\n </attorneys>\n <attorneys id=\"p-7\">\n  J. Michael Farrell, Pro Se.\n </attorneys>\n <p id=\"p-8\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   Upon consideration of the petition filed on the 25th day of October 2005 by Plaintiffs in this matter for discretionary review of the decision of the North Carolina Court of Appeals pursuant to G.S. 7A-31, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-10\">\n   \"Denied by order of the Court in conference, this the 4th day of May 2006.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

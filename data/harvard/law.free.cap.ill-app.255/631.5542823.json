@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"631\" lastpage=\"631\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b659-5\" pgmap=\"659\">The People of the State of Illinois, defendant in error, v. John Cannon, plaintiff in error.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AfVr\" pgmap=\"659\">Gen. No. 33,717.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AIam\" pgmap=\"659\">O\u2019Connor, J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AWqu\" pgmap=\"659\">Opinion filed January 6, 1930.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b659-7\" pgmap=\"659\">Jay J. McCarthy and John B. Fruehtl, for plaintiff in error. John A. Swanson, State\u2019s Attorney, for defendant in error; Edward E. Wilson and John Holman, Assistant State\u2019s Attorneys, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b659-8\" pgmap=\"659\">Mr. Justice Matchett</author> <p id=\"A6q\" pgmap=\"659\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

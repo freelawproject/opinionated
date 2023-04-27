@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1124\" lastpage=\"1124\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1144-14\">DUSSELDORF, Respondent, v. WARREN, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A47A\">(Common Pleas of New York City and County,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"Asg0\">Additional General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ASJ\">December 16, 1895.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AOO0\">Action by John E. Dusseldorf against Charles J. Warren. R. R. Perry, for appellant. Coleman J. Donohue, for respondent.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aty\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

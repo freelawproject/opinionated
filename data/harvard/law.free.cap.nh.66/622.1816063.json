@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"622\" lastpage=\"622\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b650-9\">[Grafton,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AAt\">December, 1889.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b650-10\">State <em>(ex rel. Blanpied </em>&amp; a.) <em>v. </em>Currier.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b650-13\"><em>W. H. Cotton, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AlS\"><em>Bingham, Mitchell &amp; Batchellor, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b650-11\">Petition, of twenty legal voters for the abatement of a liquor nuisance. The defendant demanded, and it was held, that he might have a trial by jury upon the question whether he used the building described in the petition for the purposes alleged. <em>State </em>v. <em>Saunders, </em>66 N. H. 39, 89, 90.</p>\n<judges id=\"b650-12\">Smith, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

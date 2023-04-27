@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"116\" lastpage=\"116\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b116-8\" pgmap=\"116\">Crystal Lake Ice Company v. The Administrator of Backus.</parties><p data-order=\"1\" data-type=\"parties\" id=\"b116-10\" pgmap=\"116\">This is the case referred to in the conclusion of the foregoing opinion.</p> <opinion data-order=\"2\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b116-11\" pgmap=\"116\">Mr. Justice Breese</author> <p id=\"AI\" pgmap=\"116\">This cause is fully considered and decided in the case of Baker et al. v. The Administrator of Backus, ante.</p> <p id=\"b116-12\" pgmap=\"116\">The decree of the court is reversed and the bill dismissed.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

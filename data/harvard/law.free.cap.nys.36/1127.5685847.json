@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1127\" lastpage=\"1127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1147-18\">McCLAVE v. GIBB.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ArKJ\">(Superior Court of New York City,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AN4C\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ABb\">December 18, 1895.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AclQ\">Action by John McClave against John Gibb.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AFYV\">W. B. Ellison, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Au8\">Parsons, Shepard &amp; Ogden, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1147-19\">PER CURIAM.</author>\n<p id=\"AObJ\">The findings of fact and conclusion of law find support in the record, which discloses no error requiring a new trial. The judgment must therefore be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"696\" lastpage=\"696\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b730-4\">No.-. Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AGL\"><em>Ex parte: </em>In the Matter of Charley Webb, Petitioner.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"ArE8\">Submitted April 1, 1912.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A0i\">Decided April 8, 1912.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Al5j\"><em>Mr. James S. Davenport </em>for the petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AG57\">Motion for leave to file petition for writ of habeas corpus denied.</p>\n<p id=\"Abv\">See second application, <em>ante, </em>p. 663.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

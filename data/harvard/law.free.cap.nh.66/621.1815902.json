@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"621\" lastpage=\"621\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b649-7\">[Belknap,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AKC\">December, 1889.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b649-8\">Winnipiseogee Lake Cotton and Wollen Mfg. Co. <em>v. </em>Gilford.</parties>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b649-10\">Appeal, from the refusal of selectmen to abate a tax.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b649-11\"><em>E. A. &amp; C. B. Hibbard </em>and <em>D. </em>Barnard, for the plaintiffs.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b649-12\"><em>Jewell &amp; Stone </em>and <em>S. C. Clark, </em>for the defendants.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b649-13\">Doe, C. J.</author>\n<p id=\"AMS\">It is not deemed advisable to consider the reserved question of evidence before a trial of the case.</p>\n<p id=\"b649-14\">\n<em>Case discharged.</em>\n</p>\n<judges id=\"b649-15\">Smith, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

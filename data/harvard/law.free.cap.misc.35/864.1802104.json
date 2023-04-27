@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"864\" lastpage=\"864\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b906-2\">City Court or New York \u2014 General Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ANv8\">June, 1901.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"AQJ\">Before Conlan, Hasoall and O\u2019Dwyer, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b906-3\">Frederick Klein, Respondent, v. The East River Electric Light Company, Appellant.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A4S\">Appeal from an order of the City Court of the city of New York, placing the \u25a0 case <em>upon' </em>the short cause calendar for trial.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ads\">Beardsley &amp; Hemmens (Charles I. Taylor, of counsel), for appellant; Dittenhoefer, Gerber &amp; James (David Gerber, of counsel), for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ags\">Order appealed from affirmed, with ten dollars costs and disbursements. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

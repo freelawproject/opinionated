@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b631-4\">Rockingham,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A2qF\">June, 1894.</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b631-5\">Corson <em>v. </em>Boston &amp; Maine Railroad.</parties>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b631-6\">Case, for negligence. The defendants excepted to the denial of their motion for a nonsuit.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b631-7\"><em>William F. Nason </em>and <em>Edwin G. </em>Eastman, for the plaintiff.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b631-8\"><em>Worcester, Gaffney Snow, </em>for the defendants.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b631-9\">Carpenter, J.</author>\n<p id=\"A7y\">No attempt has been made to sustain the exception. The evidence was sufficient to warrant a verdict for the plaintiff.</p>\n<p id=\"b631-10\">\n<em>Exception overruled.</em>\n</p>\n<judges id=\"b631-11\">Blodgett, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

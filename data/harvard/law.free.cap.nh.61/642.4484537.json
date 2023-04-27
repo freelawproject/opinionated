@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"642\" lastpage=\"642\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b650-3\">[Grafton,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AS9\">December, 1881.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b650-4\">Cox <em>v. </em>Johnson <em>&amp; a.</em></parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A_qQ\"><em>Pike 8f </em>Parsons, for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ant\"><em>Burleigh Adams </em>and <em>S. P. </em>Burnham, for the defendants.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b650-5\">Clark, J.</author>\n<p id=\"AQC\">The sufficiency of the answer is not controverted, and no question of law is suggested.</p>\n<p id=\"b650-6\">\n<em>Gase discharged.</em>\n</p>\n<judges id=\"b650-7\">Stanley, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

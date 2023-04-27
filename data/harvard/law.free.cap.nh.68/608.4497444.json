@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"608\" lastpage=\"608\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b638-13\">Coos,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ArM\">June, 1895.</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b638-15\">Jordan <em>v. </em>Atherton <em>&amp; Tr.</em></parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AubQ\"><em>Thomas F. Johnson </em>and <em>Drew, Jordan &amp; Buckley, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A0P\"><em>Jason H. Dudley </em>and <em>George H. Bingham, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b638-16\">Foreign Attachment. The question reserved was \u201chow much the trustee should be charged.\u201d The amount was adjudged to be $400.</p>\n<judges id=\"b638-17\">Clark, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

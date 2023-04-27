@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1231\" lastpage=\"1231\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1121-5\">No. 108,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AGV\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Axt9\">Nebraska <em>v. </em>Wyoming et al.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ankg\">Motion of the Special Master for award of interim compensation and for reimbursement of expenses granted, and the Special Master is awarded $101,129.97 to be paid one-half by Nebraska and one-half by Wyoming. [For earlier order herein, see, <em>e. g., </em>485 U. S. 931.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"752\" lastpage=\"752\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b835-5\">TEL-INSTRUMENT ELECTRONICS CORPORATION, Plaintiff-Appellant, v. UNITED STATES, Defendant-Appellee, and JCAIR, Inc., Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A3O\">No. 03-5094.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b835-8\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b835-16\">Feb. 9, 2004.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b835-10\">Before LOURIE, LINN, and PROST, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b835-11\">\n<em>JUDGMENT</em>\n</p>\n<author id=\"ALM\">PER CURIAM.</author>\n<p id=\"b835-12\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b835-13\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

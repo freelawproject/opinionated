@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"2916\" lastpage=\"2916\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State of MISSISSIPPI, plaintiff,\n  <br/>\n  v.\n  <br/>\n  State of TENNESSEE, City of Memphis, Tennessee, and Memphis Light, Gas &amp; Water Division.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 143, Original.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  June 29, 2015.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Motion for leave to file a bill of complaint granted. Defendants are allowed thirty days within which to file an answer.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

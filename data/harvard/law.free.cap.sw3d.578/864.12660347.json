@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"864\" lastpage=\"865\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Thomas J. PRESLEY, Appellant,\n  <br/>\n  v.\n  <br/>\n  STATE of Missouri, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  WD 81568\n </docketnumber>\n <court id=\"p-3\">\n  Missouri Court of Appeals, Western District.\n </court>\n <decisiondate id=\"p-4\">\n  Order filed: July 30, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Gregory L. Barnes, Jefferson City, for Respondent.\n </attorneys>\n <attorneys id=\"p-6\">\n  Christian Lehmberg, for Appellant.\n </attorneys>\n <judges id=\"p-7\">\n  Before Division Three: Gary D. Witt, Presiding Judge, Edward R. Ardini, Jr., Judge and Thomas N. Chapman, Judge\n </judges>\n <p id=\"p-8\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   PER CURIAM:\n  </author>\n  <p id=\"p-10\">\n   Thomas Presley appeals the judgment of the Circuit Court of Cass County denying his Rule 29.15 motion for post-conviction relief. Finding no error, we affirm. Because a published opinion would have no precedential value, we have instead provided a memorandum of law to the parties. Rule 84.16(b).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

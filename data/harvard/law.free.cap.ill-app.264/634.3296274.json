@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"634\" lastpage=\"634\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><p data-order=\"0\" data-type=\"court\" id=\"b662-10\" pgmap=\"662\">Third District.</p><parties data-order=\"1\" data-type=\"parties\" id=\"b662-11\" pgmap=\"662\">Frank T. O\u2019Hair, plaintiff in error, v. The Cleveland, Cincinnati, Chicago &amp; St. Louis Railway Company, defendant in error.</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Ac2\" pgmap=\"662\">Gen. No. 8,543.</docketnumber><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aq3\" pgmap=\"662\">Opinion filed February 1, 1932.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b662-13\" pgmap=\"662\">Burnie McClain, for plaintiff in error. T. A. McCormack and S. W. Baxter, for defendant in error; H. H. Quigley, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b662-14\" pgmap=\"662\">Mr. Justice Eldredge</author> <p id=\"AMA2\" pgmap=\"662\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

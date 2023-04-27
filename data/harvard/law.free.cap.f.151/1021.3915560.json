@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1035-9\">LANE BROS. CO. et al. v. WILCOX MFG. CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AaDp\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AtbC\">March 26, 1907.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ApFC\">No. 219.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AkL\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AGe\">A. Parker Smith, for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Av-\">C. E. Pickard, A. H. Adams, J. L. Jackson, and H. A. Heyn, for appellees.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AOT\">Before LACOMBE, TOWNSEND, and COXE, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1035-10\">PER CURIAM.</author>\n<p id=\"Ae3\">Decree (141 Fed. 1000) affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

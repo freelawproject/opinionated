@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"861\" lastpage=\"861\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b903-2\">Supreme Court \u2014 Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Abh\">June, 1901.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"AAl\">Before Scott, P. J., Beach aftd Fitzgerald, JJ.</p>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b903-3\">Joseph Rosaler, Appellant, v. Frank Greenberg, Respondent.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ABk\">Appeal from a judgment rendered in favor of the defendant in the Municipal Court of the city of New York, fifth district, borough of Manhattan.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AH1\">Bernhard Ginsberg, for appellant; Abraham B. Schleimer, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnE\">Judgment affirmed, with costs. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

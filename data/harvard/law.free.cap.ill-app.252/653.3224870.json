@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"653\" lastpage=\"653\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b679-15\" pgmap=\"679\">Emma Palmer, appellee, v. The John Hancock Mutual Life Insurance Company, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AX73\" pgmap=\"679\">Gen. No. 33,294.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"Anjf\" pgmap=\"679\">O\u2019Connor, P. J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ASx\" pgmap=\"679\">Opinion filed April 22, 1929.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b679-17\" pgmap=\"679\">Hoyne, O\u2019Connor &amp; Rubinkam, for appellant. Oscar Thonander, for appellee.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b679-18\" pgmap=\"679\">Mr. Justice Matchett</author> <p id=\"AE-\" pgmap=\"679\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

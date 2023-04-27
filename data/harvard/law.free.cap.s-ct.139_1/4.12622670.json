@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"4\" lastpage=\"5\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  FOOD MARKETING INSTITUTE, Applicant\n  <br/>\n  v.\n  <br/>\n  ARGUS LEADER MEDIA, d/b/a Argus Leader.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 18A146.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 9, 2018.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   UPON CONSIDERATION of the application of counsel for the applicant,\n  </p>\n  <p id=\"p-7\">\n   IT IS ORDERED that the mandate of the United States Court of Appeals for the Eighth Circuit, case No. 17-1346, is hereby recalled and stayed pending further order of the undersigned or of the Court. It is further ordered that a response to the application be filed on or before Thursday, August 16, 2018, by 4 p.m. The reply, if\n   any, is to be filed by 4 p.m., Tuesday, August 21, 2018.\n  </p>\n  <p id=\"p-8\">\n   <em>\n    /s/ Neil M. Gorsuch\n   </em>\n  </p>\n  <author id=\"p-9\">\n   Associate Justice of the Supreme Court of the United States\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

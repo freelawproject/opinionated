@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"184\" lastpage=\"184\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b220-21\">In re Meir STRAHILEVITZ.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b220-22\">No. 03-1453.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b220-23\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b220-24\">Feb. 10, 2004.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b220-26\">Before NEWMAN, GAJARSA, and DYK, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b220-27\">JUDGMENT</p>\n<author id=\"AXK\">PER CURIAM.</author>\n<p id=\"b220-28\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b220-29\"><em>AFFIRMED. See </em>Fed. Cir. R. 36</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

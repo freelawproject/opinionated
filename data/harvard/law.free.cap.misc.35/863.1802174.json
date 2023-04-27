@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"863\" lastpage=\"863\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b905-15\">City Court of New York \u2014 General Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"An5\">May, 1901.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b905-16\">Before Fitzsimons, Ch. J., Delehanty and S'chuchman, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b905-17\">James Morehouse, Respondent, v. The Chatham Electric Light Company, Appellant.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Aks\">Appeal from judgment entered on verdict of jury and from order denying motion for a new trial.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A25\">Thomas H. Smith (Henry B. Twombly, of counsel), for appellant; A. M. &amp; G. Card (Edward S. Grilling, of counsel), for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMh1\">Judgment and order appealed from affirmed, with costs. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

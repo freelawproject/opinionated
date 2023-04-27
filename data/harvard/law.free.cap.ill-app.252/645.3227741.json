@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"645\" lastpage=\"645\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b671-14\" pgmap=\"671\">Effie Poe, appellee, v. Joseph Marciniak, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aa_\" pgmap=\"671\">Gen. No. 33,297.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"Aze6\" pgmap=\"671\">O\u2019Connor, P. J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AcG\" pgmap=\"671\">Opinion filed April 1, 1929.</decisiondate><otherdate data-order=\"4\" data-type=\"otherdate\" id=\"APH\" pgmap=\"671\">Rehearing denied April 13, 1929.</otherdate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b671-16\" pgmap=\"671\">Henry Pollenz, for appellant; Otto Ade Arnston, of counsel. James C. O\u2019Brien, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b671-17\" pgmap=\"671\">Mr. Justice McSurely</author> <p id=\"A6Y\" pgmap=\"671\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

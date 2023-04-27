@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"A5T\">No. 9,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aqsu\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ANE8\">United States <em>v. </em>Louisiana et al.</parties>\n<seealso data-order=\"3\" data-type=\"seealso\" id=\"AIB\">[For earlier order herein, see, <em>e. g., </em>444 U. S. 1.064.]</seealso>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1f\">Motion of Louisiana for divided argument, granted.</p>\n<judges id=\"AVn\">Mr. Justice Marshall took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

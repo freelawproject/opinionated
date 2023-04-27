@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"309\" lastpage=\"309\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b385-4\">Richmond</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b385-5\">Edward P. Cox, Jr. v. Commonwealth of Virginia.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AVs\">February 28, 1949.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b385-6\">Record No. 3512.</docketnumber>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATF\">No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

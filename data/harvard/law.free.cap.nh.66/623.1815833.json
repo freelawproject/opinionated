@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"623\" lastpage=\"623\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b651-3\">[Co\u00f6s,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A5i\">December, 1889.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b651-4\">Hebbard <em>v. </em>Berlin.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b651-8\"><em>Twitchell &amp; Goss, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Az4\"><em>R. N. Chamberlin </em>and <em>Drew &amp; Jordan, </em>for the defendants.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b651-5\">Doe, C. J.</author>\n<p id=\"AYs\">The case falls within the general principle of <em>Knowlton </em>v. <em>Pittsfield, </em>62 N. H. 535.</p>\n<p id=\"b651-6\">\n<em>Case discharged.</em>\n</p>\n<judges id=\"b651-7\">Bingham, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"149\" lastpage=\"149\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b163-6\">G. W. Mason v. State.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b163-7\">No. 24062.</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ATq\">May 26, 1948.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b163-13\">Hon. Robert Ray, Judge Presiding.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b163-15\"><em>Nielsen &amp; McCormick, </em>of Raymondville, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b163-16\"><em>Ernest S. Goens, </em>State\u2019s Attorney, of Austin, for the State.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b163-17\">DAVIDSON, Judge.</author>\n<p id=\"b163-18\">This is a companion case to that of W. W. Grayson, Jr., No. 24,061, this day decided. (Page 62 of this volume.)</p>\n<p id=\"b163-19\">For the reasons there stated, the judgment is reversed and the cause remanded.</p>\n<p id=\"b163-20\">Opinion approved by the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

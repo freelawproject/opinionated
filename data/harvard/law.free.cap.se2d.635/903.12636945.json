@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Gilbert Shawn CLARK.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 393P06.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 17, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Gilbert Shawn Clark, Pro Se.\n </attorneys>\n <attorneys id=\"p-6\">\n  Joan M. Cunningham, Assistant Attorney General, L. Johnson Britt, III, District Attorney, for State of NC.\n </attorneys>\n <p id=\"p-7\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Defendant on the 31st day of July 2006 in this matter for a writ of certiorari to review the order of the Superior Court, Robeson County, the following order was entered and is hereby certified to the Superior Court of that County:\n  </p>\n  <p id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 17th day of August 2006.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

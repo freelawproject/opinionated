@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"5\" lastpage=\"5\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  CROSSROADS GRASSROOTS POLICY STRATEGIES, Applicant\n  <br/>\n  v.\n  <br/>\n  CITIZENS FOR RESPONSIBILITY AND ETHICS IN WASHINGTON, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 18A274.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Sept. 15, 2018.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   UPON CONSIDERATION of the application of counsel for the applicant and the response filed thereto,\n  </p>\n  <p id=\"p-7\">\n   IT IS ORDERED that the order of the United States District Court for the District of Columbia, case No. 16-259, is hereby stayed pending further order of the undersigned or of the Court.\n  </p>\n  <p id=\"p-8\">\n   <em>\n    /s/ John G. Roberts, Jr.\n   </em>\n  </p>\n  <author id=\"p-9\">\n   Chief Justice of the United States\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

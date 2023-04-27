@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"131\" lastpage=\"133\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b151-13\" pgmap=\"151\">The People of the State of Illinois, Plaintiff-Appellee, v. John Lewis, Defendant-Appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b151-15\" pgmap=\"151\">(No. 58668;</docketnumber><court data-order=\"2\" data-type=\"court\" id=\"b151-16\" pgmap=\"151\">First District (3rd Division)</court><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AZn\" pgmap=\"151\">February 21, 1974.</decisiondate><p data-order=\"4\" data-type=\"judges\" id=\"b152-18\" pgmap=\"152\">DEMPSEY, J., took no part.</p> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b152-17\" pgmap=\"152\">PER CURIAM.</author> <attorneys id=\"b153-3\" pgmap=\"153\">James J. Doherty, Public Defender, of Chicago, for appellant.</attorneys> <attorneys id=\"b153-4\" pgmap=\"153\">Bernard Carey, State\u2019s Attorney, of Chicago (Kenneth L. Gillis and Thomas A. Manet, Assistant State\u2019s Attorneys, of counsel), for the People.</attorneys> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

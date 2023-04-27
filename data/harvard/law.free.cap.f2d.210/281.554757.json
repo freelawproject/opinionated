@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"281\" lastpage=\"281\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b329-4\">UNITED STATES of America v. Chester Allen POWELL et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b329-6\">No. 4768.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b329-7\">United States Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b329-8\">Jan. 8, 1954.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b329-10\">Frank D. McSherry, U. S. Atty., and Harry G. Fender, Asst. U. S. Atty., Muskogee, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b329-11\">Lonnie W. Brown and Ellis M. Brown, McAlester, Okl., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b329-12\">Before PHILLIPS, Chief Judge, and PICKETT, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b329-13\">PER CURIAM.</author>\n<p id=\"b329-14\">Appeal dismissed pursuant to stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

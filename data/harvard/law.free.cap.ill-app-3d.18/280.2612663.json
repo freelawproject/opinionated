@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"280\" lastpage=\"281\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b300-4\" pgmap=\"300\">The People of the State of Illinois, Plaintiff-Appellee, v. Edward M. Campbell, Defendant-Appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b300-5\" pgmap=\"300\">(No. 59277;</docketnumber><court data-order=\"2\" data-type=\"court\" id=\"b300-6\" pgmap=\"300\">First District (3rd</court><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ATZ\" pgmap=\"300\">March 7, 1974.</decisiondate><p data-order=\"4\" data-type=\"judges\" id=\"b300-18\" pgmap=\"300\">MEJDA, J., took no part.</p> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b300-17\" pgmap=\"300\">PER CURIAM.</author> <attorneys id=\"b301-3\" pgmap=\"301\">Sam Adam, of Chicago, for appellant.</attorneys> <attorneys id=\"b301-4\" pgmap=\"301\">Bernard Carey, State\u2019s Attorney, of Chicago (Patrick T. Driscoll and Scott W. Petersen, Assistant State\u2019s Attorneys, of counsel), for the People.</attorneys> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

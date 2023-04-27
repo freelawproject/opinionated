@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1123\" lastpage=\"1123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1143-3\">BRADY et al., Respondents, v. DUFFY, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Ax6\">(Common Pleas of New York City and County,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"ApPP\">Additional General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AmQN\">December 16, 1895.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AtrJ\">Action by Thomas Brady and another against Michael E. Duffy. M. E. Duffy, in pro. per. Robert J. Mahon, for respondents.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A65\">No opinion. Judgment reversed; new trial ordered; costs to appellant to abide the event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

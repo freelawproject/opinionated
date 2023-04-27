@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1037-5\">WELSBACH LIGHT CO. v. CREMO INCANDESCENT LIGHT CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AJeB\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AX0\">February 26, 1907.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Ag6\">No. 123.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AWlp\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AAQ_\">Thos. W. Bakewell <em>and Thos. B. Kerr, tor </em>appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Acv\">Louis Hicks, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AZr8\">Before WALLACE, LACOMBE, and TOWNSEND, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1037-6\">PER CURIAM.</author>\n<p id=\"AxM\">Decree of Circuit Court (145 Fed. 521) affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1123\" lastpage=\"1123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1143-6\">BURKHARDT, Respondent, v. NEW YORK EL. R. CO. et al., Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AGsK\">(Superior Court of New York City,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AoX\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AxpH\">December 18, 1895.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"APvm\">Action by Elizabeth Burkhardt against the New York Elevated Railroad Company.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AU29\">Davies, Short &amp; Townsend (Julien T. Davies and George T. Aldrich, of counsel), for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AMo\">E. W. Tyler and Edward A. Hibbard, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1143-7\">PER CURIAM.</author>\n<p id=\"ApRl\">The judgment should be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

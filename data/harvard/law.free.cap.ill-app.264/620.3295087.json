@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"620\" lastpage=\"620\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b648-16\" pgmap=\"648\">W. E. Mower, defendant in error, v. Ewald Wirths, plaintiff in error.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ahb6\" pgmap=\"648\">Gen. No. 35,362.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"ACj\" pgmap=\"648\">O\u2019Connor, P. J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ASp\" pgmap=\"648\">Opinion filed December 28, 1931.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b648-18\" pgmap=\"648\">Monahan &amp; Monahan, for plaintiff in error. Church, Haft, Robertson, Crowe &amp; Spence, for defendant in error; Burt A. Crowe and A. R. Hulbert, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b648-19\" pgmap=\"648\">Mr. Justice Matchett</author> <p id=\"AQx\" pgmap=\"648\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

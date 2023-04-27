@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1034-8\">BURLEE DRY DOCK CO. v. MORRIS &amp; CUMMINGS DREDGING CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Ak6\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AF0\">March 5, 1907.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Ayii\">No. 169.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ArDy\">Appeal from tbe District Court of the United States for the Southern District of New York.-</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AScZ\">Martin A. Ryan, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A-k\">Albert A. Wray, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AOUp\">Before WALLACE, LACOMBE, and COXE, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1034-9\">PER GURI\u00c1M.</author>\n<p id=\"AYR\">Decree (145 Fed. 740) affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

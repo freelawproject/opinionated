@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"16\" lastpage=\"16\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In re UNITED STATES, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 18A410.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 19, 2018.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   UPON CONSIDERATION of the application of counsel for the applicants,\n  </p>\n  <p id=\"p-7\">\n   IT IS ORDERED that discovery and trial in the United States District Court for the District of Oregon, in case No. 6:15-cv-01517, are stayed pending receipt of a response, due on or before Wednesday, October 24, 2018, by 3 p.m., and further order of the undersigned or of the Court.\n  </p>\n  <p id=\"p-8\">\n   <em>\n    /s/ John G. Roberts, Jr.\n   </em>\n  </p>\n  <author id=\"p-9\">\n   Chief Justice of the United States\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

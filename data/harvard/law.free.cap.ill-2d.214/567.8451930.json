@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"567\" lastpage=\"567\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b579-8\" pgmap=\"579\">In re SUFIE, Jan Josef</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Atk\" pgmap=\"579\">(MR 19949)</docketnumber><p data-order=\"2\" data-type=\"docketnumber\" id=\"b579-9\" pgmap=\"579\">Lansing, EL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b579-12\" pgmap=\"579\">Order of the Court:</p> <p id=\"b579-13\" pgmap=\"579\">The petition by the Administrator of the Attorney Registration and Disciplinary Commission for leave to file exceptions to the report and recommendation of the Review Board is allowed.</p> <p id=\"b579-14\" pgmap=\"579\">Respondent Jan Josef Sufie is suspended from the practice of law for 18 months and until further order of the Court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

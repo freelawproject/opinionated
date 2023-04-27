@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"640\" lastpage=\"640\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b648-14\">[Rockingham,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A6b\">December, 1881.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b648-15\">Toppan <em>v. </em>Eastern Railroad Co.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A4Q\"><em>Marston \u00bf- Bastman, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AS4\"><em>J. Batch, </em>for the defendants.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b648-16\">Case. Pacts found by a referee whose report for the plaintiff was based on the defendants\u2019 negligence found as a fact.</p>\n<p id=\"A4H\">\n<em>Judgment for the plaintiff.</em>\n</p>\n<judges id=\"b648-18\">Smith, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

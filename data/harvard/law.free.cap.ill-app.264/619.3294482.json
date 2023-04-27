@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"619\" lastpage=\"619\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b647-2\" pgmap=\"647\">Louis Turk, appellant, v. City of Chicago, appellee.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_E\" pgmap=\"647\">Gen. No. 35,546.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AfG\" pgmap=\"647\">O\u2019Connor, P. J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AE1v\" pgmap=\"647\">Opinion filed December 28, 1931.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b647-4\" pgmap=\"647\">Aaron Soble, for appellant. William H. Sexton, Corporation Counsel, for' appellee; John W. McCarthy and Roy S. Gaskill, Assistant Corporation Counsel, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b647-5\" pgmap=\"647\">Mr. Justice MeSurely</author> <p id=\"AFF\" pgmap=\"647\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

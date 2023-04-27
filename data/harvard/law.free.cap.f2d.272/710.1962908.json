@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"710\" lastpage=\"710\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b782-7\">Ernest K. BRAMBLETT, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b782-9\">No. 16452.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b782-10\">United States Court of Appeals Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b782-11\">Dec. 3, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b782-12\">Ernest King Bramblett, in pro. per.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Aer\">Laughlin E. Waters, U. S. Atty., Richard A. Lavine, James R. Dooley, Asst. U. S. Attys., Los Angeles, Cal., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b782-13\">Before STEPHENS, BARNES and KOELSCH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b782-14\">PER CURIAM.</author>\n<p id=\"b782-15\">Judgment in the above entitled case is hereby affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

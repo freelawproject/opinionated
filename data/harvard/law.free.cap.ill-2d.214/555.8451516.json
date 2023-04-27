@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"555\" lastpage=\"556\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b567-10\" pgmap=\"567\">In re CIRIGNANI, Thomas R.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Atb\" pgmap=\"567\">(MR 19983)</docketnumber><p data-order=\"2\" data-type=\"docketnumber\" id=\"b567-11\" pgmap=\"567\">Chicago, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b568-5\" pgmap=\"568\">Order of the Court:</p> <p id=\"b568-6\" pgmap=\"568\">The motion by the Administrator of the Attorney Registration and Disciplinary Commission to approve and confirm the report and recommendation of the Hearing Board is allowed, and respondent Thomas R. Cirignani is suspended from the practice of law for one year and until further order of the Court.</p> <p id=\"b568-7\" pgmap=\"568\">The motion by respondent for retroactive imposition of discipline is denied.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

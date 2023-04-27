@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"594\" lastpage=\"594\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b606-6\">[Carroll,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AmV\">June, 1879.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b606-7\">Palmer <em>&amp; a. v. </em>Drew.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b606-8\"><em>Pease </em>and Copeland, for tbe plaintiffs.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b606-9\">Soils, for tbe defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b606-10\">Doe, C. J.</author>\n<p id=\"AGP\">Tbe case having been referred with an agreement that tbe award should be final, tbe defendant is not entitled to a jury trial.</p>\n<p id=\"b606-11\">No exceptions were taken at tbe trial, and no cause appears for granting the defendant\u2019s motion to reject tbe report.</p>\n<p id=\"b606-12\">\n<em>Judgment for the plaintiffs.</em>\n</p>\n<judges id=\"b606-13\">Smith J., did not sit: tbe others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

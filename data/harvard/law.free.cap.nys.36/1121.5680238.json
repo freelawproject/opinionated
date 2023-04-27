@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1121\" lastpage=\"1121\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1141-6\">AMOROSA, Appellant, v. GALLELLA, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A8Qx\">(Common Pleas of New York City and County,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"ANc0\">Additional General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AB7\">December 16, 1895.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ADXW\">Action by Dante Amorosa against Antonio Gallella.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AgBZ\">Samuel S. Sewards, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AU0m\">J. Palmeri, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A40\">No opinion. Judgment reversed; new trial ordered; costs to appellant to abide event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1005\" lastpage=\"1005\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b921-7\">No. 111,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aqdt\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aoqq\">Delaware <em>v. </em>New York.</parties>\n<seealso data-order=\"3\" data-type=\"seealso\" id=\"Aqod\">[For earlier order herein, see, <em>e. g., </em>488 U. S. 990.]</seealso>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AaHl\">Motion of Texas</p>\n<p id=\"AseO\">for leave to file complaint in intervention granted. The parties are allowed 60 days within which to answer.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"397\" lastpage=\"398\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  William M. HUGGINS\n </parties>\n <docketnumber id=\"p-2\">\n  No. 459P00-7\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 17, 2017\n </decisiondate>\n <attorneys id=\"p-5\">\n  William M. Huggins, for Huggins, William M.\n </attorneys>\n <attorneys id=\"p-6\">\n  Amy C. Kunstling, Assistant Attorney General, Sarah Kirkman, District Attorney, for State of N.C.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Defendant on the 5th of July 2017 in this matter for a writ of certiorari to review the decision of the North Carolina Court of Appeals, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <blockquote id=\"p-9\">\n   \"Denied By Order of the Court in Conference, This the 17th of August 2017.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

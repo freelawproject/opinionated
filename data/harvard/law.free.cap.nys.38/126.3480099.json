@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"126\" lastpage=\"126\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b142-6\">FERGUSON v. ZELTNER et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b142-7\">(City Court of New York, General Teim.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A7L\">March 16, 1896.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b142-8\">Action by John S. Ferguson against Henry Zeltner and another. From an \u2022order made below, defendants appeal.</summary>\n<disposition data-order=\"4\" data-type=\"disposition\" id=\"Ax_\">Affirmed.</disposition>\n<p data-order=\"5\" data-type=\"judges\" id=\"b142-9\">Argued before FITZSIMONS and CONLAN, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b142-10\">Mortimer Stiefel, for appellants.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b142-11\">R. Burnham Moffatt, for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b142-12\">PER CURIAM.</author>\n<p id=\"AbV\">Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

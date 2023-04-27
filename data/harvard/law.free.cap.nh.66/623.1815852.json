@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"623\" lastpage=\"623\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b651-17\">[Sullivan,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A1xY\">June, 1890.]</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b651-18\">State <em>v. </em>Lewis.</parties>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b651-15\"><em>Attorney-General </em>and <em>Solicitor, </em>for the state.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Apa\"><em>W. L. Foster </em>and <em>A. S. Wait, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b651-12\">Doe, C. J.</author>\n<p id=\"AQW\">It is not advisable to examine the law of the case until the question whether the defendant in <em>State </em>v. <em>Cornish (ante, p. </em>329) acted as the agent or servant of this defendant in bringing the pauper into this state, and until other questions of fact are determined by agreement or trial.</p>\n<p id=\"b651-13\">\n<em>Case discharged.</em>\n</p>\n<judges id=\"b651-14\">Allen and Smith, JJ., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1133\" lastpage=\"1133\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1153-17\">STANGE, Respondent, v. PRUDENTIAL LIFE INS. CO., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ACu5\">(Common Pleas of New York City and County,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A8S\">Additional General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AYHr\">December 16, 1895.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A_Rn\">Action by Lena Stange, as administratrix, against the Prudential Life Insurance Company.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AGrq\">William O. Campbell, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AKcI\">William F. Bowne, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A95E\">No opinion. Judgment reversed; new trial ordered; costs to appellant to abide event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

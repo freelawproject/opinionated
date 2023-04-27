@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1132\" lastpage=\"1132\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1152-6\">PRINCE, Respondent, v. GROSSMAN, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AUIh\">(Common Pleas of New York City and County,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"Az6y\">Additional General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aj47\">December 16, 1895.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AYn\">Action by Herman Prince against Charles Grossman. A. H. Sarasohn, for appellant. J. Levy, for respondent.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_uI\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

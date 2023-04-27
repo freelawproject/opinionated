@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1135\" lastpage=\"1135\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1153-8\">FARMERS\u2019 FEED CO., Appellant, v. DAVID STEVENSON BREWING CO., Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AZn6\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AWRz\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AiKc\">May 28, 1900.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Aa9z\">Action by the Farmers\u2019 Feed Company against the David Stevenson Brewing Co. From a judgment dismissing the complaint, plaintiff appeals.</summary>\n<disposition data-order=\"5\" data-type=\"disposition\" id=\"Ag-J\">Reversed.</disposition>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A4Of\">Paskusz &amp; Cohen, for appellant. William G. McCr'ea, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1153-9\">PER CURIAM.</author>\n<p id=\"AgbK\">The complaint sets forth a good cause of action. It was error to dismiss it. Judgment reversed. New trial ordered, with costs to appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

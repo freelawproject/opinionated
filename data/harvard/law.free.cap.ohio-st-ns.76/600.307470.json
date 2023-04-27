@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"600\" lastpage=\"600\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b642-7\">No. 10174.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Au2b\">Marriott and The E. A. Kinsey Co. <em>v. </em>Burr, Exrx., and The Columbus, Sandusky &amp; Hocking Railroad Co.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ABT\">Decided April 30, 1907.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AMN\">Error to Circuit Court of Franklin county.</summary>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"Agy\">\n<em>Messrs. .Stewart &amp; Stewart; Mr. F. C.</em>\n</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AO9qW\"><em>Rector; Mr. T. E. Powell; Messrs. Albery &amp; West-fall and Messrs. Herron, Gatch, Herron &amp; James, </em>for plaintiffs in error. <em>Mr. I. F. Rogers </em>and <em>Messrs. Booth, Keating &amp; Peters, </em>for defendants in error.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgZ\">Judgment affirmed.</p>\n<judges id=\"AeI\">Shauck, C. J., Summers and Davis, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"823\" lastpage=\"823\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b875-5\">No. \u2014, original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ADO3\">New Jersey <em>v. </em>State of New York et al.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AMZR\">Motion submitted May 13, 1929.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AMK\">Decided May 20, 1929.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AyDI\"><em>Messrs. Duane E. Minard </em>and <em>Williams A. Stevens </em>for complainant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A7s\"><em>Messrs. Hamilton Ward, </em>Attorney General of New York, . and <em>Albert J. Danaher </em>for the State of New York.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AXc\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AR1\">Motion for leave to file a bill of complaint herein is granted, and process is ordered to issue, returnable on Monday, May 27 next.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

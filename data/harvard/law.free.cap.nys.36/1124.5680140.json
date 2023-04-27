@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1124\" lastpage=\"1124\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1144-19\">ELKAU et al., Appellants, v. HITCHCOCK et al., Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AQqV\">(Superior Court of Buffalo,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"Atat\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AKML\">July, 1895.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"An4A\">Action by Nathan Elkau and others against Charles R. Hitchcock and others.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aqz8\">No opinion. Judgment of the municipal court set aside, with $10 costs and disbursements, and new trial ordered in the municipal court August 19, 1895, at 10 o\u2019clock a. m. WHITE, J., dissents.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

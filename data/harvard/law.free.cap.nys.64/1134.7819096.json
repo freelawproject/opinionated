@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1134\" lastpage=\"1134\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1152-4\">CRAWFORD et al. v. FURY et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ArT\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AQi\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A2nm\">May 28, 1900.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A6P0\">Action by William B. Crawford and another against John Fury and another. From a judgment in favor of plaintiffs, defendant John Fury appeals.</summary>\n<disposition data-order=\"5\" data-type=\"disposition\" id=\"Aph\">Affirmed.</disposition>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AgH\">Early, Heath &amp; Stewart, for appellant. John J. Brady, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1152-5\">PER CURIAM.</author>\n<p id=\"ALcQ\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

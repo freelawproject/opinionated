@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1133\" lastpage=\"1133\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1151-17\">COHEN, Respondent, v. HOLTZER, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AKTU\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AQEU\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AD62\">May 28, 1900.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AbP4\">Action by Morris Cohen against Max Holtzer. Ekom an order of reference in favor of plaintiff, defendant appeals.</summary>\n<disposition data-order=\"5\" data-type=\"disposition\" id=\"AOT1\">Reversed.</disposition>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Amf\">Ignace I. Apfel, for appellant. Max Altmayer, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1151-18\">PER CURIAM.</author>\n<p id=\"A8N-\">Order of reference appealed from is reversed, with costs and disbursements, and the motion for a reference, etc., is denied, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

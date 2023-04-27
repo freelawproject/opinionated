@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1126\" lastpage=\"1126\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1146-14\">HILL, Respondent, v. McGREGOR, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Asb1\">(Superior Court of Buffalo,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A3lJ\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AiOt\">December 23, 1895.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AeRJ\">Action by John Hill, by guardian, against John -McGregor.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOaF\">No opinion. Judgment and order appealed from affirmed, with costs. HATCH, J., did not sit in this case.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
