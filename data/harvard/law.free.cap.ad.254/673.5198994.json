@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"673\" lastpage=\"673\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b731-13\">Freda Brody, Respondent, v. Isidore Brody, Appellant.</parties>\n\n<opinion><p id=\"Avg3\">Order unanimously reversed and the question of the financial ability of the defendant referred to an official referee to hear and report to Special Term. No opinion. Present \u2014 Martin, P. J., Townley, Dore, Cohn and Callahan, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"673\" lastpage=\"673\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b731-13\">Freda Brody, Respondent, v. Isidore Brody, Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Avg3\">Order unanimously reversed and the question of the financial ability of the defendant referred to an official referee to hear and report to Special Term. No opinion. Present \u2014 Martin, P. J., Townley, Dore, Cohn and Callahan, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

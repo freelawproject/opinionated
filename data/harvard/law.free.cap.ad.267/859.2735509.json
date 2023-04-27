@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"859\" lastpage=\"859\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b911-11\">Ervin Palmer, as a Director of Morelite Co., Inc., and as Committee of Margaret Palmer, an Incompetent, in Her Behalf and for All Other Stockholders, Respondent, v. Morelite Co., Inc., et al., Appellants, et al., Defendants.</parties>\n\n<opinion><p id=\"AcUu\">Order, so far as appealed from, unanimously affirmed, with twenty dollars costs and disbursements, with leave to the defendants-appellants to answer within ten days after service of order, on payment of said costs. No opinion. Present \u2014 Martin, P. J., Townley, Untermyer, Dore and Cohn, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"859\" lastpage=\"859\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b911-11\">Ervin Palmer, as a Director of Morelite Co., Inc., and as Committee of Margaret Palmer, an Incompetent, in Her Behalf and for All Other Stockholders, Respondent, v. Morelite Co., Inc., et al., Appellants, et al., Defendants.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AcUu\">Order, so far as appealed from, unanimously affirmed, with twenty dollars costs and disbursements, with leave to the defendants-appellants to answer within ten days after service of order, on payment of said costs. No opinion. Present \u2014 Martin, P. J., Townley, Untermyer, Dore and Cohn, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

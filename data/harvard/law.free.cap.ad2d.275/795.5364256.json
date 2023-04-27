@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"795\" lastpage=\"795\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b855-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AIba\">May, 1949.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b855-5\">(May 3, 1949.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b855-6\">Thomas F. Mulligan, Appellant, v. City of New York, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYOQ\">No opinion. Present \u2014 Peck, P. J., Dore, Cohn, Van Voorhis and Shientag, JJ.; Shientag, J., dissents and votes to reverse and grant plaintiff\u2019s motion for judgment on the pleadings. [194 Misc. 579.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"118\" lastpage=\"118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  NEW JERSEY DIVISION OF CHILD PROTECTION AND PERMANENCY, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  A.S.K., and T.T., Defendants,\n  <br/>\n  and\n  <br/>\n  E.M.C., Defendant-Respondent.\n </parties>\n <parties id=\"p-2\">\n  In the Matter of the Guardianship of N.D.K., A.E.C., and E.S.K., Minors., (A.E.C.-Respondent)\n </parties>\n <docketnumber id=\"p-3\">\n  M-454 September Term 2017\n  <br/>\n  079700\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  December 8, 2017\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   It is ORDERED that the motion to expand the record is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

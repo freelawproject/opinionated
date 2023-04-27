@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1118\" lastpage=\"1118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<p id=\"AnFe\">November, 2005</p>\n<decisiondate id=\"A49z\">(November 10, 2005)<footnotemark>*</footnotemark></decisiondate>\n\n<parties id=\"b1142-6\">Herbek-Passalacqua v Board of Educ., Victor Cent. School</parties>\n<p id=\"AW9c\">11/10/05</p>\n\n\n<opinion><p id=\"b1142-4\">Fourth Department,</p><p id=\"b1142-5\">ORDER AFFIRMED</p><p id=\"AofR\">4th Dept. Dist. [Reed, A J.]</p><p label=\"*\">\n\n</p><p id=\"b1142-12\"> Not published with other Fourth Department decisions of November, 2005.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"1118\" lastpage=\"1118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"AnFe\">November, 2005</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A49z\">(November 10, 2005)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b1142-6\">Herbek-Passalacqua v Board of Educ., Victor Cent. School</parties>\n<p data-order=\"3\" data-type=\"parties\" id=\"AW9c\">11/10/05</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b1142-4\">Fourth Department,</p><p id=\"b1142-5\">ORDER AFFIRMED</p><p id=\"AofR\">4th Dept. Dist. [Reed, A J.]</p><p label=\"*\">\n</p><p id=\"b1142-12\"> Not published with other Fourth Department decisions of November, 2005.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

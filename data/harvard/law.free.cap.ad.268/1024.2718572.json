@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1024\" lastpage=\"1024\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1076-7\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A9Th\">January, 1945.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1076-8\">(January 10, 1945.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1076-9\">Consolidated Edison Company of New York, Inc., v. Walter J. Salmon et al.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ae9r\">Motion for leave to appeal to the Court of Appeals or for a reargument and for a stay denied, with ten dollars costs. [See <em>ante, </em>p. 898.] Present \u2014 Martin, P. J., Townley, Glennon and Dore, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

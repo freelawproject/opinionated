@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1043\" lastpage=\"1043\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1085-3\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AVT\">April, 1958</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Axcv\">(April 29, 1958)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ae7p\">Walter N. Smith et al., Appellants, v. Robert Wagner, as Mayor of the City of New York, et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b1085-13\"> Not published with other decisions of April 29, 1958, 5 A D 2d 986 and Sept. 23, 1958, 6 A D 2d 1002.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AO0\">Motion denied. Concur'\u2014 Breitel, J. P., Rabin, M. M. Frank, Valente and Stevens, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

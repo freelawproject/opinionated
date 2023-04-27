@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"927\" lastpage=\"927\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b977-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AHTy\">May, 1981</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ARAE\">(May 5, 1981)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A4cU\">The People of the State of New York ex rel. Andrew Jenkins, Appellant, v Lawrence C. Kolb, as Commissioner of the New York State Department of Mental Hygiene, et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApV3\">\u2014 Application for writ of habeas corpus denied. Mahoney, P.J., Sweeney, Kane, Casey and Weiss, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"919\" lastpage=\"919\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b979-7\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AoFF\">September 1968</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aeoi\">(September 12, 1968)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AMA\">In the Matter of Nathan Straus, Appellant-Respondent, v. James M. Power et al., Constituting the Board of Elections of the City of New York, Respondents, and Jacob H. Gilbert, Respondent-Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWTU\">Judgment unanimously affirmed, without costs and without disbursements. No opinion. Concur \u2014 Botein, P. J., Stevens, Eager, Tilzer and Capozzoli, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

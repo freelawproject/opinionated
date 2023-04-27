@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"744\" lastpage=\"744\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"AGE4\">First Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AJt\">July, 1957</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aoct\">(July 2, 1957)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ATA\">Samuel I. Burd, v. Milton Kellem Music Co., Inc. et al.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFYa\">Motion for stay denied. Concur\u2014Breitel, J. P., Frank, Valente, McNally and Bergan, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

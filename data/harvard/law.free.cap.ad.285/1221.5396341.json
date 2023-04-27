@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1221\" lastpage=\"1221\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<p id=\"AUqH\">Perry E. Leary, Esq., appointed a member of the committee in the place of Hon. Adolph J. Rodenbeck, resigned.</p>\n<opinion><p id=\"b1269-8\">In the Matter of the Appointment of a Member of the Committee on Character and Fitness of Applicants for Admission to the Bar in the Seventh Judicial District.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"1221\" lastpage=\"1221\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"parties\" id=\"AUqH\">Perry E. Leary, Esq., appointed a member of the committee in the place of Hon. Adolph J. Rodenbeck, resigned.</p>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b1269-8\">In the Matter of the Appointment of a Member of the Committee on Character and Fitness of Applicants for Admission to the Bar in the Seventh Judicial District.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

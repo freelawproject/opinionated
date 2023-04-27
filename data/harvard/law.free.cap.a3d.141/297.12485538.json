@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"297\" lastpage=\"297\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Sahin Atlas<br/> v.<br/> Richard Bolton</parties>\n<docketnumber id=\"p-2\">NOS. C-916 SEPT. TERM 2015, 076902</docketnumber>\n<court id=\"p-3\">Supreme Court of New Jersey</court>\n<decisiondate id=\"p-4\">June 17, 2016</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Disposition: Denied.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"297\" lastpage=\"297\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Sahin Atlas\n    <br/>\n    v.\n    <br/>\n    Richard Bolton\n   </parties>\n   <docketnumber id=\"p-2\">\n    NOS. C-916 SEPT. TERM 2015, 076902\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of New Jersey\n   </court>\n   <decisiondate id=\"p-4\">\n    June 17, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Disposition: Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

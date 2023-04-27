@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"136\" lastpage=\"136\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b170-2\">[Civ. No. 7848.</docketnumber>\n<court data-order=\"1\" data-type=\"court\" id=\"AjY\">First Appellate District, Division One.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ADn\">January 16, 1931.]</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b170-4\">JOSEPH J. SCHNERR, Petitioner, v. THE SUPERIOR COURT OF THE CITY AND COUNTY OF SAN FRANCISCO et al., Respondents.</parties>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b170-9\">Edmund Gerald Brown for Petitioner.</p>\n<p data-order=\"5\" data-type=\"attorneys\" id=\"b170-10\">No appearance for Respondents.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b170-11\">THE COURT.</author>\n<p id=\"Ap5\">The application is denied for the reason that petitioner has ample remedy by appeal. <em>(Helbush </em>v. <em>Superior Court, </em>99 Cal. App. 501 [278 Pac. 1062].)</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

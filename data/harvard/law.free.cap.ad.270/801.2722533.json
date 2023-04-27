@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b867-8\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AVHt\">February, 1946.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b867-9\">(February 1, 1946.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b867-10\">The People of the State of New York, Respondent, v. Bernard Schatsky, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3SD\">Judgment reversed and the complaint dismissed on the ground that the guilt of the defendant was not established beyond a reasonable doubt. Present \u2014 Martin, P. J., Townley, Glennon, Cohn and Peck, JJ.; Martin, P. J., dissents and votes to affirm.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

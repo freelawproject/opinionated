@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"289\" lastpage=\"289\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Audrey SAMPSON, Individually and as Executrix of the Estate of John Sampson, Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  3M COMPANY, f/k/a Minnesota Mining &amp; Manufacturing Company, et al., Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  M-451/452 September Term 2018\n  <br/>\n  081932\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  January 11, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion of BASF Catalysts, LLC for leave to appeal (M-451) is granted and the matter is summarily remanded to the Superior Court, Appellate Division; and it is further\n  </p>\n  <p id=\"p-7\">\n   ORDERED that the miscellaneous motion to provisionally seal the Appellate record (M-452) is dismissed as moot. Jurisdiction is not retained.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

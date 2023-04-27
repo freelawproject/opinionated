@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"680\" lastpage=\"680\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AXcX\">Sydney Snitow et al. v. Nelson C. Dukes et al.</parties>\n\n<opinion><p id=\"As6N\">Motion granted insofar as to dispense with printing of the exhibits in the record on appeal on condition that the originals thereof are filed with the court on the Wednesday preceding the first day of the Term for which the appeal is noticed for argument. In all other respects, the motion is denied. Concur \u2014 Breitel, J. P., M. M. Frank, Valente, McNally and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"680\" lastpage=\"680\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AXcX\">Sydney Snitow et al. v. Nelson C. Dukes et al.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"As6N\">Motion granted insofar as to dispense with printing of the exhibits in the record on appeal on condition that the originals thereof are filed with the court on the Wednesday preceding the first day of the Term for which the appeal is noticed for argument. In all other respects, the motion is denied. Concur \u2014 Breitel, J. P., M. M. Frank, Valente, McNally and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1060-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AiZW\">August, 1949.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1060-5\">(August 30, 1949.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1060-6\">In the Matter of Estelle Aaronson, Appellant-Respondent, against William D. Meisser et al., Constituting the Board of Elections of Nassau County, Respondents, and Leonard R. Hanower et al., Respondents-Appellants. In the Matter of Joseph Ross et al., Appellants-Respondents, against William D. Meisser et al., Constituting the Board of Elections of Nassau County, Respondents, and Leonard R. Hanower et al., Respondents-Appellants. (Consolidated Proceedings.)</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AvOl\">No opinion. Permission to appeal to the Court of Appeals granted. Nolan, P. J., Adel, Sneed, Wenzel and MacCrate, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"785\" lastpage=\"785\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">A.M.H.<br/> v.<br/> J.K.</parties>\n<docketnumber id=\"p-2\">NO. 1842 MDA 2015</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">April 18, 2016</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Vacated and Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"785\" lastpage=\"785\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    A.M.H.\n    <br/>\n    v.\n    <br/>\n    J.K.\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 1842 MDA 2015\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 18, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Vacated and Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

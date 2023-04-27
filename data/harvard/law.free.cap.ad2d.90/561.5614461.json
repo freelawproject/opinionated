@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"561\" lastpage=\"561\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b609-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AR8\">October, 1982</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ac-v\">(October 5, 1982)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AG3\">The People of the State of New York ex rel. Mark S. Williams, Petitioner, v Everett Jones, as Superintendent of Great Meadow Correctional Facility, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Af_K\">Application, pursuant to CPLR 7002 (subd [b], par 2), for writ of habeas corpus denied, upon the ground that there is no basis to depart from traditional orderly procedure by resort to habeas corpus during pendency of a direct appeal from the judgment of conviction <em>(People ex rel. Keitt v McMann, </em>18 NY2d 257.) Mahoney, P. J., Sweeney, Yesawich, Jr., Weiss and Levine, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1037-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A8vX\">December, 1992</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aq-\">(December 30, 1992)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AVHt\">In the Matter of Steven D. Rose, as Commissioner of Oswego County Department of Social Services, on Behalf of Darlene H. Watkins, Appellant, v Dennis Walker, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AxgM\">Order unanimously affirmed without costs <em>(see, Matter of Rose v Haney, </em>188 AD2d 999 [decided herewith]). (Appeal from Order of Oswego County Family Court, Roman, J. \u2014 Child Support.) Present \u2014 Callahan, J. P., Green, Pine, Boehm and Doerr, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

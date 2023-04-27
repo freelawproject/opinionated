@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"977\" lastpage=\"977\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  MARUKA USA, INC., Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  SPECIALTY LIGHTING INDUSTRIES, INC., Defendant-Respondent,\n  <br/>\n  v.\n  <br/>\n  Mori Seiki USA, Inc., d/b/a DMG/Mori USA, and DMG Mori Seiki Company, Ltd., Third-Party Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  M-244/245 September Term 2018\n  <br/>\n  081585\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  November 2, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for direct certification (M-244) is denied; and it is further\n  </p>\n  <p id=\"p-7\">\n   ORDERED that the motion for consolidation (M-245) is dismissed as moot.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

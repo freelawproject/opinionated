@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Mae Twyman<br/> v.<br/> District of Columbia Department of Employment Services and IAP Worldwide Services, et al.</parties>\n<docketnumber id=\"p-2\">NO. 15-AA-433</docketnumber>\n<court id=\"p-3\">District of Columbia Court of Appeals</court>\n<decisiondate id=\"p-4\">April 27, 2016</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Dist. of Columbia Dept. of Employment Services-Compensation Review Bd.</p><p id=\"p-6\">Disposition: Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Mae Twyman\n    <br/>\n    v.\n    <br/>\n    District of Columbia Department of Employment Services and IAP Worldwide Services, et al.\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 15-AA-433\n   </docketnumber>\n   <court id=\"p-3\">\n    District of Columbia Court of Appeals\n   </court>\n   <decisiondate id=\"p-4\">\n    April 27, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dist. of Columbia Dept. of Employment Services-Compensation Review Bd.\n    </p>\n    <p id=\"p-6\">\n     Disposition: Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

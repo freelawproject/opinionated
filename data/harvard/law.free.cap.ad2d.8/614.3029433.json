@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"614\" lastpage=\"614\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AA2\">The People of the State of New York, Respondent, v. Edward Goree, Appellant, et al., Defendant.</parties>\n\n<opinion><p id=\"A2j\">Judgment unanimously affirmed. No opinion. Concur \u2014 Breitel, J. P., Rabin, McNally, Stevens and Bergan, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"614\" lastpage=\"614\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AA2\">The People of the State of New York, Respondent, v. Edward Goree, Appellant, et al., Defendant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A2j\">Judgment unanimously affirmed. No opinion. Concur \u2014 Breitel, J. P., Rabin, McNally, Stevens and Bergan, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

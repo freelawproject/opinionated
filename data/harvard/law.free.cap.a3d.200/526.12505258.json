@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"526\" lastpage=\"526\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">ESQUIVEL, J.<br/> v.<br/> RSC EQUIPMENT<br/> v.<br/> RRR Contractors</parties>\n<docketnumber id=\"p-2\">43 EDA 2018</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">October 2, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"526\" lastpage=\"526\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    ESQUIVEL, J.\n    <br/>\n    v.\n    <br/>\n    RSC EQUIPMENT\n    <br/>\n    v.\n    <br/>\n    RRR Contractors\n   </parties>\n   <docketnumber id=\"p-2\">\n    43 EDA 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    October 2, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">State of Delaware, DEPARTMENT OF FINANCE, Plaintiff Below, Appellant,<br/> v.<br/> UNIVAR, INC., Defendant Below, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 201, 2019</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<decisiondate id=\"p-4\">Submitted: May 7, 2019<br/> Decided: June 18, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">REFUSED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    State of Delaware, DEPARTMENT OF FINANCE, Plaintiff Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    UNIVAR, INC., Defendant Below, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 201, 2019\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted: May 7, 2019\n    <br/>\n    Decided: June 18, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     REFUSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

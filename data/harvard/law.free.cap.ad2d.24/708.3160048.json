@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"708\" lastpage=\"708\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b704-9\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AQa\">April, 1965 <footnotemark>*</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b704-10\">(April 12, 1965)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AujM\">In the Matter of Max A. Gulack, Appellant. Martin P. Catherwood, as Industrial Commissioner, Respondent.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b704-14\"> Not published with other decisions of April, 1965, 23 A D 2d 799.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"Ab8a\">Appeal dismissed, without costs, unless appellant shall, on or before July 30, 1965, file and serve record, brief and notice of argument for the term commencing September 8, 1965, in which event motion denied. Gibson, P. J., Herlihy, Reynolds, Aulisi and Hamm, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

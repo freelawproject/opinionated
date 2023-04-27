@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"309\" lastpage=\"309\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  SKLAROFF, R.\n  <br/>\n  v.\n  <br/>\n  ABINGTON SD, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  2134 CD 2016\n </docketnumber>\n <court id=\"p-3\">\n  Commonwealth Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  May 23, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Quashed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

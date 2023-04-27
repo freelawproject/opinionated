@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b959-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A3d\">January, 1942.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b959-5\">(January 5, 1942.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b959-6\">In the Matter of the Application of Morris Sternberg, Appellant, for an Order and Review under Article 78 of the Civil Practice Act and Section 1265 of the Education Law, against The Board of Regents of the University of the State of New York, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AchJ\">Stay granted. Present \u2014 Hill, P. J., Crapser, Bliss, Heffernan and Sehenek, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

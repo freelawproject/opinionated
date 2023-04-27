@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Thomas Bolick and Thomas Bolick, III\n  <br/>\n  v.\n  <br/>\n  Council Rock School District, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 1425 CD 15\n </docketnumber>\n <court id=\"p-3\">\n  Commonwealth Court of Pennsylvania\n </court>\n <decisiondate id=\"p-4\">\n  July 08, 2016\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

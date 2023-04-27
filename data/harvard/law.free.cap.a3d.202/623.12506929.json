@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"623\" lastpage=\"623\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Peter F. DIPAOLO, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  NEW JERSEY PHYSICIANS UNITED RECIPROCAL EXCHANGE, a New Jersey reciprocal exchange, Defendant-Movant,\n  <br/>\n  and\n  <br/>\n  Crystal Evans, Intervenor-Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  M-676 September Term 2018\n  <br/>\n  082136\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  March 8, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for leave to appeal is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"663\" lastpage=\"663\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b685-12\">BASS V. THE STATE.</parties>\n<p data-order=\"1\" data-type=\"court\" id=\"b685-13\">(three cases)</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b685-14\">(Decided May 22, 1913.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b685-15\">Appeal from Franklin Circuit Court.</summary>\n<summary data-order=\"4\" data-type=\"judges\" id=\"b685-16\">Heard before Hon. C. P. Almon.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b685-17\">No counsel marked for appellant. R. 0. Brickell, Attorney General, and W. L. Martin, Assistant Attorney General, for the State.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b685-18\">Per curiam.</author>\n<p id=\"AsM\">The appeal in each of these cases is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

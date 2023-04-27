@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1183\" lastpage=\"1184\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b1231-15\">In the Matter of the Application of Brooklyn Bar Association in Respect of Sidney Gondelman, an Attorney.</parties>\n\n<opinion><p id=\"AQWN\">Motion to confirm report of Official .Referee granted. The pew issue raised, as well as all other issues involved in the <page-number citation-index=\"1\" label=\"1184\">*1184</page-number>disbarment proceeding (258 App. Div. 1085), are referred to Honorable Frank F. Adel, Official Referee, to take proof and report, with his findings and recommendations. Present \u2014 Nolan, P. J., Wenzel, Beldock, Murphy and Ughetta, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"1183\" lastpage=\"1184\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1231-15\">In the Matter of the Application of Brooklyn Bar Association in Respect of Sidney Gondelman, an Attorney.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AQWN\">Motion to confirm report of Official .Referee granted. The pew issue raised, as well as all other issues involved in the <page-number citation-index=\"1\" label=\"1184\">*1184</page-number>disbarment proceeding (258 App. Div. 1085), are referred to Honorable Frank F. Adel, Official Referee, to take proof and report, with his findings and recommendations. Present \u2014 Nolan, P. J., Wenzel, Beldock, Murphy and Ughetta, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

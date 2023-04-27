@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1271\" lastpage=\"1271\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MYM REALTY, LLC<br/> v.<br/> John DOE, et al.</parties>\n<court id=\"p-2\">Supreme Court of Connecticut.</court>\n<decisiondate id=\"p-3\">Decided March 15, 2017</decisiondate>\n<p id=\"p-4\">Jerome T. Dunbar, self-represented, in support of the petition.</p>\n\n<opinion type=\"majority\"><p id=\"p-5\">The petition by the defendant Jerome T. Dunbar for certification for appeal from the Superior Court (NNH CV16-6003333-S) is dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1271\" lastpage=\"1271\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MYM REALTY, LLC\n    <br/>\n    v.\n    <br/>\n    John DOE, et al.\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Connecticut.\n   </court>\n   <decisiondate id=\"p-3\">\n    Decided March 15, 2017\n   </decisiondate>\n   <attorneys id=\"p-4\">\n    Jerome T. Dunbar, self-represented, in support of the petition.\n   </attorneys>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     The petition by the defendant Jerome T. Dunbar for certification for appeal from the Superior Court (NNH CV16-6003333-S) is dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

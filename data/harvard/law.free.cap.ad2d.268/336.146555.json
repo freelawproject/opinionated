@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"336\" lastpage=\"336\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AIS\">In the Matter of Rachel Hausman, Petitioner, v Joseph N. Giamboi et al., Respondents.</parties>\n<citation id=\"AR86\">[703 NYS2d 430]</citation>\n\n<opinion><p id=\"A1i\">\u2014Application for an order pursuant to CPLR article 78 denied, the cross-motion granted and the petition dismissed, without costs or disbursements. Motion seeking to expedite decision denied as moot. No opinion. Concur\u2014Rosenberger, J. P., Wallach, Saxe and Buckley, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"336\" lastpage=\"336\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AIS\">In the Matter of Rachel Hausman, Petitioner, v Joseph N. Giamboi et al., Respondents.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"AR86\">[703 NYS2d 430]</citation>\n<opinion data-order=\"2\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A1i\">\u2014Application for an order pursuant to CPLR article 78 denied, the cross-motion granted and the petition dismissed, without costs or disbursements. Motion seeking to expedite decision denied as moot. No opinion. Concur\u2014Rosenberger, J. P., Wallach, Saxe and Buckley, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

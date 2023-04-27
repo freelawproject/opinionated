@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"790\" lastpage=\"790\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b836-7\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AUT8\">October, 1977</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXZ8\">(October 3, 1977)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A5ocs\">In the Matter of the Claim of Susan P. McDowell, as Widow of Paul Pratt, Deceased, Respondent, v Corbin LaVoy, Doing Business as Empire Boring Co., et al., Appellants. Workmen\u2019s Compensation Board, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApVu\">Motion to dismiss appeals from decision of the Workmen\u2019s Compensation Board dated May 19, 1977 on the ground that said decision is not appealable as a matter of law, denied, without costs. Greenblott, J. P., Mahoney, Main, Larkin and Mikoll, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

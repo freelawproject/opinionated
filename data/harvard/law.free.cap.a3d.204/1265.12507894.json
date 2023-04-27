@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1265\" lastpage=\"1265\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">RAMUNNO &amp; RAMUNNO, P.A. Intervenor in (C.A. No: N15C-03-060, Giles V. Boykin-Boyd) Appellant,<br/> v.<br/> LUNDY LAW, L.L.P., Appellees.</parties>\n<docketnumber id=\"p-2\">No. 366, 2018</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<decisiondate id=\"p-4\">Submitted: February 6, 2019<br/> Decided: February 18, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1265\" lastpage=\"1265\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    RAMUNNO &amp; RAMUNNO, P.A. Intervenor in (C.A. No: N15C-03-060, Giles V. Boykin-Boyd) Appellant,\n    <br/>\n    v.\n    <br/>\n    LUNDY LAW, L.L.P., Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 366, 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted: February 6, 2019\n    <br/>\n    Decided: February 18, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

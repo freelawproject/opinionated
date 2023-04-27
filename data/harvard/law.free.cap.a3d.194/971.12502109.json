@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"971\" lastpage=\"971\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  BAY VIEW LOAN SERVICING, LLC., Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  Antoinette MARZILLI, Rita Parone, Maria Marzilli, Defendants-Petitioners.\n </parties>\n <docketnumber id=\"p-2\">\n  C-132 September Term 2018\n  <br/>\n  081304\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  October 5, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the miscellaneous motion seeking to vacate the order of dismissal and reinstate the notice of petition for certification and other relief is denied. The Court directs that the Clerk shall not accept for filing any additional submissions from defendant that do not specify the relief sought and do not comply with the Rules of Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

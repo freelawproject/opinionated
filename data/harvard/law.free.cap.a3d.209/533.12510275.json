@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"533\" lastpage=\"533\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">The ESTATE OF SMALL, L.,</parties>\n<docketnumber id=\"p-2\">Appeal of: Small, J.</docketnumber>\n<docketnumber id=\"p-3\">744 EDA 2018</docketnumber>\n<court id=\"p-4\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-5\">January 28, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"533\" lastpage=\"533\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    The ESTATE OF SMALL, L.,\n   </parties>\n   <docketnumber id=\"p-2\">\n    Appeal of: Small, J.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    744 EDA 2018\n   </docketnumber>\n   <court id=\"p-4\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-5\">\n    January 28, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

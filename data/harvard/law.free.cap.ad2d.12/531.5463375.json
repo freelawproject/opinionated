@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"531\" lastpage=\"531\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b585-3\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AqdR\">November, 1960</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AHF\">(November 4, 1960)</decisiondate>\n<p data-order=\"3\" data-type=\"attorneys\" id=\"b585-4\">In decisions Nos. 1-96 the court is as follows: Bergan, P. J., Coon, Gibson, Herlihy and Reynolds, JJ.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"A3q\">In the Matter of Edward V. Clark et al., Individually and as Trustees of Roseton Common School District No. 5 of the Town of Newburgh, et al., Respondents, v. James E. Allen, Jr., As Commissioner of Education of the State of New York, Appellant.</parties>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARq\">Order unanimously affirmed, without costs. The issue of prior adjudication can be raised by answer.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

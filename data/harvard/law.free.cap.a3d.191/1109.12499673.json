@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1109\" lastpage=\"1109\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">James L. HOOPER, Plaintiff Below, Appellant,<br/> v.<br/> David L. OLMSTEAD, Defendant Below, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 325, 2018</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<p id=\"p-4\">Submitted: July 3, 2018<br/> Decided: July 19, 2018<br/> Reargument Denied August 14, 2018</p>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">DISMISSED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1109\" lastpage=\"1109\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    James L. HOOPER, Plaintiff Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    David L. OLMSTEAD, Defendant Below, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 325, 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <otherdate id=\"p-4\">\n    Submitted: July 3, 2018\n    <br/>\n    Decided: July 19, 2018\n    <br/>\n    Reargument Denied August 14, 2018\n   </otherdate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

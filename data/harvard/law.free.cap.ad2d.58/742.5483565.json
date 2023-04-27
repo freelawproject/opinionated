@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"742\" lastpage=\"742\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"ASOm\">In the Matter of Erie County Department of Social Services, Respondent, v Estate of Louis Bieber, Appellant.</parties>\n\n<opinion><p id=\"AtuS\">\u2014 Appeal unanimously dismissed, without costs, upon stipulation. (Appeal from order of Erie County Surrogate\u2019s Court \u2014 claim against estate.) Present \u2014 Cardamone, J. P., Hancock, Denman, Goldman and Witmer, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"742\" lastpage=\"742\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ASOm\">In the Matter of Erie County Department of Social Services, Respondent, v Estate of Louis Bieber, Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AtuS\">\u2014 Appeal unanimously dismissed, without costs, upon stipulation. (Appeal from order of Erie County Surrogate\u2019s Court \u2014 claim against estate.) Present \u2014 Cardamone, J. P., Hancock, Denman, Goldman and Witmer, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

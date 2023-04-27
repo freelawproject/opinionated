@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b928-2\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A9J\">November, 1956</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJP\">(November 1, 1956)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AffE\">In the Matter of Charles A. Malone et al., Appellants, against Anthony Bosco et al., Constituting the Putnam County Board of Elections, Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4l3\">Order denying application to direct respondents to forthwith forward to appellants their absentee ballots reversed on the law and the facts, without costs, and application granted. Findings of fact insofar as they may be inconsistent herewith are reversed and new findings are made as indicated herein. <em>(Matter of Croen </em>v. <em>Bosco, </em>2 A D 2d 696.) Wenzel, Acting P. J., Murphy, Ughetta, Hallinan and Kleinfeld, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

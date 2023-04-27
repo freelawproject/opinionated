@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"771\" lastpage=\"772\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b819-9\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AQik\">September, 1971</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ACl\">(September 1, 1971)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AoB\">In the Matter of Morris A. Barone, Appellant, v. Mary Perone et al., Respondents. In the Matter of Morris A. Barone, Appellant, v. Harold P. Battle, Jr., et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVWC\"><page-number citation-index=\"1\" label=\"772\">*772</page-number>No opinion. Rabin, P. J., Munder, Shapiro, Gulotta 'and Benjamin, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

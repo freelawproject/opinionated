@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1262\" lastpage=\"1262\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Gibbs<br/> v.<br/> Warden, RCI-H</parties>\n<docketnumber id=\"p-2\">No. 600 Sept. Term 2015</docketnumber>\n<court id=\"p-3\">Court of Appeals of Maryland</court>\n<decisiondate id=\"p-4\">June 24, 2016</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Disposition: Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1262\" lastpage=\"1262\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Gibbs\n    <br/>\n    v.\n    <br/>\n    Warden, RCI-H\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 600 Sept. Term 2015\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Maryland\n   </court>\n   <decisiondate id=\"p-4\">\n    June 24, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Disposition: Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

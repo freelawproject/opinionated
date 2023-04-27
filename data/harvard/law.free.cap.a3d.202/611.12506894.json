@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"611\" lastpage=\"611\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Stephen and Dora SHANKMAN, Plaintiffs-Movants,\n  <br/>\n  v.\n  <br/>\n  CUNNINGHAM CONSTRUCTION COMPANY, LLC, d/b/a Cunningham Construction Co., William Cunningham, Joann Cunningham, Evandro Dos Santos, Eagles Construction LLC, 234 North 8th Street LLC, John Does 1-10 and ABC Corps. 1-10, Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  M-582 September Term 2018\n  <br/>\n  082274\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  February 8, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for leave to appeal is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

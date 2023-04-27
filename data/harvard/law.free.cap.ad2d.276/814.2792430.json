@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"814\" lastpage=\"814\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b872-11\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Art\">November, 1949.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b872-12\">(November 2, 1949.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b872-13\">Fleeta J. Andrews, Appellant, v. State of New York, Respondent.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"AH9j\">(Claim No. 28516.)</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2Ey\">Present \u2014 Taylor, P. J., McCurn, Love, Kimball and Piper, JJ. [192 Misc. 429.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

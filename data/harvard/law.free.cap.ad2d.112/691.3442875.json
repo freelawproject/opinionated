@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"691\" lastpage=\"692\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b731-8\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AJj\">July, 1985</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEhm\">(July 12, 1985)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Aexn\">The People of the State of New York, Respondent, v Charles W. Shortridge, Jr., Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZ3U\">Upon remittitur <page-number citation-index=\"1\" label=\"692\">*692</page-number>from the Court of Appeals, judgment unanimously affirmed. (Remittitur from Court of Appeals of judgment of Oneida County Court, Darrigrand, J. \u2014 manslaughter, first degree.) Present \u2014 Hancock, Jr., J. P., Callahan, Doerr and Denman, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

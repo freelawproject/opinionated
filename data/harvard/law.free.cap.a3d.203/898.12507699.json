@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"898\" lastpage=\"898\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  FEDERAL NATIONAL MORTGAGE ASSOCIATION, (\"FANNIE MAE\"), a corporation organized and existing under the laws of the United States of America, Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  Judy LOWY and Myer Ziegelheim, Defendants-Petitioners.\n </parties>\n <docketnumber id=\"p-2\">\n  C-707 September Term 2018\n  <br/>\n  082099\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  March 21, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   A petition for certification of the judgment in A-000272-17 having been submitted to this Court, and the Court having considered the same;\n  </p>\n  <p id=\"p-7\">\n   It is ORDERED that the petition for certification is denied, with costs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

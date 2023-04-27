@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"949\" lastpage=\"949\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1011-8\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AvQC\">September, 1950.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1011-9\">(September 19, 1950.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1011-10\">In the Matter of George B. Schatz, an Attorney.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AByv\">Application for reinstatement to the Bar granted. Present \u2014 Glermon, J. P., Dore, Cohn, Yan Voorhis and Sbientag, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

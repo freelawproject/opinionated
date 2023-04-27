@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1045\" lastpage=\"1046\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1067-34\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AuF\">April, 1979</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ApYc\">(April 2, 1979) </decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AxoP\">Max Feller et al., Respondents, v Band Food Center, Inc., et al., Appellants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Azym\">Order of the Supreme Court, Kings County, dated January 3, <page-number citation-index=\"1\" label=\"1046\">*1046</page-number>1979, affirmed, with $50 costs and disbursements. No opinion. Lazer, J. P., Rabin, Gulotta and Cohalan, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

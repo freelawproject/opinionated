@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"994\" lastpage=\"994\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1046-11\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ARRV\">June, 1966</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Af2F\">(June 22, 1966) <footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A-Y\">In the Matter of Nathaniel Brewer, Petitioner, v. Supreme Court of the State of New York, Queens County, et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b1046-15\"> Not published with other decisions of June, 1966, 26 A D 2d 545.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"A3VN\">Proceeding pursuant to CPLR article 78 to prohibit respondents from proceeding to retry petitioner on any of the charges contained in indictment No. 646-1965. Application denied and proceeding dismissed, without costs. Ughetta, Acting P. J., Brennan, Hill, Rabin and Hopkins, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"478\" lastpage=\"478\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Commonwealth\n  <br/>\n  v.\n  <br/>\n  Jason J. Dominick\n  <footnotemark>\n   3\n  </footnotemark>\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 96 MAL 2016\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania\n </court>\n <decisiondate id=\"p-4\">\n  June 29, 2016\n </decisiondate>\n <history id=\"p-5\">\n  Appeal from the Superior Court.\n </history>\n <opinion id=\"p-6\">\n  Disposition: Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   <sup>\n    <a href=\"#fn3\" id=\"fr3\" name=\"fr3\">\n     3\n    </a>\n   </sup>\n   Justice WECHT notes his dissent.\n  </author>\n  <p id=\"p-10\">\n   --------\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

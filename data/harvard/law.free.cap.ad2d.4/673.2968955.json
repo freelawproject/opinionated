@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"673\" lastpage=\"673\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"API\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AdG\">June, 1957</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Axr\">(June 3, 1957)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Asm\">Hercules Corrugated Box Corporation, Plaintiff, and Irving Berkowitz, Appellant, v. Aaron Berkowitz et al., Respondents, et al., Defendant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgH\">Motion for leave to appeal to the Court of Appeals denied. Present \u2014 Nolan, P. J., Murphy, Ughetta, Hallinan and Kleinfeld, JJ. [See 3 A D 2d 841.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

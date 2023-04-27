@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"551\" lastpage=\"551\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  William HERNANDEZ a.k.a William Lopez, Petitioner\n  <br/>\n  v.\n  <br/>\n  COMMONWEALTH of Pennsylvania, COURT OF COMMON PLEAS, Respondent\n </parties>\n <docketnumber id=\"p-2\">\n  No. 28 EM 2018\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  May 3, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   <strong>\n    AND NOW\n   </strong>\n   , this 3rd day of May, 2018, the Application for Leave to File Original Process is GRANTED. The Petition for Writ of Mandamus is GRANTED to the extent it asks that the Court of Common Pleas of Philadelphia County be compelled to address Petitioner's pending filings. The court is DIRECTED to address the pending filings within 90 days.\n  </p>\n  <p id=\"p-8\">\n   Finally, the Prothonotary is DIRECTED to serve this order on the President Judge of the Court of Common Pleas of Philadelphia County.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

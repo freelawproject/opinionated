@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"101\" lastpage=\"101\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b149-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A2RO\">September, 1991</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIhm\">(September 3, 1991)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ADTB\">In the Matter of Lucy Cruz, Respondent, v Pedro Espada, Appellant, et al., Respondents. In the Matter of Pedro Espada, Appellant, v Robert Abrams, as Attorney-General of the State of New York, et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AX_\">\u2014Judgment, Supreme Court, Bronx County (Eggert, J.), entered on or about August 30, 1991, unanimously affirmed, without costs and without disbursements, for the reasons stated by the Referee, as confirmed by Eggert, J. The appellant, Pedro Espada, failed to establish his residence as stated in his petition. Therefore, it must, by necessity, be invalidated. No opinion. Concur\u2014 Carro, J. P., Wallach, Kupferman and Rubin, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

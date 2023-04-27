@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"686\" lastpage=\"686\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b746-9\">Lester E. Grossman et al., Copartners Doing Business under the Name Commercial Trading Company, Appellants, v. McAuliffe Printing Co., Inc., et al., Defendants, and Adolph Samuels, Inc., Respondent.</parties>\n\n<opinion><p id=\"ARU5\">Judgment and order unanimously affirmed, with costs. No opinion. Present \u2014 Martin, P. J., Townley, Glennon, Untermyer and Dore, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"686\" lastpage=\"686\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b746-9\">Lester E. Grossman et al., Copartners Doing Business under the Name Commercial Trading Company, Appellants, v. McAuliffe Printing Co., Inc., et al., Defendants, and Adolph Samuels, Inc., Respondent.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"ARU5\">Judgment and order unanimously affirmed, with costs. No opinion. Present \u2014 Martin, P. J., Townley, Glennon, Untermyer and Dore, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

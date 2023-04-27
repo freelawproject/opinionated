@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"849\" lastpage=\"849\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b903-5\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AEV0\">June, 1941.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b903-6\">(June 2, 1941.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b903-7\">Emma Chocky and Another, Appellants, v. F. W. Woolworth Co., Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKX\">\u2014 Motion for leave to appeal to the Appellate Division denied, without costs. Present \u2014 Lazansky, P. J., Hagarty, Adel and Taylor, JJ.; Close, J., not voting.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

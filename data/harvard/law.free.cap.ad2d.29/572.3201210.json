@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"572\" lastpage=\"572\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b616-5\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AlPr\">December, 1967</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AvJ\">(December 4, 1967)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A3lB\">The People of the State of New York ex rel. Alexander Faison, Petitioner, v. Daniel J. McMann, as Warden of Clinton Prison, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqNV\">Motion for reargument of denial of application for a writ of habeas corpus denied. (See <em>People ex rel. Faison </em>v. <em>McMann, </em>28 A D 2d 1039.) Gibson, P. J., Herlihy, Reynolds, Aulisi and Staley, Jr., JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

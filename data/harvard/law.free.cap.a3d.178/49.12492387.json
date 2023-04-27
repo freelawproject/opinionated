@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"49\" lastpage=\"49\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Carlos Ariel DETRES, Petitioner,\n  <br/>\n  v.\n  <br/>\n  WORKFORCE LOGISTICS CORP., Respondent.\n </parties>\n <parties id=\"p-2\">\n  Carlos Ariel Detres, Petitioner,\n  <br/>\n  v.\n  <br/>\n  Samuels, Inc., t/a Buy-Wise, Respondent.\n </parties>\n <docketnumber id=\"p-3\">\n  M-463/464 September Term 2017\n  <br/>\n  080083\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  January 16, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   It is ORDERED that the motion of the Public service Mutual Insurance Company for leave to file a motion for leave to appeal as within time (M-463) is granted; and it is further\n  </p>\n  <p id=\"p-8\">\n   ORDERED that the motion for leave to appeal (M-464) is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

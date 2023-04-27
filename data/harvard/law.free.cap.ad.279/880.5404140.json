@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"880\" lastpage=\"880\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b952-6\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A4FA\">February, 1952.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b952-7\">(February 5, 1952.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b952-9\">In the Matter of Richard H. Knauf, Appellant, against Seddie E. Dwyer et al., Constituting the Board of Elections of Broome County, et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVQy\">Foster, P. J., Heffernan, Brewster and Coon, JJ-concur; Bergan, J., taking no part.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

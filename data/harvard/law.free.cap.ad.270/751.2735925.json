@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"751\" lastpage=\"751\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b817-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AMhz\">January, 1946.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b817-5\">(January 8, 1946.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b817-6\">Chris McCarthy et al. v. American Surety Company.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AztV\">Motion to dismiss appeal granted, with $10 costs. Present \u2014 Martin, P. J., Townley, Glennon, Dore and Callahan, JJ. [183 Misc. 983.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

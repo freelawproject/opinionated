@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"963\" lastpage=\"963\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b991-6\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AJH\">September, 1985</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Avps\">(September 3, 1985)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A9L\">In the Matter of Betty O. Muka, Petitioner, v John H. Livingston, as Probate Judge of St. Lawrence County, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ahc9\">Motion to dismiss proceeding granted, without costs. The proceeding must be dismissed as this court is without jurisdiction to entertain such proceeding <em>(Matter of Nolan v Lungen, </em>61 NY2d 788).</p>\n<p id=\"b991-8\">Cross motion for removal of proceeding to the Supreme Court denied, without costs. Main, J. P., Casey, Weiss, Mikoll and Yesawich, Jr., JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

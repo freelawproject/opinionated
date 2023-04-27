@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1053\" lastpage=\"1053\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of New Jersey, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  Rene M. RODRIGUEZ, Defendant.\n </parties>\n <parties id=\"p-2\">\n  State of New Jersey, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  Elizabeth A. Colon, Defendant.\n </parties>\n <parties id=\"p-3\">\n  State of New Jersey, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  Eric L. Lowers, Defendant.\n </parties>\n <parties id=\"p-4\">\n  State of New Jersey, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  Stephen E. Nolan, Defendant.\n </parties>\n <docketnumber id=\"p-5\">\n  State of New Jersey, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  Courtney D. Swiderski, Defendant.\n </docketnumber>\n <docketnumber id=\"p-6\">\n  M-1176 September Term 2017\n  <br/>\n  081046\n </docketnumber>\n <court id=\"p-7\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-8\">\n  August 1, 2018\n </decisiondate>\n <p id=\"p-9\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-10\">\n   It is ORDERED that the State's motion for stay is granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

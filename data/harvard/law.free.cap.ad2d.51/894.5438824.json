@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"894\" lastpage=\"894\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b936-3\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AheS\">December, 1975</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Az1\">(December 18, 1975)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AXX\">In the Matter of Herbert R. Helms et al., Petitioner, v Ogden R. Reid, as Commissioner of Environmental Conservation et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b936-9\">Not published with other decisions of December 18, 1975, 50 AD2d 983, [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"Aola\">Motion granted only insofar as it seeks consent to institute suit to restrain a violation of section 1 of article XIV of the New York State Constitution, and in all other respects denied. Motion by Adirondack Council for permission to intervene on this motion denied as unnecessary, without costs. Concur\u2014 Sweeney, J. P., Kane, Koreman, Larkin and Reynolds, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

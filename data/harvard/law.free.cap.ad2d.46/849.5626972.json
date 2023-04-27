@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"849\" lastpage=\"849\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b889-6\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A0hj\">October, 1974</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AMJG\">(October 1, 1974)<footnotemark>**</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AUpU\">In the Matter of Edward Jennings, Petitioner, v. John A. Monteleone, as Justice of the Supreme Court, Respondent.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"**\">\n<p id=\"b889-11\"> Not published with other decisions of October 1, 1974, 46 A D 2d 645.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AqCd0\">Proceeding pursuant to article 78 of the CPLR to prohibit the respondent, a Justice of the Supreme Court, from further proceeding with a hearing on a probation violation and to quasi, the warrant. Application denied and proceeding dismissed, without costs. Shapiro, Acting P. J., Cohalan, Christ, Brennan and Benjamin, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

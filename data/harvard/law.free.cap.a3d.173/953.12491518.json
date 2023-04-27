@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"953\" lastpage=\"953\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SUNBELT RENTALS, INC.<br/> v.<br/> DOUGLAS P. FLEMING, LLC</parties>\n<court id=\"p-2\">Supreme Court of Connecticut.</court>\n<decisiondate id=\"p-3\">Decided November 21, 2017</decisiondate>\n<p id=\"p-4\">Douglas P. Fleming, self-represented, in support of the petition.</p>\n\n<opinion type=\"majority\"><p id=\"p-5\">The petition by the proposed intervenor Douglas P. Fleming for certification to appeal from the Appellate Court (AC 40400) is denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"953\" lastpage=\"953\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    SUNBELT RENTALS, INC.\n    <br/>\n    v.\n    <br/>\n    DOUGLAS P. FLEMING, LLC\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Connecticut.\n   </court>\n   <decisiondate id=\"p-3\">\n    Decided November 21, 2017\n   </decisiondate>\n   <attorneys id=\"p-4\">\n    Douglas P. Fleming, self-represented, in support of the petition.\n   </attorneys>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     The petition by the proposed intervenor Douglas P. Fleming for certification to appeal from the Appellate Court (AC 40400) is denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

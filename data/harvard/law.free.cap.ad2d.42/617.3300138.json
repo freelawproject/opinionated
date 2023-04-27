@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"617\" lastpage=\"617\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b669-6\">Third Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AQD\">June, 1973</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AVX\">(June 1, 1973)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AQK\">George Szary, Sr., et al., Petitioners, v. Temporary New York State Commission of Investigation, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ani\">Order of Special Term, insofar as it effects a modification of the subpoenas issued by respondent, stayed pending appeal pursuant to CPLR 5519 (subd. [c]). The modification of the subpoenas, even after notice had been given, was an abuse of discretion in view of our decision in <em>Matter of McArdle </em>v. <em>Temporary N. Y. State </em>Comm. <em>of Investigation </em>(41 A D 2d 401) in which the same grounds, advanced for similar relief, were rejected. Herlihy, P. J., Greenblott, Sweeney, Kane and Main, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

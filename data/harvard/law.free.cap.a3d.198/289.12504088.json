@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"289\" lastpage=\"289\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  H.F., Petitioner-Movant,\n  <br/>\n  v.\n  <br/>\n  BOARD OF EDUCATION OF the TOWNSHIP OF TEANECK, Respondent-Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  M-375/376/377/378/379 September Term 2018\n  <br/>\n  080011\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  December 6, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motions for leave to file a motion for reconsideration as within time (M-375), to file an overlength brief (M-376), and to file a reply brief (M-379) are granted; and it is further\n  </p>\n  <p id=\"p-7\">\n   ORDERED that the motions for leave to present oral argument (M-378) and for reconsideration of the Court's order denying the motion for leave to appeal (M-377) are denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"760\" lastpage=\"760\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b802-29\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"Atlz\">March, 1964</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ALRK\">(March 3, 1964)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AbFN\">In the Matter of Discount Rent-A-Car, Inc.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AtI\">Motion to vacate the ex parte order entered on January 27, 1964 granted without prejudice to any further proceedings which Alexander\u2019s Department Stores, Inc., may be advised to institute. <em>(Matter of Three Hundred Fifty West Forty-Sixth St. [Marbo], </em>20 A D 2d 685.) Concur \u2014 Botein, P. J., Val ente, Eager and Steuer, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

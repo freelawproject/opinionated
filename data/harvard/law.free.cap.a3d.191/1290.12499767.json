@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1290\" lastpage=\"1290\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  COMMONWEALTH of Pennsylvania, Petitioner\n  <br/>\n  v.\n  <br/>\n  Christian Lee FORD, Respondent\n </parties>\n <docketnumber id=\"p-2\">\n  No. 170 MAL 2018\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  August 22, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-7\">\n   AND NOW, this 22nd day of August, 2018, the Petition for Allowance of Appeal is GRANTED. The issue, as stated by petitioner, is:\n  </p>\n  <blockquote id=\"p-8\">\n   Where a defendant bargains for and agrees to pay a specific fine as part of a negotiated plea agreement, must the sentencing court conduct a separate inquiry into the defendant's ability to pay the agreed-upon fine?\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

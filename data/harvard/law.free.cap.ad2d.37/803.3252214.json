@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b851-5\">Third Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"As3Q\">July, 1971</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A16d\">(July 13, 1971) </decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Az8\">The People of the State of New York ex rel. James Pearson, by Joseph Harris, Petitioner, v. Department of Correction of the State of New York, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-N4\">Application, pursuant to CPLR 7002 (subd. [b], par. 2), for a writ of habeas corpus denied as insufficient on its face (see Code Crim. Pro., \u00a7\u00a7 552, 555; <em>People </em>v. Wirtschafter, 305 N. Y. 515, 520-521). Herlihy, P. J., Reynolds, Aulisi, Staley, Jr., and Sweeney, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

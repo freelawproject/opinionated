@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"835\" lastpage=\"835\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Mazen SHAHIN and Nina Shahin, Plaintiffs Below, Appellants,<br/> v.<br/> CITY OF DOVER and Cheryl A. Bundek, City of Dover Tax Assessor, Defendants Below, Appellees.</parties>\n<docketnumber id=\"p-2\">No. 51, 2019</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n\n\n\n<opinion type=\"majority\"><p id=\"p-4\">Submitted: February 25, 2019<br/> Decided: February 28, 2019<br/> Reargument Denied March 15, 2019</p><p id=\"p-5\">DISMISSED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"835\" lastpage=\"835\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Mazen SHAHIN and Nina Shahin, Plaintiffs Below, Appellants,\n    <br/>\n    v.\n    <br/>\n    CITY OF DOVER and Cheryl A. Bundek, City of Dover Tax Assessor, Defendants Below, Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 51, 2019\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Submitted: February 25, 2019\n     <br/>\n     Decided: February 28, 2019\n     <br/>\n     Reargument Denied March 15, 2019\n    </p>\n    <p id=\"p-5\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

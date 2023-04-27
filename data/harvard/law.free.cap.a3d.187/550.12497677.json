@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"550\" lastpage=\"550\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Marlena L. DAY, Plaintiff Below, Appellant,<br/> v.<br/> WILCOX LANDSCAPING, INC., Carrow Construction, LLC and Sleepy Hollow Lawn Care &amp; Landscaping, Inc., Defendants Below, Appellees.</parties>\n<docketnumber id=\"p-2\">No. 132, 2017</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n\n\n\n<opinion type=\"majority\"><p id=\"p-4\">Submitted: February 7, 2018<br/> Decided: May 2, 2018<br/> Reargument Denied May 31, 2018</p><p id=\"p-5\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"550\" lastpage=\"550\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Marlena L. DAY, Plaintiff Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    WILCOX LANDSCAPING, INC., Carrow Construction, LLC and Sleepy Hollow Lawn Care &amp; Landscaping, Inc., Defendants Below, Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 132, 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Submitted: February 7, 2018\n     <br/>\n     Decided: May 2, 2018\n     <br/>\n     Reargument Denied May 31, 2018\n    </p>\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

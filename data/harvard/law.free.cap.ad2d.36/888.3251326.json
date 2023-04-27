@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b940-2\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AHi-\">April, 1971</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AX_\">(April 1, 1971)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Akx\">In the Matter of Richard Goldston, Appellant, v. Paul D. McGinnis, as Commissioner of Correction, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9ZU\">Present\u2014Goldman, P. J., Del Veeehio, Witmer, Gabrielli and Cardamone, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

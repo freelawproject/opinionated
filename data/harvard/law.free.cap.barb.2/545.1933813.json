@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"545\" lastpage=\"545\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b545-6\">Same Term.</court>\n<p data-order=\"1\" data-type=\"judges\" id=\"AFY\">\n<em>Before the same Justices.</em>\n</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b545-7\">The Mechanics\u2019 Bank <em>vs. </em>Edwards and others.</parties>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b545-8\">This cause was heard by Justice Edmonds at the special 'term held in New-York in November, 1847, on exceptions to \u2022the master\u2019s report; when the exceptions were disallowed and \u2022the report of the master confirmed. <em>(See </em>1 <em>Barb. Sup. Court Rep. </em>271.) It now came before the court, on a rehearing or\u2022dered at a general term.</summary>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b545-9\">After argument, upon the rehearing, the court disallowed the exceptions with costs, and confirmed the master\u2019s report; thus affirming the decision of Judge Edmonds.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

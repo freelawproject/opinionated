@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"830\" lastpage=\"830\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b890-10\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AJZb\">September, 1953.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b890-11\">(September 8, 1953.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b890-13\">In the Matter of Sidney S. Wolchok, Appellant, against James M. Power et al., Constituting the Board of Elections of the City of New York, et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARs\">Order affirmed. No opinion. All concur. Present \u2014 Dore, J. P., Cohn, Breitel and Botein, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

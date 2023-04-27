@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"135\" lastpage=\"135\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Beasley<br/> v.<br/> Beasley</parties>\n<docketnumber id=\"p-2\">No. 132 Sept. Term 2016</docketnumber>\n<court id=\"p-3\">Court of Appeals of Maryland</court>\n<decisiondate id=\"p-4\">July 12, 2016</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Disposition: Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"135\" lastpage=\"135\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Beasley\n    <br/>\n    v.\n    <br/>\n    Beasley\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 132 Sept. Term 2016\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Maryland\n   </court>\n   <decisiondate id=\"p-4\">\n    July 12, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Disposition: Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"703\" lastpage=\"703\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Ben ROTEN, Defendant Below, Appellant,<br/> v.<br/> STATE of Delaware, Plaintiff Below, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 493, 2018</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n\n\n\n<opinion type=\"majority\"><p id=\"p-4\">Submitted: March 28, 2019<br/> Decided: April 3, 2019<br/> Rehearing en Banc Denied April 25, 2019</p><p id=\"p-5\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"703\" lastpage=\"703\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Ben ROTEN, Defendant Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Delaware, Plaintiff Below, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 493, 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <otherdate type=\"majority\">\n    <p id=\"p-4\">\n     Submitted: March 28, 2019\n     <br/>\n     Decided: April 3, 2019\n     <br/>\n     Rehearing en Banc Denied April 25, 2019\n    </p>\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </otherdate>\n  </casebody>\n </body>\n</html>\n"
   }
 }

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"924\" lastpage=\"924\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b972-17\">First Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A6o6\">June, 1971</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AfA3\">(June 1, 1971) </decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AFu0\">The People of the State of New York v. Arnold Ridgill, Also Known as Arnold Ridgell.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAlB\">Application for writ of mandamus denied. Concur\u2014 McGivern, J. P., Markewich, McNally and Steuer, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

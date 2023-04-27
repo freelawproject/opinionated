@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"955\" lastpage=\"955\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b993-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AcB\">February, 1982</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ais7\">(February 26, 1982)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"AZeJ\">Kevin D. Cox, Erie County Public Administrator, as Administrator of the Estate of James Watts, Jr., Deceased, Respondent, v County of Erie, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Av7\">Appeal dismissed, without costs, upon stipulation. (Appeal from order of Supreme Court, Erie County, Cook, J. \u2014 summary judgment.) Present \u2014 Simons, J. P., Hancock, Jr., Denman, Moule and Schnepp, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

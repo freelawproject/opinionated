@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"518\" lastpage=\"518\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties id=\"b526-16\" pgmap=\"526\">Baird v. Williams.</parties><summary id=\"b526-17\" pgmap=\"526\">APPEAL from Pulaski Chancery Court.\u2019</summary><summary id=\"b526-18\" pgmap=\"526\">D. W. Carroll, Chancellor.</summary> <opinion><p id=\"b526-15\" pgmap=\"526\">Pulaski County Board of Equalization Cases.</p></opinion></casebody> </body></html>"}}
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"518\" lastpage=\"518\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b526-16\" pgmap=\"526\">Baird v. Williams.</parties><summary data-order=\"1\" data-type=\"summary\" id=\"b526-17\" pgmap=\"526\">APPEAL from Pulaski Chancery Court.\u2019</summary><summary data-order=\"2\" data-type=\"summary\" id=\"b526-18\" pgmap=\"526\">D. W. Carroll, Chancellor.</summary> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b526-15\" pgmap=\"526\">Pulaski County Board of Equalization Cases.</p></opinion></casebody> </body></html>",
+    "status": "ok"
+  }
+}

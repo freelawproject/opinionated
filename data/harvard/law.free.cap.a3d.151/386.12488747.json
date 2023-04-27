@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"386\" lastpage=\"386\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">A.J. PETRUCELLI<br/> v.<br/> CITY OF MERIDEN</parties>\n<court id=\"p-2\">Supreme Court of Connecticut.</court>\n<decisiondate id=\"p-3\">Decided November 8, 2016</decisiondate>\n<p id=\"p-4\">Jeffrey D. Brownstein, in support of the petition.</p>\n\n<opinion type=\"majority\"><p id=\"p-5\">The plaintiff's petition for certification for appeal from the Appellate Court (AC 39380) is denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"386\" lastpage=\"386\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    A.J. PETRUCELLI\n    <br/>\n    v.\n    <br/>\n    CITY OF MERIDEN\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Connecticut.\n   </court>\n   <decisiondate id=\"p-3\">\n    Decided November 8, 2016\n   </decisiondate>\n   <attorneys id=\"p-4\">\n    Jeffrey D. Brownstein, in support of the petition.\n   </attorneys>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     The plaintiff's petition for certification for appeal from the Appellate Court (AC 39380) is denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

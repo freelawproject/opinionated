@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"873\" lastpage=\"873\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b913-7\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AJr0\">September, 1956 <footnotemark>* *</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b913-8\">(September 25, 1956)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AOrM\">In the Matter of Henry A. Adams, Petitioner, against City of New York Department of Personnel Civil Service Commission, Respondent.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"* *\">\n<p id=\"b913-11\"> Not published with other decisions of September 25, 1956.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AFOd\">Motion dismissed, with $10 costs. Concur\u2014Peek, P. J., Breitel, Botein, Rabin and Cox, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

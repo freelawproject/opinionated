@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"614\" lastpage=\"614\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b562-5\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A4U\">September, 1972</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AH2\">(September 5, 1972)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Adi\">The People of the State of New York ex rel. Frank A. Ciavarelli, Petitioner, v. Paul C. Agnew, as Director of Dannemora State Hospital, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AC0\">Application for writ of habeas corpus pursuant to CPLR .7002 (subd. [b], par. 2) denied. Greenblott, J. P., Cooke, Sweeney, Simons and Kane, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

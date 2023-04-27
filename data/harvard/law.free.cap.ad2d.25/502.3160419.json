@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"502\" lastpage=\"502\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b552-2\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Aoj\">February, 1966</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AVQ\">(February 1, 1966)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AJu\">Irene G. Jelinek, Appellant, v. City of New York et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABE\">Order of this court entered on January 25, 1966 vacated.</p>\n<judges id=\"Aj1\">ConcurBreitel, J, P\u201e Vajente, McNally, Stevens and Steuer, JJ.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

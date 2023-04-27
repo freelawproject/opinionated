@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"835\" lastpage=\"835\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b895-8\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AMl\">May, 1949.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b895-9\">(May 2, 1949.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b895-10\">Benjamin W. Cohen et al., Suing on Their Own Behalf and on Behalf of All Other Stockholders of Fisk Rubber Corporation, Similarly Situated, Appellants, v. Charles A. Dana et al., Defendants, and Karl H. Behr et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AY3e\">Present \u2014 Johnston, Acting P. J., Adel, Sneed, Wenzel and MacCrate, JJ. [See <em>ante, </em>p. 723.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

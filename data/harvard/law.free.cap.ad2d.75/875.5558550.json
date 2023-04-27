@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"875\" lastpage=\"875\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"Axv\">The People of the State of New York, Respondent, v Owen Brereton, Appellant.</parties>\n\n<opinion><p id=\"Adi8\">Judgment of the Supreme Court, Queens County, rendered April 16, 1979, affirmed. No opinion. This case is remitted to the Supreme Court, Queens County, for further proceedings pursuant to CPL 460.50 (subd 5). Hopkins, J. P., Damiani, Martuscello and Weinstein, JJ., concur.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"875\" lastpage=\"875\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Axv\">The People of the State of New York, Respondent, v Owen Brereton, Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Adi8\">Judgment of the Supreme Court, Queens County, rendered April 16, 1979, affirmed. No opinion. This case is remitted to the Supreme Court, Queens County, for further proceedings pursuant to CPL 460.50 (subd 5). Hopkins, J. P., Damiani, Martuscello and Weinstein, JJ., concur.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

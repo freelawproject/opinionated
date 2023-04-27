@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"253\" lastpage=\"253\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"AHq\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AcG\">December, 1984</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AjD\">(December 4, 1984)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AEI\">The People of the State of New York, Respondent, v Joseph N., Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAm\">\u2014Judgment, Supreme Court, Bronx County (Harold Silverman, J.), rendered on August 27, 1982, unanimously affirmed. The case is remitted to the Supreme Court, Bronx County, for further proceedings pursuant to CPL 460.50 (subd 5). No opinion. Concur \u2014 Murphy, P. J., Sandler, Asch, Milonas and Alexander, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

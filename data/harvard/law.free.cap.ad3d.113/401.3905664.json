@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"401\" lastpage=\"401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b235-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AhL\">January, 2014</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ata\">(January 7, 2014)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A8k\">In the Matter of Denny E., a Person Alleged to be a Juvenile Delinquent, Appellant.</parties>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ace\">[977 NYS2d 637]</citation>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b235-6\">Defendant\u2019s motion papers were sufficient to raise a question of fact as to whether his identification was the product of an unlawful seizure <em>(Dunaway v New York, </em>442 US 200 [1979]). Concur \u2014 Gonzalez, P.J., Tom, Saxe, Manzanet-Daniels and Gische, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

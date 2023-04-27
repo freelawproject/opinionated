@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"979\" lastpage=\"979\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1021-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AZLv\">September, 1974</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AVAR\">(September 12,1974)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"AbIv\">The People of the State of New York, Appellant, v. Samuel B. Galoob, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnQe\">Appeal dismissed upon stipulation. (Appeal from order of Chautauqua County Court granting motion to suppress.) Present \u2014 Marsh, P. J., Cardamone, Simons, Goldman and Del Yecehio, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

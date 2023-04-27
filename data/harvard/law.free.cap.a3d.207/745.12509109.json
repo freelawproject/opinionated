@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"745\" lastpage=\"745\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Douglas BATES, Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  TOWNSHIP OF JACKSON, Defendant-Petitioner,\n  <br/>\n  and\n  <br/>\n  County of Ocean, Defendant,\n  <br/>\n  and\n  <br/>\n  State of New Jersey, Scott W. Allerton, and Lori Allerton, Defendants.\n </parties>\n <parties id=\"p-2\">\n  Douglas Bates, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  Township of Jackson, Defendant,\n  <br/>\n  and\n  <br/>\n  County of Ocean, Defendant,\n  <br/>\n  and\n  <br/>\n  State of New Jersey, Scott W. Allerton, and Lori Allerton, Defendants.\n </parties>\n <docketnumber id=\"p-3\">\n  C-890 September Term 2018\n  <br/>\n  082135\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  MAY 14, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   A petition for certification of the judgment in A-0588/0667-17 having been submitted to this Court, and the Court having considered the same;\n  </p>\n  <p id=\"p-8\">\n   It is ORDERED that the petition for certification is denied, with costs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

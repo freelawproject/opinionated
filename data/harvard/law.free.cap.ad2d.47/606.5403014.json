@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"606\" lastpage=\"606\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b660-2\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"ATuS\">October, 1974</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Axl\">(October 1, 1974)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ASO1\">In the Matter of Ralph Pressman, Petitioner, v. William R. Geiler, as a Justice of the Supreme Court, Suffolk County, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AV15\">Proceeding pursuant to article 78 of the CPLR, which petitioner terms <em>\u201c </em>In the nature of Mandamus \u201d to compel the respondent to show cause <em>inter alla </em>why he initiated a charge of nonsupport against the petitioner concurrently with the dismissal of a case against him on the merits. Application denied and proceeding dismissed, without costs. Shapiro, Acting P. J., Cohalan, Christ, Brennan and Benjamin, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

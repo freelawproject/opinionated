@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"709\" lastpage=\"709\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b769-3\">Third Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AGk9\">June, 1968</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ala\">(June 4, 1968)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AaW7\">The People of the State of New York ex rel. Melvin Earl Knapp, Petitioner, v. Charles L. McKendrick, as Warden of Wallkill Prison, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AfW\">Application, pursuant to CPLR 7002 (subd. [b], par. 2) for a writ of habeas corpus denied as insufficient on its face. Gibson, P. J., Herlihy, Reynolds, Aulisi and Staley, Jr., JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

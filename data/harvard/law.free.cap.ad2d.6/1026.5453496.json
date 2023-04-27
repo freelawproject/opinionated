@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1026\" lastpage=\"1026\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"pADKJ\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ABc\">October, 1958</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AaB0\">(October 2, 1958)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"APO\">In the Matter of Arthur P. McNulty, Appellant, against Robert C. Weaver, as State Rent Administrator, Respondent, and Kenneth V. Wagenbach et al., Intervenors-Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Atri\">Order unanimously affirmed, with $20 costs and disbursements to the respondents. No opinion. Concur \u2014 Botein, P. J., Breitel, Rabin, Valente, and McNally, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

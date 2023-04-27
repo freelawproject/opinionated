@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"A1J\">Thomas Bingham, Jr., et al., Respondents, v American Honda Motor Company, Inc., et al., Appellants.</parties>\n\n<opinion><p id=\"AgPP\">unanimously reversed, with costs, and motion denied. Memorandum: Special Term erred in ordering Honda Research &amp; Development Co., Ltd., to produce one of its employees for deposition inasmuch as no notice of the motion was served on that defendant (CPLR 3124). (Appeal from order of Supreme Court, Erie County, Bayger, J. \u2014 discovery.) Present \u2014 Dillon, P. J., Hancock, Jr., Denman, Boomer and O\u2019Donnell, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A1J\">Thomas Bingham, Jr., et al., Respondents, v American Honda Motor Company, Inc., et al., Appellants.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AgPP\">unanimously reversed, with costs, and motion denied. Memorandum: Special Term erred in ordering Honda Research &amp; Development Co., Ltd., to produce one of its employees for deposition inasmuch as no notice of the motion was served on that defendant (CPLR 3124). (Appeal from order of Supreme Court, Erie County, Bayger, J. \u2014 discovery.) Present \u2014 Dillon, P. J., Hancock, Jr., Denman, Boomer and O\u2019Donnell, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

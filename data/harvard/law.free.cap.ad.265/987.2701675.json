@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"987\" lastpage=\"987\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1051-5\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AmqZ\">January, 1943.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1051-6\">(January 11, 1943.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1051-7\">In the Matter of the Will of Max S. Korn, Deceased. Milton Lehman, Respondent; Jennie Korn, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMMJ\">No opinion. Present \u2014 Martin, P. J., Townley, Glennon, Untermyer and Dore, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

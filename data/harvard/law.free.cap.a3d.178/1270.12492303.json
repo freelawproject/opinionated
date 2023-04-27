@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1270\" lastpage=\"1270\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  LIBERTY GREENS ASSOCIATION, INC., Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  Daniel BERGERON, Defendant-Movant,\n  <br/>\n  and\n  <br/>\n  Deanna M. Mendez, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-728 September Term 2017\n  <br/>\n  080276\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  February 9, 2018\n </decisiondate>\n <p id=\"p-5\">\n  ORDER\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for a stay is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

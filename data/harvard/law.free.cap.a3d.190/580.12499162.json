@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"580\" lastpage=\"580\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  William C. ROVERANO and Jacqueline Roverano, h/w\n  <br/>\n  v.\n  <br/>\n  JOHN CRANE, INC. and Brand Insulations, Inc.\n </parties>\n <docketnumber id=\"p-2\">\n  Petition of: Brand Insulations Inc.\n </docketnumber>\n <parties id=\"p-3\">\n  William Roverano\n  <br/>\n  v.\n  <br/>\n  John Crane, Inc.\n </parties>\n <docketnumber id=\"p-4\">\n  Petition of: Brand Insulations Inc.\n </docketnumber>\n <docketnumber id=\"p-5\">\n  No. 82 EAL 2018\n  <br/>\n  No. 83 EAL 2018\n </docketnumber>\n <court id=\"p-6\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-7\">\n  July 31, 2018\n </decisiondate>\n <p id=\"p-8\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-10\">\n   AND NOW, this 31st day of July, 2018, the Cross Petition for Allowance of Appeal is DENIED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

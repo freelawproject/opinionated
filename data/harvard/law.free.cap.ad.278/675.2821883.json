@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"675\" lastpage=\"675\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b725-7\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AHAD\">March, 1951.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b725-8\">(March 6, 1951.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b725-10\">Mornet, Inc., Appellant, v. Chas. Kaye Realty Co., Inc., Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APU\">Judgment and order unanimously affirmed, with costs. No opinion. Present \u2014 Peck, P. J., Cohn, Callahan, Van Voorhis and Heffernan, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

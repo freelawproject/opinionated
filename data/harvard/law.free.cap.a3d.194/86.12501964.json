@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"86\" lastpage=\"86\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Janell GOFFE, Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  FOULKE MANAGEMENT CORP. t/a Cherry Hill Triplex/Cherry Hill Mitsubishi and Antonio (Tony) Salisbury, Defendants-Petitioners.\n </parties>\n <parties id=\"p-2\">\n  Sasha Robinson and Tijuana Johnson, Plaintiffs-Respondents,\n  <br/>\n  v.\n  <br/>\n  Mall Chevrolet, Inc., Defendant-Petitioner.\n </parties>\n <docketnumber id=\"p-3\">\n  M-41 September Term 2018\n  <br/>\n  081258\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  September 28, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   It is ORDERED that the motion of the New Jersey Coalition of Automotive Retailers for leave to appear amicus curiae is granted, limited solely to the brief that accompanied the motion. Should movant seek to participate in oral argument, it may file a motion seeking such relief.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

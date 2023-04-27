@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"920\" lastpage=\"920\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b980-10\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AquF\">September, 1968</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AvJr\">(September 5, 1968)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AF2v\">The People of the State of New York ex rel. Darryl Baines et al., Relators, v. George F. McGrath, as Commissioner of Correction, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AacgG\">\u2014 Upon the return of the writ of habeas corpus (bail reduction), application denied, writ dismissed, without costs; relators remanded to the custody of the respondent. Beldock, P. J., Christ, Brennan, Munder and Martuscello, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

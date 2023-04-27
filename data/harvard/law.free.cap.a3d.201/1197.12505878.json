@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1197\" lastpage=\"1197\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Vincent BRANSON and Lee Mestre, Defendants Below, Appellants,<br/> v.<br/> David BRANSON, Albert Branson, and Robert Branson, Plaintiffs Below, Appellees.</parties>\n<docketnumber id=\"p-2\">No. 280, 2018</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<decisiondate id=\"p-4\">Submitted: November 16, 2018<br/> Decided: January 14, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1197\" lastpage=\"1197\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Vincent BRANSON and Lee Mestre, Defendants Below, Appellants,\n    <br/>\n    v.\n    <br/>\n    David BRANSON, Albert Branson, and Robert Branson, Plaintiffs Below, Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 280, 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted: November 16, 2018\n    <br/>\n    Decided: January 14, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

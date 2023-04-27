@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"975\" lastpage=\"975\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1017-8\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AenW\">September, 1974</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ach1\">(September 4, 1974)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AqYP\">The People of the State of New York ex rel. Gregory Richard Smoot, Petitioner, v. Jack R. Nevil, as Sheriff of Otsego County, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJ_O\">Application for writ of habeas corpus pursuant to CPLR 7002 (subd. [b], par. 2) denied. (See CPLR 7003, subd. [b].) Herlihy, P. J., Greenblott, Cooke, Sweeney and Main, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

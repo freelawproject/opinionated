@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1212\" lastpage=\"1212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1058-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A2Hc\">October, 1967</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AY1x\">(October 25, 1967)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A9ac1\">The People of the State of New York ex rel. Antonio Gonzalez, Relator, v. Warden of Brooklyn House of Detention for Men, Respondent.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b1058-6\">Not published with other decisions of Oct. 25, 1967, 28 A D 2d 1005.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AjAn\">Christ, Acting P. J., Brennan, Rabin, Hopkins and Munder, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

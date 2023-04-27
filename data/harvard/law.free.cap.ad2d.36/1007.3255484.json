@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1007\" lastpage=\"1008\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1059-6\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Air6\">May, 1971</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A85C\">(May 13, 1971)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A-q\">The People of the State of New York, Respondent, v. Milton S. Finkelstein, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2Ey\"><page-number citation-index=\"1\" label=\"1008\">*1008</page-number>Present\u2014Del Vecchio, J. P., Witmer, Gabrielli, Cardamone and Henry, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

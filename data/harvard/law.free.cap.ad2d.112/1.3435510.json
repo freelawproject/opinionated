@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1\" lastpage=\"1\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b41-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A7\">June, 1985</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Anr\">(June 4,1985)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ar\">The People of the State of New York, Respondent, v Wayne Bouyea, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKP7\">Upon remittitur from the Court of Appeals, judgment unanimously affirmed. Present \u2014 Callahan, J. P., Denman, Boomer, O\u2019Donnell and Schnepp, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

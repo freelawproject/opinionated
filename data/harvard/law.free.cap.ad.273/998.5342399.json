@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b1046-4\">C. Grant Keck, Doing Business as C. Grant Keck Organization, Appellant, v. William J. Evans, Respondent.</parties>\n\n<opinion><p id=\"AalV\">Order, so far as appealed from, unanimously affirmed, with $20 costs and disbursements. No opinion. Present \u2014 Peek, P. J., Dore, Cohn, Callahan and Van Voorhis, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1046-4\">C. Grant Keck, Doing Business as C. Grant Keck Organization, Appellant, v. William J. Evans, Respondent.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AalV\">Order, so far as appealed from, unanimously affirmed, with $20 costs and disbursements. No opinion. Present \u2014 Peek, P. J., Dore, Cohn, Callahan and Van Voorhis, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

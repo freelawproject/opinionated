@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"919\" lastpage=\"919\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b813-9\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AnZ\">April 1985</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AmP\">(April 1, 1985)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AqRq\">In the Matter of the Claim of Ralph F. Passonno, Jr., Appellant, v Uncle Sam Auctions, Inc., et al., Respondents. Workers\u2019 Compensation Board, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3go\">Main, J. P., Casey, Weiss, Mikoll and Yesawich, Jr., JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

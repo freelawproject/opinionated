@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"678\" lastpage=\"678\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b718-12\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AZxV\">June, 1956</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A1W\">(June 1, 1956)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AQen\">In the Matter of Edward H. Freiberger, Appellant, against Donald L. O\u2019Toole et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A28\">Order on reargument affirmed, without costs. Appeal from original orders dismissed, without costs. No opinion. Nolan, P. J., Wenzel, Beldock, Murphy and Kleinfeld, JJ., concur. [2 Misc 2d 191.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

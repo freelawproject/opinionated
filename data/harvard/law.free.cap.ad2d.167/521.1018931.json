@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"521\" lastpage=\"521\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AoQ\">Practical Constructors, Ltd., Respondent, v Patrick McCarthy et al., Appellants.</parties>\n\n\n<opinion><p id=\"AJV\">Appeal by the defendants from a judgment of the Supreme Court, Queens County (Hentel, J.), entered July 3, 1989.</p><p id=\"b555-8\">Ordered that the judgment is affirmed, with costs, for reasons stated by Justice Hentel in the Supreme Court, Queens County. Mangano, P. J., Bracken, Lawrence and Ritter, JJ., concur.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"521\" lastpage=\"521\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AoQ\">Practical Constructors, Ltd., Respondent, v Patrick McCarthy et al., Appellants.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AJV\">Appeal by the defendants from a judgment of the Supreme Court, Queens County (Hentel, J.), entered July 3, 1989.</p><p id=\"b555-8\">Ordered that the judgment is affirmed, with costs, for reasons stated by Justice Hentel in the Supreme Court, Queens County. Mangano, P. J., Bracken, Lawrence and Ritter, JJ., concur.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

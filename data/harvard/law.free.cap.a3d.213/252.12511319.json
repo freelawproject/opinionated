@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"252\" lastpage=\"253\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  COMMONWEALTH of Pennsylvania, Appellee\n  <br/>\n  v.\n  <br/>\n  Richard Arden REDMAN, Appellant\n </parties>\n <docketnumber id=\"p-2\">\n  44 MAP 2018\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  Argued: April 9, 2019\n  <br/>\n  Decided: July 18, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Daniel John Barrett, Esq., Albert Charles Ondrey, Esq., Bradford County District Attorney's Office, for Appellee.\n </attorneys>\n <attorneys id=\"p-6\">\n  Gregory Eugene Davidson, Esq., Brian Vincent Manchester, Esq., Manchester &amp; Associates, for Appellant.\n </attorneys>\n <attorneys id=\"p-7\">\n  Timothy Jon Barker, Esq., Stephanie Elizabeth Lombardo, Esq., York County District Attorney's Office, for Amicus Curiae.\n </attorneys>\n <p id=\"p-8\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   PER CURIAM\n  </author>\n  <p id=\"p-10\">\n   AND NOW, this 18th day of July, 2019, this appeal is dismissed as having been improvidently granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

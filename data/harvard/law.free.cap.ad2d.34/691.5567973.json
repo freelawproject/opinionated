@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"691\" lastpage=\"691\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b679-5\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A0y2\">April, 1970</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXB_\">(April 7, 1970)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AA2y\">The People of the State of New York ex rel. Clark Dishaw, Appellant, v. Charles L. McKendrick, as Warden of Wallkill Prison, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADS8\">Appeal dismissed, without costs, on the ground that relator has been released on parole (see <em>People ex rel. Wilder </em>v. <em>Marhley, </em>26 N Y 2d 648). Herlihy, P. J., Reynolds, Aulisi, Staley, Jr., and Greenblott, JJ. concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

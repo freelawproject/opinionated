@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"719\" lastpage=\"719\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"ANx6\">Rose W. Goldsleger v. Joseph Weiss.</parties>\n\n<opinion><p id=\"A0YM\">Motion for stay denied, with $10 costs. Concur \u2014 Breitel, J. P., Rabin, M. M. Frank, Valente and McNally, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"719\" lastpage=\"719\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ANx6\">Rose W. Goldsleger v. Joseph Weiss.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A0YM\">Motion for stay denied, with $10 costs. Concur \u2014 Breitel, J. P., Rabin, M. M. Frank, Valente and McNally, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

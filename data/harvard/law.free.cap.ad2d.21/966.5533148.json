@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"966\" lastpage=\"966\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b998-12\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A9W5\">March, 1963<footnotemark>**</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b998-13\">(March 13, 1963)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A8Du\">In the Matter of the Probate of the Will of Monroe L. Dix, Deceased. Rose Selby et al., Appellants; Chemical Bank New York Trust Company, as Temporary Administrator, et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"**\">\n<p id=\"b998-18\"> Not published with other decisions of March 13, 1963, 18 A D 2d 1032.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"ARAs\">Orders affirmed, with costs to all parties filing briefs payable from the estate. No opinion. Bergan, P. J., Herlihy and Reynolds, JJ., concur; Taylor, J., not voting.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

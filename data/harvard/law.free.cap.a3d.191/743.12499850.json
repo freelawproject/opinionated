@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"743\" lastpage=\"743\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE: CONDEMNATION BY the REDEVELOPMENT AUTHORITY OF the CITY OF YORK\n </parties>\n <parties id=\"p-2\">\n  Appropriating in Fee Simple Certain Lands of John E. and Joyce E. Gearhart\n </parties>\n <parties id=\"p-3\">\n  Located at 319 Chestnut Street, in the City of York, York County, Pennsylvania Parcel No. 12-350-01-0003.00-00000\n </parties>\n <parties id=\"p-4\">\n  Petition of: Redevelopment Authority of the City of York\n </parties>\n <docketnumber id=\"p-5\">\n  No. 248 MAL 2018\n </docketnumber>\n <court id=\"p-6\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-7\">\n  August 15, 2018\n </decisiondate>\n <p id=\"p-8\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-10\">\n   AND NOW, this 15th day of August, 2018, the Petition for Allowance of Appeal is DENIED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

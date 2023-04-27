@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"653\" lastpage=\"653\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b679-6\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AU5\">January, 1984</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIE\">(January 4, 1985)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ael\">In the Matter of Gerald J. Garner (Admitted as Gerald J. Goldberg), a Suspended Attorney, Respondent. Grievance Committee for the Ninth Judicial District, Petitioner.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqU\">\u2014 On the court\u2019s own motion, this court\u2019s order dated October 1, 1984 (103 AD2d 390) which suspended respondent from the practice of law for a period of one year is amended by changing the effective date of said suspension to read January 4, 1985. Mollen, P. J., Titone, Lazer, Mangano and Bracken, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

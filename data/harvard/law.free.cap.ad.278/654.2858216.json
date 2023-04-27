@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"654\" lastpage=\"654\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b704-10\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ALk\">February, 1951.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b704-11\">(February 5, 1951.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b704-13\">Anthony R. Adorno, as Assignee of Mary Adorno, Appellant, v. Vincent Del Borrello, Defendant, and Vin-Del Contracting Co., Inc., Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AxhV\">Motion for leave to appeal to the Appellate Division denied, with $10 costs. Present \u2014 Nolan, P. J., Carswell, Adel, Sneed and MaeCrate, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

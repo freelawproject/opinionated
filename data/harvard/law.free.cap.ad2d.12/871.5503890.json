@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"871\" lastpage=\"871\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b923-5\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AlmF\">January, 1961</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ALsH\">(January 5, 1961)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"AFrh\">Joseph H. Saint et al., Appellants, v. Bell Aircraft Corporation, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFEM\">Order unanimous affirmed, without costs of this appeal to any party. (Cf. <em>Arsenault </em>v. <em>General Elec. Co., </em>147 Conn. 130, cert. denied 364 U. S. 815.) (Appeal from order of Erie Special Term, staying plaintiffs from prosecuting trial of the action.) Present \u2014 Bastow, J. P., Goldman, Halpern, McClusky and Henry, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"293\" lastpage=\"293\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Guerline FELIX, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  Brian V. RICHARDS, Defendant.\n </parties>\n <parties id=\"p-2\">\n  Brian V. Richards and Kassandria Richards, His Wife Per Quod, Plaintiffs,\n  <br/>\n  v.\n  <br/>\n  Guerline Felix, Mid-Atlantic Insurance Company of New Jersey, Defendants,\n  <br/>\n  and\n  <br/>\n  AAA Mid-Atlantic Insurance Company, Third-Party Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  GEICO Indemnity Company, Third-Party Defendant-Petitioner.\n </parties>\n <docketnumber id=\"p-3\">\n  C-416 September Term 2018\n  <br/>\n  081799\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  December 6, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   A petition for certification of the judgment in A-005093-16 having been submitted to this Court, and the Court having considered the same;\n  </p>\n  <p id=\"p-8\">\n   It is ORDERED that the petition for certification is granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

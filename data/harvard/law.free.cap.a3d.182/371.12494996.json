@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"371\" lastpage=\"371\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of New Jersey, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  Soliman YOUSSEF, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-902 September Term 2017\n  <br/>\n  079941\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  March 23, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   This matter having been duly presented to the Court on defendant's appeal as of right from the judgment of the Superior Court, Appellate Division in A-005079-15; and the Court having determined that the matter does not raise a substantial constitutional question under\n   <em>\n    Rule\n   </em>\n   2:2-1(a)(1) and the applicable case law;\n  </p>\n  <p id=\"p-7\">\n   It is ORDERED that the appeal is dismissed on the Court's own motion.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

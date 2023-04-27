@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"945\" lastpage=\"946\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1013-7\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"ACm\">July, 1955.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1013-8\">(July 14, 1955.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b1013-10\">William L. Webb, Appellant, v. State of New York, Respondent.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"Afq\">(Claim No. 31734.)</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_E3\"><page-number citation-index=\"1\" label=\"946\">*946</page-number>Present \u2014 MeCurn, P. J., Kimball, Piper, Wheeler and Van Duser, JJ. [206 Mise. 512.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

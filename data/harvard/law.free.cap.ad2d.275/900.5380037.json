@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"900\" lastpage=\"900\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b960-8\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"ARY2\">June, 1949.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b960-9\">(June 7, 1949.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b960-10\">Clarkton Realty Corporation et al., Appellants, v. Consolidated Edison Company of New York, Inc., et al., Respondents. (14 related actions against same defendants.)</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A16e\">No opinion. Present \u2014 Peck, P. J., Dore, Cohn, Callahan and Shientag, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

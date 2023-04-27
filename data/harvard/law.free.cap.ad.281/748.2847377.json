@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"748\" lastpage=\"748\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b800-11\">Second Depabtment,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Ab2\">January, 1953.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b800-12\">(January 5,1953.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b800-13\">Rae Ferrell, Respondent, v. Hamlin F. Andrus, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOYc\">Appeal by the defendant from an order denying a motion pursuant to subdivision 8 (now subd. 7) of rule 107 of the Rules of Civil Practice, to dismiss the complaint. Order affirmed, with $10 costs and disbursements. No opinion. Cars-well, Adel, Wenzel and MacCrate, JJ., concur; Nolan, P. J., not voting.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

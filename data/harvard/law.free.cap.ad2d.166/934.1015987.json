@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"934\" lastpage=\"934\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b968-2\">FIRST DEPARTMENT,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A7FZ\">July, 1990</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AcXR\">(July 17, 1990)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ARjB\">People v Rafael Andujar, Also Known as Raphael Anduhar.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"AeHD\">Not published with other First Department decisions of July 17,1990</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AZg\">Reargument denied for the reasons stated in this court\u2019s memorandum decision accompanying the order entered on April 17, 1990 (160 AD2d 403). Concur\u2014Murphy, P. J., Carro, Kassal, Milonas and Wallach, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

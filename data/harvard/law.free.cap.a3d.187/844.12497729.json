@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"844\" lastpage=\"844\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Hilda T. KENNEDY, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  Frederic A. POLLOCK, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-1303/1304 September Term 2017\n  <br/>\n  080993\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  June 15, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion of Hilda T. Kennedy and John F. Kennedy for leave to file a motion for leave to appeal as within time (M-1303) is granted; and it is further\n  </p>\n  <p id=\"p-7\">\n   ORDERED that the motion for leave to appeal (M-1304) is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

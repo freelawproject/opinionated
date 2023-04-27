@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"743\" lastpage=\"743\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b803-9\">Grace L. Boynton, Respondent, v. James B. Boynton, Appellant.</parties>\n\n<opinion><p id=\"As8_\">Orders and judgment unanimously affirmed, with costs. No. opinion. Present \u2014 Martin, P. J., Untermyer, Dore, Cohn and Callahan, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"743\" lastpage=\"743\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b803-9\">Grace L. Boynton, Respondent, v. James B. Boynton, Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"As8_\">Orders and judgment unanimously affirmed, with costs. No. opinion. Present \u2014 Martin, P. J., Untermyer, Dore, Cohn and Callahan, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

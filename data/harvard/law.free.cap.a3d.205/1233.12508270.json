@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1233\" lastpage=\"1233\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE in Trust FOR the REGISTERED HOLDERS OF MORGAN STANLEY ABS CAPITAL I TRUST 2004-HE6, Mortgage Pass-Through Certificates, Series 2004-HE6, Respondent\n  <br/>\n  v.\n  <br/>\n  Kent M. OZMAN a/k/a Kent Ozman, Petitioner\n </parties>\n <docketnumber id=\"p-2\">\n  No. 616 MAL 2018\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  April 2, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-7\">\n   <strong>\n    AND NOW,\n   </strong>\n   this 2nd day of April, 2019, the Petition for Allowance of Appeal is\n   <strong>\n    DENIED.\n   </strong>\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

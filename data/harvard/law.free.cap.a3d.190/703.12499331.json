@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"703\" lastpage=\"703\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN the INTEREST OF: M.R., a Minor</parties>\n<docketnumber id=\"p-2\">954 EDA 2017</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">April 12, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"703\" lastpage=\"703\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN the INTEREST OF: M.R., a Minor\n   </parties>\n   <docketnumber id=\"p-2\">\n    954 EDA 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 12, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

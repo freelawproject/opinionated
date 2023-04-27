@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"753\" lastpage=\"753\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b803-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A_DE\">October, 1938.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b803-5\">(October 7, 1938.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b803-6\">In the Matter of Supplementary Proceedings: Grace Herlihy, Judgment Creditor, Respondent, v. J. L. Watkins, Judgment Debtor. In the Matter of Supplementary Proceedings: 50 East 72nd Street Corporation, Judgment Creditor, Appellant, v. J. Lawrence Watkins, Jr., Judgment Debtor.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJyH\">Order, so far as appealed from, unanimously affirmed, with twenty dollars costs and disbursements. No opinion. Present \u2014 Martin, P. J., O\u2019Malley, Glennon, Untermyer and Cohn, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

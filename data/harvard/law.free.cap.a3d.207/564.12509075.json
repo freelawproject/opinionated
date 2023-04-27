@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"564\" lastpage=\"564\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF a Member of the Bar of the Supreme Court of Delaware: Donald C. VAVALA, III, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 21, 2019</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<decisiondate id=\"p-4\">Submitted: February 3, 2019<br/> Decided: March 14, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Transferred.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"564\" lastpage=\"564\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF a Member of the Bar of the Supreme Court of Delaware: Donald C. VAVALA, III, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 21, 2019\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted: February 3, 2019\n    <br/>\n    Decided: March 14, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Transferred.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

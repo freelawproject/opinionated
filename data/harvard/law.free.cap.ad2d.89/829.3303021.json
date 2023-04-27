@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"829\" lastpage=\"829\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"A89f\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"ATB\">February, 1982</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AFIx\">(February 18, 1982)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Aqy1\">In the Matter of the Claims of Joseph Di Martino et al., Respondents. Buffalo Courier Express Co., Inc., Appellants; Philip Ross, as Industrial Commissioner, Respondent.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b857-6\"> Not published with other decisions of February 18, 1982, 86 AD2d 918. [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"Ae4B\">Decision affirmed, without costs. No opinion. Mahoney, P. J., Sweeney, Mikoll, Yesawich, Jr., and Levine, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

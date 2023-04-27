@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"513\" lastpage=\"513\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b545-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AAv5\">June, 1976</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AuQ\">(June 1, 1976)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"ANeE\">Donald C. Smith, Appellant, v Joanne E. Smith, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2P\">Three orders of the Supreme Court, New York County, each entered on March 24, 1976, unanimously affirmed for the reasons stated by Shainswit, J., at Special Term, without costs and without disbursements. Concur\u2014 Stevens, P. J., Markewich, Capozzoli, Nunez and Lynch, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

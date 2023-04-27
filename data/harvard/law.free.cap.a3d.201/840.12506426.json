@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"840\" lastpage=\"840\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE: G.A.D., a Minor,</parties>\n<docketnumber id=\"p-2\">Appeal of: S.D.</docketnumber>\n<docketnumber id=\"p-3\">357 WDA 2018</docketnumber>\n<court id=\"p-4\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-5\">November 9, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Vacated/Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"840\" lastpage=\"840\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE: G.A.D., a Minor,\n   </parties>\n   <docketnumber id=\"p-2\">\n    Appeal of: S.D.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    357 WDA 2018\n   </docketnumber>\n   <court id=\"p-4\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-5\">\n    November 9, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Vacated/Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"551\" lastpage=\"551\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b595-7\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"ANLB\">February, 1981</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"APWZ\">(February 2, 1981)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ADHB\">Action Crane Corporation, Plaintiff, v Willets Point Contracting Corp., Defendant. (Action No. 1.) Action Crane Corporation, Respondent, v Willets Point Contracting Corp., Appellant. (Action No. 2.)</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5B2\">Order of the Supreme Court, Nassau County, entered October 11, 1979, as resettled by a further order of the same court entered December 14, 1979, affirmed, with one bill of $50 costs and disbursements. No opinion. Lazer, J. P., Mangano, Cohalan and Margett, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

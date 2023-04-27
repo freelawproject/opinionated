@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"111\" lastpage=\"111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Gregory J. TENCZA; 314 Atlantic Avenue-Spring Lake LLC, Plaintiffs-Respondents,\n  <br/>\n  v.\n  <br/>\n  Edward PETRAGLIA, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-1021/1022 September Term 2017\n  <br/>\n  080628\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  April 24, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the miscellaneous motion of Karen Hurd-Petraglia \"to confirm stay of the February 16, 2018 eviction\" pending appeal (M-1021) and for other alternative forms of relief, including a stay (M-1022) are denied.\n  </p>\n  <p id=\"p-7\">\n   CLERK OF THE SUPREME COURT.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

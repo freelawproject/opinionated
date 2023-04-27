@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"882\" lastpage=\"882\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AZ1v\">In the Matter of Isaac Rothblum, Appellant, against Temporary State Housing Rent Commission, Respondent.</parties>\n\n<opinion><p id=\"A9mH\">Order unanimously affirmed, with $20 costs and disbursements to the respondent. Ho opinion. Concur \u2014 Botein, P. J., Breitel, Rabin, Stevens and Bergan, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"882\" lastpage=\"882\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AZ1v\">In the Matter of Isaac Rothblum, Appellant, against Temporary State Housing Rent Commission, Respondent.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A9mH\">Order unanimously affirmed, with $20 costs and disbursements to the respondent. Ho opinion. Concur \u2014 Botein, P. J., Breitel, Rabin, Stevens and Bergan, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

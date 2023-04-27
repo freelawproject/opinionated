@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"501\" lastpage=\"501\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b545-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Aoq\">February, 1981</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A_8\">(February 3, 1981)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ALh\">In the Matter of Bernard Adelstein, as Secretary-Treasurer of Private Sanitation Union Local 813 Affiliated with International Brotherhood of Teamsters, Respondent, v Thomas J. Manzo, Inc., Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aiz\">Resettled order and judgment, Supreme Court, New York County, entered on October 11, 1979, unanimously affirmed. Petitioner-respondent shall recover of respondent-appellant $75 costs and disbursements of this appeal. No opinion. Concur \u2014 Murphy, P. J., Birns, Ross, Markewich and Lynch, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

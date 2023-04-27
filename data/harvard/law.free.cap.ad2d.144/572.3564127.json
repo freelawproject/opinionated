@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"572\" lastpage=\"572\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"A4by\">The People of the State of New York, Respondent, v Richard Brownstein, Appellant.</parties>\n\n\n<opinion><p id=\"AGy\">Appeal by the defendant from a judgment of the Supreme Court, Queens County (Rotker, J.), rendered December 21, 1983.</p><p id=\"b614-8\">Ordered that the judgment is affirmed <em>(see, People v Dixon, </em>29 NY2d 55; <em>People v Stubbs, </em>110 AD2d 725; <em>People v Frederick, </em>45 NY2d 520; <em>People v Tinsley, </em>35 NY2d 926). Mangano, J. P., Bracken, Fiber, Spatt and Sullivan, JJ., concur.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"572\" lastpage=\"572\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A4by\">The People of the State of New York, Respondent, v Richard Brownstein, Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AGy\">Appeal by the defendant from a judgment of the Supreme Court, Queens County (Rotker, J.), rendered December 21, 1983.</p><p id=\"b614-8\">Ordered that the judgment is affirmed <em>(see, People v Dixon, </em>29 NY2d 55; <em>People v Stubbs, </em>110 AD2d 725; <em>People v Frederick, </em>45 NY2d 520; <em>People v Tinsley, </em>35 NY2d 926). Mangano, J. P., Bracken, Fiber, Spatt and Sullivan, JJ., concur.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

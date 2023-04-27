@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"975\" lastpage=\"975\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  ACRO SERVICE CORPORATION, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  NEW JERSEY DIVISION OF PURCHASE AND PROPERTY and 22nd Century Technologies, Inc., Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  M-249 September Term 2018\n  <br/>\n  081310\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  November 2, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion of the American Staffing Association, New Jersey Staffing Alliance, Industrial Staffing Services, Inc., Medical Staffing Services, Inc., System One Holdings LLC f/d/b/a Joule Staffing Solutions, Apidel Technologies, LLC, Alois LLC, and US Tech Solutions, Inc. for leave to appear as amicus curiae is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1004\" lastpage=\"1004\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1064-6\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AVEN\">September, 1949.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1064-7\">(September 21, 1949.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1064-8\">In the Matter of New York State Electric &amp; Gas Corporation, Petitioner, against Milo R. Maltbie et al., Constituting the Public Service Commission of the State of New York and State Division of the Department of Public Service of the State of New York, Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_II\">Present \u2014 Foster, P. J., Heffernan, Brewster, Santry and Bergan, JJ,</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

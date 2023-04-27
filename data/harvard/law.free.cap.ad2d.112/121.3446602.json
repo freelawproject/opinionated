@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"121\" lastpage=\"121\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b161-8\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AeS\">July, 1985</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A7Df\">(July 1,1985)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A-Ei\">A-One Bricklaying Co., Inc., Appellant, v Padco Construction, Inc., et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHJm\">Order of the Supreme Court, Nassau County, dated February 17, 1984, affirmed, with costs, for the reasons stated by Justice Harwood at Special Term. Gibbons, J. P., Thompson, Weinstein and Lawrence, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

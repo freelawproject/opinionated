@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"725\" lastpage=\"725\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b785-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AbqY\">May, 1948.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b785-5\">(May 5, 1948.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b785-6\">Guaranty Trust Company of New York, Respondent, v. State of New York, Appellant.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"A7VvQ\">(Claim No. 27969.)</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOEe\">Hill, P. J., Heffernan and Russell, JJ., concur; Brewster and Deyo, JJ., dissent upon the ground that the decision and judgment of this court upon the former appeal (271 App. Div. 711) did not mandate the final judgment now appealed from within the purview of section 590 of the Civil Practice Act. [191 Misc. 259.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"814\" lastpage=\"814\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b854-12\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ASMW\">September, 1956</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ASt\">(September 20, 1956).</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AEON\">David Posner et al., Copartners Doing Business under the Name \u201c Posner and Fingerman \u201d, v. Sound Steamship Lines, Inc., et al.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AsUS\">Motion to dismiss appeal granted, with $10 costs. Concur \u2014 Peek, P. J., Breitel, Botein, Rabin and Cox, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

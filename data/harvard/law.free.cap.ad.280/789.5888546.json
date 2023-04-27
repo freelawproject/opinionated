@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"789\" lastpage=\"789\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b825-6\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"ATG\">June, 1952.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b825-7\">(June 2, 1952.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b825-9\">Fannie Bernard, Appellant, v. City of New York, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAe8\">Motion for leave to appeal to the Appellate Division denied, without costs. Present \u2014 Nolan, P. J., Carswell, Johnston, Adel and Schmidt, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"66\" lastpage=\"66\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  REALTY APPRAISAL COMPANY, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  CITY OF JERSEY CITY, a Municipal Corporation of the State of New Jersey, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-633/634 September Term 2017\n  <br/>\n  079689\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  January 26, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for leave to file a motion for counsel fees and costs as within time (M-633) is granted; and it is further\n  </p>\n  <p id=\"p-7\">\n   ORDERED that the motion for counsel fees in the amount of $9,500.00 and costs of $44.30 is granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

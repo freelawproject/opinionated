@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"951\" lastpage=\"952\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b987-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AD30\">December, 1970</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Afuq\">(December 7, 1970)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AdU\">In the Matter of Sheldon Blume, an Attorney (Admitted as Sheldon Bloomowitz) , Respondent. Solomon A. Klein, Petitioner.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AEh1\"><page-number citation-index=\"1\" label=\"952\">*952</page-number>Christ, P. J., Rabin, Hopkins, Munder and Martuseello, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

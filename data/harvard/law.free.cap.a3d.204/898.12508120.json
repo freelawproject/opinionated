@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"898\" lastpage=\"898\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Justice R. ALLAH, Appellant-Movant,\n  <br/>\n  v.\n  <br/>\n  NEW JERSEY DEPARTMENT OF CORRECTIONS, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  M-792 September Term 2018\n  <br/>\n  M-793 September Term 2018\n  <br/>\n  M-794 September Term 2018\n  <br/>\n  081617\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  April 4, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for leave to file a motion for reconsideration as within time (M-792) is granted; and it is further\n  </p>\n  <p id=\"p-7\">\n   ORDERED that the motion for reconsideration of the Court's order dismissing the petition for certification (M-793) is denied; and it is further\n  </p>\n  <p id=\"p-8\">\n   ORDERED that the motion for stay (M-794) is dismissed as moot.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

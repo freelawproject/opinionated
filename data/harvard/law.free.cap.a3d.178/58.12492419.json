@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"58\" lastpage=\"58\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  John PAFF, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  OCEAN COUNTY PROSECUTOR'S OFFICE, Defendant-Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  M-621/622/623/636/637 September Term 2017\n  <br/>\n  078040\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  January 26, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motions to take judicial notice of records (M-621) and to file a reply brief (M-622) are granted; and it is further\n  </p>\n  <p id=\"p-7\">\n   ORDERED that the motions to dismiss the appeal (M-623), to strike portions of the defendant's answer to plaintiffs motion to file a reply brief (M-636), and to file a sur-reply brief (M-637) are denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

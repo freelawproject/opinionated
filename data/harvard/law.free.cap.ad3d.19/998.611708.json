@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1054-6\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AEad\">June, 2005</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXv7\">(June 10, 2005)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AB6-\">George William Sheahan, Appellant, v Wayne Maston et al., Respondents.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"ATqU\">(Appeal No. 2.)</docketnumber>\n<citation data-order=\"5\" data-type=\"citation\" id=\"Ah2b\">[796 NYS2d 280]</citation>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aqf9\">Appeal from an order of the Supreme Court, Cayuga County (Peter E. Corning, A.J.), entered July 2, 2004. The order denied plaintiffs motion for leave to reargue an order entered April 7, 2004.</p>\n<p id=\"b1054-8\">It is hereby ordered that said appeal be and the same hereby is unanimously dismissed without costs <em>(see Empire Ins. Co. v Food City, </em>167 AD2d 983, 984 [1990]). Present \u2014 Scudder, J.P., Martoche, Pine, Lawton and Hayes, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

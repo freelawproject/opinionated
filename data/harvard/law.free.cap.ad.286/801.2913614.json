@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b869-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AlK5\">June, 1955.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b869-5\">(June 2, 1955.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b869-7\">Harry Zuckerman v. Starrett Bros. <em>&amp; </em>Eken Inc. et al.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlZ\">Motion to dismiss appeal granted, with $10 costs. Concur \u2014Peck, P. J., Cohn, Bastow, Botein and Rabin, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

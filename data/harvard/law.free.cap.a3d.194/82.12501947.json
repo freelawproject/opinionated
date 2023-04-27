@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"82\" lastpage=\"82\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Darlene ESPOSITO, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  ELITE TRANSCRIPTION, INC., Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  081373\n  <br/>\n  M-42/43 September Term 2018\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  September 24, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motions for leave to file a notice of appeal as within time (M-42) and for remand (M-43) are denied; and it is further\n  </p>\n  <p id=\"p-7\">\n   ORDERED that the notice of appeal is dismissed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

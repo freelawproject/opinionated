@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1024\" lastpage=\"1024\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b992-10\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AZaKj\">October, 1960</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ADd\">(October 3, 1960)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Afpa\">Rudolph Bunt, Respondent, v. Hofstra College, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4CQ\">Motion for a stay pending appeal dismissed as academic, in view of the decision on the appeal in <em>Bunt </em>v. <em>Bofstra College </em>(11 A D 2d 1026). Beldoek, Acting P. J., Ughetta, Kleinfeld, Christ and Brennan, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"865\" lastpage=\"865\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Term. of Par. Rights to B.J.V.,</parties>\n<docketnumber id=\"p-2\">Appeal of: J.V.</docketnumber>\n<docketnumber id=\"p-3\">172 MDA 2018</docketnumber>\n<court id=\"p-4\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-5\">November 20, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Jurisdiction Retained.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"865\" lastpage=\"865\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Term. of Par. Rights to B.J.V.,\n   </parties>\n   <parties id=\"p-2\">\n    Appeal of: J.V.\n   </parties>\n   <docketnumber id=\"p-3\">\n    172 MDA 2018\n   </docketnumber>\n   <court id=\"p-4\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-5\">\n    November 20, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Jurisdiction Retained.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

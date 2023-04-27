@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"485\" lastpage=\"485\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b511-3\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Ars\">January, 2003</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A0g\">(January 10, 2003)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ago\">In the Matter of West Branch Conservation Association, et al., Respondents, v Town of Ramapo et al., Appellants, et al., Respondent.</parties>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A7g\">[756 NYS2d 739]</citation>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AASR\">\u2014On the court\u2019s own motion, it is ordered that its decision and order dated June 11, 2001 (284 AD2d 401), in the above-entitled matter is amended by deleting from the first paragraph following the decretal paragraphs the words \u201c80 acres of property,\u201d and substituting therefor the words \u201c80,000 square feet.\u201d Ritter, J.P., Feuerstein, S. Miller and Schmidt, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

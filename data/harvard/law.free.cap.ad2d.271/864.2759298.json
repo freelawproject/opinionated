@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"864\" lastpage=\"864\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b914-5\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AalM\">December, 1946.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b914-6\">(December 4, 1946.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b914-7\">Akos Horvath et al., Individually and as Copartners Doing Business under the Names of Phillipsburg Textile Print Works and Clark Mills Company, v. Jacob E. Weissman.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AsW\">Motion for leave to appeal to the Court of Appeals denied, with $10 costs. Present \u2014 Martin, P. J., Townley, Dore, Cohn and Callahan, JJ. [See <em>ante, </em>p. 776.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

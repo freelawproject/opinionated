@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1040-6\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AYl\">August, 1958</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ae_S\">(August 8, 1958)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"As4\">In the Matter of Lloyd R. Le Fever, Petitioner, against Louis J. Lefkowitz, as Attorney-General of the State of New York, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aj0A\">Appeal dismissed, on the ground that the order appealed from is not appealable. <em>(Matter of Ryan [Hogan], </em>306 N. Y. 11; <em>Matter of Turecamo Gontr. Co., </em>260 App. Div. 253.) Foster, P. J., Bergan, Coon and Gibson, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

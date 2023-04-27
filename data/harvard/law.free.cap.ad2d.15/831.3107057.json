@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"831\" lastpage=\"831\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b885-2\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Ak2R\">February, 1962</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AhtL\">(February 2, 1962)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b885-3\">In decisions Nos. 1-4: Present \u2014 Bergan, P. J., Coon, Gibson, Herlihy and Reynolds, JJ.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"A08H\">(A) Jean D. Murnane, Appellant, v. Charles J. Murnane, Respondent. (B) Martin J. McEvilly et al., Respondents, v. James K. Camp, Appellant.</parties>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQGH\">[In each action] Motions to dismiss appeals granted, by default, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

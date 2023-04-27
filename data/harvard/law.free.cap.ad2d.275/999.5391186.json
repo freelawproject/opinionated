@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1059-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AHbU\">August, 1949.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1059-5\">(August 30, 1949.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1059-6\">In the Matter of Anthony Boschetti et al., Appellants, against William J. Heffernan et al., Constituting the Board of Elections of the City of New York, et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AkSW\">Present \u2014 Peck, P. J., Glennon, Cohn, Callahan and Shientag, JJ.; Shientag, J., dissents and votes to affirm.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

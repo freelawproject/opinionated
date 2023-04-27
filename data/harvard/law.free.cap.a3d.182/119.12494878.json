@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"119\" lastpage=\"119\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  BRANCH GROUP, INC., dba Rexel\n  <br/>\n  v.\n  <br/>\n  COMPANION PROP. &amp; CAS. INS. CO.\n  <br/>\n  and\n  <br/>\n  Niyyah Electrical Contractors, LLC, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  16-CV-875, 16-CV-937\n </docketnumber>\n <court id=\"p-3\">\n  District of Columbia Court of Appeals.\n </court>\n <decisiondate id=\"p-4\">\n  February 16, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

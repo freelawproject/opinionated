@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b967-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ADXD\">November, 1940.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b967-5\">(November 4, 1940.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b967-6\">In the Matter of the Application of Brooklyn Bar Association in Respect of Abraham Appel, an Attorney and Counselor at Law, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZzg\">Respondent swore falsely in his application for a marriage license in Virginia. The court directs that he be suspended from the practice of the law for a period of one year. Present \u2014 Lazansky, P. J., Hagarty, Carswell, Adel and Taylor, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

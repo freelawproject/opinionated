@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"980\" lastpage=\"980\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1016-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Ap1X\">November, 1952.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1016-5\">(November 3, 1952.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1016-7\">Sal Albanese et al., Respondents, v. Fair Haven Homes, Inc., et al., Defendants, and Lillian Sagarese, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2D8\">Appeal by a defendant in a mortgage foreclosure action from an order denying her motion to open a default on plaintiffs\u2019 motion for summary judgment. Order affirmed, without costs. Assuming that appellant is entitled to some relief against the escrow agent for alleged breach of an escrow agreement, she has no defense to this foreclosure action. Johnston, Acting P. J., Adel, Wenzel, MacCrate and Schmidt, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

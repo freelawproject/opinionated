@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"939\" lastpage=\"939\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael MARRANCA, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  Valery LOYTSKER, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  078703\n  <br/>\n  M-105/106 September Term 2017\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  September 22, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motions for leave to file a motion for reconsideration as within time (M-105) and file an overlength brief (M-106) are granted;\n   <s>\n    and it is further\n   </s>\n  </p>\n  <p id=\"p-7\">\n   <s>\n    ORDERED that the motion for reconsideration of the Court's order denying the petition for certification (M-107) is denied.\n   </s>\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

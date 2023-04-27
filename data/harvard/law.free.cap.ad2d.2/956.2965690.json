@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"956\" lastpage=\"956\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b996-10\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A9CT\">October, 1956 <footnotemark>* *</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b996-11\">(October 31, 1956)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Az4L\">The People of the State of New York ex rel. William A. Jackson, Appellant, against Walter B. Martin, as Warden, Respondent.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"* *\">\n<p id=\"b996-18\"> Not published with other decisions of October 31, 1956, <em>ante, </em>p. 867.-\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"A_9S\">Motion to appeal on original record and handwritten briefs denied on the ground that the papers fail to show merit to the appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

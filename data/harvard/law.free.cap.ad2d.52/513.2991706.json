@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"513\" lastpage=\"513\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b545-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"Adm\">April, 1976</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AG9b\">(April 1, 1976)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A4T\">The People of the State of New York, Respondent, v Roberto Rojas, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A6c\">Judgment Supreme Court, New York County, rendered on January 17, 1975, unanimously affirmed. Concur\u2014Markewich, J. P., Lupiano, Birns and Capozzoli, JJ.; Murphy, J. concurs on constraint of <em>People v Esteves (51 </em>AD2d 900). No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

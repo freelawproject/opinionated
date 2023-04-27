@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  William J. BRENNAN, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  BERGEN COUNTY PROSECUTOR'S OFFICE, Frank Puccio, Custodian of Records for the Bergen County Prosecutor's Office, Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  M-1485 September Term 2017\n  <br/>\n  078074\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  July 20, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for counsel fees and costs is remanded to the trial court for disposition. Jurisdiction is not retained.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

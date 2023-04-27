@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"625\" lastpage=\"625\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Barry HIRSCHBERG and Elizabeth Hirschberg, Plaintiffs-Movants,\n  <br/>\n  v.\n  <br/>\n  BOROUGH OF NORTHVALE PLANNING BOARD, Borough of Northvale, Jorge Perez, Emma Perez, Defendants,\n  <br/>\n  and\n  <br/>\n  NER Family Associates, LLC, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-637 September Term 2018\n  <br/>\n  080967\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  March 8, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for reconsideration of the Court's order denying the petition for certification is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

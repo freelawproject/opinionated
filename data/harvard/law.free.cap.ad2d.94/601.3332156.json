@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b631-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AIh\">May, 1983</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AtS\">(May 3, 1983)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AjP\">Elaine Vann et al., Respondents, v G. D. Searle &amp; Co. et al., Appellants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b631-6\">\u2014 Order, Supreme Court, New York County (Kirschenbaum, J.), entered on May 18, 1982, unanimously affirmed. The existence of factual issues bars summary judgment. Respondent shall recover of appellant $75 costs and disbursements of this appeal. No opinion. Concur\u2014 Sullivan, J. P., Ross, Fein, Milonas and Kassal, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

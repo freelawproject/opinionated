@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"289\" lastpage=\"289\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of New Jersey, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  Susan HYLAND, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-382 September Term 2018\n  <br/>\n  079028\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  December 6, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the State's motion for reconsideration is granted; and it is further\n  </p>\n  <p id=\"p-7\">\n   ORDERED that the State's petition for certification of the judgment in A-002530-16 is granted; and it is further\n  </p>\n  <p id=\"p-8\">\n   ORDERED that the State may serve and file a supplemental brief on or before February 5, 2019, and defendant may serve and file a supplemental brief forty-five (45) days after the filing of the State's supplemental submission, or, if the State declines to file such a submission, on or before March 22, 2019.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

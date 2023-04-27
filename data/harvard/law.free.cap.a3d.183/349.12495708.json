@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"349\" lastpage=\"349\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Richard MICKMAN, Respondent\n  <br/>\n  v.\n  <br/>\n  Elaine MICKMAN, Petitioner\n </parties>\n <parties id=\"p-2\">\n  Richard Mickman, Respondent\n  <br/>\n  v.\n  <br/>\n  Elaine Mickman, Petitioner\n </parties>\n <docketnumber id=\"p-3\">\n  No. 678 MAL 2017\n  <br/>\n  No. 679 MAL 2017\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-5\">\n  March 28, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   <strong>\n    PER CURIAM\n   </strong>\n  </author>\n  <p id=\"p-8\">\n   AND NOW, this 28th day of March, 2018, the Petition for Allowance of Appeal and Application for Leave for Petitioner to Answer/Reply to Respondent's Counterstatement to Petitioner's Petition for Allowance of Appeal are DENIED.\n  </p>\n  <p id=\"p-9\">\n   The Application for Reconsideration and Clarification of October 19, 2017 IFP Denial Order is DENIED.\n  </p>\n  <p id=\"p-10\">\n   Justice Mundy did not participate in the consideration or decision of this matter.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

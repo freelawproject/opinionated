@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"591\" lastpage=\"591\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Nathan MCNEIL, Defendant Below, Appellant,<br/> v.<br/> STATE of Delaware, Plaintiff Below, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 174, 2019</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<decisiondate id=\"p-4\">Submitted: May 8, 2019<br/> Decided: July 15, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">DISMISSED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"591\" lastpage=\"591\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Nathan MCNEIL, Defendant Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Delaware, Plaintiff Below, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 174, 2019\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted: May 8, 2019\n    <br/>\n    Decided: July 15, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

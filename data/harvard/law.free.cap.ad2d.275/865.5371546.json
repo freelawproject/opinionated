@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"865\" lastpage=\"865\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b925-5\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"ACVC\">May, 1949.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b925-6\">(May 4, 1949.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b925-7\">In the Matter of the Claim of Mary Johnston, on Behalf of Herself and Others, Respondent, against International Freighting Corp. et al., Appellants, and Nessa Corporation et al., Respondents. Workmen\u2019s Compensation Board, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AoD7\">Present \u2014 Foster, P. J., Heffeman, Brewster, Santry and Bergan, JJ. [See 274 App. Div. 728.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

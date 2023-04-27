@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"900\" lastpage=\"900\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b942-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Aix\">October, 1940.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b942-5\">(October 2, 1940.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b942-6\">Hubert J. Gillette, Trustee of John H. Warren, Bankrupt, Appellant, v. John H. Warren and Clare A. Warren, Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Av-l\">Orders affirmed, with ten dollars costs and disbursements. All concur. (The order and the resettled order grant a motion of defendant Clare A. Warren to examine a third party before trial.) Present \u2014 Crosby, P. J., Cunningham, Dowling, Harris and McCum, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

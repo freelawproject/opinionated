@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"435\" lastpage=\"435\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Robert TORRES, Petitioner,\n  <br/>\n  v.\n  <br/>\n  BOARD OF TRUSTEES, STATE POLICE RETIREMENT SYSTEM, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  M-1134 Sept. Term 2018\n  <br/>\n  082791\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  June 21, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion of the State Troopers Non-Commissioned Officers Association and State Troopers Superior Officers Association for leave to appear amicus curiae is granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

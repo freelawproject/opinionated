@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"462\" lastpage=\"462\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b508-6\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AgpK\">January, 1984</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ANk\">(January 3, 1984)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AYD\">Mary R. Aitchison et al., Respondents, v Town of Mamaroneck et al., Defendants, and Funmar Construction Corp., Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3R8\">Order of the Supreme Court, Westchester County (Isseks, J.), dated April 11, 1983, affirmed, with costs (see <em>Rios v Wilcox Constr. Corp., </em>90 AD2d 826). Titone, J. P., Lazer, Mangano and Thompson, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

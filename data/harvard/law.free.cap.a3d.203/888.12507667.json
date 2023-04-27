@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Lisa BALDUCCI, Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  Brian M. CIGE, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-620/621 September Term 2018\n  <br/>\n  081877\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  March 8, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motions of the New Jersey State Bar Association for leave to file a motion for leave to appear as amicus curiae as within time (M-620) and to file a brief and argue as amicus curiae (M-621) are granted. Oral argument is limited to five minutes.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

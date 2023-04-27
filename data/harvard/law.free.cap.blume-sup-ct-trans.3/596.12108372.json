@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"596\" lastpage=\"596\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b644-5\">Sup. Court</court>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b644-6\">\n<em>Fran\u00e7ois Labadie vs Gabriel Richard</em>\n</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b644-9\">Filed in the clerks office Augt 16 1821.</decisiondate>\n<p data-order=\"3\" data-type=\"otherdate\" id=\"b644-10\">M Dorr Clk.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b644-12\">Sup. Court</p>\n<p id=\"b644-13\">\n<em>Fran\u00e7ois Labadie vs Gabriel Richard</em>\n</p>\n<p id=\"A_k\">\n<em>T0 the clerk of the Sup. Court,</em>\n</p>\n<p id=\"AQA\">Please enter Office Judg* by default, in the above case for want of rejoinder</p>\n<p id=\"AAc1\">Aug1 16. 1821</p>\n<p id=\"b644-15\">WM Woodbridge</p>\n<p id=\"b644-16\">Atty for plff</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

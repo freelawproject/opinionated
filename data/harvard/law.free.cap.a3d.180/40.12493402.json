@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"40\" lastpage=\"40\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Jason SCOTT, Appellant Below-Appellant,<br/> v.<br/> INDUSTRIAL ACCIDENT BOARD and Nemours, Alfred I. duPont Hospital, Appellees Below-Appellee.</parties>\n<docketnumber id=\"p-2\">No. 264, 2017</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<p id=\"p-4\">Submitted: November 5, 2017<br/> Decided: January 2, 2018<br/> Rehearing En Banc Denied February 19, 2018</p>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"40\" lastpage=\"40\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Jason SCOTT, Appellant Below-Appellant,\n    <br/>\n    v.\n    <br/>\n    INDUSTRIAL ACCIDENT BOARD and Nemours, Alfred I. duPont Hospital, Appellees Below-Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 264, 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <otherdate id=\"p-4\">\n    Submitted: November 5, 2017\n    <br/>\n    Decided: January 2, 2018\n    <br/>\n    Rehearing En Banc Denied February 19, 2018\n   </otherdate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1124\" lastpage=\"1124\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">James A. WILSON, Defendant Below, Appellant,<br/> v.<br/> STATE of Delaware, Plaintiff Below, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 347, 2018</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<p id=\"p-4\">Submitted: November 2, 2018<br/> Decided: January 22, 2019<br/> Reargument Denied February 5, 2019</p>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1124\" lastpage=\"1124\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    James A. WILSON, Defendant Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Delaware, Plaintiff Below, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 347, 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <otherdate id=\"p-4\">\n    Submitted: November 2, 2018\n    <br/>\n    Decided: January 22, 2019\n    <br/>\n    Reargument Denied February 5, 2019\n   </otherdate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

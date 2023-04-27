@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"793\" lastpage=\"793\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b819-28\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AcV\">June, 1989</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"An8N\">(June 26, 1989)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ANi\">The People of the State of New York, Respondent, v James A. Matteson, Jr., Appellant.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b819-32\">Not published with other decisions of June 1989.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AIg\">Appeal dismissed as academic and matter remitted to Onondaga County Court to vacate the conviction and dismiss the indictment, <em>sua sponte, </em>or on application by the District Attorney or attorney who appeared for appellant <em>(see, People v Darden, </em>52 NY2d 1015; <em>People v Mintz, </em>20 NY2d 770; <em>People v Robidoux, </em>109 AD2d 1090). Present\u2014Callahan, J. P., Doerr, Boomer, Green and Lawton, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

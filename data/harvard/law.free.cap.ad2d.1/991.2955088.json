@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"991\" lastpage=\"991\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1029-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AJq4\">March, 1956<footnotemark>*</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1029-5\">(March 7, 1956)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AJg\">In the Matter of Harry Lambertson, Appellant, against Department of Correction et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b1029-8\"> Not published with other decisions of March 7, 1956, <em>ante, </em>p. 929.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AEje\">Motion to appeal on handwritten records denied on the ground that the papers fail to show merit to the appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

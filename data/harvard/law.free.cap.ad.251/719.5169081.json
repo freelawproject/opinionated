@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"719\" lastpage=\"719\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b791-10\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A7f4\">May, 1937.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b791-11\">(May 4, 1937.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b791-12\">In the Matter of the Application of Edwin D. Ford, Jr., for Admission to Practice as an Attorney and Counselor at Law. (From the State of Minnesota.)</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOj\">Motion by petitioner for leave to resubmit his application granted. Application granted. Present \u2014 Hagarty, Davis, Johnston, Adel and Close, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

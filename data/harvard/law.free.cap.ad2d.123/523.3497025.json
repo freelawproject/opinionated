@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"523\" lastpage=\"523\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"ABln\">The People of the State of New York, Respondent, v Norman Rollins, Jr., Appellant.</parties>\n\n<opinion><p id=\"Atj\">Judgment unanimously affirmed. Counsel\u2019s application to withdraw granted <em>(see, People v Crawford, </em>71 AD2d 38). (Appeal from judgment of Monroe County Court, Celli, J.\u2014assault, second degree, and unlawful imprisonment, first degree.) Present\u2014Dillon, P. J., Callahan, Boomer, Balio and Lawton, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"523\" lastpage=\"523\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ABln\">The People of the State of New York, Respondent, v Norman Rollins, Jr., Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Atj\">Judgment unanimously affirmed. Counsel\u2019s application to withdraw granted <em>(see, People v Crawford, </em>71 AD2d 38). (Appeal from judgment of Monroe County Court, Celli, J.\u2014assault, second degree, and unlawful imprisonment, first degree.) Present\u2014Dillon, P. J., Callahan, Boomer, Balio and Lawton, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

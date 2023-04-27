@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"979\" lastpage=\"979\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1031-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Amcp\">May, 1971</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ANFW\">(May 13, 1971)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A7c6\">The People of the State of New York ex rel. Theodore R. Burke, Appellant, v. Daniel J. McMann, as Warden of Clinton Prison, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABz\">Staley, Jr., J. P., Greenblott, Cooke, Sweeney and Simons, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

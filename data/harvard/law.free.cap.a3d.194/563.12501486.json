@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"563\" lastpage=\"563\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Charles SMITH, Appellant\n  <br/>\n  v.\n  <br/>\n  The DEPARTMENT OF CORRECTIONS INSTITUTIONAL BUSINESS OFFICE SCI-GREENE, Appellee\n </parties>\n <docketnumber id=\"p-2\">\n  No. 28 EAP 2017\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  September 21, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Charles Smith, # EL-4513, SCI @ Greene, 175 Progress Dr., Waynesburg, PA 15370, pro se.\n </attorneys>\n <attorneys id=\"p-6\">\n  Theron Richard Perez, Kelly Jeanne Hoke, Pennsylvania Department of Corrections, Office of Chief Counsel, 1920 Technology Pkwy., Mechanicsburg, PA 17050-8507, for Appellee.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM\n  </author>\n  <p id=\"p-9\">\n   AND NOW, this 21st day of September, 2018, the Order of the Commonwealth Court is hereby AFFIRMED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

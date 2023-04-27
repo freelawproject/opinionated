@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1040-8\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A-A\">September, 1958</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Afjb\">(September 10, 1958)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AaEe\">In the Matter of the Arbitration between William V. Bradley, as President of the International Longshoremen\u2019s Association, Ind., Appellant, and Grace Line Inc., Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AO_3\">Order unanimously affirmed, with $20 costs and disbursements to the respondent. No opinion. Concur \u2014 Botein, P. J., Rabin, Valente, McNally and Stevens, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

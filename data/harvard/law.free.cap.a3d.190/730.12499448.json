@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"730\" lastpage=\"730\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">CHARNEY, D.<br/> v.<br/> REITZ, J.</parties>\n<docketnumber id=\"p-2\">1573 MDA 2017</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">April 20, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Reversed/Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"730\" lastpage=\"730\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    CHARNEY, D.\n    <br/>\n    v.\n    <br/>\n    REITZ, J.\n   </parties>\n   <docketnumber id=\"p-2\">\n    1573 MDA 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 20, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Reversed/Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

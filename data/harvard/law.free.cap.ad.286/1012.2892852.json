@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1012\" lastpage=\"1012\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1080-9\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A7N9\">Mat, 1955.<footnotemark>*</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1080-10\">(May 25, 1955.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1080-12\">Della M. Grattan et al., Doing Business as D. M. Grattan Co., Respondents, v. Societa Per Azzioni Cotonificio Cantoni, Appellant, et al., Defendant.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b1080-22\">Not published with other decision of May 25, 1955, 285 App. Div. 1143. \u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"ATk1\">Concur \u2014 Peck, P. J., Cohn, Bastow, Botein and Rabin, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

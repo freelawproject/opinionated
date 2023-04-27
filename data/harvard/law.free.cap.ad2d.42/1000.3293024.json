@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1052-2\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AbO1\">October, 1973</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AUn\">(October 2, 1973)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AenP\">Donald G. Partrick et al., Appellants, v. Gerald Preiser et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AP1a\">Motion to dismiss appeal granted, without costs, and appeal dismissed upon the ground that it was not taken within the time limited by statute (CPLR 5513, subd. [a]), which time cannot be extended by consent of the parties <em>(Ocean Acc. &amp; Guar. Gorp. </em>v. <em>Otis Elevator </em>Go291 N. Y. 254). Herlihy, P. J., Staley, Jr., Cooke, Sweeney and Kane, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

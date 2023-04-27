@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"764\" lastpage=\"764\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SEAPORT CAPITAL PARTNERS, LLC<br/> v.<br/> Sheri SPEER et al.</parties>\n<court id=\"p-2\">Supreme Court of Connecticut.</court>\n<decisiondate id=\"p-3\">Decided May 1, 2019</decisiondate>\n<p id=\"p-4\">Sheri Speer, self-represented, in support of the petition.</p>\n\n<opinion type=\"majority\"><p id=\"p-5\">The named defendant's petition for certification to appeal from the Appellate Court (AC 41879) is dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"764\" lastpage=\"764\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    SEAPORT CAPITAL PARTNERS, LLC\n    <br/>\n    v.\n    <br/>\n    Sheri SPEER et al.\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Connecticut.\n   </court>\n   <decisiondate id=\"p-3\">\n    Decided May 1, 2019\n   </decisiondate>\n   <attorneys id=\"p-4\">\n    Sheri Speer, self-represented, in support of the petition.\n   </attorneys>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     The named defendant's petition for certification to appeal from the Appellate Court (AC 41879) is dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"719\" lastpage=\"719\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b777-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Ahn\">May, 1938.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b777-5\">(May 3, 1938.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b777-6\">The People of the State of New York, Respondent, v. Holland Radio Stores, Inc., and \u201cJohn\u201d Lewis, Defendants, Impleaded with Ralph Holland, Named in the Infomation Herein as \u201cJohn Doe,\u201d Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApWy\">Judgment of conviction unanimously reversed and the information dismissed upon the ground that the defendant Ralph Holland was not shown to have participated in any of the acts charged in the information. Present \u25a0\u2014 Martin, P. J., Townley, Glennon, Untermyer and Cohn, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

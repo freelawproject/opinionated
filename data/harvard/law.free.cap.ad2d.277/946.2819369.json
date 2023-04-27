@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"946\" lastpage=\"946\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1008-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Amzp\">August, 1950.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1008-5\">(August 4, 1950.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1008-6\">In the Matter of Louis A. Mendelsohn, Petitioner, against Bernard G. Walpin, Appellant, and Harry B. Chambers, as Chairman of the Bronx County Committee of the Democratic Party, et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Au3B\">Appeal transferred to the Second Department of this court for hearing and determination. Present \u2014 Glennon, J. P., Dore, Cohn, Callahan and Shientag, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

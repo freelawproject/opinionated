@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Arlena Chaney<br/> v.<br/> District of Columbia Rental Housing Commission and American Rental Management Company</parties>\n<docketnumber id=\"p-2\">NO. 14-AA-805</docketnumber>\n<court id=\"p-3\">District of Columbia Court of Appeals</court>\n<decisiondate id=\"p-4\">April 29, 2016</decisiondate>\n<p id=\"p-5\">Dist. of Columbia Rental Hous. Com'n</p>\n\n<opinion type=\"majority\"><p id=\"p-6\">Disposition: Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Arlena Chaney\n    <br/>\n    v.\n    <br/>\n    District of Columbia Rental Housing Commission and American Rental Management Company\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 14-AA-805\n   </docketnumber>\n   <court id=\"p-3\">\n    District of Columbia Court of Appeals\n   </court>\n   <decisiondate id=\"p-4\">\n    April 29, 2016\n   </decisiondate>\n   <p id=\"p-5\">\n    Dist. of Columbia Rental Hous. Com'n\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Disposition: Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

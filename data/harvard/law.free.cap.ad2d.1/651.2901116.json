@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"651\" lastpage=\"651\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b689-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AZM4L\">December, 1955</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ANB\">(December 1, 1955)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Akzo\">In the Matter of Ministers, Elders <em>&amp; </em>Deacons of the Reformed Protestant Dutch Church of the City of New York, Respondent, against Nathan Donfer et al., Respondents, and Nathan Greenbaum &amp; Co. Inc., Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AdG\">Motion to dismiss appeal granted, with $10 costs. Concur \u2014 Breitel, J. P., Bastow, Botein and Rabin, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

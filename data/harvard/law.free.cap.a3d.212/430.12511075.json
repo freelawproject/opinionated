@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"430\" lastpage=\"430\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  A.J.-P., Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  UNION COUNTY BOARD OF SOCIAL SERVICES, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  M-1108 September Term 2018\n  <br/>\n  M-1109 September Term 2018\n  <br/>\n  082814\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  JUNE 20, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motions to vacate the order denying the emergent application and reinstate the emergent application (M-1108) and to accelerate (M-1109) are granted. Plaintiff may file an additional letter brief of no more than 5 pages on or before June 27, 2019, in further support of his application for emergent relief, including an explanation as to why he did not pay the outstanding rent that was the subject of the final judgment of possession entered on December 20, 2018.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

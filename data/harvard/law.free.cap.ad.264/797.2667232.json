@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"797\" lastpage=\"797\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b801-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A0i\">May, 1942.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b801-5\">(May 6, 1942.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b801-6\">Eva Goggin and Walter Goggin, Plaintiffs, v. Harry Kasulke and Lucy Kasulke, Defendants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlGg\">Application to be relieved from printing medical testimony on appeal denied, without costs. The plaintiff should move to settle the case before the trial judge and if relief there is denied appeal will lie from that order. Present \u2014 Hill, P. J., Crapser, Heffeman, Schenck and Foster, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b933-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AcG\">July, 1996</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aut\">(July 12, 1996)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AK3Q\">The People of the State of New York, Respondent, v Jimmie Allison, Appellant.</parties>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AlEI\">[646 NYS2d 476]</citation>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGJu\">\u2014Appeal unanimously dismissed as academic and matter remitted to Supreme Court to vacate conviction and dismiss indictment either <em>sua sponte </em>or on application by District Attorney or attorney who appeared for appellant <em>(see, People v Matteson, </em>153 AD2d 793, <em>affd </em>75 NY2d 745). (Appeal from Judgment of Supreme Court, Monroe County, Doyle, J.\u2014Burglary, 1st Degree.) Present\u2014 Denman, P. J., Lawton, Wesley, Balio and Boehm, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

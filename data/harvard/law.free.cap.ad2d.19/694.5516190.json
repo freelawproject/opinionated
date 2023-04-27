@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"694\" lastpage=\"694\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b748-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A19\">April, 1963</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b748-5\">(April 11, 1963)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ASVg\">In the Matter of Martin X. Sostre, Petitioner, v. Hamilton Ward, as Justice of the Supreme Court, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlMU\">Petition denied, on the ground that an order was made by Judge Ward and the remedy of the applicant was to appeal from that order.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

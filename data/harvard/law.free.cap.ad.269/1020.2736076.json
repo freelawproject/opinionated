@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b1080-12\">Immaculate Varrichio, Appellant, v. <em>G. </em>Phillip Schmitt, Respondent.</parties>\n\n<opinion><p id=\"ATQl\">Order unanimously affirmed, with $20 costs and disbursements, with leave to the plaintiff to serve an amended complaint within ten days after service of the order with notice of entry thereof, on payment of said costs. No opinion. Present \u2014 Martin, P. J., Dore, Cohn, Wasservogel and Peck, JJ. [185 Misc. 355.] [See 270 App. Div. 760.]</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1080-12\">Immaculate Varrichio, Appellant, v. <em>G. </em>Phillip Schmitt, Respondent.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"ATQl\">Order unanimously affirmed, with $20 costs and disbursements, with leave to the plaintiff to serve an amended complaint within ten days after service of the order with notice of entry thereof, on payment of said costs. No opinion. Present \u2014 Martin, P. J., Dore, Cohn, Wasservogel and Peck, JJ. [185 Misc. 355.] [See 270 App. Div. 760.]</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

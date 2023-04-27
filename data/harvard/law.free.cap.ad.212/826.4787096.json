@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"826\" lastpage=\"826\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b896-6\">William G. Monroe, Respondent, v. Daniel F. Leary, Appellant.</parties>\n\n<opinion><p id=\"A6ZC\">Order granting plaintiff\u2019s motion to consolidate actions affirmed, with ten dollars costs and disbursements. No opinion. Kelly, P. J., Jaycox, Kelby, Young and Kapper, JJ., concur.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"826\" lastpage=\"826\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b896-6\">William G. Monroe, Respondent, v. Daniel F. Leary, Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A6ZC\">Order granting plaintiff\u2019s motion to consolidate actions affirmed, with ten dollars costs and disbursements. No opinion. Kelly, P. J., Jaycox, Kelby, Young and Kapper, JJ., concur.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

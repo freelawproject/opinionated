@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"696\" lastpage=\"696\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b736-5\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Ajp\">February, 1957</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Armn\">(February 2, 1957)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ARC\">In the Matter of Jean A. Vincent et al., Appellants, against Vanderton Realty Corp. et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aam\">Order unanimously affirmed, with $20 costs and disbursements to the respondents. No opinion. Concur \u2014 Breitel, J. P., Rabin, Frank and Valente, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

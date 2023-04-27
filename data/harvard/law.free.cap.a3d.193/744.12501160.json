@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"744\" lastpage=\"744\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Mohammed Suleiman ROBLE\n  <br/>\n  v.\n  <br/>\n  US\n </parties>\n <docketnumber id=\"p-2\">\n  14-CF-668\n  <br/>\n  15-CO-376\n  <br/>\n  16-CO-351\n </docketnumber>\n <court id=\"p-3\">\n  District of Columbia Court of Appeals.\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 21, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Affirmed, except remanded to vacate on conviction on merger grounds.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate id=\"b1008-8\">(March 14, 1955.)</decisiondate>\n<parties id=\"b1008-9\">Robert L. Bradford, Appellant, v. Nicholas M. Pette, Respondent.</parties>\n\n<opinion><p id=\"AI3Q\">Motion to dismiss appeals granted, without costs, and appeals dismissed, without costs. Present \u2014 MacCrate, Acting P. J., Schmidt, Beldock, Murphy and Ughetta, JJ. [204 Misc. 308.] [See <em>post, </em>p. 1193.]</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b1008-8\">(March 14, 1955.)</decisiondate>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b1008-9\">Robert L. Bradford, Appellant, v. Nicholas M. Pette, Respondent.</parties>\n<opinion data-order=\"2\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AI3Q\">Motion to dismiss appeals granted, without costs, and appeals dismissed, without costs. Present \u2014 MacCrate, Acting P. J., Schmidt, Beldock, Murphy and Ughetta, JJ. [204 Misc. 308.] [See <em>post, </em>p. 1193.]</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

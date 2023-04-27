@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"992\" lastpage=\"992\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  WELLS FARGO BANK, N.A. s/b/m to Wachovia Bank, N.A. f/k/a First Union National Bank\n  <br/>\n  v.\n  <br/>\n  Bryan M. BAROSH and Christopher A. Barosh\n </parties>\n <docketnumber id=\"p-2\">\n  Petition of: Christopher A. Barosh\n </docketnumber>\n <docketnumber id=\"p-3\">\n  No. 210 MAL 2018\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-5\">\n  July 25, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-8\">\n   AND NOW, this 25th day of July, 2018, the Petition for Allowance of Appeal is DENIED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

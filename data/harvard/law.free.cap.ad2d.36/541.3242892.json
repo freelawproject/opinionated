@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"541\" lastpage=\"542\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b593-8\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A6DS\">January, 1971</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJ-\">(January 6, 1971)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AIc\">In the Matter of New York Telephone Company, Petitioner, v. Elaine Wethers, Respondent, and State Division of Human Rights, Intervenor-Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AbmX\"><page-number citation-index=\"1\" label=\"542\">*542</page-number>Herlihy, P. J., Reynolds, Staley, Jr., Greenblott and Cooke, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b863-3\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AFEI\">February, 1956</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-L\">(February 6, 1956)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AqSC\">Ackerly Marine Corporation, Appellant, v. Robert Ackerly et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1q5\">Motion for leave to appeal to the Appellate Division denied, without costs. Present \u2014 Nolan, P. J., Wenzel, Beldock, Murphy and Ughetta, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

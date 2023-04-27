@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1277\" lastpage=\"1278\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  H.F., Petitioner-Movant,\n  <br/>\n  v.\n  <br/>\n  BOARD OF EDUCATION OF the TOWNSHIP OF TEANECK, Respondent-Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  M-1197/1198/1200 September Term 2017\n  <br/>\n  080011\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  May 21, 2018\n </decisiondate>\n <p id=\"p-5\">\n  ORDER\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motions for leave to proceed as an indigent (M-1197)\n  </p>\n  <p id=\"p-7\">\n   and to file a motion for leave to appeal as within time (M-1198) are granted; and it is further\n  </p>\n  <p id=\"p-8\">\n   ORDERED that the motion for leave to appeal (M-1200) is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

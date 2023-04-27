@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n\n<opinion><p id=\"AG1X\">In the Matter of Harold M. Leeds, Appellant, against Board of Education, Union Free School District No. 23, Respondent.</p><p id=\"AIS1\">Appeal from an order dismissing the proceeding on the merits. . Order unanimously affirmed, without costs. No opinion. Present \u2014 Nolan, P. J., Ughetta, Hallinan and Kleinfeld, JJ.; Murphy, J., deceased.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<opinion data-order=\"0\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AG1X\">In the Matter of Harold M. Leeds, Appellant, against Board of Education, Union Free School District No. 23, Respondent.</p><p id=\"AIS1\">Appeal from an order dismissing the proceeding on the merits. . Order unanimously affirmed, without costs. No opinion. Present \u2014 Nolan, P. J., Ughetta, Hallinan and Kleinfeld, JJ.; Murphy, J., deceased.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

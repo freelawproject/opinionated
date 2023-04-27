@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"283\" lastpage=\"283\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  David E. COOKE, Appellant\n  <br/>\n  v.\n  <br/>\n  Thomas D. COOKE, Jr., Evelyn Cooke, Lawrence Cooke, and Patrick Cooke, Appellees\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14 MAP 2019\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  March 22, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   <strong>\n    AND NOW\n   </strong>\n   , this 22nd day of March, 2019, this Appeal is hereby transferred to the Superior Court. The Petition for Stay and Reassignment is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

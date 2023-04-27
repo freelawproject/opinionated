@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"27\" lastpage=\"27\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SCHOLES<br/> v.<br/> LAMBIRTH TRUCKING</parties>\n<docketnumber id=\"p-2\">S241825</docketnumber>\n<court id=\"p-3\">Supreme Court of California</court>\n<decisiondate id=\"p-4\">June 21, 2017</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition for review granted.</p><p id=\"p-6\">Votes: Cantil-Sakauye, C.J., Werdegar, Liu, Cu\u00e9llar and Kruger, JJ. Chin and Corrigan, JJ., were recused and did not participate.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"27\" lastpage=\"27\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    SCHOLES\n    <br/>\n    v.\n    <br/>\n    LAMBIRTH TRUCKING\n   </parties>\n   <docketnumber id=\"p-2\">\n    S241825\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of California\n   </court>\n   <decisiondate id=\"p-4\">\n    June 21, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Petition for review granted.\n    </p>\n    <p id=\"p-6\">\n     Votes: Cantil-Sakauye, C.J., Werdegar, Liu, Cu\u00e9llar and Kruger, JJ. Chin and Corrigan, JJ., were recused and did not participate.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

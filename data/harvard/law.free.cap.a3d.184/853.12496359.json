@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"853\" lastpage=\"853\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Ricco DEAL\n  <br/>\n  v.\n  <br/>\n  DOES/WMATA\n </parties>\n <docketnumber id=\"p-2\">\n  16-AA-514\n </docketnumber>\n <court id=\"p-3\">\n  District of Columbia Court of Appeals.\n </court>\n <decisiondate id=\"p-4\">\n  April 20, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"789\" lastpage=\"789\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b843-8\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AYIW\">September, 1963</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AdK-\">(September 16, 1963)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A9gq\">The People of the State of New York, Respondent, v. Robert McCrary, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqVu\">Motion by plaintiff to dismiss appeal of defendant from an order of the County Court, Nassau County, entered July 18,1963, which denied defendant\u2019s demurrer or motion to dismiss the first count in the indictment against him. Motion granted; appeal dismissed. An order denying a demurrer or motion to dismiss an indictment is not appealable (Code Grim. Pro., \u00a7 517; cf. <em>People </em>v. <em>Latoslci, </em>2 A D 2d 891); such an order is reviewable only on the appeal from the final judgment. Beldoek, P. J., Ughetta, Christ, Brennan and Hill, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

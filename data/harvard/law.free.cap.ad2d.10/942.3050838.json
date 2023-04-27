@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"942\" lastpage=\"942\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AMua\">In the Matter of Donald A. Swan against Columbia University in the City of New York.</parties>\n\n<opinion><p id=\"ANZj\">Motion granted insofar as to add the appeal to the Enumerated Calendar for the June 1960 Term of this court and to place the appeal at the foot of the Day Calendar for June 10, 1960, on condition that the appellant serves and files a notice of argument on or before May 31, 1960. Concur \u2014 : Botein, P. J., Breitel, McNally, Stevens and Noonan, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"942\" lastpage=\"942\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AMua\">In the Matter of Donald A. Swan against Columbia University in the City of New York.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"ANZj\">Motion granted insofar as to add the appeal to the Enumerated Calendar for the June 1960 Term of this court and to place the appeal at the foot of the Day Calendar for June 10, 1960, on condition that the appellant serves and files a notice of argument on or before May 31, 1960. Concur \u2014 : Botein, P. J., Breitel, McNally, Stevens and Noonan, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

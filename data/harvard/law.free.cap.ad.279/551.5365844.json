@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"551\" lastpage=\"551\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b623-5\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Ag2\">October, 1951.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b623-6\">(October 2, 1951.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b623-8\">In the Matter of Lillian Nerenstone, Respondent. Jay L. Rothschild, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKr\">No opinion. Present \u2014 Peek, P. J., Glennon, Dore, Cohn and Shientag, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

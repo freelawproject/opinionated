@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"718\" lastpage=\"718\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b796-10\">The People of the State of New York, on the Complaint of Marion Kelly, Respondent, v. Bessie Naras, Appellant. (Action No. 1.)</parties>\n\n<opinion><p id=\"ABA\">Judgment of conviction of the Court of Special Sessions of the City of New York, Borough of Brooklyn, unanimously affirmed. No opinion. Present\u2014Lazansky, P. J., Young, Kapper, Hagarty and Seudder, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"718\" lastpage=\"718\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b796-10\">The People of the State of New York, on the Complaint of Marion Kelly, Respondent, v. Bessie Naras, Appellant. (Action No. 1.)</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"ABA\">Judgment of conviction of the Court of Special Sessions of the City of New York, Borough of Brooklyn, unanimously affirmed. No opinion. Present\u2014Lazansky, P. J., Young, Kapper, Hagarty and Seudder, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

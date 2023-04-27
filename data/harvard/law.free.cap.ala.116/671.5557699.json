@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"671\" lastpage=\"672\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b695-14\">Pearce v. The State.</parties>\n<p data-order=\"1\" data-type=\"court\" id=\"b695-15\">(Three cases.)</p>\n<summary data-order=\"2\" data-type=\"summary\" id=\"b695-16\">Appeal from Elmore Circuit Court.</summary>\n<summary data-order=\"3\" data-type=\"summary\" id=\"Aie\">Tried before the Hon. N. D. Denson.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b696-4\"><page-number citation-index=\"1\" label=\"672\">*672</page-number>\u2022Gordon Macdon\u00e1ld and N. D. Brainard, Jr., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b696-5\">William C. Fitts, Attorney-General, for the State,</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b696-6\">The appellant was indicted, tried and convicted for obtaining money under false pretenses. This case is affirmed on the authority of <em>Pearce v. The State, </em>115 Ala. 115.</p>\n<p id=\"b696-7\">Opinion by</p>\n<author id=\"A6K\">Haralson, J.</author>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

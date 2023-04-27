@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1030\" lastpage=\"1030\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1094-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A50n\">January, 1943.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1094-5\">(January 6, 1943.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1094-6\">Gaetano Schiro, Respondent, v. City of Niagara Falls, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AjXU\">Present\u2014 Cunningham, Taylor, Dowling, Harris and MeCurn, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1030\" lastpage=\"1030\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1082-10\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AB7A\">Mat, 1953.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1082-11\">(May 4, 1953.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1082-13\">Algonquin Gas Transmission Company, Appellant, v. E. W. Realty Corporation, Respondent, et al., Defendants. (Proceeding No. 1.) (And Ten Other Proceedings.)</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4xg\">\u2014 Motion to recall remittitur and, upon such recall, to resettle orders denied, without costs. Present \u2014 Nolan, P. J., Carswell, Adel and Wenzel, JJ.; Beldock, J., not voting. [See <em>ante, </em>pp. 898, 983.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"696\" lastpage=\"696\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b742-5\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ACc0\">October, 1959</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A2V1\">(October 1, 1959)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ATtf\">In the Matter of Theodore L. Reinhard.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKr3\">Application for an order permitting the petitioner herein to practice law in the State of New York under the name of Theodore Reinhard in place and stead of the name of Theodore L. Reinhard. Application granted. Present \u2014 Foster, P. J., Bergan, Gibson, Herlihy and Reynolds, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

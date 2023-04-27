@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1062-6\">First Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AaCR\">Mat, 1953.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1062-7\">(May 4,1953.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1062-9\">The People of the State of New York ex rel. George Brussel, Jr., against Helene B. Brussel.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0e\">Motion for leave to appeal to the Court of Appeals denied. Motion for reargument granted and, upon reargument, the order of this court is modified only to allow the children to continue at the Flushing school for the remainder of the present school term. The motion is in all other respects denied and the previous determination of the court adhered to. Settle order on notice. Present \u2014 Peck, P. J., Callahan, Van Voorhis and Breitel, JJ. [See <em>ante, </em>p. 247.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

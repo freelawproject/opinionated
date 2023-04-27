@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"340\" lastpage=\"340\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF a MEMBER OF the BAR of the Supreme Court of the State of Delaware: Mason E. TURNER, Jr.</parties>\n<docketnumber id=\"p-2\">No. 519, 2017</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<p id=\"p-4\">Submitted: December 12, 2017<br/> Decided: February 23, 2018<br/> Reissued: March 13, 2018</p>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">APPROVED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"340\" lastpage=\"340\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF a MEMBER OF the BAR of the Supreme Court of the State of Delaware: Mason E. TURNER, Jr.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 519, 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted: December 12, 2017\n    <br/>\n    Decided: February 23, 2018\n    <br/>\n    Reissued: March 13, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     APPROVED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"206\" lastpage=\"206\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the MATTER OF Christopher J. BUCKLEY, an Attorney at Law\n </parties>\n <docketnumber id=\"p-2\">\n  (Attorney No. 000082010)\n </docketnumber>\n <docketnumber id=\"p-3\">\n  D-108 Sept. Term 2018\n  <br/>\n  082681\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  March 29, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   This matter having been duly presented, it is ORDERED that\n   <strong>\n    Christopher J. Buckley\n   </strong>\n   of\n   <strong>\n    Jersey City,\n   </strong>\n   who was admitted to the bar of this State in 2010, and who was suspended from the practice of law for a period of three months effective October 21,\n   2016 by Order of this Court filed September 20, 2016, be restored to the practice of law, effective immediately.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

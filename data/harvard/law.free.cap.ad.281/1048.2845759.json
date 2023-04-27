@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1048\" lastpage=\"1048\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1100-11\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A_BX\">May, 1953.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1100-12\">(May 13, 1953.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1100-14\">In the Matter of the Application of Wm. E. Flook, Broome County Clerk.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A43h\">Motion for an order to destroy certain court records pursuant to section 89 of the Judiciary Law. Motion granted. Present \u2014 Foster, P. J., Bergan, Coon, Halpem and Imrie, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

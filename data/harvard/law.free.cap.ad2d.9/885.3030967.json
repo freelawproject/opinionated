@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"885\" lastpage=\"885\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AcH7\">The People of the State of New York v. David Reese.</parties>\n\n<opinion><p id=\"A-A4\">Motion for leave to appeal as a poor person denied. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Yalente and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"885\" lastpage=\"885\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AcH7\">The People of the State of New York v. David Reese.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A-A4\">Motion for leave to appeal as a poor person denied. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Yalente and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

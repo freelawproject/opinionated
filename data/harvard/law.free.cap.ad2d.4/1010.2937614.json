@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"AuusK\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AL6p\">December, 1957</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A8QV\">(December 3, 1957)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Att6\">The People of the State of New York, Respondent, v. Clarence Humphrey, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AH58\">Judgment affirmed. Concur \u2014 Peck, P. J., Botein and Valente, JJ; Breitel and Rabin, JJ., dissent and vote to reverse and dismiss on ground guilt was not established beyond reasonable doubt.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"531\" lastpage=\"532\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b377-6\">Second Department</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ATu\">May, 1967</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Any\">(May 1, 1967)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AHg\">In the Matter of Harry J. Coman, an Attorney, Respondent. Samuel Greason, Petitioner.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACB\"><page-number citation-index=\"1\" label=\"532\">*532</page-number>Beldock, P. J., Ughetta, Christ, Brennan and Rabin, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

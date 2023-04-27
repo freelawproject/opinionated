@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"893\" lastpage=\"893\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate id=\"b939-12\">(December 17, 1959)</decisiondate>\n<parties id=\"AAz6W\">The People of the State of New York v. George Birch.</parties>\n\n<opinion><p id=\"AmVU\">Enlargement of time granted. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"893\" lastpage=\"893\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b939-12\">(December 17, 1959)</decisiondate>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AAz6W\">The People of the State of New York v. George Birch.</parties>\n<opinion data-order=\"2\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AmVU\">Enlargement of time granted. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

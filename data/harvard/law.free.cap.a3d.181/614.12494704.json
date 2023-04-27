@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"614\" lastpage=\"614\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Eshed ALSTON, Plaintiff Below-Appellant,<br/> v.<br/> ADMINISTRATIVE OFFICE OF THE COURTS, et al., Defendants Below-Appellees.</parties>\n<docketnumber id=\"p-2\">No. 366, 2017</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n\n\n\n<opinion type=\"majority\"><p id=\"p-4\">Submitted: December 22, 2017<br/> Decided: February 23, 2018<br/> Reargument Denied March 23, 2018</p><p id=\"p-5\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"614\" lastpage=\"614\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Eshed ALSTON, Plaintiff Below-Appellant,\n    <br/>\n    v.\n    <br/>\n    ADMINISTRATIVE OFFICE OF THE COURTS, et al., Defendants Below-Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 366, 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Submitted: December 22, 2017\n     <br/>\n     Decided: February 23, 2018\n     <br/>\n     Reargument Denied March 23, 2018\n    </p>\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

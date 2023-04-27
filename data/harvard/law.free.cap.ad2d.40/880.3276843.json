@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"880\" lastpage=\"880\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b828-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Aiog\">November, 1972</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ApUj\">(November 1, 1972)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"AVy0\">Paul F. Shappet, Jr., Appellant, v. State of New York, Respondent.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"Alc\">(Claim No. 44793.)</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiaY\">Judgment, Court of Claims, entered on March 3, 1967, affirmed, without costs (see <em>Whitree </em>v. <em>State of New York, </em>26 A D 2d 720, mot. for lv. to app. den. 18 N Y 2d 583). No opinion. Herlihy, P. J., Staley, Jr., Greenblott, Kane and Reynolds, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

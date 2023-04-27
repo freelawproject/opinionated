@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"701\" lastpage=\"701\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b757-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AeLv\">November, 1941.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b757-5\">(November 7, 1941.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b757-6\">In the Matter of the Application of Kenneth G. Osborn, Petitioner, Respondent, for an Order of Mandamus against S. Howard Cohen and Others, Constituting the Board of Elections in the City of New York, Respondents, and Samuel W. Phillips, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmO\">Order unanimously reversed and the application denied. No opinion. Present \u2014 Martin, P. J., O\u2019Malley, Townley, Dore and Cohn, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

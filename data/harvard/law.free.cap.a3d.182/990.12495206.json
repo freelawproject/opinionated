@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"990\" lastpage=\"990\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  COMMONWEALTH of Pennsylvania, Respondent\n  <br/>\n  v.\n  <br/>\n  Randy TAFT, Petitioner\n </parties>\n <docketnumber id=\"p-2\">\n  No. 741 MAL 2017\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  Decided: March 21, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    PER CURIAM\n   </strong>\n  </author>\n  <p id=\"p-7\">\n   AND NOW, this 21st day of March, 2018, the Petition for Allowance of Appeal is GRANTED, the order of the Superior Court is VACATED, and the matter is REMANDED to that court for further consideration, in light of\n   <em>\n    Commonwealth v. Chmiel,\n   </em>\n   ___ Pa. ___,\n   <extracted-citation case-ids=\"12348894\" index=\"0\" url=\"https://cite.case.law/a3d/173/617/\">\n    173 A.3d 617\n   </extracted-citation>\n   (2017).\n  </p>\n  <p id=\"p-8\">\n   Justice Mundy did not participate in the consideration or decision of this matter.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

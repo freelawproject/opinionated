@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1145\" lastpage=\"1146\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b991-7\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AqnI\">November, 1967</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AqMQ\">(November 3, 1967)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AGLP\">The People of the State of New York, Respondent, v. Paul B. Henderson, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Alyl\">Staley, Jr., J.</author>\n<p id=\"AcbA\"><page-number citation-index=\"1\" label=\"1146\">*1146</page-number>Gibson, P. J., Herlihy, Reynolds, Aulisi and Staley, Jr., JJ., concur in memorandum by Staley, Jr., J.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

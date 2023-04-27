@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"530\" lastpage=\"531\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b582-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AgN\">January, 1971</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A0J\">(January 18, 1971)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AFE\">Gene Ballin, Appellant, v. Edward P. Larkin et al., Copartners Doing Business under the Name of Great Neck Associates, Respondents, et al., Defendants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A6Eq\"><page-number citation-index=\"1\" label=\"531\">*531</page-number>Rabin, P. J., Hopkins, Munder, Martuscello and Latham, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

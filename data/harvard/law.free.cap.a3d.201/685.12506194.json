@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"685\" lastpage=\"685\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of New Jersey, Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  Shane SIMPSON, Defendant-Petitioner.\n </parties>\n <docketnumber id=\"p-2\">\n  C-622 September Term 2018\n  <br/>\n  081655\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  February 8, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   A petition for certification of the judgment in A-003635-15 having been submitted to this Court, and the Court having considered the same;\n  </p>\n  <p id=\"p-7\">\n   It is ORDERED that the petition for certification is granted and summarily remanded to the Superior Court, Law Division for reconsideration of the application of the Sex Crime Victim Treatment Fund (SCVTF) penalty, in light of\n   <em>\n    State v. Bolvito\n   </em>\n   ,\n   <extracted-citation case-ids=\"4035556\" index=\"0\" url=\"https://cite.case.law/nj/217/221/\">\n    217 N.J. 221\n   </extracted-citation>\n   (2014). Jurisdiction is not retained.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

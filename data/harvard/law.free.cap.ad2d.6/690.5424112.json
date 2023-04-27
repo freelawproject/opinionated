@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"690\" lastpage=\"690\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b732-2\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AtkQ\">May, 1958</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQDC\">(May 1, 1958)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AoX\">Tillie Gromis et al., Respondents, v. Samuel Freeman, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnDt\">Motion for leave to appeal to the Appellate Division granted. Present \u2014 Nolan, ,P. J., Wenzel, Beldock, Ughetta and Kleinfeld, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

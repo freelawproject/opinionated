@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"539\" lastpage=\"539\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b569-3\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A2R\">April, 1986,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b569-4\">(April 1, 1986)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AthW\">The People of the State of New York, Respondent, v Bebe Martin, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A10\">\u2014 Motion by respondent to dismiss the appeal by defendant from a judgment of the Supreme Court, Kings County, rendered December 8, 1983, on ground that the defendant has been deported and is not now available to obey the mandate of the court.</p>\n<p id=\"AzK\">Motion granted, appeal dismissed. Mollen, P. J., Lazer, Mangano and Thompson, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

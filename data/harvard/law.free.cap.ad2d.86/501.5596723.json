@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"501\" lastpage=\"501\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b539-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AJA\">January, 1982</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AZM\">(January 5, 1982)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ADn\">State of New York, Respondent, v Carvel Corporation et al., Appellants, et al., Defendant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1e\">Order, Supreme Court, New York County (B. Cohen, J.), entered on or about August 22, 1980, unanimously affirmed, without costs and without disbursements, and without prejudice to a properly circumscribed application for disclosure. No opinion. Concur \u2014 Murphy, P. J., Sullivan, Carro, Silverman and Fein, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

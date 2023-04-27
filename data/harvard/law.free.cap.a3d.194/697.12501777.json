@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"697\" lastpage=\"698\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the INTEREST OF: K.K.C., a Minor</parties>\n<docketnumber id=\"p-2\">105 MDA 2018</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">July 20, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"698\" href=\"#p698\" id=\"p698\">*698</a>Affirmed - Application to Withdraw as Counsel Granted</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"697\" lastpage=\"698\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the INTEREST OF: K.K.C., a Minor\n   </parties>\n   <docketnumber id=\"p-2\">\n    105 MDA 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    July 20, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed - Application to Withdraw as Counsel Granted\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

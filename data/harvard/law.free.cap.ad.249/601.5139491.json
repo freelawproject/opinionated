@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b651-5\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AG_\">November, 1936.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b651-6\">(November 2, 1936.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b651-7\">Lee Witkin and Laurella Harper, Respondents, v. Title Guarantee and Trust Company, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUHE\">Judgment and order unanimously reversed, with costs, and the motion denied, and a preference granted in the trial of the action. No opinion. Present \u2014 Martin, P. J., O\u2019Malley, Townley and Untermyer, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

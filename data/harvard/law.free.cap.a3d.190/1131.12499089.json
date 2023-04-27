@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1131\" lastpage=\"1131\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  William HAVENS, Petitioner\n  <br/>\n  v.\n  <br/>\n  WORKERS' COMPENSATION APPEAL BOARD (CNA FINANCIAL CORPORATION), Respondent\n </parties>\n <parties id=\"p-2\">\n  William Havens, Petitioner\n  <br/>\n  v.\n  <br/>\n  Workers' Compensation Appeal Board (CNA Financial Corporation), Respondent\n </parties>\n <docketnumber id=\"p-3\">\n  No. 151 MAL 2018\n  <br/>\n  No. 152 MAL 2018\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-5\">\n  August 7, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-8\">\n   AND NOW, this 7th day of August, 2018, the Petition for Allowance of Appeal is DENIED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

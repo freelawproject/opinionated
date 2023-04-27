@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"92\" lastpage=\"92\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  Grace FOSTER, Gregory Foster, and Sharon Foster-Gautier, Defendants/Third-Party Plaintiffs-Petitioners,\n  <br/>\n  v.\n  <br/>\n  New Jersey Turnpike Authority, County of Burlington, Third-Party Defendant-Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  C-103 September Term 2018\n  <br/>\n  081357\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  September 28, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   A petition for certification of the judgment in A-002569-16 having been submitted to this Court, and the Court having considered the same;\n  </p>\n  <p id=\"p-7\">\n   It is ORDERED that the petition for certification is denied, with costs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

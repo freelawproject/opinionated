@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"595\" lastpage=\"595\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b637-8\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AaR\">January, 1976</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AYr\">(January 7, 1976)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Af33\">In the Matter of the Claim of Elizabeth Whitaker et al., Respondents, v Sunset Queens, Inc., et al., Appellants. Workmen\u2019s Compensation Board, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADW\">Motion by appellants granted, without costs, and decretal paragraph of decision dated October 30, 1975 amended to read as follows: \"Decisions reversed, and claim dismissed, with costs to appellants against the Workmen\u2019s Compensation Board.\u201d Koreman, P. J., Greenblott, Main, Larkin and Reynolds, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

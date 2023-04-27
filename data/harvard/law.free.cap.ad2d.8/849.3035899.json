@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"849\" lastpage=\"849\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AhsS\">Reva Kaplan et al., Appellants, v. Eugene Isaacson, Respondent.</parties>\n\n<opinion><p id=\"AqT0\">\u2014 Motion to dismiss appeal for lack of prosecution granted, without costs, and appeal dismissed. Present \u2014 Wenzel, Acting P. J., Beldoek, Murphy, TJghetta and Hallinan, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"849\" lastpage=\"849\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AhsS\">Reva Kaplan et al., Appellants, v. Eugene Isaacson, Respondent.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AqT0\">\u2014 Motion to dismiss appeal for lack of prosecution granted, without costs, and appeal dismissed. Present \u2014 Wenzel, Acting P. J., Beldoek, Murphy, TJghetta and Hallinan, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

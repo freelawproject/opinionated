@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"176\" lastpage=\"176\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  H.R., Plaintiff-Petitioner,\n  <br/>\n  and\n  <br/>\n  I.R., Plaintiff,\n  <br/>\n  v.\n  <br/>\n  The NEW JERSEY STATE PAROLE BOARD, Defendant-Respondent.\n </parties>\n <parties id=\"p-2\">\n  H.R., Plaintiff,\n  <br/>\n  and\n  <br/>\n  I.R., Plaintiff,\n  <br/>\n  v.\n  <br/>\n  The New Jersey State Parole Board, Defendant.\n </parties>\n <docketnumber id=\"p-3\">\n  C-1044 September Term 2018\n  <br/>\n  082373\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  July 11, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   A petition for certification of the judgment in A-2843/2987-16 having been submitted to this Court, and the Court having considered the same;\n  </p>\n  <p id=\"p-8\">\n   It is ORDERED that the petition for certification is granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

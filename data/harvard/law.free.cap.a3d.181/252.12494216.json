@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"252\" lastpage=\"252\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  NEW JERSEY DIVISION OF CHILD PROTECTION AND PERMANENCY, Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  A.B., Defendant-Movant.\n </parties>\n <parties id=\"p-2\">\n  In the Matter of A.F., Minor-Respondent.\n </parties>\n <docketnumber id=\"p-3\">\n  M-794 September Term 2017\n  <br/>\n  077664\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  March 22, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   It is ORDERED that the miscellaneous motion by Legal Services of New Jersey for leave to file an additional brief and for other relief is granted, in part. See Order in M-673-17.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

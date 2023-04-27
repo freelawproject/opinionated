@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"551\" lastpage=\"551\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b601-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AJU\">January, 1951.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b601-5\">(January 8, 1951.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b601-7\">Robert E. Walker et al., as Executors of Elisha Walker, Deceased, Respondents, v. James R. Carr et al., Defendants. Club Car, Inc., Applicant, Appellant, v. Sheriff of the City of New York, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AIs\">Order unanimously affirmed, with $20 costs and disbursements to plaintiffs-respondents, and the stay contained in the order of this court entered December 6, 1950, vacated. No opinion. Present \u2014 Peck, P. J., Dore Callahan, Van Yoorhis and Shientag, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

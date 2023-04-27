@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"936\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b978-9\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ADn\">May, 1974</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AO3\">(May 8, 1974) </decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AoRG\">In .the Matter of Loretta Lloyd, Petitioner, v. County Court or Nassau County et al., Respondents.\u2014</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aovn\">Proceeding pursuant to article 78 of the CPLR to prohibit respondents from proceeding with a certain criminal action against her in the County Court, Nassau County, under indictment No. 34827. Application denied and proceeding dismissed, without costs. Gulotta, P. J., Hopkins, Martuseello, Brennan and Munder, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

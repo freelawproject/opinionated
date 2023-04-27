@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"501\" lastpage=\"501\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b551-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A_b\">May, 1982</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ao3\">(May 4, 1982)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"Ah\">In the Matter of New York City Transit Authority, Petitioner, v Andrew R. Tyler, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVT\">Proceeding for a writ of mandamus withdrawn, without costs and without disbursements. No opinion. Concur \u2014 Murphy, P. J., Carro, Markewich, Silverman and Lynch, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"591\" lastpage=\"591\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Frederick SMITH, Petitioner Below, Appellant,<br/> v.<br/> D.O.C. RECORDS DEPARTMENT, Respondent Below, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 188, 2019</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<decisiondate id=\"p-4\">Submitted: June 13, 2019<br/> Decided: July 11, 2019<br/> Corrected: July 29, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">DISMISSED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"591\" lastpage=\"591\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Frederick SMITH, Petitioner Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    D.O.C. RECORDS DEPARTMENT, Respondent Below, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 188, 2019\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted: June 13, 2019\n    <br/>\n    Decided: July 11, 2019\n    <br/>\n    Corrected: July 29, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

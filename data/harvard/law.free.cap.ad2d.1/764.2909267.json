@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"764\" lastpage=\"764\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b802-3\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AKtJ\">January, 1956</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AlNM\">(January 10, 1956)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AMv\">In the Matter of Morris Berler, an Attorney.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0HC\">Motion for reinstatement granted. Concur \u2014Peek, P. J., Breitel, Bastow and Rahin, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

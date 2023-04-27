@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"867\" lastpage=\"867\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE: ESTATE OF Leroy BRYAN,</parties>\n<docketnumber id=\"p-2\">Appeal of: Bryan, P.</docketnumber>\n<docketnumber id=\"p-3\">1498 WDA 2017</docketnumber>\n<court id=\"p-4\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-5\">November 20, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Vacated.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"867\" lastpage=\"867\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE: ESTATE OF Leroy BRYAN,\n   </parties>\n   <docketnumber id=\"p-2\">\n    Appeal of: Bryan, P.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    1498 WDA 2017\n   </docketnumber>\n   <court id=\"p-4\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-5\">\n    November 20, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Vacated.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

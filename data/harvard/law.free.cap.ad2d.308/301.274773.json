@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"301\" lastpage=\"301\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b321-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AWq\">September, 2003</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A_x\">(September 2, 2003)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"AlF\">In the Matter of Alice Cancel et al., Appellants, v Norma Ramirez, Respondent, et al., Respondent.</parties>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AWD\">[765 NYS2d 489]</citation>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ahf\">\u2014Order, Supreme Court, New York County (Louise Gruner Gans, J.), entered on or about August 21, 2003, unanimously affirmed for the reasons stated by Gans, J., without costs or disbursements. No opinion. Concur \u2014 Ellerin, J.P., Williams, Lerner, Friedman and Gonzalez, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"935\" lastpage=\"935\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b999-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Agy\">November, 1942.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b999-5\">(November 5,1942.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b999-6\">In the Matter of Albert Marmorstein, Petitioner, against Louis A. Valente, Justice of the Supreme Court of the State of New York, New York County, et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AdJj\">Present \u2014 Lazansky, P. J., Hagarty, Carswell, Adel and Close, JJ. [See <em>post, </em>p. 936.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"294\" lastpage=\"294\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Ali ABDI and Emaniam Abdi, Plaintiffs,\n  <br/>\n  v.\n  <br/>\n  Joseph LOONAM and Danielle Loonam, Defendants.\n </parties>\n <parties id=\"p-2\">\n  Joseph Loonam and Danielle Loonam, Plaintiffs-Respondents,\n  <br/>\n  v.\n  <br/>\n  Ali Abdi and Emanian Abdi a/k/a Effat S. Emaniam, Defendants-Petitioners.\n </parties>\n <docketnumber id=\"p-3\">\n  C-14 September Term 2018\n  <br/>\n  080714\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  September 12, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   A petition for certification of the judgment in A-000397-15 having been submitted to this Court, and the Court having considered the same;\n  </p>\n  <p id=\"p-8\">\n   It is ORDERED that the petition for certification is denied, with costs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

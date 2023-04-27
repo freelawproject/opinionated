@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1008\" lastpage=\"1008\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1068-8\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AxRN\">November, 1945.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1068-9\">(November 14, 1945.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1068-10\">E. Phillip Crowell et al., as Trustees of School District No. 6 of the Town of Salina, Respondents, v. Town of Salina, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOGh\">Same decision and like cause of action as in companion case of <em>Buchanan </em>v. <em>Town of Salina </em>(270 App. Div. 207). Present \u2014 Taylor, P. J., Dowling, McCum, Larkin and Love, JJ. [See 270 App. Div. 800.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

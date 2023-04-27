@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"893\" lastpage=\"893\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AXgP\">John T. Hurley et al., Genevieve Knortz, Respondents, v George Okrent et al., Defendants, and Upjohn Company, Appellant.</parties>\n<docketnumber id=\"Auhe\">(Appeal No. 1.)</docketnumber>\n<citation id=\"Ainf\">[714 NYS2d 924]</citation>\n\n<opinion><p id=\"AYn5\">\u2014Appeal unanimously dismissed without costs (see, <em>Loafin\u2019 Tree Rest, v Pardi </em>[appeal No. 1], 162 AD2d 985). (Appeal from Order of Supreme Court, Monroe County, Kehoe, J. \u2014 Summary Judgment.) Present\u2014 Pigott, Jr., P. J., Hayes, Wisner, Scudder and Balio, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"893\" lastpage=\"893\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AXgP\">John T. Hurley et al., Genevieve Knortz, Respondents, v George Okrent et al., Defendants, and Upjohn Company, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Auhe\">(Appeal No. 1.)</docketnumber>\n<citation data-order=\"2\" data-type=\"citation\" id=\"Ainf\">[714 NYS2d 924]</citation>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AYn5\">\u2014Appeal unanimously dismissed without costs (see, <em>Loafin\u2019 Tree Rest, v Pardi </em>[appeal No. 1], 162 AD2d 985). (Appeal from Order of Supreme Court, Monroe County, Kehoe, J. \u2014 Summary Judgment.) Present\u2014 Pigott, Jr., P. J., Hayes, Wisner, Scudder and Balio, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

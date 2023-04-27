@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"272\" lastpage=\"272\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  T.S., Respondent\n  <br/>\n  v.\n  <br/>\n  J.F., a/k/a J.S., Petitioner\n </parties>\n <parties id=\"p-2\">\n  T.S., Respondent\n  <br/>\n  v.\n  <br/>\n  J.F., n/k/a J.S., Petitioner\n </parties>\n <parties id=\"p-3\">\n  R.F.-S.\n  <br/>\n  v.\n  <br/>\n  T.S.\n </parties>\n <docketnumber id=\"p-4\">\n  Petition of: J.S., Mother of R.F.-S.\n </docketnumber>\n <docketnumber id=\"p-5\">\n  No. 41 WAL 2019\n  <br/>\n  No. 42 WAL 2019\n  <br/>\n  No. 43 WAL 2019\n </docketnumber>\n <court id=\"p-6\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-7\">\n  March 22, 2019\n </decisiondate>\n <p id=\"p-8\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-10\">\n   <strong>\n    AND NOW,\n   </strong>\n   this 22nd day of March, 2019, the Petition for Allowance of Appeal and the Application for Stay are\n   <strong>\n    DENIED.\n   </strong>\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1124\" lastpage=\"1124\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Wayne R. AVERILL, Defendant Below, Appellant,<br/> v.<br/> STATE of Delaware, Plaintiff Below, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 243, 2018</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<decisiondate id=\"p-4\">Submitted: January 25, 2019<br/> Decided: March 26, 2019</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>MEMORANDUM DECISION</strong></p><p id=\"p-6\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1124\" lastpage=\"1124\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Wayne R. AVERILL, Defendant Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Delaware, Plaintiff Below, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 243, 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted: January 25, 2019\n    <br/>\n    Decided: March 26, 2019\n   </decisiondate>\n   <p type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      MEMORANDUM DECISION\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     AFFIRMED.\n    </p>\n   </p>\n  </casebody>\n </body>\n</html>\n"
   }
 }

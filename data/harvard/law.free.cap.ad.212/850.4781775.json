@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"850\" lastpage=\"850\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b920-6\">Robert W. Weir and Another, Respondents, v. Ellen G. Leo, Appellant.</parties>\n\n<opinion><p id=\"Ae_\">Judgment affirmed, with costs. All concur. Present \u2014 Hubbs, P. J., Clark, Davis,. Crouch and Taylor, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"850\" lastpage=\"850\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b920-6\">Robert W. Weir and Another, Respondents, v. Ellen G. Leo, Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Ae_\">Judgment affirmed, with costs. All concur. Present \u2014 Hubbs, P. J., Clark, Davis,. Crouch and Taylor, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

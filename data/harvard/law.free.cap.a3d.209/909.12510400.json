@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  COMMONWEALTH of Pennsylvania, Respondent\n  <br/>\n  v.\n  <br/>\n  Kristen HORN, Petitioner\n </parties>\n <docketnumber id=\"p-2\">\n  No. 33 EAL 2018\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  May 17, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-7\">\n   <strong>\n    AND NOW,\n   </strong>\n   this 17th day of May, 2019, the Petition for Allowance of Appeal is\n   <strong>\n    GRANTED,\n   </strong>\n   the decision of the Superior Court is\n   <strong>\n    REVERSED,\n   </strong>\n   and the order of the Court of Common Pleas is\n   <strong>\n    REINSTATED\n   </strong>\n   in accordance with this Court's opinion in\n   <em>\n    Commonwealth v. Perfetto,\n   </em>\n   7 EAP 2018.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

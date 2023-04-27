@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"413\" lastpage=\"413\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Darryl L. WARNICK, Defendant Below, Appellant,<br/> v.<br/> STATE of Delaware, Plaintiff Below, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 453, 2018</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<p id=\"p-4\">Submitted: September 25, 2018<br/> Decided: October 26, 2018<br/> Rehearing En Banc Denied November 7, 2018</p>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"413\" lastpage=\"413\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Darryl L. WARNICK, Defendant Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Delaware, Plaintiff Below, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 453, 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <otherdate id=\"p-4\">\n    Submitted: September 25, 2018\n    <br/>\n    Decided: October 26, 2018\n    <br/>\n    Rehearing En Banc Denied November 7, 2018\n   </otherdate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

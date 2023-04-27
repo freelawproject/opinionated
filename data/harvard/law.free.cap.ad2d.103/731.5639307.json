@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"731\" lastpage=\"732\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b761-6\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AZN\">July, 1984</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ape\">(July 2, 1984)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"AuB\">ABC Racquetball Courts, Inc., Appellant, v Marine Midland Bank, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ami\">\u2014 Order of the Supreme Court, Suffolk County, entered January <page-number citation-index=\"1\" label=\"732\">*732</page-number>4, 1983, affirmed, with costs, for reasons stated in the opinion of Justice Baisley at Special Term. Rubin, J. P., Boyers, Lawrence and Eiber, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

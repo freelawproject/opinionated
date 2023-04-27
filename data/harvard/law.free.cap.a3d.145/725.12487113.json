@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"725\" lastpage=\"725\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Commonwealth<br/> v.<br/> Nathan Kassiem Robinson</parties>\n<docketnumber id=\"p-2\">NO. 177 MAL (2016)</docketnumber>\n<court id=\"p-3\">Supreme Court of Pennsylvania</court>\n<decisiondate id=\"p-4\">August 10, 2016</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>PETITION FOR ALLOWANCE OF APPEAL</strong></p><p id=\"p-6\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"725\" lastpage=\"725\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Commonwealth\n    <br/>\n    v.\n    <br/>\n    Nathan Kassiem Robinson\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 177 MAL (2016)\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Pennsylvania\n   </court>\n   <decisiondate id=\"p-4\">\n    August 10, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      PETITION FOR ALLOWANCE OF APPEAL\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

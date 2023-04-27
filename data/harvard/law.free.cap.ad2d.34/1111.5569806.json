@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1111\" lastpage=\"1111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1099-3\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"Arkf\">April, 1970</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aj8E\">(April 2, 1970)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A1ib\">In the Matter of the State Division of Human Rights, Petitioner, v. Kerpoe, Testa &amp; O\u2019Donnell, Inc., et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b1099-5\"> Not published with other decisions of April 2, 1970, 34 A D 2d 723. [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"A3jy\">Application denied, without prejudice to the right of petitioner to renew upon proof of noncompliance with the order of the Commissioner and other facts showing the necessity for the enforcement of said order. (Executive Law, \u00a7 297 subd. 7; \u00a7 298, and see <em>Matter of State Division of Human Rights, </em>v. <em>Employers-Commercial Union Ins. Group, </em>33 A D 2d 273.)</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

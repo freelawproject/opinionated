@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"765\" lastpage=\"765\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b823-10\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Aka8\">February, 1954.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b823-11\">(February 3, 1954.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b823-13\">Frank H. Reese, Appellant, v. Fred L. Newton, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9TE\">Judgment and order affirmed, with costs. All concur. (Appeal from a judgment for defendant for no cause of action in an automobile negligence action. The order denies a motion for a new trial.) Present \u2014 McCurn, P. J., Vaughan, Kimball, Piper and Wheeler, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

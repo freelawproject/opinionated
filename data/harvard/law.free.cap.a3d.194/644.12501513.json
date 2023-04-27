@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"644\" lastpage=\"644\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">WILLIAMS PONTIAC CO.<br/> v.<br/> PATRIOT BUICK PONTIAC</parties>\n<docketnumber id=\"p-2\">1459 EDA 2017</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">July 3, 2018<br/> Reargument Denied September 5, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed/Remanded</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"644\" lastpage=\"644\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    WILLIAMS PONTIAC CO.\n    <br/>\n    v.\n    <br/>\n    PATRIOT BUICK PONTIAC\n   </parties>\n   <docketnumber id=\"p-2\">\n    1459 EDA 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    July 3, 2018\n    <br/>\n    Reargument Denied September 5, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed/Remanded\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

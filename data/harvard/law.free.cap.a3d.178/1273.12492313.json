@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1273\" lastpage=\"1273\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Dianna QUAMINA, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  STELLA GARDENS APARTMENTS, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-688/689 September Term 2017\n  <br/>\n  079309\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  February 9, 2018\n </decisiondate>\n <p id=\"p-5\">\n  ORDER\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for leave to file a motion for reconsideration as within time (M-688) is granted; and it is further\n  </p>\n  <p id=\"p-7\">\n   ORDERED that the motion for reconsideration of the Court's order denying the petition for certification (M-689) is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

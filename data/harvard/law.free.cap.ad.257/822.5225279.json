@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"822\" lastpage=\"822\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b872-9\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A0We\">May, 1939.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b872-10\">(May 1, 1939.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b872-11\">In the Matter of the Judicial Settlement of the Account of Proceedings of George R. Roe and Another, as Executors, etc., of Gelston G. Roe, Deceased, Appellants; Pierson R. Hildreth, as Receiver in Proceedings Supplementary, etc., Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARBS\">Motion to dismiss appeal denied, without costs. <em>(Matter of Gilbert, </em>104 N. Y. 200, 205.) Present \u2014 Hagarty, Carswell, Adel, Taylor and Close, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

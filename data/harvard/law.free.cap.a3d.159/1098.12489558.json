@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1098\" lastpage=\"1098\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">LUPIEN<br/> v.<br/> TAYLOR</parties>\n<docketnumber id=\"p-2\">16-419</docketnumber>\n<court id=\"p-3\">Supreme Court of Vermont.</court>\n<decisiondate id=\"p-4\">April 24, 2017</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>APPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION</strong></p><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1098\" lastpage=\"1098\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    LUPIEN\n    <br/>\n    v.\n    <br/>\n    TAYLOR\n   </parties>\n   <docketnumber id=\"p-2\">\n    16-419\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Vermont.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 24, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      APPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

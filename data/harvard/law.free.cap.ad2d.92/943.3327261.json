@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"943\" lastpage=\"943\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b983-7\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AnS\">March, 1983</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AI7\">(March 1, 1983)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AFap\">In the Matter of the Application of Robert L. Miller for Reinstatement as an Attorney.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AG6k\">\u2014\u25a0 Application for reinstatement granted and petitioner, Robert L. Miller, reinstated as an attorney and counselor at law effective immediately. Order entered. Mahoney, P. J., Sweeney, Kane, Main and Weiss, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

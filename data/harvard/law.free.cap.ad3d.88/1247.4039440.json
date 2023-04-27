@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1247\" lastpage=\"1247\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1279-5\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AtL2\">October, 2011</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-87\">(October 7, 2011)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AIJ\">Nick Malkin et al., Respondents, v Marisa Lyn Banks et al., Defendants, and Alyssa Z. Benson et al., Appellants.</parties>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AjL\">[930 NYS2d 920]</citation>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AS7E\">Present \u2014 Smith, J.P, Peradotto, Garni, Sconiers and Green, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

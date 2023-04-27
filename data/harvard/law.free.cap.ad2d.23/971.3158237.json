@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"971\" lastpage=\"971\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1015-5\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AQir\">April, 1965 </p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1015-6\">(April 29, 1965)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AOrak\">In the Matter of Vincent Fiorillo, Petitioner, v. Peter T. Farrell, as a Justice of the Supreme Court, et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ao8\">Application by petitioner to prohibit respondents from prosecuting or trying petitioner upon a superseding indictment charging the crime of murder in the first degree in the killing of one James Beatty. Application denied. Beldock, P. J., Ughetta, Christ, Hill and Rabin, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

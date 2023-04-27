@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1252\" lastpage=\"1252\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the MATTER OF the JOINT LETTER DECISION ON ACPE DOCKET NO. 29-2016, UPL Docket No. 12-2016, and CAA Docket No. 65-2016.\n </parties>\n <parties id=\"p-2\">\n  (JAMS-Petitioner)\n </parties>\n <docketnumber id=\"p-3\">\n  R-3 Sept. Term 2017\n  <br/>\n  079531\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  October 4, 2017\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   It is ORDERED that the notice of petition for review is granted; and it is further\n  </p>\n  <p id=\"p-8\">\n   ORDERED that JAMS may serve and file a supplemental brief on or before November 13, 2017, and the Attorney General on behalf of the committees may serve and file a brief in response on or before December 18, 2017.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

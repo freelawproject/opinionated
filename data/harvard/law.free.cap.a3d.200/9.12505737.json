@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"9\" lastpage=\"9\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  David George LUSICK, Petitioner\n  <br/>\n  v.\n  <br/>\n  Lynne ABRAHAM, Elizabeth Varki Jobes, John Hunter Bennett, Thomas Dolgenos, Robert M. Falin, Ronald Eisenberg, Arnold Gordon, Lynne Herbert O'Connor, Karen Brancheau, Hugh J. Burns, Brad Bender, Andrew Klein, Respondents\n </parties>\n <docketnumber id=\"p-2\">\n  No. 305 EAL 2018\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  January 3, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-7\">\n   <strong>\n    AND NOW,\n   </strong>\n   this 3rd day of January, 2019, the Leave for Permission to File Request for Lower Court to Send Certified Docket Entries to Court and Petitioner and Transcripts from March 2017 Hearing before Judge Roxanne Covington and Petition for Allowance of Appeal are\n   <strong>\n    DENIED.\n   </strong>\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"650\" lastpage=\"650\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b496-44\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AYE\">April, 1967<footnotemark>*</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b496-45\">(April 12, 1967)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AscE\">In the Matter of Thomas A. Ruppert, Petitioner, v. County Court, Westchester County, et al., respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b496-50\"> Not published with other decisions of April, 1967, 27 A D 2d 930.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AqbO\">Christ, Acting P. J., Brennan, Rabin, Hopkins and Benjamin, <em>33., </em>concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

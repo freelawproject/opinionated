@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"829\" lastpage=\"829\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b675-3\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AqWD\">March, 1967 <footnotemark>*</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b675-4\">(March 15, 1967)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AVo0\">The People of the State of New York ex rel. Horatious Jackson, Relator, v. Warden, New York City Correctional Institution for Men (Rikers Island), Respondent.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b675-14\">Not published with other decisions of March, 1967, 27 A D 2d 835. \u2014 Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"ADnZ\">Application for a writ of habeas corpus denied. Beldock, P. J., Christ, Rabin, Benjamin and Munder, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

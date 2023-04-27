@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b957-7\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A1\">March, 1944.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b957-8\">(Marcli 6, 1944.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b957-9\">Pearl Brooks, as Administratrix of the Estate of Sarah Summers, Deceased, Respondent, v. Sydelle Friedberg, Appellant-Respondent, Edward Goldberg, Defendant-Appellant, et al., Defendants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3H\">Motion for leave to appeal to the Court of Appeals denied. [See <em>ante, </em>pp. 825, 871, <em>sub nom. Summers </em>v. <em>Fried</em>berg.] Present \u2014 Close, P. J., Carswell, Adel, Lewis and Aldrich, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

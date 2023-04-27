@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"755\" lastpage=\"755\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b787-28\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A8Ht\">March, 1964<footnotemark>*</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b787-29\">(March 19, 1964)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AY2\">Hyman D. Siegel v. The People <em>of </em>the State of New York.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b787-34\"> Not published with other decisions of March 19, 1964, 20 A D 2d 771. \u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"Ak5W\">Motion for an order pursuant to CPLR (5704, subd. [a]) vacating any order of the Supreme Court of the State of New York, County of New York, and for other relief denied. Concur\u2014Breitel, J. P., Valente, McNally and Eager, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"630\" lastpage=\"630\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b676-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"APJ\">September, 1959</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AnG2\">(September 23, 1959)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AXHh\">The People of the State of New York, Plaintiff, v. Harry Bareika, Harry Bareika, Inc., Walter Motor Truck Company and Rand-MacMurray, Inc., Defendants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOzzc\">Motion for bill of particulars granted in the respects specified by the moving party. Defendants\u2019 time to move in respect of the indictment is extended to 10 days from the service of the bill of particulars. Foster, P. J., Bergan, Gibson, Herlihy and Reynolds, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"987\" lastpage=\"987\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1045-5\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"APNKy\">March, 1950.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1045-6\">(March 1, 1950.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1045-7\">The People of the State of New York, Respondent, v. Ross Hyde, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A6gb\">Present \u2014 Peck, P. J., Dore, Cohn, Callahan and Van Voorhis, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

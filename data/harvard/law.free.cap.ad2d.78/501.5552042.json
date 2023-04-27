@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"501\" lastpage=\"501\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b573-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Auq\">September, 1980</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AF9\">(September 2, 1980)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AEZ\">In the Matter of Bengal Cabaret, Inc., Doing Business as Nirvana, Petitioner, v New York State Liquor Authority, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AT0_\">Determination of respondent dated July 21, 1980, unanimously confirmed, without costs and without disbursements. Oral application for continuation of stay granted until September 2, 1980 (see CPLR 5519, subd [e]). Concur\u2014Kupferman, J. P., Markewich, Silverman and Bloom, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

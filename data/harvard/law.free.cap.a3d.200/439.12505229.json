@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"439\" lastpage=\"439\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <attorneys id=\"p-1\">\n  David SOLOMON, Haines &amp; Kibblehouse, Inc., O'Neil Properties Group, Henkels &amp; McCoy and Commonwealth of Pennsylvania\n </attorneys>\n <parties id=\"p-2\">\n  David Solomon and Fanya Solomon\n  <br/>\n  v.\n  <br/>\n  Joseph D. HULME, IV\n  <br/>\n  v.\n  <br/>\n  Haines &amp; Kibblehouse, Inc.\n </parties>\n <docketnumber id=\"p-3\">\n  Petition of: David Solomon, Haines &amp; Kibblehouse, Inc., O'Neil Properties Group, Henkels &amp; McCoy and McMahon Associates, Inc.\n </docketnumber>\n <docketnumber id=\"p-4\">\n  No. 461 MAL 2018\n </docketnumber>\n <court id=\"p-5\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-6\">\n  January 9, 2019\n </decisiondate>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-9\">\n   <strong>\n    AND NOW,\n   </strong>\n   this 9th day of January, 2019, the Petition for Allowance of Appeal is\n   <strong>\n    DENIED.\n   </strong>\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

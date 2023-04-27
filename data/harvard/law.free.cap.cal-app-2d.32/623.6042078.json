@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"623\" lastpage=\"623\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b661-7\">[Crim. No. 3211.</docketnumber>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AFoa\">1939.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b661-9\">THE PEOPLE, Respondent, v. JOHN L. McKIBBEN et al., Defendants; JOE W. YURGY, Appellant.</parties>\n<p data-order=\"3\" data-type=\"attorneys\" id=\"b661-13\">No appearance for Appellant.</p>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b661-14\">Earl Warren, Attorney-General, for Respondent.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOlT\">motion of the attorney-general to dismiss the appeal under section 1253 of the Penal Code on the ground that no appearance has been made herein by the defendant. Due notice of the hearing on this date has been given. The motion is good.</p>\n<p id=\"b661-16\">Appeal dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

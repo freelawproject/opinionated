@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"658\" lastpage=\"658\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AGJu\">Glen Island Operating Co., Inc., Respondent, v. Radio Corporation of America et al., Defendants, and David Mackay, Appellant.</parties>\n\n<opinion><p id=\"A6G\">Order unanimously affirmed, with $20 costs and disbursements to the respondent. No opinion. Concur \u2014 Peck, P. J., Breitel, Frank and Valente, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"658\" lastpage=\"658\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AGJu\">Glen Island Operating Co., Inc., Respondent, v. Radio Corporation of America et al., Defendants, and David Mackay, Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A6G\">Order unanimously affirmed, with $20 costs and disbursements to the respondent. No opinion. Concur \u2014 Peck, P. J., Breitel, Frank and Valente, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

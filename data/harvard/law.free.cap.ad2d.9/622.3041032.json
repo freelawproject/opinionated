@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"622\" lastpage=\"622\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AxL6\">City of New York, Respondent, v. Manufacturers Trust Company, Appellant, et al., Defendant.</parties>\n\n<opinion><p id=\"AN8\">Order so far as appealed from unanimously affirmed, with $20 costs and disbursements to the respondent. No opinion. Concur \u2014 Breitel, J. P., Rabin, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"622\" lastpage=\"622\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AxL6\">City of New York, Respondent, v. Manufacturers Trust Company, Appellant, et al., Defendant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AN8\">Order so far as appealed from unanimously affirmed, with $20 costs and disbursements to the respondent. No opinion. Concur \u2014 Breitel, J. P., Rabin, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

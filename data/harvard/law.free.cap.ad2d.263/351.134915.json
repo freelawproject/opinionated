@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"351\" lastpage=\"351\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b377-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Axx\">July, 1999</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A7R\">(July 1, 1999)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A0FS\">In the Matter of Milton Wright, Petitioner, v Harold Beeler et al., Respondents.</parties>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AUO\">[691 NYS2d 855]</citation>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AeB\">\u2014Application for an order pursuant to CPLR article 78 denied and the petition dismissed, without prejudice to petitioner raising the issue on direct appeal, if any, without costs or disbursements. No opinion. Concur \u2014 Ellerin, P. J., Sullivan, Rosenberger, Nardelli and Wallach, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

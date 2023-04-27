@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"609\" lastpage=\"609\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b649-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A0R\">May, 1975</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b649-5\">(May 1, 1975)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Alg4\">In the Matter of Henry Caban, Petitioner, v Alexander Chananau et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0Fq\">Application pursuant to CPLR article 78 in the nature of prohibition unanimously denied, the cross motion granted,- and the petition dismissed, without costs and without disbursements. No opinion. Concur\u2014Stevens, P. J., Markewich, Capozzoli, Lane and Nunez, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

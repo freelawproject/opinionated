@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"787\" lastpage=\"787\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b825-2\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A6JR\">October, 1981</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AxC\">(October 22, 1981)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ammx\">In the Matter of Gene Loy Chu, a Disbarred Attorney.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b825-6\"> Not published with other decisions of October 22, 1981, 84 AD2d 518 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AEqI\">Petition seeking to vacate or modify order of disbarment denied. Concur \u2014 Murphy, P. J., Kupferman, Sandler, Markewich and Silverman, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

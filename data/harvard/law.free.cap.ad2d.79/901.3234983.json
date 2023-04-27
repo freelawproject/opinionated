@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b951-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Ajh\">January, 1981</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXoi\">(January 6, 1981)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Aua\">The People of the State of New York, Respondent, v Junior Burke, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ANJ\">Judgment, Supreme Court, Bronx County, rendered on May 23, 1979, unanimously affirmed, without prejudice to an application for resentence to the trial court. We note that the trial court denied the application for resentence because of the appeal pending in this court. The case is remitted to the Supreme Court, Bronx County, for further proceedings pursuant to CPL 460.50 (subd 5). No opinion. Concur \u2014 Murphy, P. J., Birns, Sandler, Silver-man and Bloom, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

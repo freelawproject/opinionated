@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1073-7\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AMD7\">August, 1951.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1073-8\">(August 16, 1951.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1073-10\">In the Matter of the Application of George C. Hanold et al., Appellants, for an Order Removing the Criminal Action in which They Are Defendants from the County Court, Kings County, to the Supreme Court of the State of New York, Kings County. District Attorney, Kings County, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A52d\">Motion for a stay of trial denied, without costs. Motion to dismiss appeal granted, without costs, and appeal dismissed, without costs. <em>(Matter of Newman [People], </em>278 App. Div. 857; <em>People </em>v. <em>Perito, </em>272 App. Div. 823.) Present \u2014 Nolan, P. J., Adel, Sneed, Wenzel and MaeCrate, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"938\" lastpage=\"938\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b998-5\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"APVk\">June, 1949.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b998-6\">(June 1, 1949.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b998-7\">Saul Rabinovitz, Appellant, v. Allan C. Williamson et al., as Administrators with the Will Annexed of Charles D. Strang, Deceased, Respondents. David Rosen, Landlord, v. Saul Rabinovitz, Tenant, and \u201c John Doe,\u201d Undertenant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGIP\">Present \u2014 Nolan, P. J., Carswell, Adel, Sneed and Wenzel, JJ. [See <em>ante, </em>p. 841.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

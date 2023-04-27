@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"ATlI\">The People of the State of New York, Respondent, v. Dennis McGuire, Appellant.</parties>\n\n<opinion><p id=\"Aujg\">Motion to dismiss appeal denied; appellant to perfect the appeal for the October 1960 Term; appeal ordered to be placed on the calendar for October 10, 1960. The appellant\u2019s time is enlarged accordingly. Nolan, P. J., Beldock, Ughetta, Kleinfeld and Christ, JJ., concur.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ATlI\">The People of the State of New York, Respondent, v. Dennis McGuire, Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Aujg\">Motion to dismiss appeal denied; appellant to perfect the appeal for the October 1960 Term; appeal ordered to be placed on the calendar for October 10, 1960. The appellant\u2019s time is enlarged accordingly. Nolan, P. J., Beldock, Ughetta, Kleinfeld and Christ, JJ., concur.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

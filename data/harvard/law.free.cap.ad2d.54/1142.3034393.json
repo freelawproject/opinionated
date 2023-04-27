@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1142\" lastpage=\"1142\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1186-11\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AShP\">November, 1975</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AI9s\">(November 24, 1975)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A321\">In the Matter of Tomo N et al., Appellants, v James R. Dumpson, as Commissioner of the Department of Social Services of the City of New York, et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b1186-13\"> Not published with other decisions of November 24,1975, 50 AD2d 603. [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"Atm8\">Order of the Surrogate\u2019s Court, Kings County, dated May 15,1975, affirmed, without costs. Petitioners\u2019 allegations were overcome by the documentary proof. No triable issue is posed requiring further proof. Gulotta, P. J., Rabin, Hopkins, Martuscello and Cohalan, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

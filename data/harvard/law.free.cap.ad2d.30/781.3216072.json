@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"781\" lastpage=\"781\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b841-37\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A4C\">April, 1968 <footnotemark>*</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b841-38\">(April 16, 1968)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A3fn\">The People of the State of New York ex rel. Ralph Scott, Petitioner, v. Edwin La Vallee, as Warden of Clinton Prison, Respondent.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b841-40\"> Not published with other decisions of April 16, 1968, 29 A D 2d 993. [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"A-Gs\">Application, pursuant to CPLR 7002 (subd. [b], par. 2) for a writ of habeas corpus denied, for failure of compliance with article 70 of the CPLR, and more particularly with the provisions of CPLR 7002 (subd. [c], pars. 5, 6) thereof, and as otherwise insufficient on its face. Gibson, P. J., Herlihy, Reynolds, Staley, Jr., and Gabrielli, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

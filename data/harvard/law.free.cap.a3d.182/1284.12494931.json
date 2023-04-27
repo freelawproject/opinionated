@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1284\" lastpage=\"1284\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  UNITED SERVICES, INC., Plaintiff-Respondent\n  <br/>\n  v.\n  <br/>\n  CITY OF NEWARK, Defendant-Movant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-1472 September Term 2016\n  <br/>\n  079452\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  July 20, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for leave to appeal is denied, but the Court requests the Superior Court, Law Division, to expedite the disposition of plaintiffs complaint.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

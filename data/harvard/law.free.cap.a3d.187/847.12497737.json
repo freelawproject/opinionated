@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"847\" lastpage=\"847\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE N.J.A.C. 12:17-2.1.\n </parties>\n <docketnumber id=\"p-2\">\n  (New Jersey Department of Labor and Workforce Development- Movant)\n </docketnumber>\n <docketnumber id=\"p-3\">\n  M-1336 September Term 2017\n  <br/>\n  080807\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  June 22, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   The November 29, 2017 order of the Superior Court, Appellate Division is vacated in part, limited to the language directing that \"any further extensions must be sought from the Supreme Court.\" Movant's motion for a stay is remanded to the Appellate Division for consideration by that court. Jurisdiction is not retained.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

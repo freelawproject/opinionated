@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"900\" lastpage=\"900\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  William QUICK, Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  Glenn KRAMER, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-873/874 September Term 2017\n  <br/>\n  080058\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  June 15, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion of the Home Service Store, Inc. for leave to participate in oral argument (M-874) is denied; and it is further\n  </p>\n  <p id=\"p-7\">\n   ORDERED that the motion for leave to appeal (M-873) is granted and the matter is summarily remanded to the trial court for reconsideration in light of\n   <em>\n    Spade v. Select Comfort Corp.\n   </em>\n   , ___ N.J. ___ (2018). Jurisdiction is not retained.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

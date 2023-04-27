@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"745\" lastpage=\"745\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b799-7\">Second Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AIDm\">May, 1941.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b799-8\">(May 5, 1941.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b799-9\">David H. Clark, Respondent, v. Elizabeth T. Dodge, as Executrix, etc., of John L. Dodge, Deceased, Appellant, and Others, Defendants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZY\">Motion for leave to appeal to the Court of Appeals denied. Stay granted until the granting or final refusal by the Court of Appeals of leave to appeal. Present \u2014 Lazansky, P. J., Hagarty, Adel, Taylor and Close, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

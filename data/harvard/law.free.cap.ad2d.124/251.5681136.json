@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"251\" lastpage=\"251\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b189-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AJT\">October, 1986</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aqi\">(October 8, 1986)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ABa\">The People of the State of New York ex rel. Timothy A. Askew, Petitioner, v New York State Board of Parole, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3a\">Mahoney, P. J., Mikoll, Yesawich, Jr., Levine and Harvey, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

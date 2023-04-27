@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1057\" lastpage=\"1057\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AfZl\">The People of the State of New York, Respondent, v Jeffery Woodard, Appellant.</parties>\n\n<opinion><p id=\"AgVE\">\u2014 Judgment unanimously reversed, on the law and facts, and indictment dismissed. Same memorandum as in <em>People v Dailey </em>(50 AD2d 1056). (Appeal from judgment of Yates County Court, adjudicating defendant a youthful offender.) Present \u2014 Marsh, P. J., Moule, Goldman, Del Vecchio and Witmer, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"1057\" lastpage=\"1057\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AfZl\">The People of the State of New York, Respondent, v Jeffery Woodard, Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AgVE\">\u2014 Judgment unanimously reversed, on the law and facts, and indictment dismissed. Same memorandum as in <em>People v Dailey </em>(50 AD2d 1056). (Appeal from judgment of Yates County Court, adjudicating defendant a youthful offender.) Present \u2014 Marsh, P. J., Moule, Goldman, Del Vecchio and Witmer, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

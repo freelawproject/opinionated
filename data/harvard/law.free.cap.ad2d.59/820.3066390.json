@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"820\" lastpage=\"820\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b866-6\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"An28\">October, 1977</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AV56\">(October 28, 1977)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AbMu\">Dan Pearson, Respondent, v Alfreda W. Slominski, Individually and as Comptroller of the County of Erie, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgBb\">Judgment unanimously affirmed, without costs, on the opinion at Special Term, Doerr, J. (Appeal from judgment of Erie Supreme Court\u2014art 78.) Present\u2014Moule, J. P., Cardamone, Simons, Hancock and Denman, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

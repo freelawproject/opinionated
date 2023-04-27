@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"877\" lastpage=\"877\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b931-12\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AY0T\">March, 1962</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A8WP\">(March 1, 1962)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"AZo4S\">George M. Porges, Appellant, v. Grace Looram, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlB\">No opinion. Concur \u2014 Breitel, J. P., McNally, Eager, Steuer and Bergan, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b951-3\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Avc\">December, 1970</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AkzJ\">(December 1, 1970)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A5rB\">35 Estates, Inc., Respondent, v. Central Park Garden, Inc., et al., Defendants, and Civetta Excavating, Inc., Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUMg\">Concur\u2014Stevens, P. J., Eager, Markewich, Nunez and McNally, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

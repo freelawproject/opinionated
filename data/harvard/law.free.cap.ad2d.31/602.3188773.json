@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"602\" lastpage=\"602\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b650-2\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AnI\">August, 1968</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Auj2\">(August 27, 1968)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ax_\">In the Matter of John Wright, Petitioner, v. Albert Krakes, as Treasurer of the County of Essex, et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b650-6\"> Not published with other decisions of August, 1968, 30 A D 2d 919.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"ABiP\">for an order to show cause and a writ of mandamus denied, without costs. Gibson, P. J., Herlihy, Aulisi, Staley, Jr., and Gabrielli, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

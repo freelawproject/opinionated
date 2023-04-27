@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1044\" lastpage=\"1044\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Audrey SAMPSON, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  3M COMPANY, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-675 September Term 2017\n  <br/>\n  080316\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  February 9, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion of the Association of Corporate Counsel for leave to appear as amicus curiae is granted limited to the filing with this court of the brief that accompanied the motion. Movant may seek further participation on the remand by motion to the Superior Court, Appellate Division.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

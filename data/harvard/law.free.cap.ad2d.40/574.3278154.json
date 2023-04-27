@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"574\" lastpage=\"574\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b522-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ANfd\">July, 1972</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aqvq\">(July 6, 1972)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ACS\">First National Bank of Waterloo, Respondent, v. Arnold B. Glenn, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AdfI\">Appeal dismissed for failure to prosecute, pursuant to rule 1000.3(b) (22 NYCRR 1000.3[b]). (Appeal from order of Monroe Special Term denying motion to dismiss complaint or transfer action.) Present \u2014 Del Vecchio, J. P., Witmer, Gabrielli, Cardamone and Henry, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

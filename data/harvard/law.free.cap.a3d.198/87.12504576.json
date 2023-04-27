@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"87\" lastpage=\"87\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Steven K. WILSON<br/> v.<br/> Diane P. WILSON</parties>\n<court id=\"p-2\">Supreme Court of Connecticut.</court>\n<decisiondate id=\"p-3\">Decided December 12, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-4\">The defendant's petition for certification to appeal from the Appellate Court (AC 42072) is denied.</p><p id=\"p-5\">McDONALD, J., did not participate in the consideration of or decision on this petition.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"87\" lastpage=\"87\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Steven K. WILSON\n    <br/>\n    v.\n    <br/>\n    Diane P. WILSON\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Connecticut.\n   </court>\n   <decisiondate id=\"p-3\">\n    Decided December 12, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     The defendant's petition for certification to appeal from the Appellate Court (AC 42072) is denied.\n    </p>\n    <p id=\"p-5\">\n     McDONALD, J., did not participate in the consideration of or decision on this petition.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

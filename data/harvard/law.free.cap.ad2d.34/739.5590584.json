@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"739\" lastpage=\"739\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b727-30\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A1r\">November, 1969</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AH7E\">(November 12, 1969)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A0cq\">In the Matter of James W. Lister, Petitioner, v. Judges of the Suffolk County Court et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b727-32\"> Not printed with other decisions of November, 1969, 33 A D 2d 684. [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AON-\">Proceeding pursuant to article 78 of the CPLR to prohibit respondents from taking any further action in connection with the prosecution of petitioner under Indictment No. 629-69 pending in the County Court of Suffolk County. Proceeding dismissed on the merits, without costs. Brennan, Acting P. J., Rabin, Benjamin, Munder and Martuscello, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"401\" lastpage=\"401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b333-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AWR\">January, 2009</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ASU\">(January 6, 2009)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Atv\">The People of the State of New York, Respondent, v Oscar Olmeda, Appellant.</parties>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A6E\">[872 NYS2d 687]</citation>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Asd\">Judgment, Supreme Court, New York County (James A. Yates, J.), rendered on or about September 14, 2006, unanimously affirmed. No opinion. Order filed. Concur\u2014Lippman, P.J., Mazzarelli, Sweeny, DeGrasse and Freedman, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

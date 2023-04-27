@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"594\" lastpage=\"594\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b654-9\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A3Gt\">March, 1961</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ArT9\">(March <em>7, </em>1961)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ax5Y\">In the Matter of Arthur Bennett, an Attorney.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b654-12\"> Not published with other decisions of March 7, 1961, 13 A D 2d 454.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AH1Q\">Concur \u2014 Valente, J. P., McNally, Stevens, Eager and Steuer, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

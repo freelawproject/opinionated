@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"935\" lastpage=\"935\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1001-13\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AaXM\">Mat, 1946.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1001-14\">(May 6, 1946.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b1001-15\">Dorothy Amerling, Appellant, v. Charles A. Amerling, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ArgO\">Motion to dismiss appeal granted, by consent, and appeal dismissed, without costs. Present \u2014 Lewis, P. J., Hagarty, Adel, Aldrich and Nolan, JJ. [180 Misc. 701.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

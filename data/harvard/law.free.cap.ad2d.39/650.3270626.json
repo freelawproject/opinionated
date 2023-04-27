@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"650\" lastpage=\"650\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b694-11\">First Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AGp\">May, 1972</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AqtA\">(May 2, 1972)</decisiondate>\n<p data-order=\"3\" data-type=\"misc\" id=\"b694-12\">(Republished)</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"Aox\">In the Matter of C. James Lombardi, Jr., Petitioner, v. Ivan Warner et al., Respondents.</parties>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AvPd\">Application denied and petition dismissed, without costs and without disbursements. The order of this court entered on April 27, 1972 [39 A D 2d 644], is vacated. No opinion. Concur\u2014Nunez, J. P., Kupferman, Murphy and McNally, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

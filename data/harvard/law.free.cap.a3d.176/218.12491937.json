@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"218\" lastpage=\"218\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the MATTER OF the Expungement of the Arrest/Charge Records of T.B.\n </parties>\n <parties id=\"p-2\">\n  In the Matter of the Expungement of the Arrest/Charge Records of J.N.-T.\n </parties>\n <parties id=\"p-3\">\n  In the Matter of the Expungement of the Arrest/Charge Records of R.C.\n </parties>\n <docketnumber id=\"p-4\">\n  M-323 September Term 2017\n  <br/>\n  079813\n </docketnumber>\n <court id=\"p-5\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-6\">\n  November 30, 2017\n </decisiondate>\n <p id=\"p-7\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   It is ORDERED that the motion of R.C., for a stay is granted, in part, and the stay is limited to the portion of the judgment of the Superior Court, Appellate Division, that vacated R.C.'s order of expungement.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

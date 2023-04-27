@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"966\" lastpage=\"966\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1004-5\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AFvD\">February, 1959 <footnotemark>*</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1004-6\">(February 19, 1959)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A0pO\">In the Matter of Jacob Tim, Deceased. Vera Poses et al., Appellants; Fishel Rudawski et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b1004-11\"> Not published with other decisions of Feb. 19, 1959, 7 A D 2d 905.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AV0B\">Motion granted to the extent and on the conditions stated in the order. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, McNally and Stevens, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

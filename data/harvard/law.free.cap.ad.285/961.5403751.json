@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"961\" lastpage=\"961\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b1009-9\">In the Matter of the Bar Association of Nassau County, N. Y., Inc. John H. Schulze, an Attorney.</parties>\n\n<opinion><p id=\"AglY\">Motion referred to the court that rendered the decision of November 22, 1954. [Present \u2014 MacCrate, Acting P. J., Schmidt, Beldock, Murphy and Ughetta, JJ. Motion to reopen proceedings and for other relief denied. Present \u2014 Nolan, P. J., Wenzel, Schmidt, Beldoek and Murphy, JJ. [See 284 App. Div. 981, 1062.]</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"961\" lastpage=\"961\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1009-9\">In the Matter of the Bar Association of Nassau County, N. Y., Inc. John H. Schulze, an Attorney.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AglY\">Motion referred to the court that rendered the decision of November 22, 1954. [Present \u2014 MacCrate, Acting P. J., Schmidt, Beldock, Murphy and Ughetta, JJ. Motion to reopen proceedings and for other relief denied. Present \u2014 Nolan, P. J., Wenzel, Schmidt, Beldoek and Murphy, JJ. [See 284 App. Div. 981, 1062.]</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"618\" lastpage=\"618\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  John MEYER, Appellant\n  <br/>\n  v.\n  <br/>\n  COMMONWEALTH of Pennsylvania, Board of Probation and Parole and John J. Talabar, Esq., Board Secretary, Appellees\n </parties>\n <docketnumber id=\"p-2\">\n  No. 29 MAP 2018\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  November 1, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   <strong>\n    AND NOW\n   </strong>\n   , this 1st day of November, 2018, the Motion to Dismiss for Mootness is GRANTED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

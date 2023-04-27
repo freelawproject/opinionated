@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"701\" lastpage=\"701\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b751-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"Akp\">July, 1938.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b751-5\">(July 1, 1938.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b751-6\">In the Matter of Samuel Maness, an Attorney.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4Qx\">Motion granted. Present \u2014 Martin, P. J., O\u2019Malley, Glennon, Untermyer and Dore, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

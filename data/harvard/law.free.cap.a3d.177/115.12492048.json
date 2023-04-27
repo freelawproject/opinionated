@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"115\" lastpage=\"115\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the MATTER OF the Release of Administrative Attorney Registration Statements of Maurice J. DONOVAN, Esquire\n </parties>\n <docketnumber id=\"p-2\">\n  M-416 September Term 2017\n  <br/>\n  080074\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  December 8, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion of Benjamin M. Del Vento, P.A. and Benjamin M. Del Vento, requesting the release of attorney registration statements and information is granted, in part. The OAE is directed to provide copies of Mr. Donovan's registration statements to the extent they are still available, and also copies of the OAE's electronic records of the statements provided, however that all personal identifiers are to be redacted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

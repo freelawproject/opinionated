@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1126\" lastpage=\"1126\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Andre MCDOUGAL, Defendant Below, Appellant,<br/> v.<br/> State of DELAWARE, Plaintiff Below, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 48, 2019</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n\n\n\n\n<opinion type=\"majority\"><p id=\"p-4\">Submitted: February 13, 2019<br/> Decided: March 29, 2019<br/> Rehearing en Banc Denied April 16, 2019</p><p id=\"p-5\"><strong>MEMORANDUM DECISION</strong></p><p id=\"p-6\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1126\" lastpage=\"1126\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Andre MCDOUGAL, Defendant Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    State of DELAWARE, Plaintiff Below, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 48, 2019\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <otherdate type=\"majority\">\n    <p id=\"p-4\">\n     Submitted: February 13, 2019\n     <br/>\n     Decided: March 29, 2019\n     <br/>\n     Rehearing en Banc Denied April 16, 2019\n    </p>\n    <p id=\"p-5\">\n     <strong>\n      MEMORANDUM DECISION\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     AFFIRMED.\n    </p>\n   </otherdate>\n  </casebody>\n </body>\n</html>\n"
   }
 }

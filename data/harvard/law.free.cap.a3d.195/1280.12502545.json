@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1280\" lastpage=\"1280\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Pamela O'DONNELL, Individually, as Administratrix Ad Prosequendum for the Estate of Timothy O'Donnell, as Administratrix Ad Prosequendum for the Estate of B.O., a Minor, and as Guardian Ad Litem of A.O., a Minor, Plaintiffs,\n  <br/>\n  v.\n  <br/>\n  NEW JERSEY TURNPIKE AUTHORITY, Defendant-Movant,\n  <br/>\n  and\n  <br/>\n  Service McCabe Ambulance, Elisar Morales and Scott Hahn, Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  M-1059 September Term 2017\n  <br/>\n  080735\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  May 21, 2018\n </decisiondate>\n <p id=\"p-5\">\n  ORDER\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion to take judicial notice of records is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

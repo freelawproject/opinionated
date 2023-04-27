@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"707\" lastpage=\"707\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b745-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Aq7E\">November, 1975</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AuT\">(November 6, 1975)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A9T8\">Paul W. Thornton, Individually and as Parent and Natural Guardian of Ronald Thornton, Appellant, v Niagara Wheatfield School District et al., Respondents.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"AVs\">(Appeal No. 1.)</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYBA\">\u2014 Appeal unanimously dismissed as moot in view of determination in <em>Thornton v Niagara Wheat\u00f1eld School Dist. </em>(50 AD2d 707). (Appeal from judgment of Niagara Supreme Court in negligence action.) Present \u2014 Cardamone, J. P., Simons, Mahoney, Goldman and Del Vecchio, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

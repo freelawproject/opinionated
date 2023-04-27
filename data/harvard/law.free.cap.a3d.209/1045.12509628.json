@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1045\" lastpage=\"1045\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">ESTATE OF SMITH, V., Dec'd,</parties>\n<docketnumber id=\"p-2\">Appeal of: Smith, W.</docketnumber>\n<docketnumber id=\"p-3\">527 EDA 2018</docketnumber>\n<court id=\"p-4\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-5\">February 6, 2019<br/> Reargument Denied April 10, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Reversed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1045\" lastpage=\"1045\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    ESTATE OF SMITH, V., Dec'd,\n   </parties>\n   <docketnumber id=\"p-2\">\n    Appeal of: Smith, W.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    527 EDA 2018\n   </docketnumber>\n   <court id=\"p-4\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-5\">\n    February 6, 2019\n    <br/>\n    Reargument Denied April 10, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Reversed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

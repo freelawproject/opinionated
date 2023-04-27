@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"106\" lastpage=\"106\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b108-6\">PEOPLE, Respondent, v. AH CHOY and JIM FOO, Appellants.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b108-7\">No. 10,582;</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A96\">January 14, 1881.</decisiondate>\n<syllabus data-order=\"3\" data-type=\"syllabus\" id=\"b108-8\">Criminal Law.\u2014A Defendant has No Appeal from an order granting him a new trial.</syllabus>\n<summary data-order=\"4\" data-type=\"history\" id=\"b108-9\">APPEAL from Superior Court, San Joaquin County.</summary>\n<p data-order=\"5\" data-type=\"attorneys\" id=\"b108-10\">McStay <em>&amp; </em>Swinnerton and W. M. Gibson for appellants; A. L. Hart, attorney general, for respondent.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b108-11\">By the COURT.</author>\n<p id=\"AhX\">The attorney general moves to dismiss the appeal taken by the defendant from an order of the superior court granting him a new trial. No such appeal is authorized by the Penal Code.</p>\n<p id=\"b108-12\">Appeal dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

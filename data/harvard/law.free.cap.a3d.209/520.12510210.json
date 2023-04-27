@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"520\" lastpage=\"520\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">RAGIN, A.<br/> v.<br/> YESLEE, K.</parties>\n<docketnumber id=\"p-2\">2566 EDA 2018</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">January 23, 2019<br/> Reargument Denied March 15, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Quashed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"520\" lastpage=\"520\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    RAGIN, A.\n    <br/>\n    v.\n    <br/>\n    YESLEE, K.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2566 EDA 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    January 23, 2019\n    <br/>\n    Reargument Denied March 15, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Quashed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

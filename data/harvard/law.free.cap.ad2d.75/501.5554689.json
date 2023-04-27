@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"501\" lastpage=\"501\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b543-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"Apt\">April, 1980</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A3t\">(April 3, 1980)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AE0\">In the Matter of Geneva Jackson, Petitioner, v New York State Division of Human Rights et al., Respondents</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYk\">Order of the State Human Rights Appeal Board, dated March 6, 1979, unanimously confirmed, without costs and without disbursements. No opinion. Concur\u2014Murphy, P. J., Kupferman, Sandler, Lupiano and Lynch, JJ.</p>\n<p id=\"b543-6\">2</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

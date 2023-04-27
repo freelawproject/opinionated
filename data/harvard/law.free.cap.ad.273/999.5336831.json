@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b1047-8\">Thomas G. Crowe, Respondent, v. Elmhurst Contracting Co., Inc., Appellant.</parties>\n\n<opinion><p id=\"AlI2\">Judgment unanimously affirmed, with costs. No opinion. Present \u2014 \u2022 Peek, P. J., Dore, Cohn, Callahan and Van Voorhis, JJ. [191 Mise. 585.] [See 274 App. Div. 782.]</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1047-8\">Thomas G. Crowe, Respondent, v. Elmhurst Contracting Co., Inc., Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AlI2\">Judgment unanimously affirmed, with costs. No opinion. Present \u2014 \u2022 Peek, P. J., Dore, Cohn, Callahan and Van Voorhis, JJ. [191 Mise. 585.] [See 274 App. Div. 782.]</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

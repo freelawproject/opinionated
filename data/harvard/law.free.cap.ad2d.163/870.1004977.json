@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"870\" lastpage=\"870\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AQAR\">In the Matter of the Estate of Roberta W. Seaman, Deceased. Charlotte L. Gaynor, Appellant; William H. Baxter et al., Respondents.</parties>\n\n<opinion><p id=\"AOQS\">Appeal unanimously dismissed without costs <em>(see, Agee v Ajar, </em>154 AD2d 569). (Appeal from decree of Onondaga County Surrogate\u2019s Court, Wells, S.\u2014testamentary letters.) Present\u2014Dillon, P. J., Doerr, Boomer, Lawton and Davis, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"870\" lastpage=\"870\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AQAR\">In the Matter of the Estate of Roberta W. Seaman, Deceased. Charlotte L. Gaynor, Appellant; William H. Baxter et al., Respondents.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AOQS\">Appeal unanimously dismissed without costs <em>(see, Agee v Ajar, </em>154 AD2d 569). (Appeal from decree of Onondaga County Surrogate\u2019s Court, Wells, S.\u2014testamentary letters.) Present\u2014Dillon, P. J., Doerr, Boomer, Lawton and Davis, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

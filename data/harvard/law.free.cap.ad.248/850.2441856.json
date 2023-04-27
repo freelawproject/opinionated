@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"850\" lastpage=\"850\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b918-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A0Vn\">October, 1936.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b918-5\">(October 5, 1936.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b918-6\">In the Matter of the Petition of Benjamin I. Cantor.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1DS\">Motion granted. Present \u2014 Martin, P. J., McAvoy, O\u2019Malley, Townley and <em>Glennon, </em>JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

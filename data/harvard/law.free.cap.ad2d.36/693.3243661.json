@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"693\" lastpage=\"694\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b745-43\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AFEC\">March, 1971</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQS-\">(March 1, 1971)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AKh\">Joseph Ramo, as Administrator of the Estate of Ronald Ramo, Deceased, Respondent, v. General Motors Corporation, Chevrolet Division of General Motors Corporation, Appellant, et al., Defendant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARjV\"><page-number citation-index=\"1\" label=\"694\">*694</page-number>-Concur \u2014 Stevens, P. J., MeGrivern, Markewieh, Nunez and Kupferman, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

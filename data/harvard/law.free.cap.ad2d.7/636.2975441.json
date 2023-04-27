@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"636\" lastpage=\"636\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b674-12\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A70\">November, 1958</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AOS7\">(November 3, 1958)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"AAp0\">Anna Alessi, Appellant, v. Joseph Alessi, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Askt\">Motion referred to the court that rendered the decision. Present \u2014 Nolan, P. J., Wenzel, Beldoek, Murphy and Ughetta, JJ. Motion for reargument denied, without costs. Present \u2014 Nolan, P. J., Murphy, Ughetta, Hallinan and Kleinfeld, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

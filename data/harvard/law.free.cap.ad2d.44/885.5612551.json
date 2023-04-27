@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"885\" lastpage=\"886\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b925-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AELp\">May, 1974</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AuD\">(May 16, 1974)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Asdj\">The People of the State of New York ex rel. Kenneth Christian, Appellant, v. William M. Lombard, as Monroe County Sheriff, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHY\">Motion granted and appeal dismissed as moot (see <em>People ex rel. Wilder </em>v. <em>Markley, </em>26 N Y 2d 648). (Appeal from judgment of Monroe County Court <page-number citation-index=\"1\" label=\"886\">*886</page-number>dismissing writ of habeas corpus.) Present \u2014 Marsh, P. J., Witmer, Mahoney, Goldman and Del Vecchio, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

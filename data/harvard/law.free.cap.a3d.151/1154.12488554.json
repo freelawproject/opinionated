@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1154\" lastpage=\"1154\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">R.T.<br/> v.<br/> J.T.<br/> v.<br/> C.V.</parties>\n<docketnumber id=\"p-2\">1634 WDA 2015</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">May 19, 2016</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1154\" lastpage=\"1154\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    R.T.\n    <br/>\n    v.\n    <br/>\n    J.T.\n    <br/>\n    v.\n    <br/>\n    C.V.\n   </parties>\n   <docketnumber id=\"p-2\">\n    1634 WDA 2015\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    May 19, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

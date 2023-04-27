@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1009\" lastpage=\"1009\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1081-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AADO\">April, 1952.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1081-5\">(April 2, 1952.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1081-7\">In the Matter of the Application of Delos Poole Bassinger for Admission to Practice as an Attorney. (From the State of Michigan.)</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AxE\">Present \u2014 Nolan, P. J., Carswell, Adel, Wenzel and Schmidt, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

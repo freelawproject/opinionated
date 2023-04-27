@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"5\" lastpage=\"5\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">J.E.E.<br/> v.<br/> M.P.E. (Two Cases)</parties>\n<docketnumber id=\"p-2\">NO. 743 MAL 2015<br/> NO. 744 MAL 2015</docketnumber>\n<court id=\"p-3\">Supreme Court of Pennsylvania</court>\n<decisiondate id=\"p-4\">April 26, 2016</decisiondate>\n<history id=\"p-5\">Appeal from the Superior Court.</history>\n\n<opinion type=\"majority\"><p id=\"p-6\">Disposition: Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"5\" lastpage=\"5\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    J.E.E.\n    <br/>\n    v.\n    <br/>\n    M.P.E. (Two Cases)\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 743 MAL 2015\n    <br/>\n    NO. 744 MAL 2015\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Pennsylvania\n   </court>\n   <decisiondate id=\"p-4\">\n    April 26, 2016\n   </decisiondate>\n   <history id=\"p-5\">\n    Appeal from the Superior Court.\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Disposition: Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

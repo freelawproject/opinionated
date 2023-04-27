@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"865\" lastpage=\"865\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b913-16\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AR1\">February, 1955.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AMn\">(February 1, 1955.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b913-18\">870 Fifth Avenue Corporation, Respondent, v. David M. Simon et al., Copartners Doing Business under the Name of Simon Brothers, Appellants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aq4\">Order unanimously affirmed, with $20 costs and disbursements to respondent. No opinion. Present \u2014 Peck, P. J., Cohn, Breitel and Bastow, JJ, [See <em>post, </em>p. 935.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

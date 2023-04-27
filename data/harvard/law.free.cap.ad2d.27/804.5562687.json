@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"804\" lastpage=\"804\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b854-19\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ARy\">October, 1966</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ArL0\">(October 3, 1966)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"misc\" id=\"ARcB\">In the Matter of Robert M. Stein, Petitioner, v. Appellate Term of the Supreme Court of the State of New York, Second Judicial Department, et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b854-23\"> Not published with other decisions of October 3, 1966, 26 A D 2d 818.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"A38b\">Proceeding pursuant to CPLR article 78 to prohibit and enjoin respondents from proceeding with or entertaining an appeal taken by the respondent District Attorney to the respondent court in <em>People </em>v. <em>Robert M. Stein. </em>Proceeding dismissed, without costs. Beldoek, P. J., Ughetta, Christ, Brennan and Hill, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

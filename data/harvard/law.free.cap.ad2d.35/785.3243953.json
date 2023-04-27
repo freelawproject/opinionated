@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"785\" lastpage=\"786\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b821-13\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Ae3f\">November, 1970</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AL5B\">(November 4, 1970)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AC83\">In the Matter of James Blake, Petitioner, v. Frank S. Hogan, as District Attorney of New York County, et al., Respondents. In the Matter of Jerome O. Glucksman, Petitioner, v. Frank S. Hogan, as District Attorney of New York County, et al., Respondents.\u2014</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APb0\"><page-number citation-index=\"1\" label=\"786\">*786</page-number>Concur \u2014 McGivern, J. P., Markewich, Nunez, McNally and Steuer, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

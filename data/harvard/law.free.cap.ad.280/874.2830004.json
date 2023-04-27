@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"874\" lastpage=\"874\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b910-8\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AU5\">July, 1952.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b910-9\">(July 9,1952.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b910-11\">Homer L. Householder, Respondent, v. Town of Grand Island, Erie County, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4X\">Judgment affirmed, with costs. All concur. (Appeal from a judgment for plaintiff in an action to declare a town ordinance to be unconstitutional.) Present \u2014 Taylor, P. J., MeCurn, Vaughan, Kimball and Piper, JJ. [See <em>post, </em>p. 910.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

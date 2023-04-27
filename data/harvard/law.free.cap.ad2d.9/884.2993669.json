@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"884\" lastpage=\"884\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AxD5\">North-Eastern Mercantile Corp., Respondent, v. Inter Ocean Commerce Corp., Appellant.</parties>\n\n<opinion><p id=\"A8B2\">Judgment of June 18,1959 unanimously affirmed, with costs to the respondent. No opinion. Concur \u2014 Breitel, J. P., Rabin, M. M. Frank, Valente and Bergan, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"884\" lastpage=\"884\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AxD5\">North-Eastern Mercantile Corp., Respondent, v. Inter Ocean Commerce Corp., Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A8B2\">Judgment of June 18,1959 unanimously affirmed, with costs to the respondent. No opinion. Concur \u2014 Breitel, J. P., Rabin, M. M. Frank, Valente and Bergan, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

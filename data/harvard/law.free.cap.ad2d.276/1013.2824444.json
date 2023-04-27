@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1071-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AEM\">March, 1950.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1071-5\">(March 6, 1950.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b1071-6\">David Bernstein et al., Appellants, v. Jacob M. Murnick, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aton\">Present \u2014 Carswell, Acting P. J., Johnston, Sneed, Wenzel and MaeCrate, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

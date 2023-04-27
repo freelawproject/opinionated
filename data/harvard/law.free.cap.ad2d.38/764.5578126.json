@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"764\" lastpage=\"764\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b818-4\">Third- Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AM9q\">January, 1972</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ADo0\">(January 3, 1972)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"AlU\">William V. Lawrence et al., Appellants, v. State of New York, Respondent.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"AoZ0\">(Claim No. 48267.)</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Al3J\">Judgment of the Court of Claims, entered February 9, 1970, reversed and a new trial granted pursuant to stipulation; appellants to recover actual disbursements in prosecuting the appeal to be taxed by the Clerk of the Court of Claims. Herlihy, P. J., Staley, Jr., Cooke, Sweeney and Simons, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

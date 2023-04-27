@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1008\" lastpage=\"1008\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1072-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A849\">February, 1974</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AxMG\">(February 14, 1974)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A-bW\">The People of the State of New York, Respondent, v. John Irving, Also Known as John Yopp, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2\">Judgment unanimously affirmed. (See <em>People </em>v. <em>Monsanto, </em>41 A D 2d 761.) (Appeal from judgment of Erie County Court convicting defendant of attempted burglary in the third degree.) Present \u2014 Marsh, P. J., Moule, Cardamone, Simons and Del Vecchio, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"853\" lastpage=\"854\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b895-17\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AfkD\">December, 1963</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ar4N\">(December 16, 1963) <footnotemark>**</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ASMW\">Francis M. Dunphy, an Infant, by Althea Rosenblum, His Guardian ad Litem, et al., Respondents, v. Jack Bolton, Appellant.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"**\">\n<p id=\"As9j\">Not published with other decisions of Dec., 1963, 20 A D 2d 582.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"A_jI\">Order affirmed, with $10 costs to plaintiffs-respondents. Although there may possibly be a <page-number citation-index=\"1\" label=\"854\">*854</page-number>distinction in principle between the ease of the infant and that of the adult no such distinction is argued or suggested by appellants. Bergan, P. J., Gibson, Herlihy and Reynolds, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b972-11\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AFQY\">June, 1950.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b972-12\">(June 27, 1950.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b972-13\">In the Matter of the Claim of Clara Ptaszynski, Respondent, against American Sugar Refining Company, Appellant. Workmen's Compensation Board, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AuS\">Motion for reargument denied. Motion for leave to appeal to the Court of Appeals upon a certified question of law denied, without costs. Present \u2014 Foster, P. J., Brewster, Deyo, Bergan and Coon, JJ. [See <em>ante, </em>p. 800.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

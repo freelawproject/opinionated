@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1145\" lastpage=\"1146\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"A4Xh\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ArUo\">February, 1978</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Arn\">(February 22, 1978)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ac48\">The People of the State of New York ex rel. Lee Higgs, Petitioner, v Superintendent Arthur Kill Correctional Facility et al., Respondents.<page-number citation-index=\"1\" label=\"1146\">*1146</page-number></parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"AQZd\"> Not published with other decisions of February, 1978, 61 AD2d 782. [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AzD\">Application by petitioner for a writ of habeas corpus, denied, without costs. Hopkins, J. P., Latham, Damiani and Titone, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

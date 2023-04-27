@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"175\" lastpage=\"175\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the MATTER OF the Civil COMMITMENT OF H.B., SVP-252-02.\n </parties>\n <parties id=\"p-2\">\n  In the Matter of the Civil Commitment of B.L., SVP-463-07.\n </parties>\n <docketnumber id=\"p-3\">\n  (B.L. - Petitioner)\n </docketnumber>\n <docketnumber id=\"p-4\">\n  C-1053 September Term 2018\n  <br/>\n  082786\n </docketnumber>\n <court id=\"p-5\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-6\">\n  July 11, 2019\n </decisiondate>\n <p id=\"p-7\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   A petition for certification of the judgment in A-2295/4316-16 having been submitted to this Court, and the Court having considered the same;\n  </p>\n  <p id=\"p-9\">\n   It is ORDERED that the petition for certification is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"872\" lastpage=\"872\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AAUU\">The People of the State of New York v. James Oliver.</parties>\n\n<opinion><p id=\"AlfR\">Motion to dismiss appeal granted on default. Concur \u2014 Rabin, J. P., M. M. Frank, Valente, McNally and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"872\" lastpage=\"872\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AAUU\">The People of the State of New York v. James Oliver.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AlfR\">Motion to dismiss appeal granted on default. Concur \u2014 Rabin, J. P., M. M. Frank, Valente, McNally and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

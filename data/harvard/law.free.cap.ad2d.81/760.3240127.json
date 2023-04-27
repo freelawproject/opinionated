@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"760\" lastpage=\"760\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b810-6\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"ArUe\">May, 1981</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ArUX\">(May 5, 1981)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A9f\">Edward Shapiro et al., Respondents, v Herbert Baum et al., Appellants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWZ\">\u2014r Order, and judgment (one paper), Supreme Court, New York County, entered on June 10, 1980, unanimously affirmed on the opinion of Helman, J., at Special Term. Respondents shall recover of appellants $75 costs and disbursements of this appeal. Concur \u2014 Kupferman, J. P., Sullivan, Ross, Carro and Markewich, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

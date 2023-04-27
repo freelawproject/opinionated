@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"787\" lastpage=\"787\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AUP\">Morton Olshan, Individually and on Behalf of All Others Similarly Situated, et al., Appellants, v Greater New York Mutual Insurance Co. et al., Respondents.</parties>\n\n<opinion><p id=\"Ab1F\">Order, Supreme Court, New York County, entered on April 8, 1977, unanimously affirmed on the opinion of Gellinoff, J., at Special Term. Respondents shall recover of appellants $40 costs and disbursements of this appeal. Concur\u2014Kupferman, J. P., Lupiano, Markewich and Yesawich, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"787\" lastpage=\"787\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AUP\">Morton Olshan, Individually and on Behalf of All Others Similarly Situated, et al., Appellants, v Greater New York Mutual Insurance Co. et al., Respondents.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Ab1F\">Order, Supreme Court, New York County, entered on April 8, 1977, unanimously affirmed on the opinion of Gellinoff, J., at Special Term. Respondents shall recover of appellants $40 costs and disbursements of this appeal. Concur\u2014Kupferman, J. P., Lupiano, Markewich and Yesawich, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

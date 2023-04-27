@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"897\" lastpage=\"897\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b935-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Aa1Y\">February, 1982</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aq3h\">(February 1, 1982)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A1L\">The People of the State of New York ex rel. Pedro Perez, Petitioner, v Phillip Coombe, as Superintendent of the Eastern Correctional Facility, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARPe\">Application, pursuant to CPL 7002 (subd [b], par 2), for a writ of habeas corpus denied, upon the ground that there is no basis to depart from traditional orderly procedure by resort to habeas corpus during pendency of an appeal from petitioner\u2019s judgment of conviction <em>(People ex rel. Keitt v McMann, </em>18 NY2d 257, 262; <em>People ex rel. McChesney v Draxler, </em>59 AD2d 952). Kane, J. P., Main, Casey, Mikoll and Yesawich, Jr., JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

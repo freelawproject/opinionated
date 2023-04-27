@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"874\" lastpage=\"874\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b914-3\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ACqR\">November, 1956</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ASQz\">(November 1, 1956)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A7EJ\">Richard Yandrasitz v. Teddy\u2019s The House of Sea Food, Inc.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AE2V\"><em>Motion to </em>dismiss appeal granted, with $10 costs. Concur \u2014 Breitel, J. P., Botein, Rabin, Frank and Valente, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

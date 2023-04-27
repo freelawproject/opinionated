@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"886\" lastpage=\"886\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"A9s\">The People of the State of New York v. Frank A. Ciavarelli.</parties>\n\n<opinion><p id=\"AoEv\">Motion to dismiss appeal from order of June 2, 1959 granted, unless the appellant procures the record on appeal and appellant\u2019s points to be served and filed on or before February 2, 1960, with notice of argument for the March 1960 Term of this court, said appeal to be argued or submitted when reached. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"886\" lastpage=\"886\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A9s\">The People of the State of New York v. Frank A. Ciavarelli.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AoEv\">Motion to dismiss appeal from order of June 2, 1959 granted, unless the appellant procures the record on appeal and appellant\u2019s points to be served and filed on or before February 2, 1960, with notice of argument for the March 1960 Term of this court, said appeal to be argued or submitted when reached. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

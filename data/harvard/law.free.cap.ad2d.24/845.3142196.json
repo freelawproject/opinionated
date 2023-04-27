@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"845\" lastpage=\"845\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b841-14\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AFp\">August, 1965</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ADRP\">(August 18, 1965)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A0T\">The People of the State of New York ex rel. David D. Taylor, Relator, v. Walter J. Flood, Warden, Nassau County Jail, Respondent.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b841-18\"> Not published with other decisions of August, 1965, 24 A D 2d 705.\u2014 [Rep.]</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"A3z\">\u2014Application for writ of habeas corpus denied on the ground that the petition fails to comply with the applicable statutory provisions (CPLR 7002, subd. [c], par. 6). Beldock, P. J., Ughetta, Brennan, Hill and Rabin, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

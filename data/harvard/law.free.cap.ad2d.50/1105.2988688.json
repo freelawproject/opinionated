@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1105\" lastpage=\"1105\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1143-5\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ALC8\">October, 1975</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AKjL\">(October 20, 1975) </decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ATx\">The People of the State of New York ex rel. Kevin Dunne, Petitioner, v Warden of the Suffolk County Jail, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFXU\">\u2014Applica tion by petitioner for a writ of habeas corpus, granted to the extent of directing that petitioner be given a final parole revocation hearing at the next regular term of the board. Gulotta, P. J., Rabin, Hopkins, Martuscello and Latham, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

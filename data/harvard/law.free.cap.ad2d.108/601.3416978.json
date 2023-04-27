@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b577-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"ANlo\">February, 1985</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXQ\">(February 5, 1985)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AHz\">Max Maleh et al., Respondents, v New York Property Insurance Underwriting Association, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUT\">Order, Supreme Court, New York County (Harold Baer, Jr., J.), entered on May 1, 1984, unanimously affirmed. Respondents shall recover of appellant $75 costs and disbursements of this appeal. The appeal from the order of said court entered on March 13, 1984 is dismissed as having been subsumed in the appeal from the order entered on May 1, 1984, without costs and without disbursements. No opinion. Concur \u2014 Murphy, P. J., Kupferman, Ross and Carro, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

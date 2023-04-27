@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"978\" lastpage=\"978\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1022-24\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AoDc\">August, 1979</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEKl\">(August 9, 1979)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A5l1\">Robert S. Stewart, Respondent, v State Farm Mutual Automobile Insurance Company, Appellant, et., Defendant.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b1022-26\"> Not reported with other decisions of August 9, 1979, 71 AD2d 964. [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AVW\">Motion for reargument granted, without costs, and upon reargument, we adhere to our original decision. Mahoney, P. J., Sweeney, Kane, Staley, Jr., and Herlihy, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

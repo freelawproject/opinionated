@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">James A. HEGEDUS and Virginia E. Hegedus, Defendants Below, Appellants,<br/> v.<br/> BANK OF NEW YORK MELLON, Plaintiff Below, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 21, 2018</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n\n\n\n<opinion type=\"majority\"><p id=\"p-4\">Submitted: May 11, 2018<br/> Decided: July 10, 2018<br/> Reargument Denied July 25, 2018</p><p id=\"p-5\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    James A. HEGEDUS and Virginia E. Hegedus, Defendants Below, Appellants,\n    <br/>\n    v.\n    <br/>\n    BANK OF NEW YORK MELLON, Plaintiff Below, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 21, 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Submitted: May 11, 2018\n     <br/>\n     Decided: July 10, 2018\n     <br/>\n     Reargument Denied July 25, 2018\n    </p>\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"877\" lastpage=\"877\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate id=\"b923-6\">(December 4, 1959)</decisiondate>\n<parties id=\"At7p\">Penn-Texas Corporation v. Murat Anstalt et al.</parties>\n\n<opinion><p id=\"Ania\">Motion for stay denied, with $10 costs. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"877\" lastpage=\"877\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b923-6\">(December 4, 1959)</decisiondate>\n<parties data-order=\"1\" data-type=\"parties\" id=\"At7p\">Penn-Texas Corporation v. Murat Anstalt et al.</parties>\n<opinion data-order=\"2\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Ania\">Motion for stay denied, with $10 costs. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"683\" lastpage=\"684\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"AfrV\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AQt\">January, 1962</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b737-7\">(January 4, 1962)</decisiondate>\n<p data-order=\"3\" data-type=\"otherdate\" id=\"b737-8\">(Amended decision.)</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"Aoj-\">In the Matter of the Claim of Frank Tucci, Respondent, v. J. F. Carey &amp; Co. et al., Appellants. Workmen\u2019s Compensation Board, Respondent.</parties>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8UI\"><page-number citation-index=\"1\" label=\"684\">*684</page-number>Present\u2014Coon, J. P., Gibson, Herlihy, Reynolds and Taylor, JJ. [See 15 A D 2d 622.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

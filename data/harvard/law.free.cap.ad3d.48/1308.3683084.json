@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1308\" lastpage=\"1308\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1354-5\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"ArCr\">October, 2007</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AouW\">(October 10, 2007)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ATkO\">The People of the State of New York, Respondent, v Rodney Vannoy, Appellant.</parties>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A9Du\">[844 NYS2d 162]</citation>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b1354-7\"> Not published with other First Department decisions of October 10, 2007.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AE07\">Judgment, Supreme Court, New York County (Patricia N\u00fa\u00f1ez, J.), rendered on or about January 12, 2006, unanimously affirmed. No opinion. Order filed. Concur\u2014Saxe, J.P., Marlow, Williams, Sweeny and Malone, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

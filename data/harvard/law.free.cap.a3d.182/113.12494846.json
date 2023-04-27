@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"113\" lastpage=\"113\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Peter R. HALL, Plaintiff Below, Appellant,<br/> v.<br/> MARITEK CORPORATION, Michael J. Geoffrey Fulton and David H. Young, Defendants Below, Appellees.</parties>\n<docketnumber id=\"p-2\">No. 379, 2017</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<decisiondate id=\"p-4\">Submitted: March 7, 2018<br/> Decided: March 12, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"113\" lastpage=\"113\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Peter R. HALL, Plaintiff Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    MARITEK CORPORATION, Michael J. Geoffrey Fulton and David H. Young, Defendants Below, Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 379, 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted: March 7, 2018\n    <br/>\n    Decided: March 12, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

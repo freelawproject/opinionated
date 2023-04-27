@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1068-8\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ArU\">March, 1954. </p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1068-9\">(March 3, 1954.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1068-11\">City of Buffalo, Plaintiff, v. Robert C. Hayman et al., Defendants. (Proceeding for Condemnation No. 122.)</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGjQ\">\u2014 Stay vacated and motion for continued stay denied. Cross motion of the City of Buffalo to dismiss the appeal granted. Memorandum: No appeal lies from the order dismissing defendant\u2019s objections to plaintiff\u2019s petition for a preliminary order of condemnation granted pursuant to section 376 of the Charter of the City of Buffalo and striking defendant\u2019s answer.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

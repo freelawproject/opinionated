@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"291\" lastpage=\"291\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2006-WFHE3, Asset-Backed Pass-Through Certificates, Series 2006-WFHE3, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  Harriet WALKER, a/k/a Harriet E. Walker, f/k/a Harriet Mack, Defendant-Movant,\n  <br/>\n  and\n  <br/>\n  Midland Funding, LLC, and State of New Jersey, Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  M-414 September Term 2018\n  <br/>\n  081359\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  January 11, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for reconsideration of the Court's order denying the petition for certification is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

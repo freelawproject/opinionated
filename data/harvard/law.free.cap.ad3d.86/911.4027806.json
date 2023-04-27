@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b879-7\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Abo\">July, 2011</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ac3N\">(July 1, 2011)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AZn_\">Kenworth of Buffalo, NY, Inc., Respondent, v Hydroacoustics, Inc., Respondent/Third-Party Plaintiff-Respondent, v Anthony J. Costello &amp; Son (Max) Development, LLC, Third-Party Defendant-Appellant.</parties>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AiQC\">[926 NYS2d 334]</citation>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b879-9\">Now, upon reading and filing the stipulation of discontinuance signed by the attorneys for the parties on June 10, 2011,</p>\n<p id=\"b879-10\">It is hereby ordered that said appeal is unanimously dismissed without costs upon stipulation. Present \u2014 Smith, J.P., Garni, Sconiers, Green and Gorski, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

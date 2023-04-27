@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"123\" lastpage=\"123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b125-4\">PEOPLE ex rel. JOHN McCOMB, Petitioner, v. GEORGE TURNER, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b125-5\">No. 7864;</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXq\">November 1, 1881.</decisiondate>\n<syllabus data-order=\"3\" data-type=\"headnotes\" id=\"b125-6\">Attorneys\u2014Misconduct.\u2014Proceedings to Remove an Attorney for professional misconduct are to be dismissed upon the filing of satisfactory affidavits in disproof and motion to dismiss made by the attorney accusing.</syllabus>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b125-8\">A. M. Heslip for petitioner.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b125-9\">By the COURT.</author>\n<p id=\"AnR\">The charges of professional misconduct made against the defendant, Turner, having been satisfactorily disproved by affidavits on file, and the attorney by whom the charges were preferred having moved the court to dismiss the same, all proceedings in the case are hereby dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

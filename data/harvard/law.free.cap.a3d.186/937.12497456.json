@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"937\" lastpage=\"937\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  COMMONWEALTH of Pennsylvania, Respondent\n  <br/>\n  v.\n  <br/>\n  Timothy Martin DUKE, Petitioner\n </parties>\n <docketnumber id=\"p-2\">\n  No. 761 MAL 2017\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  May 16, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-7\">\n   AND NOW, this 16\n   <sup>\n    th\n   </sup>\n   day of May, 2018, the Petition for Allowance of Appeal is GRANTED. Further, the ruling of the Superior Court is VACATED and the case is REMANDED to the trial court for a reconsideration in light of this Court's decision in\n   <em>\n    Commonwealth v. Romero,\n   </em>\n   ___ Pa. ___,\n   <extracted-citation case-ids=\"12495720,12495719\" index=\"0\" url=\"https://cite.case.law/a3d/183/364/\">\n    183 A.3d 364\n   </extracted-citation>\n   (2018).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"513\" lastpage=\"513\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b551-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AZcU\">November, 1975</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Agn\">(November 3, 1975)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AoS\">In the Matter of Manuel Nelson Zapata, an Attorney.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APeG\">\u2014 Respondent reinstated as an attorney and counselor at law of the State of New York. Concur \u2014 Markewich, J. P., Lupiano, Tilzer and Capozzoli, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

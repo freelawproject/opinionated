@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"565\" lastpage=\"565\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b617-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A5A\">January, 1971</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A_R\">(January 7, 1971)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AvLq\">The People of the State of New York, Respondent, v. Philip Palermo, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUnJ\">Present \u2014 Goldman, P. J., Marsh, Witmer, Gabrielli and Henry, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

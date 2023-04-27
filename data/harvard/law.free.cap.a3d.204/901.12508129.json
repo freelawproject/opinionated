@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE ABC TRUST;\n </parties>\n <parties id=\"p-2\">\n  In re Trust FBO Patricia Polizzi;\n </parties>\n <parties id=\"p-3\">\n  In re Trust FBO Salvatore Polizzi;\n </parties>\n <parties id=\"p-4\">\n  In the Matter of the Trust established u/w/o Frank Polizzi f/b/o Salvatore Polizzi\n </parties>\n <docketnumber id=\"p-5\">\n  M-828/829 September Term 2018\n  <br/>\n  082159\n </docketnumber>\n <court id=\"p-6\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-7\">\n  April 4, 2019\n </decisiondate>\n <p id=\"p-8\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   It is ORDERED that the motions of Salvatore Polizzi for leave to appeal (M-828) and to file a reply brief (M-829) are denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

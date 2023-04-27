@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1005\" lastpage=\"1005\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1057-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Alzi\">Mat, 1944.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1057-5\">(May 1,1944.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1057-6\">In the Matter of Billie B. Angell, Individually and as Coexecutor and Cotrustee under the Will of Keith B. Angell, Deceased.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AoTz\">Stay granted until the hearing and determination of the appeal in this court. Cross motion to dismiss appeal, insofar as it seeks to review the proceedings hy which special guardian was appointed, will he decided when the appeal is heard. Bliss, Acting P. J., Heffernan, Schenck and Brewster, JJ., concur; Hill, P. J., taking no part.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

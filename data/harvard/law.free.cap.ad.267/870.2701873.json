@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"870\" lastpage=\"870\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b922-9\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AYO9\">February, 1944.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b922-10\">(February 7, 1944.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b922-11\">Nick DeMartini, Appellant, v. Blade Realty Corporation, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ara\">Motion for leave to appeal to the Court of Appeals denied. [See <em>ante, </em>p. 774.] Present \u2014 Close, P. J., Carswell, Johnston, Lewis and Aldrich, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

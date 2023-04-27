@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"711\" lastpage=\"711\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b789-11\">William Fox, Respondent, v. Jacob W. Loeb, Appellant.</parties>\n<docketnumber id=\"ALcJ\">(Appeal No. 1.)</docketnumber>\n\n<opinion><p id=\"ANdJ\">Order denying motion to vacate notice of examination before trial affirmed, with ten dollars costs and disbursements; examination to proceed on five days\u2019 notice at the place and hour stated in the order. No opinion. Lazansky, P. J., Young, Kapper, Carswell and Davis, JJ., concur.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"711\" lastpage=\"711\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b789-11\">William Fox, Respondent, v. Jacob W. Loeb, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ALcJ\">(Appeal No. 1.)</docketnumber>\n<opinion data-order=\"2\" data-type=\"opinion\" id=\"x999-1\"><p id=\"ANdJ\">Order denying motion to vacate notice of examination before trial affirmed, with ten dollars costs and disbursements; examination to proceed on five days\u2019 notice at the place and hour stated in the order. No opinion. Lazansky, P. J., Young, Kapper, Carswell and Davis, JJ., concur.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

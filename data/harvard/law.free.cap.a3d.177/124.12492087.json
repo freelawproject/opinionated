@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"124\" lastpage=\"124\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  ATLANTIC AMBULANCE CORPORATION, Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  John G. CULLUM and Mary Clare Collum, Defendant-Movants.\n </parties>\n <parties id=\"p-2\">\n  Atlantic Ambulance Corporation, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  Hala Hitti and Antoine Hitti, Defendants.\n </parties>\n <docketnumber id=\"p-3\">\n  M-455/456/457 September Term 2017\n  <br/>\n  079804\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  December 13, 2017\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   It is ORDERED that the motion for leave to impound the record (M-457) is granted; and it is further\n  </p>\n  <p id=\"p-8\">\n   ORDERED that the motions to expand the record (M-456) and for leave to appeal (M-455) are denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

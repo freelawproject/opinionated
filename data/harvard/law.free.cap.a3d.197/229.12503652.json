@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"229\" lastpage=\"229\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  James A. PALUCH, Jr., Petitioner\n  <br/>\n  v.\n  <br/>\n  Jeffrey A. BEARD, William S. Stickman III, Gerald L. Rozum, Steven M. Gates, Allen G. Joseph, Daniel Gehlmann, Mandy Biser, Robert Snyder, Robert S. Bitner, Donald Williamson, Melissa Hughes, Timothy Lucas, Susan Darr and John Doe Officer #1, Respondents\n </parties>\n <docketnumber id=\"p-2\">\n  No. 183 WAL 2018\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  November 16, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-7\">\n   <strong>\n    AND NOW,\n   </strong>\n   this 16th day of November, 2018, the Petition for Allowance of Appeal is\n   <strong>\n    DENIED.\n   </strong>\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

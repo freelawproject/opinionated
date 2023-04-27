@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"507\" lastpage=\"507\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b547-5\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A8lS\">August, 1984</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AWv\">(August 8, 1984)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ABN\">The People of the State of New York, Plaintiff, v Michael Jordan, Defendant. The People of the State of New York, Plaintiff, v Glenn Wells, Defendant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApTx\">\u2014 Motion, pursuant to CPL 230.20, to remove Grand Jury proceedings, denied on the ground that such statute does not authorize this court to change venue prior to the handing down of an indictment. Kane, J. P., Main, Casey, Weiss and Mikoll, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

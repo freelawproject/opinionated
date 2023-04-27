@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"677\" lastpage=\"678\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b729-5\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AAD\">February, 1971</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ag_2\">(February 18, 1971)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AqM\">James Green, Respondent, v. Mary Kinsella et al., Appellants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHG_\"><page-number citation-index=\"1\" label=\"678\">*678</page-number>Present \u2014 Goldman, P. J., Del Vecehio, Witmer, Gabrielli and Henry, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

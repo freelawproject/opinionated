@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"793\" lastpage=\"793\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b845-3\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A32q\">September, 1966</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b845-4\">(September 15, 1966)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"At0z\">Buffalo Savings Bank, Plaintiff, v. Siger, Inc., et al., Defendants. Ethel Coffer, Plaintiff, v. Gurney M. Kranz et al., Defendants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AU9d\">Motion to appeal as a poor person denied (see <em>Jenks </em>v. <em>Murphy, </em>21 A D 2d 346). Motion for a stay of judgment denied (see CPLR 5519, subd. [a]).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

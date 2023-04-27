@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"812\" lastpage=\"812\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b866-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ARTt\">January, 1938.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b866-5\">(January <em>4, </em>1938.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b866-6\">In the Matter of the Appointment of Honorable Albert H. F. Seeger as an Official Referee.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGF\">Honorable Albert H. F. Seeger appointed an official referee to take effect as of January 1, 1938. Present \u2014 Hagarty, Carswell, Davis, Johnston, Adel, Taylor and Close, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

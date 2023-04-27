@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b971-7\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AssT\">August, 1945.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b971-8\">(August 2, 1945.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b971-9\">In the Matter of Sidney M. Wittner, an Attorney.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8oy\">Motion for reinstatement granted. Present \u2014 Martin, P. J., Townley, Glennon, Cohn and Callahan, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

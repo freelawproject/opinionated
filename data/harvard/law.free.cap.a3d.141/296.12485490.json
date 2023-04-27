@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"296\" lastpage=\"296\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">State<br/> v.<br/> Gerardo Gomez (a/k/a Knuckles)</parties>\n<docketnumber id=\"p-2\">NOS. C-843 SEPT. TERM 2015, 077191</docketnumber>\n<court id=\"p-3\">Supreme Court of New Jersey</court>\n<decisiondate id=\"p-4\">May 19, 2016</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Disposition: Denied.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"296\" lastpage=\"296\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    State\n    <br/>\n    v.\n    <br/>\n    Gerardo Gomez (a/k/a Knuckles)\n   </parties>\n   <docketnumber id=\"p-2\">\n    NOS. C-843 SEPT. TERM 2015, 077191\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of New Jersey\n   </court>\n   <decisiondate id=\"p-4\">\n    May 19, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Disposition: Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

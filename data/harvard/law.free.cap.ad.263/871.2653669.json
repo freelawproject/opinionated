@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"871\" lastpage=\"871\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b927-10\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A753\">January, 1942.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b927-11\">(January 5, 1942.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b927-12\">Yetta Meltzer, Respondent, v. New York Life Insurance Company, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ahm\">Motion for leave to appeal to the Appellate Division denied, with ten dollars costs. Present \u2014 Hagarty, Carswell, Johnston, Adel and Taylor, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

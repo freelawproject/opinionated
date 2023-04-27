@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"849\" lastpage=\"849\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b921-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A815\">February, 1952.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b921-5\">(February 5, 1952.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b921-7\">Samuel J. Blume, Appellant, v. Samuel Cohen, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AtpX\">No opinion. Present \u2014 Dore, J. P., Cohn, Callahan, Van Voorhis and Shientag, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

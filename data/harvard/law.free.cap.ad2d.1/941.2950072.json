@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"941\" lastpage=\"941\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b979-3\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"Ax_\">April, 1956</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AcW\">(April 5, 1956)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AtdV\">Samuel Burstein v. Bessie Saslawsky, Also Known as Bessie Rosenbaum, et al.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8I\">Motion to dismiss appeal granted, with $10 costs. Concur \u2014 Peck, P. J., Breitel, Botein, Rabin and Cox, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"60\" lastpage=\"60\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b102-4\">(December 6, 1996)</decisiondate>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AmD\">In the Matter of Austin M. Collins, an Attorney.</parties>\n<p data-order=\"2\" data-type=\"court\" id=\"A33\">[\u2014 NYS2d \u2014]</p>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMnc\">\u2014Motion granted, and the effective date of the order of this Court entered on October 31, 1996 (225 AD2d 181), extended <em>nunc pro tunc </em>to December 16, 1996. No opinion. Concur\u2014Milonas, J. P., Rosenberger, Wallach, Ross and Tom, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

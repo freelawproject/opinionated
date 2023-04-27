@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"782\" lastpage=\"782\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Luis Ivan POBLETE\n  <br/>\n  v.\n  <br/>\n  RESIDENTIAL CREDIT OPPORTUNITIES TRUST\n </parties>\n <docketnumber id=\"p-2\">\n  17-CV-828\n </docketnumber>\n <court id=\"p-3\">\n  District of Columbia Court of Appeals.\n </court>\n <decisiondate id=\"p-4\">\n  October 10, 2018\n </decisiondate>\n <p id=\"p-5\">\n  DECISION WITHOUT PUBLISHED OPINION\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Reversed\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"770\" lastpage=\"770\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b800-7\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"APHl\">June, 1991</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AGB\">(June 5, 1991)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"AC9f\">In the Matter of Harvey L. Weiss, for Reinstatement as an Attorney, Petitioner.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOa\">\u2014Application for reinstatement granted and petitioner, Harvey L. Weiss, reinstated as an attorney and counselor at law in the State of New York, effective immediately, Order filed. Mahoney, P. J., Casey, Mikoll, Levine and Mercure, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

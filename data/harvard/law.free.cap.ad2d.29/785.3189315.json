@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"785\" lastpage=\"785\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b829-5\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Ak5\">February, 1968</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A0DQ\">(February 6, 1968)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"A54t\">Severyn J. Hasbrouck, Appellant, v. State of New York, Respondent.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"Aroc\">(Claim No. 42979.)</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApI7\">Motion to amend decision (28 A D 2d 1195) granted to the extent of awarding costs to claimant to abide the event, without costs. Gibson, P. J., Herlihy, Reynolds, Aulisi and Staley, Jr., JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

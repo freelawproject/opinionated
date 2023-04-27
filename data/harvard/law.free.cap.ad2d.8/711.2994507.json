@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"711\" lastpage=\"711\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"As4T\">Joseph Quittner et al., as Executors of Herman Levine, Deceased, v. Marilyn P. Klion.</parties>\n\n<opinion><p id=\"AMn4\">Motion dismissed as academic on the ground that the appellant has a right to incorporate the papers on appeal in connection with the appeal taken from the decree of the Surrogate and the amended decree of the Surrogate in a single appeal book. Concur \u2014 Botein, P. J., Rabin, Valente, McNally and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"711\" lastpage=\"711\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"As4T\">Joseph Quittner et al., as Executors of Herman Levine, Deceased, v. Marilyn P. Klion.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AMn4\">Motion dismissed as academic on the ground that the appellant has a right to incorporate the papers on appeal in connection with the appeal taken from the decree of the Surrogate and the amended decree of the Surrogate in a single appeal book. Concur \u2014 Botein, P. J., Rabin, Valente, McNally and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

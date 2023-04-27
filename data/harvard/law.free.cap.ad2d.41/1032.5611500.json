@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1032\" lastpage=\"1032\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1088-23\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AG_v\">April, 1973</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Azmn\">(April 10, 1973) </decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AaWG\">In the Matter of Lonnie McLucas, Appellant, v. Russell G. Oswald et al., Constituting the New York State Division of Parole, Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AsqN\">Motion for reargument granted, and upon reargument the court adheres to its original decision, except that respondents\u2019 time in which to comply with the decision is extended for an additional 30 days from the date of the order to be entered hereon. Staley, Jr., J. P., Greenblott, Cooke, Sweeney and Reynolds, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

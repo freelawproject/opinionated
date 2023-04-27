@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"930\" lastpage=\"930\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b958-2\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"Afe\">August, 1982</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AKi4\">(August 3, 1982)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AWPm\">The People of the State of New York ex rel. Hillary A. Best, Petitioner, v Eugene S. LeFevre, as Superintendent of the Clinton Correctional Facility, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2U8\">Application, pursuant to CPLR 7002 (subd [b], par 2), for writ of habeas corpus denied, upon the ground that there is no reason to depart from traditional orderly procedure by resort to habeas corpus during pendency of a direct appeal from the judgment of conviction <em>CPeople ex rel. Keitt v McMann, </em>18 NY2d 257). Mahoney, P. J., Sweeney, Kane, Main and Casey, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

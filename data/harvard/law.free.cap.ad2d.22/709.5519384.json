@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"709\" lastpage=\"709\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b751-7\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Ard\">October, 1964</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AGf\">(October 13, 1964)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"AT5\">Walter Swidunovich et al., Respondents-Appellants, v. State of New York, Appellant-Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"pAZ1E\">Judgment reversed, without costs, suant to the stipulation of the parties, and a new trial granted. Gibson, P. J., Herlihy, Reynolds, Taylor and Aulisi, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

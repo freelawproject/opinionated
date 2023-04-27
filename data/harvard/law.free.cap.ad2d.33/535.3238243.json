@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"535\" lastpage=\"535\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b491-28\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AGj9\">June, 1969</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AMl\">(June 17, 1969) </decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AHT\">The People of the State of New York ex rel. Edgard Andre, Relator, v. Warden, Queens County House of Detention for Men, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Avp\">Application for a writ of habeas corpus denied. Christ, Acting P. J., Benjamin, Munder, Martuscello and Kleinfeld, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

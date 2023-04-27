@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1111\" lastpage=\"1111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  COMMONWEALTH of Pennsylvania, Respondent\n  <br/>\n  v.\n  <br/>\n  Jon Eric SHAFFER, Petitioner\n </parties>\n <docketnumber id=\"p-2\">\n  No. 15 WAL 2018\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  July 2, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-7\">\n   AND NOW, this 2nd day of July, 2018, the Petition for Allowance of Appeal is GRANTED. The issue, truncated and slightly rephrased, is:\n  </p>\n  <p id=\"p-8\">\n   Does an individual give up his expectation of privacy in the closed private files stored on his computer, merely by taking his computer to a commercial establishment for service or repair, where the service or repair requested does not render the viewing of the citizen[']s closed private files as foreseeable to either the customer or the computer technician?\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

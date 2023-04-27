@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"936\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b978-6\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"ATv\">March, 1974</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ASEh\">(March 15, 1974) </decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ABlq\">In the Matter of Thomas Turner et al., Petitioners, v. Narcotic Addiction Control Commission et al., Respondents.\u2014</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiUQ\">Proceeding pursuant to article 78 of the CPLR to compel the respondents to return the petitioners to the custody of NACC to permit them to complete their <em>\u201c </em>narcotic sentence.\u201d Application denied, proceeding dismissed without costs, on the merits. Gulotta, P. J., Hopkins, Martuseello, Brennan and Benjamin, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

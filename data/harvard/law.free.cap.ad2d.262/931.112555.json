@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"931\" lastpage=\"932\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b979-8\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"ACA\">June, 1999</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aqvl\">(June 18, 1999)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AW8v\">Teresa Castellani, Respondent, v Susann Bagdasarian, Appellant.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"AfCk\">(Appeal No. 1.)</docketnumber>\n<citation data-order=\"5\" data-type=\"citation\" id=\"A_JU\">[691 NYS2d 809]</citation>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFZu\">\u2014Appeal unanimously dismissed without costs <em>(see, Smith v Catholic Med. Ctr., </em>155 AD2d 435; <em>see also, </em>CPLR 5501 [a] [1], [2]). (Appeal from Order <page-number citation-index=\"1\" label=\"932\">*932</page-number>of Supreme Court, Erie County, Cosgrove, J. \u2014 Set Aside Verdict.) Present \u2014 Denman, P. J., Hayes, Wisner, Hurlbutt and Callahan, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

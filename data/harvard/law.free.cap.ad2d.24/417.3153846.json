@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"417\" lastpage=\"417\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b413-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AOC\">June, 1965</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AUU\">(June 3, 1965)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"APqS\">The People of the State of New York v. Kenny Grier.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AH4\">Motion to dismiss appeal granted. Under section 517 of the Code of Criminal Procedure no appeal lies to this court from an order denying a motion for a free copy of minutes. <em>(People </em>v. <em>Leggett, </em>14 A D 2d 708 [2d Dept.].) Concur \u2014 Rabin, J. P., Valente, McNally, Eager and Steuer, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

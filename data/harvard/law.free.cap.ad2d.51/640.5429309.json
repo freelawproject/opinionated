@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"640\" lastpage=\"640\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b682-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A1V\">January, 1976</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AUJm\">(January 9, 1976)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AEKl\">Snyder Tank Corp., Appellant, v William Bernhardt et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ArFf\">Judgment unanimously affirmed, with costs, on the opinion at Trial Term, Hanley, \u2022 J. (Appeal from judgment of Erie Supreme Court, in action for damages and injunction against former employee.) Present\u2014 Marsh, P. J., Moule, Mahoney, Goldman and Witmer, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

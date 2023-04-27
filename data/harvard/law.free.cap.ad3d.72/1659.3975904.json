@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1659\" lastpage=\"1659\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"Aj6\">Nicole S. Maurer, Respondent-Appellant, v Tops Markets, LLC, Appellant-Respondent.</parties>\n<docketnumber id=\"A-9n\">(Appeal No. 3.)</docketnumber>\n<citation id=\"Aoxf\">[899 NYS2d 723]</citation>\n\n<opinion><p id=\"A0Tp\">\u2014 Motion for reargument denied. Present \u2014 Centra, J.P., Peradotto, Carni, Pine and Gorski, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"1659\" lastpage=\"1659\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Aj6\">Nicole S. Maurer, Respondent-Appellant, v Tops Markets, LLC, Appellant-Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A-9n\">(Appeal No. 3.)</docketnumber>\n<citation data-order=\"2\" data-type=\"citation\" id=\"Aoxf\">[899 NYS2d 723]</citation>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A0Tp\">\u2014 Motion for reargument denied. Present \u2014 Centra, J.P., Peradotto, Carni, Pine and Gorski, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

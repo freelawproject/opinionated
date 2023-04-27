@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"620\" lastpage=\"620\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b676-5\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A6mP\">January, 1958 <footnotemark>*</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b676-6\">(January 15, 1958)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A1f7\">The People of the State of New York, Respondent, v. Ferdinand Baumgart, Appellant.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b676-11\"> Not published with other decisions of Jan. 15, 1958, 5 A D 2d 800.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AUqo\">Motion granted to appeal on original papers, five typewritten briefs and George M. Donohue, Esq., of Niagara Falls assigned as attorney to conduct appeal; time for argument of appeal enlarged to include March 1968 Term of court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"650\" lastpage=\"650\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b690-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AJAP\">May, 1975</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A64\">(May 2, 1975)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Aji\">In the Matter of Lytle G. Chambers, Appellant, v Salvatore Sclafani et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHL\">In a proceeding to validate petitions designating petitioner as a candidate in the election to be held on May 6, 1975 for the public office of member of Community School Board District No. 13, City of New York, the appeal is from a judgment of the Supreme Court, Kings County, entered April 29, 1975, which declared said designating petitions invalid. Judgment affirmed, without costs. No opinion. Rabin, Acting P. J., Hopkins, Martuscello, Latham and Brennan, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

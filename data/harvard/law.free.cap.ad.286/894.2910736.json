@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"894\" lastpage=\"894\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b962-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AG8\">\n<em>June, 1955.</em>\n</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b962-5\">(June 16, 1955.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b962-7\">In the Matter of the Application of Joanna Maxwell Becker, Admitted to Practice under the Name of Joanna H. Maxwell, an Attorney.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5h\">Present \u2014 Foster, P. J., Bergan, Coon, Halpern and Zeller, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

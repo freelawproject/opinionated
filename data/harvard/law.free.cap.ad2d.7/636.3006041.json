@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"636\" lastpage=\"636\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b674-10\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A-2K\">September, 1958</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AP9F\">(September 5, 1958) </decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ANAr\">In the Matter of Alwyn H. Wild, Appellant, against Grier Bartol et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5ruZ\">Appeal dismissed, with $10 costs. Concur \u2014 Botein, P. J., Breitel, Rabin, M. M. Frank and Valente, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

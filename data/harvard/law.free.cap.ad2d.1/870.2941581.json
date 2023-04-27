@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"870\" lastpage=\"870\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b908-2\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AMoc\">March, 1956</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ap5a\">(March 2, 1956)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A2j6\">Sallie Hill v. Emrite Realty Co. Inc.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ar2u\">Motion to dismiss appeal granted, with $10 costs. Concur \u2014 Peck, P. J., Breitel, Rabin and Cox, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

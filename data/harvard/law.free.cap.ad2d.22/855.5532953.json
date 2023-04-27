@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"855\" lastpage=\"855\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b897-74\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Aa2H\">October, 1964 <footnotemark>*</footnotemark></p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b897-75\">(October 15, 1964)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A_Oy\">Security Options Corp. v. Richard Shelton.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b897-78\"> Not published with other decisions of October, 1964, 22 A D 2d 641.\u2014[Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"ASg-\">Motion to dismiss appeal granted, with $10 costs, without prejudice to an application to vacate the dismissal and upon further condition that the appeal is perfected for the January 1965 Term. Concur \u2014 Botein, P. J., Breitel, Rabin, Eager and Staley, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

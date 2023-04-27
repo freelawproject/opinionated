@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"145\" lastpage=\"145\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Brenda VAGLE, Respondent Below, Appellant,<br/> v.<br/> DIVISION OF FAMILY SERVICES and Office of Child Advocate Petitioners Below, Appellees.</parties>\n<docketnumber id=\"p-2\">No. 482, 2018</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<decisiondate id=\"p-4\">Submitted: March 6, 2019<br/> Decided: April 22, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"145\" lastpage=\"145\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Brenda VAGLE, Respondent Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    DIVISION OF FAMILY SERVICES and Office of Child Advocate Petitioners Below, Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 482, 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted: March 6, 2019\n    <br/>\n    Decided: April 22, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

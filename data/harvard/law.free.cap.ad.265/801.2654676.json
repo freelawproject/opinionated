@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b865-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AjG\">October, 1942.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AxHY\">(October 2, 1942.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b865-5\">Ward Brower et al., Respondents, v. William G. Brooks, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Afin\">No opinion. Present \u2014 Martin, P. J., Townley, Glennon, Untermyer and Dore, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

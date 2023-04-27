@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b854-2\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A79k\">March, 1985</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A2r6\">(March 4, 1985)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A1lC\">S. Wallace Kagan et al., Appellants, v Morton Alpert et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A42A\">\u2014 Motion to dismiss appeal granted, without costs. We are of the view that plaintiffs\u2019 motion was actually one for reargument, not renewal, since plaintiffs failed to present any additional material facts which existed at the time the prior motions were made but were not then known to the plaintiffs (see, <em>Smith v Smith, </em>97 AD2d 932). Since the denial of a motion for reargument is not appealable, the appeal must be dismissed (see, <em>Roy v National Grange Mut. Ins. Co., </em>85 4-D2d 832). Kane, J. P., Main, Casey, Mikoll and Levine, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

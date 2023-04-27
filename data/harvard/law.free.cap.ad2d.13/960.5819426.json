@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1016-9\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AMkl\">June, 1963</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AtOM\">(June 1, 1961)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AQkL\">In the Matter of John C. Krause, Sr., Respondent, v. Wilfred Reape, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAfX\">Motion by appellant to extend his time to answer the petition, pending appeal, granted to the extent of extending appellant\u2019s time until 10 days after entry of the order hereon; otherwise denied. Nolan, P. J., Beldock, Kleinfeld, Christ and Pette, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

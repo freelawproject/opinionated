@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"665\" lastpage=\"665\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b725-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A8c\">February, 1945.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b725-5\">(February 1, 1945.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b725-6\">The People of the State of New York <em>ex </em>rel. Irving Chudnowsky, Relator, against Warden of City Prison, 149 Ashland Place, Brooklyn, New York, Defendant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQi\">Return on writ of habeas corpus. Bail reduced to $25,000, writ dismissed and the relator remanded to custody. Present \u2014 Close, P. J., Hagarty, Adel and Lewis, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

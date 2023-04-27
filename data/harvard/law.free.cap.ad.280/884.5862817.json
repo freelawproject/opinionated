@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"884\" lastpage=\"884\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b920-10\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AcAt\">September, 1952.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b920-11\">(September 30, 1952.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b920-13\">In the Matter of Milton M. Bergerman, Individually and as Chairman of the Citizens Union of the City of New York, Appellant, against John A. Byrnes, as Chief Justice of the City Court of the City of New York, et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-my\">Order unanimously affirmed, with one bill of $20 costs and disbursements to the respondents. No opinion. Present \u2014 Peck, P. J., Dore, Cohn and Callahan, JJ. [See <em>post, </em>p. 931.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

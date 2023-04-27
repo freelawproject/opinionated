@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"686\" lastpage=\"686\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  SMITH, C.\n  <br/>\n  v.\n  <br/>\n  PBPP\n </parties>\n <docketnumber id=\"p-2\">\n  1663 CD 2017\n </docketnumber>\n <court id=\"p-3\">\n  Commonwealth Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  March 14, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Amended petition to withdraw as counsel is denied. Counsel to file a proper petition to withdraw and a no-merit letter or an advocate's brief.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

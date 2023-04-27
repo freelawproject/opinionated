@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"936\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b974-5\">Perfection Gear Company, Respondent, v. Corneliussen &amp; Stakgold, Inc., Appellant.</parties>\n\n<opinion><p id=\"Ap2d\">Judgment unanimously affirmed, with costs. No opinion. Present \u2014 Dore, J. P., Cohn, Breitel, Bastow and Botein, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"936\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b974-5\">Perfection Gear Company, Respondent, v. Corneliussen &amp; Stakgold, Inc., Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Ap2d\">Judgment unanimously affirmed, with costs. No opinion. Present \u2014 Dore, J. P., Cohn, Breitel, Bastow and Botein, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

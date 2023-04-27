@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"781\" lastpage=\"781\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b835-6\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AzCi\">May, 1941.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b835-7\">(May 7, 1941.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b835-8\">Mabel L. Crane, as Administratrix, etc., of Arthur Morton Crane, Jr., Appellant, v. The State of New York, Respondent.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"APOJ\">(Claim No. 24038.)</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJ38\">Motion to prosecute appeal as a poor person on typewritten record and brief granted. Present \u2014 Hill, P. J., Bliss, Heffeman, Schenck and Foster, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"715\" lastpage=\"715\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b755-5\">Third Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A13S\">June, 1956</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ad9\">(June 14, 1956)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AHBv\">In the Matter of the Claim of Matilde Alejandro, Respondent, against Ulster Vegetable Growers Co-operative, Inc., et al., Appellants, and Michael J. Mahoney et al., Respondents. Workmen\u2019s Compensation Board, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATVW\">Motion to dismiss appeal granted, by default, without costs. Present \u2014 Bergan, J. P., Coon, Halpern, Zeller and Gibson, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

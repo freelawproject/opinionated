@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"677\" lastpage=\"677\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"A-L5\">A. C. Israel Commodity Co., Inc. v. Jose E. Simao, Defendant. Banco Lisboa &amp; Acores, Respondent.</parties>\n\n<opinion><p id=\"AJuR\">Motion for stay dismissed as academic by virtue of the decisions of this court in <em>Israel Commodity Co. </em>v. <em>Simao </em>(9 A D 2d 676), and the stay contained in the order to show cause dated October 9, 1959 is vacated. Concur- \u2014 Breitel, J. P., M. M. Frank, Yalente, McNally and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"677\" lastpage=\"677\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A-L5\">A. C. Israel Commodity Co., Inc. v. Jose E. Simao, Defendant. Banco Lisboa &amp; Acores, Respondent.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AJuR\">Motion for stay dismissed as academic by virtue of the decisions of this court in <em>Israel Commodity Co. </em>v. <em>Simao </em>(9 A D 2d 676), and the stay contained in the order to show cause dated October 9, 1959 is vacated. Concur- \u2014 Breitel, J. P., M. M. Frank, Yalente, McNally and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

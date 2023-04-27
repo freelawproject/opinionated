@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"53\" lastpage=\"53\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of New Jersey, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  David HUDSON, Defendant-Respondent,\n </parties>\n <docketnumber id=\"p-2\">\n  M-620 September Term 2017\n  <br/>\n  080124\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  January 23, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   This matter having been opened on the State's motion for leave to appeal a pretrial order of the Superior Court, Law Division, and defendant's counsel having notified the Court that defendant is deceased, and the State having conceded that defendant's death moots the State's motion for leave to appeal;\n  </p>\n  <p id=\"p-7\">\n   It is hereby ORDERED that the motion for leave to appeal is dismissed as moot.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

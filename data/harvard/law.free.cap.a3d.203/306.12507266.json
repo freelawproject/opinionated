@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"306\" lastpage=\"307\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE: D.L.-P.H., et al.,</parties>\n<docketnumber id=\"p-2\">Appeal of: J.C.A-G.</docketnumber>\n<docketnumber id=\"p-3\">1426 WDA 2017</docketnumber>\n<court id=\"p-4\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-5\">December 11, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"307\" href=\"#p307\" id=\"p307\">*307</a>Vacated/Remanded</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"306\" lastpage=\"307\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE: D.L.-P.H., et al.,\n   </parties>\n   <docketnumber id=\"p-2\">\n    Appeal of: J.C.A-G.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    1426 WDA 2017\n   </docketnumber>\n   <court id=\"p-4\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-5\">\n    December 11, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Vacated/Remanded\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

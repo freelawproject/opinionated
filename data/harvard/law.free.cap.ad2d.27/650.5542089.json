@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"650\" lastpage=\"650\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b700-2\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AyQx\">January, 1967</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Af-\">(January 3, 1967)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Axp\">Oronzo Forese v. Seymour Small. (Action No. 1.) Seymour Small v. Oronzo Forese. (Action No. 2.)</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmV\">\u2014Motion to vacate, as untimely served, the notice of appeal of appellant granted unless the appellant duly files the notice of appeal, in accordance with CPLR 5515, on or before January 24, 1967. Concur\u2014\u25a0 Botein, P. J., Stevens, Steuer and Capozzoli, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

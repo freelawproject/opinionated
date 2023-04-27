@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"571\" lastpage=\"571\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b417-6\">Third Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A1b\">May, 1967</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AX-\">(May 1, 1967)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"A_k\">Marie E. Sivertsen et al., Respondents-Appellants, v. State of New York, Appellant-Respondent.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"A3ys\">(Claim No. 39986.)</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAqR\">Memorandum by the Court.</p>\n<p id=\"Adp\">Gibson, P. J., Herlihy, Reynolds, Aulisi and Gabrielli, JJ., concur in memorandum by the court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

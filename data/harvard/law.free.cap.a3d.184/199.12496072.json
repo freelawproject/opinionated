@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"199\" lastpage=\"199\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PET. OF the BORO. OF DOWNINGTWN\n </parties>\n <docketnumber id=\"p-2\">\n  26 CD 2014\n </docketnumber>\n <court id=\"p-3\">\n  Commonwealth Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  February 2, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Decision filed after Jan. 15, 2008, may be cited for persuasive, non-precedential value.\n   <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=210%20Pa.%20Code%20%C2%A7%2069.414\">\n    210 Pa. Code \u00a7 69.414\n   </extracted-citation>\n   .\n  </p>\n  <p id=\"p-7\">\n   Dismissed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

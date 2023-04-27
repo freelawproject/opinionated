@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"930\" lastpage=\"930\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b982-44\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A19b\">June, 1973</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ATa8\">(June 29, 1973) </decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AIg\">In the Matter of George J. Aspland, as District Attorney of County of Suffolk, Petitioner, v. Judges of the County Court of the County of Suffolk et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5IA\">Proceeding pursuant to article 78 of the CPLR to prohibit the respondent Judges from entering an order precluding petitioner from offering evidence on the trial of Suffolk County Indictment No. 17/73 without first disclosing to the defense the names and addresses of the complainant, his employer and the witnesses to be called on behalf of the prosecution. Application denied and proceeding dismissed, without costs. Hopkins, Acting P. J., Munder, Martuscello, Latham and Shapiro, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

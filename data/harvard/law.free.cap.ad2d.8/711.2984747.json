@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"711\" lastpage=\"711\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AH_6\">Joseph Natale, an Infant, by Oscar Natale, His Guardian ad Litem, v. Great Atlantic &amp; Pacific Tea Co.</parties>\n\n<opinion><p id=\"ABsS\">Motion for extension of time denied, but trial is stayed until June 10, 1959, on condition that the appeal is argued or submitted on May 26, 1959. Concur \u2014 Breitel, J. P., Rabin, M. M. Frank, Valente and McNally, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"711\" lastpage=\"711\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AH_6\">Joseph Natale, an Infant, by Oscar Natale, His Guardian ad Litem, v. Great Atlantic &amp; Pacific Tea Co.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"ABsS\">Motion for extension of time denied, but trial is stayed until June 10, 1959, on condition that the appeal is argued or submitted on May 26, 1959. Concur \u2014 Breitel, J. P., Rabin, M. M. Frank, Valente and McNally, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

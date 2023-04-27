@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"298\" lastpage=\"298\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">John Deegan, Michele Deegan<br/> v.<br/> Dr. Sun H. Lee, Robert Wood Johnson Medical School</parties>\n<docketnumber id=\"p-2\">NOS. C-939 SEPT. TERM 2015, 077313</docketnumber>\n<court id=\"p-3\">Supreme Court of New Jersey</court>\n<decisiondate id=\"p-4\">June 17, 2016</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Disposition: Denied.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"298\" lastpage=\"298\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    John Deegan, Michele Deegan\n    <br/>\n    v.\n    <br/>\n    Dr. Sun H. Lee, Robert Wood Johnson Medical School\n   </parties>\n   <docketnumber id=\"p-2\">\n    NOS. C-939 SEPT. TERM 2015, 077313\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of New Jersey\n   </court>\n   <decisiondate id=\"p-4\">\n    June 17, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Disposition: Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

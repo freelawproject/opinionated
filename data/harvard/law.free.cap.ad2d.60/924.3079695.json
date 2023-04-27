@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"924\" lastpage=\"924\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b970-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Ajri\">January, 1978</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQm\">(January 5, 1978)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AO0\">The People of the State of New York, Respondent, v Charles Cannavino, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AN6C\">Motion by appellant to strike copy of Grand Jury minutes submitted with respondent\u2019s brief and for other relief, denied, without costs (see <em>People v Longo, </em>39 AD2d 633). Mahoney, P. J., Greenblott, Sweeney, Kane and Mikoll, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

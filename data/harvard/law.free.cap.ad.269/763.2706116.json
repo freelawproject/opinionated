@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"763\" lastpage=\"763\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b823-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ADHv\">May, 1945.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b823-5\">(May 2, 1945.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b823-6\">The People of the State of New York ex rel. Balbrook Realty Corporation and Ely Kahn et al., as Trustees in Liquidation of Balbrook Realty Corporation, against William W. Mills et al., Constituting the Tax Commission of the City of New York. City Bank Farmers Trust Company et al.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AuAC\">Motion for leave to appeal to the Court of Appeals denied, with $10 costs. Present \u2014 Martin, P. J., Townley, G-lennon, Cohn and Callahan, JJ. [See <em>ante, </em>p. 743.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

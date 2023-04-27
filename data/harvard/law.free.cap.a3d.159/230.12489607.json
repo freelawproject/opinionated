@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"230\" lastpage=\"230\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">ALICE M.<br/> v.<br/> DOUGLAS M.</parties>\n<court id=\"p-2\">Supreme Court of Connecticut.</court>\n<decisiondate id=\"p-3\">Decided April 12, 2017</decisiondate>\n<p id=\"p-4\">Douglas M., self-represented, in support of the petition.</p>\n\n<opinion type=\"majority\"><p id=\"p-5\">The defendant's petition for certification for appeal from the Appellate Court is dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"230\" lastpage=\"230\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    ALICE M.\n    <br/>\n    v.\n    <br/>\n    DOUGLAS M.\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Connecticut.\n   </court>\n   <decisiondate id=\"p-3\">\n    Decided April 12, 2017\n   </decisiondate>\n   <attorneys id=\"p-4\">\n    Douglas M., self-represented, in support of the petition.\n   </attorneys>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     The defendant's petition for certification for appeal from the Appellate Court is dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

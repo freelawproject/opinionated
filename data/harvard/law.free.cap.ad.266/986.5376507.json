@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"986\" lastpage=\"986\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1062-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AWivc\">November, 1943.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1062-5\">(November 1, 1943.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1062-6\">In the Matter of Thomas A. Aurelio (Also Known as Thomas Anthony Aurelio), an Attorney.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1062-9\">Per <em>Curiam.</em></author>\n<p id=\"A-R9\">Motion to confirm, the report of the referee [see <em>ante, </em>p. 958] granted and the proceeding dismissed for the reasons stated in the report of the referee.</p>\n<p id=\"b1062-10\">Present \u2014 Townley, Glennon, Dore and Callahan, JJ.</p>\n<p id=\"b1062-11\">Motion to confirm report of referee granted and the proceeding dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

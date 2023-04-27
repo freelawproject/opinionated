@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"987\" lastpage=\"987\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1055-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AuTO\">July, 1959</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXuc\">(July 13, 1959)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"AZMg\">William Wager, Appellant, v. State of New York, Respondent.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"AMbh\">(Claim No. 31236.)</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXnGJ\">Ordered settled and signed. Motion by claimant-appellant for reargument adjourned on the application of the Attorney-General until September 21, 1959. Bergan, J. P., Coon, Gibson, Herlihy and Reynolds, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

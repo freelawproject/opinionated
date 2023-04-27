@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"501\" lastpage=\"501\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b395-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A2b\">April 1985</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJR\">(April 2, 1985)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AcX\">In the Matter of Candee Brody, Respondent. Ronald Bricke &amp; Associates, Inc., Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AA7I\">Concur \u2014 Murphy, P. J., Ross, Lynch and Milonas, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

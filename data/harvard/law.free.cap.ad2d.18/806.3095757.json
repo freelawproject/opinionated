@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"806\" lastpage=\"806\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b744-3\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AvJJ\">January, 1963</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AI9X\">(January 4, 1963)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ApE\">In the Matter of Standardbred Owners Association, Inc., Respondent, v. Yonkers Raceway, Inc., Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOjQ\">Motion by appellant for a stay, pending appeal, denied. Beldock, P. J., Ughetta, Brennan, Hill and Rabin, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

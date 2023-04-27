@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"691\" lastpage=\"691\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b727-5\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Ait\">June, 1970</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A6x\">(June 25, 1970)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A_X\">In the Matter of Marilyn Grey, Petitioner, v. Jefferson County Court et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b727-12\"> Not printed with other decisions of June 25,1970, 34 A D 2d 1084. [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AWS\">Present \u25a0\u2014 Goldman, P. J., Del Yecchio, Witmer, Gabrielli and Bastow, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

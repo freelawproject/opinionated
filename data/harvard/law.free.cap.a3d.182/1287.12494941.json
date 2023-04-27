@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1287\" lastpage=\"1287\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Diane LAPSLEY, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  TOWNSHIP OF SPARTA, Defendant-Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  M-1501 September Term 2016\n  <br/>\n  078883\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  July 20, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for leave to appeal is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

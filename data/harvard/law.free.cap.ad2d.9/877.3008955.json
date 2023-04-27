@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"877\" lastpage=\"877\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AWWz\">In the Matter of Paul Greene.</parties>\n\n<opinion><p id=\"Apqc\">Motion granted. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"877\" lastpage=\"877\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AWWz\">In the Matter of Paul Greene.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Apqc\">Motion granted. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

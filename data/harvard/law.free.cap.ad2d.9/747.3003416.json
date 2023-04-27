@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"747\" lastpage=\"747\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"A1hL\">Nathan Teplitsky v. Louis Kamensky et al. Joseph Simonowitz et al., v. J. S. Garlick, Inc., et al.</parties>\n\n<opinion><p id=\"A3f8\">Motion for leave to appeal to the Court of Appeals denied, with $10 costs. Concur \u2014 Botein, P. J., Breitel, McNally, Stevens and Bastow, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"747\" lastpage=\"747\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A1hL\">Nathan Teplitsky v. Louis Kamensky et al. Joseph Simonowitz et al., v. J. S. Garlick, Inc., et al.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A3f8\">Motion for leave to appeal to the Court of Appeals denied, with $10 costs. Concur \u2014 Botein, P. J., Breitel, McNally, Stevens and Bastow, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

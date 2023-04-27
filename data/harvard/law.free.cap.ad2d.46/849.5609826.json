@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"849\" lastpage=\"849\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b889-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AGid\">July, 1974</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AOc\">(July 19, 1974)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AAex\">The People of the State of New York ex rel. Leslie Green, Petitioner, v. Superintendent, Green Haven Correctional Facility, Respondent.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b889-10\"> Not published with other decisions of July, 1974, 45 A D 2d 838. [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AJdv\">Application by petitioner for a writ of habeas corpus denied. Gulotta, P. J., Hopkins', Martusceljo, Latham and Shapiro, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

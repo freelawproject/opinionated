@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"921\" lastpage=\"921\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AGaG\">Estela B. Sanguinetti v. Alberto A. Sanguinetti.</parties>\n\n<opinion><p id=\"Aba5\">Motion for stay granted and the appeals are stricken from the Enumerated Calendar of this court for the June 1960 Term, unless the appellant complies fully with the order of this court entered June 30, 1959, and the order of the Supreme Court, New York County, entered July 14, 1959; on or before May 27, 1960. Concur \u2014 Botein, P. J., Breitel, Rabin, Yalente and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"921\" lastpage=\"921\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AGaG\">Estela B. Sanguinetti v. Alberto A. Sanguinetti.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Aba5\">Motion for stay granted and the appeals are stricken from the Enumerated Calendar of this court for the June 1960 Term, unless the appellant complies fully with the order of this court entered June 30, 1959, and the order of the Supreme Court, New York County, entered July 14, 1959; on or before May 27, 1960. Concur \u2014 Botein, P. J., Breitel, Rabin, Yalente and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

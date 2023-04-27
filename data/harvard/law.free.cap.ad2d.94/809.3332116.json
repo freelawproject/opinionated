@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"AiPN\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AaOs\">May, 1983</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AElM\">(May 3, 1983)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AeE\">The People of the State of New York, Respondent, v John W. Ryan, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AjBD\">\u2014 Application for permission to proceed as a poor person and for assignment of counsel on appeal from an order denying defendant\u2019s application for resentencing pursuant to section 60.09 of the Penal Law. Application denied and appeal dismissed, <em>sua sponte, </em>upon the ground that the order is not appealable (see <em>People v De Jesus, </em>54 NY2d 447). Mahoney, P. J., Sweeney, Main, Mikoll and Levine, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"718\" lastpage=\"718\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<otherdate data-order=\"0\" data-type=\"otherdate\" id=\"b766-12\">1823</otherdate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AXq2\">153</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b766-13\">Sup Court</court>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b766-14\">\n<em>Wm Morris vs Ezra Baldwin</em>\n</parties>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b766-16\">Filed in open Court 2nd October 1824</decisiondate>\n<p data-order=\"5\" data-type=\"summary\" id=\"b766-17\">Jer. V. R. Ten Eyck Depy Clerk</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b766-19\">\n<em>Morris vs Baldwin</em>\n</p>\n<p id=\"AUP8\">We the Jurors in this Case find that the defendant is guilty as aledged by the Plaintiffs declaration therefore find a ver-diet for the Plaintiff. Jury Room 2nd Oc1 1824</p>\n<p id=\"b766-22\">John Howard foreman</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

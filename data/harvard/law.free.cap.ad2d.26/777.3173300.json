@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"777\" lastpage=\"777\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b829-5\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AdtN\">August, 1966</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AHWK\">(August 1, 1966)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AQX\">In the Matter of Peter J. Fiorella, Jr., Doing Business as Town and Country Club, Appellant, v. Donald S. Hostetter et al., Constituting the State Liquor Authority, Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Adqs\">Motion for modification of decision [25 A D 2d 801] dated April 29, 1966 denied, without costs. Gibson, P. J., Herlihy, Reynolds, Taylor and Aulisi, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"709\" lastpage=\"709\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"ABa-\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Aq8G\">November, 1956</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJH\">(November 13, 1956)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AaOY\">In the Matter of Seaberg Elevator Co., Inc., Petitioner, against Louis L. Friedman, Justice of the Supreme Court, State of New York, County of Kings, Respondent.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b743-12\"> Not published with other decisions of Hov. 13, 1956, 2 A D 2d 892 and Feb. 11, 1957, 3 A D 2d 714. \u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AXn_\">Application to dismiss petition granted, with $25 costs and disbursements. Present \u2014 Nolan, P. J., Wenzel, Beldock, Murphy and Hallinan, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

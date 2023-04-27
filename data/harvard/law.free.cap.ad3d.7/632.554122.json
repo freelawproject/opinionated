@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"632\" lastpage=\"632\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"Abf\">In the Matter of Joseph Westervelt, Appellant, v Zoning Board of Appeals of the Town of Woodbury, Respondent.</parties>\n\n<opinion><p id=\"b542-5\">[This opinion has been withdrawn from publication at 7 AD3d 632 by the State Reporter and republished at 7 AD3d 964.]</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"632\" lastpage=\"632\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Abf\">In the Matter of Joseph Westervelt, Appellant, v Zoning Board of Appeals of the Town of Woodbury, Respondent.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b542-5\">[This opinion has been withdrawn from publication at 7 AD3d 632 by the State Reporter and republished at 7 AD3d 964.]</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

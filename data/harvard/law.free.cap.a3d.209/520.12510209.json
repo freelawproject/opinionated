@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"520\" lastpage=\"520\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">ADOPTION OF I.A.I.R.,</parties>\n<docketnumber id=\"p-2\">Appeal of: N.R.</docketnumber>\n<docketnumber id=\"p-3\">2104 EDA 2018</docketnumber>\n<court id=\"p-4\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-5\">January 23, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed - Application to Withdraw as Counsel Granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"520\" lastpage=\"520\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    ADOPTION OF I.A.I.R.,\n   </parties>\n   <docketnumber id=\"p-2\">\n    Appeal of: N.R.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    2104 EDA 2018\n   </docketnumber>\n   <court id=\"p-4\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-5\">\n    January 23, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed - Application to Withdraw as Counsel Granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

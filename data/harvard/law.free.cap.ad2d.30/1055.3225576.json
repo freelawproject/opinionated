@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1055\" lastpage=\"1055\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1115-7\">First Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A4HY\">June, 1968</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJf\">(June 27, 1968) <footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1115-8\">In the Matter of Sidney Felber.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b1115-9\"> Not published with other decisions of June 27, 1968, 30 A D 2d 658\u2014[Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"ATtf\">Motion for reinstatement denied. Concur \u2014 Steuer, J. P., Capozzoli, Tilzer, McGivern and Rabin, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

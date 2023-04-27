@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"997\" lastpage=\"997\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b1045-5\">Lawrence W. Carney, Appellant, v. Anthony Taddeo, Respondent.</parties>\n\n<opinion><p id=\"AsVM\">Judgment affirmed, without costs of this appeal to either party. All concur. (Appeal from a judgment of Monroe Trial Term for defendant for no cause of action in a negligence action.) Present \u2014 McCurn, P. J., Vaughan, Kimball, Wheeler and Van Duser, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"997\" lastpage=\"997\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1045-5\">Lawrence W. Carney, Appellant, v. Anthony Taddeo, Respondent.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AsVM\">Judgment affirmed, without costs of this appeal to either party. All concur. (Appeal from a judgment of Monroe Trial Term for defendant for no cause of action in a negligence action.) Present \u2014 McCurn, P. J., Vaughan, Kimball, Wheeler and Van Duser, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

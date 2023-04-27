@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"A1eS\">The People of the State of New York, Plaintiff, v. Kenson D. Merrill, Arthur J. Calace, Jr., and Carl H. Hoffman, Defendants.</parties>\n\n<opinion><p id=\"AqMG\">Motion by defendant Calace to dismiss an indictment returned by the Grand Jury of the Extraordinary Special and Trial Term of the Supreme Court of Suffolk County denied. Present \u2014 Wenzel, Acting P. J., Beldock, Hallinan and Kleinfeld, JJ,; Murphy, J., deceased.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A1eS\">The People of the State of New York, Plaintiff, v. Kenson D. Merrill, Arthur J. Calace, Jr., and Carl H. Hoffman, Defendants.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AqMG\">Motion by defendant Calace to dismiss an indictment returned by the Grand Jury of the Extraordinary Special and Trial Term of the Supreme Court of Suffolk County denied. Present \u2014 Wenzel, Acting P. J., Beldock, Hallinan and Kleinfeld, JJ,; Murphy, J., deceased.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"987\" lastpage=\"987\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b1035-19\">Luigi Casella, Respondent, v. Arnold Mosher et al., Doing Business as Arnold Mosher and Son, Appellants.</parties>\n\n<opinion><p id=\"AKTT\">Motion to dismiss appeal granted, by default. Present \u2014 Bergan, J. P., Coon, Halpern, Imrie and Zeller, JJ.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"987\" lastpage=\"987\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1035-19\">Luigi Casella, Respondent, v. Arnold Mosher et al., Doing Business as Arnold Mosher and Son, Appellants.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AKTT\">Motion to dismiss appeal granted, by default. Present \u2014 Bergan, J. P., Coon, Halpern, Imrie and Zeller, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

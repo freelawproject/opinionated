@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"884\" lastpage=\"884\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"Ahcn\">Public Administrator of New York County, as Administrator of the Estate of Salvatore Frieri, Deceased, Respondent, v. Vincente Gallo et al., Appellants.</parties>\n\n<opinion><p id=\"A0Im\">Order unanimously affirmed, with $20 costs and disbursements to the respondent. No opinion. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"884\" lastpage=\"884\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Ahcn\">Public Administrator of New York County, as Administrator of the Estate of Salvatore Frieri, Deceased, Respondent, v. Vincente Gallo et al., Appellants.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A0Im\">Order unanimously affirmed, with $20 costs and disbursements to the respondent. No opinion. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

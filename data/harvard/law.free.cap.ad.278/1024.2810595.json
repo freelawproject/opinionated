@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1024\" lastpage=\"1024\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1074-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Ahyt\">September, 1951.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1074-5\">(September 18, 1951.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b1074-7\">Maurice Block, Appellant, v. Julius Kahn, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACCl\">Appeal by-plaintiff from an order granting defendant\u2019s motion for a severance of two causes of action set out in the amended complaint and directing a separate trial thereof. Order affirmed, with $10 costs and disbursements. No opinion. Carswell, Acting P. J., Adel, Sneed, Wenzel and MacCrate, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

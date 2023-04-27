@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"921\" lastpage=\"921\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"An9X\">In the Matter of Carol Greitzer, Appellant, against James M. Power et al., Constituting the Board of Elections of the City of New York, Respondents.</parties>\n\n<opinion><p id=\"AF8d\">Motion for leave to appeal on original record and typewritten or mimeographed appellant\u2019s points granted. Concur \u2014 Botein, P. J., Breitel, Rabin, Yalente and McNally, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"921\" lastpage=\"921\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"An9X\">In the Matter of Carol Greitzer, Appellant, against James M. Power et al., Constituting the Board of Elections of the City of New York, Respondents.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AF8d\">Motion for leave to appeal on original record and typewritten or mimeographed appellant\u2019s points granted. Concur \u2014 Botein, P. J., Breitel, Rabin, Yalente and McNally, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

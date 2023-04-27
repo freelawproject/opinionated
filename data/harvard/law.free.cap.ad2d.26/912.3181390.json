@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b964-20\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"A_Ax\">November, 1966</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AHC\">(November 3, 1966)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Aur2\">The People of the State of New York, Respondent, v. Harold Walker, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-VG\">Order, entered on April 8, 1965, unanimously affirmed. The appeal from the order entered on June 2, 1965 is dismissed since the order so entered is nonappealable. No opinion. Concur \u2014 Breitel, J. P., Rabin, McNally, Steuer and Capozzoli, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

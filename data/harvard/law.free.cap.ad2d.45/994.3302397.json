@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"994\" lastpage=\"994\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1036-73\">\u2022Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AfDf\">November, 1973</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AUY\">(November 1, 1973) </decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Auny\">The People of the State of New York ex rel. Theodore Baker, Petitioner, v. Warden, Brooklyn House of Detention for Men, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ASX9\">Application by petitioner for a writ of habeas corpus, denied. In our opinion, a two-month delay between arrest and trial does not, as a matter of law, deny a speedy trial to a defendant charged with murder. Hopkins, Acting P. J., Munder, Martuseello, Latham and Shapiro, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

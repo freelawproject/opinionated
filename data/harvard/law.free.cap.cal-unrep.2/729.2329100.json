@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"729\" lastpage=\"729\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b731-8\">KAHN v. BOARD OF SUPERVISORS OF CITY AND COUNTY OF SAN FRANCISCO.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b731-9\">No. <em>11,765;</em></docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AFmB\">December 22, 1886.</decisiondate>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b731-10\">12 Pac. 478.</citation>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b731-11\">D. M. Delmas for petitioner; John L. Love and P. G. Gal-pin for respondent.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b731-12\">By the COURT.</author>\n<p id=\"AiW\">On the authority of Kahn v. Bauer, ante, p. 728 (No. 11,764, this day decided), motion denied, with leave to respondent to answer within ten days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

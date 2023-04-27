@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"730\" lastpage=\"730\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b772-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"Apk\">May, 1980</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AoUM\">(May 1, 1980)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ABm\">The People of the State of New York, Respondent, v Clifford Griffith, Also Known as Clifford Griff, Also Known as Carlton Griffith, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Axl\">Upon the remittitur of the Court of Appeals, judgment of the Supreme Court, New York County, rendered on September 10, 1976, unanimously affirmed. No opinion. Concur\u2014Murphy, P. J., Birns, Sullivan, Lupiano and Silverman, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

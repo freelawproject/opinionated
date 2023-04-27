@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"655\" lastpage=\"655\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b651-6\">Third Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AA8t\">July, 1965</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AoeO\">(July 2, 1965)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A3v\">The People of the State of New York, Respondent, v. Vincent Glover, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ad3\">Motion for permission to proceed as a poor person and assignment of counsel upon appeal from judgment rendered in Albany County Court on March 10,1947, denied, and appeal dismissed. (See <em>People </em>v. <em>Webster, </em>12 N Y 2d 1019.) Gibson, P. J., Reynolds, Taylor, Aulisi and Hamm, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

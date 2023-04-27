@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1028\" lastpage=\"1028\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">RILEY, V.<br/> v.<br/> WELLS FARGO BANK</parties>\n<docketnumber id=\"p-2\">593 EDA 2017</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">August 27, 2018<br/> Reargument Denied October 31, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Quashed</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1028\" lastpage=\"1028\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    RILEY, V.\n    <br/>\n    v.\n    <br/>\n    WELLS FARGO BANK\n   </parties>\n   <docketnumber id=\"p-2\">\n    593 EDA 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    August 27, 2018\n    <br/>\n    Reargument Denied October 31, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Quashed\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

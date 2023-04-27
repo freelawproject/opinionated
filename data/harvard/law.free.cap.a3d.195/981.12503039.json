@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"981\" lastpage=\"981\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">COM.<br/> v.<br/> ROHADES, C.</parties>\n<docketnumber id=\"p-2\">1708 EDA 2017</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">August 8, 2018<br/> Reargument Denied October 19, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Vacated/Remanded</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"981\" lastpage=\"981\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    COM.\n    <br/>\n    v.\n    <br/>\n    ROHADES, C.\n   </parties>\n   <docketnumber id=\"p-2\">\n    1708 EDA 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    August 8, 2018\n    <br/>\n    Reargument Denied October 19, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Vacated/Remanded\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

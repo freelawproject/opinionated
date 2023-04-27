@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"719\" lastpage=\"719\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b759-4\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"ADn\">October, 1974</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A5U\">(October 18, 1974)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AAV8\">In the Matter of the Arbitration between Judy L. McGloin et al., Respondents, and State Farm Mutual Automobile Insurance Company, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A42\">Upon stipulation of the parties, order unanimously reversed, without costs, and motion for stay of arbitration granted pending trial. (Appeal from order of Erie Special Term denying motion to stay arbitration.) Present \u2014 Marsh, P.J., Cardamone, Simons, Mahoney and Del Vecchio, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

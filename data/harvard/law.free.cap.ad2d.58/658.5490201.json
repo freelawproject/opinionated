@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"658\" lastpage=\"658\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"A6p\">The People of the State of New York, Respondent, v Rosendo Torres, Appellant.</parties>\n\n<opinion><p id=\"Aaxk\">Two judgments of the Supreme Court, Kings County, both rendered September 12, 1976, affirmed. No opinion. Application by appellant\u2019s counsel to withdraw as counsel granted (see <em>Anders v California, </em>386 US 738; <em>People v Paige, </em>54 AD2d 631). Hopkins, J. P., Margett, Shapiro and Suozzi, JJ., concur.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"658\" lastpage=\"658\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A6p\">The People of the State of New York, Respondent, v Rosendo Torres, Appellant.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Aaxk\">Two judgments of the Supreme Court, Kings County, both rendered September 12, 1976, affirmed. No opinion. Application by appellant\u2019s counsel to withdraw as counsel granted (see <em>Anders v California, </em>386 US 738; <em>People v Paige, </em>54 AD2d 631). Hopkins, J. P., Margett, Shapiro and Suozzi, JJ., concur.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

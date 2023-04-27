@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"651\" lastpage=\"651\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b703-5\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Arp\">December, 1952.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b703-6\">(December 2, 1952.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b703-8\">In the Matter of the Arbitration between Trustees of Columbia University in the City of New York, Respondents, and Thomas Phillips, as President of Local Union No. 241, Transport Workers Union of America, C. I. O., Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AroB\">Order unanimously affirmed, with $20 costs and disbursements to the respondents. No opinion. Present\u2014 Peck, P. J., Dore, Cohn and Callahan, JJ. [See <em>post, </em>p. 814.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

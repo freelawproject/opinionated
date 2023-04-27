@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1026\" lastpage=\"1026\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1068-6\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AHxF\">November, 1957</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AoT8\">(November 8, 1957)*</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AmM\">In the Matter of the People of the State of New York ex rel. Robert M. Blakney et al., Petitioners, against Charles B. Brasser, as a Justice of the Supreme Court, et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWvz\">Motion to vacate order entered September 23, 1957 and for other relief denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"805\" lastpage=\"805\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b651-5\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AjIo\">June, 1967</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AYN\">(June 15, 1967)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AkFW\">In the Matter of Paul Sporn, Petitioner, v. Board of Trustees of the State University of New York, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AG7G\">Present \u2014 Bastow, J. P., Goldman, Henry, Del Vecehio and Marsh, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

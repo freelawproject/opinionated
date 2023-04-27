@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1118\" lastpage=\"1118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1166-17\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AhV\">May, 1955.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A76S\">(May 3, 1955.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1166-19\">John De Mare, Respondent, v. Telecoin Corporation et al., Appellants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ay3T\">Judgment unanimously affirmed, with costs. No opinion. Present \u2014 Peck, P. J., Cohn, Callahan, Bastow and Botein, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"734\" lastpage=\"735\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Tyrone LAMPKIN, Appellant\n  <br/>\n  v.\n  <br/>\n  COMMONWEALTH of Pennsylvania, Pennsylvania Board of Probation and Parole, Appellee\n </parties>\n <docketnumber id=\"p-2\">\n  No. 25 EAP 2018\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  February 20, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Tyrone Lampkin, NE-3613, SCI Dallas, 1000 Follies Road, Dallas, PA 18612-0286, pro se.\n </attorneys>\n <attorneys id=\"p-6\">\n  Alan Matthew Robinson, Timothy Paul Keating, PA Board of Probation and Parole, 1101 South Front Street, Suite 5100, Harrisburg, PA 17104-2517, for Appellee.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM\n  </author>\n  <p id=\"p-9\">\n   <strong>\n    AND NOW,\n   </strong>\n   this 20th day of February, 2019, the order of the Commonwealth Court is\n   <strong>\n    AFFIRMED\n   </strong>\n   .\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

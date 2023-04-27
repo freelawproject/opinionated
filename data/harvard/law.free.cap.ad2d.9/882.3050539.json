@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"882\" lastpage=\"882\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"AI4\">Carl Berkowitz v. William Stroud et al.</parties>\n\n<opinion><p id=\"AGRH\">Motion to dismiss appeal granted, with $10 costs, unless the appellants procure the record on appeal and appellants\u2019 points to be served and filed on or before January 5, 1960, with notice of argument for the February 1960 Term of this court, said appeal to be argued or submitted when reached. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"882\" lastpage=\"882\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AI4\">Carl Berkowitz v. William Stroud et al.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AGRH\">Motion to dismiss appeal granted, with $10 costs, unless the appellants procure the record on appeal and appellants\u2019 points to be served and filed on or before January 5, 1960, with notice of argument for the February 1960 Term of this court, said appeal to be argued or submitted when reached. Concur \u2014 Botein, P. J., Breitel, M. M. Frank, Valente and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

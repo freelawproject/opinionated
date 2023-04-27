@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"655\" lastpage=\"655\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b709-6\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ACI_\">January, 1962</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ATNG\">(January 2,1962)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AEC\">Benjamin Schwartz, Appellant, v. George Perlman et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AP5o\">Motion by appellant for a stay, pending appeal. Motion denied. Beldock, P. J., Ughetta, Kleinfeld, Christ and Brennan, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"88\" lastpage=\"88\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  John B. CROUSE\n  <br/>\n  v.\n  <br/>\n  Tamara S. COX\n </parties>\n <docketnumber id=\"p-2\">\n  AC 38462\n </docketnumber>\n <court id=\"p-3\">\n  Appellate Court of Connecticut.\n </court>\n <otherdate id=\"p-4\">\n  Submitted on briefs May 23, 2017\n  <br/>\n  Officially released July 4, 2017\n </otherdate>\n <attorneys id=\"p-5\">\n  John B. Crouse, self-represented, the appellant (plaintiff) filed a brief.\n </attorneys>\n <judges id=\"p-6\">\n  Sheldon, Beach and Harper, Js.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-8\">\n   The judgment of dismissal is vacated. The case is remanded for further proceedings, without prejudice to the filing of a motion for summary judgment.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

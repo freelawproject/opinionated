@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"82\" lastpage=\"82\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Nathaniel R. GARVIN &amp; TeJuan Terrell Jacobs\n  <br/>\n  v.\n  <br/>\n  UNITED STATES\n </parties>\n <docketnumber id=\"p-2\">\n  14-CF-533\n  <br/>\n  14-CF-624\n </docketnumber>\n <court id=\"p-3\">\n  District of Columbia Court of Appeals.\n </court>\n <decisiondate id=\"p-4\">\n  November 17, 2016\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Vacated, in part; affirmed, in part.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

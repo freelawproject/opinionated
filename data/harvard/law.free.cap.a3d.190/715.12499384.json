@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"715\" lastpage=\"715\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">COM.<br/> v.<br/> COLON, A., Jr.</parties>\n<docketnumber id=\"p-2\">422 MDA 2017</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">April 16, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed - Application to Withdraw as Counsel Granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"715\" lastpage=\"715\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    COM.\n    <br/>\n    v.\n    <br/>\n    COLON, A., Jr.\n   </parties>\n   <docketnumber id=\"p-2\">\n    422 MDA 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 16, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed - Application to Withdraw as Counsel Granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

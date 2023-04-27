@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1044\" lastpage=\"1044\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STEINER, B.<br/> v.<br/> HOLLINGSWORTH &amp; VOSE CO.</parties>\n<docketnumber id=\"p-2\">563 EDA 2018</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">August 30, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Quashed</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1044\" lastpage=\"1044\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STEINER, B.\n    <br/>\n    v.\n    <br/>\n    HOLLINGSWORTH &amp; VOSE CO.\n   </parties>\n   <docketnumber id=\"p-2\">\n    563 EDA 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    August 30, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Quashed\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

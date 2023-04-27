@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"721\" lastpage=\"721\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b725-5\">Second Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A_x\">April, 1942.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b725-6\">(April 1, 1942.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b725-7\">The People of the State of New York ex rel. Ralph Giffone, Appellant, v. The Warden and Agent of City Prison, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aj-3\">On argument, order dismissing writ of habeas corpus reversed on the facts, writ sustained, bail fixed at the sum of $25,000, and relator remanded to the custody of the warden and agent of the city prison, Brooklyn. Lazansky, P. J., Carswell, Adol, Taylor, and Close, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

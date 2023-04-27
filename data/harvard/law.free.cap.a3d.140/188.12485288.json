@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"188\" lastpage=\"188\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Kane<br/> v.<br/> Marthage</parties>\n<docketnumber id=\"p-2\">NO. 16-168</docketnumber>\n<court id=\"p-3\">Supreme Court of Vermont</court>\n<decisiondate id=\"p-4\">May 25, 2016</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Disposition: Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"188\" lastpage=\"188\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Kane\n    <br/>\n    v.\n    <br/>\n    Marthage\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 16-168\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Vermont\n   </court>\n   <decisiondate id=\"p-4\">\n    May 25, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Disposition: Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

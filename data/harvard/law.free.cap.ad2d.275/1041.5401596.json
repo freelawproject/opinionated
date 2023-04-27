@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1041\" lastpage=\"1041\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1101-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ADsG\">October, 1949.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1101-5\">(October 3, 1949.)</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b1101-6\">Violet Brand et al., Appellants, v. City of New York, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgAO\">No opinion. Present \u2014 Nolan, P. J., Carswell, Adel, Sneed and Wenzel, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

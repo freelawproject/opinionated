@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1002\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b1050-9\">Emily S. Jackson, Appellant, v. Raleigh Associates, Inc., et al., Respondents.</parties>\n\n<opinion><p id=\"AXhB\">Order denying plaintiff\u2019s motion for summary judgment, so far as appealed from, unanimously affirmed, with $10 costs and disbursements to the respondents. No opinion. Present \u2014 Peek, P. J., Glennon, Dore, Van Voorhis and Shientag, JJ. [See 274 App. Div. 821.]</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"1002\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1050-9\">Emily S. Jackson, Appellant, v. Raleigh Associates, Inc., et al., Respondents.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AXhB\">Order denying plaintiff\u2019s motion for summary judgment, so far as appealed from, unanimously affirmed, with $10 costs and disbursements to the respondents. No opinion. Present \u2014 Peek, P. J., Glennon, Dore, Van Voorhis and Shientag, JJ. [See 274 App. Div. 821.]</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

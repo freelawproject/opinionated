@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"885\" lastpage=\"885\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b935-10\">Fourth Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Acvd\">May, 1951.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b935-11\">(May 2, 1951.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b935-13\">Robert H. Nowak, an Infant, by John J. Nowak, His Guardian ad Litem, Appellant, v. Aquinas Institute of Rochester, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADe6\">Judgment affirmed, without costs of this appeal to either party. All concur. (Appeal from a judgment dismissing the complaint in a negligence action.) Present \u2014 Taylor, P. J., McCurn, Kimball, Piper and Wheeler, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

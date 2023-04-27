@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"688\" lastpage=\"688\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"At2o\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A2N\">July, 1983</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXFy\">(July 21, 1983)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AGg\">In the Matter of David R. Singiser, as Assigned Counsel for Edward Turner, Jr., Petitioner, v M. Andrew Dwyer, Jr., as County Judge of Rensselaer County, et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b734-10\"> Not published with other decisions of July 21, 1983, 96 AD2d 644. [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"Anya\">Application, pursuant to CPLR article 78, for judgment in the nature of mandamus, denied, and petition dated June 20,1983, dismissed on the ground that this proceeding does not lie (CPLR 7801). Mahoney, P. J., Mikoll, Yesawich, Jr., Weiss and Levine, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

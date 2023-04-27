@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"301\" lastpage=\"301\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b331-4\">First Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AQI\">June, 1994</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ah7\">(June 2, 1994)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ANp\">Chi Sun Fung, Appellant, v City of New York et al., Respondents and Third-Party Plaintiffs-Respondents. Ka Hon Construction Company, Inc., Third-Party Defendant-Respondent.</parties>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AB9\">[614 NYS2d 122]</citation>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AEu\">Order, Supreme Court, New York County (Martin Schoenfeld, J.) entered on or about November 25, 1992, unanimously affirmed for the reasons stated by Schoenfeld, J., without costs and without disbursements. No opinion. Concur\u2014Murphy, P. J., Rosenberger, Kupferman and Ross, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"679\" lastpage=\"679\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"A6D2\">The People of the State of New York v. Florence Finkelstein.</parties>\n\n<opinion><p id=\"AXix\">Motion granted insofar as to enlarge appellant\u2019s time to procure the record on appeal and appellant\u2019s points to be served and filed to and including December 8, 1959, with notice of argument for the January 1960 Term of this court, said appeal to be argued or submitted when reached. Concur \u2014 Breitel, J. P., M. M. Frank, Valente, McNally and Stevens, JJ.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"679\" lastpage=\"679\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A6D2\">The People of the State of New York v. Florence Finkelstein.</parties>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AXix\">Motion granted insofar as to enlarge appellant\u2019s time to procure the record on appeal and appellant\u2019s points to be served and filed to and including December 8, 1959, with notice of argument for the January 1960 Term of this court, said appeal to be argued or submitted when reached. Concur \u2014 Breitel, J. P., M. M. Frank, Valente, McNally and Stevens, JJ.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

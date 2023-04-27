@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"589\" lastpage=\"590\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">PEOPLE<br/> v.<br/> COLBERT</parties>\n<docketnumber id=\"p-2\">S238954</docketnumber>\n<court id=\"p-3\">Supreme Court of California</court>\n<decisiondate id=\"p-4\">February 15, 2017</decisiondate>\n\n<p id=\"p-6\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"590\" href=\"#p590\" id=\"p590\">*590</a>Votes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ.</p>\n<opinion type=\"majority\"><p id=\"p-5\">Petition for review granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"589\" lastpage=\"590\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    PEOPLE\n    <br/>\n    v.\n    <br/>\n    COLBERT\n   </parties>\n   <docketnumber id=\"p-2\">\n    S238954\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of California\n   </court>\n   <decisiondate id=\"p-4\">\n    February 15, 2017\n   </decisiondate>\n   <judges id=\"p-6\">\n    Votes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ.\n   </judges>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Petition for review granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

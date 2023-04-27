@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"112\" lastpage=\"112\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Nisheea GARVIN, Individually and in Her Capacity as Next Friend for Donyhla Garvin-Turner, Defendant Below, Appellant,<br/> v.<br/> The CITY OF WILMINGTON, Plaintiff Below, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 291, 2018</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<decisiondate id=\"p-4\">Submitted: January 16, 2019<br/> Decided: February 5, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"112\" lastpage=\"112\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Nisheea GARVIN, Individually and in Her Capacity as Next Friend for Donyhla Garvin-Turner, Defendant Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    The CITY OF WILMINGTON, Plaintiff Below, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 291, 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted: January 16, 2019\n    <br/>\n    Decided: February 5, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1002-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ANG\">November, 1940.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1002-5\">(November 13, 1940.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1002-6\">Fred M. Crain, Plaintiff, v. Emanuel Weinberg and Fannie Weinberg and Others, Defendants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ay6X\">Motion to extend time within which to perfect appeal granted. Motion for stay denied. Present \u2014 Hill, P. J., Bliss, Heffeman, Sehenck and Foster, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

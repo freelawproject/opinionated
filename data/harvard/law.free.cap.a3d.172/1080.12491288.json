@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1080\" lastpage=\"1080\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of New Jersey, Plaintiff-Respondent,\n  <br/>\n  v.\n  <br/>\n  Allen ALEXANDER, a/k/a Karon Keenan, Defendant-Movant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-25L September Term 2017\n  <br/>\n  078515\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  November 2, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for a limited remand is granted, in part, and the trial court is hereby authorized to consider a motion by defendant to reduce or modify bail. The Court notes that it takes no position on the merits of any bail-related motion and also that this limited remand does not in any way stay the proceedings in the appeal pending before the Supreme Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

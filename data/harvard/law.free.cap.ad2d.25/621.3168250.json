@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"621\" lastpage=\"621\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b671-12\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AERa\">March, 1966</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Avdq\">(March 1, 1966)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AGWo\">Tishman Construction Corporation v. W-T Development Company, Inc.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKkG\">Motion for an order permitting appellant to appeal pursuant to CPLR 5514 (subd. [b]) denied, with $10 costs.</p>\n<judges id=\"A1a\">Concur \u2014 Botein, P. J., Breitel, Steuer and Staley, JJ.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"996\" lastpage=\"996\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE: ADOPTION OF: S.C.C., a Minor</parties>\n<docketnumber id=\"p-2\">399 MDA 2018</docketnumber>\n<court id=\"p-3\">Superior Court of Pennsylvania.</court>\n<decisiondate id=\"p-4\">August 14, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Application to Withdraw as Counsel Denied; Panel Jurisdiction Retained</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"996\" lastpage=\"996\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE: ADOPTION OF: S.C.C., a Minor\n   </parties>\n   <docketnumber id=\"p-2\">\n    399 MDA 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    August 14, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Application to Withdraw as Counsel Denied; Panel Jurisdiction Retained\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

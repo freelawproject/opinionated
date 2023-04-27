@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"386\" lastpage=\"386\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN the INTEREST OF: T.D.W., JR., a Minor\n </parties>\n <docketnumber id=\"p-2\">\n  Petition of: N.A.O., Mother\n </docketnumber>\n <parties id=\"p-3\">\n  In the Interest of: Y.N.S.O.-P., a Minor\n </parties>\n <docketnumber id=\"p-4\">\n  Petition of: N.A.O., Mother\n </docketnumber>\n <docketnumber id=\"p-5\">\n  No. 219 EAL 2018\n  <br/>\n  No. 220 EAL 2018\n </docketnumber>\n <court id=\"p-6\">\n  Supreme Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-7\">\n  June 26, 2018\n </decisiondate>\n <p id=\"p-8\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   <strong>\n    PER CURIAM\n   </strong>\n   .\n  </author>\n  <p id=\"p-10\">\n   AND NOW, this 26th day of June, 2018, the Petition for Allowance of Appeal is DENIED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"838\" lastpage=\"838\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b864-2\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Aqep\">January, 1985</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"APq\">(January 2, 1985)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"APh\">The People of the State of New York ex rel. C. James Lombardi, Jr., Petitioner, v Eugene S. LeFevre, as Superintendent of Clinton Correctional Facility, et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AbUm\">Application, pursuant to CPLR 7002 (subd [b], par 2) for writ of habeas corpus denied (see <em>People ex rel. Thomas v LeFevre, </em>102 AD2d 925). Main, J. P., Casey, Weiss, Mikoll and Yesawich, Jr., JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"302\" lastpage=\"302\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  FRANK MARTZ COACH CO.\n  <br/>\n  v.\n  <br/>\n  WCAB (AVILA)\n </parties>\n <docketnumber id=\"p-2\">\n  1555 CD 2015\n </docketnumber>\n <court id=\"p-3\">\n  Commonwealth Court of Pennsylvania.\n </court>\n <decisiondate id=\"p-4\">\n  April 13, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Vacated and Remanded.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

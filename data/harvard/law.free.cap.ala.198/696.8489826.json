@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"696\" lastpage=\"696\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b712-8\">EX PARTE STATE, EX REL. McGEEVER, ET AL.</parties>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b712-9\">(Two cases.)</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b712-10\">(Decided November 29, 1916.</decisiondate>\n<citation data-order=\"3\" data-type=\"citation\" id=\"ARy\">73 South. 1002.)</citation>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b712-11\">Original petition in Supreme Court.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b712-12\">W. K. Terry, Burgin &amp; Brown and Forney Johnston, for petitioner. Felix E. Blackburn, contra.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b712-13\">Per Curiam.</author>\n<p id=\"AOE\">The rule is made final for failure of the judge of the Jefferson Circuit Court to answer and the prohibition is awarded. All the Justices concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"304\" lastpage=\"304\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  VALLEY PLAZA REALTY HIGHVIEW PROPERTIES III, Frank Greek and Son, Inc., Highview Properties, I, and Tices Properties, Plaintiffs-Respondents,\n  <br/>\n  v.\n  <br/>\n  VERIZON NEW JERSEY, INC., f/k/a Bell Atlantic New Jersey, Inc., and Nynex Long Distance Company, d/b/a Verizon Enterprises, Defendant-Movant.\n </parties>\n <docketnumber id=\"p-2\">\n  M-5 September Term 2018\n  <br/>\n  081330\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-4\">\n  September 12, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It is ORDERED that the motion for leave to appeal is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

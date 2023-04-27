@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"754\" lastpage=\"755\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b788-5\">[Civ. No. 7003.</docketnumber>\n<court id=\"AmmP\">First Appellate District, Division One.</court>\n<decisiondate id=\"AJf\">July 9, 1929.]</decisiondate>\n<parties id=\"b788-6\">CITY OF OAKLAND, a Municipal Corporation, et al., Petitioners, v. HARRY G. WILLIAMS, as Auditor, etc., Respondent.</parties>\n<p id=\"b788-10\">Markell C. Baer, Port Attorney, and Hilton J. Melby, Deputy Port Attorney, for Petitioners.</p>\n\n\n<opinion type=\"majority\"><p id=\"b788-12\">No appearance for Respondent.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"754\" lastpage=\"755\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b788-5\">[Civ. No. 7003.</docketnumber>\n<court data-order=\"1\" data-type=\"court\" id=\"AmmP\">First Appellate District, Division One.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJf\">July 9, 1929.]</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b788-6\">CITY OF OAKLAND, a Municipal Corporation, et al., Petitioners, v. HARRY G. WILLIAMS, as Auditor, etc., Respondent.</parties>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b788-10\">Markell C. Baer, Port Attorney, and Hilton J. Melby, Deputy Port Attorney, for Petitioners.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"><p id=\"b788-12\">No appearance for Respondent.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

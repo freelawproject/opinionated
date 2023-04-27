@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"789\" lastpage=\"789\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b819-8\">Third Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AQN\">May, 1987</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AfgD\">(May 1, 1987)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AF9\">In the Matter of Maximino Vargas, Jr., Appellant, v Thomas A. Coughlin, as Commissioner of the New York State Department of Correctional Services, et al., Respondents.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqC\">Motion to dismiss appeal granted, without costs, on the ground that an order denying an application for an ex parte order is not appealable <em>(Matter of King v Gregorie, </em>90 AD2d 922, <em>lv dismissed </em>58 NY2d 822). Mahoney, P. J., Kane, Main, Casey and Yesawich, Jr., JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

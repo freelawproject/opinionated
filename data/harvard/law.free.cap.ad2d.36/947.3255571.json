@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"947\" lastpage=\"948\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b999-7\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AZsa\">May, 1971</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIJF\">(May 3, 1971)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AvxA\">In the Matter of Arthur B. (Anonymous), Petitioner, v. John A. Gallucci, County Judge of Rockland County, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Anle\"><page-number citation-index=\"1\" label=\"948\">*948</page-number>Rabin, P. J., Hopkins, Munder, Martuscello and Benjamin, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

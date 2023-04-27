@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"412\" lastpage=\"412\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Marcus JOHNSON, Plaintiff Below, Appellant,<br/> v.<br/> CONNECTIONS COMMUNITY SUPPORT PROGRAMS, INC., et al., Defendants Below, Appellees.</parties>\n<docketnumber id=\"p-2\">No. 426, 2017</docketnumber>\n<court id=\"p-3\">Supreme Court of Delaware.</court>\n<decisiondate id=\"p-4\">Submitted: July 19, 2018<br/> Decided: October 16, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED IN PART. REVERSED IN PART. Remanded.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"412\" lastpage=\"412\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Marcus JOHNSON, Plaintiff Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    CONNECTIONS COMMUNITY SUPPORT PROGRAMS, INC., et al., Defendants Below, Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 426, 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted: July 19, 2018\n    <br/>\n    Decided: October 16, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED IN PART. REVERSED IN PART. Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

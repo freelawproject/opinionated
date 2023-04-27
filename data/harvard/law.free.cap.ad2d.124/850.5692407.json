@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"850\" lastpage=\"850\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b788-8\">Third Department,</court>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AiDt\">November, 1986</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AgM\">(November 7, 1986)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AdMV\">The People of the State of New York v Steven M. Pierson, Defendant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQNV\">Mahoney, P. J., Kane, Casey, Weiss and Levine, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

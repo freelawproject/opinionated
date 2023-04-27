@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"914\" lastpage=\"914\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b950-27\">Second Department,</court>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AT_j\">July, 1967</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AWQC\">(July 5, 1967)<footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ASVy\">Donald P. McNamara, Appellant, v. White Plains Taxi Co., Inc., et al., Respondents.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b950-29\"> Not printed with other decisions of July 5, 1967, 28 A D 2d 846. [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AFF5\">Christ, Acting P. J., Brennan, Rabin, Hopkins and Munder, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"970\" lastpage=\"970\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b908-4\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AD-\">December, 1962 </p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b908-5\">(December 6, 1962)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A0zB\">The People of the State of New York, Respondent, v. Richard A. Lobevero, Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4m4\">Motion to dismiss appeal granted by default. Present \u2014 Bergan, P. J., Coon, Gibson, Reynolds and Taylor, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

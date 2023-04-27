@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"845\" lastpage=\"845\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  ESTATE OF Frank P. LAGANO, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  BERGEN COUNTY PROSECUTOR'S OFFICE, Defendant,\n  <br/>\n  and\n  <br/>\n  Michael Mordaga, Defendant.\n </parties>\n <parties id=\"p-2\">\n  State of New Jersey, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  $1,297,522.20, Defendant,\n  <br/>\n  and\n  <br/>\n  Estate of Frank P. Lagano, Claimant-Respondent.\n </parties>\n <docketnumber id=\"p-3\">\n  M-1245/1246/1247 September Term 2017\n  <br/>\n  081038\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  June 15, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   It is ORDERED that the motion for an extension of time within which to file a motion for leave to appeal (M-1245) is granted; and it is further\n  </p>\n  <p id=\"p-8\">\n   ORDERED that the motion for a stay (M-1246) is dismissed as moot; and it is further\n  </p>\n  <p id=\"p-9\">\n   ORDERED that the motion for leave to appeal (M-1247) is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

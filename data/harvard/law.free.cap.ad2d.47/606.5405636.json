@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"606\" lastpage=\"606\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b660-4\">Second Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AJGq\">December, 1974</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AlgU\">(December 5, 1974) </decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AGg-\">The People of the State of New York ex rel. Stanley Ford, Petitioner, v. Leon J. Vincent, as Superintendent, Green Haven Correctional Facility, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-F7\">Application by petitioner for a writ of habeas corpus, denied. Cohalan, Acting P. J., Christ, Brennan and Munder, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"853\" lastpage=\"853\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b895-15\">Third Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Apii\">September, 1963</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aps8\">(September 24, 1963) <footnotemark>*</footnotemark></decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ApZL\">The People of the State of New York, Respondent, v. Lisbon Browning, Appellant.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b895-19\"> Not published with other decisions of Sept. 24,1963,19 A D 2d 794.\u2014 [Rep.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"A_Tl\">Motion to dismiss appeal granted. [See <em>People </em>v. <em>Browning, </em>20 A D 2d 854, 21 A D 2d 700.] Present \u2014 Bergan, P. J., Coon, Herlihy, Reynolds and Taylor, JJ.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

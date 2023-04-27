@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b985-7\">First Department,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AT5A\">October, 1945.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b985-8\">(October 5, 1945.)</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b985-9\">Regal Garment Corporation et al., Respondents, v. Intercounty Properties Corp., Appellant.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AasN\">Order unanimously affirmed, with $20 costs and disbursements. No opinion. Present \u2014 Martin, P. J., Townley, Glennon, Dore and Cohn, JJ.; Cohn, J., taking no part. [See <em>post, </em>p. 979.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
