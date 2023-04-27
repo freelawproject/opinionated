@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"790\" lastpage=\"790\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b830-7\">[L. A. No. 13218.</docketnumber>\n<court data-order=\"1\" data-type=\"court\" id=\"AxD\">In Bank.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A6K\">April 3, 1933.]</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b830-8\">H. T. THOMPSON, Appellant, v. A. L. NELSON et al., Respondents.</parties>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b830-13\">J. L. Royle and Frank L. Hain for Appellants.</p>\n<p data-order=\"5\" data-type=\"attorneys\" id=\"b830-14\">M. F. McCormick, Ivan G. McDaniel, Maynard Garrison and Spencer Austrian for Respondents.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b830-15\">THE COURT.</author>\n<p id=\"b830-16\">The issues in this case are identical with those involved in <em>Martin </em>v. <em>Nelson, </em>(L. A. No. 12864) <em>ante, </em>p. 669 [20 Pac. (2d) 938], this day decided. On the authority of that case the judgment is reversed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

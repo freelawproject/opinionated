@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"789\" lastpage=\"789\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b827-7\">[Crim. No. 3236.</docketnumber>\n<court data-order=\"1\" data-type=\"court\" id=\"Alh\">In Bank.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aq9t\">May 15, 1929.]</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b827-8\">In the Matter of the Application of E. E. DUQUE for Writ of Habeas Corpus.</parties>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b827-12\">Asa V. Call and Chandler, Wright &amp; Ward for Petitioner.</p>\n<p data-order=\"5\" data-type=\"attorneys\" id=\"b827-13\">U. S. Webb, Attorney-General, and Charles A. Wetmore, Deputy Attorney-General, for Respondent.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b827-14\">THE COURT.</author>\n<p id=\"AB5\">Upon the authority of the <em>Matter of Application of Battelle for Writ of Habeas Corpus, </em>filed May 14, 1929, <em>ante, </em>p. 227 [277 Pac. 725], the order for commitment herein is vacated and the petitioner discharged.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

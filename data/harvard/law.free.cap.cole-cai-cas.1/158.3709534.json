@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"158\" lastpage=\"158\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b168-6\"><em>Clarkson </em>v. <em>Gifford.</em></parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b168-7\">HARRISON moved, on the usual affidavit, to change the venue.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b168-8\">\n<em>Evertson.</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"Akl\">This action is founded on a specialty : in suits of this sort, the court does not change the venue.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b168-9\">Harison, in reply.</attorneys>\n<p data-order=\"5\" data-type=\"legal\" id=\"Auz\">The action is on a covenant of seisin, affecting, or, as the technical phrase is, savouring of the realty.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b168-10\">Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

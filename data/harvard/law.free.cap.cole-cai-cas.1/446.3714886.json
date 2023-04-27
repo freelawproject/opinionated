@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"446\" lastpage=\"446\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b456-5\"><em>Lewis Du Boys </em>v. <em>Henry Fronk.</em></parties>\n<summary data-order=\"1\" data-type=\"headnotes\" id=\"b456-6\">SANFORD moved to change the <em>venue </em>in an action of covenant, from <em>Dutchess to Montgomery, </em>on an affidavit stating that he had a great number of witnesses, all of whom, excepting one in <em>Rensselaer, </em>resided in <em>Montgomery.</em></summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b456-7\"><em>G. Van Ness, </em>contra.</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"Ax6\">The action is transitory.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b456-8\">Kent, C. J.</author>\n<p id=\"AJS\">We last term decided, that where the body of witnesses resided in a county different from that in which the <em>venue </em>was laid, we would change it on the application of the defendant, unless the plaintiff show that he has witnesses where the <em>venue </em>is laid. Take your motion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"588\" lastpage=\"588\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b604-9\">No. 14,153.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b604-10\">Riss and Company, Inc. <em>v. </em>Spencer.</parties>\n<p data-order=\"2\" data-type=\"court\" id=\"b604-11\">(.. P. [2d] ..)</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b604-12\">Decided June 7, 1937.</decisiondate>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"ARpx\">Rehearing denied June 28, 1937.</otherdate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b604-15\">Mr. John F. Mueller, for plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b604-16\">Messrs. Moffett &amp; Hitchcock, for defendant in error.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b604-13\">Judgment affirmed in department on application for supersedeas without written opinion. Mr. Chief Justice Burke, Mr. Justice Hilliard and Mr. Justice Bakke participating.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

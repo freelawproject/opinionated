@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"61\" lastpage=\"62\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b69-8\">\n<em>[Special Term,</em>\n</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ACa\"><em>May, </em>1870.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b69-9\">The City <em>v. </em>Fitzgerald.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b69-10\">Storer, J.</author>\n<p id=\"ALB\">Action to recover rent due under a lease. The defendant demurred on the ground that there was no averment in the petition of a demand having been made. It appeared the parties-covenanted that an entry might be <page-number citation-index=\"1\" label=\"62\">*62</page-number>had for non-payment of rent without demand being first made.</p>\n<p id=\"b70-4\">In <em>Garratt </em>v. <em>Sweeney, </em>2 Disney, 601, we held, in General Term, that such a stipulation proved the necessity of a demand, on the authority of Lord Coke, in <em>Dormer\u2019s Case, </em>3 Co. 41.</p>\n<p id=\"b70-5\">Demurrer overruled.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

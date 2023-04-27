@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"460\" lastpage=\"461\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b470-11\"><em>Jackson, ex dem. Rachael Lewis and others, </em>v. <em>John Van Loon.</em></parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b470-12\">WOODWORTH moved for a commission tobe directed to persons in this state, to take the examination of witnesses in <em>Pennsylvania.</em></summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b471-2\">\n<page-number citation-index=\"1\" label=\"461\">*461</page-number>\n<em>Riggs</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"AqL\">against its being allowed, urged the direction.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b471-3\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AoO\">The act<footnotemark>*</footnotemark> does not specify, that the commissioners should live in the state to which the commission is addressed.</p>\n<p id=\"b471-4\">Take your motion.</p>\n<footnote label=\"*\">\n<p id=\"b471-13\"> For the amendment of the law, 1 <em>Rev. Laws, </em>351. <em>sec. </em>11.</p>\n</footnote>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

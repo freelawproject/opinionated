@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"344\" lastpage=\"344\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b354-6\"><em>Aaron Pell </em>v. <em>George Bunker.</em></parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b354-7\">IN this cause <em>Hawes </em>moved to vacate, in part, a commission sued out in <em>November </em>last, so as to go to trial notwithstanding, at the next circuit.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b354-8\">\n<em>D. A. Ogden</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"Aq3c\">opposed it on the ground, that eight months had not elapsed since it was issued, and relied on this as the established practice, in cases of commissions to <em>Europe.</em></p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b354-9\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AOS\">Granting the motion will do no injury; the time may or may not elapse before the cause is brought on, and it does not prevent, even then, the showing of cause further to postpone the trial.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

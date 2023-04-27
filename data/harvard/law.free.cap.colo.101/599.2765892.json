@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"599\" lastpage=\"599\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b615-4\">No. 14,186.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b615-5\">Lehrman <em>v. </em>Lehrman, Trustee, et al.</parties>\n<p data-order=\"2\" data-type=\"court\" id=\"b615-6\">(.. P. [2d] ..)</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b615-7\">Decided January 17, 1938.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b615-10\">Mr. Henley A. Calvert, for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b615-11\">Mr. Harry Behm, for defendants in error.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b615-8\">Judgment affirmed in department without written opinion, Mr. Chief Justice Burke, Mr. Justice Young, Mr. Justice Bakke and Mr. Justice Holland participating.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

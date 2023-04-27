@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"480\" lastpage=\"481\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b490-12\">Jackson, <em>ex dem. </em>Metcalfe, v. <em>Woodworth.</em></parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b490-13\">THE affidavit for judgment, as in case of nonsuit in this cause, was made by the clerk of the attorney for the defendant, and though it stated a notice for trial, it did not allege that the suit was not tried.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b491-2\"><page-number citation-index=\"1\" label=\"481\">*481</page-number><em>Weston </em>for the \"plaintiff,</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"AWF\">reli\u00e9cl' On the above circumstances as conclusive against the application.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b491-3\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AbB\">For the reasons assigned, you can take nothing by your motion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

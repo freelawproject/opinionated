@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"407\" lastpage=\"407\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b417-8\"><em>Jackson ex dem. </em>-\u2014\u2014 v. -\u2014-.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b417-9\">THE notice of motion to set aside a writ of possession, was not for the first day of term, nor for a non- enumerated day.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b417-10\"><em>Piker, </em>contra.</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"AAG\">It is bad. Though the court allows notice of a non-enumerated motion to be for another day than the first, still it ought to be for a non-enumerated day.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b417-11\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"ABc\">If the excuse is sufficient, the notice is good, though for any day, notwithstanding the court will hear it only on a non-enumerated day.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

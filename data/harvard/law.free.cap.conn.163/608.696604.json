@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"608\" lastpage=\"608\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b622-4\">Alvin R. Harris, Executor (Estate of Paul P. Harris), et al. <em>v. </em>George Novotasky</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b622-5\">House, C. J., Ryan, Shapiro, Loiselle and MacDonald, Js.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b622-6\">Argued June 7</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ABn\">decided June 8, 1972</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b622-8\"><em>Homer G. Scoville, </em>with whom, on the brief, was <em>Harvey A. Katz, </em>for the appellant (named plaintiff).</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b622-9\"><em>Snow G. Mwiford, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b622-10\">Per Curiam.</author>\n<p id=\"AO8C\">The question on this appeal involves an issue of fact, and the verdict of the jury was a result reasonably reached on a permissible view of the evidence.</p>\n<p id=\"b622-11\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

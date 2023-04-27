@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"488\" lastpage=\"488\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b504-8\">No. 14,252.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b504-9\">Fox <em>v. </em>Crowe.</parties>\n<p data-order=\"2\" data-type=\"court\" id=\"b504-10\">(... P. [2d] ...)</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b504-11\">Decided June 20, 1938.</decisiondate>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"ADmf\">Rehearing denied July 28, 1938.</otherdate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b504-14\">Mr. Howard Roephack, for plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b504-15\">Mr. A. D. Quaintahce, Mr. E. B. Evahs, for defendant in error.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b504-12\">Judgment affirmed in department without written opinion, Mr. Chief Justice Burke, Mr. Justice Bouck, Mr. Justice Young and Mr. Justice Knous participating.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

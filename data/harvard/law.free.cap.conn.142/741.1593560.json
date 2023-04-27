@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"741\" lastpage=\"742\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b755-8\">James V. Cimirro <em>v. </em>R. Brunjes, Inc.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b755-9\">Inglis, C. J., O\u2019Sullivan, Wynne, Daly and Covello, Js.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AdM\">Argued May 4</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AFH\">decided June 14, 1955</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b756-5\"><page-number citation-index=\"1\" label=\"742\">*742</page-number><em>Ernest Capozzi, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b756-6\"><em>J. Kenneth Bradley, </em>with whom, on the brief, was <em>Henry J. Lyons, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b756-7\">Pee Cueiam.</author>\n<p id=\"Auk9\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

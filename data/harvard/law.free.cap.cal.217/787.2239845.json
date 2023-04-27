@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"787\" lastpage=\"787\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b827-4\">[S. F. No. 14833.</docketnumber>\n<court data-order=\"1\" data-type=\"court\" id=\"AA7\">In Bank.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEX\">December 19, 1932.]</decisiondate>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b827-5\">J. L. R. MARSH, Petitioner, v. HARRY W. HALL, County Clerk, etc., Respondent.</parties>\n<p data-order=\"4\" data-type=\"legal\" id=\"b827-9\">Ray T. Coughlin for Petitioner.</p>\n<p data-order=\"5\" data-type=\"legal\" id=\"b827-10\">No appearance for Respondent.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b827-11\">THE COURT.</author>\n<p id=\"b827-12\">The petition for a writ of mandate in the above-entitled matter is denied on the authority of <em>Uhl </em>v. <em>Collins, </em>(S. F. No. 14793) <em>ante, </em>p. 1 [17 Pac. (2d) 99], this day filed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

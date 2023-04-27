@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"610\" lastpage=\"610\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b624-4\">Louis E. Dioguardi et al. <em>v. </em>Court of Common Council of the City of Meriden et al.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b624-5\">House, C. J., Ryan, Shapiro, Loiselle and MacDonald, Js.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AqC\">Assigned June 7</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AYQ\">decided June 13, 1972</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b624-7\">Per Curiam.</author>\n<p id=\"AsP\">No counsel for any party appeared to argue this appeal.</p>\n<p id=\"b624-8\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

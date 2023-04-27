@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"593\" lastpage=\"593\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b609-6\">No. 14,162.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b609-7\">London Mountain Gold Mining Company <em>v. </em>Ladd.</parties>\n<p data-order=\"2\" data-type=\"court\" id=\"b609-8\">(.. P. [2d] ..)</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b609-9\">Decided June 14, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b609-12\">Mr. Robert D. Elder, for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b609-13\">Mr. J. F. Little, for defendant in error.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b609-10\">Judgment affirmed en banc on application for supersedeas without written opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"442\" lastpage=\"442\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b466-4\">William Bates III et al. <em>v. </em>Hugh Whittle</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b466-5\">House, O. J., Shapiro, Loiselle, MacDonald and Bogdanski, Js.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AAU\">Argued November 7</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Acn\">decided November 14, 1973</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b466-7\"><em>Francis Carling, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b466-8\"><em>John T. Cummiskey, Jr., </em>for the appellees (named plaintiff et al.).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b466-9\">Per Curiam.</author>\n<p id=\"AFno\">The question on this appeal involves issues of fact, and the judgment was a result reasonably reached on a permissible view of the evidence. <em>Anderson </em>v. <em>D\u2019Addario, </em>158 Conn. 616, 262 A.2d 187.</p>\n<p id=\"b466-10\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

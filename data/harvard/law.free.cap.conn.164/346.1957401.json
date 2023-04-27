@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"346\" lastpage=\"346\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b370-4\">Virginia Del Rossi et al. <em>v. </em>The Hooker Hotel, Inc.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b370-6\">House, C. J., Shapiro, Loiselle, MacDonald and Bogdanski, Js.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b370-7\">Argued February 7</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A6g\">decided February 7, 1973</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b370-9\"><em>Dennis J. O\u2019Brien, </em>with whom were <em>Raymond R. Norko, </em>and, on the brief, <em>John A. Dziamba, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b370-10\"><em>Richard P. Kuzmak, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b370-11\">Per Curiam.</author>\n<p id=\"ArL\">This appeal has no merit whatsoever and the manner of its presentation is in almost complete disregard of the rules of practice.</p>\n<p id=\"b370-12\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

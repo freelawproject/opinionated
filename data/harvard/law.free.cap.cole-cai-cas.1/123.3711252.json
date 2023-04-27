@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"123\" lastpage=\"123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b133-7\">Knap, <em>Executor, </em>v. Mead.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b133-8\">THIS being the day assigned for the trial of the accord on which this suit was brought,</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b133-9\"><em>Beers </em>now moved to bring it on</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"AW0\">; but it was object - ed for the defendant, that there ought to have been a regular notice of trial of seven days, as in other cases, which had not been given.</p>\n<p data-order=\"4\" data-type=\"legal\" id=\"b133-10\">The court took time to consider how the practice ought to be settled.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b133-11\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"APG\"><em>The trial by record must hereafter always come on by a motion of four </em>days, <em>instead of the old practice of assigning a </em>time, <em>which the present rules render useless.</em></p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

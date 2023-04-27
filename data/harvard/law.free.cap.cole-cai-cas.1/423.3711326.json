@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"423\" lastpage=\"423\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b433-6\"><em>Manhattan Company </em>v. <em>Lydig.</em></parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b433-7\">HOFFMAN moved for a struck jury, on an affi - davit, stating the case to be intricate and impor-* tant.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b433-8\">\n<em>Jones</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"A7U\">contended that it was defective in not show-* ing wherein the importance or intricacy consisted.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b433-9\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"ATZ\">In all these cases the court ought to see, from the facts laid before them, that the cause is either intricate or important, and not submit themselves to the opinion of the attorney. We want something beyond his mere affidavit. The words of the statute require this. If, indeed, there be no op* position, then the motion passes, as in other cases, of course ; because the opposite party by his conduct confesses these requisites.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

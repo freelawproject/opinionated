@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"725\" lastpage=\"725\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b739-2\">Edward J. Canavan <em>v. </em>Louise C. Canavan</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b739-3\">Wynne, C. J., Baldwin, Daly, King and Murphy, Js.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b739-4\">Argued February 4</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AKC\">decided February 13, 1958</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b739-6\"><em>William K. Lawlor, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b739-7\"><em>Michael V. Blansfield, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b739-8\">Per Curiam.</author>\n<p id=\"AS_j\">The finding, which is not subject to material correction, amply supports the judgment. <em>Gowdy </em>v. <em>Gowdy, </em>120 Conn. 508, 510, 181 A. 462; <em>Medvedow </em>v. <em>Medvedow, </em>140 Conn. 698, 700, 103 A.2d 337.</p>\n<p id=\"b739-9\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

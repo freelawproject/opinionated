@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"785\" lastpage=\"785\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b823-4\">[Crim. No. 3255.</docketnumber>\n<court data-order=\"1\" data-type=\"court\" id=\"ARF\">In Bank.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AWb\">September 12, 1929.]</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b823-5\">In the Matter of the Application of J. W. MARSDEN on Habeas Corpus.</parties>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b823-9\">Herman A. Bachraek for Petitioner.</p>\n<p data-order=\"5\" data-type=\"attorneys\" id=\"b823-10\">U. S. Webb, Attorney-General, and Lionel B. Browne, Deputy Attorney-General, for Respondent.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b823-11\">THE' COURT.</author>\n<p id=\"ARhR\">\u2014  The application of the petitioner herein for relief upon <em>habeas corpus </em>is denied upon the authority of <em>In re Haines, </em>195 Cal. 605 [234 Pac. 883], The writ of <em>habeas corpus </em>is discharged and the prisoner remanded.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

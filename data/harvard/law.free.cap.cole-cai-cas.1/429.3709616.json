@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"429\" lastpage=\"429\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b439-3\"><em>Mitchell </em>v. <em>Ingersoll.</em></parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b439-5\">THE rule for assigning errors haying expired, the defendant entered a default against the plaintiff.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b439-6\"><em>Hopkins </em>moved to set it aside,</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"AKGi\">on an affidavit, stating that the transcript had been written for, and was, when the rule expired, daily expected.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b439-7\">Whiting, contra,</attorneys>\n<p data-order=\"5\" data-type=\"legal\" id=\"Aj6Z\">urged that an order to enlarge the time for assigning errors, ought to have been obtained.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b439-8\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"A_IX\">No <em>loches </em>is imputable to the plaintiff. He had reasonable grounds for expecting the transcript; let, therefore, the default be set aside on payment of costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

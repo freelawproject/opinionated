@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"6\" lastpage=\"6\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b30-8\">Robert N. Jetmore <em>v. </em>City of New London et al.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b30-9\">House, C. J., Ryan, Shapiro, Loiselle and MacDonald, Js.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b30-10\">Argued October 6</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A1M\">decided October 17, 1972</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b30-12\"><em>Joseph E. Fazzano, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b30-13\"><em>Edmund J. Eshenfelder, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b30-14\">Per Curiam.</author>\n<p id=\"A_M\">Since no finding was requested or made, this court is unable to consider the plaintiff\u2019s claim of error predicated on asserted facts and asserted conclusions of law.</p>\n<p id=\"b30-15\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

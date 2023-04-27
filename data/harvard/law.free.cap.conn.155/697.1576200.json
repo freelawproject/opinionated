@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"697\" lastpage=\"697\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b715-9\">Doris Lubin <em>v. </em>Continental Assurance Company</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b715-10\">King, C. J., Alcorn, House, Thim and Ryanj Js.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b715-11\">Argued June 14</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ahk\">decided June 14, 1967</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b715-13\"><em>Samuel M. Grushin, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b715-14\"><em>Francis J. Pavetti, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b715-15\">Per Curiam.</author>\n<p id=\"ASH6\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"52\" lastpage=\"52\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b62-4\"><em>Franklin and another </em>ads. <em>Nore.</em></parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b62-5\">ISSUE was joined during the last vacation, and before notice of trial was received, the defendant served the plaintiff with notice of a motion for a struck jury ; notwithstanding which, the plaintiff proceeded to give notice of trial, and took an inquest.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b62-6\"><em>S. Jones </em>for the defendant,</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"AJL\">moved that the verdict be set aside for irregularity.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b62-7\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AsS\">The defendant availed himself of the first opportunity in his power to apply for .a struck jury, and it was irregular for the plaintiff to proceed after receiving notice of the intended motion. Let the verdict be set aside with costs,</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

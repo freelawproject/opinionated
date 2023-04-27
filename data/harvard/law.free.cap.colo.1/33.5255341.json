@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"33\" lastpage=\"33\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b59-7\">Murdock <em>v. </em>Townsend.</parties>\n<headnotes data-order=\"1\" data-type=\"headnotes\" id=\"b59-8\">Practice <em>in swpreme court. </em>A defendant failed to join in error as required by rule of court, and the judgment was for that reason reversed.</headnotes>\n<summary data-order=\"2\" data-type=\"summary\" id=\"b59-9\"><em>Error to District </em>Court, <em>Arapahoe County.</em></summary>\n<p data-order=\"3\" data-type=\"summary\" id=\"b59-10\">The chief justice did not participate in the decision.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b59-11\">GrOBSLi\u00edTE, J.</author>\n<p id=\"AgF\">A rule having been entered in this cause requiring the defendant in error to join in error, and the said defendant having failed to conform to the requirements of said rule, the judgment in this cause must be reversed and cause remanded.</p>\n<p id=\"b59-12\">\n<em>Reversed.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

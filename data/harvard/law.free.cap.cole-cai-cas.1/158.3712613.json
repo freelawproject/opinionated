@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"158\" lastpage=\"159\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b168-14\"><em>Maria </em>Remsen, administratrix, v. <em>Joshua </em>Isaacs.</parties>\n<summary data-order=\"1\" data-type=\"headnotes\" id=\"b168-15\">MULLIGAN moved to set aside a report of refe rees for irregularity and on merits.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b169-4\"><page-number citation-index=\"1\" label=\"159\">*159</page-number><em>Woods, </em>contra.</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"Ang\">In <em>King </em>v. <em>Hughes, </em>it was determined, that if a motion be made as non-enumerated for irregularity, the ground of merits must be abandoned, though on the merits the irregularity may be insisted on.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b169-5\"><em>Per </em>Curiam.</author>\n<p id=\"A32J\">The rule is according to the decision cited. The application must be for irregularity <em>only </em>to bring it on as a. non-enumerated motion. If merits are united, it becomes enumerated.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
