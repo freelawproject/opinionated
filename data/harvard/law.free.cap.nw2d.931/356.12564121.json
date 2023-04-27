@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"356\" lastpage=\"356\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Rosa WOODS, Plaintiff-Appellant,\n  <br/>\n  and\n  <br/>\n  Rosetta Hall, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  RE INVESTMENT, INC., Defendant,\n  <br/>\n  and\n  <br/>\n  CitiFinance, Inc., CitiMortgage, Inc., and Citi, Inc., Defendants-Appellees.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158750\n  <br/>\n  COA: 338139\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  July 29, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the motion for reconsideration of this Court's April 2, 2019 order is considered, and it is DENIED, because we are not persuaded that reconsideration of our previous order is warranted. MCR 7.311(G).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"558\" lastpage=\"558\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b576-10\">Benjamin W. King, respondent, <em>v. </em>Amos A. Southwick, <em>et al., </em>appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b576-11\">Decided March 30, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AFr\">Appeal from judgment entered against both the defendants, on a verdict for $507.31, and from an order denying a motion for a new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AA\">Granger &amp; Backus, for appellants. James M. Ferguson, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AQGT\">Before Sedgwick, Ch. J., and O\u2019Gorman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Av0\">Opinion by O\u2019Gorman, J.</author>\n<p id=\"ABO\">Judgment reversed, and new trial ordered, with costs to abide the event of the action.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

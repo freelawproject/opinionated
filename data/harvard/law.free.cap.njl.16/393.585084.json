@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"393\" lastpage=\"393\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b409-4\">ANONYMOUS.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b409-5\">Matter of Practice.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b409-6\">R. S. Field, Attorney-General,</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"ARd_\">moved to discharge a rule heretofore entered by him in this case, for a struck jury; the venue having been changed from Hunterdon into Mercer county, since entering said rule; and there being no sheriff in Mercer, which has also been set off from Hunterdon since said rule was obtained.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b409-7\">' <em>Motion allowed.</em></p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

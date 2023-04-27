@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"852\" lastpage=\"853\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b724-13\">No. 84,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AU7\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Adjq\">Feeney et al. <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A3Tg\"><em>William G. Grande </em>for petitioners. <em>Solicitor General Sobeloff, Assistant Attorney </em><page-number citation-index=\"1\" label=\"853\">*853</page-number><em>General Olney, Beatrice Rosenberg </em>and <em>Isabelle Cappello </em>for the United States.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApU6\"><page-number citation-index=\"1\" label=\"852\">*852</page-number>C. A. 1st Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

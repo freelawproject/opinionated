@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b725-15\">No. 751,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A1o\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AqbD\">Goldenberg <em>v. </em>Massachusetts.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AAfT\"><em>Melvin S-. Louison </em>and <em>Leonard Louison </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AuL0\">Superior Court of Massachusetts, Bristol County. Certio-rari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

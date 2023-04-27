@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"576\" lastpage=\"577\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AaQ\">Henry Messenger, Respondent <em>v. </em>The Manhattan Railway Company, <em>et al., </em>Appellants. John Messenger, Respondent <em>v. </em>Same Defendants, Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AHey\">Decided February 13, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A1e\">Appeal by defendants' <page-number citation-index=\"1\" label=\"577\">*577</page-number>from judgment entered upon findings and decision of a judge on a trial at special term by the court without a jury.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AaX\">Davies &amp; Rapallo, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ANe\">James B. Ludlow, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AJu\">Before Sedgwick, Ch. J., Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AFE\">Per Curiam.</author>\n<p id=\"AF-\">Judgments affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

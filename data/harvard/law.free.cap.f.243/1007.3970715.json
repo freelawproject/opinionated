@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1007\" lastpage=\"1007\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1021-12\">PRINCE v. HARTMANN.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AqW8\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AcIe\">March 13, 1917.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Akb\">No. 212.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Aorm\">Appeal from the District Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AJf\">Alfred B. Nathan, of New York City (Sidney J. Loeb, of New York City, of counsel), for appellant. Edward Fillmore, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AYQ7\">Before COXE, WARD, and ROGERS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1021-13\">PER CURIAM.</author>\n<p id=\"A2k\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

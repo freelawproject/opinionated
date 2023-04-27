@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"355\" lastpage=\"355\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b371-10\">ANONYMOUS.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b371-11\">On <em>Certiorari </em>to a Justice of the Peace.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b371-12\">\n<em>Mr. Wilson</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"A5j\">moved for a rule upon the Justice, to certify what the witness testified to on the trial, and whether the subscribing witness to a paper read in evidence, was sworn on the trial, or his absence accounted for.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b371-13\"><em>Rule </em>granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"415\" lastpage=\"415\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b431-4\">ANONYMOUS.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b431-5\">Matter of Practice.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b431-6\">\n<em>Mr. Scott</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"ABG\">in behalf of G. L. Hardenbergh,</p>\n<p data-order=\"4\" data-type=\"legal\" id=\"b431-7\">Moved for a rule to stay the proceedings in this case, until the costs of a former suit in the Court of Common Pleas, be paid: an affidavit being read, that the cause of action is the same in both Courts, and that the plaintiff is insolvent, he having recently been discharged under the insolvent law.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b431-8\">Books cited. <em>Tidd\u2019s Practice, </em>5 <em>Halst. </em>59.</p>\n<p id=\"b431-9\">\n<em>Buie granted..</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

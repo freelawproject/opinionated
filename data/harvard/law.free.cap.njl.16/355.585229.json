@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"355\" lastpage=\"356\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b371-14\">ANONYMOUS.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b371-15\">Matter of Practice.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b371-16\">\n<em>Mr. Ewing</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"A3x\">moved for a rule to substitute two auditors in an <page-number citation-index=\"1\" label=\"356\">*356</page-number>attachment, in place of two who had been appointed, but who it appears are interested in the suit.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b372-5\">\n<em>Rule granted.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

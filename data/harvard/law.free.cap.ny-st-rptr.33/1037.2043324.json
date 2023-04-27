@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1037\" lastpage=\"1037\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1091-3\">Mew York Common Pleas</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AAM\">General Term.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1091-4\">Filed November 3, 1890.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1091-5\">Emile Meinecke, Resp\u2019t, v. Wm. R. De Kraft, App\u2019lt.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1091-6\">Appeal from second district court.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1091-7\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

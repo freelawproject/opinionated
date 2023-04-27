@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"987\" lastpage=\"987\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b711-6\">No. 685,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AUOI\">No. 763,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AZvk\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"AqKY\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AL0\">Morse <em>v. </em>Moore, Chief Judge; and Simunich <em>v. </em>Supreme Court of Illinois et al.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AG2Z\">Petitioners <em>pro se.</em></attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AKg\"><em>Solicitor General Rankin </em>for respondent in No. 685, Mise.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADih\">Motions for leave to file petitions for writs of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

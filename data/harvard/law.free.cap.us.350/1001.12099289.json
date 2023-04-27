@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b873-4\">No. 527,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AUty\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ATbh\">Watson <em>v. </em>California.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APNd\">Supreme</p>\n<p id=\"ACTC\">Court of California. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

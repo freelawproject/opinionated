@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1011\" lastpage=\"1011\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1043-39\">GOODYEAR TIRE &amp; RUBBER COMPANY, Inc., Plaintiff, Plaintiff in Error, v. Juan G. GALLARDO, Treasurer, Defendant, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1043-40\">Circuit Court of Appeals. First Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AkGp\">August 15, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1043-41\">Nos. 2276, 2277.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1043-43\">Before BINGHAM, JOHNSON, and ANDERSON, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1043-44\">PER CURIAM.</author>\n<p id=\"AHV\">Upon stipulation of counsel, it is ordered that this case be docketed and dismissed, and that mandate issue forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

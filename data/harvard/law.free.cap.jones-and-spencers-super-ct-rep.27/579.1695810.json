@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"579\" lastpage=\"579\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b607-5\">William Y. Mortimer, <em>et al., </em>as Executors, etc., Respondents v. The Manhattan Railway Company, Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b607-6\">Decided March 2, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Anv\">This is an appeal from a judgment entered upon a verdict of a jury, and from an order denying a motion for a new trial, and also from two other orders that were 'entered during the progress of the action.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ABC\">Davies &amp; Rapallo, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aur\">John W. Pirsson, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Aqs\">Before Truax and Dugro, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A1q_\">Per Curiam.</author>\n<p id=\"A6qB\">Judgment and orders affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

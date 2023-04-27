@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"271\" lastpage=\"271\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellant/Cross-Appellee,\n  <br/>\n  v.\n  <br/>\n  John BUTSINAS, Defendant-Appellee/Cross-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157388\n  <br/>\n  COA: 327799\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  April 6, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   By order of Chief Justice, the motion of defendant-appellee/cross-appellant to file a cross application for leave to appeal that exceeds the page limitation is GRANTED. The cross application submitted on April 4, 2018, is accepted for filing.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

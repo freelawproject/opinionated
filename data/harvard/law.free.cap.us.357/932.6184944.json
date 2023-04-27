@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"932\" lastpage=\"932\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b660-8\">No. 543,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AW5I\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AELK\">Cato <em>v. </em>California et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A-u\">Petitioner <em>pro se. Edmund G. Brown, </em>Attorney General of California, <em>Clarence A. Linn, </em>Assistant Attorney General, and <em>Arlo E. Smith, </em>Deputy Attorney General, for respondents.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARUs\">Supreme Court of California. Certiorari denied.</p>\n<judges id=\"AC1\">The Chief Justice took no part in the consideration or decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

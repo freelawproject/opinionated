@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"682\" lastpage=\"682\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  RIBELIN\n  <br/>\n  v.\n  <br/>\n  CREEL.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 112A15-1.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Sept. 14, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Robert L. Inge, Salisbury, Attorney at Law, for Creel, Phillip Ray.\n </attorneys>\n <attorneys id=\"p-6\">\n  Phillip Creel, for Creel, Phillip Ray.\n </attorneys>\n <attorneys id=\"p-7\">\n  Arlaine Rockey, Marshall, Attorney at Law, for Ribelin, Dana Marie (fka Creel).\n </attorneys>\n <attorneys id=\"p-8\">\n  Mr. Kip David Nelson, Greensboro, Attorney at Law, for Creel, Phillip Ray.\n </attorneys>\n <p id=\"p-9\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-10\">\n   The following order has been entered on the Motion for Extension of Time to File Brief filed on the 14th of September 2015 by Plaintiff:\n  </p>\n  <blockquote id=\"p-11\">\n   \"Motion Allowed by order of the Court in conference, this the 14th of September 2015.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

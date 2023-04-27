@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1104\" lastpage=\"1104\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael W. SHIPMAN, Appellant-Respondent,\n  <br/>\n  v.\n  <br/>\n  Angela L. (Shipman) TANKSLEY, Appellee-Petitioner.\n </parties>\n <docketnumber id=\"p-2\">\n  Court of Appeals Case No. 29A05-1706-DR-1213\n </docketnumber>\n <court id=\"p-3\">\n  Court of Appeals of Indiana.\n </court>\n <decisiondate id=\"p-4\">\n  September 27, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DISPOSITION OF CASE BY UNPUBLISHED MEMORANDUM DECISION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    KIRSCH\n   </strong>\n   ,\n   <em>\n    J.\n   </em>\n  </author>\n  <p id=\"p-7\">\n   Affirmed in part and reversed in part.\n  </p>\n  <p id=\"p-8\">\n   NAJAM, J., Concurs.\n  </p>\n  <p id=\"p-9\">\n   BROWN, J., Concurs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

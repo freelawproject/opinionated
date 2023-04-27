@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"402\" lastpage=\"402\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b490-6\">HODGE <em>v. </em>IOWA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b490-8\">No. 149,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A-Uu\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AAQ\">Decided January 15, 1962.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b490-11\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b490-12\"><em>Evan Hultman, </em>Attorney General of Iowa, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AZsJ\">Per Curiam.</author>\n<p id=\"b490-13\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<judges id=\"b490-14\">Mr. Justice Douglas is of the opinion certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

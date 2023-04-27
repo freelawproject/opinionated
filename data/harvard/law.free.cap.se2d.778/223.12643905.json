@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"223\" lastpage=\"223\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  FARKAS\n  <br/>\n  v.\n  <br/>\n  Van LINDEN.\n </parties>\n <docketnumber id=\"p-2\">\n  No. S15A0859.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Georgia.\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 5, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Leonard Farkas, Albany, for appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Alex Joshua Kaplan, Albany, for appellee.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   The judgment of the court below is affirmed without opinion pursuant to Supreme Court Rule 59.\n  </p>\n  <p id=\"p-10\">\n   <em>\n    Judgment affirmed.\n   </em>\n  </p>\n  <p id=\"p-11\">\n   All the Justices concur.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

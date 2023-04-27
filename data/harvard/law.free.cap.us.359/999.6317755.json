@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b723-13\">May 22, 1959.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b723-15\">No. 874,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"At4k\">Misc.,</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"AL5\">October Term, 1957.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AWCn\">Riser <em>v. </em>Teets, Warden,</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AUgD\"><em>George T. Davis </em>for petitioner.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4cs\">357 U. S. 944. The motion for leave to file a petition for reh\u00e9aring and recall of order denying certio-rari is denied.</p>\n<judges id=\"AMim\">Mr. Justice Stewart took no part in the consideration or decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

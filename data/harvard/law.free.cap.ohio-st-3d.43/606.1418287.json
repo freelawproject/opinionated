@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"606\" lastpage=\"606\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b250-3\">Columbus Bar Association <em>v. </em>Hartwell.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b250-4\">[Cite as Columbus Bar Assn. <em>v. </em>Hartwell (1989), 43 Ohio St. 3d 606.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b250-5\">(No. D.D. 87-14</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A-j\">Submitted April 26, 1989</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ALf\">Decided May 31, 1989.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b250-6\">On Application for Reinstatement.</p>\n<p id=\"b250-7\">The application for reinstatement to the practice of law is granted. Leda M. C. Hartwell is reinstated to the practice of law in the state of Ohio.</p>\n<p id=\"b250-8\">(For earlier case, see [1988], 35 Ohio St. 3d 258, 520 N.E. 2d 226.)</p>\n<judges id=\"AY_\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur,</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

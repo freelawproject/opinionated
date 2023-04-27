@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"835\" lastpage=\"835\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b913-12\">No. 196,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AP39\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AuKr\">Dickey <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AxVP\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ART\"><em>Solicitor General Perlman, Assistant Attorney General Quinn, Robert S. Erdahl </em>and <em>Philip R. Monahan </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQZ5\">Motion for leave to file petition for writ of certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

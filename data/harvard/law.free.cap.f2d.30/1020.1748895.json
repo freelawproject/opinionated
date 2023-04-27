@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1052-29\">Albert Frederick THYBOE et al., Plaintiffs, Appellants, v. SAN JUAN FRUIT CO. et al., Defendants, Appellees.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1052-30\">Circuit Court of Appeals, First Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJm\">May 25, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1052-31\">No. 2240.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1052-33\">Before BINGHAM, JOHNSON, and ANDERSON, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1052-34\">PER CURIAM.</author>\n<p id=\"A-kx\">It is ordered that this case he, and the same hereby is, dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

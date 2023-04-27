@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1055-23\">Rafael ZAZZARO, Petitioner, Appellant, v. Anna C. M. TILLINGHAST, United States Commissioner of Immigration, Respondent, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1055-24\">Circuit Court of Appeals, First Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1055-25\">April 26, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1055-26\">No. 2247.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1055-28\">Before BINGHAM, JOHNSON, and ANDERSON, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1055-29\">PER CURIAM.</author>\n<p id=\"AkJg\">Upon motion of appellee, it is ordered that this case be docketed and dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

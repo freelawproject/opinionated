@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"984\" lastpage=\"984\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b856-8\">No. 9,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AtpY\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AqWa\">Texas <em>v. </em>New Mexico et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Adsk\"><em>Solicitor General Sobeloff, Assistant Attorney General Rankin, Oscar H. Davis </em>and <em>George S. Swarth </em>for the United States.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOea\">The request of the United States that it be permitted to defer until November 15, 1956, the submission of a statement of its views regarding its indispensability as a party to this suit is granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

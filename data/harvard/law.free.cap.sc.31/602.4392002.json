@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"602\" lastpage=\"602\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b610-5\">No. 2435.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ae12\">Vaughan <em>v. </em>Morgan.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"ARS\">April Term, 1889.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AoP\">filed May 31, 1889.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AkV\"><em>Duncan Sanders, </em>for motion. A. <em>B. Calvert, </em>contra.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AG-L\">Order</p>\n<author id=\"AC0a\">per curiam</author>\n<p id=\"Aig\">Motion under Rule XI. of this court to dismiss appeal for failure to file \u201cPoints and Authorities\u201d as required by Rule VIII. Motion granted, it not appearing that such failure occurred through mistake, inadvertence, or other excusable cause.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

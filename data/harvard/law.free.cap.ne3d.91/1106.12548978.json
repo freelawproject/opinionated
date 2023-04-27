@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1106\" lastpage=\"1106\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Paul B. DEIGNAN, Jr., Appellant-Petitioner,\n  <br/>\n  v.\n  <br/>\n  Shawn E. DEIGNAN, Appellee-Respondent\n </parties>\n <docketnumber id=\"p-2\">\n  Court of Appeals Case No. 79A04-1611-DR-2504\n </docketnumber>\n <court id=\"p-3\">\n  Court of Appeals of Indiana.\n </court>\n <decisiondate id=\"p-4\">\n  September 29, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DISPOSITION OF CASE BY UNPUBLISHED MEMORANDUM DECISION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    CRONE\n   </strong>\n   ,\n   <em>\n    J.\n   </em>\n  </author>\n  <p id=\"p-7\">\n   Affirmed in part and remanded.\n  </p>\n  <p id=\"p-8\">\n   BAKER, J., Concurs.\n  </p>\n  <p id=\"p-9\">\n   BARNES, J., Concurs in result with opinion.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"629\" lastpage=\"629\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PROGRESS MICHIGAN, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  ATTORNEY GENERAL, Defendant-Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158150, 158151\n  <br/>\n  COA: 340921, 340956\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  August 8, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of plaintiff-appellant to exceed the page limitation for its reply brief is GRANTED. The 12-page reply brief submitted on July 26, 2019, is accepted for filing.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

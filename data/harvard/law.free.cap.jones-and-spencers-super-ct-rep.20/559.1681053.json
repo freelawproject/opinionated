@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"559\" lastpage=\"559\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b577-7\">John Bean, an infant, respondent, <em>v. </em>Joseph P. Reynolds, appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b577-8\">Decided April 13, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A9r\">Appeal from judgment for plaintiff, entered on verdict of a jury.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AMs\">I. T. Williams, for appellant. James E. Kelley, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"ALJ\">Before O\u2019Gorman and Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"An6\">Per Curiam.</author>\n<p id=\"ACU\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"678\" lastpage=\"678\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b732-35\">NATIONAL LIFE &amp; ACCIDENT INSURANCE COMPANY, Incorporated, v. Rubie E. WATERS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b732-37\">No. 3262.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b732-38\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b732-39\">July 15, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b732-41\">Biddison &amp; Rheam, of Tulsa, Okl., for cross-appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b732-42\">Marvin T. Johnson, of Tulsa, Okl., for cross-appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b732-43\">Before PHILLIPS, BRATTON, and HUXMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b732-44\">PER CURIAM.</author>\n<p id=\"b732-45\">Cross-appeal dismissed on authority of opinion in Rubie E. Waters v. National Life &amp; Accident Insurance Co., Inc., 10 Cir., 156 F.2d 470.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

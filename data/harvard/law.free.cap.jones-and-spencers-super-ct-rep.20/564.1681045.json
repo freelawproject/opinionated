@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"564\" lastpage=\"564\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b582-4\">The Manchester Paper Co., appellant, <em>v. </em>Jacob R. Moore, administrator, &amp;c., respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b582-5\">Decided December 7, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ArI\">Appeal by plaintiff from judgment entered on report of referee, dismissing complaint upon the merits.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AdP7\">Burnett and Whitney, for appellant. Martin &amp; Smith, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AUy\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Aap\">Per Curiam.</author>\n<p id=\"A-mC\">The judgment should be affirmed with costs, on the opinion of the referee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

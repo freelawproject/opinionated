@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"868\" lastpage=\"868\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b676-5\">No. 206,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AID6\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ApD7\">Rucker <em>v. </em>Pennsylvania.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A-hc\">Petitioner pro <em>se. James C. Crumlish </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AuRe\">Supreme Court of Pennsylvania. Certiorari denied.</p>\n<judges id=\"A0rv\">Mr. Justice Douglas is of the opinion certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

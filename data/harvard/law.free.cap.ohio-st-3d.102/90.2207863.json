@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"90\" lastpage=\"90\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b246-3\">The State ex rel. Heddleson <em>v. </em>Bradshaw, Warden.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b246-4\">[Cite as <em>State ex rel. Heddleson v. Bradshaw, </em>102 Ohio St.3d 90, 2004-Ohio-2000.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b246-7\">(No. 2003-2039</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AX6\">Submitted April 14, 2004</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Atq\">Decided May 5, 2004.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b246-11\">Kravitz <em>&amp; </em>Kravitz, L.L.C., and Kort Gatterdam, for relator.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b246-9\">{\u00b6 1} The petition for a writ of habeas corpus is dismissed on the authority of <em>Pratts v. Hurley, </em>102 Ohio St.3d 81, 2004-0hio-1980, 806 N.E.2d 992.</p>\n<judges id=\"b246-10\">Moyer, C.J., Resnick, F.E. Sweeney, Pfeifer, Lundberg Stratton, O\u2019Connor and O\u2019Donnell, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

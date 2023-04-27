@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"792\" lastpage=\"792\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  ALEXIS\n  <br/>\n  v.\n  <br/>\n  SHAW.\n </parties>\n <docketnumber id=\"p-2\">\n  No. S15A1475.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Georgia.\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 19, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Grady Alexander Roberts, III, Roberts Law, LLC, Atlanta, for appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  John Antoine Bailey Ayoub, Carolina Dallal Bryant, Ayoub &amp; Mansour, LLC, Atlanta, for appellee.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   The judgment of the court below is affirmed without opinion pursuant to Supreme Court Rule 59.\n  </p>\n  <p id=\"p-10\">\n   <em>\n    Affirmed without opinion.\n   </em>\n  </p>\n  <p id=\"p-11\">\n   All the Justices concur.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

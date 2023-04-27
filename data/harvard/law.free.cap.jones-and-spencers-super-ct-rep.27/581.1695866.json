@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"581\" lastpage=\"581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b609-9\">Sigmund Oppenheimer, Respondent v. The Manhattan Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b609-10\">Decided March 9, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Acr\">Appeal from a judgment entered on findings and decision of a judge on a trial at special term, before the court without a jury.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AjM\">Davies &amp; Rapallo, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AVS\">Leo C. Dessar, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ANf1\">Before Sedgwick, Ch. J., Truax and Dugro, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ANb\">Per Curiam.</author>\n<p id=\"AQiH\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

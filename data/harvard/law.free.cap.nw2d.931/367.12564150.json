@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"367\" lastpage=\"367\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  SIMMONS PROPERTIES, LLC, Plaintiff/Counterdefendant-Appellant,\n  <br/>\n  v.\n  <br/>\n  LANSING ENTERTAINMENT AND PUBLIC FACILITIES AUTHORITY, Defendant/Counterplaintiff-Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 159928\n  <br/>\n  COA: 346657\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  July 31, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of the plaintiff-appellant to continue stay is DENIED as moot. Pursuant to MCR 7.305(I), \"[w]hen a stay bond has been filed on appeal to the Court of Appeals under MCR 7.209 or a stay has been entered or takes effect pursuant to MCR 7.209(E)(7), it operates to stay proceedings pending disposition of the appeal in the Supreme Court unless otherwise ordered by the Supreme Court or the Court of Appeals.\" The Court of Appeals entered a stay pending appeal on December 7, 2018, which remains in effect without further order by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

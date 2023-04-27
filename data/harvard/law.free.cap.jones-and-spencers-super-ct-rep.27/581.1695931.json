@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"581\" lastpage=\"581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b609-7\">Mayer Altmayer, Respondent v. The New York Elevated Railroad Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b609-8\">Decided March 9, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AAD\">Appeal from a judgment entered on the findings and decision of a judge on a trial at special term by the court without a jury.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"An9\">Davies &amp; Rapallo, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AOl\">Peckham &amp; Tyler, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A4n\">Before Sedgwick, Ch. J., Truax and Dugro, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AtM\">Per Curiam.</author>\n<p id=\"AWK\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

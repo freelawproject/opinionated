@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1047-16\">John F. MYRON ex rel. HONG LUN, Petitioner, <em>Appellant, v. Alma C. M. </em>TILLINGHAST, U. S. Commissioner of Immigration, Respondent, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1047-17\">Circuit Court of Appeals, First Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ATi1\">April 26, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1047-18\">No. 2246.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1047-20\">Before BINGHAM, JOHNSON, and ANDERSON, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1047-21\">PER CURIAM.</author>\n<p id=\"AyiD\">Upon motion of appellee, it is ordered that this case be docketed and dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1007\" lastpage=\"1007\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1021-4\">CANGEN v. CRAMER et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AaW\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Arv\">June 23, 1917.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AVJ\">No. 255.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"As0C\">Appeal from District Court of tile United States for the Eastern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ag3M\">William E. Warland, of New York City, for appellant. James R. Hodder, of Boston, Mass., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AxN\">Before COXE, WARD, and HOUGH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1021-5\">PER CURIAM.</author>\n<p id=\"AYx\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

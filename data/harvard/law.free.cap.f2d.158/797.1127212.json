@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"797\" lastpage=\"797\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b853-5\">BOWER-GIEBEL WHOLESALE COMPANY, Appellant, v. SEARS-ROEBUCK &amp; COMPANY, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b853-6\">No. 11236.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b853-7\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AhqE\">Nov. 22, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b853-9\">Jerome D. Rolston, of Hollywood, Cal., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b853-10\">John L. Wheeler, of Los Angeles, Cal., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b853-11\">Before MATHEWS, STEPHENS, and ORR, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b853-12\">PER CURIAM.</author>\n<p id=\"b853-13\">The judgment of the District Court, 69 F.Supp. 158, is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

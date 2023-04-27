@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"575\" lastpage=\"575\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b603-7\">The Marinette Iron Works Company, Appellant <em>v. </em>Frank Reddaway, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b603-9\">Decided January 5, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AMI\">Appeal by plaintiff from order vacating attachment on ground of insufficiency of affidavit upon which attachment was granted.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A3t\">Lewis Sanders, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AG3\">Strong &amp; Cadwalader, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AqJG\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Aev\">Per Curiam.</author>\n<p id=\"AoP\">The order should be affirmed, with ten dollars costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

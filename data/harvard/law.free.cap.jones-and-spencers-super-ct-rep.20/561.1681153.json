@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"561\" lastpage=\"561\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b579-4\">Catharine Murphy, by guardian, respondent, <em>v. </em>Thomas Donohue, appellant. Felix Murphy, respondent, <em>v. </em>Thomas Donohue, appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b579-6\">Decided June 1, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AKe\">Two appeals by defendants from judgments for plaintiffs, entered on verdicts, and from orders denying defendant\u2019s motions for new trials. The questions in the respective appeals were the same.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ArTD\">Thomas P. Wickes and George L. Sterling, for appellant. John Henry Hull, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Ame\">Before Sedgwick, Oh. J., and Freedman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Aux\">Per Curiam.</author>\n<p id=\"AqBP\">Judgments and orders affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

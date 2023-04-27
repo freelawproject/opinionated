@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"220\" lastpage=\"220\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b268-5\">ROGERS <em>v. </em>RICHMOND, WARDEN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b268-7\">No. 755,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"ARk\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A4m\">Decided June 16, 1958.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b268-9\"><em>Louis H. Poliak </em>for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b268-10\"><em>Abraham S. Ullman </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b268-11\">Per Curiam.</author>\n<p id=\"b268-12\">The petition for writ of certiorari is denied. We read the opinion of the Court of Appeals as holding that while the District Judge may, unless he finds a vital flaw in the State Court proceedings, accept the determination in such proceedings, he need not deem such determination binding, and may take testimony. See <em>Brown </em>v. <em>Allen, </em>344 U. S. 443, 506, <em>et seq.</em></p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

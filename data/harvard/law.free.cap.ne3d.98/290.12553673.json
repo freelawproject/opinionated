@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"290\" lastpage=\"290\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Harrah's Ohio Acquisition Co., L.L.C.\n  <br/>\n  v.\n  <br/>\n  Cuyahoga Cty. Bd. of Revision\n </parties>\n <docketnumber id=\"p-2\">\n  2016-0568\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  May 17, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On the unopposed motion of Harrah's Ohio Acquisition Company, L.L.C, to reschedule June 19, 2018 oral argument before a master commissioner. Motion granted. Oral argument before a master commissioner rescheduled for June 28, 2018.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

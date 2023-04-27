@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"735\" lastpage=\"735\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  TOMRA OF NORTH AMERICA, INC., Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  DEPARTMENT OF TREASURY, Defendant-Appellant.\n </parties>\n <parties id=\"p-2\">\n  Tomra of North America, Inc., Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Department of Treasury, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-3\">\n  SC: 158333\n  <br/>\n  COA: 336871\n  <br/>\n  SC: 158335\n  <br/>\n  COA: 337663\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  August 14, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Chief Justice, the motion of the Taxation Section of the State Bar of Michigan to file a brief amicus curiae is GRANTED. The amicus brief submitted on August 7, 2019, is accepted for filing.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

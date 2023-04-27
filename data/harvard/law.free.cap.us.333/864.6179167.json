@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"864\" lastpage=\"864\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b942-12\">No. 352,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AsJO\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A41\">Kennedy <em>v. </em>Sanford, Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ag0\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Amg\"><em>Solicitor General Perlman, Assistant Attorney General Quinn </em>and <em>Robert S. Erdahl </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAaK\">C. C. A. 5th. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

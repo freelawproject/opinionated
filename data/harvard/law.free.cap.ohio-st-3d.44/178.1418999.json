@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"178\" lastpage=\"178\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b234-3\">Vilimonovic, Appellant, <em>v. </em>Modern Tool &amp; Die Products, Inc. et al., Appellees.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b234-5\">[Cite as Vilimonovic <em>v. </em>Modern Tool <em>&amp; </em>Die Products, Inc. (1989), 44 Ohio St. 3d 178.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b234-8\">(No. 88-1576</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AoW\">Submitted May 30, 1989</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A2T\">Decided August 2, 1989.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b234-10\"><em>Robert J. Sindyla, </em>for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b234-11\">The judgment of the court of appeals is affirmed on authority of <em>Hartsock </em>v. <em>Chrysler Corp. </em>(1989), 44 Ohio St. 3d 171, 541 N.E. 2d 1037.</p>\n<judges id=\"b234-14\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Re snick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

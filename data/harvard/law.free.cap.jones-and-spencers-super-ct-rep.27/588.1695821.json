@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"588\" lastpage=\"588\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b616-5\">Alston Gerry, <em>et al., </em>Appellants <em>v. </em>Louis Cattaberry, <em>et al., </em>Respondents.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b616-6\">Decided May 4, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Afx\">Appeal by plaintiff from an order denying motion to continue injunction.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AFo\">L. Laflin Kellogg, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aon\">Arthur C. Butts, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AN45\">Before Sedgwick, Ch. J., and McAdam, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A0q\">Per Curiam.</author>\n<p id=\"ARj\">Order affirmed, with ten dollars costs to abide event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

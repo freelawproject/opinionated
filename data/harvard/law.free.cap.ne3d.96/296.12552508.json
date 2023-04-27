@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"296\" lastpage=\"296\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  HITCHCOCK.\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0012\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  April 25, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Sua sponte, this cause is no longer held for the decision in 2016-1848, State v. Paige, and stay of briefing is lifted. The clerk shall issue an order for transmittal of the record from the Court of Appeals for Fairfield County and the parties shall brief this case in accordance with the rules of practice of this court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

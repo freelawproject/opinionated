@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"393\" lastpage=\"394\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b409-13\">EX PARTE THE NEW-JERSEY RAIL ROAD COMPANY.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"AQk\">Matter of Practice.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b409-14\">\n<em>Mr. Molleson,</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"Agy\">in behalf of the company moved for writs of <em>Certiorari, </em>to bring into this Court, the proceedings of certain commissioners in assessing damages, in three cases against the company.</p>\n<summary data-order=\"4\" data-type=\"legal\" id=\"b410-4\"><page-number citation-index=\"1\" label=\"394\">*394</page-number>The reason assigned for the application, was, that excessive damages had been assessed by the commissioners.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b410-5\">By the Court.</author>\n<p id=\"AqZ\">\n<em>Let the writs be allowed.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

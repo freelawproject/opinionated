@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"95\" lastpage=\"95\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b151-14\">William P. DOYLE and Crystal G. Doyle, Plaintiffs-Appellants, v. David M. MILTON, et al., Defendants-Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b151-15\">No. 137, Docket 20453.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b151-16\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGB\">Dec. 12, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b151-18\">M. Victor Leventritt, of New York City, for plaintiffs-appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b151-19\">Satterlee, Warfield &amp; Stephens, of New York City, (Lloyd F. Thanhouser, of New York City, of counsel), for defendants-appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b151-20\">Before SWAN, AUGUSTUS N. HAND, and CLARK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b151-21\">PER CURIAM.</author>\n<p id=\"b151-22\">Order affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

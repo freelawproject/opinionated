@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"846\" lastpage=\"846\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b924-8\">No. 169,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AEME\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AJ2\">Byrd <em>v. </em>Pescor, Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Akfr\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A4HS\"><em>Solicitor General Perlman, Assistant Attorney General Quinn, Robert S. Erdahl </em>and <em>Beatrice Rosenberg </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AoI\">C. C. A. 8th. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

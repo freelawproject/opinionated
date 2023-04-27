@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1279\" lastpage=\"1279\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1347-8\">William Lloyd HILL, Appellant, v. A.L. LOCKHART, Director, Arkansas Department of Correction, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1347-10\">No. 83-1397.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1347-11\">United States Court of Appeals, Eighth Circuit.</court>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b1347-12\">Submitted Sept. 10, 1984.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b1347-13\">Decided Sept. 20, 1984.</decisiondate>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1347-15\">Before LAY, Chief Judge, FLOYD R. GIBSON, Senior Circuit Judge, and HEA-NEY, BRIGHT, ROSS, McMILLIAN, ARNOLD, JOHN R. GIBSON, FAGG and BOWMAN, Circuit Judges, en banc.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1347-17\">ORDER</p>\n<p id=\"b1347-18\">This case has been considered by the court en banc. The judgment of the district court is affirmed by an equally divided court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

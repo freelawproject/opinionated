@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1008\" lastpage=\"1008\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1040-4\">Henry W. BEAL, Appellant, v. Ralph COHN, Trustee, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1040-5\">Circuit Court of Appeals, First Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AaS6\">October 3, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1040-6\">No. 2293.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1040-8\">Before BINGHAM, JOHNSON, and ANDERSON, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1040-9\">PER CURIAM.</author>\n<p id=\"At8G\">Upon stipulation, it is ordered that this case be, and the same hereby is, docketed and dismissed, without costs, and that mandate issue forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

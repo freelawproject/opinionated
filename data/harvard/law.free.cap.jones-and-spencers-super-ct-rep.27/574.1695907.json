@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"574\" lastpage=\"574\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b602-6\">Howard N. Bailey, Respondent <em>v. </em>John Claflin, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b602-7\">Decided January 5, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ABu\">Appeal from judgment entered on report of referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AYM\">S. F. Kneeland and David Leventritt, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A-7\">Abram Kling, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Ait\">Before Sedgwick, Ch. J., Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AFT\">Per Curiam.</author>\n<p id=\"Amp\">Judgment appealed from should be affirmed, with costs, on the opinion in Eckhard <em>v. </em>Epstein, 58 N. <em>Y. Super. Ct. </em>288.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

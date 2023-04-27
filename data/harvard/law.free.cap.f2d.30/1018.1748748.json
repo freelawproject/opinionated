@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1050-38\">Teofilo Marzuach PLUMEY, Plaintiff, Appellant, v. Carolina Amelia ACOSTA et al., Defendants, Appellees.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1050-39\">Circuit Court of Appeals, First Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Abrq\">November 10, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1050-40\">No. 2296.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1050-42\">Francis H. Dexter and Mariano Acosta Velarde, both of San Juan, Porto Rico, for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1050-43\">Before BINGHAM, JOHNSON, and ANDERSON, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1050-44\">PER CURIAM.</author>\n<p id=\"AKVn\">Dismissed for want of prosecution.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

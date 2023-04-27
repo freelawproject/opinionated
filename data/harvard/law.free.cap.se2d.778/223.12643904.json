@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"223\" lastpage=\"223\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  DEVERZE\n  <br/>\n  v.\n  <br/>\n  JP MORGAN CHASE BANK, N.A. et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. S15A0845.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Georgia.\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 5, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Jean A. Deverze, Marietta, for appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Teah Nicole Glenn, David Marino Pernini, Shawna Marie Portner, Wargo &amp; French LLP, Atlanta, Frank Reid Olson, Cobb, Olson &amp; Andrle, LLC, Atlanta, for appellee.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   The judgment of the court below is affirmed without opinion pursuant to Supreme Court Rule 59.\n  </p>\n  <p id=\"p-10\">\n   <em>\n    Affirmed without opinion.\n   </em>\n  </p>\n  <p id=\"p-11\">\n   All the Justices concur.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

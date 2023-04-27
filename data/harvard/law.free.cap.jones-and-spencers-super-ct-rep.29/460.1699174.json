@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"460\" lastpage=\"460\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b498-8\">John E. Ahrens, Respondent <em>v. </em>The Metropolitan Elevated Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b498-9\">Decided May 2, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ALk\">Appeal by defendants from judgment entered upon the report of a referee in favor of plaintiff.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AW_\">Davies &amp; Rapallo, attorneys, and John S. Wood of counsel, for appellants. Edwin M. Felt, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Acg\">Before Sedgwick, Ch. J., Freedman and McAdam, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AHE\">The Court (McAdam, J., writing, Sedgwick, Ch. J., and Freedman, J., concurring,)</author>\n<p id=\"ALP\">held that the judgment should be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

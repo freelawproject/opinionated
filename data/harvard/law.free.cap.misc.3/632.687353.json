@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"632\" lastpage=\"632\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b678-6\">Christian Sanders, Respondent, <em>v. </em>Thos. Q. Seabrook, Appellant.</parties>\n<attorneys data-order=\"1\" data-type=\"attorneys\" id=\"AJ-\">Fromme Bros., for respondent. N. H. Bijur, for appellant.</attorneys>\n<p data-order=\"2\" data-type=\"attorneys\" id=\"AuLK\">And four other cases; same title.</p>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A9S\">Appeal from judgment of the Seventh District Court, McKean, J.</summary>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYq\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

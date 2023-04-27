@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"550\" lastpage=\"550\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b566-4\">FRANCIS B. HEGEMAN, Plaintiff and Respondent, <em>v. </em>MARY A. CANTRELL, Defendant, Appellant.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b566-6\"><em>Decided June </em>25, 1877.</decisiondate>\n<p data-order=\"1\" data-type=\"judges\" id=\"b566-5\">Before Speir and Freedman, JJ.</p>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b566-7\">Appeal from a special term order denying defendant\u2019s motion for leave to make and serve a proposed case and exceptions.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b566-8\"><em>Henry H. </em>Morange, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b566-9\"><em>A. H. </em>Wagner, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Ae2\">Per Curiam.</author>\n<p id=\"AB_\">\u2014Order affirmed with costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

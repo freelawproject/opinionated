@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"58\" lastpage=\"58\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b80-3\">Marvin <em>v. </em>Donehoo (Nesbitt, Appellant).</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A4i\">December 4, 1931:</decisiondate>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b80-4\">(No. 181,</docketnumber>\n<p data-order=\"3\" data-type=\"otherdate\" id=\"Ako\">March T., 1931.)</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b80-5\"><em>Harvey A. </em>Miller, of <em>Miller &amp; Nesbitt, </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b80-6\"><em>H. Stewart Dunn, </em>of <em>Thompson, Rose, Bechman &lt;&amp; Dunn, </em>for appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b80-7\">Opinion by</p>\n<author id=\"A60\">Mr. Justice Kephart,</author>\n<p id=\"AJX\">The judgment of the court below is affirmed on the opinion in Frankel v. Donehoo, 306 Pa. 52.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

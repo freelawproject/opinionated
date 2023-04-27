@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"898\" lastpage=\"898\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the Matter of R.P.D.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 370P15.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  March 17, 2016.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Ryan McKaig, for Davis, Racine.\n </attorneys>\n <attorneys id=\"p-6\">\n  Kathleen Arundell Jackson, for Mecklenburg County.\n </attorneys>\n <attorneys id=\"p-7\">\n  Matthew D. Wunsche, Appellate Counsel, for GAL.\n </attorneys>\n <attorneys id=\"p-8\">\n  Matthew Wunsche, Durham.\n </attorneys>\n <p id=\"p-9\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-10\">\n   Upon consideration of the petition filed on the 10th of November 2015 by Respondent (Mother) in this matter for discretionary review of the decision of the North Carolina Court of Appeals pursuant to G.S. 7A-31, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <blockquote id=\"p-11\">\n   \"Denied by order of the Court in conference, this the 17th of March 2016.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

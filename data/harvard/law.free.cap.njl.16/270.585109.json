@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"270\" lastpage=\"270\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b286-12\">CHESTER v. CHESTER.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b286-13\">Matter of Practice.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b286-14\">\n<em>A. Browning</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"AEW\">applied for a rule that the plaintiff have leave to enter a waiver of bail, upon the sheriff\u2019s return upon the <em>capias,\u2019 </em>that the defendant upon his arrest, gave bond to' appear, and apply for the benefit of the insolvent laws of this state <em>&amp;c.</em></p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b286-15\">\n<em>Rule granted.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1017\" lastpage=\"1017\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1061-25\">New York Common Pleas</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"Ajb9\">General Term.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1061-26\">Filed December 18, 1890.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1061-27\">Leopold Levy, Resp\u2019t, <em>v. </em>John Krakowsky and John King, App\u2019lts.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0v\">Appeal from fifth district court.</p>\n<p id=\"b1061-28\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

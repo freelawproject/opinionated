@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"577\" lastpage=\"578\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b605-9\">Fred Stone, Respondent v. John Devlin, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b605-10\">Decided March 2, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AIP\">Appeal from a judgment entered on the verdict of a jury and from an order denying a motion for a new trial upon the minutes.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b606-4\"><page-number citation-index=\"1\" label=\"578\">*578</page-number>Horace Graves, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aq5\">Sandford H. Steele, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AKI\">Before Truax and Dugro, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AU2\">The Court (Dugro, J., writing, Truax, J., concurring) affirmed the judgment and order. .</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"356\" lastpage=\"356\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b372-10\">ROGERS v. GUIEREN.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b372-11\">On <em>Certiorari.</em></summary>\n<summary data-order=\"2\" data-type=\"summary\" id=\"b372-12\">MATTER OF PRACTICE.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b372-13\"><em>J. W. Miller </em>for the defendant in <em>Certiorari,</em></attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"AOZN\">confessed the errors assigned, and consented to a reversal of the judgment.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b372-14\"><em>Mr. Seofidd, </em>attorney of the plaintiff in <em>Certiorari,</em></attorneys>\n<p data-order=\"6\" data-type=\"attorneys\" id=\"Ar6\">declined moving for the reversal.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b372-15\">By the Court.</author>\n<p id=\"AXV\">Let the Clerk enter the reversal of the judgment, as on motion for the plaintiff.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

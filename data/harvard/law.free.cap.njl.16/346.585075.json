@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"346\" lastpage=\"346\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b362-4\">ANONYMOUS.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b362-5\">Matter of Practice.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b362-6\">\n<em>Mr. Gifford,</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"A1qt\">moved for a rule that he have further time to plead, the bill of particulars not having been delivered till the 15th instant.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b362-7\">Hornblower, C. J.</author>\n<p id=\"A2f\">The rule is, that the defendant has the same time for pleading, after receiving the bill of particulars, that he had at the time of demanding it. The delay in the delivery, is not to be counted as part of his time for pleading.</p>\n<p id=\"b362-8\">\n<em>Rule granted.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

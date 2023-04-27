@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"579\" lastpage=\"579\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b607-7\">Christian Weber, <em>et al., </em>Respondents <em>v. </em>The Metropolitan Elevated Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b607-8\">Decided March 2, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A-7K\">Appeal from a judgment entered upon the decision of the court at an equity term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ay1\">Davies &amp; Rapallo, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A92\">Sackett &amp; Bennett, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A_b\">Before Truax and Dugro, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Azv\">Per Curiam.</author>\n<p id=\"AgV\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"428\" lastpage=\"428\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  GOODWIN\n  <br/>\n  v.\n  <br/>\n  SMITH.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 398P08-2.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Nov. 5, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Norman B. Smith, Greensboro, for Smith, Norman B.\n </attorneys>\n <attorneys id=\"p-6\">\n  Wesley Goodwin, Greensboro, for Goodwin, Wesley Foust-Graham.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   The following order has been entered on the motion filed on the 14th of September 2015 by Plaintiff to Toll the 30 Days Filing Rule:\n  </p>\n  <blockquote id=\"p-9\">\n   \"Motion Denied by order of the Court in conference, this the 5th of November 2015.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

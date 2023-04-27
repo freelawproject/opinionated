@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"449\" lastpage=\"451\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b479-3\">MARYLAND CASUALTY CO. v. RONAN et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b479-4\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b479-5\">January 6, 1930.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b479-6\">No. 156.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b481-4\"><page-number citation-index=\"1\" label=\"451\">*451</page-number>David E. Porter, Harry W. Witters, and Jutten A. Longmoore, all of St. Johnsbury, Vt., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b481-5\">Searles, Graves &amp; Waterman, of St. Johnsbury, Vt., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b481-6\">Before L. HAND, SWAN, and MACK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b481-7\">PER CURIAM.</author>\n<p id=\"AtQQ\">Decree affirmed on opinion below.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

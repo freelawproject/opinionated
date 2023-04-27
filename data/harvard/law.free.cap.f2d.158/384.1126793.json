@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"384\" lastpage=\"384\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b440-16\">Rubie Charles JENKINS v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b440-17\">No. 3406.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b440-18\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b440-19\">Nov. 12, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b440-21\">C. Arthur Anderson, of St. Louis, Mo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b440-22\">Charles E. Dierker, U. S. Atty., and Robert E. Shelton, Asst. U. S. Atty., both of Oklahoma City, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b440-23\">Before PHILLIPS, BRATTON, HUX--MAN, and MURRAH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b440-24\">PER CURIAM.</author>\n<p id=\"b440-25\">Appeal dismissed November 12, 1946, for :failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

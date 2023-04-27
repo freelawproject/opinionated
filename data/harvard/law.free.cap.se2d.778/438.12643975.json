@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"438\" lastpage=\"438\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  KHAJA\n  <br/>\n  v.\n  <br/>\n  HUSNA.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 375A15-1.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Nov. 25, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Deborah Sandlin, for Khaja, Dabeeruddin.\n </attorneys>\n <attorneys id=\"p-6\">\n  Debra A. Griffiths.\n </attorneys>\n <attorneys id=\"p-7\">\n  Fatima Husna, Santa Clara, for Husna, Fatima.\n </attorneys>\n <p id=\"p-8\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   The following order has been entered on the motion filed on the 24th of November 2015 by Defendant-Appellant for Temporary Stay:\n  </p>\n  <blockquote id=\"p-10\">\n   \"Motion Denied by order of the Court in conference, this the 25th of November 2015.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

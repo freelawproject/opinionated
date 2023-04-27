@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"625\" lastpage=\"625\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b643-9\">MITCHELL <em>v. </em>WARDEN OF MARYLAND PENITENTIARY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b643-10\">[App. No. 55,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aty\">September Term, I960.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b643-11\">\n<em>Decided April 10, 1961.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b643-14\">Before Bru\u00f1e, C. J., and Henderson, Hammond, Horney and Marbury, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b643-15\">PER Curiam.</author>\n<p id=\"b643-16\">Application for leave to appeal denied for the reasons stated in the opinion of the court below.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

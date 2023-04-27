@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"120\" lastpage=\"120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b190-11\">CEPHAS <em>v. </em>WEST VIRGINIA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b190-14\">No. 336,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Amn\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AIR\">Decided March 23, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b190-16\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b190-17\"><em>W. W. Barron, </em>Attorney General of West Virginia, and <em>Clement R. Bassett, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Avt\">Per Curiam.</author>\n<p id=\"b190-19\">The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

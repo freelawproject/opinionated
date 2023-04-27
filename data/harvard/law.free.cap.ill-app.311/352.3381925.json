@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"352\" lastpage=\"352\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b390-11\" pgmap=\"390\">Lucie Grise Palardis, Appellant, v. Eben B. Gower, Appellee.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b390-12\" pgmap=\"390\">Gen. No. 9,666.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"b390-14\" pgmap=\"390\">Dove, J., dissents.</p><otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AWr\" pgmap=\"390\">Heard in this court at May term, 1941;</otherdate><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A_Q\" pgmap=\"390\">opinion filed August 14, 1941.</decisiondate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AuMG\" pgmap=\"390\">Eva L. Minor, for appellant; Donald Gray and W. H. Dyer, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"AZ0\" pgmap=\"390\">Opinion by Justice Huffman.</author> <p id=\"A9q\" pgmap=\"390\">\u201cNot to be published in full.\u201d</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

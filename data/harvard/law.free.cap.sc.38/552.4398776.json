@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"552\" lastpage=\"552\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b560-5\">No. 3072.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A3-\">McElhose <em>v. </em>Ludeke,</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"A91\">November Term, 1892.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A4G\"><em>Huger Sinkler, </em>for motion.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_NO\">This was an order per curiam, December 12, 1892, dismissing defendant\u2019s appeal, because of his failure to file the case for appeal with the clerk of the Circuit Court within ten days after its settlement. The case was settled September 3, 1892,</p>\n<p id=\"ANur\">and had not been so filed up to November, 30.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

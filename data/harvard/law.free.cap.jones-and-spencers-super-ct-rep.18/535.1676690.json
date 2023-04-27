@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"535\" lastpage=\"535\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b559-7\">Robert F. Austin, <em>et al., </em>respondents, <em>v. </em>Joseph Byrnes, appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AIR\">Decided June 16, 1884.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"b559-8\">Appeal from judgment entered on report of referee;</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AoT\">Arnoux, Ritch &amp; Woodford, for appellant;</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A_U\">E. H. Benn, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AFd\">Before Sedgwick, Ch. J., Truax and Ingraham, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AtQ\">Per Curiam.</author>\n<p id=\"AyN\">The judgment appealed from is affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

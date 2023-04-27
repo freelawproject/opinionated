@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1046-26\">MASSACHUSETTS GASOLINE &amp; OIL COMPANY, Intervener, Appellant, v. EQUITABLE TRUST COMPANY OF NEW YORK,, Plaintiff, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1046-27\">Circuit Court of Appeals, First Circuit..</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A6y\">April 10, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1046-28\">No. 2237.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1046-30\">Before BINGHAM, JOHNSON, and ANDERSON, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1046-31\">PER CURIAM.</author>\n<p id=\"AeC\">Upon motion of appellee, it is ordered that this ease be docketed and dismissed, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

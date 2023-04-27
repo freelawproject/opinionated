@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"917\" lastpage=\"917\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b725-14\">November 20, 1961.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b725-16\">No. 8,</docketnumber>\n<p data-order=\"2\" data-type=\"docketnumber\" id=\"AQCE\">Original.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Az2A\">Arizona <em>v. </em>California et al.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ArxN\">The motion of the Navajo Tribe of Indians of the Navajo Reservation of Arizona, New Mexico and Utah for leave to intervene is denied.</p>\n<judges id=\"AvT8\">The Chief Justice took no part in the consideration or decision of this motion.</judges>\n<p id=\"A8xR\">[For preceding order herein, see <em>ante, </em>p. 893.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"558\" lastpage=\"559\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AjY\">James S. Flynn, respondent, <em>v. </em>The New York Elevated Ry. Co., appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b576-15\">Decided March 30, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ANK\">Appeal by defendant from judgment entered on verdict of jury for plaintiff. Julien</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b577-4\"><page-number citation-index=\"1\" label=\"559\">*559</page-number>T. Davies, for appellant. Louis J. Grant, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"ADm\">Before Sedgwick, Ch. J., O\u2019Gorman and. Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A6M\">Per Curiam.</author>\n<p id=\"ApG\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

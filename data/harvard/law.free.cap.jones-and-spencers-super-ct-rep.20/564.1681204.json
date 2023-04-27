@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"564\" lastpage=\"564\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b582-8\">B. R. Smith, <em>et al., </em>appellants, <em>v. </em>Charles C. Hardwick, respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b582-9\">Decided December 7, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A4I\">Appeal from judgment entered on referee\u2019s report, dismissing complaint on the merits.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AZC\">R. L. Harrison, for appellant. Butler, Stillman &amp; Hubbard, for respondents.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A4Q\">Before Sedgwick, Oh. J., and Freedman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AvK\">Per Curiam.</author>\n<p id=\"AxQ\">The judgment appealed from should be affirmed upon the opinion of the referee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

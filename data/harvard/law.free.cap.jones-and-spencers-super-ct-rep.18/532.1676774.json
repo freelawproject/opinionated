@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"532\" lastpage=\"532\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b556-8\">Emma Bayles, appellant, <em>v. </em>John T. Cornell, respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ANE\">Decided April 7, 1884.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"b556-9\">Appeal by plaintiff, from judgment entered upon find - ing and conclusions by judge at special term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A1a\">Thomas Darlington, for appellant;</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A7X\">F. G. McDonald, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A_o\">Before Sedgwick, Ch. J., and O\u2019Gorman, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AZG\">Per Curiam.</author>\n<p id=\"ANb\">Judgment affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

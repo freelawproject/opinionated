@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"602\" lastpage=\"602\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b610-4\">No. 2434.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A-_\">Pickens <em>v. </em>Quillian.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"Adt\">April Term, 1889.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A-3X\">filed May 27, 1889.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A6q8\">Order</p>\n<author id=\"ALCm\">per curiam</author>\n<p id=\"AECa\">Motion for leave to apply to the Circuit Judge for the appointment of a receiver. But the return not having been filed, this court held that it was without jurisdiction.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

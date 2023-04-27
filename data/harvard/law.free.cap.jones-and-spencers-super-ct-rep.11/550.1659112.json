@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"550\" lastpage=\"550\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b566-11\">ELIZABETH N. DEAN, Plaintiff and Appellant, <em>v. </em>THE N. Y. CENTRAL AND HUDSON R. R. R. COMPANY, Defendant and Respondent.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b566-13\"><em>Decided June </em>25, 1877.</decisiondate>\n<p data-order=\"1\" data-type=\"judges\" id=\"b566-12\">Before Sedowick, Speir and Freedman, JJ.</p>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b566-14\">Appeal from judgment for defendant on report of referee.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b566-15\"><em>Robert I. </em>Little, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b566-16\"><em>Frank </em>Loomis, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b566-17\">The only question involved was whether the evidence was supported by the referee\u2019s findings of fact.</p>\n<author id=\"b566-18\">Per Curiam.</author>\n<p id=\"Ay4z\">\u2014Judgment affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

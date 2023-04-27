@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"580\" lastpage=\"580\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b608-8\">Alexander Thain, Respondent <em>v. </em>Charles Jones, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b608-10\">Decided March 2, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AqY\">Appeal from an order of reference.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A9c\">Alexander Thain, respondent in person.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A08\">John M. Tierney, for appellant.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AEG\">Before Sedgwick, Ch. J., and Dugro, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Apd\">Per Curiam.</author>\n<p id=\"A7M\">Order affirmed, with ten dollars costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

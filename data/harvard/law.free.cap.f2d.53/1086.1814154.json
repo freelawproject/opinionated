@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1086\" lastpage=\"1086\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1110-24\">UNITED STATES of America, Appellant, v. SHAMIRAN ALOOJIAN et al., Appellees.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1110-25\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AuA\">Dec. 9, 1931.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b1110-27\">Samuel W. McNabb, U. S. Atty., and Clyde Thomas, Asst. U. S. \u00c1tty., both of Los Angeles, Cal.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1110-28\">Percy C. Church, of Fresno, Cal., for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1110-29\">Before WILBUR and SAWTELLE, Circuit Judges, and JAMES, District Judge.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1110-30\">PER CURIAM.</author>\n<p id=\"b1110-31\">Pursuant to stipulation of counsel for the respective parties, ordered appeal dismissed; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

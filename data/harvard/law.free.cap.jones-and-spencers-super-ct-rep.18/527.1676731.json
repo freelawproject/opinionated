@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"527\" lastpage=\"527\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b551-7\">James Goodfellow, appellant, <em>v. </em>The Mayor, &amp;c. of the City of New York, respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"As6\">Decided February 4, 1884.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"b551-8\">Appeal from a judgment, dismissing the complaint with costs.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aeh\">B. F. Mudgett. for appellant;</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AX8\">D. J. Dean, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AHQ\">Before Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AO1\">Per Curiam.</author>\n<p id=\"AEB\">The evidence failed to show any negligence in the defendant and therefore the complaint was rightly dismissed. The judgment is affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

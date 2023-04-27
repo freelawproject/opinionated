@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"831\" lastpage=\"831\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b903-5\">No. 303,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AZG_\">Misc.</p>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"AJQ8\"><em>Solicitor General Perlman, Assistant Attorney General Sonnett, Leonard J. Emmerglick, Robert L. Stern, Kenneth L. Kimble </em>and <em>Horace H. Robbins </em>for the United States.</attorneys>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Apy\">United States <em>v. </em>United States District Court for the Southern District of New York et al.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1V\">Motion for leave to file petition for writ of mandamus denied.</p>\n<judges id=\"AlI\">Mr. Justice Murphy and Mr. Justice Jackson took no part in the consideration or decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

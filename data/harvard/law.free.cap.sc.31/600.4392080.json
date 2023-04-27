@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"600\" lastpage=\"600\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b608-5\">No. 2425.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AsH\">Stoddard <em>v. </em>Roland.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"ASGv\">April Term, 1889.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A-Ak\">April 17, 1889.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AMm\"><em>B. W. </em>Ball, for motion. <em>J. T. </em>Johnson, contra.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Atv\">Per Curiam,</author>\n<p id=\"AvTC\">Motion to reinstate appeal dismissed by the clerk of this court for failure to file return within time. Motion granted, it appearing that the parties had within the time agreed upon a statement of the case as a return which was thereupon filed with the clerk of the Circuit Court and handed to the printer, and that the failure to file a copy with the clerk of this court within time resulted from the delay of the printer in printing.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

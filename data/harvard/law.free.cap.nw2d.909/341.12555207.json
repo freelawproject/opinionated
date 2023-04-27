@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"341\" lastpage=\"341\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  WESTERN NATIONAL INSURANCE COMPANY, Respondent,\n  <br/>\n  v.\n  <br/>\n  Jon NGUYEN, Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  A17-0314\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Minnesota.\n </court>\n <decisiondate id=\"p-4\">\n  Dated: March 23, 2018\n </decisiondate>\n <p id=\"p-5\">\n  ORDER\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Based upon all the files, records, and proceedings herein, and upon an evenly divided court,\n  </p>\n  <p id=\"p-7\">\n   IT IS HEREBY ORDERED that the decision of the court of appeals filed on September 18, 2017, be, and the same is, affirmed without opinion.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

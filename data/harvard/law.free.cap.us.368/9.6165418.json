@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"9\" lastpage=\"9\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b97-4\">CEPERO <em>v. </em>RINCON de GAUTIER, CITY MANAGER, SAN JUAN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b97-6\">No. 108,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"ASP\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AS\">Decided October 9, 1961.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b97-7\">Per Curiam.</author>\n<p id=\"b97-8\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

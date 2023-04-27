@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"585\" lastpage=\"585\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b613-8\">Cornelia Gilman, Plaintiff <em>v. </em>Preble Tucker, Defendant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b613-9\">Decided May 1, 1891.</decisiondate>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"A07\">George H. Fletcher, for plaintiff.</attorneys>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ad2\">Tucker, Hardy &amp; Wainwright, for defendant.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Ar0\">Before Sedgwick, Ch. J., and Ingraham, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AG_v\">Per Curiam.</author>\n<p id=\"A8K\">Order affirmed, with ten dollars costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

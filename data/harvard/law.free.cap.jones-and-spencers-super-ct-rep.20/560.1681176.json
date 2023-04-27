@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"560\" lastpage=\"560\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b578-8\">Henry C. Dart, respondent, <em>v. </em>William E. Laimbeer, appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b578-9\">Decided June 1, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AAZI\">Appeal by defendant from judgment entered against him upon the verdict of a jury, and from order denying his motion for a new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Anr\">Davies &amp; Rapallo, for appellant. Wingate &amp; Cullen, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"ArX\">Before Freedman and Truax, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AOk\">Opinion by Freedman, J.</author>\n<p id=\"Ajn\">Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

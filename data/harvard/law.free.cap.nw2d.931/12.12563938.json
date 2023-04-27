@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"12\" lastpage=\"12\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  CITY OF DEARBORN, Plaintiff/Counterdefendant-Appellee,\n  <br/>\n  v.\n  <br/>\n  BANK OF AMERICA, Defendant/Cross-Defendant-Appellee,\n  <br/>\n  and\n  <br/>\n  West Dearborn Partners LLC, Defendant/Counterplaintiff/Cross-Plaintiff-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  MSC: 159691\n  <br/>\n  COA: 339704\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  July 24, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of appellant to extend the time for filing its reply is GRANTED. The reply will be accepted as timely filed if submitted on or before August 2, 2019.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"533\" lastpage=\"533\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b557-5\">John F. Losee, who sues, etc., <em>v. </em>John D. Prince, <em>et al.</em></parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A6R\">Decided April 7, 1884.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Aa8\">Appeal from judgment.</summary>\n<p data-order=\"3\" data-type=\"judges\" id=\"AzR\">Before Sedgwick, Ch. J., and Truax, J.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AoUF\">Per Curiam.</author>\n<p id=\"ASS\">Judgment reversed to the costs order to be settled on notice.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

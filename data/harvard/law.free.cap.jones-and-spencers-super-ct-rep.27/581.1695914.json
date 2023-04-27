@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"581\" lastpage=\"581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b609-5\">Mina Christiana Haegmeyer, Respondent v. The Manhattan Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b609-6\">Decided March 3, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A5L\">Appeal from judgment entered upon the decision of a judge at the equity term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ANl\">Davies &amp; Rapallo, attorneys, and Julien T. Davies and Brainard Tolies of counsel, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aqof\">James B. Ludlow, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Auo\">Before Sedgwick, Ch. J., Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AaQ2\">Per Curiam.</author>\n<p id=\"Aya\">The judgment should be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

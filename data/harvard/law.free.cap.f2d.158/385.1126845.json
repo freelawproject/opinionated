@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"385\" lastpage=\"385\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b441-8\">UNITED STATES of America, Appellant, v. CITY AUTO STAMPING COMPANY, a Corporation, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b441-9\">No. 10253.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b441-10\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A_2\">Dec. 5, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b441-12\">Don C. Miller, of Cleveland, Ohio, and Gerald P. Openlander, of Toledo, Ohio, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b441-13\">No appearance for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b441-14\">Before HICKS and MILLER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b441-15\">PER CURIAM.</author>\n<p id=\"b441-16\">Pursuant to motion of appellant it is ordered that the appeal herein be and the same is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

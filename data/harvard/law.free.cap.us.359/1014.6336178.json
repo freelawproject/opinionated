@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b738-8\">No. 809,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AOst\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"APMg\">Lloyd <em>v. </em>Maryland.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A8VV\">Petitioner <em>pro. se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AZ_X\"><em>C. Ferdinand Sybert, </em>Attorney General of Maryland, <em>Joseph S. Kaufman, </em>Assistant Attorney General, and <em>James H. Norris, Jr., </em>Special Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AIK5J\">Court of Appeals of Maryland. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

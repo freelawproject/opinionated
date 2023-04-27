@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1040\" lastpage=\"1040\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1094-3\">New York Superior Court</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"ASMy\">General Term.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1094-4\">Filed November 3, 1890.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1094-5\">Eliza W. White <em>et al., </em>Resp\u2019ts, v. Edward W. Benjamin, App\u2019lt.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1094-6\">Appeal from order directing defendant to furnish a bill of particulars.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1094-7\">Per Curiam.</author>\n<p id=\"AyHO\">The order should be affirmed, with ten dollars costs and disbursements.</p>\n<p id=\"b1094-8\">Freedman and Ingraham, JJ., concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

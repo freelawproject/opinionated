@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"318\" lastpage=\"318\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  LIPE\n  <br/>\n  v.\n  <br/>\n  STARR DAVIS COMPANY, INC., et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 445P14-1.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 24, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  M. Duane Jones, Charlotte, for Travelers Casualty &amp; Surety.\n </attorneys>\n <attorneys id=\"p-6\">\n  Hatcher B. Kincheloe, Charlotte.\n </attorneys>\n <attorneys id=\"p-7\">\n  Michael B. Pross, Cathy A. Williams, Salisbury, for Lipe, Shirley, et al.\n </attorneys>\n <attorneys id=\"p-8\">\n  Jeri L. Whitfield, Greensboro, Elizabeth Brooks Scherer, Raleigh, for N.C. Chamber and N.C. Association of Defense Attorneys.\n </attorneys>\n <p id=\"p-9\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-10\">\n   The following order has been entered on the motion filed on the 9th of December 2014 by Defendant (Travelers Casualty &amp; Surety) for Temporary Stay:\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

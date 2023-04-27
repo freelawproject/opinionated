@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"466\" lastpage=\"466\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b504-11\">Frederick L. Degener, Respondent <em>v. </em>John T. Underwood, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b504-12\">Decided December <em>5, </em>1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ALX\">Appeal by defendants from order denying their motion to retax costs.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A6F\">James A. Hudson, for appellants. J. E. Ludden, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"ALV\">Before Dugro and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Akk\">Opinion by Dugro, J., Gildersleeve, J., concurred. Order affirmed, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"589\" lastpage=\"590\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b617-10\">Elizabeth J. Haynes, Respondent <em>v. </em>Elizabeth W. Aldrich, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b617-11\">Decided June 1, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A9fv\">Appeal from judgment entered on verdict directed by the trial judge in favor of <page-number citation-index=\"1\" label=\"590\">*590</page-number>plaintiff.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ARDc\">Spencer Aldrich, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A-M\">Olin, Rives &amp; Montgomery, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Ae3T\">Before Sedgwick, Ch. J., and McAdam, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AZkI\">Per Curiam.</author>\n<p id=\"AQ4\">The judgment herein will be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

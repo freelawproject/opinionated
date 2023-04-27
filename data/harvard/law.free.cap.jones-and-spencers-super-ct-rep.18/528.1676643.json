@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"528\" lastpage=\"528\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b552-4\">The Wilber National Bank of Oneonta, New York, respondent, <em>v. </em>John F. Betz, Impleaded, &amp;c., appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AoBB\">Decided February 4, 1884.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"b552-5\">Appeal by defendant from an order denying bis motion to set aside order for publication of summons.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AUJ\">Samuel Untermyer, for appellant;</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ADTL\">Estes &amp; Barnard, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AS9\">Before Sedgwick, Ch. J., Freedman and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ASy\">Per Curiam.</author>\n<p id=\"AmZA\">Order affirmed, with $10 costs and disbursements to be taxed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

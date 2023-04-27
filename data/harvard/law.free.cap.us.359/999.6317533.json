@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b723-12\">No. 581,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AIjY\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A-qb\">Bristol et al. <em>v. </em>Heaton et al.,</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APWy\"><em>ante, </em>p. 230. Petition for rehearing denied.</p>\n<judges id=\"AMmX\">Mr. Justice Douglas is of the opinion that a rehearing should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

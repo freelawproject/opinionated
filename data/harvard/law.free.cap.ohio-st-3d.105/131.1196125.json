@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"131\" lastpage=\"132\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b283-13\">The State of Ohio, Appellee, <em>v. </em>Glavic, Appellant.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b283-14\">[Cite as <em>State v. Glavic, </em>105 Ohio St.3d 131, 2005-Ohio-787.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b284-3\"><page-number citation-index=\"1\" label=\"132\">*132</page-number>(No. 2004-0537</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AG1\">Submitted February 16, 2005</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A7c\">Decided March 16, 2005.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b284-7\">Alan R. Glavic, pro se.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b284-5\">{\u00b6 1} The judgment of the court of appeals is affirmed on the authority of <em>State v. White, </em>103 Ohio St.3d 580, 2004-Ohio-5989, 817 N.E.2d 393.</p>\n<judges id=\"b284-6\">Moyer, C.J., Resnick, Pfeifer, Lundberg Stratton, O\u2019Connor, O\u2019Donnell and Lanzinger, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

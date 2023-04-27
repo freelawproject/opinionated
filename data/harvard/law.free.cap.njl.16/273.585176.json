@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"273\" lastpage=\"273\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b289-4\">BRIGHT v. HAND.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b289-5\">On <em>Certiorari </em>to a Justice of the peace.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b289-6\">\n<em>H. W. Creen,</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"AY-\">moved for a reversal of the judgment, for the following reasons 1st. Because the judgment was rendered upon a writ of attachment issued against one only of two debtors on their joint promissory note.</p>\n<p data-order=\"4\" data-type=\"legal\" id=\"b289-7\">2d. Because the suit was brought in the name of the payee of the note, although it was indorsed to a third person, and not re-assigned j and 3dly. Because the sum demanded exceeds fifty dollars.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b289-8\">By the Court,</author>\n<p id=\"AXC\">either reason is sufficient cause for reversal.</p>\n<p id=\"b289-9\">\n<em>Judgment reversed.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

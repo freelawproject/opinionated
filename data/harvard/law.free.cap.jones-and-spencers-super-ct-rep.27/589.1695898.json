@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"589\" lastpage=\"589\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b617-4\">Henry L. Meyer, Respondent <em>v. </em>The New York Elevated Railroad Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b617-5\">Decided May 4, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AWP\">Appeal from judgment entered upon the decision of a judge after a trial of the issues at the equity term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ADTJ\">Davies &amp; Rapallo, attorneys, and Julien T. Davies and Charles H. Peck of counsel, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A0on\">Leo C. Dessar, attorney and of counsel, and Joseph B. Reilly of counsel, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A-H\">Before Sedgwick, Ch. J., Freedman and McAdam, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A-U\">Per Curiam.</author>\n<p id=\"A6Km\">The judgment should be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

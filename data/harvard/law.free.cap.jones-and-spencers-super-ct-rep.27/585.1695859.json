@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"585\" lastpage=\"585\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b613-6\">Peter Somers, Respondent <em>v. </em>The Metropolitan Elevated Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b613-7\">Decided April 16, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AAm\">Appeal by defendants from judgment entered upon findings and conclusions, made at special term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ABb\">Julien T. Davies and Alexander S. Lyman, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A2x\">Charles Gibson Bennett, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AWo\">Before Sedgwick, Ch. J., and Dugro, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A6rp\">Per Curiam.</author>\n<p id=\"A7p\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

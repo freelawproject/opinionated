@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"586\" lastpage=\"586\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b614-5\">Maria Schwartz, Appellant <em>v. </em>The Women\u2019s Mutual Insurance and Accident Co., of America, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b614-6\">Decided May 4, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Abr\">Appeal by plaintiff from order setting aside judgment entered as of default and\" compelling plaintiff to receive defendant\u2019s answer!</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ak3\">Arnoux, Ritch &amp; Woodford, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AHI\">John A. Kamping, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Aogh\">Before Sedgwick, Ch. J., Freedman and McAdam, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Alx\">The Cotirt (Freedman, J., writing, Sedgwick, Ch. J., and McAdam, J., concurring) modified the order and as so modified affirmed it, without costs to either party on the appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

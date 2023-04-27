@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"867\" lastpage=\"867\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b945-4\">No. 415,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AIEq\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ALUF\">Lovelady <em>v. </em>Texas.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ABO\"><em>Sam W. Davis </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A026\">Court of Criminal Appeals of Texas. Certiorari granted limited to the question of the constitution of the grand jury, the second question presented by the petition for the writ. Execution of the sentence of death imposed on this petitioner is ordered stayed pending the final disposition of the case by this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

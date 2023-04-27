@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"559\" lastpage=\"559\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b577-5\">John G. Scott <em>v. </em>Pedro Montells.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b577-6\">Decided April 6, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ARr\">Exceptions of both sides ordered to be heard at general term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A7J\">Alfred I. Walker and David L. Walter, for plaintiff. Kent &amp; Auerbach, and Geo. W. Cotterill, for defendant.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Am4\">Before Sedgwick, Ch. J., O\u2019Gorman, and Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ADa\">Opinion by O\u2019Gorman, J.</author>\n<p id=\"AyI3\">Exceptions overruled, and judgment for plaintiff ordered on verdict.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

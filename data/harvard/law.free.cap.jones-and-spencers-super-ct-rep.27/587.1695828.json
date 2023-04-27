@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"587\" lastpage=\"588\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b615-9\">James J. Gearns, Administrator, Appellant v. The Bowery Savings Bank, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b615-10\">Decided May 4, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"At1\">Appeal by plaintiff from judgment entered on verdict for defendant.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Az5\">Titus &amp; Dowling, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AbD\">Norwood &amp; Coggeshall, for <page-number citation-index=\"1\" label=\"588\">*588</page-number>respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ArV\">Before Sedgwick, Ch. J., and McAdam, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Avu\">Per Curiam.</author>\n<p id=\"AEt\">On account of a division of opinion of the judges the judgment is affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

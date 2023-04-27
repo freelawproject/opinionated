@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"577\" lastpage=\"577\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b605-5\">James P. Kernochan, Individually and as Executor, etc., <em>et al., </em>Respondents v. The New York Elevated Railroad Company, <em>et al., </em>Appellants. (Action No. 2.)</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b605-6\">Decided February 13, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A-Z\">Appeal by defendants from order denying them leave to serve an amended and supplemental answer.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aax\">Davies &amp; Rapallo, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AZo\">G. Willett Van Nest, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A7l\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AzW\">Per Curiam.</author>\n<p id=\"ANE\">Order appealed from affirmed, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

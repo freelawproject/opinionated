@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"563\" lastpage=\"563\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b581-5\">Margaret Morgan <em>v. </em>John B. McCaffrey.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b581-6\">Decided October 5, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AJO\">This action was tried before the court and a jury. The court dismissed the complaint and ordered the plaintiff\u2019s exceptions to be heard in the first instance at the general term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ADE1\">Samuel D. Levy and Benno Loewv, for plaintiff. Joseph Stewart and Ambrose Monell, for defendant.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AfM\">Before Sedgwick, Ch. J., Freedman and Truax, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ATT\">Opinion by Truax, J.</author>\n<p id=\"A_g\">Plaintiff\u2019s exceptions overruled, and judgment ordered for defendant, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

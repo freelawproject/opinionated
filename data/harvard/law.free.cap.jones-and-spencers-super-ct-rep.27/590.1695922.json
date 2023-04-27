@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"590\" lastpage=\"590\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b618-5\">William L. Cole, Respondent v. The New York Elevated Railroad Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b618-6\">Decided June 1, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AIH\">Appeal by defendants from judgment entered on findings at special term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AtV\">Davies &amp; Rapallo, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Amj\">Peckham &amp; Tyler, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AmA\">Before Sedgwick, Ch. J., Freedman and McAdam, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A8u\">Per Curiam.</author>\n<p id=\"AJP\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

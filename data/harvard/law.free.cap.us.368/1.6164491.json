@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1\" lastpage=\"1\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b89-11\">JOHNSON et al. <em>v. </em>DISTRICT COURT OF IOWA IN AND FOR FAYETTE COUNTY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b89-13\">No. 331,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AuvI\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ax_\">Decided October 9, 1961.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b89-15\">Per Curiam.</author>\n<p id=\"b89-16\">The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

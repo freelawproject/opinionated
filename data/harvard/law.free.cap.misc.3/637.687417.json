@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"637\" lastpage=\"637\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b683-8\">(New York Common Pleas</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AYJ\">General Term,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXz\">May, 1893.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b683-9\">Before Bookstaveb, Bisohoff and Peyob, JJ.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"ApY\">Marshall Barber and Another, Respondents, <em>v. </em>Albert Gray, Appellant.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A4Gd\">Billings &amp; Cardozo, for respondents. H. Fromme, for appellant.</attorneys>\n<summary data-order=\"6\" data-type=\"summary\" id=\"AYBY\">Appeal from judgment of the City Court.</summary>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHNO\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

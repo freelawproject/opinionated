@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"636\" lastpage=\"636\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b682-2\">(New York Common Pleas</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AAW\">General Term,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ar5\">April, 1893.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b682-3\">Before Bisohoff and Pryor, JJ.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"b682-4\">In re Application of the \u201c Lawyers\u2019 Surety Co. of N. Y.\u201d for an Order Respecting the Approval of Bonds and Undertakings, etc. Norwood <em>&amp; </em>Coggeshall, for petitioner.</parties>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ArT\">Petition authorizing the approval of bonds of the Lawyers\u2019 Surety Co. of N. Y. granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

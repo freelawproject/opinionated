@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"531\" lastpage=\"531\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b555-8\">Henry Newman, respondent, <em>v. </em>Emil Greef, <em>et al. </em>appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ALv\">Decided April 7, 1884.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"b555-9\">Appeal by defendant from judgment, entered upon a verdict of jury for plaintiff, and from order denying defendants\u2019 motion for a new trial made upon the judge\u2019s minutes.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AAI\">W. Z. Larned, for appellant;</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A8p\">Stern &amp; Myers, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AEC\">Before Sedgwick, Ch. J., Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMG\">Opinion Per Curiam. Judgment affirmed with costs, and order appealed from affirmed with $10 costs and disbursements to be taxed. Truax, J., dissented.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

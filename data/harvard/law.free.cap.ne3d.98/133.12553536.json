@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"133\" lastpage=\"133\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE the GUARDIANSHIP OF John T. ALDRICH, an Adult,\n </parties>\n <parties id=\"p-2\">\n  Brock L. Aldrich, Appellant (Cross-Petitioner Below),\n  <br/>\n  v.\n  <br/>\n  Sandra Aldrich, Appellee (Petitioner Below).\n </parties>\n <docketnumber id=\"p-3\">\n  Court of Appeals Case No. 08A02-1704-GU-821\n </docketnumber>\n <court id=\"p-4\">\n  Court of Appeals of Indiana.\n </court>\n <decisiondate id=\"p-5\">\n  FILED April 9, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   DISPOSITION OF CASE BY UNPUBLISHED MEMORANDUM DECISION\n  </strong>\n </p>\n <judges id=\"p-7\">\n  <strong>\n   FRIEDLANDER\n  </strong>\n  ,\n  <em>\n   Sr.J.\n  </em>\n </judges>\n <opinion id=\"p-8\">\n  Affirmed.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   MATHIAS, J., Concurs.\n  </author>\n  <p id=\"p-10\">\n   CRONE, J., Concurs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

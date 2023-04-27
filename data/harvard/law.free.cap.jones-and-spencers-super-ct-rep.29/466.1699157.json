@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"466\" lastpage=\"466\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b504-5\">Worthington Company, <em>et al., v. </em>Robert Avery.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b504-6\">Decided October 24, 1892.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"AoEL\">Before Freedman P. J., McAdam and Gildersleeve, JJ.</p>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A7U\">Per Curiam.</author>\n<p id=\"ABP\">Motion denied, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

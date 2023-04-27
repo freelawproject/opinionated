@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"19\" lastpage=\"19\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b107-3\">DeGREGORY <em>v. </em>ATTORNEY GENERAL OF NEW HAMPSHIRE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b107-5\">No. 237,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AO4o\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ai\">Decided October 23, 1961.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b107-7\"><em>Howard S. Whiteside </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b107-8\"><em>Gardner C. Turner, </em>Attorney General of New Hampshire, <em>pro se.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b107-9\">Per Curiam.</author>\n<p id=\"b107-10\">The judgment is affirmed.</p>\n<judges id=\"b107-11\">The Chief Justice, Mr. Justice Black, Mr. Justice Douglas and Mr. Justice Brennan dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

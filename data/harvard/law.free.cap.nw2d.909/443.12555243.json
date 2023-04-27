@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"443\" lastpage=\"443\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  INTEREST OF C.A., Minor Child,\n </parties>\n <docketnumber id=\"p-2\">\n  A.P., Mother, Petitioner-Appellee,\n </docketnumber>\n <docketnumber id=\"p-3\">\n  B.A., Father, Respondent-Appellant.\n </docketnumber>\n <docketnumber id=\"p-4\">\n  No. 17-0835\n </docketnumber>\n <court id=\"p-5\">\n  Court of Appeals of Iowa.\n </court>\n <decisiondate id=\"p-6\">\n  Filed November 8, 2017\n </decisiondate>\n <p id=\"p-7\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

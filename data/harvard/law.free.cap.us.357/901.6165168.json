@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b629-2\">June 9, 1958.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b629-5\">No. 479,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"ALEQ\">Misc.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Atn\">Cagle <em>v. </em>United States.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A3-\">Petitioner <em>pro se. Solicitor General Rankin, Assistant Attorney General White </em>and <em>Harold H. Greene </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AcU\">Motion for leave to file petition for writ of habeas corpus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

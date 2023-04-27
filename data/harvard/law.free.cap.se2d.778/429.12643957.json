@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"429\" lastpage=\"429\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Jonathon Lavon FRIEND.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 345P15-1.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Nov. 5, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Jonathon Lavon Friend, Salisbury, for Friend, Jonathan Lavon.\n </attorneys>\n <attorneys id=\"p-6\">\n  Joseph L. Hyde, Assistant Attorney General, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-7\">\n  James R. O'Neill, District Attorney, for State of North Carolina.\n </attorneys>\n <p id=\"p-8\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   The following order has been entered on the motion filed on the 8th of October 2015 by Defendant for Writ of Error:\n  </p>\n  <blockquote id=\"p-10\">\n   \"Motion Dismissed by order of the Court in conference, this the 5th of November 2015.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

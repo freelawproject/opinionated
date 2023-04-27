@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"895\" lastpage=\"895\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Kadeem KIRK.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 40P16.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  March 17, 2016.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Mark Montgomery, for Kirk, Kadeem.\n </attorneys>\n <attorneys id=\"p-6\">\n  Kathleen N. Bolton, Assistant Attorney General, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-7\">\n  William R. West, District Attorney, for State of North Carolina.\n </attorneys>\n <p id=\"p-8\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   Upon consideration of the conditional petition filed on the 16th of February 2016 by State of NC in this matter for discretionary review of the decision of the North Carolina Court of Appeals pursuant to G.S. 7A-31, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <blockquote id=\"p-10\">\n   \"Dismissed as moot by order of the Court in conference, this the 17th of March 2016.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"587\" lastpage=\"587\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b615-7\">George H. Randall, Respondent <em>v. </em>United Life and Accident Insurance Association, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b615-8\">Decided May 4, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A1Q\">Appeals by defendant from an order denying defendant\u2019s motion at the trial term to postpone the trialfrom an order denying defendant\u2019s motion to open default and inquest taken, and from an order denying defendant\u2019s motion for a re-argument of the last motion.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AlI\">Harry Wilber, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ANc\">Samuel H. Randall, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Ai9\">Before Sedgwick, Ch. J., and McAdam, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Ayr\">Per Curiam.</author>\n<p id=\"AOd\">The orders are affirmed, with ten dollars costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

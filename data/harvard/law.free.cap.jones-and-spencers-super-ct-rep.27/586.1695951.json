@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"586\" lastpage=\"587\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b614-9\">William W. Thompson, Respondent <em>v. </em>The Manhattan Railway Company, <em>et al., </em>Impleaded, etc., Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b614-10\">Decided May 4, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AFn8\">Appeal from judgment en<page-number citation-index=\"1\" label=\"587\">*587</page-number>tered on the report of referees.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A2Q\">Davies <em>&amp; </em>Rapallo, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AEQ\">John A. Weeks, Jr., for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AcL\">Before Sedgwick, Ch. J., Freedman and McAdam, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AfI\">Per Curiam.</author>\n<p id=\"A7N\">It is conceded by the counsel for appellants that the matters on which a reversal is asked have been determined by this court adversely to the defendants. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"95\" lastpage=\"95\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b151-4\">Dan DOSS, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b151-5\">No. 11735.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b151-6\">Circuit Court of Appeals, Fifth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A5h\">Dec. 12, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b151-8\">Dan Doss, of Leavenworth, Kan., for appellant, in pro. per.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b151-9\">Malcolm E. Lafargue, U. S. Atty., of Shreveport, La., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b151-10\">Before HUTCHESON, McCORD, and LEE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b151-11\">PER CURIAM.</author>\n<p id=\"b151-12\">On authority of Morgan v. Devine, 237 U.S. 632, 35 S.Ct. 712, 59 L.Ed. 1153, the judgment, 66 F.Supp. 243, is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

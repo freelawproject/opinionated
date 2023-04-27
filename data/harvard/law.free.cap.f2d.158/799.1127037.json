@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"799\" lastpage=\"799\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b855-4\">J. W. MORRIS et al., Appellants, v. Raphael DECHTER et al., Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b855-5\">No. 11316.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b855-6\">Circuit Court of Appeals, Ninth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ayl-dedup-1\">Nov. 22, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b855-13\">Frank L. Kostlan, of Pasadena, Cal., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b855-14\">B. L. Hoyt and Dechter, Hoyt, Pines &amp; Walsh, all of Los Angeles, Cal., for appellees R. D. Decther, D. Decther, D. H. Graham, and Mrs. D. H. Graham.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b855-15\">Before MATHEWS, STEPHENS, and ORR, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b855-16\">PER CURIAM.</author>\n<p id=\"b855-17\">The judgment of the District Court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

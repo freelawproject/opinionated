@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"830\" lastpage=\"830\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b908-5\">No. 327,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Ah2\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AQ0\">Patton <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AjU\"><em>Wesley S. Williams </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AhY\"><em>Solicitor General Perlman, Assistant Attorney General Quinn, Robert S. Erdahl </em>and <em>Beatrice Rosenberg </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AC1j\">United States Court of Appeals for the District of Columbia. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

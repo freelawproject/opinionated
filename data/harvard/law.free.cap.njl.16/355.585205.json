@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"355\" lastpage=\"355\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b371-4\">HULL v. LARZALERE.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b371-5\">On <em>Certiorari </em>to Common Pleas, on appeal, returnable to next term.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b371-6\">\n<em>Mr. Sherrard,</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"Azk\">after reading an affidavit, moved for a rule upon the Common Pleas to stay their proceedings and not issue execution on their judgment.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b371-7\">By the Court.</author>\n<p id=\"A57\">Such a rale might, as a precedent, lead to abuse. The correct course, if execution be issued, is to apply to a judge at Chambers, who will upon a proper affidavit, allow a <em>supersedeas.</em></p>\n<p id=\"b371-8\">\n<em>Rule refused.</em>\n</p>\n<p id=\"b371-9\">Cited <em>in McWilliams </em>v. <em>King, </em>3 <em>Vr. </em>24.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

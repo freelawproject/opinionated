@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"529\" lastpage=\"529\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b553-4\">James N. Donvan, respondent, <em>v. </em>William B. Welsh appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AA9\">Decided March 4, 1884.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"b553-5\">Appeal by defendant from judgment entered upon verdict of jury in favor of plaintiff, and from order denying motion for new trial made upon the judge\u2019s minutes.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AVt\">William H. Gibson, for appellant;</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AYh\">Payson Merrill, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Aod\">Before Sedgwick, Ch. J., Truax and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ASW\">Per Curiam.</author>\n<p id=\"Avt\">Judgment affirmed, with costs. Order appealed from affirmed, with $10 costs and disbursements to be taxed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

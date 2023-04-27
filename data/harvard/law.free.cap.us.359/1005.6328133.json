@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1005\" lastpage=\"1005\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b729-9\">No. 752,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AlkZ\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A3m_\">Thomas <em>v. </em>Illinois.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A6Zs\"><em>Gerald W. Getty </em>and <em>James J. Doherty </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AO9Y\">Supreme Court of Illinois. Certiorari denied.</p>\n<judges id=\"AsFy\">Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

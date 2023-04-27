@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"68\" lastpage=\"68\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jane DOE NO. 62, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  INDIANA UNIVERSITY BLOOMINGTON, et al., Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  Supreme Court Case No. 18S-CQ-00220\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-4\">\n  Filed June 01, 2018\n </decisiondate>\n <p id=\"p-5\">\n  Order\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Pursuant to Indiana Appellate Rule 64, the United States District Court for the Southern District of Indiana has certified several questions of Indiana state law arising in\n   <em>\n    Jane Doe No. 62 v. Indiana University Bloomington,\n    <em>\n     et al.\n    </em>\n   </em>\n   , Case No. 1:16-CV-01480-JMS-DML for this Court's consideration.\n  </p>\n  <p id=\"p-7\">\n   The certified questions, which each member of this Court has considered, are hereby DECLINED by a majority vote of the Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

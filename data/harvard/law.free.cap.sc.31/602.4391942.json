@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"602\" lastpage=\"602\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b610-3\">No. 2433.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AqmD\">Ballew <em>v. </em>Anderson.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"AkS\">April Term, 1889.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A7H\">May 20, 1889.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AfY\"><em>B. W. Ball, </em>for motion.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Au1\">Order filed</p>\n<author id=\"A9v\">per curiam,</author>\n<p id=\"AQN\">Motion to reinstate appeal which had been dismissed by the clerk under'Rule 1. There had been a Case agreed upon, but such agreed Case was not filed within the time prescribed. Motion refused. Return, or agreed statement, must be filed within the time limited by the rules.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

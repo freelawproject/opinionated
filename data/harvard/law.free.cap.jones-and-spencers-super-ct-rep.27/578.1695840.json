@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"578\" lastpage=\"578\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b606-7\">Abraham Kaim, <em>et al., </em>Respondents v. The Metropolitan Elevated Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b606-8\">Decided March 2, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A5Q\">Appeal from a judgment rendered after a trial at an equity term of this court.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ajh\">Davies &amp; Rapallo, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aac5\">Sackett &amp; Bennett, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A8-\">Before Truax and Dugro, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AmT\">Per Curiam.</author>\n<p id=\"A2q\">This appeal presents no new points. Judgment is affirmed, with Costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

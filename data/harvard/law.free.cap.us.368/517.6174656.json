@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"517\" lastpage=\"517\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b605-4\">IN RE KELLEY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b605-6\">No. 733,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Au_\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AK8\">Decided February 19, 1962.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b605-7\">Per Curiam.</author>\n<p id=\"b605-8\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"463\" lastpage=\"463\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b501-7\">Tobias Oberfelder, Respondent <em>v. </em>The Metropolitan Elevated Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b501-9\">Decided May 2, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A4n\">Appeal by defendants from judgment entered upon decision of a judge at special term in the plaintiff\u2019s favor.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Amt\">Davies <em>&amp; </em>Rapallo, attorneys, and Brainard Tolles of counsel, for appellants. E. B. &amp; C. P. Cowles, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Ai75\">Before Freedman, P. J., and McAdam, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Atj\">Per Curiam.</author>\n<p id=\"AHi\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

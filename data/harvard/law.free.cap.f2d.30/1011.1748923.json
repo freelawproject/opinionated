@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1011\" lastpage=\"1011\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1043-9\">FROMBERG SILK COMPANY, Inc., Plaintiff-Appellee, v. OSTROW &amp; ZUCKERMAN, Inc., Morris Ostrow, and Maurice L. Zuckerman, Defendants-Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1043-10\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AZn\">January 7, 1929.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1043-11\">No. 111.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1043-13\">Bondy &amp; Schloss, of New York City (Eugene L. Bondy, of New York City, of counsel), for appellants,</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1043-14\">Emil Weitzner, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1043-15\">Before MANTON, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1043-16\">PER CURIAM.</author>\n<p id=\"AMG\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"319\" lastpage=\"319\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Richard Darnell JAMES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 281A15-1.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 25, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  William D. Spence, Kinston, for James, Richard Darnell.\n </attorneys>\n <attorneys id=\"p-6\">\n  Kevin G. Mahoney, Assistant Attorney General, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-7\">\n  Susan I. Doyle, District Attorney, for State of North Carolina.\n </attorneys>\n <p id=\"p-8\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   The following order has been entered on the Motion for Extension of Time to File Brief filed on the 19th of August 2015 by Defendant:\n  </p>\n  <blockquote id=\"p-10\">\n   \"Motion Allowed by order of the Court in conference, this the 24th of August 2015.\"\n  </blockquote>\n  <p id=\"p-11\">\n   Defendant shall have up to and including the 22nd day of September 2015 to file and serve his/her brief with this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

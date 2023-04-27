@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"417\" lastpage=\"417\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b433-4\">MORGAN v. WATSON.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b433-5\">On <em>Certiorari </em>to Court of small causes.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b433-6\">\n<em>JR. L. Armstrong</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"ALP\">moved for a reversal of the judgment, for the insufficiency of the cause of action, as set forth in the state of demand.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b433-7\">The plaintiff below, charged the defendant, for his brother\u2019s board, without averring any liability or legal assumption.</p>\n<p id=\"b433-8\">\n<em>Judgment reversed. \u2018</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

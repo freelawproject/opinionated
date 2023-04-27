@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"802\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b610-7\">October 2, 1961.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b611-11\"><page-number citation-index=\"1\" label=\"803\">*803</page-number>No. 957,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Al28\">October Term, 1960.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AST0\">Hoover <em>v. </em>Oklahoma Turnpike Authority.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ACXs\"><em>Charles R. Nesbitt </em>for petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AhN\">(Certiorari denied, 366 U. S. 962.) Petition for rehearing dismissed pursuant to Rule 60 of the Rules of this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

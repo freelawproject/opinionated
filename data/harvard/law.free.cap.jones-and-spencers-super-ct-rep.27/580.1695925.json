@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"580\" lastpage=\"581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b608-11\">Abraham Levy, as Administrator, etc., Respondent <em>v. </em>The Knickerbocker Ice Company, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b608-12\">Decided March 2, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Aik\">Appeal by defendant from judgment entered on verdict of jury and from order denying motion for a new trial made upon the minutes.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ALi\">Maclay &amp; Forrest, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A3k\">Alfred Steckler, for <page-number citation-index=\"1\" label=\"581\">*581</page-number>respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ADO\">Before Sedgwick, Ch. J., and Dugro, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AhG\">Per Curiam.</author>\n<p id=\"ArC\">Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

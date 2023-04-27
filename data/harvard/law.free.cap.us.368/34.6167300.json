@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"34\" lastpage=\"34\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b122-11\">COATES <em>v. </em>WALTERS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b122-13\">No. 339,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AjL\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Az_\">Decided November 6, 1961.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b122-15\"><em>Vito J. Cassan </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b122-16\"><em>Louis J. Lefkowitz, </em>Attorney General of New York, <em>Paxton Blair, </em>Solicitor General, and <em>Jean M. Coon, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b122-17\">Per Curiam.</author>\n<p id=\"b122-18\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"558\" lastpage=\"558\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b576-8\">Frederick McLewee, respondent, <em>v. </em>Cassius H. Read, <em>et al., </em>appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b576-9\">Decided March 30, 1885.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AlT\">Appeal by defendants from judgment for plaintiff entered upon a verdict of a jury.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AuY\">Christopher Fine, for appellants. James 0. Foley, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A_9\">Before Sedgwick, Ch. J., and O\u2019Gorman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AZo\">Opinion by Sedgwick, Ch. J.</author>\n<p id=\"ACt\">Judgment and order</p>\n<p id=\"Aue\">affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

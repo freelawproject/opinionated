@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"615\" lastpage=\"615\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b661-11\">NEW YORK SUPERIOR COURT</court>\n<p data-order=\"1\" data-type=\"p\" id=\"AaK\">GENERAL TERM,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AbDL\">APRIL, 1893.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b661-12\">Talcott <em>v. </em>Levy et al.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b661-13\"><em>Carter, Pinney &amp; Kellogg, </em>for plaintiff (respondent).</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b661-14\"><em>Ira Leo Bamberger, </em>for defendants (appellants).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b661-15\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"Ax7R\">The judgment is affirmed upon the opinions of the learned trial judge.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"268\" lastpage=\"268\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b284-3\">OGDEN v. MIFFLIN.</parties>\n<summary data-order=\"1\" data-type=\"misc\" id=\"b284-4\">On <em>Certiorari </em>returnable to February Term, 1837.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b284-5\">\n<em>A. Whitehead</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"A3Eh\">moved for a dismissal of this writ for want of prosecution.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b284-6\">A rule to certify certain matters, was taken at May Term. And at September Term, a rule to take depositions was granted. None being taken, the <em>Certiorari </em>was now</p>\n<p id=\"b284-7\">\n<em>Dismissed.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

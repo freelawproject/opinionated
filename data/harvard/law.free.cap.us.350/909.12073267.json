@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b781-4\">No. 256,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A--m\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AQZm\">United States ex rel. Nichols <em>v. </em>Western Union Telegraph Co.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AFC\">Appellant <em>pro se. Howard W. Smith, Jr. </em>for appellee.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Acaj\">Appeal from the United States District Court for the Eastern District of Virginia.</p>\n<author id=\"AHTf\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"ABPX\">The motion to dismiss is granted and the appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

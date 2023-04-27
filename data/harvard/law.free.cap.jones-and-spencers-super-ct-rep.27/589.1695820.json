@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"589\" lastpage=\"589\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b617-6\">Henry Hyman, Plaintiff v. The Boston Chair Manufacturing Company, Defendant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b617-7\">Decided May 4, 1891.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"ALq\">Before Freedman and McAdam, JJ.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ArD\">Samuel F. Hyman, for plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A3M\">Benjamin E. Hall, for defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-X5\">Motion for re-argument denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

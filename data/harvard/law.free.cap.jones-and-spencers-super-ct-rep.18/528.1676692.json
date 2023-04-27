@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"528\" lastpage=\"528\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b552-7\">Nelson C. Reid, <em>et al., v. </em>The Equitable Life Insurance Society, &amp;c.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A2n\">Decided March 3, 1884.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b552-8\">Before Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A9b\">Per Curiam.</author>\n<p id=\"AKU\">The order appealed from should be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

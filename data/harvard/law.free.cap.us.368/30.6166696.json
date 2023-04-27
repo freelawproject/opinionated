@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"30\" lastpage=\"30\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b118-14\">CUMMINGS <em>v. </em>HUISKAMP, JUDGE, LEE COUNTY DISTRICT COURT, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b118-16\">No. 511,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AuW\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ADX\">Decided November 6, 1961.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b118-17\">Per Curiam.</author>\n<p id=\"b118-18\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

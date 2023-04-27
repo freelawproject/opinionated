@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"516\" lastpage=\"516\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b604-13\">RAINSBERGER <em>v. </em>LEYPOLDT, SHERIFF.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b604-15\">No. 835,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A4v\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AAN\">Decided February 19, 1962.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b604-18\"><em>Samuel S. Lionel </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b604-19\"><em>John F. Mendoza </em>and <em>Charles L. Garner </em>for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ARk\">Per Curiam.</author>\n<p id=\"b604-20\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

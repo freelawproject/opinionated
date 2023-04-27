@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"588\" lastpage=\"588\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b616-9\">Stephen H. Olin, as Committee, etc., Respondent <em>v. </em>The Metropolitan Elevated Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b616-10\">Decided May 4, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A8f\">Appeal from judgment entered upon the decision of a judge at special term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AHZ\">Davies, Short &amp; Townsend, attorneys, and Edward B. Thomas of counsel, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AZxO\">John Montgomery, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A_bM\">Before Sedgwick, Ch. J., Freedman and McAdam, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AjW1\">Per Curiam.</author>\n<p id=\"ApVK\">The judgment must be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

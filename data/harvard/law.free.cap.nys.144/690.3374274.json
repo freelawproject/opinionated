@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"690\" lastpage=\"690\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b716-5\">GRADY v. NATIONAL CONDUIT &amp; CABLE CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b716-6\">(Supreme Court, Second Department, Appellate Division.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Adq\">December 5, 1913.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b716-7\">Motion for leave to appeal to the Court of Appeals.</summary>\n<disposition data-order=\"4\" data-type=\"disposition\" id=\"AAkT\">Motion granted.</disposition>\n<p data-order=\"5\" data-type=\"judges\" id=\"Ap\">Argued before JENKS, P. J., and THOMAS, CARR, RICH, and PUTNAM, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b716-8\">PER CURIAM.</author>\n<p id=\"AOaL\">Motion for leave to appeal to the Court of Appeals granted. See former opinion in this case (153 App. Div. 401, 138 N. Y. Supp. 549), and opinion in Welch v. Waterbury Co., decided herewith (144 N. Y. Supp. 689).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

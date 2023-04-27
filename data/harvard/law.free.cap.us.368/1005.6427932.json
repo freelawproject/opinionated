@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1005\" lastpage=\"1005\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b813-5\">No. 934,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AaCp\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aa16\">Ciucci <em>v. </em>Sain, Sheriff of Cook County, et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ACSL\"><em>George N. Leighton </em>for petitioner. <em>Daniel P. Ward </em>and <em>John T. Gallagher </em>for respondents.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AsCz\">C. A. 7th Cir. Certiorari denied.</p>\n<judges id=\"ABib\">Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

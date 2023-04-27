@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1051-23\">John L. SHEVENELL et al., Petitioners.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1051-24\">Circuit Court of Appeals, First Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1051-25\">June 28, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1051-26\">No. 2264.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1051-28\">C. Frank Hathaway, of Lynn, Mass., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1051-29\">Marcus B. May, of Boston, Mass., opposed.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1051-30\">Before BINGHAM and JOHNSON, Circuit Judges, and HALE, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1051-31\">PER CURIAM.</author>\n<p id=\"Adr7\">It is ordered that the petition for leave to file a petition for a writ of mandamus be, and the same hereby is, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

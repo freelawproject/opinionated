@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"395\" lastpage=\"395\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b411-7\">THOMAS v. KITCHEN.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b411-8\">On <em>Certiorari </em>to Court of small causes.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b411-9\">\n<em>Seojield,</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"Az4\">moved for a reversal of this judgment, for want of. evidence to support it. The only authority was a letter from the defendant.</p>\n<p data-order=\"4\" data-type=\"headnotes\" id=\"b411-10\">A letter is not judicial evidence.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b411-11\">By the Court,</author>\n<p id=\"ATB\">Let the judgment be</p>\n<p id=\"b411-12\">\n<em>Reversed.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

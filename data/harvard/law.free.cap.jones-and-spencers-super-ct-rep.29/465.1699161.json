@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"465\" lastpage=\"465\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b503-7\">William S. Vernam, <em>et al., </em>Appellants <em>v. </em>Edwin H. Baker, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b503-8\">Decided July 5, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A8l\">Appeal by plaintiffs from order staying the trial of the action.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AlW\">Robertsons &amp; Harman, for appellants. Wing, Shoudy &amp; Putnam, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AHB\">Before Freedman, P. J., Dugro and Gildersleeve, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ARX\">Per Curiam.</author>\n<p id=\"AF8\">Order affirmed, with $10 costs, etc.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

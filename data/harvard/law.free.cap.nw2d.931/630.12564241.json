@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"630\" lastpage=\"631\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Vita S. SHANNON, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  Aron L. RALSTON, Defendant-Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 159884-9\n  <br/>\n  COA: 339944, 343213, 343886, 344356, 344418 &amp; 346344\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  August 8, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of defendant-appellee to extend the\n   time for filing his answer is GRANTED. The answer will be accepted as timely filed if submitted on or before August 23, 2019.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

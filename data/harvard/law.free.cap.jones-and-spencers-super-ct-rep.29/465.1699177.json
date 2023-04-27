@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"465\" lastpage=\"466\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b503-9\">Daniel J. Sprague, Appellant <em>v. </em>The Bartholdi Hotel Company, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b503-10\">Decided October 24, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ATk\">Appeal plaintiff from so much of an order granting his motion to correct the judgment roll, as imposed as a condition the payment of the costs of the trial, which resulted in a dismissal <page-number citation-index=\"1\" label=\"466\">*466</page-number>of the complaint.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AzX\">J. Noble Hayes, for appellant. Nathaniel Myers, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AY1\">Before Freedman, P. J., and McAdam J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Ajo\">Per Curiam.</author>\n<p id=\"AMi\">Order affirmed,</p>\n<p id=\"ABq\">with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

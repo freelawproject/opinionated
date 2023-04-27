@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"230\" lastpage=\"230\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b300-11\">BRISTOL et al. <em>v. </em>HEATON et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b300-13\">No. 581,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AKV\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ABd\">Decided April 6, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b300-16\">Appellants <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b300-17\"><em>Will Wilson, </em>Attorney General of Texas, <em>James-N. Ludluni, </em>First Assistant Attorney General, and <em>Leonard' Passmore </em>and <em>John Reeves, </em>Assistant Attorneys General, for appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b300-18\">Per Curiam.</author>\n<p id=\"b300-19\">The motion to dismiss is granted and the' appeal is dismissed.,. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

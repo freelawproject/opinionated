@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"578\" lastpage=\"579\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b606-9\">Diedrich J. Benson, Respondent v. The Manhattan Railway Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b606-10\">Decided March 2, 1891.</decisiondate>\n<summary data-order=\"2\" data-type=\"misc\" id=\"ABq\">Appeal from a judgment entered upon a decision of the court after a trial at an <page-number citation-index=\"1\" label=\"579\">*579</page-number>Equity Term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A97\">Davies &amp; Rapallo, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AMy\">Leo C. Dessar, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ARNZ\">Before Truax and Dugro, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AgA\">Per Curiam.</author>\n<p id=\"AGC\">Judgment reversed and new trial ordered, with costs to the appellant to abide the event, for the reasons assigned by this court in \u201cCunningham v. the same defendants\u201d decided at this general term.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"133\" lastpage=\"133\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  T.W., Appellant-Respondent,\n  <br/>\n  v.\n  <br/>\n  STATE of Indiana, Appellee-Plaintiff.\n </parties>\n <docketnumber id=\"p-2\">\n  Court of Appeals Case No. 27A05-1707-JS-1656\n </docketnumber>\n <court id=\"p-3\">\n  Court of Appeals of Indiana.\n </court>\n <decisiondate id=\"p-4\">\n  FILED April 11, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DISPOSITION OF CASE BY UNPUBLISHED MEMORANDUM DECISION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    BARNES\n   </strong>\n   ,\n   <em>\n    J.\n   </em>\n  </author>\n  <p id=\"p-7\">\n   Reversed and remanded with instructions.\n  </p>\n  <p id=\"p-8\">\n   NAJAM, J., Concurs.\n  </p>\n  <p id=\"p-9\">\n   MATHIAS, J., Concurs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

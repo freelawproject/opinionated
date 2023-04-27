@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"867\" lastpage=\"867\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b675-9\">No. 107,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AJcj\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Agdl\">Hall <em>v. </em>Warden, Maryland Penitentiary.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AOZ\"><em>William F. Mosner </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_fH\">Court of Appeals of Maryland. Certiorari denied.</p>\n<judges id=\"AuI\">Mr. Justice Douglas is of the opinion certio-rari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

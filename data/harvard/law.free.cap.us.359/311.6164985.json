@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"311\" lastpage=\"311\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b381-12\">BURKE <em>v. </em>BENNETT, WARDEN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b381-14\">No. 623,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AyY\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AXU\">Decided April 20, 1959.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b381-16\">Per Curiam.</author>\n<p id=\"b381-17\">The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

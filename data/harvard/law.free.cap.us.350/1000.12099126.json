@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b872-10\">No. 512,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aord\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A06c\">Didier <em>v. </em>Washington et al.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgN5\">Supreme Court of Washington. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

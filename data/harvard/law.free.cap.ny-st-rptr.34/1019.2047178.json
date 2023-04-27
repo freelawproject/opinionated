@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1063-3\">New York Superior Court</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aa\">General Term</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ax7\">Filed December 1, 1890.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1063-4\">Morrison <em>v. </em>Press Pub. Co.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1063-5\">Re-argument ordered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

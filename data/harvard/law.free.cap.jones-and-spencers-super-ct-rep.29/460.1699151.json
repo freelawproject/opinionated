@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"460\" lastpage=\"461\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b498-10\">Frank Wennemer, Respondent <em>v. </em>Philip Braender, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b498-12\">Decided May 2, 1892.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A_H\">Appeal by defendant from judgment entered upon a verdict in .favor of plaintiff and from order denying a motion for a new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AF2\"><page-number citation-index=\"1\" label=\"461\">*461</page-number>Bartlett, Wilson &amp; Hayden, attorneys, and Philip L. Wilson of counsel, for appellant. Louis A. Wagner, attorney, and Lewis Sanders of counsel, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"ANa\">Before Sedgwick, Ch. J., Freedman and McAdam, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ABT\">Per Curiam.</author>\n<p id=\"A22K\">Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

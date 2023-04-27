@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1007\" lastpage=\"1007\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b879-10\">No. 567,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AZqB\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ACQ\">Lea <em>v. </em>Louisiana.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ab0T\"><em>John P. Dowling </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ALHD\">Supreme Court of Louisiana. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

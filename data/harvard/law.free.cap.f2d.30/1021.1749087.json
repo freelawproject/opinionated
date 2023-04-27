@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1053-32\">UNITED STATES ex rel. Ralph MITICO, Appellee, v. Benjamin M. DAY, Commissioner of immigration of the Port of New York, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1053-33\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AMjU\">February 4, 1929.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1053-34\">No. 163.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1053-36\">Charles H. Tuttle, U. S. Atty., of New York City, for the Southern District of New York (Leon E. Spencer, Asst. U. S. Atty., of New York City, of counsel), for appellant.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1053-37\">Before MANTON L. HAND, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1053-38\">PER CURIAM.</author>\n<p id=\"Abu\">Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

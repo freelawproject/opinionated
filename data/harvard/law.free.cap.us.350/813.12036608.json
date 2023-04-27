@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"813\" lastpage=\"813\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b685-4\">No. 56,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJAt\">No. 86,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ARD\">No. 102,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"Alg8\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"Amv\">Misc.</p>\n<p data-order=\"5\" data-type=\"misc\" id=\"AaD_\">Misc.</p>\n<parties data-order=\"6\" data-type=\"parties\" id=\"AeA\">Chrisp <em>v. </em>North Carolina; Johnson <em>v. </em>Utah; and Patterson <em>v. </em>Supreme Court of Illinois.</parties>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKO1\">Applications denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
