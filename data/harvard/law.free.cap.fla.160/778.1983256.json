@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"778\" lastpage=\"778\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b824-3\">ROBERT E. HESS, JR. v. ELIZABETH E. HESS</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b824-4\">35 So. (2nd) 15</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ArAn\">April 20, 1948</decisiondate>\n<p data-order=\"3\" data-type=\"misc\" id=\"b824-5\">January Term, 1948</p>\n<court data-order=\"4\" data-type=\"court\" id=\"AHA\">Special Division B</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b824-6\">PER CURIAM:</author>\n<p id=\"AMqr\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

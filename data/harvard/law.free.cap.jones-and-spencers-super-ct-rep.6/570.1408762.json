@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"570\" lastpage=\"570\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b578-4\">HIRAM BENNER <em>et al., </em>Plaintiffs, <em>v. </em>DAVID H. BALDWIN, Defendant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b578-5\">Before Freedman, Van Vorst and Speir, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b578-6\"><em>Decided December </em>9, 1874.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b578-7\">Appeal from a judgment in favor of the plaintiff for the balance of a bill of cotton sold to the defendant. Both parties appealed from the same.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b578-8\"><em>Nelson, Cook &amp; Thorn, </em>for plaintiffs.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b578-9\"><em>Evarts, Southmayd </em>&amp; <em>Choate, </em>for defendants.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b578-10\">Judgment affirmed.</p>\n<p id=\"b578-11\">Opinion by Speir, J., Freedman and Van Vorst, JJ., concurring.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

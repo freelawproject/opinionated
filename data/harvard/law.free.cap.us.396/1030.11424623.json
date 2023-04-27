@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1030\" lastpage=\"1030\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b900-4\">No. 896,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AkTT\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ANVm\">Maloney <em>v. </em>E. I. du Pont de Nemours &amp; Co., Inc.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A_Kgm\"><em>James C. McKay </em>and <em>Michael Boudin </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiSJ\">C. A. D. C. Cir. Certiorari denied.</p>\n<judges id=\"AvUGo\">Mr. Justice Stewart and Mr. Justice White took no part in the consideration or decision of this petition.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

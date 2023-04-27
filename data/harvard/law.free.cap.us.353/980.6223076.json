@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"980\" lastpage=\"980\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b842-5\">No. 11,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AO1X\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AfJb\">United States <em>v. </em>Louisiana.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AahS\"><em>Price Daniel, </em>Governor, <em>Will Wilson, </em>Attorney General, <em>James H. Rogers, </em>Assistant Attorney General, and <em>J. Chrys Dougherty </em>for the State of Texas, movant. <em>Solicitor General Rankin </em>filed a memorandum for the United States, plaintiff.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATVK\">The motion for leave to file brief of the State of Texas, as <em>amicus curiae, </em>is granted.</p>\n<judges id=\"ALLd\">The Chief Justice and Mr. Justice Clark took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

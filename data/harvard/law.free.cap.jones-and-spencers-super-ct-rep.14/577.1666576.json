@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"577\" lastpage=\"577\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b599-11\">JOHN CAWLEY v. EUGENE KETELTAS, et al., Exrs., &amp;c.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b599-12\">Before Sedgwick, Ch. J., and Russell, J.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b599-13\"><em>Decided November </em>22, 1880.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b599-14\">Verdict directed for plaintiff, exceptions to be heard in the first instance at general term.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b599-15\"><em>Kelly </em>&amp; <em>Macrae, </em>for plaintiff.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b599-16\"><em>Henry W. Clark </em>and <em>Richard W. Stevenson, </em>for defendants.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b599-17\">Per Curiam.</author>\n<p id=\"ACr\">Judgment reversed, with costs of appeal to appellant to abide event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

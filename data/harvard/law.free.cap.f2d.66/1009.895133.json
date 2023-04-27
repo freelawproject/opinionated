@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1009\" lastpage=\"1009\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1033-24\">Leslie S. BOWDEN, Trustee of National Thrift Corporation of America, v. Galen H. WELCH, Collector, etc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1033-25\">No. 7279.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1033-26\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ath\">Sept. 6, 1933.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1033-29\">Before WILBUR and SAWTELLE, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1033-30\">PER CURIAM.</author>\n<p id=\"b1033-31\">Upon stipulation of counsel for respective parties, ordered appeal dismissed; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

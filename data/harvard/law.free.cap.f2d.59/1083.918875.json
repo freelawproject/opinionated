@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1083\" lastpage=\"1083\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1113-23\">Juan VALLES v. Felipe ZAMORA, Sheriff, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1113-24\">No. 584.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1113-25\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ABM8\">Jan. 22, 1932.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1113-27\">Hugh B. Woodward, U. S. Atty., of Albuquerque, N. M., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1113-30\">Eugene D. Lujan, Dist. Atty., of Albuquerque, N. M., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1113-31\">Before LEWIS, COTTERAL, and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1113-32\">PER CURIAM.</author>\n<p id=\"b1113-33\">Appeal dismissed, on motion of appellant;</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

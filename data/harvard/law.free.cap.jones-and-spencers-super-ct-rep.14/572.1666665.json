@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"572\" lastpage=\"573\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b594-14\">FRANCIS BROWN, et al., <em>v. </em>GEORGE S. GUNNISON.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b594-15\">Before Curtis, Ch. J., and Sedgwick and Freedman, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b594-16\"><em>Decided June </em>18, 1880.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b594-17\">Motion by defendant for leave to appeal to the court of appeals.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b594-18\"><em>Thomas E. </em>Byrne, for the motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b594-19\"><em>C. E. Tracy, </em>opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b594-20\">Per Curiam.</author>\n<p id=\"ADl\">The papers submitted upon the defendant\u2019s application for leave to appeal to the <page-number citation-index=\"1\" label=\"573\">*573</page-number>court of appeals, fail to show that a question of law is involved, which ought to be reviewed by the court of appeals.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

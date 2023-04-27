@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"461\" lastpage=\"461\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Jonathon Lavon FRIEND El.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 345P15-2.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 15, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Jonathon Lavon Friend, for Friend, Jonathan Lavon.\n </attorneys>\n <attorneys id=\"p-6\">\n  Joseph L. Flyde, Assistant Attorney General, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-7\">\n  James R. O'Neill, District Attorney, for State of North Carolina.\n </attorneys>\n <p id=\"p-8\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   Upon consideration of the petition filed by Defendant on the 18th of November 2015 in this matter for a writ of mandamus, the following order was entered and is hereby certified to the Superior Court, Forsyth and Davidson Counties:\n  </p>\n  <blockquote id=\"p-10\">\n   \"Dismissed by order of the Court in conference, this the 15th of December 2015.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

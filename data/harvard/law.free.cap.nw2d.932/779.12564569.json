@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"779\" lastpage=\"779\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PROGRESS MICHIGAN, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  ATTORNEY GENERAL, Defendant-Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158150-1\n  <br/>\n  COA: 340921\n  <br/>\n  340956\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  September 16, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, oral argument of this case scheduled for the October 2019 session is ADJOURNED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

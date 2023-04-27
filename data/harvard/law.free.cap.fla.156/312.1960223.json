@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"312\" lastpage=\"312\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b336-13\">CITY OF HOLLY HILL, a municipal corporation under and by virtue of the laws of the State of Florida, v. MILLARD B. CONKLIN.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b336-14\">22 So. (2nd) 816</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Afe\">June Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b336-15\">July 17, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AWh\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b336-17\"><em>Horn &amp; OssinsTty </em>and <em>Harry A. Horn, </em>for petitioner.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b336-18\"><em>W. W. Judge </em>and <em>Millard B. Conklin, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b336-19\">PER CURIAM:</author>\n<p id=\"b336-20\">Petition for certiorari denied.</p>\n<judges id=\"b336-21\">CHAPMAN, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"605\" lastpage=\"605\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b367-9\">In re Resignation of Taylor. In re Taylor.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b367-11\">[Cite as In re Resignation of Taylor (1990), 49 Ohio St. 3d 605.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b367-12\">(Nos. 89-2187 and 89-1613</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AMM\">Submitted February 7, 1990</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b367-13\">Decided February 21, 1990.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b367-14\">The resignation of Jonathan S. Taylor as an attorney is accepted. In view of Taylor\u2019s submission of his affidavit of resignation, case No. 89-1613 is dismissed as moot.</p>\n<judges id=\"A9k\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur,</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

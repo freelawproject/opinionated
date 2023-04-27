@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"928\" lastpage=\"928\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b682-6\">No. 1218,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AO2\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ale\">Howard <em>v. </em>Ohio.</parties>\n<judges data-order=\"3\" data-type=\"judges\" id=\"ACJ\">Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ATK\"><em>Neil K. Evans </em>for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ANdT\"><em>John T. Corrigan </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApPG\">Sup. Ct. Ohio. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

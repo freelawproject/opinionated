@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1079-22\">George E. WILDER, Plaintiff-Appellant, v. John DOE, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1079-23\">No. 7262.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1079-24\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AjsO\">Feb. 15, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1079-26\">John R. K. Scott, of Philadelphia, Pa., for appellant.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1079-27\">Before BIGGS, MARIS, and JONES, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1079-28\">PER CURIAM.</author>\n<p id=\"b1079-29\">The judgment of the District Court is affirmed upon the opinion of\u2019 Judge Kirkpatrick, 30 F.Supp. 869.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

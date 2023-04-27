@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"578\" lastpage=\"578\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b600-7\">PATRICK SHEAHAN, Appellant, v. THE NATIONAL S. S. Co., Respondent.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b600-8\">Before Sedgwick, Ch. J., Speir and Russell, JJ.,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b600-9\"><em>Decided December </em>6, 1880.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b600-10\">Appeal from judgment in favor of defendant, entered on report of referee.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b600-11\">The case involves only questions of fact.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b600-12\"><em>D. </em>&amp; <em>T. McMahon, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b600-13\"><em>John Chetwood, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b600-14\">Sedgwick, Ch. J.,</author>\n<p id=\"AgL\">wrote for affirmance, with costs; Speie and Russell, JJ., concurred.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

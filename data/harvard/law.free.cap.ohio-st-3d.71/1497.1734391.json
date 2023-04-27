@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1497\" lastpage=\"1497\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b931-19\">\n<em>Wednesday, March 22, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b931-20\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b931-21\">94-405. Nos. C-910598 and C-950635.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AHF\">Haynes v. Zoological Soc. of Cincinnati.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AGGK\">\n<em>Hamilton County,</em>\n</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5S\">This cause is pending before the court on the certification of conflict by the Court of Appeals for Hamilton County. Upon consideration of appellant\u2019s motion to strike appellee\u2019s document titled \u201cSupplemental Authorities,\u201d</p>\n<p id=\"b931-22\">IT IS ORDERED by the court that the motion to strike be, and hereby is, granted, effective March 21, 1995.</p>\n<judges id=\"b931-23\">Douglas and Pfeifer, JJ., dissent.</judges>\n<judges id=\"b931-24\">Resnick, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

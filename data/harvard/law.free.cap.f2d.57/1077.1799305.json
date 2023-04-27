@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1077\" lastpage=\"1077\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1101-5\">Morris GORDON, Appellant, v. UNITED STATES, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1101-6\">No. 4766.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1101-7\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1101-8\">April 18, 1932.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1101-10\">William Cantor, of Atlantic City, N. J., and Joseph Varbalow, of Camden, N. J., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1101-11\">Phillip Forman, U. S. Atty., and Walter B. Petry, Asst. U. S. Atty., both of Trenton, N. J.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1101-12\">Before WOOLLEY, DAVIS, and THOMPSON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1101-13\">PER CURIAM.</author>\n<p id=\"b1101-14\">Judgment reversed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

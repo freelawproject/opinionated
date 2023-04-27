@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"336\" lastpage=\"336\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b382-24\">LOUIS N. POKRESS v. REGINALD LALOW</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b382-25\">34 So. (2nd) 40</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ATU\">January 27, 1948</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AfR\">Rehearing denied February 20, 1948</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"Akc\">January Term, 1948</p>\n<court data-order=\"5\" data-type=\"court\" id=\"AKc\">En Banc</court>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b382-28\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

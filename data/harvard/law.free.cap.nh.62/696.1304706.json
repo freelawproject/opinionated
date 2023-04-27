@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"696\" lastpage=\"696\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b706-14\">[Hillsborough,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AnK\">December, 1882.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b706-15\">Patterson, <em>Guard., v. </em>Hall.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b706-19\"><em>Sulloway, Topliff O' Connor </em>and <em>J. P. Bartlett, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b706-20\"><em>Briggs </em>\u00bff* <em>liase </em>and <em>J. C. Bickford, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b706-16\">Bill in Equity, to set aside a deed, and for an account of rents and profits of certain real estate, alleging that the deed was obtained by fraud. A referee found that the deed was not obtained by fraud.</p>\n<p id=\"b706-17\">\n<em>Judgment for the defendant.</em>\n</p>\n<judges id=\"b706-18\">Stanley, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

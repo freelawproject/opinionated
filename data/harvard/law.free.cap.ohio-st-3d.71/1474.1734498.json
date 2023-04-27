@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1474\" lastpage=\"1474\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b908-21\">\n<em>Thursday, February 23, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b908-22\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b908-23\">94-2537. No. 92CA005396.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Artz\">State v. Wilson.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AP9\">\n<em>Lorain County,</em>\n</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApXx\">On motion to supplement the record. Motion granted.</p>\n<judges id=\"b908-24\">F.E. Sweeney and Pfeifer, JJ., dissent.</judges>\n<judges id=\"b908-25\">Cook, J., not participating.</judges>\n<p id=\"b908-26\">On motion to supplement record with a report used as evidence and on motion for stay of briefing. Motions denied.</p>\n<judges id=\"b908-27\">Wright and Resnick, JJ., dissent.</judges>\n<judges id=\"b908-28\">Cook, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

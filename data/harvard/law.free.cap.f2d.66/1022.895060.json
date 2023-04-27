@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1046-25\">UNITED STATES of America, Appellant, v. Clyde B. WILLSEY, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1046-26\">No. 7238.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1046-27\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A844\">July 31, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1046-29\">Carl M. Donaugh, U. S. Atty., of Portland, Or.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1046-30\">Barge E. Leonard, of Portland, Or., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1046-31\">Before SAWTELLE, Circuit Judge, and ST. SURE, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1046-32\">PER CURIAM.</author>\n<p id=\"b1046-33\">Upon motion of counsel for appellee, ordered appeal dismissed for failure of appellant to file record and docket cause; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

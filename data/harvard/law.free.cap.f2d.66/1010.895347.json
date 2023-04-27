@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1011\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1034-45\">COMMISSIONER OF INTERNAL REVENUE, Petitioner, v. SHIPOWNERS\u2019 AND MERCHANTS\u2019 TUGBOAT COMPANY, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1034-46\">No. 7264.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1034-47\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Auq\">Aug. 21, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1034-49\">Pat Malloy, Asst. Atty. Gen., and E. Barrett Prettyman, Gen. Counsel, Bureau of Internal Revenue, both of Washington, D. C., for petitioner.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1035-3\"><page-number citation-index=\"1\" label=\"1011\">*1011</page-number>Before WILBUR and SAWTELLE, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1035-4\">PER CURIAM.</author>\n<p id=\"b1035-5\">Upon motion of counsel for petitioner, ordered petition to review dismissed; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

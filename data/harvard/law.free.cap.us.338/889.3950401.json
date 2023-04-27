@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"889\" lastpage=\"889\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b889-6\">December 5, 1949.<footnotemark>*</footnotemark></decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b889-7\">\n<em>Miscellaneous Orders.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b889-8\">No. 185, Misc.</docketnumber>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ApV1\">No. 216, Misc.</docketnumber>\n<parties data-order=\"4\" data-type=\"parties\" id=\"A8F\">Brewer <em>v. </em>Frisbie, Warden; and Ruthven <em>v. </em>Overholser.</parties>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b889-12\">Mr. Justice Douglas took no part in the consideration or decision of the cases in which orders were this day announced.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"A7Nl\">The motions for leave to file petitions for writs of habeas corpus are denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

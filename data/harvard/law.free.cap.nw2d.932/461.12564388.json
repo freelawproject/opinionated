@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"461\" lastpage=\"461\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Jamal Devonta BENNETT, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157936\n  <br/>\n  COA: 328759\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  September 3, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of defendant-appellant to extend the time for filing his supplemental brief is GRANTED. The supplemental brief submitted on August 30, 2019, is accepted as timely filed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

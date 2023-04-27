@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"959\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1003-3\">ELWAY CO. v. PETTIT et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1003-4\">(Supreme Court, Appellate Division, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AUcE\">May 16, 1913.)</decisiondate>\n<summary data-order=\"3\" data-type=\"misc\" id=\"Acl\">Appeal from Special Term, Kings County.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1003-5\">Action by the Elway Company against Louie R. Pettit and another. From a judgment for plaintiff, defendants appeal. Affirmed.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1003-6\">Argued before JENKS, P. J., and HIRSCHBERG, BURR, THOMAS, and STAPLETON, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1003-7\">PER CURIAM.</author>\n<p id=\"AWil\">Judgment affirmed, with costs, on the authority of Shelly v. City of New York, 141 N. Y. Supp. 955, decided herewith.</p>\n<p id=\"b1003-8\">HIRSCHBERG, J., not voting.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

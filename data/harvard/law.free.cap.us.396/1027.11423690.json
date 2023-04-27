@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1027\" lastpage=\"1027\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b897-10\">No. 20,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Al11\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A_RR\">Smith <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ay40\"><em>Frederic A. Johnson </em>and <em>Rudolph Lion Zalowitz </em>for petitioner. <em>Solicitor General Griswold, Assistant Attorney General Vinson, Beatrice Rosenberg, </em>and <em>Edward Fenig </em>for the United States.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABrI\">C. A. 2d Cir. Certiorari denied.</p>\n<judges id=\"AsM2\">Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

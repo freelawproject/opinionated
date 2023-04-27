@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1033-7\">CHOW CHOK v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AKVj\">(Circuit Court of Appeals, Second \u2022Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AAs\">June 8, 1908.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AD9\">No. 272.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A_e5\">Appeal from tlie Circuit Court of the United States for the Northern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AeUv\">R. M. Moore, for petitioner.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Ag6\">Alford W. Cooley, Asst. Atty. Gen., for the United States.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AEm\">Before COXE, WARD, and NOYES, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1033-8\">PER CURIAM.</author>\n<p id=\"A_y\">Order affirmed, upon the opinion of the District Judge. 161 Fed. 627.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

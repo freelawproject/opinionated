@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1074-25\">John R. PEARSON, Executor, v. SECRETARY OF THE INTERIOR et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1074-26\">No. 1829.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1074-27\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1074-28\">Jan. 9, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1074-30\">Frank T. McCoy, of Pawhuska, Old., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1074-31\">Whit Y. Mauzy, U. S. Atty., of Tulsa, Okl., and Sam S. Canterbury, of Tulsa, Old., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1074-32\">Before PHILLIPS, BRATTON, and WILLIAMS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1074-33\">PER CURIAM.</author>\n<p id=\"b1074-34\">Appeal dismissed on motion of appellee, Secretary of the Interior.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

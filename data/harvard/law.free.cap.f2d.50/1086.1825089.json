@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1086\" lastpage=\"1086\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1114-41\">UNITED STATES of America v. S. WAGONER, Guardian of Walter C. McFarland, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1114-43\">No. 476.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1114-44\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aq7r\">April 30, 1931.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1114-46\">John M. Goldesberry, U. S. Atty., of Tulsa, Okl.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1114-47\">Tom W. Garrett, of Oklahoma City, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1114-48\">Before LEWIS, PHILLIPS, and Mc-DERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1114-49\">PER CURIAM.</author>\n<p id=\"b1114-50\">Appeal dismissed April 30, 1931, on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

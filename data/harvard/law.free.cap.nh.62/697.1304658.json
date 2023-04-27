@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"697\" lastpage=\"697\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b707-3\">[Sullivan,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AqeW\">December, 1882.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b707-4\">Davis <em>v. </em>Partridge.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b707-8\"><em>U. W. </em>Parker, for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b707-9\"><em>H. </em>Holt, for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b707-5\">Assumpsit, for labor. Facts found by a referee, who reports in substance that both parties understood that the defendant\u2019s husband was to pay the plaintiff\u2019s claim.</p>\n<p id=\"b707-6\">\n<em>Judgment for the defendant.</em>\n</p>\n<judges id=\"b707-7\">Blodgett, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

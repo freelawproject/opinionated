@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"974\" lastpage=\"974\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1020-10\">JENNIE WOOD v. FRANK M. BRYAN and RUBY E. BRYAN, his wife.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b1020-11\">38 So. (2nd) 221</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AGAC\">December 21, 1948</decisiondate>\n<p data-order=\"3\" data-type=\"misc\" id=\"Acy\">Fall Term, 1948</p>\n<court data-order=\"4\" data-type=\"court\" id=\"A5-\">En Banc</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1020-13\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

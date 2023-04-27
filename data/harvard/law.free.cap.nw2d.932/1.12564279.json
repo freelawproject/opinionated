@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1\" lastpage=\"1\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  RAFAELI, LLC, and Andre Ohanessian, Plaintiffs-Appellants,\n  <br/>\n  v.\n  <br/>\n  OAKLAND COUNTY and Andrew Meisner, Defendants-Appellees.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 156849\n  <br/>\n  COA: 330696\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  August 16, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of defendants-appellees to adjourn the case from the October 2019 session of the Court is GRANTED. The clerk is directed to schedule the case for oral argument at the November 2019 session of the Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

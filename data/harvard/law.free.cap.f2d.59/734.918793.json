@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"734\" lastpage=\"734\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b764-2\">WYNNE, Supervisor of Permits, et al. v. HARRISON BEVERAGE CO.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b764-3\">No. 4821.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b764-4\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AM4\">June 3, 1932.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b764-10\">. Phillip Forman, U. S. Atty., of Trenton, N. J., and Richard H. Woolsey, and Edward C. Dougherty, both of Philadelphia, Pa., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b764-11\">Harold Simandl, of Newark, N. J., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b764-12\">Before WOOLLEY and DAVIS, Circuit Judges, and JOHNSON, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b764-13\">PER CURIAM.</author>\n<p id=\"b764-14\">The question in this case being admittedly moot, the appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

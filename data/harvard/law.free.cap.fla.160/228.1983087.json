@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"228\" lastpage=\"228\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b274-5\">JOHN E. WHITE v. RUTH ANN WHITE</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b274-6\">34 So. (2nd) 311</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AgU\">March 2, 1948</decisiondate>\n<p data-order=\"3\" data-type=\"misc\" id=\"A7A\">January Term, 1948</p>\n<court data-order=\"4\" data-type=\"court\" id=\"AbL\">Special Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b274-10\"><em>Martin J. Pearl, J. L. Cogdill, </em>and <em>John E. Lake, </em>all of Jacksonville, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b274-11\"><em>Lloyd Bass, </em>of Jacksonville, for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b274-12\">It is further ordered that the appellant pay to the appellee the sum of Two Hundred Fifty ($250.00) Dollars as her reasonable atttorney\u2019s fees for this appeal.</p>\n<judges id=\"b274-13\">THOMAS, C. J,, ADAMS and BARNS, JJ., and JACKSON, Associate Justice concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

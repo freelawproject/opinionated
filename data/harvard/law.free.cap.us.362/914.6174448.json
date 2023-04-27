@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"654\" lastpage=\"654\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b712-4\">No. 551,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Axs\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ajmq\">Hernandez et al. <em>v. </em>Warden, New York City Prison.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ATq\">Petitioners <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AVsq\"><em>Charles W. Manning </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9L\">C. A. 2d Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"584\" lastpage=\"584\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b618-9\">ADOLPH E. FLAMANT, Plaintiff and Appellant, v<em>. </em>S. W. WOOD, Defendant and Respondent.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b618-10\">Before Curtis, Ch. J., and Freedman, J.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b618-11\"><em>Decided March </em>3, 1879.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b618-12\">Appeal from order denying plaintiff\u2019s motion for leave to amend the complaint.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b618-13\"><em>W. </em>D. <em>Hennen, </em>for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b618-14\"><em>E. </em>J. <em>Pattison, </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b618-15\">Per Curiam.</author>\n<p id=\"Aqq\">The order should be affirmed,, with costs.'</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

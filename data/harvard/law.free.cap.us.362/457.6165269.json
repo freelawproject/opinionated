@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"457\" lastpage=\"457\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b515-4\">CERMINARO <em>v. </em>URBAN REDEVELOPMENT AUTHORITY OF PITTSBURGH et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b515-6\">No. 654,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AKFZ\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AKr\">Decided April 25, 1960.</decisiondate>\n<p data-order=\"4\" data-type=\"otherdate\" id=\"b515-8\">Reported below:-F. Supp.-.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b515-9\"><em>Louis C. Olasso </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b515-10\"><em>Theodore L. Hazlett, Jr. </em>and <em>David Stahl </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b515-11\">Per Curiam.</author>\n<p id=\"b515-12\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

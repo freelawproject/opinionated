@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"470\" lastpage=\"470\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b516-4\">ROSS <em>v. </em>CALIFORNIA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b516-6\">No. 798,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Abt\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AMr\">Decided May 27, 1968.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b516-8\"><em>Thomas C. </em>Lynch, Attorney General of California, <em>William E. James, </em>Assistant Attorney General, and <em>Walter R. Jones, </em>Deputy Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b516-9\">Per Curiam.</author>\n<p id=\"b516-10\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for a writ of certiorari are granted. The judgment is reversed. <em>Chapman </em>v. <em>California, </em>386 U. S. 18, and <em>Anderson </em>v. <em>Nelson, </em>390 U. S. 523.</p>\n<judges id=\"b516-11\">Mr. Justice Blacic is of the opinion that certiorari should be denied.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

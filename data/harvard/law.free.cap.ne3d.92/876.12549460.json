@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"876\" lastpage=\"876\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE APPLICATION OF 6011 GREENWICH WINDPARK, L.L.C.\n </parties>\n <docketnumber id=\"p-2\">\n  2017-1375\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  February 28, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On appellant's motion to supplement record. Motion denied. On appellee's motion to dismiss and intervening appellee's motion to dismiss. Motions granted in part and denied in part. Appellant's assignment of error No. 2 dismissed. All other assignments of error remain pending.\n  </p>\n  <p id=\"p-8\">\n   O'Donnell, J., dissents and would grant the motion to supplement the record and the motions to dismiss the cause.\n  </p>\n  <judges id=\"p-9\">\n   Kennedy and Fischer, JJ., would grant the motion to supplement the record.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

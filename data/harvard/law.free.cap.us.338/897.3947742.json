@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"897\" lastpage=\"897\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b897-4\">December 8, 1949.</decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b897-5\">\n<em>Miscellaneous Order.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b897-6\">No. 263, Misc.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AXs3\">In re Adamson.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AcL\">Application for a stay of execution of the sentence of death denied.</p>\n<judges id=\"AhPS\">Mr. Justice Black is of the opinion the application should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

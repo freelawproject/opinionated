@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"548\" lastpage=\"548\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b556-4\">JEREMIAH J. COLEMAN and others, Plaintiffs and Respondents, <em>v. </em>SAMUEL CRUMP, Defendant and Appelant.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b556-5\">Appeal from judgment.</summary>\n<p data-order=\"2\" data-type=\"summary\" id=\"b556-6\">Before Monell, Ch. J., and Sedgwick, J.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b556-7\"><em>Heard November, </em>1875;</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AhWT\"><em>Decided December </em>6, 1875.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b556-8\"><em>William Henry Arnoux, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b556-9\"><em>Andrew Boardman, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b556-10\">Per Curiam.</author>\n<p id=\"Ajn\">Judgment affirmed, with costs.</p>\n<p id=\"b556-11\">No opinion was delivered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

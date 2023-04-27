@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"219\" lastpage=\"219\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b271-5\">Ed. W. DENT, as Trustee in Bankruptcy for the Estate of Jack Mitchum, Bankrupt, Appellant, v. Jack MITCHUM, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b271-6\">No. 13263.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b271-7\">United States Court of Appeals Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b271-8\">May 7, 1952.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b271-10\">Thomas S. Tobin, Frank C. Weller and Hubert F. Laugharn, all of Los Angeles,Cal., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b271-11\">No appearance on behalf of appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b271-12\">Before DENMAN, Chief Judge, and STEPHENS and ORR, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b271-13\">PER CURIAM.</author>\n<p id=\"b271-14\">The judgment is reversed with the consent of the appellee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

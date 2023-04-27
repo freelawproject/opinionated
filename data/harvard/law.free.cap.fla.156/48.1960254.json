@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"48\" lastpage=\"48\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b72-12\">GEORGE W. GREEN v. C. J. EARLY, as Trustee, et al.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b72-13\">22 So. (2nd) 466</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ar8\">January Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b72-14\">June 1, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Ahj\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b72-16\"><em>Carroll Dunscombe, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b72-17\"><em>Arthur R. Clonts </em>for Appellee Charles T. Kemble and <em>T. T. Oughterson </em>and <em>Dewey Crawford </em>for Rose Whitney, appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b72-18\">PER CURIAM:</author>\n<p id=\"b72-19\">No error appearing in the record the decree appealed from is affirmed.</p>\n<judges id=\"b72-20\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

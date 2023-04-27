@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1460\" lastpage=\"1460\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A7q\">\n<em>Tuesday, April 15, 1997</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AJac\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Ah0\">96-84.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Au6\">Goldberg Companies, Inc. v. Richmond Hts. City Council.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJTp\">Cuyahoga App. Nos. 68291 and 68292. This cause is pending before the court as an appeal from the Court of Appeals for Cuyahoga County. Upon consideration of appellee\u2019s motion to dismiss the appeal of appellant, Goldberg Companies, Inc.,</p>\n<p id=\"Az2-\">IT IS ORDERED by the court that the motion to dismiss the appeal be, and hereby is, denied.</p>\n<judges id=\"AdGj\">Moyer, C.J., Cook and Lundberg Stratton, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

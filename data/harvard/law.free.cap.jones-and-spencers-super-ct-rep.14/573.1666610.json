@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"573\" lastpage=\"573\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b595-5\">LORENZO THOMASSELLI, Appellant, v. MARIETTA R. STEVENS, Respondent.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b595-6\">Before Curtis, Ch. J., and Sedgwick, J.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b595-7\"><em>Decided June </em>18, 1880.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b595-8\">Appeal from judgment.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b595-9\"><em>Wm. G. Peckham, Jr., </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b595-10\"><em>Julius J. Lyons, </em>attorney, and <em>John Berry, </em>of counsel, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b595-11\">Per Curiam.</author>\n<p id=\"A3R\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

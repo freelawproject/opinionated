@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"209\" lastpage=\"209\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the MATTER OF the PATERNITY OF M.E.,\n </parties>\n <parties id=\"p-2\">\n  Michael A. Ewing, Appellant-Respondent,\n  <br/>\n  v.\n  <br/>\n  Marcia Wagner, Appellee-Petitioner.\n </parties>\n <docketnumber id=\"p-3\">\n  Court of Appeals Case No. 34A04-1705-JP-1089\n </docketnumber>\n <court id=\"p-4\">\n  Court of Appeals of Indiana.\n </court>\n <decisiondate id=\"p-5\">\n  FILED December 13, 2017\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   DISPOSITION OF CASE BY UNPUBLISHED MEMORANDUM DECISION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   <strong>\n    KIRSCH\n   </strong>\n   ,\n   <em>\n    J.\n   </em>\n  </author>\n  <p id=\"p-8\">\n   Affirmed in part, reversed in part, and remanded with instructions.\n  </p>\n  <p id=\"p-9\">\n   NAJAM, J., Concurs.\n  </p>\n  <p id=\"p-10\">\n   BROWN, J., Concurs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

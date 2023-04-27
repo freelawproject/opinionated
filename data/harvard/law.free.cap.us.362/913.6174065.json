@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"653\" lastpage=\"653\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b711-8\">No. 505,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Amj\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aq1\">Taylor <em>v. </em>Rivers, District of Columbia Board of Parole, et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Agcp\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AdL\"><em>Solicitor General Rankin, Acting Assistant Attorney General Ryan </em>and <em>Harold H. Greene </em>for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AM_F\">United States Court of Appeals for the District of Columbia Circuit.</p>\n<p id=\"A4_H\">Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

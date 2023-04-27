@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"787\" lastpage=\"787\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b833-24\">TRUEMAN FERTILIZER CO., a Florida Corporation, v. FRITZ STEIN and HANS J. STEIN, as Administrator of the Estate of Hans Stein, deceased, et al.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b833-25\">36 So. (2nd) 449</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AvZN\">July 16, 1948</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Ag_\">Rehearing denied July 23, 1948</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"ABT1\">June Term, 1948</p>\n<court data-order=\"5\" data-type=\"court\" id=\"Abr\">Division A</court>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b833-28\">PER CURIAM:</author>\n<p id=\"b833-29\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

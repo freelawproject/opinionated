@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"517\" lastpage=\"517\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b541-4\">MOTOR FUEL CARRIERS, INC., a corporation organized and existing under and by virtue of the laws of the State of Florida, v. MYRTLE MORGAN, a widow of JOHNNIE L. MORGAN, SR., deceased.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b541-19\">28 So. (2nd) 700</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Av_\">June Term, 1946</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Axr\">December 3, 1946</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"At3K\">Division A</court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b541-5\">Rehearing Denied December 20, 1946</otherdate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b541-6\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

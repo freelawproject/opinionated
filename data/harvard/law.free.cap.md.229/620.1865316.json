@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"620\" lastpage=\"620\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b638-7\">SHOREY <em>v. </em>WARDEN OF MARYLAND PENITENTIARY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b638-8\">[App. No. 12, (Adv.).]</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AmNa\">September Term, 1962</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b638-9\">\n<em>Decided June 18, 1962.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b638-12\">Before the full Court.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b638-13\">Per Curiam.</author>\n<p id=\"b638-14\">For the reasons set forth in the opinion of Judge Harlan below,</p>\n<p id=\"b638-15\">\n<em>The application for leave to appeal is denied.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

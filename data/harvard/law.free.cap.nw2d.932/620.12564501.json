@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"620\" lastpage=\"621\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Pharoah Rahshan JONES, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 159258\n  <br/>\n  COA: 346743\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  September 10, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   By order of May 28, 2019, the prosecuting attorney was directed to answer the application for leave to appeal the February 15, 2019 order of the Court of Appeals. On order of the Court, the answer having been received, we REMAND this case to the Court of Appeals for consideration as on leave granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

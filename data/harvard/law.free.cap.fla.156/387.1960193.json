@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"387\" lastpage=\"387\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b411-11\">C. E. HARRELL v. THE DESOTO NATIONAL BANK OF ARCADIA, A NATIONAL BANKING CORPORATION.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b411-12\">23 So. (2nd) 382</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AUY\">June Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b411-13\">July 24, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AqB\">En Banc</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b411-15\"><em>H. G. Jones, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b411-16\"><em>Leitner &amp; Leitner, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b411-17\">PER CURIAM:</author>\n<p id=\"b411-18\">The judgment appealed from is affirmed.</p>\n<judges id=\"b411-19\">CHAPMAN, C. J., TERRELL, BUFORD, THOMAS and ADAMS, JJ., concur.</judges>\n<judges id=\"b411-20\">BROWN and SEBRING, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

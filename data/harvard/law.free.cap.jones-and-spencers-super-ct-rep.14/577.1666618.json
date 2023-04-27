@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"577\" lastpage=\"577\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b599-4\">MIGUEL DE ALDAMA, Appellant, <em>v. </em>FRANCIS F. LASALA, Respondent.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b599-5\">Before Sedgwick, Ch. J., Speir and Russell, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b599-6\"><em>Decided November </em>22, 1830.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b599-7\">This is an appeal from a judgment, entered upon the report of a referee, in favor of the defendant, and involves only questions of fact.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b599-8\"><em>Horace Secor, Jr., </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b599-9\"><em>Starr </em>&amp; <em>Hooker, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b599-10\">Per Curiam.</author>\n<p id=\"AkL\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

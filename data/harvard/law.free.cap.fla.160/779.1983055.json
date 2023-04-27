@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"779\" lastpage=\"779\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b825-15\">MILLARD BARRON v. STATE OF FLORIDA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"ACT\">35 So. (2nd) 412</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AFIy\">April 23, 1948</decisiondate>\n<p data-order=\"3\" data-type=\"misc\" id=\"AmO\">January Term, 1948</p>\n<court data-order=\"4\" data-type=\"court\" id=\"AMP\">Special Division B</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b825-17\">PER CURIAM:</author>\n<p id=\"b825-18\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

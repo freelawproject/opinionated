@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1407\" lastpage=\"1407\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b841-23\">RECONSIDERATION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b841-24\">85-712.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ASV\">State v. Buell.</parties>\n<court data-order=\"3\" data-type=\"court\" id=\"ADD\">\n<em>Cuyahoga County,</em>\n</court>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"A4d\">No. 48621.</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Acj\">Reported at 70 Ohio St.3d 1211, 639 N.E.2d 110. On motion for reconsideration. Motion denied.</p>\n<judges id=\"b841-25\">A.W. Sweeney and Wright, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

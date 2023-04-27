@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1012\" lastpage=\"1012\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1068-35\">The DERBY OIL COMPANY, a Corporation, v. UNIVERSAL OIL PRODUCTS COMPANY, a Corporation.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1068-36\">No. 1815.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1068-37\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A9F\">Jan. 23, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1068-39\">Yankey, Osborne &amp; Sears, of Wichita, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1068-40\">Smith, Hatcher &amp; McFarland, of Topeka, Kan., and R. R. Brewster, of Kansas City, Mo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1068-41\">Before LEWIS and PHILLIPS, Circuit Judges. .</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ADs\">PER CURIAM.</author>\n<p id=\"b1068-43\">Appeal dismissed at appellant\u2019s costs, pursuant to stipulation. * -</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"26\" lastpage=\"26\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b134-11\">ZWICKER <em>v. </em>WISCONSIN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A38\">No. 686,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Am6\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AkN\">Decided November 10, 1969</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b134-13\"><em>Anthony G. Amsterdam, Michael Meltsner, </em>and <em>Melvyn Zarr </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b134-14\"><em>Robert W. Warren, </em>Attorney General of Wisconsin, and <em>William A. Platz, Sverre O. Tinglum, </em>and <em>William F. Eich, </em>Assistant Attorneys General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b134-15\">Per Curiam.</author>\n<p id=\"b134-16\">The motion to dismiss is granted and the appeal is dismissed.</p>\n<judges id=\"b134-17\">Mr. Justice Douglas is of the opinion that probable jurisdiction should be noted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"224\" lastpage=\"224\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b296-18\">UNITED STATES of America v. ASSOCIATED PETROLEUM PROPERTIES, a <em>Trust </em>Estate, Provident Trust, a Trust Estate, E. R. Perry and S. L. Dedman.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b296-19\">No. 2645.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b296-20\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A9U\">Nov. 3, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b296-22\">Whit Y. Mauzy, U. S. Atty., of Tulsa, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b296-23\">Charles A. Coakley, of Tulsa, Okl., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b296-24\">Before PHILLIPS, Circuit Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b296-25\">PER CURIAM.</author>\n<p id=\"b296-26\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

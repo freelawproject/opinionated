@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"618\" lastpage=\"619\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><p data-order=\"0\" data-type=\"\" id=\"b644-18\" pgmap=\"644\">Second District.</p><parties data-order=\"1\" data-type=\"parties\" id=\"b644-19\" pgmap=\"644\">John J. Drury, appellee, v. Henry C. Diehl et al., appellants.</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Aar\" pgmap=\"644\">Gen. No. 8,177.</docketnumber><otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ATm\" pgmap=\"645\">Heard in this court at the February term, 1930.</otherdate><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aqu\" pgmap=\"645\">Opinion filed June 23, 1930.</decisiondate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b645-4\" pgmap=\"645\">John H. Savage and James G. Holbrook, for appellants. Luther B. Bratton, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b645-5\" pgmap=\"645\">Mr. Justice Jones</author> <p id=\"AMJr\" pgmap=\"645\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

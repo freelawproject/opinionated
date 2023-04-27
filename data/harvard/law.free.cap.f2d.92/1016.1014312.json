@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1068-21\">SHERIDAN FLOURING MILLS, Inc., v. Thomas K. CASSIDY, Collector of Internal Revenue for the District of Wyoming.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1068-22\">No. 1556.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1068-23\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A2qU\">Nov. 24, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1068-24\">George T. Evans, of Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1068-25\">Carl L. Sackett, U. S. Atty., of Cheyenne, Wyo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1068-26\">Before LEWIS, PHILLIPS, and BRATTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1068-27\">PER CURIAM.</author>\n<p id=\"b1068-28\">Appeal dismissed on application of appellant at appellant\u2019s costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

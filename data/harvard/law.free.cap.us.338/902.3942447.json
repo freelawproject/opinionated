@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b902-5\">December 19, 1949.<footnotemark>*</footnotemark></decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b902-6\">\n<em>Per Curiam Decisions.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b902-7\">No. 464.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AYO\">O. C. Wiley &amp; Sons, Inc. <em>v. </em>United States et al.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A-x\"><em>W. G. Burnette </em>for appellant. <em>Solicitor General Perlman </em>and <em>Daniel W. Knowlton </em>for appellees.</attorneys>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"AEXs\">Mr. Justice Douglas took no part in the consideration or decision of the cases in which judgments or orders were this day announced.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"ASg\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AZpo\">The motion to affirm is granted and the judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

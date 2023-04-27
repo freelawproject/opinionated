@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1002\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1056-15\">William GLICKER, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1056-16\">No. 7679.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1056-17\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AKo\">March 15, 1938.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1056-19\">Harry S. Bennett and Donald B. Frederick, both of Detroit, Mich., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1056-20\">John C. Lehr, U. S. Atty., of Detroit, Mich.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1056-21\">Before HICKS, SIMONS, and ALLEN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1056-22\">PER CURIAM.</author>\n<p id=\"b1056-23\">It is ordered and adjudged that the judgment appealed from be, and the same is hereby, reversed and the case remanded to the District Court for a new trial.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

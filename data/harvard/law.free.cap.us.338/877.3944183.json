@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"877\" lastpage=\"877\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b877-8\">November 14, 1949.<footnotemark>*</footnotemark></decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b877-9\">\n<em>Per Curiam Decision.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b877-10\">No. 421.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AAog\">Goodley <em>v. </em>California.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b877-16\">Mr. Justice Douglas took no part in the consideration or decision of the cases in which judgments or orders were this day announced.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"A2Lr\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AqqA\">The appeal is dismissed for want of a substantial federal question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

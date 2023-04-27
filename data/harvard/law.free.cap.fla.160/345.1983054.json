@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"345\" lastpage=\"345\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b391-8\">ROSWELL K. PENNEY v. HELEN NEFF PENNEY</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b391-9\">April 26, 1948</decisiondate>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ach\">January Term, 1948</p>\n<court data-order=\"3\" data-type=\"court\" id=\"AVg\">Special Division B</court>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"At9g\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

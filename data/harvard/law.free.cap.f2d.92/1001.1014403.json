@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1053-18\">Annie H. DOBBS, Appellant, v. NATIONAL LIFE INS. CO., Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1053-19\">No! 8391.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1053-20\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1053-21\">Nov. 5, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1053-23\">Roy S. Drennan, of Atlanta, Ga., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1053-24\">Philip H. Alston, of Atlanta, Ga., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1053-25\">Before SIBLEY, HUTCHESON, and HOLMES, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1053-26\">PER CURIAM.</author>\n<p id=\"b1053-27\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"784\" lastpage=\"784\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b808-7\">THOMAS DAYTON v. ANNETTE OYAMA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b808-8\">24 So. (2nd) 363</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AfvX\">January Term, 1946</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b808-9\">January 11, 1946</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Atg\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b808-11\"><em>Thomas Dayton, </em>in propria persona, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b808-12\"><em>John 8. Byington, </em>for Appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b808-13\">PER CURIAM:</author>\n<p id=\"b808-14\">No reversible error being made to appear, the decree of dismissal is affirmed.</p>\n<judges id=\"b808-15\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

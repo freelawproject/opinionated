@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"405\" lastpage=\"406\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b429-8\">VIRGINIA KIDDER v. ANDRUS H. KIDDER</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b429-9\">23 So. (2nd) 495</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AugF\">June Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b429-10\">October 2, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AWS\">En Banc</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b429-12\"><em>Nestor Morales, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b429-13\"><em>Frank O. Spain, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b430-3\"><page-number citation-index=\"1\" label=\"406\">*406</page-number>PER'CURIAM':</author>\n<p id=\"b430-4\">The decree- appeal\u00e9d from is? affirmed.</p>\n<p id=\"A2X\">It is so ordered:</p>\n<judges id=\"b430-6\">\u25a0 TERRELL, BUFORD, THOMAS, ADAMS arid'SEBRING, \u25a0JJ., concur.</judges>\n<judges id=\"b430-7\">CHAPMAN, Cl J., and BROWN J. dissent.'</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

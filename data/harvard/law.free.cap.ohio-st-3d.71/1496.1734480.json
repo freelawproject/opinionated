@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1496\" lastpage=\"1496\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b930-16\">\n<em>Wednesday, March 15, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b930-17\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b930-18\">94-620. No. 14349.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A8T\">Uschold v. Community Blood Center.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"At8J\">\n<em>Montgomery County,</em>\n</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7x\">On motion to dismiss. Motion to dismiss sustained. Cause dismissed.-</p>\n<judges id=\"ArFt\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

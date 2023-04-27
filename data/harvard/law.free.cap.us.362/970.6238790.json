@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"710\" lastpage=\"710\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b768-6\">No. 518,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ALsv\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AjPt\">Ramsey <em>v. </em>Hand, Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ARi3\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AIKi\"><em>John Anderson, Jr., </em>Attorney General of Kansas, and <em>J. Richard Foth, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AF-a\">Supreme Court of Kansas. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

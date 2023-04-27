@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1500\" lastpage=\"1500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b892-16\">MEDIATION MATTERS</p>\n<p data-order=\"1\" data-type=\"parties\" id=\"b892-17\">The following cases have been referred to mediation pursuant to S.Ct.Prac.R. 19.01(A):</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b892-18\">2014-0693.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"aic-dedup-0\">Columbus City Schools Bd. of Edn. v. Franklin Cty. Bd. of Revision.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b892-19\">Board of Tax Appeals, No. 2010-3505.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

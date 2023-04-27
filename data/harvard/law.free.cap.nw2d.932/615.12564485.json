@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"615\" lastpage=\"615\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE RAYMOND L. FRICK TRUST.\n </parties>\n <parties id=\"p-2\">\n  Edward M. Kress and Jenny Frick Trychel, a/k/a Jeni Frick Trychel, Successor Co-Trustees, Plaintiffs-Appellees,\n  <br/>\n  v.\n  <br/>\n  Bradley Spice and BCL 75, Inc., Defendants-Appellants.\n </parties>\n <docketnumber id=\"p-3\">\n  SC: 158984\n  <br/>\n  COA: 341498\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  September 10, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Court, the motion for reconsideration of this Court's May 28, 2019 order is considered, and it is DENIED, because we are not persuaded that reconsideration of our previous order is warranted. MCR 7.311(G).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

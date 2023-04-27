@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"335\" lastpage=\"335\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b381-13\">GINO FRANSCHINI and HARVEY B. EBY v. M. C. MARTIN, Individually and CASEY PROPERTIES, INC., a corporation under the laws of Florida.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b381-14\">33 So. (2nd) 162</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ArE\">December 19, 1947</decisiondate>\n<p data-order=\"3\" data-type=\"misc\" id=\"AgSq\">June Term, 1947</p>\n<court data-order=\"4\" data-type=\"court\" id=\"ArD\">Division B</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b381-16\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"212\" lastpage=\"212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b276-34\">Harry Nathan SNOW v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b276-35\">No. 2830.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b276-36\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AO\">Oct. 15, 1943.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b276-38\">R. A. Mooneyham, of Carthage, Mo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b276-39\">George H. West, U. S. Atty., of Topeka, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b276-40\">Before PHILLIPS and HUXMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b276-41\">PER CURIAM.</author>\n<p id=\"b276-42\">Appeal dismissed on application of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

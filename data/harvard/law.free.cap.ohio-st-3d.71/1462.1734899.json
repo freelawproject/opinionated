@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1462\" lastpage=\"1462\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b896-17\">\n<em>Wednesday, February 8, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b896-18\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b896-19\">93- 1245. No. CA91-11-0198.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AXDF\">State v. Loza.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"ASx\">\n<em>Butler County,</em>\n</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Axv\">On motion for stay of execution. Motion granted.</p>\n<judges id=\"b896-20\">Pfeifer, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

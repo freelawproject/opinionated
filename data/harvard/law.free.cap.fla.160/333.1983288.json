@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"333\" lastpage=\"333\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b379-18\">FINNEY P. LYNCH, trading and doing business as U-DRIVE AUTOS, v. FRANCIS P. WARREN.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b379-19\">33 So. (2nd) 162</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AZt5\">December 9, 1947</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Ag8\">Rehearing denied January 12, 1948</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"AiY\">June Term, 1947</p>\n<court data-order=\"5\" data-type=\"court\" id=\"A_KD\">En Banc</court>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b379-22\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

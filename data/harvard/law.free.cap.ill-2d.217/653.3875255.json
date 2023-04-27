@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"653\" lastpage=\"653\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"AJ1\" pgmap=\"667\">In re RODOSKY, Katherine Ann</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AIg\" pgmap=\"667\">(MR 20445)</docketnumber><p data-order=\"2\" data-type=\"docketnumber\" id=\"AC1\" pgmap=\"667\">Chicago, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"Araf\" pgmap=\"667\">Order of the Court:</p> <p id=\"Ap4g\" pgmap=\"667\">The petition by the Administrator of the Attorney Registration and Disciplinary Commission to impose discipline on consent pursuant to Supreme Court Rule 762(b) is allowed, and respondent Katherine Ann Rodosky is censured.</p> <p id=\"A0CE\" pgmap=\"667\">Freeman, J., took no part.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

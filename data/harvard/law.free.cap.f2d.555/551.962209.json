@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"551\" lastpage=\"551\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b611-4\">FIRST RAILROAD &amp; BANKING COMPANY OF GEORGIA, Plaintiff-Appellee, v. UNITED STATES of America, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b611-7\">No. 73-3184.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b611-8\">United States Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b611-10\">June 7, 1977.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b611-12\">Before BROWN, Chief Judge, GOD-BOLD and RONEY, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b611-13\">ORDER:</p>\n<p id=\"b611-14\">In accordance with the mandate of the Supreme Court of the United States reversing this Court\u2019s decision in this case, our opinion as reported in 514 F.2d 675 is vacated, and the judgment of the United States District Court for the Southern District of Georgia is AFFIRMED.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

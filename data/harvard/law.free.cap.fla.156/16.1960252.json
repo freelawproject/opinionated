@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"16\" lastpage=\"16\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b40-12\">JEAN G. CAMPBELL v. JAMES A. CAMPBELL</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b40-13\">22 So. (2nd) 258</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aq-\">January Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b40-14\">May 25, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Ae\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b40-16\"><em>H. R. McDonald, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b40-17\">No appearance for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b40-18\">PER CURIAM:</author>\n<p id=\"b40-19\">Affirmed.</p>\n<judges id=\"b40-20\">CHAPMAN, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

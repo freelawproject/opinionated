@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"663\" lastpage=\"663\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b721-9\">No. 10,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A5BU\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Agit\">Rueda <em>v. </em>Colorado.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AHS2\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AMvy\"><em>Duke W. Dunbar, </em>Attorney General of Colorado, and <em>John W. Patterson </em>and <em>Gerald Harrison, </em>Assistant Attorneys General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_6\">Petition for writ of certiorari to the Supreme Court of Colorado denied in the light of the representations by respondent that petitioner has been furnished free transcripts of the lower court proceedings for use in the Supreme Court of Colorado.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b665-10\">No. 1726,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Ax2\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ACji\">Hooper et al. <em>v. </em>Gooding, Judge.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A2X\"><em>John P. Frank </em>and <em>John J. Flynn </em>for petitioner Hooper.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ayy\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1072\" lastpage=\"1072\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1102-6\">Harry T. PRATT et al. v. UNITED STATES <em>of </em>America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1102-7\">No. 593.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1102-8\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1102-9\">Jan. 28, 1932.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1102-11\">Hugh Ownby, of Tulsa, Okl., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1102-12\">A. E. Williams, Asst. U. S. Atty., of Tulsa, Okl.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1102-13\">Before LEWIS and COTTERAL, Circuit Judges, and KENNAMER, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1102-14\">PER CURIAM.</author>\n<p id=\"b1102-15\">Appeal dismissed for failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

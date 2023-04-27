@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1506\" lastpage=\"1506\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Aobs\">\n<em>Thursday, May 22, 1997</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AII\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ACQx\">97-728.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ALmk\">Cleveland Police Patrolmen\u2019s Assn. v. Cleveland.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AniA\">Cuyahoga App. No. 70380. This cause is pending before the court as a discretionary appeal. Upon consideration of appellee\u2019s motion to vacate April 30, 1997 entry and strike motion for stay or, in the alternative, motion for sanctions,</p>\n<p id=\"AHso\">IT IS ORDERED by the court that the motion be, and hereby is, denied.</p>\n<judges id=\"AW2U\">Lundberg Stratton, J., concurs, but would grant seven days to respond and would then have this court reconsider the stay.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1053\" lastpage=\"1053\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1083-34\">Clarence Alfred BREWER, a Minor, by L. D. Brewer, His Next Friend, v. ST. LOUIS-SAN FRANCISCO RAILWAY COMPANY, a Corporation.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1083-35\">No. 559.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1083-36\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A5y\">April 11, 1932.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1083-37\">F. A. Rittenhouse, of Oklahoma City, Old., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1083-38\">E. T. Miller, of St. Louis, Mo., for appel-lee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1083-39\">Before LEWIS and McDERMOTT, Circuit Judges, and POLLOCK, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1083-40\">PER CURIAM.</author>\n<p id=\"b1083-41\">Appeal dismissed, for failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"221\" lastpage=\"221\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b273-20\">Henry Frank REDWINE, Jr., v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b273-21\">No. 4442.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b273-22\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b273-23\">Feb. 20, 1952.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b273-25\">Harold R. Shoemake, Muskogee, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b273-26\">Edwin Langley, U. S. Atty., and Paul Gotcher, Asst. U. S. Atty., Muskogee, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b273-27\">Before PHILLIPS, Chief- Judge, and RICE, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b273-28\">PER CURIAM.</author>\n<p id=\"b273-29\">Docketed and dismissed February 20, 1952, on motion of appellee on ground that notice of appeal was not filed within time.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

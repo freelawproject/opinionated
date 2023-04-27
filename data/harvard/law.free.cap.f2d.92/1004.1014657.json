@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1004\" lastpage=\"1004\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1056-30\">The GULF REFINING COMPANY, Appellant, v. Louis W. FETSCHAN, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"arp-dedup-2\">No. 7273.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1056-32\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A0Lx\">Nov. 8, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1056-34\">Maxwell &amp; Ramsey, of Cincinnati, Ohio, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1056-35\">Harry A. Abr.ams, Frank R. Gusweiler, and Ralph B. Kohnen, all of Cincinnati, Ohio, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1056-36\">Before MOORMAN, SIMONS, and ALLEN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1056-37\">PER CURIAM.</author>\n<p id=\"b1056-38\">It is ordered that the appeal in this cause be, and the same is, dismissed, pursuant to motion of counsel for appellant</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

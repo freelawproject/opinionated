@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1073-3\">UNITED STATES ex rel. John James PANNONE, Relator-Appellant, v. Laureat L. MARTINEAU, United States Immigration Inspector in Charge, Respondent-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1073-4\">No. 61.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1073-5\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A_2\">Nov. 15, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1073-7\">Robert H. Alcorn and Thomas R. Robinson, both of New Haven, Conn., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1073-8\">Robert P. Butler, U. S. Atty., of Hartford, Conn., for appellant.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1073-9\">Before MANTON, AUGUSTUS N. HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1073-10\">PER CURIAM.</author>\n<p id=\"b1073-11\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

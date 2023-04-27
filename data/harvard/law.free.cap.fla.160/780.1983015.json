@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"780\" lastpage=\"780\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b826-3\">FRANK L. NOBLE v. E. F. POWERS</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b826-4\">35 So. (2nd) 412</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A86\">May 4, 1948</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b826-6\">Rehearing denied May 18, 1948.</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"Alb\">January Term, 1948</p>\n<court data-order=\"5\" data-type=\"court\" id=\"AfK\">Special Division A</court>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b826-7\">PER CURIAM:</author>\n<p id=\"b826-8\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"581\" lastpage=\"581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b605-18\">J. C. NOWLING v. FIRST NATIONAL BANK IN PALM BEACH, a national banking corporation.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b605-19\">23 So. (2nd) 735</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AnV\">June Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b605-20\">November 16, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"ApGH\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b605-22\"><em>E. B. Donnell, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b605-23\"><em>Bert Winters </em>and <em>W. J. Lake, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b605-24\">PER CURIAM:</author>\n<p id=\"b605-25\">Affirmed.</p>\n<judges id=\"b605-26\">CHAPMAN, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

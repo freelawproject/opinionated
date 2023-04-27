@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"599\" lastpage=\"600\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b647-23\" pgmap=\"647\">Joliet National Bank of Joliet, Illinois, administrator of the estate of Fred N. Ashamy, deceased, defendant in error, v. R. B. Farber Company, plaintiff in error.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ARC\" pgmap=\"647\">Gen. No. 35,351.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AC0y\" pgmap=\"648\">Wilson, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AI3d\" pgmap=\"648\">Opinion filed June 15, 1932.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b648-4\" pgmap=\"648\">John A. Bloomingston, for plaintiff in error. Joseph D. Ryan and Edmund M. Sinnott, for defendant in error.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b648-5\" pgmap=\"648\">Mr. Justice Friend</author> <p id=\"Aog\" pgmap=\"648\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

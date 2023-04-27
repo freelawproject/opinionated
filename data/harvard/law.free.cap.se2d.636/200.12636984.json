@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"200\" lastpage=\"200\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the Matter of the Willl of Mary M. YELVERTON, Deceased.\n  <br/>\n  appealed by Michael Yelverton, Caveator.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 376P06.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 17, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Robert E. Fuller, Jr., Goldsboro, for Mansel Yelverton.\n </attorneys>\n <attorneys id=\"p-6\">\n  Phillip A. Baddour, Jr., for Kelvin Artis.\n </attorneys>\n <p id=\"p-7\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed on the 20th day of July 2006 by Caveator (Mansel Yelverton) in this matter for discretionary review of the decision of the North Carolina Court of Appeals pursuant to G.S. 7A-31, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 17th day of August 2006.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

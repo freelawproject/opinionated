@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"779\" lastpage=\"779\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b825-4\">GEORGE W. GREEN v. CITY OF STUART, a Florida municipal corporation.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b825-5\">36 So. (2nd) 224</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AaK\">April 23, 1948</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ATK\">Rehearing denied June 25, 1948</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"A-4\">January Term, 1948</p>\n<court data-order=\"5\" data-type=\"court\" id=\"Ag8Z\">Special Division B</court>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b825-8\">PER CURIAM:</author>\n<p id=\"b825-9\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

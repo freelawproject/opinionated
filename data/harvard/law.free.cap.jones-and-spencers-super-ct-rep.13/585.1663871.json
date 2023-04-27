@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"585\" lastpage=\"585\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b619-4\">BENEDICT ESS, Plaintiff and Respondent, <em>v. </em>CLARA ESS, Defendant and Appellant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b619-6\">Before Curtis, Ch. J., and Freedman, J.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b619-7\"><em>Decided March </em>3, 1879.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b619-8\">This was an action for a limited divorce on the ground of cruel treatment. The answer denied the allegations of the complaint, set up cruel treatment by plaintiff, and asked for a limited divorce in defendant\u2019s favor.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b619-9\">The cause was tried before a referee, who found in plaintiff\u2019s favor. Judgment of divorce <em>a mensa et thoro </em>in favor of plaintiff, and awarding him the custody of the children, was entered on the report.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b619-10\">Per Curiam.</author>\n<p id=\"Avj\">The order and judgment should be affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

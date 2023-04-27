@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1403\" lastpage=\"1403\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b837-18\">\n<em>Wednesday, November 9, 1994</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b837-19\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b837-20\">91-547.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AOs\">Baker v. Pease Co.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AY4\">Certified Question of State Law, No. 893985. <em>Sua sponte, </em>pursuant to S.Ct.Prac.R. XVIII(6), the court declines to answer the certified questions and dismisses this cause.</p>\n<judges id=\"b837-21\">Moyer, C.J., A.W. Sweeney, Wright, Resnick and Pfeifer, JJ., concur.</judges>\n<judges id=\"b837-22\">Douglas, J., would answer the certified questions.</judges>\n<judges id=\"b837-23\">F.E. Sweeney, J., would continue the stay.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"705\" lastpage=\"705\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b763-9\">No. 942,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ABPR\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ajk\">Chessman <em>v. </em>Dickson, Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A9b0\"><em>George T. Davis, Rosalie S. Asher </em>and <em>A. L. Wirin </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ATe6\"><em>Stanley Mosk, </em>Attorney General of California, and <em>Arlo E. Smith, </em>Deputy Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZko\">The application for stay of execution presented to Mr. Justice Douglas and by him referred to the Court is denied. Petition for writ of certiorari to the Supreme Court of California denied.</p>\n<judges id=\"AkVn\">The Chief Justice took no part in the consideration or decision of these applications.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

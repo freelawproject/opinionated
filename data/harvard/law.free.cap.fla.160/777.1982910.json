@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"777\" lastpage=\"777\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b823-18\">BISBEE-BALDWIN CORPORATION, a corporation under the laws of Florida, v. REAUBEAN ALVIS REYNOLDS and EDNA I. REYNOLDS, his wife.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b823-19\">36 So. (2nd) 790</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AYKA\">March 19, 1948</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AZUK\">Rehearing denied May 12, 1948.</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"A_f\">January Term, 1948</p>\n<court data-order=\"5\" data-type=\"court\" id=\"ArE7\">En Banc</court>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b823-22\">PER CURIAM:</author>\n<p id=\"b823-23\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

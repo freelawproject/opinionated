@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1450\" lastpage=\"1451\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b902-22\">\n<em>Monday, April 12, 1999</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b902-23\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b902-24\">98-1156.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AUy\">Bagnoli v. Northbrook Prop. &amp; Cas. Ins. Co.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b902-25\">Stark App. No. 97CA00415. This cause is pending before the court as an appeal from the Court of Appeals for Stark County.</p>\n<p id=\"b903-4\"><page-number citation-index=\"1\" label=\"1451\">*1451</page-number>IT IS ORDERED by the court, <em>sua sponte, </em>that this case be held for the decision in Supreme Court case No. 98-442, <em>Scott-Pontzer v. Liberty Mutual Fire Insurance Co. et al.</em></p>\n<p id=\"b903-5\">IT IS FURTHER ORDERED by the court, <em>sua sponte, </em>that oral argument currently scheduled for April 13,1999, be canceled.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1076\" lastpage=\"1076\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1100-3\">Dominick FARINA, Plaintiff in Error, v. UNITED STATES of America, Defendant in Error.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1100-5\">No. 376.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1100-6\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1100-7\">April 18, 1932.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1100-10\">Lester W. Block, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1100-11\">Oliver D. Burden, U. S. Atty., of Syracuse, N. Y., and Floyd S. Spangle, Asst. U. S. Atty., of Fulton, N. Y.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1100-12\">Before MANTON, L. HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1100-13\">PER CURIAM.</author>\n<p id=\"b1100-14\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

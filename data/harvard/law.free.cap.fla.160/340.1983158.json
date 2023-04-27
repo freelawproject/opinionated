@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"340\" lastpage=\"340\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b386-18\">NEIL BERK and LEON RUDD, doing business as NEIL BERK ASSOCIATES, v. SAMUEL RITTER and A. J PLOTKIN, individually, jointly, and as Trustees of the S. and J. Realty Corporation, a Florida corporation, dissolved January 4, 1945.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b386-19\">34 So. (2nd) 459</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A67\">March 5, 1948</decisiondate>\n<p data-order=\"3\" data-type=\"misc\" id=\"AECf\">January Term, 1948</p>\n<court data-order=\"4\" data-type=\"court\" id=\"A49b\">En Banc</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b386-21\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"782\" lastpage=\"782\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b828-19\">FEDERAL AMUSEMENT COMPANY, a Florida Corporation, and CHARLES (BABE) BAKER, v. STATE OF FLORIDA, upon the relation of Frank TUPPEN.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b828-21\">36 So. (2nd) 224</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AdyP\">June 8, 1948</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AsXe\">Rehearing denied July 1, 1948</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"AUI\">June Term, 1948</p>\n<court data-order=\"5\" data-type=\"court\" id=\"AhGx\">Division A</court>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b828-23\">PER CURIAM:</author>\n<p id=\"AoG\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

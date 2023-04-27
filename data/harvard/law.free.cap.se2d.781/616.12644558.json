@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"616\" lastpage=\"616\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Prince Jerry JONES\n  <br/>\n  v.\n  <br/>\n  HARNETT COUNTY DISTRICT COURT Jacqualyn L. Lee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 404P15.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Jan. 28, 2016.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Prince Jerry Jones, for Jones, Prince Jerry.\n </attorneys>\n <p id=\"p-6\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Upon consideration of the petition filed by Plaintiff on the 8th of December 2015 in this matter for a writ of mandamus, the following order was entered and is hereby certified to the Superior Court, Harnett County:\n  </p>\n  <blockquote id=\"p-8\">\n   \"Denied by order of the Court in conference, this the 28th of January 2016.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"863\" lastpage=\"863\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b863-10\">November 7, 1949.</decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b863-11\">\n<em>Per Curiam Decisions.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b863-12\">No. 342.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AlPn\">Vinsonhaler et al., doing business as KGHI Broadcasting Service, et al. <em>v. </em>Beard, Collector.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aoc4\"><em>Bruce T. Bullion </em>and <em>Eugene R. Warren </em>for appellants. <em>T. J. Gentry </em>for appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AhJE\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"ASc8\">The appeal is dismissed for want of a substantial federal question. <em>Crutcher </em>v. <em>Kentucky, </em>141 U. S. 47.</p>\n<judges id=\"Av5t\">Mr. Justice Douglas took no part in the consideration or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

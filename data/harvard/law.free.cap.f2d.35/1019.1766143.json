@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1047-23\">James MORRISON, Appellant, v. WARDEN OF UNITED STATES PENITENTIARY, ATLANTA, GEORGIA, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1047-24\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aks0\">October 25, 1929.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1047-25\">No. 5593.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1047-28\">James Morrison, in pro. per.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1047-29\">Clint W. Hager, U. S. Atty., and Hal Lindsay, Asst. U. S. Atty., both of Atlanta, Ga., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1047-30\">Before WALKER, BRYAN, and FOSTER, Cireuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1047-31\">PER CURIAM.</author>\n<p id=\"AcTMr\">The judgment in the above numbered and entitled cause is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

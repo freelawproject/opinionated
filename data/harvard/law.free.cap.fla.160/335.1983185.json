@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"335\" lastpage=\"335\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b381-18\">HAMILTON C. FORMAN v. CITY OF ST. PETERSBURG</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b381-19\">December 19, 1947</decisiondate>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AqP\">Rehearing denied January 6, 1948</otherdate>\n<p data-order=\"3\" data-type=\"misc\" id=\"AJu\">June Term, 1947</p>\n<court data-order=\"4\" data-type=\"court\" id=\"AJ2\">Division B</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b381-21\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1077\" lastpage=\"1077\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1105-19\">Richard GROSSO v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1105-20\">No. 439.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1105-21\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1105-22\">April 13, 1931.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1105-24\">Charles T. Mahoney and Harold G-. King, both of Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1105-25\">Ralph L. Carr, U. S. Atty., of Denver, Colo.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1105-26\">Before LEWIS, PHILLIPS, and Mc-DERMOTT, Cireuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1105-27\">PER CURIAM.</author>\n<p id=\"b1105-28\">Appeal dismissed April 13, 1931, per stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

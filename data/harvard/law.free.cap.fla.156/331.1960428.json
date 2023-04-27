@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"331\" lastpage=\"331\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b355-4\">TOBIN <em>&amp; </em>TOBIN REALTY ASSOCIATES, INC., v. MORRIS SIEGEL</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b355-5\">22 So. (2nd) 768</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AtS\">June Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b355-6\">July 10, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Au2\">Division A</court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b355-7\">Rehearing denied July 27, 1945.</otherdate>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b355-9\"><em>Roland W. Granat, </em>for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b355-10\"><em>Nathanson, Oka &amp; Spaet, </em>and <em>George Atkinson, </em>for ap- ' pellee.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b355-11\">PER CURIAM:</author>\n<p id=\"b355-12\">The decree appealed from is affirmed.</p>\n<judges id=\"b355-13\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

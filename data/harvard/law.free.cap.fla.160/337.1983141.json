@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"337\" lastpage=\"338\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b383-32\">JOSEPH A. LARIVIERE, ANTOINETTE LARIVIERE, PASQUALE SILVANO and MARCELLE SILVANO v. HOWARD M. HOOK and LILYAN B. HOOK.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b384-3\"><page-number citation-index=\"1\" label=\"338\">*338</page-number>34 So. (2nd) 40</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A01\">February 10, 1948</decisiondate>\n<p data-order=\"3\" data-type=\"misc\" id=\"b384-4\">January Term, 1948</p>\n<court data-order=\"4\" data-type=\"court\" id=\"AjZ\">Division B</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b384-5\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

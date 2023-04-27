@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"598\" lastpage=\"599\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b632-12\">SARAH VALEAU, Plaintiff and Respondent, <em>v. </em>ROBERT W. SMITH, Defendant and Appellant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"A1z\">Before Sedgwick and Van Vorst, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b632-15\"><em>Decided May </em>16, 1879.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b632-16\">Appeal by defendant from judgment and from order <page-number citation-index=\"1\" label=\"599\">*599</page-number>denying motion for new trial. This case involves only questions of fact.</summary>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b633-5\">Van Vorst, J.,</author>\n<p id=\"Apr3\">wrote for reversal of the judgment, with costs, to abide the event.</p>\n<p id=\"b633-6\">Sedgwick, J., concurred.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

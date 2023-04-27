@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"590\" lastpage=\"590\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b624-4\">MARY GROGAN, Plaintiff and Appellant, v. NEW YORK &amp; H. RAILROAD COMPANY, Defendant and Respondent.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b624-5\">Before Sedgwick and. Van Vorst, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b624-6\"><em>Decided March </em>14, 1879.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b624-7\"><em>L. G. &amp; R. L. Garrettson, </em>attorneys, and <em>Homer A. Nelson, </em>of counsel, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b624-8\"><em>Chauncey M. Depew, </em>attorney, and <em>Elliott F. Shepard, </em>of counsel, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b624-9\">Per Curiam.</author>\n<p id=\"AM4\">Judgment and order appealed from affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

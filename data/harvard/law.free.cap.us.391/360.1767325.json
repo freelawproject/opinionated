@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"360\" lastpage=\"360\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b406-11\">HOWARD <em>v. </em>OHIO.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b406-13\">No. 1217,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"ASnb\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A70\">Decided May 20, 1968.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b406-15\"><em>Neil K. Evans </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b406-16\"><em>John T. Comgan </em>for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b406-17\">Per Curiam.</author>\n<p id=\"b406-18\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n<judges id=\"b406-19\">Mr. Justice Douglas is of the opinion that probable jurisdiction should be noted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

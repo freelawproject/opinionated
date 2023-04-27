@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1441\" lastpage=\"1441\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b875-9\">\n<em>Monday, January 9, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b875-10\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b875-11\">93-1021. Nos. 92AP-1345 and 92AP-1346.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AOLW\">Hamilton v. State Emp. Relations Bd.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AvfL\">\n<em>Franklin County,</em>\n</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUI\">This cause came on for further consideration upon the motion of appellee, city of Hamilton, for a stay of judgment pending review by the United States Supreme Court. Upon consideration thereof,</p>\n<p id=\"AHy\">IT IS ORDERED by the court that the motion for stay be, and the same is hereby, granted.</p>\n<judges id=\"A5_\">Resnick and F.E. Sweeney, JJ., dissent.</judges>\n<judges id=\"b875-12\">Cook, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

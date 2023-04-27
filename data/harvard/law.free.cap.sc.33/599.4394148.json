@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"599\" lastpage=\"599\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b609-3\">No. 2637.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AbMp\">Clayton <em>v. </em>Mitchell.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"Als\">April Term, 1890.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Adz\"><em>James E. Davis, </em>for the motion.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Akov\"><em>Skinner Williams, </em>contra.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADA\">This was a motion to dismiss an appeal from a judgment of the Circuit Court (Hudson, J.), conforming to the directions contained in. the judgment of this court in this same case as reported in 31 S. C., 199. This motion was granted per curiam, May 29, 1890, the court saying: This being an appeal from a judgment rendered by the Circuit Court in conformity to the instructions of this court at the hearing of the former appeal herein, the matter is clearly not appealable, and it is therefore ordered, that this motion be granted, and that the appeal be dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

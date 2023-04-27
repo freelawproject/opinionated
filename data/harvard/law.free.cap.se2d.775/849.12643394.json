@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"849\" lastpage=\"849\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  FERRELL\n  <br/>\n  v.\n  <br/>\n  PERRITT.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 407P14-3.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 20, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Dwain Cornelius Ferrell, for Ferrell, Dwain Cornelius.\n </attorneys>\n <attorneys id=\"p-6\">\n  Joseph L. Hyde, Assistant Attorney General, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-7\">\n  N. Lorrin Freeman, District Attorney, for State of North Carolina.\n </attorneys>\n <p id=\"p-8\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   The following order has been entered on the motion filed on the 9th of July 2015 by Defendant for Leave to Amend:\n  </p>\n  <blockquote id=\"p-10\">\n   \"Motion Dismissed as moot by order of the Court in conference, this the 20th of August 2015.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

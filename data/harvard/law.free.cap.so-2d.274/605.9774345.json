@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"605\" lastpage=\"605\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AHao\">Pierre A. VACCA, Jr., Appellant-Petitioner, v. INTERNATIONAL ASSOCIATION OF MACHINISTS AND AEROSPACE WORKERS, AFL-CIO, Appellee-Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Adp\">Nos. 72-1447, 72-1448.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"ABsH\">District Court of Appeal of Florida, Third District.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AUJd\">Feb. 20, 1973.</decisiondate>\n<p data-order=\"4\" data-type=\"docketnumber\" id=\"AM2\">No. 72-1447.</p>\n<p data-order=\"5\" data-type=\"docketnumber\" id=\"AWLk\">No. 72-1448.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AyS\">PER CURIAM.</p>\n<p id=\"AWq2\">Certiorari denied and appeal dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

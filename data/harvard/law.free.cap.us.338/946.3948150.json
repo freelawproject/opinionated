@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"946\" lastpage=\"946\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b946-3\">February 6, 1950.<footnotemark>*</footnotemark></decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b946-4\">\n<em>Per Curiam Decisions.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b946-5\">No. 497.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AU3Z\">Burton, doing business as A. B. Burton Co., <em>v. </em>United States et al.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aqqs\"><em>W. G. Burnette </em>for appellant. <em>Daniel W. Knowlton </em>for the Interstate Commerce Commission, appellee.</attorneys>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"AyQf\">Mr. Justice Douglas took no part in the consideration or decision of the cases in which judgments or orders were this day announced.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"AgA\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AoD3\">The motion to affirm is granted and the judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"10\" lastpage=\"10\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b118-5\">WHITLEY <em>v. </em>NEW YORK</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b118-7\">No. 268,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"ArH\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AR7\">Decided October 13, 1969</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b118-9\"><em>Henry B. Rothblatt </em>and <em>Emma A. Rothblatt </em>for appellant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b118-10\">Per Curiam.</author>\n<p id=\"b118-11\">The appeal is dismissed for want of a substantial federal question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

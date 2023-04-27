@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"953\" lastpage=\"953\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b823-13\">No. 919,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AFKT\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Asp9\">New Mexico State Game Commission <em>v. </em>United States Court of Appeals for the Tenth Circuit et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AlRL\"><em>James A. Maloney, </em>Attorney General of New Mexico, and <em>James E. Sperling, George T. Harris, Jr., </em>and <em>Peter J. Broullire III, </em>Special Assistant Attorneys General, on the motion.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZCW\">Motion for leave to file petition for writ of mandamus denied.</p>\n<judges id=\"AdmM\">Mr. Justice Douglas is of the opinion that the motion should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1202\" lastpage=\"1202\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1116-9\">No. 119,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AZF\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A0BX\">Connecticut et al. <em>v. </em>New Hampshire.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8W\">Motion of Massachusetts Municipal Wholesale Electric Co. for leave to participate as <em>amicus curiae </em>in this case granted.</p>\n<judges id=\"A-e\">Justice Souter took no part in the consideration or decision of this motion.</judges>\n<p id=\"A9S\">[For earlier order herein, see, <em>e. g., </em>504 U. S. 983.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

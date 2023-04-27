@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"847\" lastpage=\"847\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b901-17\">Ben Sherman REED v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b901-19\">No. 5550.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b901-20\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b901-21\">Jan. 4, 1957.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b901-23\">Anthis &amp; Gotcher, Muskogee, Okl., and Willard Gotcher, McAlester, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b901-24\">Frank D. McSherry, U. S. Atty., Muskogee, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b901-25\">Before BRATTON, Chief Judge, and HUXMAN and LEWIS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b901-26\">Docketed and dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

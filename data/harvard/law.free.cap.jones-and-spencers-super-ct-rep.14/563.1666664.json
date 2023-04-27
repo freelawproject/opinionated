@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"563\" lastpage=\"563\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b585-12\">ADALINE T. SMITH, Respondent, <em>v. </em>EZRA H. LINLEY, Appellant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b585-13\">Before Sedgwick and Freedman, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b585-14\"><em>Decided April </em>5, 1880.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b585-15\">Appeal from order settling case on appeal.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b585-16\"><em>Arnoux, Ritch &amp; Woodford, </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b585-17\"><em>Randolph B. Marline, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b585-18\">Per Curiam.</author>\n<p id=\"ArF\">The order appealed from should be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

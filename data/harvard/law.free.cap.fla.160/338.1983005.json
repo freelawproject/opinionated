@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"338\" lastpage=\"338\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b384-11\">CITY OF JACKSONVILLE, FLORIDA, a municipal corporation in Duval County, Florida, et al, v. STATE OF FLORIDA, ex rel., HARRY JAFFA.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b384-12\">34 So. (2nd) 121</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A6F\">February 13, 1948</decisiondate>\n<p data-order=\"3\" data-type=\"misc\" id=\"ACs\">January Term, 1948</p>\n<court data-order=\"4\" data-type=\"court\" id=\"Azm\">Division B</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiF\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

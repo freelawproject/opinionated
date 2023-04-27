@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1006\" lastpage=\"1006\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1060-30\">KALLE &amp; CO., et al. v. MULTAZO COMPANY, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1060-31\">No. 7570.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1060-32\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A99\">March 9, 1938.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1060-34\">Harness, Dickey, Pierce &amp; Hann, of Detroit, Mich, for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1060-35\">Chappell, Earl &amp; Chappell, of Kalamazoo, Mich, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1060-36\">Before HICKS, SIMONS, and ALLEN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1060-37\">PER CURIAM.</author>\n<p id=\"b1060-38\">, It is ordered that the appeal in this cause be dismissed without prejudice to further proceedings, pursuant to stipulation of counsel.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

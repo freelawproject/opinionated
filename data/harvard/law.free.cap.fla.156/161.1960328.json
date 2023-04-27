@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"161\" lastpage=\"161\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b185-4\">PETROLEUM CARRIER CORPORATION, a corporation, v. STANDARD OIL COMPANY OF KENTUCKY, a corporation.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b185-5\">23 So. (2nd) 249</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Az6\">June Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b185-6\">September 11, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"APM\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b185-8\"><em>Martin Sack </em>and <em>R. C. Evans </em>for Appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b185-9\"><em>Thomas Sale </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b185-10\">PER CURIAM:</author>\n<p id=\"b185-11\">No error appearing in the judgment appealed from, the same is affirmed.</p>\n<judges id=\"b185-12\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

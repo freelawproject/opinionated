@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"646\" lastpage=\"646\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b704-7\">No. 6,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A--\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AhGT\">Bryant <em>v. </em>Ohio.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AC3y\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AkL\"><em>Mathias H. Heck </em>and <em>Herbert M. Jacobson </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Al_\">Petition for writ of certiorari to the Supreme Court of Ohio denied in the light of the representation made by respondent in its brief in opposition that \u201cPetitioner may at this time perfect an appeal to the Supreme Court of Ohio <em>in forma pauperis, </em>which appeal will be heard by that Court.\u201d</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

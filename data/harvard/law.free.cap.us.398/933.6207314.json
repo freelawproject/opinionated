@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b527-10\">June 1, 1970<footnotemark>*</footnotemark></decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b527-12\">No. 1409,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ar7\">Misc.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ASDH\">Harris <em>v. </em>City of Houston et al.</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b527-13\"> Mr. Justice Marshall took no part in the consideration or decision of the orders of this date.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"A73\">Appeal from Dist. Ct. of Harris County, Tex., dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

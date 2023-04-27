@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"336\" lastpage=\"336\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b794-7\">METRIC CONSTRUCTORS, INC., Plaintiff-Appellant, v. UNITED STATES, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AaKD\">No. 03-5059.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b794-10\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b794-11\">Dec. 9, 2003.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b794-13\">Before LOURIE, DYK, and PROST, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b794-14\">\n<em>JUDGMENT</em>\n</p>\n<author id=\"A_SB\">PER CURIAM.</author>\n<p id=\"b794-15\">This CAUSE having been heard and considered, it is</p>\n<p id=\"b794-16\">ORDERED and ADJUDGED:</p>\n<p id=\"b794-3\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

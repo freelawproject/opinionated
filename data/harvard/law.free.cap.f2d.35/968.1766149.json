@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"968\" lastpage=\"968\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b996-3\">In the Matter of G. L. MILLER &amp; CO., Inc., Bankrupt. Claim of John HARRINGTON.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b996-5\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b996-6\">November 4, 1929.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b996-7\">No. 168.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b996-10\">Samuel J. Rosensohn, of New York City, for appellant. .</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b996-11\">Goldmark, Bennitt &amp; Colin, .of New York City (Godfrey Goldmark, of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b996-12\">Before MANTON, AUGUSTUS N. HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b996-13\">PER CURIAM.</author>\n<p id=\"Ab7\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

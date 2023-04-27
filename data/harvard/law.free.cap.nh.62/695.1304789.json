@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"695\" lastpage=\"695\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b705-11\">[Rockingham,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Adn\">December, 1882.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b705-12\">Dodge, <em>Ap\u2019t, v. </em>Stickney, <em>Ex\u2019r.</em></parties>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b705-13\">Probate Appeal. Reported 60 N. H. 461. Facts found by a referee.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b705-14\"><em>W. J. Copeland, W. L. Foster, </em>and <em>T. J. Smith, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b705-15\"><em>J. F. Wiggin </em>and <em>J. S. II. Frink, </em>for the defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b705-16\">Doe, C. J.</author>\n<p id=\"Afae\">On the facts found by the referee, no reason of appeal is sustained.</p>\n<p id=\"b705-17\">\n<em>Appeal dismissed.</em>\n</p>\n<judges id=\"b705-18\">All concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

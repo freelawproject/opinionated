@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"188\" lastpage=\"188\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b212-19\">ALICE B. MEANS, Appellant, v. MICHAEL A. MILLER, et ux., et al., Appellees.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b212-20\">27 So. (2nd) 530</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"A-9\">June Term, 1946</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b212-21\">September 24, 1946</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A48\">Division A</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b212-22\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

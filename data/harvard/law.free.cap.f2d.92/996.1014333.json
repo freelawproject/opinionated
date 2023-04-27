@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"996\" lastpage=\"997\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1048-40\">William E. BEDELL v. John J. RYAN, Superintendent, United States Detention Farm.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1048-41\">No. 7723.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1048-42\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"aoe-dedup-1\">Oct. 15, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1048-44\">William E. Bedell, of Milan, Mich., pro se.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1049-3\"><page-number citation-index=\"1\" label=\"997\">*997</page-number>John C. Lehr, of Detroit, Mich., for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1049-4\">Before HICKS, SIMONS and ALLEN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1049-5\">\u2018PER CURIAM.</author>\n<p id=\"b1049-6\">Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

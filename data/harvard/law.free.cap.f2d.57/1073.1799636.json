@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1073\" lastpage=\"1073\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1097-29\">CHAN SHEE, alias Chan Suey Gin, v. John D. NAGLE, Commissioner of Immigration of the Port of San Francisco.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1097-30\">No. 6710.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1097-31\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A-98\">May 18, 1932.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1097-33\">Joseph P. Fallon, of San Francisco, Cal., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1097-34\">Geo. J. Hatfield, U. S. Atty., of San Francisco, Cal., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1097-35\">Before WILBUR, and SAWTELLE, Circuit Judges, and NETERER, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1097-36\">PER CURIAM.</author>\n<p id=\"b1097-37\">Upon motion of counsel for appellant, ordered appeal dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

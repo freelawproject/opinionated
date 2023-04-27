@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"540\" lastpage=\"540\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b562-9\">MARY A. EGAN v. EDWARD T. WALSH, et al.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b562-10\">Before Curtis, Ch. J., and Speir, J.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b562-11\"><em>Decided February </em>2, 1880.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b562-12\">Appeal by a receiver, from an order of the special term confirming the report of the referee appointed, to pass his accounts. Two charges for legal services were contested, one of which was reduced and the other disallowed by the referee.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b562-13\"><em>W. J. </em>Lacey, for receiver and appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b562-14\"><em>David </em>Mitchell, for defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b562-15\">Per Curiam.</author>\n<p id=\"AJg\">The order appealed from is affirmed, with $10 costs, and disbursements, to the defendants.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

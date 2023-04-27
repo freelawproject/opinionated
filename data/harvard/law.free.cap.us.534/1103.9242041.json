@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1103\" lastpage=\"1104\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b1053-8\">January 14, 2002</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1053-10\">No. 128,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AoI4\">Orig.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Anfl\">Alaska v. United States.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnfE\">Report of the Special Master on motion of Franklin H. James et al. for leave to <page-number citation-index=\"1\" label=\"1104\">*1104</page-number>intervene received and ordered filed. Motion of Franklin H. James et al. for leave to intervene denied.</p>\n<seealso id=\"A2qBd\">[For earlier order herein, see, <em>e. g., ante, </em>p. 1017.]</seealso>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

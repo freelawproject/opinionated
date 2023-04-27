@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"333\" lastpage=\"333\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b379-9\">FRED HALL, D. C. RYALS, J. W. JETER, ALLEN McLEOD, JOHN DANIELS, O. F. BROOKS and J. I. MATHIS, v. FLOYD ELLIS, as Sheriff of Lee County, Florida.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b379-10\">33 So. (2nd) 162</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AY1\">December 2, 1947</decisiondate>\n<p data-order=\"3\" data-type=\"misc\" id=\"A_i\">June Term, 1947</p>\n<court data-order=\"4\" data-type=\"court\" id=\"A3q\">En Banc</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b379-12\">Petition for certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

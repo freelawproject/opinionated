@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"212\" lastpage=\"212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b276-44\">UNITED STATES of America v. E. L. BRESSLER et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b276-46\">No. 2843.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b276-47\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b276-48\">Oct. 15, 1943.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b276-50\">Carl L. Sackett, U. S. Atty., of Cheyenne, Wyo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b276-51\">No appearance for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b276-52\">Before PHILLIPS and HUXMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b276-53\">PER CURIAM. \u25a0</author>\n<p id=\"b276-54\">Appeal dismissed on motion' of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

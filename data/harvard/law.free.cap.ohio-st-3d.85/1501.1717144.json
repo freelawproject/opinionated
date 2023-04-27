@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1501\" lastpage=\"1501\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b953-3\"><em>Monday, June </em>7, <em>1999</em></decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b953-4\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b953-5\">99-941.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AT4\">State ex rel. The Ryant Commt. v. Lorain Cty. Bd. of Elections.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b953-6\">In Prohibition. This cause originated in this court on the filing of a complaint for a writ of prohibition regarding an expedited election matter. Upon consideration of the motion for leave to intervene by the city of Avon,</p>\n<p id=\"b953-7\">IT IS ORDERED by the court that the motion for leave to intervene by the city of Avon be, and hereby is, denied.</p>\n<judges id=\"b953-8\">F.E. Sweeney, Pfeifer and Lundberg Stratton, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

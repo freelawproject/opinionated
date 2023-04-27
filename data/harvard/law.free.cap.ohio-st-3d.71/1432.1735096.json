@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1432\" lastpage=\"1432\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b866-7\">\n<em>Tuesday, December 20, 1994</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b866-8\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b866-9\">94-2070. No. 65750.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AvE\">State v. Girts.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"Apv\">\n<em>Cuyahoga County,</em>\n</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A47\">On motion for bail hearing. Motion denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

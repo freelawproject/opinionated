@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"883\" lastpage=\"883\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b883-4\">November 21, 1949.</decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b883-5\">\n<em>Per Curiam Decisions.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b883-6\">No. 255,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"AyDs\">October Term, 1948.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AIfc\">Eisler <em>v. </em>United States.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AoO-\"><em>Solicitor General Perlman </em>was on the motion to dismiss for the United States. <em>David Rein </em>and <em>Joseph Forer </em>were on a memorandum opposing the motion for petitioner.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AAv\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"ALJR\">The motion to dismiss is granted and the writ of certiorari is dismissed.</p>\n<judges id=\"Aej\">Mr. Justice Douglas and Mr. Justice Clark took no part in the consideration or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

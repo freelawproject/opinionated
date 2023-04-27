@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"37\" lastpage=\"37\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b59-5\">RICHARD LEE HERRING <em>v. </em>STATE OF MARYLAND</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b59-6\">[No. 150,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ai\">September Term, 1979.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b59-7\">\n<em>Decided February 4, 1980.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b59-9\">The cause was submitted to Murphy, C. J., and Smith, Digges, Eldridge, Cole and Davidson, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b59-10\">PER CURIAM</author>\n<p id=\"A9\">ORDER</p>\n<p id=\"b59-11\">It is this 4th day of February, 1980</p>\n<p id=\"b59-12\">ORDERED, by the Court of Appeals of Maryland, that the above entitled case be, and it is hereby, remanded to the Court of Special Appeals of Maryland without affirmance or reversal for reconsideration in light of <em>Snead v. State, </em>286 Md. 122, 406 A.2d 98.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"806\" lastpage=\"806\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  HOCKNEY &amp; ASSO.\n  <br/>\n  v.\n  <br/>\n  STATE of NC.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 353P05-5.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  October 5, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Grady L. Balentine, Jr., Assistant Attorney General, for State et al.\n </attorneys>\n <opinion id=\"p-6\">\n  The following order has been entered on the motion filed on the 15th day of September 2006 by Plaintiff demanding Supreme Court to issue order to show true ownership of property:\n </opinion>\n <opinion id=\"p-7\">\n  \"Motion Denied by order of the Court in conference this the 5th day of October 2006.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Justice EDMUNDS recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"706\" lastpage=\"706\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b764-4\">No. 3,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AAK\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ATY\">Chapman <em>v. </em>Wilson, Warden, et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aiq1\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ANK\"><em>Stanley Mosk, </em>Attorney General of California, <em>Clarence A. Linn, </em>Chief Assistant Attorney General, and <em>Arlo E. Smith, </em>Deputy Attorney General, for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ambv\">The motion to substitute Fred Dickson in the place of Lawrence E. Wilson is denied. Petition for writ of cer-tiorari to the Supreme Court of California denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

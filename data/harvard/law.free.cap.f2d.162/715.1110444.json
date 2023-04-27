@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"715\" lastpage=\"715\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b769-28\">Paul GIES, Appellant, v. UNITED STATES, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b769-29\">No. 10480.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b769-30\">Circuit Court of Appeals, Sixth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"avp-dedup-0\">June 4, 1947.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b769-32\">Paul Gies, in pro. per.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b769-33\">John C. Lehr, of Detroit, Mich., for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b769-34\">Before HICKS and MILLER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b769-35\">PER CURIAM.</author>\n<p id=\"b769-36\">The motion of appellant for extension of time to file record on appeal is hereby denied.</p>\n<p id=\"b769-37\">The motion of appellee to docket and dismiss the appeal is granted, and the appeal is hereby docketed and dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

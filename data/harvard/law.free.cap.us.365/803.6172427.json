@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b841-4\">No. 235,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AbeM\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ACq\">Merriman <em>v. </em>Arizona et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ah0\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Afi\"><em>Wade Church, </em>Attorney General of Arizona, <em>Leslie C. Hardy, </em>Chief Assistant Attorney General, and <em>Stirley Newell, </em>Assistant Attorney General, for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AA7Y\">Supreme Court of Arizona. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

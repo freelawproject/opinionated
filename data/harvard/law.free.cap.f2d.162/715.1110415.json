@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"715\" lastpage=\"715\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b769-16\">Philip B. FLEMING, Administrator, Office of Temporary Controls, v. LEAVENWORTH PACKING COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b769-18\">No. 3515.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b769-19\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b769-20\">May 19, 1947.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b769-22\">David London, of Washington, D. C., Leonard M. Cox, of Dallas, Tex., and James B. Dockery, of St. Louis, Mo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b769-23\">Patrick W. Crokcr, of Kansas City, Mo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b769-24\">Before PHILLIPS and BRATTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b769-25\">PER CURIAM.</author>\n<p id=\"b769-26\">Appeal docketed and dismissed on mo-rion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

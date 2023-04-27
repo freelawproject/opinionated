@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"114\" lastpage=\"114\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b222-13\">MATHIS <em>v. </em>NELSON, WARDEN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b222-15\">No. 620,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aiqa\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A5l\">Decided December 8, 1969</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b222-17\"><em>Thomas C. Lynch, </em>Attorney General of California, <em>Albert W. Harris, Jr., </em>Assistant Attorney General, and <em>Robert R. Oranucci, </em>Deputy Attorney General, for appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b222-18\">Per Curiam.</author>\n<p id=\"b222-19\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"882\" lastpage=\"882\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b920-5\">No. 590,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ADPO\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ArrZ\">Smallwood <em>v. </em>Warden, Maryland Penitentiary.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AKeT\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ald\"><em>Thomas B. Finan, </em>Attorney General of Maryland, and <em>Clayton A. Dietrich, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMdc\">Court of Appeals of Maryland. Certio-rari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

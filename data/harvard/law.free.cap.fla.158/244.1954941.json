@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"244\" lastpage=\"244\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b268-7\">THOMAS D. MATTHEWS and SNEAD MATTHEWS, his wife, v. ED. H. Stanley and J. HARRY SCHAD, as guardian ad litem for ED H. STANLEY, an insane person.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b268-8\">27 So. (2nd) 341</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ay4\">June Term, 1946</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b268-9\">July 26, 1946</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AmX\">Special Division B</court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b268-10\">Rehearing denied September 10, 1946</otherdate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b268-11\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

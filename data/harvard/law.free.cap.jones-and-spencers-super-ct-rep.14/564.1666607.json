@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"564\" lastpage=\"564\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b586-4\">JOHN N. WHITING, Appellant, <em>v. </em>BENJAMIN M. PRICE, Respondent.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b586-5\">Before Curtis, Ch. J., and Speir, J.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b586-6\"><em>Decided April </em>5, 1880.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b586-7\">Appeal from judgment.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b586-8\"><em>Swall </em>Sergeant, attorney, and A. <em>J. Vanderpoel, </em>and <em>Almon Goodwin, </em>of counsel, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b586-9\"><em>George J. Peet, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b586-10\">Per Curiam.</author>\n<p id=\"AWu\">Judgment appealed from affirmed, with costs to respondent.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

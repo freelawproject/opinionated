@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1037-37\">In the Matter of the Bankruptcy of the INTERNATIONAL MORTGAGE TRUST COMPANY, a Corporation, State of Kansas, ex rel. Roland Boynton, Attorney General, et al., Petitioners.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1037-38\">No. 659.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1037-39\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1037-40\">May 25, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1037-42\">O\u2019Neil <em>&amp; </em>Hamilton, of Topeka, Kan., for petitioners.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1037-43\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1037-44\">PER CURIAM.</author>\n<p id=\"b1037-45\">Petition dismissed on motion of petitioners.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

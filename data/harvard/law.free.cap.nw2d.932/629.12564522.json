@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"629\" lastpage=\"629\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  William Mark REIDENBACH, Plaintiff-Appellee/Cross-Appellant,\n  <br/>\n  v.\n  <br/>\n  CITY OF KALAMAZOO, Defendant-Appellant/Cross-Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 159592\n  <br/>\n  COA: 340863\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  September 10, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the February 26, 2019 judgment of the Court of Appeals and the application for leave to appeal as cross-appellant are considered, and they are DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

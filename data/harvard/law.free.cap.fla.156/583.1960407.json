@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"583\" lastpage=\"583\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b607-9\">SOL SHAFER v. PETER GOULD and FRANCES M. LEVY, a feme sole.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b607-10\">23 So. (2nd) 724</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Anp\">June Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ae_\">November 20, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A8j\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b607-13\"><em>Norman R. Lyons, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b607-14\"><em>Patton &amp; Banner, </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b607-15\">PER CURIAM:</author>\n<p id=\"b607-16\">The order of dismissal is hereby affirmed.</p>\n<judges id=\"b607-17\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"83\" lastpage=\"83\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b129-8\">LEATHA M. FREEMAN v. JAMES T. VOCELLE, as Director of the State Beverage Department of the State of Florida.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b129-9\">33 So. (2nd) 602</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A0x\">January 23, 1948</decisiondate>\n<p data-order=\"3\" data-type=\"misc\" id=\"AYL\">January Term, 1948</p>\n<court data-order=\"4\" data-type=\"court\" id=\"AUL\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b129-12\"><em>Thomas H. Anderson, </em>for petitioner.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b129-13\"><em>Patton </em>and <em>Kanner, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b129-14\">PER CURIAM:</author>\n<p id=\"b129-15\">The answer to the question propounded is denied because the question does not come within the purview of Rule 38 of this Court.</p>\n<judges id=\"b129-16\">THOMAS, C. J., BUFORD, ADAMS and BARNS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

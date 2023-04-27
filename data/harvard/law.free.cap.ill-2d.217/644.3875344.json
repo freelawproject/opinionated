@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"644\" lastpage=\"644\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"AVJ\" pgmap=\"658\">In re MADDEN, James George</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AErD\" pgmap=\"658\">(MR 20390)</docketnumber><p data-order=\"2\" data-type=\"court\" id=\"ATk\" pgmap=\"658\">Freeport, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"AsG\" pgmap=\"658\">Order of the Court:</p> <p id=\"AKk\" pgmap=\"658\">The petition by the Administrator of the Attorney Registration and Disciplinary Commission to impose discipline on consent pursuant to Supreme Court Rule 762(b) is allowed, and respondent James George Madden is suspended from the practice of law for one year.</p> <p id=\"A34\" pgmap=\"658\">Suspension effective December 13, 2005.</p> <p id=\"AKR\" pgmap=\"658\">Respondent James George Madden shall reimburse the Disciplinary Fund for any Client Protection payments arising from his conduct prior to the termination of the period of suspension.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

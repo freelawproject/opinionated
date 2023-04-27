@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"973\" lastpage=\"973\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1019-12\">W. R. HAFEMAN and VIOLET N. HAFEMAN, his wife v. CHARLIE HEMPLE, a single man ALEN L. SKIPPER and COCONUT GROVE EXCHANGE BANK, a banking corporation.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1019-14\">December 3, 1948</decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"b1019-13\">Fall Term, 1948</p>\n<court data-order=\"3\" data-type=\"court\" id=\"AXin\">Division A</court>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1019-15\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

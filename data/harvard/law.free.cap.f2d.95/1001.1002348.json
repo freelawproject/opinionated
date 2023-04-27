@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1055-4\">Lilian H. FOSDICK v. B. F. KEITH-COLUMBUS COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1055-5\">No. 7936.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1055-6\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1055-7\">March 16, 1938.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1055-9\">Robert Fosdick, of Cincinnati, Ohio, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1055-10\">Kenneth B. Johnston, of Columbus, Ohio, and Ulmer, Berne &amp; Gordon, of Cleveland, Ohio, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1055-11\">Before HICKS, SIMONS, and ALLEN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1055-12\">PER CURIAM.</author>\n<p id=\"b1055-13\">It is ordered that the appeal herein be, and the same is, dismissed, pursuant to motion of appellee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

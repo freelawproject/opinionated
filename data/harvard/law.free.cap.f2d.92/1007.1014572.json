@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1007\" lastpage=\"1007\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1059-38\">Samuel KOHLER, Appellant, v. I. B. BEESHY, as Liquidating Trustee, etc., Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1059-40\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"aqr-dedup-1\">Nov. 3, 1937.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b1059-42\">Elmer McClain, of Lima, Ohio, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1059-43\">R. S. Steiner, of Lima, Ohio, for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1059-44\">Before MOORMAN, HICKS, and SI-MONS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1059-45\">PER CURIAM.</author>\n<p id=\"b1059-46\">It is ordered that the appeal in this cause be, and the same is, dismissed, pursuant to motion of appellant</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

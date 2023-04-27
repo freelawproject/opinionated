@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AadM\">In the Matter of SOL GOODMAN, Inc., Bankrupt. Abraham Goldberg, Creditor.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AK-n\">No. 261.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1042-33\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"afp-dedup-0\">Dec. 18, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AXQ_\">Abraham Goldberg, of New York City, in pro. per.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A_Nq\">Hartman, Sheridan, Tekulsky &amp; Pecora, of New York City (Julius Silver, of New York City, of counsel), for appellee Irving Trust Co. as trustee.</attorneys>\n<p data-order=\"6\" data-type=\"legal\" id=\"Apad\">. Before MANTON, AUGUSTUS' N. HAND, and CHASE, Circuit Judges,</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"a9h-dedup-0\">PER CURIAM,</author>\n<p id=\"Apl9\">Decision (5 F. Supp. 517) affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

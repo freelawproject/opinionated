@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"602\" lastpage=\"602\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b648-10\">HEYMAN <em>v. </em>MICHIGAN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b648-12\">No. 1099,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Auc\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ASM\">Decided June 3, 1968.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b648-14\">Per Curiam.</author>\n<p id=\"b648-15\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of <em>Peyton </em>v. <em>Rowe, ante, </em>p. 54.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

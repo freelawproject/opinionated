@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"666\" lastpage=\"666\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"AqB\" pgmap=\"680\">In re HARDY, Whitney Dove</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AkZa\" pgmap=\"680\">(MR 20607)</docketnumber><p data-order=\"2\" data-type=\"p\" id=\"A6D\" pgmap=\"680\">Shelbyville, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"ANQ\" pgmap=\"680\">Order of the Court:</p> <p id=\"Ap0v\" pgmap=\"680\">The petition by the Administrator of the Attorney Registration and Disciplinary Commission for leave to file exceptions to the report and recommendation of the Review Board is denied. Respondent Whitney Dove Hardy is censured, as recommended by the Review Board.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

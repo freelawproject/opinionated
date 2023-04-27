@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"672\" lastpage=\"672\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b688-3\">[Hillsborough,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Alu\">December, 1889.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b688-4\">Sargent Invalid Furniture Co. <em>v. </em>Sargent.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A8qF\"><em>E. E. </em>Parker, <em>W. L. </em>Poster, and <em>Gf. B. </em>French, for the plaintiffs.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"At5\"><em>J. W. Fellows </em>and <em>J. P. </em>Bartlett, for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b688-5\">Bingham, J.</author>\n<p id=\"A9o\">The agreed case is insufficient. All the material facts necessary for the determination of the questions of law, or .the decision of the cause, should appear.</p>\n<p id=\"b688-6\">\n<em>Case discharged.</em>\n</p>\n<judges id=\"b688-7\">Smith, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

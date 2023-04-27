@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Asb\">Rebecca LAMPERT, Appellee, v. JOHN HANCOCK MUTUAL LIFE INSURANCE COMPANY, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ap2\">No. 104.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AKU5\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aqa\">Nov. 27, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ayd\">Oeland &amp; Kuhn, of New York City (George W. Riley, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Asl\">Forrest S. Chilton, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"At3j\">Before L. HAND, AUGUSTUS N. HAND, and CLARK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AF1\">PER CURIAM.</author>\n<p id=\"AXZ9\">Judgment, 28 F.Supp. 142, affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Timothy Earl BLACKWELL.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 490PA04-2.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  November 2, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Patricia A. Duffy, Amy C. Kunstling, Robert C. Montgomery, Assistant Attorney Generals, Michael Nifong, District Attorney, for State of NC.\n </attorneys>\n <attorneys id=\"p-6\">\n  Marilyn G. Ozer, Chapel Hill, for Blackwell.\n </attorneys>\n <p id=\"p-7\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Defendant's Motion to File Supplemental Response on the Question of Special Verdicts is allowed. The Attorney General shall have seven days from the date of this Order to file a response.\n  </p>\n  <p id=\"p-9\">\n   By order of the Court in Conference, this the 2nd day of November, 2006.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

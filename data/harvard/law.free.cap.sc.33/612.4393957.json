@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"612\" lastpage=\"612\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b622-4\">No. 2731.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Api\">Barrett <em>v. </em>Faust.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"AtB\">November Term, 1890.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A28y\">January 20, 1891.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AVG\"><em>Sowell, Murphy $ </em>Barrow, for the motion.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMz\">Order</p>\n<author id=\"ArAB\">per curiam</author>\n<p id=\"A7t\">Appeal dismissed under rule XI. for failure on the part of appellant to comply with the requirements of rule VIII.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

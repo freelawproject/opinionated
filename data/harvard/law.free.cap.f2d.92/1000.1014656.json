@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1052-34\">Nevena DASKALOFF v. John L. ZURBRICK, District Director of Immigration.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1052-35\">No. 7850.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1052-36\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1052-37\">Nov. 2, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1052-39\">John G. Romanoff, of Detroit, Mich, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1052-40\">John C. Lehr and Louis M. Hopping, both of Detroit, Mich., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1052-41\">Before MOORMAN, HICKS, and SI-MONS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1052-42\">PER CURIAM.</author>\n<p id=\"b1052-43\">\u25a0 It is ordered that the appeal in this cause be, and the same is, dismissed, pursuant to motion of appellee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

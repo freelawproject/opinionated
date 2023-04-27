@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"609\" lastpage=\"609\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b483-4\">In re Resignation of Scheub.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b483-5\">[Cite as In re Resignation of Scheub (1988), 40 Ohio St. 3d 609.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b483-6\">(No. D.R. 88-10</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Avx\">Submitted December 28, 1988</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AUE\">Decided December 30, 1988.  )</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b483-7\">The resignation of William W. Scheub as an attorney is accepted.</p>\n<judges id=\"Aron\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

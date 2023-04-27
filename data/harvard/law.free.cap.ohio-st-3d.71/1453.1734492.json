@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1453\" lastpage=\"1453\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b887-11\">\n<em>Monday, January 30, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b887-12\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b887-13\">94-2699. No. 94APE06-784.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AAGS\">Lowe v. Cassidy.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AOdO\">\n<em>Franklin County,</em>\n</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_gL\">On motion for admission <em>pro hoc vice </em>in the Supreme Court by C. Crady Swisher III. Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

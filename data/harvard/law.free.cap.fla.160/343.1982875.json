@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"343\" lastpage=\"343\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b389-13\">MAGNOLIA BOLDEN JOHNSON v. MARGARET BOLDEN, as Administratrix of the Estate of Robert Bolden, deceased.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b389-14\">34 So. (2nd) 572</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ADa\">March 23, 1948</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AzE7\">Rehearing denied April 10, 1948</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"ASz\">January Term, 1948</p>\n<court data-order=\"5\" data-type=\"court\" id=\"ABX\">Division A</court>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b389-17\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

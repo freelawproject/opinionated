@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"334\" lastpage=\"334\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b380-10\">JAMES B. NORTH, SR., MARION L. NORTH, JAMES B. NORTH, JR., and BYRON J. NORTH, v. STATE OF FLORIDA, ex rel., PHIL O\u2019CONNELL, AS STATE ATTORNEY IN AND FOR THE FIFTEENTH JUDICIAL CIRCUIT.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b380-11\">33 So. (2nd) 162</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ASx\">December 16, 1947</decisiondate>\n<p data-order=\"3\" data-type=\"misc\" id=\"AP6X\">June Term, 1947</p>\n<court data-order=\"4\" data-type=\"court\" id=\"ATH\">Division A</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b380-13\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

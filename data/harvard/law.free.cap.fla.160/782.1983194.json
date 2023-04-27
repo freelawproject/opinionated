@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"782\" lastpage=\"782\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b828-3\">BEULAH HERMAN, A. W. SIKES and JIM COPPS, v. STATE OF FLORIDA.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b828-33\">36 So. (2nd) 224</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aiul\">June 1, 1948</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AlR\">Rehearing denied July 1, 1948.</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"Aoev\">January Term, 1948</p>\n<court data-order=\"5\" data-type=\"court\" id=\"AEF3\">Special Division B\u2019</court>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b828-5\">PER CURIAM:</author>\n<p id=\"b828-6\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

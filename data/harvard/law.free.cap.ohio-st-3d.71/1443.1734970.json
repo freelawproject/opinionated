@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1443\" lastpage=\"1443\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b877-4\">\n<em>Wednesday, January 18, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b877-5\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b877-6\">94-2242.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A4pN\">State ex rel. Tisone v. Rogers.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0f\">In Habeas Corpus. <em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"b877-7\">Moyer, C.J., Douglas, Wright, Resnick, P.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"30\" lastpage=\"30\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b54-14\">JERRY GOVAN v. STATE OF FLORIDA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b54-15\">22 So. (2nd) 465</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aaf\">January Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b54-16\">May 29, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AF\">En Banc</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b54-18\"><em>Zack H. Douglas </em>and <em>J. C. Adkins, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b54-19\"><em>J. Torn Watson, </em>Attorney General, <em>Reeves Bovjen, </em>Assistant Attorney General, for appellee.-</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b54-20\">PER CURIAM:</author>\n<p id=\"b54-21\">Affirmed.</p>\n<judges id=\"b54-22\">CHAPMAN, C. J., TERRELL, BUFORD, THOMAS, ADAMS and SEBRING, JJ., concur.</judges>\n<judges id=\"b54-23\">BROWN, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

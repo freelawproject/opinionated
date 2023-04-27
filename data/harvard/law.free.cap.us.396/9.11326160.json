@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"9\" lastpage=\"9\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b117-4\">BERNARD <em>v. </em>NEW YORK CITY EMPLOYEES\u2019 RETIREMENT SYSTEM et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b117-6\">No. 177,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"APT\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AQx\">Decided October 13, 1969</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b117-8\"><em>J. Lee Rankin </em>and <em>Stanley Buchsbaum </em>for New York City Employees\u2019 Retirement System, and <em>George N. Kanoff </em>for Lipori, appellees.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b117-9\">Per Curiam.</author>\n<p id=\"b117-10\">The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

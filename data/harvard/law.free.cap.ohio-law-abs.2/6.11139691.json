@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"6\" lastpage=\"6\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"parties\" id=\"b6-19\">YUTZE v. COPELAND</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b6-20\">No. 17942</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AcL2\">Charles Yutze v. William Copeland, as Chief of Police of the City of Cincinnati.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b6-22\">JONES, J.</author>\n<p id=\"b6-23\">A writ of habeas corpus will not lie to test the constitutionality, of a statute or ordinance, in favor of one who has been convicted, where the criminal court wherein conviction was obtained had jurisdiction or power to determine the question of constitutionality. In such case the writ cannot be made a substitute for proceedings in error.</p>\n<p id=\"b6-24\">Judgment affirmed.</p>\n<judges id=\"b6-25\">Marshall, C. J., Wanamaker, Robinson, Matthias, Day and Allen, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

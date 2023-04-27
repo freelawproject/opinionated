@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"603\" lastpage=\"603\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b477-4\">Office of Disciplinary Counsel <em>v. </em>Woollams.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b477-5\">[Cite as Disciplinary Counsel <em>v. </em>Woollams (1988), 40 Ohio St. 3d 603.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b477-6\">(No. D.D. 88-22</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Asa\">Submitted November 2, 1988</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AoP\">Decided December 7, 1988.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b477-8\">Richard C. Woollams, Jr. is publicly reprimanded.</p>\n<judges id=\"A5Bx\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

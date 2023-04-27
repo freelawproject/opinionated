@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1500\" lastpage=\"1500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AJ99\">\n<em>Monday, May 19, 1997</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Aqhd\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A6fR\">97-682.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ABn\">State ex rel. Robison v. Kence.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFLq\">In Mandamus. This cause originated in this court on the filing of a complaint for a writ of mandamus. On May 14, 1997, relator filed a document titled \u201cMotion to strike respondent\u2019s motion to dismiss petition.\u201d Relator\u2019s motion is, in substance, a response to respondent\u2019s motion to dismiss and, as such, is untimely. Whereas S.CtPract.R. XIV(1)(C) prohibits untimely filings,</p>\n<p id=\"A8Fs\">IT IS ORDERED by the court, <em>sua sponte, </em>that relator\u2019s motion be, and hereby is, stricken.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

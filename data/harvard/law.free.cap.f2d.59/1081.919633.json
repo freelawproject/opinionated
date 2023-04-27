@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1081\" lastpage=\"1081\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1111-39\">UNITED STATES of America v. Albert B. SENSLEY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1111-41\">No. 643.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1111-42\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1111-43\">March 2, 1932.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1111-45\">Fred A. Wagoner, Asst. U. S. Atty., of Oklahoma City, Okl.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1111-46\">M. A. Cox, of Chandler, Okl., for appel-lee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1111-47\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1111-48\">PER CURIAM.</author>\n<p id=\"b1111-49\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

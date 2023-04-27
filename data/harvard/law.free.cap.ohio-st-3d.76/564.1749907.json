@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"564\" lastpage=\"565\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b694-15\">The State ex rel. Taylor, Appellant, <em>v. </em>Corrigan, Judge, Appellee.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b694-16\">[Cite as <em>State ex rel. Taylor v. Corrigan </em>(1996), 76 Ohio St.3d 564.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b695-3\"><page-number citation-index=\"1\" label=\"565\">*565</page-number>(No. 96-882</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A36\">\u2014 Submitted July 24, 1996</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AEK\">\u2014 Decided September 25, 1996.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b695-4\">\n<em>Gerald Taylor, Jr., pro se.</em>\n</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b695-5\">The judgments of the court of appeals are affirmed.</p>\n<judges id=\"b695-6\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AI0\">HOBART MANUFACTURING COMPANY, Plaintiff-Appellant, v. LANDERS, FRARY &amp; CLARK, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AzW\">No. 108.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"Acgp\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AMqt\">Nov. 20, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AC4\">Greer Marechal, of Dayton, Ohio, (John B. Hayward, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ANWb\">T. Clay Lindsey and George N. Robillard, both of Hartford, Conn., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AUJI\">Before SWAN, CHASE, and CLARK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AJH\">PER CURIAM.</author>\n<p id=\"Aho\">Decree, 26 F.Supp. 198, affirmed on opinion below.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

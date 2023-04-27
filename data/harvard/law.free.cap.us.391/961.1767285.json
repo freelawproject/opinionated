@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"961\" lastpage=\"961\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b715-7\">No. 1111.</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AAC\">No. 1199,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AiOy\">Misc.</p>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AftA\">No. 1310,</docketnumber>\n<p data-order=\"4\" data-type=\"misc\" id=\"ATFt\">Misc.</p>\n<parties data-order=\"5\" data-type=\"parties\" id=\"AXv\">Jehovah\u2019s Witnesses in the State of Washington et al. <em>v. </em>King County Hospital Unit No. 1 (Harborview) et al., Maldonado <em>v. </em>Board of Veterans Appeals, Schlette <em>v. </em>California Adult Authority et al.,</parties>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A87v\">390 U. S. 598;</p>\n<p id=\"AEDLt\">390 U. S. 1032; and</p>\n<p id=\"A0AM\">390 U. S. 1044. Petitions for rehearing</p>\n<p id=\"ADJj\">denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

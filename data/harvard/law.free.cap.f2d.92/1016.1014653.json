@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1068-10\">Jack SHEARER, Appellant, v. F. G. ZERBST, Warden, United States Penitentiary, Atlanta, Georgia, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1068-11\">No. 8580.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1068-12\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"axh-dedup-0\">Oct. 12, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1068-15\">Jack Shearer, in pro. per.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1068-16\">Lawrence S. Camp, U. S. Atty., and Harvey H. Tisinger, Asst. U. S. Attys., all of Atlanta, Ga., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1068-17\">Before FOSTER, SIBLEY, and HOLMES, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1068-18\">PER CURIAM.</author>\n<p id=\"b1068-19\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

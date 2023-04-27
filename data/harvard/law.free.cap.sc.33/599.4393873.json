@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"599\" lastpage=\"599\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b609-4\">No. 2639.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ajl\">\n<em>Ex parte Pennsylvania Steel Company.</em>\n</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"AKy6\">November Term, 1889.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A7O\">filed June 2, 1890,</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APm\">This was an order</p>\n<author id=\"A0cB\">per curiam,</author>\n<p id=\"Ayg\">refusing a petition for a rehearing of this case. See 32 S. C., 319.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"330\" lastpage=\"330\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b470-4\">The State of Ohio, Appellee, <em>v. </em>Dehler, Appellant.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b470-5\">[Cite as <em>State v. Dehler </em>(1994), 71 Ohio St.3d 330.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b470-7\">(No. 94-1930</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Ac9\">Submitted November 15, 1994</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ah1\">Decided December 23, 1994.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b470-10\">\n<em>Lambert Dehler, pro se.</em>\n</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b470-11\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AIa\">The decision of the court of appeals is affirmed for the reasons stated in its opinion.</p>\n<p id=\"b470-12\">\n<em>Judgment affirmed.</em>\n</p>\n<judges id=\"b470-13\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

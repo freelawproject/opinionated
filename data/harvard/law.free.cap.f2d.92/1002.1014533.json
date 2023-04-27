@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1002\" lastpage=\"1003\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1054-45\">FEDERAL TRADE COMMISSION, Petitioner, v. LEADER NOVELTY CANDY COMPANY, Inc., Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1054-46\">No. 29.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1054-47\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A9F\">Oct. 7, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1054-49\">Martin A. Morrison, of Washington, D. C., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1055-3\"><page-number citation-index=\"1\" label=\"1003\">*1003</page-number>Victor W. Milch, of New York City, for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1055-4\">Before MANTON, L. HAND, and SWAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1055-5\">PER CURIAM.</author>\n<p id=\"b1055-6\">Petition granted in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

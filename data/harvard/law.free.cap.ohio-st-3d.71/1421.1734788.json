@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1421\" lastpage=\"1421\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b855-33\">MOTION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b855-34\">94-115 and 94-1041.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ali\">Horton v. Harwick Chem. Corp.</parties>\n<court data-order=\"3\" data-type=\"court\" id=\"ANv\">\n<em>Montgomery County,</em>\n</court>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"ADL7\">No. 13872.</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADq\">On motion to expedite. Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

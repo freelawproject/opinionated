@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"562\" lastpage=\"562\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b584-4\">FRANCIS BROWN, et al., <em>v. </em>GEORGE S. GUNNISON.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b584-5\">Before Speir and Freedman, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b584-6\"><em>Decided April </em>5, 1880.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b584-7\">Exceptions ordered to be heard at general term.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b584-8\"><em>Tracy, Olmstead &amp; Tracy, </em>for plaintiff.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b584-9\"><em>Thomas F. </em>Byrne, for defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b584-10\">Per Curiam.</author>\n<p id=\"AZn\">The exceptions must be overruled and judgment absolute ordered for plaintiffs, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1\" lastpage=\"1\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  MEEMIC INSURANCE COMPANY, Plaintiff/Counterdefendant-Appellant,\n  <br/>\n  v.\n  <br/>\n  Louise M. FORTSON and Richard A. Fortson, Individually and as Conservator for Justin Fortson, Defendants/Counterplaintiffs-Appellees.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158302\n  <br/>\n  COA: 337728\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  August 16, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of defendants/counterplaintiffs-appellees to extend the time for filing their brief on appeal is GRANTED. The brief will be accepted as timely filed if submitted on or before September 11, 2019.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

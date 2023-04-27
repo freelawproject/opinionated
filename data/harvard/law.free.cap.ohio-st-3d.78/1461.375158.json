@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1461\" lastpage=\"1461\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"APJz\">\n<em>Monday, April 21, 1997</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Akc\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AYPQ\">96-1875.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ANHA\">Consumers\u2019 Counsel v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFq\">Public Utilities Commission, Nos. 94-1964-EL-CSS, 95-1139-EL-COI, 95-1140-EL-COI, 95-299-EL-AIR and 95-300-EL-AIR. This cause is pending before the court as an appeal from the Public Utilities Commission of Ohio. Upon consideration of the motion to stay the appeal of the Ohio Consumers\u2019 Counsel,</p>\n<p id=\"AR2P\">IT IS ORDERED by the court that the motion to stay the appeal of the Ohio Consumers\u2019 Counsel be, and hereby is, granted.</p>\n<judges id=\"AUDu\">Douglas, J., dissents.</judges>\n<judges id=\"AVE\">Resnick, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

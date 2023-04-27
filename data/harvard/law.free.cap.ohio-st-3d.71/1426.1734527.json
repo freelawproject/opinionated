@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1426\" lastpage=\"1426\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b860-7\">\n<em>Friday, December 9, 1994</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b860-8\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b860-9\">94-1536. No. 87-CA-17.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AyXT\">State v. Graewe.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AlA\">\n<em>Guernsey County,</em>\n</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-m\"><em>Sua sponte, </em>cause remanded to the court of appeals pursuant to App.R. 26(B).</p>\n<judges id=\"b860-10\">Douglas and Pfeifer, JJ., dissent and would affirm the court of appeals.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

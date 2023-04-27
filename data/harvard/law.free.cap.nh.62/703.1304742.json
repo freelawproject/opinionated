@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"703\" lastpage=\"703\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b713-11\">[Grafton,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ABfT\">June, 1883.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b713-12\">National Bank of Newbury <em>v. </em>Penacook Savings Bank.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b713-13\">Assumpsit. Verdict for the plaintiffs.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b713-14\">.Bingham, <em>Mitchells </em>Batchellor, for the defendants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b713-15\">Bingham, <em>Aldrich </em>Remich, for the plaintiffs.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b713-16\">Doe, C. J.</author>\n<p id=\"AqYP\">There was evidence on which the jury might find for the plaintiffs, and the motion for a nonsuit was rightly denied.</p>\n<p id=\"b713-17\">\n<em>Judgment on the verdict.</em>\n</p>\n<judges id=\"b713-18\">Blodgett and Carpenter, JJ., did not sit; the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

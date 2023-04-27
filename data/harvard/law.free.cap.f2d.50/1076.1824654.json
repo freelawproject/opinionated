@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1076\" lastpage=\"1076\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1104-7\">Frank FOX v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1104-8\">No. 501.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1104-9\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1104-10\">June 24, 1931.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1104-12\">W. L. Chapman, of Shawnee, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1104-13\">Roy St. Lewis, U. S. Atty., of Oklahoma City, Okl.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1104-14\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1104-15\">PER CURIAM.</author>\n<p id=\"b1104-16\">. Appeal dismissed June 24, 1931, on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

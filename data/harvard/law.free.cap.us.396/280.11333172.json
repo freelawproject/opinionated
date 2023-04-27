@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"280\" lastpage=\"280\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b388-3\">EX PARTE CARRINGTON</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b388-5\">No. 787,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ayd\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AoE\">Decided January 12, 1970</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b388-7\"><em>Leon B. Polsky </em>for Carrington.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b388-8\"><em>Louis J. Lefkowitz, </em>Attorney General, <em>Samuel A. Hirshowitz, </em>First Assistant Attorney General, and <em>Judith T. Younger, </em>Assistant Attorney General, for the State of New York.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b388-9\">Per Curiam.</author>\n<p id=\"b388-10\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. The petition for a writ of certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

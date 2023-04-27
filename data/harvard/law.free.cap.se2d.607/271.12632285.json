@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"271\" lastpage=\"272\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Wayne Thomas JOHNSON\n  <br/>\n  v.\n  <br/>\n  CLERK OF SUPERIOR COURT, Civil Division, Johnston County.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 119P00-6.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  December 2, 2004.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Wayne Thomas Johnson, Pro Se.\n </attorneys>\n <attorneys id=\"p-6\">\n  William P. Hart, Special Deputy Attorney General, for State of NC.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Plaintiff on the 22nd day of November 2004 in this matter for a writ of mandamus, the following order was entered and is hereby certified to the Superior Court, Johnston County:\n  </p>\n  <blockquote id=\"p-9\">\n   <p>\n   </p>\n   \"Denied by order of the Court in Conference this the 2nd day of December 2004.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

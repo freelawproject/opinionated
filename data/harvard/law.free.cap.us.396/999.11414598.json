@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b869-9\">No. 262,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AB_q7\">No. 310,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AL1p\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"Avp1\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"A-MF\">Poggi <em>v. </em>Gray, U. S. District Judge; and Poggi <em>v. </em>Gray, U. S. District Judge.</parties>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ALga\">Motions for leave to file petitions for writs of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

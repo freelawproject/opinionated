@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1069\" lastpage=\"1069\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1099-19\">W. F. MILES v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1099-20\">No. 698.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1099-21\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1099-22\">June 13, 1932.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1099-24\">W. F. Miles, of Kansas City, Mo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1099-25\">W. F. Rampendahl, U. S. Atty., of Muskogee, Okl.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1099-26\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1099-27\">PER CURIAM.</author>\n<p id=\"b1099-28\">Appeal dismissed for want of merit.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

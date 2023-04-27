@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"698\" lastpage=\"699\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b708-15\">[Carroll,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AE6B\">June, 1883.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b708-16\">Hodgdon <em>v. </em>Mudgett.</parties>\n<summary data-order=\"3\" data-type=\"attorneys\" id=\"b708-17\">Trespass <em>cl. qu. </em>Referee\u2019s report for the defendant.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AGe\"><em>J. II. </em>Hobbs, for the plaintiff.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b708-18\"><em>Copeland $ </em>Edgerly, for the defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b709-3\"><page-number citation-index=\"1\" label=\"699\">*699</page-number>Stanley, J.</author>\n<p id=\"ArDm\">The plaintiff has no title, and the referee might find that the defendant had possession.</p>\n<p id=\"b709-4\">\n<em>Judgment on the report.</em>\n</p>\n<judges id=\"ABO\">Clark, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

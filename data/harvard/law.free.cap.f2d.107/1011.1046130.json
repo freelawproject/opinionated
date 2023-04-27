@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1011\" lastpage=\"1012\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1065-40\">C. W. CRANE &amp; CO., Inc., Appellant, v. CHARLES DREIFUS COMPANY, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1065-41\">No. 107.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1065-42\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ahl\">Dec. 11, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1065-45\">Richard F. Lenahan, of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1066-3\"><page-number citation-index=\"1\" label=\"1012\">*1012</page-number>Thomas H. Middleton, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1066-4\">Before L. HAND, AUGUSTUS N. HAND, and PATTERSON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1066-7\">PER CURIAM.</author>\n<p id=\"AeKr\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

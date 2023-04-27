@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"646\" lastpage=\"647\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"A_e\" pgmap=\"660\">In re NASH, Bruce</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AEz\" pgmap=\"660\">(MR 20418)</docketnumber><p data-order=\"2\" data-type=\"docketnumber\" id=\"AFK\" pgmap=\"660\">Chicago, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"ADy\" pgmap=\"660\">Order of the Court:</p> <p id=\"ACV\" pgmap=\"660\">The motion by the Administrator of the Attorney Registration and Disciplinary Commission to approve and confirm the report and recommendation of the Hearing Board is allowed, and respondent Bruce Nash is suspended from the practice of law for one year.</p> <p id=\"AJu\" pgmap=\"661\">Suspension effective December 13, 2005.</p> <p id=\"ABCz\" pgmap=\"661\">Respondent Bruce Nash shall reimburse the Disciplinary Fund for any Client Protection payments arising from his conduct prior to the termination of the period of suspension.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

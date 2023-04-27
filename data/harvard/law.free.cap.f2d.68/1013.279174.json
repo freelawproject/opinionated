@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Alfl\">In the Matter of Charles M. RIEDELL, Bankrupt. Charles M. Riedell, Appellant, Joseph L. Lash, Objecting Creditor-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ADGh\">No. 269.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"adp-dedup-2\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"arf-dedup-1\">Feb. 13, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AncM\">Louis H. Strouse, of Now York City (Nathan April, of New York City, of counsel), for appelant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AsLk\">Charles J. Katzenstein, of <em>New </em>York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"ATa\">Before MANTON, L. HAND, and SWAN, Circuit Judges,</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"aon-dedup-1\">PER CURIAM.</author>\n<p id=\"azq-dedup-1\">Order affirmed,</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1072\" lastpage=\"1072\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1100-30\">BOARD OF COUNTY COMMISSIONERS OF THE COUNTY OF WELD v. UNION PACIFIC RAILROAD COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1100-31\">No. 426.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1100-32\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A3U1\">June 1, 1931.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1100-34\">William R. Kelly, of Greeley, Colo., and John R. Wolff, of Boulder, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1100-35\">C. C. Dorsey and E. G. Knowles, both of Denver, Colo., and N. H. Loomis, of Omaha, Neb., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1100-36\">Before LEWIS, PHILLIPS, and Mc-DERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1100-37\">PER CURIAM.</author>\n<p id=\"b1100-38\">Appeal dismissed June 1, 1931, per stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

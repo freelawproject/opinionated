@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b961-5\">Albert LANE, Appellant, v. C. S. METROPOLITAN MARKET COMPANY, a Corporation, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b961-6\">No. 11202.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b961-7\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"aa6-dedup-0\">Aug. 18, 1947.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b961-9\">Frisbie &amp; Hoogs and William H. Iloogs, all of Berkeley, Cal., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b961-10\">Hanna &amp; Morton, B. W. Burkhead, and John H. Blake, all of Los Angeles, Cal.; for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b961-11\">Before MATHEWS, STEPHENS, and ORR, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b961-12\">PER CURT AM.</author>\n<p id=\"b961-13\">The judgment of the District Court, 62 F.Supp. 89, is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

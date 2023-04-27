@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"605\" lastpage=\"605\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b479-3\">In re Resignation of Locke.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b479-4\">[Cite as In re Resignation of Locke (1988), 40 Ohio St. 3d 605.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b479-5\">(No. D.R. 88-9</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A0e\">Submitted December 2, 1988</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ak0o\">Decided December 29, 1988.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b479-6\">The resignation of Thomas E. Locke as an attorney is accepted.</p>\n<judges id=\"A-9\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

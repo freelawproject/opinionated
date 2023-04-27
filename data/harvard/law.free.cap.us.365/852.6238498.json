@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"852\" lastpage=\"852\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b890-6\">No. 713,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aio\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ax0\">Costello <em>v. </em>New York.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"As9j\"><em>Robert P. Whelan </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AYe0\"><em>Edward S. Silver, William I. Siegel </em>and <em>David Diamond </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACil\">Court of Appeals of New York. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

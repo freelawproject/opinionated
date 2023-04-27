@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"618\" lastpage=\"618\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b652-10\">META VOLKMANN, et al., Plaintiffs and Respondents, <em>v. </em>HENRY FIELDMANN, Defendant and Appellant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b652-11\">Before Sedgwick and Speir, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b652-12\"><em>Decided November </em>3, 1879.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b652-13\">Appeal from judgment, in favor of plaintiff.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ANh\"><em>Edward S. Clinch, </em>for respondent.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b652-14\"><em>Henry Wehle, </em>for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b652-15\">Speir, J.,</author>\n<p id=\"AJV\">wrote for affirmance, with costs.</p>\n<p id=\"ANt\">Sedgwick, J., concurred.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

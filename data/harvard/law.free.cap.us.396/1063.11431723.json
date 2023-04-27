@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1063\" lastpage=\"1063\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b933-10\">February 3, 1970</decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"b933-11\">No. \u2014.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ar8y\">Sinatra <em>v. </em>New Jersey State Commission of Investigation et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AUEl\"><em>Bruce W. Kauffman </em>and <em>William T. Coleman, Jr., </em>for applicant.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0SS\">Application for stay pending appeal to United States Court of Appeals denied.</p>\n<judges id=\"AAnR\">Mr. Justice Black, Mr. Justice Douglas, and Mr. Justice Marshall are of the opinion that the application should be granted. Mr. Justice Brennan took no part in the consideration or decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

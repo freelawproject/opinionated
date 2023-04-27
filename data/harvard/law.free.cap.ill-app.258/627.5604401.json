@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"627\" lastpage=\"627\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><p data-order=\"0\" data-type=\"court\" id=\"b653-10\" pgmap=\"653\">Third District.</p><parties data-order=\"1\" data-type=\"parties\" id=\"b653-11\" pgmap=\"653\">Minnie M. Henry, appellee, v. Laura W. Leeders et al., appellants.</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AJG\" pgmap=\"653\">Gen. No. 8,407.</docketnumber><otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A1CC\" pgmap=\"653\">Heard in this court at the January term, 1930.</otherdate><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aap\" pgmap=\"653\">Opinion filed June 11, 1930.</decisiondate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b653-13\" pgmap=\"653\">W. W. Whitmore, for appellants; Stella E. Whitmore, of counsel. Pratt, Heffernan &amp; Ramseyer, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b653-14\" pgmap=\"653\">Mr. Justice Eldredge</author> <p id=\"ArLu\" pgmap=\"653\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

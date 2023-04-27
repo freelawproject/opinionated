@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"952\" lastpage=\"952\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b822-4\">December 8, 1969</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b822-5\">No.-.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AAHQ\">O\u2019Neil <em>v. </em>Nelson, Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Abcz\"><em>Thomas C. Lynch, </em>Attorney General of California, <em>Albert W. Harris, Jr., </em>Assistant Attorney General, and <em>Deraid E. Granberg, </em>Deputy Attorney General, in opposition.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AD0a\">C. A. 9th Cir. Application for release on personal recognizance denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

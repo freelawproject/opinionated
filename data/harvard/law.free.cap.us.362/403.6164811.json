@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"403\" lastpage=\"403\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b461-6\">IZZO <em>v. </em>ILLINOIS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b461-8\">No. 772,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aqv4\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AEq\">Decided April 18, 1960.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b461-10\">Per Curiam.</author>\n<p id=\"b461-11\">The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari,' certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

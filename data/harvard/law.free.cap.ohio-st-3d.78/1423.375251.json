@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1423\" lastpage=\"1423\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"ApVh\">\n<em>Wednesday, March 12, 1997</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AbJd\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AbY2\">96-2473.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AP1\">State ex rel. Semenchuk v. Turner.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiE\">Madison App. No. CA96-08-033. <em>Sua sponte, </em>cause dismissed as moot.</p>\n<judges id=\"Ar2n\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Cook and Lundberg Stratton, JJ., concur.</judges>\n<judges id=\"Axd\">Pfeifer, J., dissents and would reverse on the merits.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

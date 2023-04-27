@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b527-7\">May 28, 1970</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b527-9\">No. 2263,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AVU\">Misc.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AzdR\">Addonizio <em>v. </em>Barlow, U. S. District Judge.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABv\">D. C. N. J. Application for stay presented to Mr. Justice Brennan, and by him referred to the Court, denied.</p>\n<judges id=\"Acir\">Mr. Justice Black and Mr. Justice Marshall took no part in the consideration or decision of this application,</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

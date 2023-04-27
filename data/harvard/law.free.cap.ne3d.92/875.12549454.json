@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"875\" lastpage=\"875\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  ANDERSON\n  <br/>\n  v.\n  <br/>\n  EIGHTH DIST. COURT OF APPEALS.\n </parties>\n <docketnumber id=\"p-2\">\n  2017-1674\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  February 28, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MERIT DECISIONS WITHOUT OPINIONS\n </p>\n <opinion id=\"p-7\">\n  In Mandamus. On relator's motion for leave to file amended complaint in mandamus. Motion granted. On respondent's motion to dismiss amended complaint. Motion granted. Cause dismissed.\n </opinion>\n <judges id=\"p-8\">\n  O'Connor, C.J., and O'Donnell, Kennedy, French, Fischer, and DeWine, JJ., concur.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   DeGenaro, J., not participating.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

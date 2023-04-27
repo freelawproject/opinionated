@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"385\" lastpage=\"385\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b407-4\">Lang et al. <em>v. </em>Hanlon (et al., Appellant).</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b407-5\">(No. 183,</docketnumber>\n<p data-order=\"2\" data-type=\"otherdate\" id=\"Aef\">March T., 1931.)</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ACa\">November 23, 1931:</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b407-6\">Opinion by</p>\n<author id=\"AKE\">Mr. Justice Maxey,</author>\n<p id=\"b407-7\">The judgment of the court below entering judgment n. o. v: for the defendant, M. A. Hanlon, is affirmed for the reasons set forth in the opinion filed to No. 182, March Term, 1931.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

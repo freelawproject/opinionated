@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"100\" lastpage=\"100\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b190-11\">Crigger, Appellant, <em>v. </em>Crigger et al., Appellees.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b190-12\">[Cite as <em>Crigger v. Crigger, </em>107 Ohio St.3d 100, 2005-Ohio-5975.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b190-14\">(No. 2005-0548</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Agf\">Submitted October 12, 2005</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A9i\">Decided November 23, 2005.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ah4\">Joseph D. Reed, for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b190-16\">{\u00b6 1} The judgment of the court of appeals is affirmed on the authority of <em>Harrold v. Collier, </em>107 Ohio St.3d 44, 2005-Ohio-5334, 836 N.E.2d 1165.</p>\n<judges id=\"b190-17\">Moyer, C.J., Resnick, Pfeifer, Lundberg Stratton, O\u2019Connor, O\u2019Donnell and Lanzinger, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"671\" lastpage=\"671\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"AXv\" pgmap=\"685\">In re MENEGAS, Sam V.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AX9\" pgmap=\"685\">(MR 20493)</docketnumber><p data-order=\"2\" data-type=\"court\" id=\"AKS\" pgmap=\"685\">Hinsdale, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"A4y\" pgmap=\"685\">Order of the Court:</p> <p id=\"AaqM\" pgmap=\"685\">The petitions by respondent Sam V. Menegas and the Administrator of the Attorney Registration and Disciplinary Commission for leave to file exceptions to the report and recommendation of the Review Board are allowed. Respondent is disbarred.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

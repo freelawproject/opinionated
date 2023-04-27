@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"362\" lastpage=\"362\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b408-11\">RUBECK <em>v. </em>NEW YORK.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b408-13\">No. 1536,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AYuc\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AE8\">Decided May 20, 1968.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b408-15\"><em>Bruce K. Carpenter </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b408-16\"><em>Michael F. Dillon </em>for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b408-17\">Per Curiam.</author>\n<p id=\"b408-18\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

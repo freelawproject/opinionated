@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"277\" lastpage=\"277\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b385-4\">DOYLE et al. <em>v. </em>O\u2019BRIEN, CHIEF OF POLICE OF SOMERVILLE, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b385-6\">No. 1123,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Al1\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AZy\">Decided January 12, 1970</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b385-8\"><em>Edward J. Duggan </em>for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b385-9\"><em>Robert H. Quinn, </em>Attorney General of Massachusetts, <em>John Wall, </em>Assistant Attorney General, and <em>Lawrence P. Cohen, </em>Deputy Assistant Attorney General, for appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b385-10\">Per Curiam.</author>\n<p id=\"b385-11\">The motion to affirm is granted and the judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"443\" lastpage=\"443\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b467-8\">THE STATE OF FLORIDA, v. NATHANIEL H. SCHMUKLER</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b467-9\">23 So. (2nd) 522</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"A6D\">June Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b467-10\">October 9, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AiE\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b467-12\"><em>J. Tom Watson, </em>.Attorney General, <em>Reeves Bowen, </em>Assistant Attorney General; and <em>Stanley Milledge, </em>State Attorney, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b467-13\"><em>Mitchell D. Price, Zaring &amp; Florence, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b467-14\">PER CURIAM:</author>\n<p id=\"b467-15\">The judgment appealed from is affirmed.</p>\n<judges id=\"b467-16\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"308\" lastpage=\"308\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AnS\">*Field <em>v. </em>Milton.</parties>\n<headnotes data-order=\"1\" data-type=\"headnotes\" id=\"b320-10\">\n<em>Certiorari.</em>\n</headnotes>\n<headnotes data-order=\"2\" data-type=\"headnotes\" id=\"b320-11\">A <em>certiorari </em>will be awarded, upon a suggestion that the citation has been served, but not sent up with the transcript of the record.</headnotes>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b320-12\">W. Pinckney, for plaintiff in error,</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"AOT\">suggested that the citation had been served, but was not returned by the clerk below, .with the writ of error, and prayed a <em>certiorari.</em></p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b320-13\">The Couet said it was a new case.</p>\n<p id=\"b320-14\"><em>Certiorari </em>granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"560\" lastpage=\"560\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b582-9\">EDWIN M. NEVILLE, Appellant, v. WILLIAM . V. CHRISTIE, Respondent.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b582-10\">Before Sedgwick and Freedman, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b582-11\"><em>Decided April </em>5, 1880.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b582-12\">Appeal from judgment dismissing complaint at the trial.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b582-13\"><em>Louis F. </em>Murray, attorney, and <em>George M. </em>Curtis, of counsel, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b582-14\"><em>Miron </em>Winslow, attorney, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b582-15\">Freedman, J.,</author>\n<p id=\"AqO\">wrote for affirmance, with costs; Sedgwick, J., concurred.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

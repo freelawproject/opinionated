@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1040-9\">H. H. MOTTER, Collector of Internal Revenue, v. Dallas W. KNAPP, Trustee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1040-10\">No. 910.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1040-11\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A72b\">July 7, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1040-13\">L. E. Wyman, Asst. U. S. Atty., of Topeka, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1040-14\">Dallas W. Knapp, of Coffeyville, Kan., pro se.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1040-15\">Before PHILLIPS and McDERMOTT, Circuit Judges, and KENNEDY, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1040-16\">PER CURIAM.</author>\n<p id=\"b1040-17\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
