@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"76\" lastpage=\"76\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b84-12\">CONSTITUTIONAL COURT,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AEO\">COLUMBIA,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AKXe\">APRIL, 1802.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b84-13\">Hogan <em>v. </em>Sims.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ar5\">Nott, for plaintiff.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b84-14\">In this case it was ruled, that the statute of limitations may be given in evidence under the plea of <em>nil debet. </em>1 Salk. 278. 1 Ld. Raym. 153.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"990\" lastpage=\"990\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1010-29\">Degener, Respondent, v. Underwood et <em>al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1010-30\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AhWT\">December 5, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AfXq\">Action by Frederick L. Degener against John T. Underwood and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1010-31\">Argued before Dugro and Gildersleeve, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1010-32\"><em>James A. Hudson, </em>for appellants. <em>J. E. Ludden, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1010-33\">Dugro, J.</author>\n<p id=\"ART\">The order denying a motion to retax costs is affirmed, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"248\" lastpage=\"248\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Joshua SINGLETARY, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.:2D18-1815\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  December 14, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   This appeal is dismissed for failure of appellant to comply with this court's order of October 31, 2018, requiring the filing of an initial brief.\n  </p>\n  <judges id=\"p-7\">\n   NORTHCUTT, KHOUZAM, and BLACK, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

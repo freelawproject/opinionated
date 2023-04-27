@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"615\" lastpage=\"615\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b639-1\">EDWIN M. WILMER <em>vs. </em>THE BALTIMORE TRUST COMPANY, Committee.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b639-6\">The cause was argued, together with that next preceding, before Boyd, C. J., Briscoe, Thomas, Pattison, Urner, Adkins, and Offutt, JJ.</p>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b639-7\"><em>David Ash, </em>for the appellant.</attorneys>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b639-8\"><em>S. Ralph, Warnken </em>and <em>Francis B. Wiers, </em>for the appellee.</attorneys>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AMH\">\n<em>Decided January 19th, 1923.</em>\n</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b639-9\">Boyd, C. J.,</author>\n<p id=\"ACh\">delivered the opinion of the Court, for which see the next preceding case, In the Matter of Philip Morboume Micholas.</p>\n<p id=\"b639-10\">Order of May 11th, 1922, and decree of May 16th, 1922, affirmed and caused remanded, Edwin M. Wilmer, individually, to pay the costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

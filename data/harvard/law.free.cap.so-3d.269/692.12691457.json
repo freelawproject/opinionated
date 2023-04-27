@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"692\" lastpage=\"692\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Kentreal Jarbar HOWARD\n </parties>\n <docketnumber id=\"p-2\">\n  2018-KO-1650\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 6, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON WRIT OF CERTIORARI TO THE COURT OF APPEAL, FIRST CIRCUIT, PARISH OF TERREBONNE\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   WEIMER, J., recused.\n  </author>\n  <p id=\"p-8\">\n   CRICHTON, J., would grant and docket and assigns reasons.\n  </p>\n  <p id=\"p-9\">\n   Crichton, J., would grant in part and docket.\n  </p>\n  <p id=\"p-10\">\n   I would grant in part and docket to examine the defendant's claim of insufficiency of evidence for the fourth felony offender adjudication and his resulting 30 year hard labor sentence.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

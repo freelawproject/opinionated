@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"274\" lastpage=\"274\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE: Medical Review Panel Monique THOMPSON, Individually and on Behalf of Don Thompson (D)\n </parties>\n <docketnumber id=\"p-2\">\n  PCF File No. 2017-00759\n </docketnumber>\n <docketnumber id=\"p-3\">\n  NO. 2018-CC-1286\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-5\">\n  November 5, 2018\n </decisiondate>\n <opinion id=\"p-6\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   HUGHES, J., would grant.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

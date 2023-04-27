@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  J.W., Appellant\n  <br/>\n  v.\n  <br/>\n  STATE of Indiana\n </parties>\n <court id=\"p-2\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-3\">\n  January 9, 2019\n </decisiondate>\n <disposition id=\"p-4\">\n  Transfer Granted.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-5\">\n   Bailey, J., Kirsch, J., Pyle, J.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"970\" lastpage=\"970\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1006-10\">No. 31,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ATZK\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AnrY\">Utah <em>v. </em>United States.</parties>\n<seealso data-order=\"3\" data-type=\"seealso\" id=\"AVi1\">[For earlier actions herein, see, <em>e. g., ante, </em>p. 903.]</seealso>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AaEi\">Exceptions to Report of Special Master set for oral argument in due course.</p>\n<judges id=\"AMni\">Mr. Justice Marshall took no part in the consideration or decision of this matter.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

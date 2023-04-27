@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"569\" lastpage=\"569\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Maurice SYMONETTE and Mack Wells, Appellants,\n  <br/>\n  v.\n  <br/>\n  DEUTSCHE BANK NATIONAL TRUST COMPANY, etc., Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D18-0391\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed November 28, 2018\n </decisiondate>\n <judges id=\"p-5\">\n  Maurice Symonette and Mack Wells, in proper persons.\n </judges>\n <attorneys id=\"p-6\">\n  Blank Rome LLP, and Daniel S. Hurtes, and Nicole R. Topper (Fort Lauderdale), for appellee.\n </attorneys>\n <judges id=\"p-7\">\n  Before EMAS, FERNANDEZ, and LINDSEY, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n   <em>\n    See\n   </em>\n   <em>\n    Applegate v. Barnett Bank of Tallahassee\n   </em>\n   ,\n   <extracted-citation case-ids=\"9626980\" index=\"0\" url=\"https://cite.case.law/so-2d/377/1150/\">\n    377 So.2d 1150\n   </extracted-citation>\n   (Fla. 1979).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

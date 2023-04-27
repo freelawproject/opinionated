@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"16\" lastpage=\"16\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b24-18\">CONSTITUTIONAL COURT,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AEn\">COLUMBIA,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A5Xf\">DEC. 1796,</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b24-19\">Reid <em>v. </em>Brummitt.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b24-20\">Motion to set aside an affidavit to hold to bail, and discharge the defendant on a common appearance, because the affidavit was taken and sworn to, in the State of North Carolina, before a magistrate of that State.</p>\n<p id=\"b24-21\">Ruled accordingly:</p>\n<p id=\"b24-22\">[S. P. ruled; and the proper mode of authenticating affidavits made out of the State indicated, in Spragella v. Monte Bruno, 1 Mill, 280.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

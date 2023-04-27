@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b939-11\">No. 31,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AM5\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AnD\">Utah <em>v. </em>United States.</parties>\n<seealso data-order=\"3\" data-type=\"seealso\" id=\"A9J\">[For previous actions herein, see, <em>e. g., </em>400 U. S. 962.]</seealso>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AIj\">Motion of the State of Utah for additional time to respond to exceptions of the United States to Report of Special Master granted.</p>\n<judges id=\"AOD\">Me. Justice Maeshall took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

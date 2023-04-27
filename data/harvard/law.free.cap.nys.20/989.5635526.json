@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"989\" lastpage=\"989\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1009-7\">Heintz, Respondent, v. Everard, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1009-8\">\n<em>Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Abp\">November 14, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1009-9\">Action by Jacob Heintz against James Everard.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1009-10\">Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1009-11\"><em>D. M. Newberger, </em>for appellant. <em>H. &amp; K. Forster, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1009-12\">No opinion. Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

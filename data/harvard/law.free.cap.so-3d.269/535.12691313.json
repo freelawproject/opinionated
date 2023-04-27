@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"535\" lastpage=\"535\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  J.P., Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  Grady C. JUDD, Jr., Sheriff, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D19-1638\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  May 03, 2019\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   The petition for writ of habeas corpus is granted. The circuit court shall immediately release Petitioner from secure detention. The circuit court may place Petitioner in a consequence unit or in nonsecure detention in accordance with \u00a7 985.255(1)(h), Fla. Stat. (2018). See RAP, v. Parkins,\n   <extracted-citation case-ids=\"8203904,8203945\" index=\"0\" url=\"https://cite.case.law/so-2d/994/414/\">\n    994 So. 2d 414\n   </extracted-citation>\n   (Fla. 1st DCA 2008).\n  </p>\n  <judges id=\"p-7\">\n   NORTHCUTT, LUCAS, and SALARIO, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

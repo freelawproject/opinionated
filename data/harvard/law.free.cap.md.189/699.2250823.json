@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"699\" lastpage=\"699\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b713-2\">STATE ex rel. BURGER <em>v. </em>J. LEROY WRIGHT, Warden</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b713-3\">[No. 2,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Au5\">October Term, 1947.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b713-5\">\n<em>Decided November 3, 1947.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b713-9\">The cause was argued before Marbury, C. J., and Delaplaine, Collins, Henderson, and Markell, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b713-10\"><em>James Burger, </em>in <em>pro per.</em></attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b713-11\"><em>Hall Hammond, Attorney General, </em>and <em>J. Edgar Harvey, Assistant Attorney General, </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b713-12\">Marbury, C. J.,</author>\n<p id=\"AQvQ\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

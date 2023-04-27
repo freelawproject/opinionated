@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"611\" lastpage=\"611\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b643-9\" pgmap=\"643\">H. M. Stanford, appellee, v. J. F. O'Brien, trading as J. F. O'Brien &amp; Company, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Axri\" pgmap=\"643\">Gen. No. 30,954.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"A9S\" pgmap=\"643\">Thomson, J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AMdE\" pgmap=\"643\">Opinion filed November 17, 1926.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b643-11\" pgmap=\"643\">Wolfsohn &amp; Fireman, for appellant. Monahan &amp; Monahan, for appellee.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b643-12\" pgmap=\"643\">Mr. Justice O\u2019Connor</author> <p id=\"AfV\" pgmap=\"643\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"527\" lastpage=\"527\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Joseph Emmanuel FOOTE, DOC #Y64947, Appellant,\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  Case No. 2D18-2626\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed April 5, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Howard L. Dimmig, II, Public Defender, and Andres Sanchez Special Assistant Public Defender, Bartow, for Appellant.\n </attorneys>\n <docketnumber id=\"p-6\">\n  Joseph Emmanuel Foote, Appellant.\n </docketnumber>\n <attorneys id=\"p-7\">\n  Ashley Moody, Attorney General, Tallahassee, and Assistant Attorney General, Tampa, for Appellee.\n </attorneys>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n  </p>\n  <p id=\"p-10\">\n   SILBERMAN, LUCAS AND SALARIO, JJ., Concur.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"526\" lastpage=\"526\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Gary Lee NORMAN, DOC #H20835, Appellant,\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  Case No. 2D18-2188\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed April 5, 2019.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Howard L. Dimmig, II, Public Defender, and Pamela H. Izakowitz, Assistant Public Defender, Bartow, for Appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Gary Lee Norman, Appellant.\n </attorneys>\n <attorneys id=\"p-7\">\n  Ashley Moody, Attorney General, Tallahassee, and Peter Koclanes, Assistant Attorney General, Tampa, for Appellee.\n </attorneys>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n  </p>\n  <p id=\"p-10\">\n   VILLANTI, LUCAS and ROTHSTEIN-YOUAKIM, JJ., Concur.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

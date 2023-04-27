@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"978\" lastpage=\"978\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE: Ken DOHRE\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-B-0941\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  October 29, 2018\n </decisiondate>\n <p id=\"p-5\">\n  ATTORNEY DISCIPLINARY PROCEEDING\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   The Office of Disciplinary Counsel seeks review of an order of the disciplinary board that the formal charges against respondent, Ken Dohre, be dismissed. Having reviewed the record and the briefs of the parties and amici curiae, we find the disciplinary board reached the correct result in dismissing the formal charges.\n  </p>\n  <p id=\"p-8\">\n   Accordingly, it is the judgment of this court that the formal charges against respondent be dismissed.\n  </p>\n  <p id=\"p-9\">\n   <strong>\n    FORMAL CHARGES DISMISSED.\n   </strong>\n  </p>\n  <p id=\"p-10\">\n   Hughes, J., dissents.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

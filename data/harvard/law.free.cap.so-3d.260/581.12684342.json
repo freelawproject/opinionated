@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"581\" lastpage=\"582\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael Thomas ACURIO\n  <br/>\n  v.\n  <br/>\n  Danielle Dickerson CAGE, a/k/a Danielle Dickerson Acurio, a/k/a Danielle Dickerson\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-C-1762\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  January 8, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON WRIT OF CERTIORARI TO THE COURT OF APPEAL, SECOND CIRCUIT, PARISH OF BOSSIER\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <judges id=\"p-7\">\n  HUGHES, J., concurs and assigns reasons.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Hughes, J., concurring.\n  </author>\n  <p id=\"p-9\">\n   Although I concur with the denial of this writ, I continue to believe the original case was wrongly decided. Acknowledgment\n   under oath of a document filed before the marriage is sufficient.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

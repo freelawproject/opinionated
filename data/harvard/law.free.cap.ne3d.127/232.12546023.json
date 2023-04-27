@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"232\" lastpage=\"232\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Termination: M. H., et al., Appellee\n  <br/>\n  v.\n  <br/>\n  INDIANA DEPARTMENT OF CHILD SERVICES\n </parties>\n <history id=\"p-2\">\n  Cause Numbers 18A-JT-1296\n  <br/>\n  19S-JT-323\n </history>\n <court id=\"p-3\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 23, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Granted.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   May, J., Baker, J., Robb, J.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

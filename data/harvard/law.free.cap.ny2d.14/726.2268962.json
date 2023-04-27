@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"726\" lastpage=\"727\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b762-9\">David Rodriguez et al., Appellants, <em>v. </em>Vincent Martinez et al., Individually and Doing Business as Imperial Center Restaurant and Martinez 733 Restaurant, Respondents.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b762-10\">Submitted March 23, 1964;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A6V\">decided April 30, 1964.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b763-4\"><page-number citation-index=\"1\" label=\"727\">*727</page-number><em>John J. Moore </em>for motion.</attorneys>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b763-5\">No one opposed.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b763-6\">Motion granted and appeal dismissed, with costs and $10 costs of motion, upon the ground that the determination sought to be reviewed involves a pure question of discretion of the type not reviewable by the Court of Appeals <em>(Miranda </em>v. <em>City of New York, </em>10 N Y 2d 883).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

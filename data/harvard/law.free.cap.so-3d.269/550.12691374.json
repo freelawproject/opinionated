@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"550\" lastpage=\"550\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Gerald DORMEVIL, Appellant,\n  <br/>\n  v.\n  <br/>\n  Rachelle DORMEVIL, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  Case No. 5D18-2381\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Fifth District.\n </court>\n <decisiondate id=\"p-4\">\n  Decision filed March 26, 2019\n  <br/>\n  Rehearing Denied April 17, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Gerald Dormevil, Windermere, Pro se.\n </attorneys>\n <attorneys id=\"p-6\">\n  Warren T. Channell, of Channell Law Firm, P.A., Winter Garden, for Appellee.\n </attorneys>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-8\">\n   AFFIRMED.\n  </p>\n  <p id=\"p-9\">\n   EISNAUGLE, GROSSHANS and SASSO, JJ., concur.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

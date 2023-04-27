@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"945\" lastpage=\"945\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b781-7\">September 8, 1981</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b781-8\">No. 90,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AFs\">Orig.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AQY\">California <em>v. </em>Texas et al.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKLQ\">Stipulation to dismiss the State of Mississippi as a party defendant was filed under Rule 53.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

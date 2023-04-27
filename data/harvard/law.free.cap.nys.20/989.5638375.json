@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"989\" lastpage=\"989\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1009-4\">Rogan <em>v. </em>Twenty-Third St. R. Co.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1009-5\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"APPb\">November 11, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A7-\">Action by Thomas Rogan against the Twenty-Third Street Railroad Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"A2r\">Argued before Daly, C. J., and Bookstaver and Bischoff, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1009-6\">No opinion. Exceptions overruled, and judgment ordered for the plaintiff.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

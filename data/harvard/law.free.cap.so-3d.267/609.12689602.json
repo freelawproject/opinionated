@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"609\" lastpage=\"609\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Darleen LEVY\n  <br/>\n  v.\n  <br/>\n  Jack E. TRUITT and The Truitt Law Firm, LLC\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2019-CC-0293\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  April 8, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   GUIDRY, J., would grant.\n  </author>\n  <p id=\"p-7\">\n   GENOVESE, J., would grant.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

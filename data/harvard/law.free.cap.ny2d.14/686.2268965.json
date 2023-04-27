@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"686\" lastpage=\"686\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b722-7\">In the Matter of Ralph Darling, Appellant, <em>v. </em>Broome County Court, Respondent.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b722-9\">Submitted March 23, 1964;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AbE\">decided April 2, 1964.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b722-12\"><em>Ralph </em>Darling, <em>pro se, </em>for motion.</attorneys>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b722-13\">No one opposed.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b722-14\">Motion dismissed upon the ground that the order sought to be appealed from does not finally determine the proceeding within the meaning of the Constitution.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

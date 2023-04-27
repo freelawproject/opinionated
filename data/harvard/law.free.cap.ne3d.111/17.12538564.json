@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"17\" lastpage=\"17\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  BALDWIN-NAZARENE\n  <br/>\n  v.\n  <br/>\n  WESTIN HOTEL CINCINNATI\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1357\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  November 6, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Miscellaneous case. On respondent's motion for extension of time to answer or otherwise move to dismiss. Sua sponte, motion stricken as untimely pursuant to S.Ct.Prac.R. 3.03(B)(2)(b).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

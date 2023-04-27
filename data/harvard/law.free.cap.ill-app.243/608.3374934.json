@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"608\" lastpage=\"608\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b640-15\" pgmap=\"640\">Ralph Sollitt, defendant in error, v. Wisconsin Lime &amp; Cement Company, plaintiff in error.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ArY\" pgmap=\"640\">Gen. No. 30,824.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"A5S\" pgmap=\"640\">O\u2019Connor, J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AzO2\" pgmap=\"640\">Opinion filed October 13, 1926.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b640-17\" pgmap=\"640\">N. I. Barry and Cassels, Potter &amp; Bentley, for plaintiff in error. William L. Hart, for defendant in error; William L. Hart and Joseph P. Brodie, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b640-18\" pgmap=\"640\">Mr. Justice Thomson</author> <p id=\"Axl\" pgmap=\"640\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

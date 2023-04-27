@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"986\" lastpage=\"986\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1006-32\">Abrahamson, Respondent, <em>v. </em>Five Year Benefit Order, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AY9\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AVyb\">October 26, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"ASBF\">Appeal from fifth district court.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1006-33\">Action by Genese Abrahamson against the Five Year Benefit Order.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1006-34\">Argued before Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1006-35\"><em>M. L. Harney, </em>for appellant. <em>W. H. Townley, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1006-36\">N o opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

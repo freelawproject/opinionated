@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"22\" lastpage=\"22\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE A.P.\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1587\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  November 8, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   This cause is pending before the court as a jurisdictional appeal. Upon review of the appeal, it appears that the case involves termination of parental rights. Accordingly, it is ordered by the court, sua sponte, that this case shall proceed according to the Rules of Practice of the Supreme Court of Ohio that pertain to cases involving termination of parental rights. Appellee's memorandum in response shall be filed within 20 days.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

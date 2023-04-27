@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"988\" lastpage=\"988\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1008-33\">Grauer, Respondent, <em>v. </em>Grauer, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1008-34\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A5pk\">November 10, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1008-35\">Action by Grace Grauer against Frank Grauer.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1008-36\">Argued before Daly, C. J., and Bookstaver and Pryor, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1008-37\">No opinion. Order reversed, with costs, and with leave to appellant to apply for restitution. See 20 N. Y. Supp. 854.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

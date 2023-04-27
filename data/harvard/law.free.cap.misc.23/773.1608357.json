@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"773\" lastpage=\"773\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b815-7\">Supreme Court, Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A5nu\">May, 1898.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b815-8\">Before Beekman, P. J., Gildersleeve and Giegerich, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b815-9\">Moritz Kugelman, Respondent, v. Rosa Hirschman et al. impleaded, etc., Appellants</parties>\n<summary data-order=\"4\" data-type=\"headnotes\" id=\"AvO\">\u2014 Appealfrom an order of the General Term of the City Court affirming an order of Special Term, adjudging the de-' murrers interposed herein by the defendants to be frivolous and directing judgment for plaintiff thereon.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ak9\">Hays <em>&amp; </em>Greenbaum, for Appellants;</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Axu\">Gruber &amp; Bonynge, for Respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ahh\">Judgment affirmed, with costs; no opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

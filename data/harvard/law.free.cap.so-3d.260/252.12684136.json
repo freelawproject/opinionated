@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"252\" lastpage=\"252\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Christopher BOOKER, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-3994\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  December 18, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   The petition for writ of mandamus is dismissed because the records of the lower tribunal indicate that the petitioner is represented by counsel. See Logan v. State,\n   <extracted-citation case-ids=\"9119259\" index=\"0\" url=\"https://cite.case.law/so-2d/846/472/\">\n    846 So. 2d 472\n   </extracted-citation>\n   (Fla. 2003). Petitioner may challenge this conclusion by filing a motion for rehearing, under oath, within 15 days of the date of this order.\n  </p>\n  <judges id=\"p-7\">\n   CASANUEVA, LUCAS, and ROTHSTEIN-YOUAKIM, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

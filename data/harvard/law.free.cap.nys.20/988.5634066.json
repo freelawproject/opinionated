@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"988\" lastpage=\"988\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1008-12\">People ex rel. McDonald, Appellant, <em>v. </em>Purroy <em>et al., </em>Respondents. Same <em>v. </em>McDermott, Respondent. Same <em>v. </em>Cahill, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1008-13\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ARBO\">November 7, 1892.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b1008-14\">Argued before Bookstaver, Bischoff, and Pryor, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1008-15\"><em>L. J. Grant, </em>for appellant. <em>W. L. Findly, </em>for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1008-16\">No opinion. Writ of <em>certiorari </em>dismissed by consent.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

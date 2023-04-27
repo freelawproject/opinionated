@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"159\" lastpage=\"159\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b167-10\">CONSTITUTIONAL COURT,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"ArS\">CHARLESTON,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ATM\">MAY, 1802.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b167-11\">Righton &amp; M\u2019Kinney <em>v. </em>Blake\u2019s Executors.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b167-12\">On motion for a new trial. By the court, unanimously. Where an action is brought to recover moneys due on a running account, pait of which account is for articles delivered prior to the 1st January, 1787, so much thereof <em>only, </em>as comes within the operation of the instalment laws, shall be entitled to carry interest by the equity of the last instalment act of 4th November, 1788. P. L. 467. The interest to be calculated on such part of the account, from the beginning of every year, respectively, according to the usage among merchants in this country.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

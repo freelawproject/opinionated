@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1211\" lastpage=\"1211\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Rory DIMES\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-KH-1404\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  January 14, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE CRIMINAL DISTRICT COURT, PARISH OF ORLEANS\n  </strong>\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM:\n  </author>\n  <p id=\"p-7\">\n   Reconsideration granted; writ granted. The application is transferred to the court of appeal to consider as a timely filed application for supervisory writs concerning the district court's April 15, 2018 denial of his application for post-conviction relief.\n   <em>\n    See\n   </em>\n   <em>\n    State ex rel. Johnson v. Maggio\n   </em>\n   ,\n   <extracted-citation case-ids=\"7649246\" index=\"0\" url=\"https://cite.case.law/so-2d/440/1336/#p1337\">\n    440 So.2d 1336\n   </extracted-citation>\n   , 1337 (La. 1983).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

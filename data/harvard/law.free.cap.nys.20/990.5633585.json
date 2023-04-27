@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"990\" lastpage=\"990\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1010-18\">Seggerman <em>v. </em>Valentine.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1010-19\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Anx\">October 24, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A1Cz\">Action by Frederick Seggerman against Napoleon Valentine.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1010-20\">Argued before McAdam and Gildersleeve, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1010-21\"><em>Chas. Curie, </em>for plaintiff. <em>John H. Parsons, </em>for defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1010-22\">No opinion. Motion denied, without costs. See 19 N. Y. Supp. 711.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"618\" lastpage=\"618\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b648-7\" pgmap=\"648\">Ensel, Meyer and Company, defendant in error, v. James C. Davis, director general of railroads, plaintiff in error.</parties><p data-order=\"1\" data-type=\"judges\" id=\"Ai_F\" pgmap=\"648\">Graves, J., dissenting.</p><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AqcJ\" pgmap=\"648\">Opinion filed July 10, 1922.</decisiondate><attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b648-9\" pgmap=\"648\">Patton &amp; Patton, for plaintiff in error; William L. Patton, Henry L. Patton and Silas H. Strawn, of counsel. John G. Friedmeyer, for defendant in error.</attorneys> <opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b648-10\" pgmap=\"648\">Mr. Justice Niehaus</author> <p id=\"AaYZ\" pgmap=\"648\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

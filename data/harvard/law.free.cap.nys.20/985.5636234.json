@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"985\" lastpage=\"985\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1005-20\">Dansinger <em>et al., </em>Appellants, <em>v. </em>White, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1005-21\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ar2\">September 14, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"pADH\">Action Robert Dansinger and James H. Edward C. White.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"ALY\">Argued before Mayham, P. J., and Putnam and Herrick, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1005-22\">No opinion. Motion for reargument denied, with costs. For decision on appeal, see 19 N. Y. Supp. 897.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

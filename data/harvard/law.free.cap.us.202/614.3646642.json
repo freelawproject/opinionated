@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"614\" lastpage=\"615\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b646-8\">No. \u2014, Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aiy\"><em>Ex parte : </em>In the Matter of James Hamilton Lewis, Petitioner.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"Axa\">Submitted May 21, 1906.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ADx\">Decided May 28, 1906.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AT_\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"ATx\">Motion for leave to file a petition for a writ of certiorari denied. <em>Jones </em>v. <em>Montague, </em><page-number citation-index=\"1\" label=\"615\">*615</page-number>194 U. S. 147; <em>Security Insurance Company </em>v. <em>Prewitt, </em>200 U. S. 446; <em>Mills </em>v. <em>Green, </em>159 U. S. 651; <em>Bessette </em>v. <em>W. B. Conkey Company, </em>194 U. S. 324.</p>\n<attorneys id=\"AI50\"><em>Mr. Holmes Conrad </em>for petitioner.</attorneys>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

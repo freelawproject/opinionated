@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"988\" lastpage=\"988\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1008-17\">Eaves Costume Co., Respondent, <em>v. </em>Pratt, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1008-18\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A7cv\">November 9, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1008-19\">Action by the Eaves Costume Company against Thomas H. Pratt,</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1008-20\">Argued before Daly, C. J., and Bookstaver and Pryor, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1008-21\">No opinion. Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

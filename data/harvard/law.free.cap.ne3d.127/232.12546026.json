@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"232\" lastpage=\"232\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Samuel WALKER, et al., Appellants\n  <br/>\n  v.\n  <br/>\n  TOWN OF ORLEANS\n </parties>\n <court id=\"p-2\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-3\">\n  May 14, 2019\n </decisiondate>\n <opinion id=\"p-4\">\n  Denied.\n </opinion>\n <opinion id=\"p-5\">\n  All Justices concur, except David, J., who, pursuant to Indiana Appellate Rule 42, would strike Appellants' petition to transfer as impertinent, scandalous, and inappropriate and therefore dismiss the transfer proceedings with prejudice.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   Najam, J., Crone, J., Pyle, J.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

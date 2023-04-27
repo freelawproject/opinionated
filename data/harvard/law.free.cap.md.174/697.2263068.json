@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"697\" lastpage=\"697\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b723-3\">BARBARA E. DOTTERWEICH <em>v. </em>JOHN T. DOTTERWEICH</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ALH\">[No. 68,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AVP\">April Term, 1938.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b723-7\">\n<em>Decided June 20th, 1938.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b723-10\">The cause was argued before Bond, C. J., Urner, Offutt, Parke, Sloan, Mitchell, Shehan, and Johnson, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b723-11\"><em>J. Calvin Carney, </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b723-12\"><em>Paul M. Higinbothom </em>and <em>Sophie K. Nordenholz, </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b723-13\">Sloan, J.,</author>\n<p id=\"A8m\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

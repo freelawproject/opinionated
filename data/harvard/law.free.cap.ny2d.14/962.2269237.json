@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"962\" lastpage=\"963\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b998-8\">In the Matter of Beverly Rodes, Respondent, <em>v. </em>Oscar Rodes, Appellant.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b998-10\">Submitted September 28, 1964;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AuG\">decided October 1, 1964.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b999-4\"><page-number citation-index=\"1\" label=\"963\">*963</page-number><em>Oscar Rodes, pro se, </em>for motion.</attorneys>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b999-5\">No one opposed.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b999-6\">Motion dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

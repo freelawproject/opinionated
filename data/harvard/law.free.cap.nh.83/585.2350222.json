@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"585\" lastpage=\"585\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"ALp\">Cheshire, )</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b613-3\">Jan. 3,1928. )</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b613-4\">State <em>v. </em>Mary Costello.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b613-6\"><em>Arthur Olson, </em>solicitor, for the state.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b613-7\"><em>John J. Landers, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b613-8\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"A-Q\">The defendant is guilty of a second offense. <em>State </em>v. <em>Gendron, </em>80 N. H. 394; <em>State </em>v. <em>Haselton, </em>81 N. H. 549; P. L., c. 402, s. 13.</p>\n<p id=\"b613-9\">\n<em>Case discharged.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

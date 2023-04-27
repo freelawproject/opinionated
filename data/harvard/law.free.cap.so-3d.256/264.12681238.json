@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"264\" lastpage=\"264\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In re: Medical Review Panel re: Thomas SMITH, Sr.\n  <br/>\n  v.\n  <br/>\n  Dr. David C. PELLEGRIN, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-CC-1288\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  November 14, 2018\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE 32nd JUDICIAL DISTRICT COURT, PARISH OF TERREBONNE\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <judges id=\"p-7\">\n  HUGHES, J., concurs and assigns reasons.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   I concur with the writ denial in this case. We declined to exercise our supervisory jurisdiction in this case because relator has an adequate remedy on appeal. Once the district court rendered a final judgment, any interlocutory judgments, including the rulings on relator's pauper status, were merged into the final judgment and are reviewable on appeal.\n   <em>\n    See\n   </em>\n   La. Code Civ. P. art. 1915(B)(2).\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

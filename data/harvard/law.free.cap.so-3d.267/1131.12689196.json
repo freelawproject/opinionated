@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1131\" lastpage=\"1132\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Henry Norris WILLIAMS, et al\n  <br/>\n  v.\n  <br/>\n  The DOW CHEMICAL COMPANY, et al\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2019-CC-0563\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  April 16, 2019\n </decisiondate>\n <history id=\"p-5\">\n  ON WRIT OF CERTIORARI, TO THE COURT OF APPEAL, FIRST CIRCUIT, PARISH OF IBERVILLE\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   Granted. Considering the unusual circumstances of this case, we find the district court's ruling was consistent with the authority granted by La. R.S. 13:3044(C) and was equitable to all parties. Accordingly, the judgment of the court of appeal is reversed, and the judgment of the district court is reinstated. The case is remanded\n   to the district court for further proceedings.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"583\" lastpage=\"583\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b639-5\">No. 13.</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AZsh\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AuDq\">State of Oklahoma <em>v. </em>State of Texas.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AH6\">Motion submitted October 27, 1924.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Amr\">Order entered November 17, 1924.</decisiondate>\n<seealso data-order=\"5\" data-type=\"seealso\" id=\"A5b\">See 262 U. S. 724.</seealso>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b639-7\"><em>Mr. Solicitor General Beck </em>for the United States.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b639-6\">Order. \u2014 On the motion of the United States, inter-vener, the order herein of June 11, 1923, relating to certain lands, is hereby revoked and the lands described in that order are hereby released unconditionally from the receivership.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

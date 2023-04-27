@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"266\" lastpage=\"266\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Allen JOHNSON\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-KH-1114\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  November 14, 2018\n </decisiondate>\n <p id=\"p-5\">\n  ON SUPERVISORY WRITS TO THE CRIMINAL, DISTRICT COURT FOR THE PARISH OF ORLEANS\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   Pursuant to this Court's Order, dated July 13, 2018, the district court notified this Court that defendant's record cannot be located. Additionally, defendant's filings in this Court show that he has previously received copies of his trial transcripts, court minutes, and the records of his mental status report. Defendant has had two appeals of his conviction, and his 37-year-old conviction is beyond the post-conviction limitations period as set out in La.C.Cr.P. art. 930.8. Therefore, defendant's request for transcripts or minute entries from his prosecution is denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

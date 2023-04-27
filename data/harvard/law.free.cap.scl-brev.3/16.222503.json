@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"16\" lastpage=\"16\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"AE3\">CONSTITUTIONAL COURT,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AGN\">COLUMBIA,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ayn\">APRIL, 1794.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b24-5\">Smith and Mitchell <em>v. </em>Graves.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b24-10\">In this case, a new trial was granted, because the jury, after ha. ving retired from their box, to con\u00e1ider of their Verdict, had privately examined a witness:</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"773\" lastpage=\"773\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b815-11\">Supreme Court, Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AG09\">June, 1898.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b815-12\">Before Beekman, P. J., Gildersleeve and Giegerich, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b815-13\">Kate Clokey as Administratrix, etc., of John T. Clokey, deceased, Respondent, v. The International Rubber Clothing <em>&amp; </em>General Supply Co., Appellant</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ANoB\">Appeal from a judgment of the General Term of the City Court affirming a judgment in favor of plaintiff.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AyH\">William Stuart for Appellant;</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ANLW\">Robinson, Biddle &amp; Ward for Respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ao6\">Judgment affirmed, with costs; no opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

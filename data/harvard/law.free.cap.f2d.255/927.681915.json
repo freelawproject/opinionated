@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"927\" lastpage=\"927\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1029-20\">C. M. HOLLIDAY et al. v. Stephen S. CHANDLER, Judge of the United States District Court for the Western District of Oklahoma.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1029-22\">No. 5836.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1029-23\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1029-24\">April 7, 1958.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1029-26\">Roy C. Lytle and Sid White, Oklahoma City, Okl., for respondent.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1029-27\">David Ferber, Washington, D. C., for Securities and Exchange Commission.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1029-28\">Before BRATTON, Chief Judge, and PICKETT and BREITENSTEIN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1029-29\">PER CURIAM.</author>\n<p id=\"A82\">Petition for writ of prohibition denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

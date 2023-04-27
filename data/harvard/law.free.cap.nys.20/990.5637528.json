@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"990\" lastpage=\"990\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1010-13\">Worthing Co. v. Avery.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1010-14\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AbqE\">October 24, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AMxy\">Action by the Worthing Company against Robert Avery.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1010-15\">Argued before Freedman, McAdam, and Gildersleeve, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1010-16\"><em>Bloomfield Littell, </em>for plaintiff. <em>J. F. Harrison, </em>for defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1010-17\">No opinion. Motion denied, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

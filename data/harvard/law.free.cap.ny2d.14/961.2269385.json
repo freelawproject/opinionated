@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"961\" lastpage=\"962\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b997-7\">In the Matter of William M. Hannafin, Appellant. Committee on Character and Fitness of the Second Judicial Department, Respondent.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b997-8\">Submitted September 28, 1964;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AmN\">decided October 1, 1964.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b997-11\"><em>William M. Hannafin, pro se, </em>for motion.</attorneys>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b997-12\">No one opposed.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b998-3\"><page-number citation-index=\"1\" label=\"962\">*962</page-number>Motion dismissed upon the ground that the order sought to be appealed from does not finally determine the proceeding within the meaning of the Constitution, without prejudice, however, to a new application for admission if the applicant be so advised (see <em>Matter of </em>Weiss, 13 N Y 2d 897).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

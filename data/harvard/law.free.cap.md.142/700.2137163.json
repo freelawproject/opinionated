@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"700\" lastpage=\"700\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b724-2\">EDWIN M. WILMER <em>vs. </em>HENRIETTA V. LANG.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b724-8\">\n<em>Decided October 6th, 1922.</em>\n</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b724-11\">The cause was argued before Boyd, C. J., Thomas, Pattison, Urner, Stockbridge, Adkins, and Offutt, JJ.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b724-12\"><em>E. M. Wilmer, </em>for the appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b724-13\"><em>William L. Stuckert, </em>for the appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b724-14\">Stockbridge, J.,</author>\n<p id=\"ART\">delivered the opinion of the Court, disr missing the appeal, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"256\" lastpage=\"256\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX REL. PENLAND\n  <br/>\n  v.\n  <br/>\n  DEPT. OF REHAB. &amp; CORR.\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1850\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  March 6, 2019\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MERIT DECISIONS WITHOUT OPINIONS\n </p>\n <opinion id=\"p-7\">\n  In Mandamus. On S.Ct.Prac.R. 12.04 determination. Cause dismissed.\n </opinion>\n <judges id=\"p-8\">\n  O'Connor, C.J., and Klatt, Donnelly, and Stewart, JJ., concur.\n </judges>\n <opinion id=\"p-9\">\n  Kennedy, French, and DeWine, JJ., dissent and would grant an alternative writ.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-10\">\n   William A. Klatt, J., of the Tenth District Court of Appeals, sitting for Fischer, J.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

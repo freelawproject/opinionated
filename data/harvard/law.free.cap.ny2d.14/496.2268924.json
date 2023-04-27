@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"496\" lastpage=\"497\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b532-8\">Vincent E. Ferretti, Appellant, <em>v. </em>Henry Ettinger et al., Defendants, and Reuben E. Gross et al., Respondents.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b532-9\">Argued January 22, 1964;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AtV\">decided February 20, 1964.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b533-4\"><page-number citation-index=\"1\" label=\"497\">*497</page-number><em>James J. Cally </em>and <em>Eugene V. P. Ferretti </em>for appellant.</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"b533-5\">No appearance for respondents.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b533-6\">Order affirmed, without costs; no opinion.</p>\n<p id=\"b533-7\">Concur: Chief Judge Desmond and Judges Dye, Fold, Van Voorhis, Burke, Scileppi and Bergan.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

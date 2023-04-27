@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"173\" lastpage=\"173\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b181-11\">CONSTITUTIONAL COURT,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"Aqm\">COLUMBIA,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ax4\">NOV. 1802.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A8G-\">Anonymous.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b181-12\">Resolved,</p>\n<author id=\"AtG0\"><em>per totam </em>curiam,</author>\n<p id=\"AIr\">that exemplifications, or copies duly certified, of judicial proceedings of any district court in th\u00e9 State, phall be. admissible evidence in any other of the district courts of fhe State, without being sworn, to. Bull. 1ST* JL 229.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

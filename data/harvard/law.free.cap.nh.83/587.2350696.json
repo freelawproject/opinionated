@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"587\" lastpage=\"587\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b615-4\">Belknap, )</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"As\">June 4,1929. )</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b615-5\">Harold O. Whitney <em>v. </em>Frances C. Whitney. Frances C. Whitney <em>v. </em>Harold O. Whitney.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b615-9\"><em>Thomas P. Cheney, Jeremy R. Waldron </em>and <em>Robert T. Bushnell </em>(of Massachusetts) for <em>Harold O. Whitney.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b615-10\"><em>Jewett &amp; Jewett, James P. Buckley (of New York) </em>and <em>James P. Tuttle, </em>for <em>Frances C. Whitney.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b615-11\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"A_L\">The record shows that neither party is entitled to a divorce, or fit to have the custody of their children.</p>\n<p id=\"b615-12\">\n<em>Case discharged.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

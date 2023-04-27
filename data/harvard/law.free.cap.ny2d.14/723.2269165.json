@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"723\" lastpage=\"724\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b759-8\">The People of the State of New York, Respondent, <em>v. </em>George Budner, Appellant.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b759-10\">Submitted April 27, 1964;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ANf2\">decided April 30, 1964.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b760-4\"><page-number citation-index=\"1\" label=\"724\">*724</page-number><em>George Budner, pro se, </em>for motions.</attorneys>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b760-5\">No one opposed.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b760-6\">Motions dismissed. Upon the court\u2019s own motion, appeal dismissed for the reason that sentence has not yet been imposed and no appeal will lie (Code Crim. Pro., \u00a7 519).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"692\" lastpage=\"692\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b724-8\">ERIC O. HAMREN <em>v. </em>EMY M. AXELL HAMREN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ANst\">[No. 12,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aqed\">April Term, 1942.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b724-10\">\n<em>Decided May 26, 1942.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b724-13\">The cause was argued before Bond, C. J., Sloan, Delaplaine, Collins, Forsythe, and Marbury, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b724-14\"><em>J. Cleveland Grice </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b724-15\"><em>Grace R. Gerber Silverberg </em>and <em>Bruce C. Lightner </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b724-16\">Bond, C. J.,</author>\n<p id=\"A1FC\">delivered the\u2019 opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

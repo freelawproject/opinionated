@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"773\" lastpage=\"773\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b815-6\">Supreme Court \u2014 Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Akep\">October, 1898.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b815-7\">Before Beekman, P. J., Gildersleeve and Giegerich, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b815-8\">Max Friedman, respondent v. The Consolidated Traction Co., appellant.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AdG\">Appeal from a judgment of the General Term of the City. Court, affirming a judgment of that court in favor of plaintiff.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b815-10\">Jarvis N. Atkinson (Spencer Weart, of counsel), for appellant; Julius H. Cohn, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Agf\">Judgment affirmed, with costs. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

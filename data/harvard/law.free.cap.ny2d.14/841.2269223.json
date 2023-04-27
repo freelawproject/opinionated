@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"841\" lastpage=\"842\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b877-11\">The People of the State of New York ex rel. Lilly Harris, Appellant, <em>v. </em>Mary K. Lindsay, as Warden of the House of Detention for Women, et al., Respondents.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b877-14\">Submitted June 1, 1964;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Acn\">decided June 4, 1964.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b878-4\"><page-number citation-index=\"1\" label=\"842\">*842</page-number><em>Arnold Schildhaus </em>for motion.</attorneys>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b878-5\">No one opposed.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b878-6\">Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

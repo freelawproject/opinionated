@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"35\" lastpage=\"35\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Missouri, Respondent,\n  <br/>\n  v.\n  <br/>\n  Terry M. ROBERTS, Jr., Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  WD 80394\n </docketnumber>\n <court id=\"p-3\">\n  Missouri Court of Appeals, Western District.\n </court>\n <decisiondate id=\"p-4\">\n  ORDER FILED: OCTOBER 2, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Julia E. Neidhardt, Jefferson City, MO, Counsel for Respondent.\n </attorneys>\n <attorneys id=\"p-6\">\n  Jedd C. Scheider, Columbia, MO, Counsel for Appellant.\n </attorneys>\n <judges id=\"p-7\">\n  Before Division Three: Anthony Rex Gabbert, Presiding Judge, Victor C. Howard, Judge, Alok Ahuja, Judge\n </judges>\n <p id=\"p-8\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Per Curiam:\n  </author>\n  <p id=\"p-10\">\n   Terry M. Roberts, Jr., appeals from a judgment convicting him of the class B felony of assault in the first degree pursuant to Section 565.050, RSMo 2000. We affirm. Rule 30.25(b).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"16\" lastpage=\"16\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b24-14\">CONSTITUTIONAL COURT,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AXY\">COLUMBIA,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"APc\">DEC. 1796.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A3v\">The State <em>v. </em>Toadvine.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b24-15\">Indictment for counterfeiting, concluding \u201c contrary to the statute.\u201d</p>\n<p id=\"b24-16\">Motion in arrest of judgment, that such conclusion was ill, and riot equivalent to \u201c contrary to <em>the farm of </em>the statute.'\u201d</p>\n<p id=\"b24-17\">The exception was\" not allowed;</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

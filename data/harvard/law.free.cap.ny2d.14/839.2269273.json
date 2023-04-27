@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"839\" lastpage=\"840\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b875-8\">In the Matter of the Claim of Nicholas F. Moriello, Appellant. Martin P. Catherwood, as Industrial Commissioner, Respondent.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b875-10\">Submitted June 1, 1964;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AS8\">decided June 4, 1964.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b875-13\"><em>Nicholas F. Moriello, pro se, </em>for motion.</attorneys>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b875-14\">No one opposed.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b876-3\"><page-number citation-index=\"1\" label=\"840\">*840</page-number>Motion dismissed upon the ground that the determination sought to be reviewed involves a pure question of discretion of the type not reviewable by the Court of Appeals <em>(Miranda </em>v. <em>City of New York, </em>10 N Y 2d 883).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

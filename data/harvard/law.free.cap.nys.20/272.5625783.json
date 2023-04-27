@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"272\" lastpage=\"272\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b292-12\">Gilman v. Tucker.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b292-13\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A2_\">May 1, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b292-14\">Action by Cornelia Gilman against Preble Tucker. For former report, see 13 N. Y. Supp, 804.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b292-15\"><em>George H. Fletcher, </em>for plaintiff. <em>Tucker, Hardy &amp; Wainwright, </em>for defendant.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b292-16\">Argued before Sedgwick, C. J., and Ingraham, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b292-17\">Per Curiam.</author>\n<p id=\"A7_\">Order affirmed, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

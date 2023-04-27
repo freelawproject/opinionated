@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1208\" lastpage=\"1208\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Ronald Earl WILLIAMS\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2017-KP-2022\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  January 14, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE FIRST JUDICIAL DISTRICT COURT, PARISH OF CADDO\n  </strong>\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM:\n  </author>\n  <p id=\"p-7\">\n   Granted in part. The court of appeal's ruling is vacated to the extent that it remanded for an evidentiary hearing. The matter is remanded to the district court, where the state will be afforded an opportunity to respond on the merits.\n  </p>\n  <p id=\"p-8\">\n   Thereafter, the district court shall determine whether to rule on the application summarily, under La.C.Cr.P. art. 929, or whether an evidentiary hearing is warranted under La.C.Cr.P. art. 930. The writ is otherwise denied.\n  </p>\n  <p id=\"p-9\">\n   CRICHTON, J., recused.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

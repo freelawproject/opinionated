@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"985\" lastpage=\"985\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1005-16\">People <em>ex rel. </em>John A. Roebling\u2019s Sons Co. <em>v. </em>Wemple, Comptroller.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Atd\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A9O\">September 14, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1005-17\">Action by the People <em>ex rel. </em>John A. Roebling\u2019s Sons Co. against Edward Wemple, comptroller.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1005-18\">Argued before Mayham, P. J., and Putnam and Herrick, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1005-19\">No opinion. Motion to resettle order granted. See 18 N. Y. Supp. 504.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

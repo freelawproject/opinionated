@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"620\" lastpage=\"620\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b650-3\" pgmap=\"650\">St. Louis Brewing Association, appellee, v. Adolph DeHeve, appellant.</parties><p data-order=\"1\" data-type=\"judges\" id=\"Agb\" pgmap=\"650\">Graves, J., took no part.</p><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Afq\" pgmap=\"650\">Opinion filed July 10, 1922.</decisiondate><attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b650-5\" pgmap=\"650\">John G. Friedmeyer, for appellant. Oramel B. Irwin, for appellee.</attorneys> <opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b650-6\" pgmap=\"650\">Mr. Justice Heard</author> <p id=\"APDm\" pgmap=\"650\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

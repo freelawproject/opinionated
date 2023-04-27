@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"667\" lastpage=\"667\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Harris Emanuel FORD\n  <br/>\n  v.\n  <br/>\n  Erik A. HOOKS Secretary of N.C. Department of Public Safety\n </parties>\n <docketnumber id=\"p-2\">\n  No. 133P18\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  May 7, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Mr. Harris Emanuel Ford, for Ford, Harris Emanuel\n </attorneys>\n <p id=\"p-6\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Upon consideration of the application filed by Petitioner on the 7th of May 2018 in this matter for Writ of Habeas Corpus, the following order was entered and is hereby certified to the Superior Court, Robeson County:\n  </p>\n  <p id=\"p-8\">\n   \"Denied by order of the Court in conference, this the 7th of May 2018.\"\n  </p>\n  <author id=\"p-9\">\n   Hudson, J. recused\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

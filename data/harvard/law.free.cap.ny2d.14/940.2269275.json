@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"940\" lastpage=\"940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b976-7\">In the Matter of the Claim of Fannie Farber, Appellant, <em>v. </em>U. S. Trucking Corp., Respondent. Workmen\u2019s Compensation Board, Respondent.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b976-10\">Submitted July 9, 1964;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AKr\">decided July 10, 1964.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b976-14\"><em>Jeannette H. Harris, Louis Raybin </em>and <em>Jacques Smit </em>for motion.</attorneys>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b976-15\">No one opposed.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b976-16\">Motion granted and appeal dismissed, without costs and without prejudice, upon the ground that the order appealed from does not finally determine the proceeding within the meaning of the Constitution.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

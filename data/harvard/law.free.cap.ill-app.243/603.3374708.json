@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"603\" lastpage=\"603\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b635-17\" pgmap=\"635\">Adela Reivitz, appellee, v. Chicago Rapid Transit Company, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ANq\" pgmap=\"635\">Gen. No. 30,781.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"A2q\" pgmap=\"635\">Thomson, J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AUT\" pgmap=\"635\">Opinion filed October 13, 1926.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b635-19\" pgmap=\"635\">Gardner, Foote, Burns &amp; Morrow, for appellant; Walter M. Fowler and James K. Miller, of counsel. Ryan &amp; Rosenthal, for appellee; Philip Rosenthal, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b635-20\" pgmap=\"635\">Mr, Presiding Justice Taylor</author> <p id=\"AM0\" pgmap=\"635\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

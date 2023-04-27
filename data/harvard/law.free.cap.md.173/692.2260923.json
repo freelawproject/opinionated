@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"692\" lastpage=\"692\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b722-3\">CHARLES RUSSELL SHEETS <em>v. </em>HELEN HAMILTON SHEETS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b722-5\">[No. 71,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AZt7\">October Term, 1937.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b722-8\">\n<em>Decided January 12th, 1938.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b722-11\">The cause was submitted on briefs to Bond, C. J., Urner, Offutt, Parke, Sloan, Mitchell, Shehan, and Johnson, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b722-12\"><em>Grym.es &amp; Hofferbert, </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b722-13\"><em>Bernard Meyerson, </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b722-14\">Parke, J.,</author>\n<p id=\"AoP\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

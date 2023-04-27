@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"989\" lastpage=\"989\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1009-17\">Pyne, Respondent, <em>v. </em>National Steamship Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1009-18\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Al4\">November 18, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1009-19\">Action by Samuel Pyne against the National Steamship Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1009-20\">Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1009-21\">No opinion. Appeal dismissed, with costs. See 18 N. Y. Supp. 166.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"989\" lastpage=\"989\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1009-26\">People <em>v. </em>Hurwitz <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1009-27\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Abjq\">December 5, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1009-28\">Application by David Hurwitz and Rebecca Hurwitz to remit forfeiture of a recognizance.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1009-29\">Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1009-30\"><em>De Lancy Nicoll, </em>for the People. <em>C. I. Schampain, </em>for defendants.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1009-31\">Per Curiam.</author>\n<p id=\"Acql\">The papers present a clear case for remission of the forfeiture and cancellation of the judgment So ordered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

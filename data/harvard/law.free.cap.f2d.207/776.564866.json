@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"776\" lastpage=\"776\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b828-11\">Jerry BENALLO, Jr. v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b828-13\">No. 4762.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b828-14\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b828-15\">Oct. 21, 1953.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b828-17\">\u00c1. <em>X. </em>Erickson, W. H. Erickson, Milton Berger and Albert E. Sherlock, Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b828-18\">Charles S. Vigil, U. S. Atty., and James Heyer, Asst. U. S. Atty., Denver, Colo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b828-19\">Before BRATTON, HUXMAN and PICKETT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b828-20\">PER CURIAM.</author>\n<p id=\"b828-21\">Bail reduced without written opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

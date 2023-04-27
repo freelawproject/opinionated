@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"20\" lastpage=\"20\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  TAYLOR\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1243\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  November 7, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <history id=\"p-6\">\n  APPEALS ACCEPTED FOR REVIEW\n </history>\n <p id=\"p-7\">\n  Sua sponte, cause consolidated with 2018-1315, State v. Taylor, and briefing in Nos. 2018-1243 and 2018-1315 shall be consolidated. The parties shall file two originals of each of the briefs permitted under S.Ct.Prac.R. 16.02 through 16.04 and include both case numbers on the cover page of the briefs. The parties shall otherwise comply with the requirements of S.Ct.Prac.R. 16.01 through 16.04.\n </p>\n <opinion id=\"p-8\">\n  DeGenaro, J., would hold the cause for the decisions in 2017-1579, State v. Braden, and 2018-0449, State v. Johnson.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   O'Connor, C.J., dissents.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

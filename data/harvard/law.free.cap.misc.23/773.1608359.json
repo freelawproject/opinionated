@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"773\" lastpage=\"773\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b815-2\">Supreme Court, Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A3U\">April, 1898.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b815-3\">Before Beekman, P. J., Gildersleeve and Giegerich, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b815-5\">Bridget M. Kelly, Appellant, v. John Henry Theiss, Respondent</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AmI\">\u2014 Appeal from judgment of the General Term of the City Court affirming a judgment in favor of defendant dismissing the complaint of plaintiff.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ACe\">Arthur J. Westermayr, for Appellant;</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ANb\">Fromme Bros., for Respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqZ\">Judgment affirmed, with costs; no opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

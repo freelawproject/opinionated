@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"987\" lastpage=\"987\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1007-32\">Shaw <em>v. </em>Broadway &amp; S. A. R. Co.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1007-33\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AO0B\">November 7, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1007-34\">Action by Benjamin Shaw against the Broadway &amp; Seventh Avenue Railroad Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1007-35\">Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1007-36\">No opinion. Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

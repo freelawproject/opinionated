@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"973\" lastpage=\"974\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1009-9\">Morton R. Goldman, Respondent-Appellant, <em>v. </em>Business Factors Corporation, Appellant-Respondent.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b1009-10\">Submitted September 28, 1964;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AYd\">decided October 8, 1964.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b1010-3\"><page-number citation-index=\"1\" label=\"974\">*974</page-number><em>Arthur M. Michaelson </em>for plaintiff\u2019s motion.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1010-4\"><em>Milton N. Mound </em>and <em>Henry A. Greenburg </em>for defendant\u2019s motion.</attorneys>\n<p data-order=\"5\" data-type=\"attorneys\" id=\"b1010-5\">No one opposed.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1010-6\">Motions denied upon the ground that the appeals lie as of right.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

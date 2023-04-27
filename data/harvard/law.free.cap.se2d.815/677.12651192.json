@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"677\" lastpage=\"677\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Ray MUHAMMAD\n </parties>\n <docketnumber id=\"p-2\">\n  171P18-1\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  July 20, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Aaron Thomas Johnson, Assistant Appellate Defender, Ray Muhammad, George Ligon, Jr., Attorney at Law, for Muhammad, Ray.\n </attorneys>\n <attorneys id=\"p-6\">\n  Glenn Gerding, Appellate Defender, for State.\n </attorneys>\n <attorneys id=\"p-7\">\n  Alesia Mikhaulauna Balshakova, Assistant Attorney General, for State of North Carolina\n </attorneys>\n <attorneys id=\"p-8\">\n  N. Lorrin Freeman, District Attorney, for State.\n </attorneys>\n <opinion id=\"p-9\">\n  The following order has been entered on the motion filed on the 19th of July 2018 by Defendant for Temporary Stay:\n </opinion>\n <opinion id=\"p-10\">\n  \"Motion Dismissed by order of the Court in conference, this the 20th of July 2018.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-11\">\n   Morgan, J. recused\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

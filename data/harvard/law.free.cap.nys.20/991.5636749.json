@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"991\" lastpage=\"991\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1011-29\">Walsh, Respondent, v. White, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1011-30\">\n<em>(City Court of New York, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ajvk\">November 28, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1011-31\">Action by Mary Walsh against William V. White.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1011-32\">Argued before Newburger and Fitzsimons, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1011-33\"><em>Alexander Thain, </em>for appellant. <em>Rufus L. Perry, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1011-34\">Newburger, J.</author>\n<p id=\"AWl9\">Order appealed from affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

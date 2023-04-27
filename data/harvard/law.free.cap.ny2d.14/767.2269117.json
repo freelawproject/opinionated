@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"767\" lastpage=\"767\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b803-5\">In the Matter of Neal Gerace, Respondent, <em>v. </em>F. Wilson Smith et al., Appellants, and Charles F. Furst et al., as Commissioners of Election of Rockland County, Respondents.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b803-7\">Argued May 27, 1964;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ajs\">decided May 27, 1964.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b803-11\"><em>Leon H. Klingher </em>for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b803-12\"><em>George S. Cobb </em>for Neal Gerace, respondent.</attorneys>\n<p data-order=\"5\" data-type=\"legal\" id=\"b803-13\">No appearance for remaining respondents.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b803-14\">Order reversed and prayer of the petition denied, without costs (see <em>Matter of Lamula </em>v. <em>Power, </em>13 N Y 2d 873).</p>\n<p id=\"b803-15\">Concur: Chief Judge Desmond and Judges Dye, Fuld, Van Voorhis, Burke, Scileppi and Hamm*.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

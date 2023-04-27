@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"73\" lastpage=\"73\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Walter A. KOTT, Jr.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-KH-0745\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  April 8, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE TWENTY-SECOND JUDICIAL DISTRICT COURT, PARISH OF ST. TAMMANY\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   Hughes, J., would grant the writ.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

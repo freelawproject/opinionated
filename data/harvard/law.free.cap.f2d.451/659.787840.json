@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"659\" lastpage=\"659\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b759-3\">Tony WILLIS, Petitioner-Appellant, v. U. S. BOARD OF PAROLE, Respondent-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b759-5\">No. 71-2469.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b759-6\">United States Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b759-8\">Nov. 29, 1971.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b759-11\">Tony Willis, pro se.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b759-12\">John W. Stokes, U. S. Atty., Charles A. Pannell, Jr., Asst. U. S. Atty., Atlanta, for respondent-appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b759-14\">Before GEWIN, GOLDBERG and DYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b759-15\">PER CURIAM:</author>\n<p id=\"b759-16\">This appeal is dismissed as frivolous. See Local Rule 20.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

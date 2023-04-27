@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"156\" lastpage=\"156\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  BATES\n </parties>\n <docketnumber id=\"p-2\">\n  2016-1783\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  February 6, 2019\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On motion to participate in oral argument scheduled for February 19, 2019, of amicus curiae, NAACP Legal Defense &amp; Educational Fund, Inc. Motion granted. Amicus curiae shall share the time allotted to appellant.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

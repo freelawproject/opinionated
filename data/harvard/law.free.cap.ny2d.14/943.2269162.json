@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"943\" lastpage=\"944\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b979-11\">The People of the State of New York, Respondent-Appellant, <em>v. </em>James Teams, Appellant-Respondent.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b979-12\">Submitted July 9, 1964;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AWAJ\">decided July 10, 1964.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b980-6\"><page-number citation-index=\"1\" label=\"944\">*944</page-number><em>Edward S. Silver, District Attorney (Frank Di Lalla </em>of counsel), for motion.</attorneys>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b980-7\">No one opposed.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b980-8\">Motion denied upon the ground that the order is not appeal-able to the Court of Appeals <em>(People </em>v. <em>Cioffi, </em>1 N Y 2d 70).</p>\n<p id=\"b980-9\">Appeals dismissed upon the court\u2019s own motion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

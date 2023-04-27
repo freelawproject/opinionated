@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"197\" lastpage=\"197\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b245-18\">GENERAL PETROLEUM CORPORATION v. Ezra O. MOSS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b245-19\">No. 4525.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b245-20\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b245-21\">Sept. 19, 1952.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b245-23\">Faux, Rich &amp; Kirton, Salt Lake City, Utah, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b245-24\">Moyle &amp; Moyle, Salt Lake City, Utah, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b245-25\">Before PHILLIPS, Chief Judge, and KNOUS, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b245-26\">PER CURIAM.</author>\n<p id=\"b245-27\">-Appeal dismissed September 19, 1952, pursuant to stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

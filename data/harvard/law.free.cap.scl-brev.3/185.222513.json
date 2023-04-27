@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"185\" lastpage=\"185\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b193-4\">CONSTITUTIONAL COURT,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AOP\">COLUMBIA,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A5p\">NOV. 1802.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b193-6\">Buchanan <em>v. </em>Carolin.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b193-7\">\n<em>Per curiam,</em>\n</author>\n<p id=\"A2F\">on motion for a new trial. This court will not grant a new trial on account of <em>parol </em>evidence sworn to be dis. covered since the trial, <em>vide </em>Drayton v. Thompson, 1 Bay, 263.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

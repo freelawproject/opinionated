@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"778\" lastpage=\"778\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b830-35\">Roe GILLESPIE v. ABEGG <em>&amp; </em>REINHOLD COMPANY, Limited.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aov-dedup-2\">No. 4751.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b830-38\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b830-39\">Oct. 5, 1953.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b830-41\">P. H. Winn, Oklahoma City, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b830-42\">Kerr, Lambert, Conn &amp; Roberts, Ada, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b830-43\">Before PHILLIPS, Chief Judge, and MURRAH, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b830-44\">PER CURIAM.</author>\n<p id=\"b830-45\">Docketed and dismissed on motion of appellee for failure of appellant diligently to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

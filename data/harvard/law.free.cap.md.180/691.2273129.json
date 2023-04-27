@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"691\" lastpage=\"692\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b723-13\">JAMES A. BROWN JR., et ux. <em>v. </em>ETHEL V. WEILAND, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b723-14\">[No. 80,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Avq9\">October Term, 1941.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b723-17\">\n<em>Decided January 13, 1942.</em>\n</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b724-5\"><page-number citation-index=\"1\" label=\"692\">*692</page-number><em>Linwood L. Clark </em>for the appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b724-6\"><em>Louis M. Strauss </em>and <em>William W. Townshend, Jr., </em>for the appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b724-7\">Delaplaine, J.,</author>\n<p id=\"AhIA\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

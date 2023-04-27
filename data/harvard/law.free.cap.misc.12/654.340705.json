@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"654\" lastpage=\"654\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b690-2\">CITY COURT OF NEW YORK</court>\n<p data-order=\"1\" data-type=\"p\" id=\"AFbO\">\u2014GENERAL TERM,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b690-3\">MAY, 1895.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b690-4\">The Edison General Electric Co., Respondent, <em>v. </em>Sylvester H. Kneeland, Appellant.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b690-5\">Appeal from a judgment in favor of plaintiff.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b690-6\"><em>A. </em>Prentice, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b690-7\"><em>Charles 0. Brewster, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b690-8\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"Acz\">Judgment appealed from affirmed, with costs.</p>\n<p id=\"b690-9\">Present: Newbubger, Oonlan and Fitzsimons, JJ.</p>\n<p id=\"AhV\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

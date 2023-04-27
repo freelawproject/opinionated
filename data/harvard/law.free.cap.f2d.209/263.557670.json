@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"263\" lastpage=\"263\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AaR5\">Hilary WHITE, Jr., v. Clyde WHITTIER et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AaQ\">No. 4718</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"Ay5\">United States Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"API\">Dec. 7, 1953.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A7e\">Raphael J. Moses, Alamosa, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"asc-dedup-0\">No appearance for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AUK\">Before PHILLIPS, Chief Judge, and BRATTON and PICKETT, Circuit ^uc^es'</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AFh\">____ ___ PER CURIAM.</author>\n<p id=\"Ad7z\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

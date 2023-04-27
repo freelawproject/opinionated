@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"17\" lastpage=\"17\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b25-2\">CONSTITUTIONAL COURT,</court>\n<p data-order=\"1\" data-type=\"court\" id=\"AB3\">COLUMBIA,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AA8\">DEC. 1796.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Am\">Lusk <em>v. </em>Miles.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b25-7\">Motion to set aside the verdict on a writ of inquiry, on the ground, that it appeared, by a certificate of the clerk, that proceedings in the cause had not been made up in writing when the inquiry was Executed.</p>\n<p id=\"b25-8\">Verdict set aside, with costs!'</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"605\" lastpage=\"605\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b637-5\" pgmap=\"637\">Charles F. Morgan, appellee, v. New York Central Railway, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ACD\" pgmap=\"637\">Gen. No. 30,484.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AfE\" pgmap=\"637\">Thomson, J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGU\" pgmap=\"637\">Opinion filed October 13, 1926.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b637-7\" pgmap=\"637\">Glennon, Cary, Walker &amp; Murray, for appellant; Sidney C. Murray and Marvin A. Jersild, of counsel. E. Leslie Cole and Charles C. Spencer, for appellee.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b637-8\" pgmap=\"637\">Mr. Justice O\u2019Connor'</author> <p id=\"AGI\" pgmap=\"637\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

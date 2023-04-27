@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"611\" lastpage=\"611\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b641-7\" pgmap=\"641\">Frederick Partie, appellee, v. Chicago Railways Company et al., appellants.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"As3\" pgmap=\"641\">Gen. No. 27,238.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AioT\" pgmap=\"641\">Thomson, P. J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"An4\" pgmap=\"641\">Opinion filed November 29, 1922.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b641-9\" pgmap=\"641\">Charles Le Roy Brown, for appellants; John R. Guilliams, Frank L. Kriete and Warner H. Robinson, of counsel. Charles C. Spencer, for appellee.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b641-10\" pgmap=\"641\">Mr. Justice O\u2019Connor</author> <p id=\"A3QL\" pgmap=\"641\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}
