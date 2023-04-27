@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"556\" lastpage=\"556\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b588-21\">M. I. ANGLIN and SARAH A. ANGLIN v. THEODORE KARES</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b588-22\">31 So. (2nd) 64</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AHO\">June Term, 1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b588-23\">July 15, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AKS\">Special Division A</court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b588-24\">Rehearing denied July 30, 1947</otherdate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b588-25\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

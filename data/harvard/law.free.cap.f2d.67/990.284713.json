@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"990\" lastpage=\"990\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1028-41\">DIANA MFG. CO. v. INTERNATIONAL CELLUCOTTON PRODUCTS COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1028-43\">No. 5112.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1028-44\">Circuit Court of Appeals, Seventh Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1028-45\">Dec. 6, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1028-47\">C. A. Soans, of Chicago, Ill., for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1028-48\">Before ALSCHULER, SPARKS, and FITZHENRY, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1028-49\">PER CURIAM.</author>\n<p id=\"b1028-50\">On stipulation of counsel, it is now here ordered, adjudged, and decreed that this cause be docketed in this court, and that this appeal be, and the same is hereby, dismissed; any costs in the Court of Appeals in connection therewith to be paid by appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

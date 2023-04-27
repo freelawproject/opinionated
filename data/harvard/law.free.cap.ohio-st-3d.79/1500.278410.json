@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1500\" lastpage=\"1500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AW5o\">\n<em>Friday, September 12, 1997</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"An_s\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Aaip\">97-1101.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A0fg\">In re Appeal of Citywide Ambulance Serv., Inc. v. Ohio Dept. of Human Serv.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ANN3\">Franklin App. No. 96APE08-1119. This cause is pending before the court as a discretionary appeal. Upon consideration of the joint motion for extension of stay pending execution of settlement agreement,</p>\n<p id=\"A4ym\">IT IS ORDERED by the court that the motion for extension of stay pending execution of settlement agreement be, and hereby is, granted, for an additional ten days from the date of this entry.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

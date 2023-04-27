@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"143\" lastpage=\"143\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b191-12\">GARFINKLE <em>v. </em>GARFINKLE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b191-14\">No. 799,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AcfD\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ASU\">Decided May 31, 1960.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b191-17\">Per Curiam.</author>\n<p id=\"b191-18\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

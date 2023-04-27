@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1006\" lastpage=\"1007\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Am5v\">Amos T. HALL, Petitioner, v. UNITED STATES of America, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A-Qh\">No. 1026.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"agt-dedup-0\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AKcu\">Jan. 26, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AkXc\">Prank Hickman, of Tulsa, Okl., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"atp-dedup-1\">C. E. Bailey, U. S. Atty., of Tulsa, Okl.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"A_f0\"><page-number citation-index=\"1\" label=\"1007\">*1007</page-number>Before LEWIS and BRATTON, Circuit Judges, and KENNEDY, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ack-dedup-0\">PER CURIAM.</author>\n<p id=\"aqr-dedup-2\">Motion denied and petition dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

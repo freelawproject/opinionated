@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"436\" lastpage=\"437\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b640-17\">The State ex rel. Strothers, Appellant, <em>v. </em>Gorden, Mayor, Appellee.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"AYM\">[Cite as <em>State ex rel. Strothers v. Gorden </em>(1998), 83 Ohio St.3d 436.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b641-4\"><page-number citation-index=\"1\" label=\"437\">*437</page-number>(No. 98-1208</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Aiv3\">Submitted August 19, 1998</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AM93\">Decided October 28, 1998.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b641-6\">\n<em>Gerald O. Strothers, Jr. ', pro se.</em>\n</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b641-7\">The judgment of the court of appeals is affirmed.</p>\n<judges id=\"b641-8\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

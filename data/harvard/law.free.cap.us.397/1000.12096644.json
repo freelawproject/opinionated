@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1026-10\">No. 1502,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AKY2\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AZXu\">Cerullo <em>v. </em>Follette, Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AEkC\"><em>Louis J. Lejkowitz, </em>Attorney-General of New York, <em>Samuel A. Hirshowitz, </em>First Assistant Attorney General, and <em>Amy Juviler, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUEy\">C. A. 2d Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

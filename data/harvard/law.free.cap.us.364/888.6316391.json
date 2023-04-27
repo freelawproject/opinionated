@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b826-17\">No. -.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ADeb\">Goldsby <em>v. </em>Mississippi.</parties>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"A6D-\"><em>George N. Leighton </em>for petitioner. <em>Joe T. Patterson, </em>Attorney General of Mississippi, and <em>G. Garland Lyell, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXxu\">The application, as amended, for a stay of execution of the death sentence is granted, pending the timely filing and disposition of a petition for writ of certiorari.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

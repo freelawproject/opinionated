@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"916\" lastpage=\"916\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b902-3\">February 28, 1949.</decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b902-4\">\n<em>Per Curiam Decision.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b902-5\">No. 118.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AoH-\">Petti <em>v. </em>United States.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ALl\"><em>Edward Halle </em>for petitioner. <em>Solicitor General Perlman </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A1ZV\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AkE4\">The Government having moved the Court to vacate the judgments and remand the case to the District Court for a new trial, the motion is granted, and the judgments of the Court of Appeals and the District Court are vacated and the case is remanded to the United States District Court for the Southern District of New York with directions to grant a new trial.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

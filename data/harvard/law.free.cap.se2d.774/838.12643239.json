@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"838\" lastpage=\"838\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  VAUGHAN\n  <br/>\n  v.\n  <br/>\n  DARE &amp; CURRITUCK DSS, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 272P15-1.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 6, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Susan Vaughan, Kill Devil Hills, for Susan Vaughan.\n </attorneys>\n <attorneys id=\"p-6\">\n  Courtney S. Hull, for Kathlyn Romm, Samantha Hurd, Kristen Harris, Currituck DSS.\n </attorneys>\n <attorneys id=\"p-7\">\n  Christen DeGabrielle Simmons, Assistant District Attorney.\n </attorneys>\n <judges id=\"p-8\">\n  Daniel Donahue.\n </judges>\n <p id=\"p-9\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-10\">\n   The following order has been entered on the motion filed on the 5th of August 2015 by Petitioner for Temporary Stay:\n  </p>\n  <blockquote id=\"p-11\">\n   \"Motion Denied by order of the Court in conference, this the 6th of August 2015.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

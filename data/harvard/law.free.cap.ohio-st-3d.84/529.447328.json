@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"529\" lastpage=\"529\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b655-4\">The State of Ohio, Appellant, <em>v. </em>Price, Appellee.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b655-5\">[Cite as <em>State v. Price </em>(1999), 84 Ohio St.3d 529.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b655-7\">(No. 98-1973</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AhR\">Submitted January 12, 1999</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AEfL\">Decided March 3, 1999.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b655-8\"><em>James J. Mayer, Jr., </em>Richland County Prosecuting Attorney, and <em>Sheryl M. Groff, </em>Assistant Prosecuting Attorney, for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b655-10\">The judgment of the court of appeals is reversed on the authority of <em>State v. Rush </em>(1998), 83 Ohio St.3d 53, 697 N.E.2d 634.</p>\n<judges id=\"b655-11\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

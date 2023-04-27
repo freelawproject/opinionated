@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"603\" lastpage=\"604\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b621-15\">JONES <em>v. </em>WARDEN OF MARYLAND PENITENTIARY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b621-16\">[P. C. No. 44,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AG2\">September Term, 1959.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b621-17\">\n<em>Decided December 21, 1959.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b621-20\">Before Brune, C. J., and Henderson, Hammond, Prescott and Horney, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b622-5\"><page-number citation-index=\"1\" label=\"604\">*604</page-number>PER Curiam.</author>\n<p id=\"b622-6\">For the reasons stated in the opinion of Judge Warnken of the court below, this application for leave to appeal under the Uniform Post Conviction Procedure Act is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

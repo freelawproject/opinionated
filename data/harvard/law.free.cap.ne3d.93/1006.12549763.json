@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1006\" lastpage=\"1006\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE J.F.\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0384\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  March 15, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Upon review, it appears that this cause involves termination of parental rights. Sua sponte, this cause shall proceed according to the Rules of Practice of the Supreme Court of Ohio that pertain to cases involving termination of parental rights. Appellee's memorandum in response shall be filed no later than 20 days from this date.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

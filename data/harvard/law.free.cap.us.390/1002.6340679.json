@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1002\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1034-7\">No. 890,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A3T3\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AITZ\">Kaufman <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AnqI\"><em>Solicitor General Griswold </em>for the United States.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgQm\">C. A. 8th Cir. Motion for leave to proceed <em>in forma pauperis </em>granted. Certiorari granted and case transferred to appellate docket.</p>\n<judges id=\"AlSs\">Mr. Justice Marshall took no part in the consideration or decision of this motion and petition.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

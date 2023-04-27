@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1002\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1028-6\">No. 589,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AMa1\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AK_j\">Trammell <em>v. </em>New York.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aum9\"><em>Burton B. Roberts </em>and <em>Daniel J. Sullivan </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Anqk\">Ct. App. N. Y. Certiorari denied.</p>\n<judges id=\"AJU3\">Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

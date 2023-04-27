@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1031-13\">No. 971,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A0jG\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AUU\">Comley <em>v. </em>United States,</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7Hd\"><em>ante, </em>p. 973.</p>\n<p id=\"AeyD\">Petition for rehearing denied.</p>\n<judges id=\"AoWP\">Mr. Justice Marshall took no part in the consideration or decision of this petition.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

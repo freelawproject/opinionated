@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1076-5\">LAND OWNERS ASSOCIATION et al. v. GRAND RAPIDS TRUST COMPANY et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1076-7\">No. 8370.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1076-8\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1076-9\">Jan. 18, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1076-11\">Charles S. Abbott, of Ann Arbor, Mich., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1076-12\">Norris, McPherson, Harrington &amp; Waer and Travis, Merrick' &amp; Johnson, all of Grand Rapids, Mich., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1076-13\">Before HICKS and SIMONS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1076-14\">PER CURIAM.</author>\n<p id=\"b1076-15\">It is ordered that the appeal herein be and the same is dismissed, pursuant to stipulation of counsel.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1201\" lastpage=\"1201\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b801-9\">In re Resignation of Linder.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b801-10\">[Cite as <em>In re Resignation of Linder </em>(1994), 70 Ohio St.3d 1201.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A9H-\">(No. 94-1314</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ABqy\">Submitted July 27, 1994</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ajyg\">Decided July 29, 1994.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b801-12\">The resignation of Robert Alan Linder of Batavia, Ohio, as an attorney, Registration No. 0031794, is accepted.</p>\n<judges id=\"b801-13\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

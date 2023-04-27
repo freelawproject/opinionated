@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"802\" lastpage=\"802\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b740-6\">September 1, 1960. </decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b740-7\">No. 336,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AJLo\">October Term, 1960.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AytA\">Uphaus <em>v. </em>Wyman, Attorney General of New Hampshire.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aotj\"><em>Louis Lusky, Marvin H. Morse, Grenville Clark, Dudley W. Orr, Royal W. France, Hugh H. Bownes </em>and <em>Leonard B. Boudin </em>for appellant. <em>Louis C. Wyman, </em>Attorney General of New Hampshire, for appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOA7\">Appeal from the Supreme Court of New Hampshire. The application for bail presented to Mr. Justice Douglas, and by him referred to the Court, is denied.</p>\n<judges id=\"AWJO\">The Chief Justice, Mr. Justice Black, and Mr. Justice Douglas are of the opinion the application should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

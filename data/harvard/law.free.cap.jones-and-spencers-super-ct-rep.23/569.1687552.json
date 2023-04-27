@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"569\" lastpage=\"569\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b585-7\">In the Matter of The Application of Henry Jacoby.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b585-8\">Decided March 6, 1888.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AqD\">Appeal by Henry Jacoby from an order denying his application for an order of alternative mandamus.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Amk\">Henry B. B. Staples, for appellant. Boeder &amp; Bernard, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Al3\">Before Sedgwick, Ch. J., and Truax, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ATu\">Per Curiam.</author>\n<p id=\"AFC\">Order affirmed without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

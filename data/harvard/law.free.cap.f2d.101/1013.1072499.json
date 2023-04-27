@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1069-39\">In the Matter of Henry MILLER, Bankrupt.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Au_\">No. 211.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1069-40\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A5Eu\">Feb. 6, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1069-42\">Michael E. Rosenstein, of New York City, for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1069-43\">Harry Loeb Mostow, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1069-44\">Before L. HAND, SWAN, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1069-45\">PER CURIAM.</author>\n<p id=\"b1069-46\">Orders affirmed on authority of In re Fishel, 2 Cir., 198 F. 464, and In re Prince, 2 Cir., 89 F.2d 681, 684.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

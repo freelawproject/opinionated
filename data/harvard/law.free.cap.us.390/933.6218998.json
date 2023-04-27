@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b965-6\">No. 29,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AaT\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AyuP\">Texas et al. <em>v. </em>Colorado.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"APt7\"><em>Crawford C. Martin, </em>Attorney General, for the State of Texas, and <em>Boston E. Witt, </em>Attorney General, for the State of New Mexico, plaintiffs. [For earlier orders herein, see, <em>e. g., </em>389 U. S. 1000.]</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQRf\">Request of Texas and New Mexico for leave to reply to counterclaim and to otherwise plead granted.</p>\n<judges id=\"An1s\">Mr. Justice Marshall took no part in the consideration or decision of this request.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

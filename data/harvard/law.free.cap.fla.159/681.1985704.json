@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"681\" lastpage=\"681\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b713-4\">JOHN R. VANCE v. ANN CLARK VANCE WHITE</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b713-5\">32 So. (2nd) 606</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"b713-6\">June Term, 1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A4Un\">November 18, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AF84\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b713-8\"><em>Rush &amp; Pierce, George A. Pierce </em>and <em>Victor Blue, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b713-9\"><em>Knight, Knight, Walrath &amp; Pegues </em>and <em>Harry G. Kinkaid, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b713-10\">PER CURIAM:</author>\n<p id=\"b713-11\">Affirmed on authority of our opinion and judgment of Vance v. Vance, 143 Fla. 513, 197 So. 128.</p>\n<p id=\"b713-12\">So ordered.</p>\n<judges id=\"b713-13\">THOMAS, C. J., BUFORD, ADAMS and BARNS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

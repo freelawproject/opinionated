@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1500\" lastpage=\"1500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b780-23\">\n<em>Tuesday, December 24, 1996</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b780-24\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b780-25\">96-2258.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AC46\">State ex rel. Druggan v. Indus. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b780-26\">In Mandamus. On motion for peremptory or alternative writ, motion to expedite, and request for oral argument. Request for oral argument denied and alternative writ granted.</p>\n<judges id=\"b780-27\">Moyer, C.J., Cook and Stratton, JJ., dissent and would dismiss the cause.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"604\" lastpage=\"604\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b242-3\">Office of Disciplinary Counsel <em>v. </em>King.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b242-4\">[Cite as Disciplinary Counsel <em>v. </em>King (1989), 46 Ohio St. 3d 604.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b242-5\">(No. D.D. 87-26</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AmQ\">\u2014 Submitted October 11, 1989 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Asb\">Decided November 1, 1989.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b242-7\">The application for reinstatement to the practice of law is granted. Stephen Warren King is reinstated to the practice of law in the state of Ohio.</p>\n<p id=\"b242-9\">(For earlier case, see [1988], 37 Ohio St. 3d 77, 523 N.E. 2d 857.)</p>\n<judges id=\"AYZ\">Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur,</judges>\n<judges id=\"b242-8\">Moyer, C.J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

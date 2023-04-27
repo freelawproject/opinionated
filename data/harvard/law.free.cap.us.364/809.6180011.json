@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b747-6\">No. 107,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A1M\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AFf\">Gilbrech <em>v. </em>United States; Gagliasso <em>v. </em>United States Court of</parties>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Anf\">Appeals for the Ninth Circuit et al.; and Lawyer <em>v. </em>United States Civil Service Commission et al.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"b747-7\">No. 279,</docketnumber>\n<p data-order=\"5\" data-type=\"misc\" id=\"An_\">Misc.</p>\n<docketnumber data-order=\"6\" data-type=\"docketnumber\" id=\"b747-8\">No. 282,</docketnumber>\n<p data-order=\"7\" data-type=\"misc\" id=\"AA-\">Misc.</p>\n<attorneys data-order=\"8\" data-type=\"attorneys\" id=\"Azi\">Petitioners <em>pro se. Solicitor General Rankin </em>for the United States in No. 107, Mise.</attorneys>\n<opinion data-order=\"9\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Anj\">Motions for leave to file petitions for writs of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

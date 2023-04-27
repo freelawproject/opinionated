@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"422\" lastpage=\"422\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b444-6\">JEFF MEAD v. STATE OF FLORIDA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b444-7\">26 So. (2nd) 336</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"A0k\">January Term, 1946</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b444-8\">May 17, 1946</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A6h\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b444-10\"><em>B. L. Solomon, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b444-11\"><em>J. Tom Watson, </em>Attorney General, and <em>Reeves Bowen, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b444-12\">PER CURIAM:</author>\n<p id=\"b444-13\">This appeal is from a conviction of an assault with intent to commit rape. The judgment is affirmed.</p>\n<judges id=\"b444-14\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

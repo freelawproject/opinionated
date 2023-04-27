@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"635\" lastpage=\"635\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b705-6\">No. 10,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AvqU\">original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AFca\">Texas <em>v. </em>New Mexico et al.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGFi\">April 1, 1940.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXd\">The motion of the complainant to apply funds in the registry of the Court to reimburse El Paso County Water Improvement District No. 1 for costs advanced by said District is denied, and the amount remaining in the registry , of the Court is directed to be paid to the Attorney General of the State for such disposition as the State may require.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

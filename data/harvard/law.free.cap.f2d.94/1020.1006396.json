@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1068-28\">UNITED STATES of America, Appellee, v. Nathan COSMAN, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1068-29\">No. 175.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1068-30\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AkK\">Jan. 10, 1938.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1068-33\">Myron G. Ehrlich, of Washington, D. C., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1068-34\">Curtis C. Shears, of New York City, for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1068-35\">Before L. HAND, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1068-36\">PER CURIAM.</author>\n<p id=\"b1068-37\">Order affirmed on authority of United States v. Greenhaus, 85 F.2d 116, 107 A.L.R. 630, certiorari denied 299 U.S. 596, 57 S.Ct. 192, 81 L.Ed. 439.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

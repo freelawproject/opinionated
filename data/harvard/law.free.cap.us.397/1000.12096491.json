@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1026-6\">No. 1484,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AyMV\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AJK6\">Stewart <em>v. </em>Chicago Housing Authority.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AgrL\"><em>Marshall Patner </em>for petitioner. <em>Henry F. Jankowicz </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARmp\">Sup. Ct. Ill. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

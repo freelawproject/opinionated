@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"603\" lastpage=\"603\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b241-9\">In re Resignation of Gall.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b241-10\">[Cite as In re Resignation of Gall (1989), 46 Ohio St. 3d 603.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b241-11\">(No. 89-1709</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A7M\">\u2014 Submitted October 11, 1989 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AXk\">Decided November 1, 1989.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b241-12\">The resignation of John W. Gall as an attorney is accepted.</p>\n<judges id=\"ARB\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

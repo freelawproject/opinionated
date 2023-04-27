@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"106\" lastpage=\"106\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b164-20\">Luther MARTIN v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b164-21\">No. 3279.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b164-22\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Anq\">Dec. 28, 1945.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b164-24\">Laynie W. Harrod, of Oklahoma City, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b164-25\">John Brett, Asst. U. S. Atty., of Oklahoma City, Old., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b164-26\">Before PHILLIPS, Circuit Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b164-27\">PER CURIAM.</author>\n<p id=\"b164-28\">Docketed and dismissed on motion of ap-pellee and stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

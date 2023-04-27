@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"940\" lastpage=\"940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b848-6\">No. 234,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ATmt\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AHS\">Jackson <em>v. </em>Taylor, Acting Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AmW5\"><em>Albert A. Carretta </em>for petitioner. <em>Solicitor General </em>Rankin, <em>Assistant Attorney General Olney, Beatrice Rosenberg </em>and <em>Carl H. Imlay </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Afff\">Motion for leave to proceed <em>in forma pauperis </em>granted. Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit granted limited to the gross sentence question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

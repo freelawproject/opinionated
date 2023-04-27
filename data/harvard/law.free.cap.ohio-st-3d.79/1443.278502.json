@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1443\" lastpage=\"1443\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"ALy\">\n<em>Wednesday, July 2, 1997</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AGo9\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Avfl\">96-2836.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A8L\">State ex rel. Tribble v. Turjanica.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AuU\">Franklin App. No. 96APD06-797. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"Akp\">Moyer, C.J., Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n<judges id=\"ATSS\">Douglas and Lundberg Stratton, JJ., would deny the motion to dismiss.</judges>\n<judges id=\"Ayq\">On motion to expedite oral argument. Motion denied.</judges>\n<judges id=\"AouO\">Lundberg Stratton, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

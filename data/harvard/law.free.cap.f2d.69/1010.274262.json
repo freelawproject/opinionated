@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A1I8\">MADRID SUPPLY COMPANY v. Guy T. HELVERING, Commissioner of Internal Revenue.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aae-dedup-2\">No. 1058.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"A25k\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aslf\">March 21, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A7L9\">Hodges, Wilson &amp; Rogers, of Denver, Colo., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ABG_\">Robert H. Jackson, Gen. Counsel, Bureau of Internal Revenue, of Washington, D. G., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"A9f6\">Before LEWIS, PHILLIPS, and McDERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AK9y\">PER CURIAM.</author>\n<p id=\"a5l-dedup-0\">Petition dismissed on motion of petitioner.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

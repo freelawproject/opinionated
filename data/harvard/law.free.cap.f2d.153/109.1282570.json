@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"109\" lastpage=\"109\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b163-3\">Pres COCHRANE, Appellant, v. S. J. HOOPER, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b163-5\">No. 11365.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b163-6\">Circuit Court <em>of </em>Appeals, Fifth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A__\">Feb. 6, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b163-8\">T. Harvey Hedgepeth and Raymond W. Miller, both of Jackson, Miss., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b163-9\">W. Calvin Wells and W. R. Newman, both of Jackson, Miss., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b163-10\">Before McCORD and LEE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b163-11\">PER CURIAM.</author>\n<p id=\"b163-12\">The judgment appeal from is affirmed on the authority of Hamilton v. Morrison, 5 Cir., 146 F.2d 533, and Welsh v. Williams, 85 Miss. 301, 37 So. 561.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

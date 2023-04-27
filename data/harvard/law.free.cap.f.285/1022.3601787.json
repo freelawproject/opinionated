@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1058-7\">VAN OPSTAL v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AHo\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A8Q\">January 20, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"APNm\">No. 3873.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AqEq\">John R. Hunter, of Alexandria, La. (John R. Hunter and Gus A. Voltz, both of Alexandria, La., on the brief), for plaintiff in error. Philip H. Mecom, U. S. Atty., and Aubrey M. Pyburn, Asst. U. S. Atty., both \u00aef Shreveport, La.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Ax0\">Before WALKER, BRYAN, and KING, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1058-8\">PER CURIAM.</author>\n<p id=\"AqI0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

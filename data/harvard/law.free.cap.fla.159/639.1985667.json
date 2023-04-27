@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"639\" lastpage=\"639\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b671-8\">HAROLD FRIER AND MRS. JIM HOLDER v. STATE OF FLORIDA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b671-9\">32 So. (2nd) 431</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AT1O\">June Term, 1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b671-10\">November 4, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AbT9\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b671-12\"><em>B. </em>L. <em>Solomon, </em>for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b671-13\"><em>J. Tom Watson, </em>Attorney General, and <em>Reeves Bowen, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b671-14\">PER CURIAM:</author>\n<p id=\"b671-15\">Affirmed on authority of Carroll v. United States, 267 U.S. 132, 69 L. ed. 543, 45 Sup. Ct. 280, 39 A.L.R. 790.</p>\n<judges id=\"b671-16\">THOMAS, C. J., BUFORD, ADAMS and BARNS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

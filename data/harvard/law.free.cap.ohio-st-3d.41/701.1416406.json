@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"701\" lastpage=\"701\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Ayy\">Friday, January 6, 1989</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A5f\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AjL\">88-1578.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"APA\">In re Petition for a Writ of Habeas Corpus for Terry.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQR\"><em>Marion County, </em>No. 9-87-31. On motion for stay. Motion denied, effective January 3, 1989.</p>\n<judges id=\"Al\">Sweeney, J., dissents.</judges>\n<judges id=\"A3\">Resnick, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

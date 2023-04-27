@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"707\" lastpage=\"707\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AsN\">Wednesday, January 25, 1989</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Af2\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AKP\">88-1831.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A410\">Gawloski v. Dallman.</parties>\n<judges data-order=\"4\" data-type=\"judges\" id=\"A7v\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright and Resnick, JJ., concur.</judges>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AE7\">H. Brown, J.,</author>\n<p id=\"AZF\">would deny the writ of habeas corpus, but he would treat the cause as one for an action in mandamus, grant an alternative writ for the purpose of ascertaining whether respondent has complied with all applicable regulations, and set the cause for briefing.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

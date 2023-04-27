@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1011\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1058-36\">Harry BERNER v. UNITED STATES OF AMERICA.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1058-37\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1058-38\">Feb. 11, 1938.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b1058-40\">Martin A. McCormack and Maxwell J. Gruber, both of Cleveland, Ohio, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1058-41\">E. B. Freed, U. S. Atty., of Cleveland, Ohio, for the United States.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1059-3\"><page-number citation-index=\"1\" label=\"1011\">*1011</page-number>Before HICKS, SIMONS, and ALLEN, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1059-4\">PER CURIAM.</author>\n<p id=\"b1059-5\">It is ordered that the appeal in this cause be, and the same is, dismissed for want of prosecution, the costs to be charged against the government as constructive earnings.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

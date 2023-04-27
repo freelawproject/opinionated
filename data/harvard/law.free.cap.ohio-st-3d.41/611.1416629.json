@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"611\" lastpage=\"611\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b129-21\">Mahoning County Bar Association <em>v. </em>Strobel.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b129-22\">[Cite as Mahoning Cty. Bar. Assn. <em>v. </em>Strobel (1989), 41 Ohio St. 3d 611.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b129-23\">(No. D.D. 88-34</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AXW\">Submitted February 14, 1989</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aav\">Decided March 15, 1989.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b129-25\">Albert Strobel is publicly reprimanded.</p>\n<judges id=\"ASg\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

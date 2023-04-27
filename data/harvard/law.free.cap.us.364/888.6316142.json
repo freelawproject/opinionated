@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b826-15\">No. -.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AIvM\">Niukkanen et al. <em>v. </em>Turner, District Director, Immigration and Naturalization Service.</parties>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"AE8B\"><em>Neis Peterson </em>for petitioners.</attorneys>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AdS4\">The application for stay of deportation and enlargement on bail is denied.</p>\n<judges id=\"AY6T\">Mr. Justice Black and Mr. Justice Douglas are of the opinion the application should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

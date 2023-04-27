@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"610\" lastpage=\"610\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b634-8\">James Rogers, Respondent <em>v. </em>James McGay, Impleaded, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b634-9\">Decided April 15, 1889.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Ad0I\">Appeal from a judgment in favor of plaintiff.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AJj\">Hastings &amp; Southworth, for appellant. James A. Deering, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AcV\">Before Sedgwick, Ch. J., Truax and Dugro, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AjS\">This appeal involved only a question of fact. The Court held (Dugro, J., writing, Sedgwick, Ch. J., and Truax, J., concurring) \u201c that the judgment should be affirmed.\u201d</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

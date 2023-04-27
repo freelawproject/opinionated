@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"16\" lastpage=\"16\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b100-13\">LEWIS <em>v. </em>FLORIDA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b100-15\">No. 80,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AEpo\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ald\">Decided October 14, 1957.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b100-18\"><em>H. M. Rosenhouse </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b100-19\"><em>Richard W. Ervin, </em>Attorney General of Florida, and <em>David U. Tumin, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b100-20\">Per Curiam.</author>\n<p id=\"b100-21\">The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

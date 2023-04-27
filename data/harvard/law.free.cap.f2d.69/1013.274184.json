@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1041-31\">SHINSAKU NAGANO et al. v. Tony CHAN et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1041-33\">No. 5230.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1041-34\">Circuit Court of Appeals, Seventh Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1041-35\">April 25, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1041-36\">Jerone L. Svoboda and John F. Brezina, both of Chicago, Ill., for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1041-37\">Before ALSCHULER, SPARKS, and FITZHENRY, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1041-38\">PER CURIAM.</author>\n<p id=\"b1041-39\">On motion of counsel for appellee, it is now here ordered, adjudged, and decreed that this cause be docketed in this court and that this appeal be, and the same is hereby, dismissed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

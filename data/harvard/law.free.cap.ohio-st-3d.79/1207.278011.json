@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1207\" lastpage=\"1207\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b761-4\">The State of Ohio, Appellee, <em>v. </em>Dicus, Appellant.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b761-5\">[Cite as <em>State v. Dicus </em>(1997), 79 Ohio St.3d 1207.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b761-7\">(Nos. 96-615 and 96-616</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Ai6\">Submitted May 21, 1997</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A5nv\">Decided July 2, 1997.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b761-9\"><em>Steven D. Christopher, </em>for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b761-10\">The cause is dismissed, <em>sua sponte, </em>as having been improvidently allowed.</p>\n<judges id=\"b761-11\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

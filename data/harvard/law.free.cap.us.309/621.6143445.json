@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"621\" lastpage=\"621\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b691-5\">No. 2,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AlOp\">original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aae\">Wisconsin et al. <em>v. </em>Illinois et al.; Michigan et al. <em>v. </em>Illinois et al.; and New York et al. <em>v. </em>Illinois et al.</parties>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A0G4\">No. 3,</docketnumber>\n<p data-order=\"4\" data-type=\"docketnumber\" id=\"AhLF\">original.</p>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"b691-7\">No. 4,</docketnumber>\n<p data-order=\"6\" data-type=\"docketnumber\" id=\"Ae3\">original.</p>\n<decisiondate data-order=\"7\" data-type=\"decisiondate\" id=\"AAG\">January 29, 1940.</decisiondate>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_y\">A rule is ordered to issue returnable February 26 next requiring the complainants to show cause why the petition for .temporary modification of the decree should not be granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

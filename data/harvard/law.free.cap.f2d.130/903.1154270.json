@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b963-39\">Samuel OKIN, Appellant, v. SECURITIES AND EXCHANGE COMMISSION, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b963-40\">No. 86.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b963-41\">Circuit Court of Appeals, Second Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AQI\">Oct. 24, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b963-43\">Samuel Okin, pro se, of New York City.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b963-44\">John F. Davis, of New York City, for the appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b963-45\">Before L. HAND, SWAN, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b963-46\">PER CURIAM.</author>\n<p id=\"b963-47\">Order affirmed on opinion below, 46 F. Supp. 481.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

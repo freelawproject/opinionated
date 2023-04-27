@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"702\" lastpage=\"702\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AtH\">Thursday, January 12, 1989</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Azb\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AlE\">88-1906.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AK2\">Downing v. Downing.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZS\"><em>Allen County, </em>No. 1-88-43. On motion for stay. Motion denied, effective January 11, 1989.</p>\n<judges id=\"A1\">Sweeney, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

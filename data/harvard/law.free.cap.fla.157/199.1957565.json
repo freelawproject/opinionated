@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"199\" lastpage=\"200\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b221-15\">JOHN G. McKAY, et al., v. DENNIS W. SMALL, Tax Collector, et al.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"AjB\">25 So. (2nd) 498</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AdL\">January Term, 1946</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b221-16\">March 21, 1946</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A-X\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b221-18\"><em>McKay, Dixon &amp; DeJarnette, </em>for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b221-19\"><em>H. A. Rider, R. E. Kurtz </em>and <em>Thomas A. Kurtz, </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b222-3\"><page-number citation-index=\"1\" label=\"200\">*200</page-number>PER CURIAM:</author>\n<p id=\"b222-4\">Affirmed.</p>\n<judges id=\"b222-5\">CHAPMAN, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

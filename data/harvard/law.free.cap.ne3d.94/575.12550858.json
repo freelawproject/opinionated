@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"575\" lastpage=\"575\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  DANGLER.\n </parties>\n <docketnumber id=\"p-2\">\n  2017-1703\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  March 26, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On appellee's motion for appointment of counsel. Motion granted. Karin L. Coble is appointed to represent appellee, contingent upon appellee's filing an affidavit of indigence within 20 days.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

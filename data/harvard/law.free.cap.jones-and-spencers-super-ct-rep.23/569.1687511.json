@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"569\" lastpage=\"569\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b585-9\">Elizabeth Hall, Respondent <em>v. </em>Mary Sexton, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b585-10\">Decided March 6, 1888.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A2z\">Appeal by defendant from an order continuing a temporary order of injunction.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Afu\">Joseph P. Fallon, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AOl\">Francis C. Reed, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Agc\">Before Sedgwick, Ch. J., and Truax, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AmK\">Per Curiam.</author>\n<p id=\"ABg\">Order affirmed with $10 costs to abide the event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"607\" lastpage=\"607\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b631-6\">Ann Crawford, Respondent <em>v. </em>The Delaware, Lackawanna &amp; Western Railroad Company, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A77\">Decided June 20, 1888.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A2a\">Appeal by defendant from judgment entered upon a verdict in favor of the plaintiff, and from an order denying defendant\u2019s motion for a new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AKd\">Hamilton Odell, for appellant. Holmes &amp; Adams, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Aor\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AGc0\">Per Curiam.</author>\n<p id=\"AJu\">The judgment and order should be affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

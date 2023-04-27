@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  I.B.\n  <br/>\n  v.\n  <br/>\n  OLENTANGY LOCAL SCHOOL DIST. BD. OF EDN.\n </parties>\n <docketnumber id=\"p-2\">\n  2017-1160\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  March 8, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Certified Question of State Law, United States District Court, Southern District of Ohio, Eastern Division, No. 2:16-CV-837. On Cleveland Municipal School District Board of Education's motion for leave to intervene as petitioner. Motion denied.\n  </p>\n  <judges id=\"p-8\">\n   O'Donnell, Fischer, and DeGenaro, JJ., dissent.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

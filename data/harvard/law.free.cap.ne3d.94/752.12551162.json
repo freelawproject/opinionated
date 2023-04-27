@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"752\" lastpage=\"752\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE: A.L., a Child Alleged to be a Child in Need of Services,\n </parties>\n <parties id=\"p-2\">\n  L.L. (Father) and A.L. (Mother), Appellants-Respondents,\n  <br/>\n  v.\n  <br/>\n  The Indiana Department of Child Services, Appellee-Petitioner\n </parties>\n <docketnumber id=\"p-3\">\n  Court of Appeals Case No. 32A01-1706-JC-1325\n </docketnumber>\n <court id=\"p-4\">\n  Court of Appeals of Indiana.\n </court>\n <decisiondate id=\"p-5\">\n  FILED November 7, 2017\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   DISPOSITION OF CASE BY UNPUBLISHED MEMORANDUM DECISION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   <strong>\n    BAKER\n   </strong>\n   ,\n   <em>\n    J.\n   </em>\n  </author>\n  <p id=\"p-8\">\n   Affirmed.\n  </p>\n  <p id=\"p-9\">\n   BAILEY, J., Concurs.\n  </p>\n  <p id=\"p-10\">\n   ALTICE, J., Concurs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

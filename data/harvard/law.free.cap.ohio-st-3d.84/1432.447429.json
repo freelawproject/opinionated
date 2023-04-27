@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1432\" lastpage=\"1432\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A8pr\">\n<em>Wednesday, December 16, 1998</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AiD\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AZ-\">98-2131.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A0Et\">State v. Ingram.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AIHq\">Hamilton App. No. C-970687. On review of order certifying a conflict. The court determines that no conflict exists within the meaning of S.Ct.Prac.R. IV(2)(B). This cause is therefore dismissed.</p>\n<judges id=\"Aidf\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"990\" lastpage=\"990\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1022-13\">No. 1076,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AXxx\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AMG\">Johnson <em>v. </em>Minnesota.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A_db\"><em>C. Paul Jones </em>for petitioner.'</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARpA\">Sup. Ct. Minn. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

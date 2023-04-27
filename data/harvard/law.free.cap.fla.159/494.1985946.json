@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"494\" lastpage=\"494\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b526-6\">CHARLES WENRICH v. STATE OF FLORIDA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b526-7\">32 So. (2nd) 12</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aj9\">June Term, 1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b526-8\">October 3, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AX0\">Special Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b526-10\"><em>Manuel M. Glover, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b526-11\">j. <em>Tom Watson, </em>Attorney General, <em>Reeves Bowen, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b526-12\">PER CURIAM:</author>\n<p id=\"b526-13\">On authority of the opinion and judgment in Charles Wen-rich v. State of Florida (Number 7341) this day filed, the judgment in this appeal is Reversed.</p>\n<judges id=\"b526-14\">THOMAS, C. J., TERRELL, ADAMS and BARNS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

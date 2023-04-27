@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"400\" lastpage=\"400\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b460-4\">NATIONAL LABOR RELATIONS BOARD v. LAWYERS LEAD <em>&amp; </em>ZINC COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b460-5\">No. 2609.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b460-6\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A9r\">Sept. 3, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b460-8\">Ernest A. Gross, Associate Gen. Counsel, National Labor Relations Board, of Washington, D. C., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b460-9\">No appearance for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b460-10\">Before PHILLIPS, Circuit Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b460-11\">PER CURIAM.</author>\n<p id=\"b460-12\">A consent decree, enforcing the order of the Board, was entered September 3, 1942, pursuant to stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

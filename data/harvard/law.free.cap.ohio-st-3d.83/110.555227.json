@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"110\" lastpage=\"110\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b314-12\">The State of Ohio, Appellee, <em>v. </em>Merrill, Appellant.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b314-13\">[Cite as <em>State v. Merrill </em>(1998), 83 Ohio St.3d 110.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b314-15\">(No. 98-441</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ANk\">Submitted August 19, 1998</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A95\">Decided September 16, 1998.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b314-16\"><em>Wendell R. Jones, </em>for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b314-17\">The judgment of the court of appeals is affirmed on the authority of <em>State v. Rush </em>(1998), 83 Ohio St.3d 53, 697 N.E.2d 634.</p>\n<judges id=\"b314-18\">Moyer, C.J., Douglas, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n<judges id=\"b314-19\">Resnick, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

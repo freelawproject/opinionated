@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1025-5\">No. 1386,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AX5E\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A2FX\">Shakur et al. <em>v. </em>McGrath, Commissioner of Correction.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AScZ\"><em>William M. Kunstler </em>for petitioners. <em>Frank S. Hogan </em>for respondent. <em>Jack Greenberg, Michael Meltsner, </em>and <em>Elizabeth B. DuBois </em>for NAACP Legal Defense and Educational Fund, Inc., as <em>amicus curiae </em>in support of the petition.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ArG\">C. A. 2d Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

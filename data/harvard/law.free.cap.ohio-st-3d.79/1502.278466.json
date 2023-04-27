@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1502\" lastpage=\"1502\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"ARn\">\n<em>Wednesday, September 17, 1997</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A5K_\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Axm\">97-1211.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A0aF\">State ex rel. Frank R. Recker &amp; Assoc. Co., L.P.A. v. Montgomery.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUam\">In Mandamus. On motion for issuance of peremptory writ, answer of respondent, and motion for judgment on pleadings. Answer treated as motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"APXl\">Moyer, C.J., Douglas, Resniok, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n<judges id=\"AoO8\">Cook and Lundberg Stratton, JJ., would grant the motion for judgment on the pleadings and dismiss the cause.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

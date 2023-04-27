@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"756\" lastpage=\"756\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Ruben PAZMINO, Appellant-Defendant,\n  <br/>\n  v.\n  <br/>\n  2444 ACQUISITIONS, LLC, Appellee-Plaintiff.\n </parties>\n <docketnumber id=\"p-2\">\n  Court of Appeals Case No. 49A02-1701-PL-53\n </docketnumber>\n <court id=\"p-3\">\n  Court of Appeals of Indiana.\n </court>\n <decisiondate id=\"p-4\">\n  Filed November 15, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DISPOSITION OF CASE BY UNPUBLISHED MEMORANDUM DECISION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    MATHIAS\n   </strong>\n   ,\n   <em>\n    J.\n   </em>\n  </author>\n  <p id=\"p-7\">\n   Affirmed in part, reversed in part, and remanded for proceedings consistent with this opinion.\n  </p>\n  <p id=\"p-8\">\n   VAIDIK, C.J., Concurs.\n  </p>\n  <p id=\"p-9\">\n   CRONE, J., Concurs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

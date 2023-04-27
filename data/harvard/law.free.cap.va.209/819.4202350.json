@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"819\" lastpage=\"819\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b931-4\">Richmond</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b931-5\">Julia F. Boswell v. Roy H. Boswell.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b931-6\">April 28, 1969.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b931-7\">Record No. 6864.</docketnumber>\n<judges data-order=\"4\" data-type=\"judges\" id=\"b931-8\">Present, Eggleston, C.J., and Buchanan, I\u2019Anson, Carrico, Gordon and Harrison, JJ.</judges>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b931-10\"><em>Harry P. Anderson, Jr. (William Patrick Coleman; Satterfield, Haw, Anderson, Parkerson &amp; Beazley, </em>on brief), for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b931-11\"><em>R. B. Stephenson, Jr. (Stephenson, Kostel, Watson &amp; Carson, </em>on brief), for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b931-12\"><em>Decree affirmed </em>without opinion by equally divided Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

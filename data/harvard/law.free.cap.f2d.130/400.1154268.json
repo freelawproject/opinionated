@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"400\" lastpage=\"400\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b460-39\">UNITED STATES of America v. Joe L. DENNER et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b460-40\">No. 2607.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b460-41\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b460-42\">Sept. 2, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b460-44\">George H. McElroy, Asst. U. S. Atty., of Oklahoma City, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b460-45\">Mauntel &amp; Spellman, of Alva, Okl. for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b460-46\">Before PHILLIPS, Circuit Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b460-47\">PER CURIAM.</author>\n<p id=\"b460-48\">Appeal dismissed on motion of appellant and pursuant to stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1441\" lastpage=\"1441\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b721-21\">\n<em>Wednesday, November 20, 1996</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b721-22\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b721-23\">95-2051.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"APJ\">State ex rel. Smith v. McGraw-Edison Co.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b721-24\">In Mandamus. On motion to dismiss of McGraw-Edison Company. Motion granted and cause dismissed.</p>\n<judges id=\"b721-25\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

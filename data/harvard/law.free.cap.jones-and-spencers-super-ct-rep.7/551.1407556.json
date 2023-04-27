@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"551\" lastpage=\"551\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b559-7\">JOHN HOGAN, Plaintiff and Appellant, <em>v. </em>WILLIAM E. LAIMBEER, Defendant and Respondent.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b559-8\">Before Monell, Ch. J., Curtis and Speir, JJ.</p>\n<summary data-order=\"2\" data-type=\"summary\" id=\"b559-9\">The only point involved in the appeal was whether the verdict was correct on the evidence.</summary>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b559-10\">The court held it was, and affirmed the judgment.</summary>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b559-11\"><em>Heard April, </em>1875;</otherdate>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"A6Hq\"><em>Decided May </em>3, 1875.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b559-12\">Speir, J.,</author>\n<p id=\"AFs\">wrote for affirmance.</p>\n<p id=\"b559-13\">Monell, Ch. J., and Curtis, J., concurred.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

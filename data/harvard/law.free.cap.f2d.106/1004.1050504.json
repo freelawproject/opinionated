@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1004\" lastpage=\"1004\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1060-4\">In the matter of James R. McINTYRE, Bankrupt. UNION JOINT STOCK LAND BANK OF DETROIT, Mich., Appellant, v. James R. McINTYRE, Bankrupt, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1060-6\">No. 7082.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1060-7\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AO1\">Oct. 13, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1060-9\">Edwin B. Goldsmith, of Pittsburgh, Pa., and A. G. Masters, of Detroit, Mich., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1060-10\">Charles E. Harrington, of Kittanning, Pa., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1060-11\">Before BIGGS, MARIS, and CLARK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1060-12\">PER CURIAM.</author>\n<p id=\"b1060-13\">The order of the court below, 23 F.Supp. 342, is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

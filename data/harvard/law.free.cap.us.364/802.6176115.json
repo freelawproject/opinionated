@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"802\" lastpage=\"802\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b740-5\">No. 258,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Ai_S\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AgEq\">Jones <em>v. </em>Markway, Sheriff.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AmVt\">September 30, 1960.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATaf\">On petition for writ of certiorari to the Supreme Court of Missouri.</p>\n<p id=\"A_Wy\">Petition dismissed pursuant to Rule 60 of the Rules of this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

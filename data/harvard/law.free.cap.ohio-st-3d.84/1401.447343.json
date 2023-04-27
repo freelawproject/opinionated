@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1401\" lastpage=\"1401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"ASf\">\n<em>Tuesday, November 10,1998</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A0M\">DISCRETIONARY APPEALS ALLOWED</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AGKY\">98-1627.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"APz\">State v. Calhoun.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqH\">Lake App. No. 97-L-063.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

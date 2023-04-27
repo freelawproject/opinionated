@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"701\" lastpage=\"701\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Als\">Monday, January 9, 1989</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A7\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AY\">89-24.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AzPh\">State v. Lambros.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVq\"><em>Cuyahoga County, </em>No. 54744. This cause is pending before the court on the filing of a motion for leave to appeal from the Court of Appeals for Cuyahoga County and as an appeal as of right from said court. Upon consideration of appellant\u2019s motion for stay, IT IS ORDERED by the court that said motion be, and the same is hereby, granted, effective January 6, 1989.</p>\n<p id=\"AV\">IT IS FURTHER ORDERED by the court that execution of sentence be stayed and $5,000 bond be continued pending appeal before this court.</p>\n<judges id=\"Akg\">Holmes and Resnick, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

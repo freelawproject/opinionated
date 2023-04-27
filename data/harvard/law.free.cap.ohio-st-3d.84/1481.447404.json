@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1481\" lastpage=\"1481\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A9W3\">\n<em>Wednesday, February 3, 1999</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AG4a\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ALZ5\">97-2211.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ABGT\">Tongren v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJWx\">Public Utilities Commission, No. 95-656-GA-AIR. <em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"ANae\">Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n<judges id=\"AU0t\">Moyer, C.J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

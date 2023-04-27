@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1431\" lastpage=\"1431\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Ac9\">\n<em>Thursday, December 10, 1998</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Aok\">DISCIPLINARY DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AevZ\">98-401.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AWIX\">Toledo Bar Assn. v. Lockhart.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMbo\">On December 7, 1998, respondent filed an affidavit of compliance. The certificate of service for the affidavit of compliance does not show service upon relator, Toledo Bar Association, as required by S.Ct.Prac.R. XIV(2XA). Accordingly,</p>\n<p id=\"AFER\">IT IS ORDERED by the court, <em>sua sponte, </em>that respondent\u2019s affidavit of compliance be, and hereby is, stricken.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

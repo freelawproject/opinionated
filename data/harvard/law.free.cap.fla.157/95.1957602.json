@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"95\" lastpage=\"95\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b117-8\">FRANK E. RUTIG and BRUCE WEBSTER v. LAKE JEM LAND COMPANY, a corporation.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b117-9\">24 So. (2nd) 898</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AXE\">January Term, 1946</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b117-10\">February 15, 1946</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A73\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b117-12\"><em>Walter Warren </em>for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b117-13\"><em>W. H. Poe, Andrews, Lanin &amp; Patterson, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b117-14\">PER CURIAM:</author>\n<p id=\"b117-15\">The Court finding no reversible error, the judgment appealed from is affirmed.</p>\n<p id=\"b117-16\">It is so ordered.</p>\n<judges id=\"b117-17\">CHAPMAN, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

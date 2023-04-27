@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"569\" lastpage=\"569\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Kawamie Shonta COLE.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 378P09-2.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 15, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Catherine F. Jordan, Assistant Attorney General, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-6\">\n  Jason T. Campbell, Assistant Attorney General, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-7\">\n  Kawamie Shonta Cole, Lillington, for Cole, Kawamie Shonta.\n </attorneys>\n <attorneys id=\"p-8\">\n  Maureen Krueger, District Attorney, for State of North Carolina.\n </attorneys>\n <opinion id=\"p-9\">\n  The following order has been entered on the motion filed on the 27th of October 2015 by Defendant to Appoint Counsel:\n </opinion>\n <opinion id=\"p-10\">\n  \"Motion Dismissed as moot by order of the Court in conference, this the 15th of December 2015.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-11\">\n   JACKSON, J. recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

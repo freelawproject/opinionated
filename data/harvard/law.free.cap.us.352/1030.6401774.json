@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1030\" lastpage=\"1030\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b938-4\">No. 14,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ASdn\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AIVX\">South Carolina <em>v. </em>Georgia.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Acp5\"><em>T. C. Callison, </em>Attorney General, for the State of South Carolina, plaintiff. <em>Eugene Cook, </em>Attorney General, <em>E. Freeman Leverett, Assistant Attorney General, </em>and <em>Thomas H. Gignilliat, </em>Deputy Assistant Attorney General, for the State of Georgia, defendant.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABCK\">The motion for leave to file bill of complaint is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1401\" lastpage=\"1401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AGd\">\n<em>Thursday, November 12, 1998</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A_P\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AVLv\">98-2207.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AJ-\">In re Enforcement of Subpoena Duces Tecum Directed to Custodian of Records, Wallaby\u2019s, Inc.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AY6\">This cause is pending before the court on a motion for an order to show cause filed by movant, Ohio State Bar Association. On November 9,1998, respondent, Custodian of Records, Wallaby\u2019s, Inc., filed a response to the motion for order to show cause which was due November 2, 1998. Whereas S.Ct-Prac.R. XIV(1)(C) prohibits the filing of a document after the filing deadline has passed,</p>\n<p id=\"AM9\">IT IS ORDERED by the court, <em>sua sponte, </em>that respondent\u2019s response to the motion for order to show cause be, and hereby is stricken.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

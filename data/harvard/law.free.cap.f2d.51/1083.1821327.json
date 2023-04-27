@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1083\" lastpage=\"1083\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1107-18\">Giuseppe RADE (or Joe Rade) Appellant, v. UNITED STATES of America, Ap-pellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1107-19\">No. 6553.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1107-20\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"age-dedup-0\">Aug. 3, 1931.</decisiondate>\n<seealso data-order=\"4\" data-type=\"seealso\" id=\"b1107-22\">For opinion below, see 47 F.(2d) 912.</seealso>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1107-23\">' Before WILBUR and SAWTELLE, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1107-25\">PER CURIAM.</author>\n<p id=\"b1107-26\">Pursuant to stipulation of counsel for respective parties, ordered appeal herein dismissed; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

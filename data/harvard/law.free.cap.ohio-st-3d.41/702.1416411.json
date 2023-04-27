@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"702\" lastpage=\"702\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AIf\">Wednesday, January 18, 1989</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A9r\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Ag3\">87-1924.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AaO\">Weber v. Summit Cty. Bd. of Elections.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AhJs\"><em>Summit County, </em>No. 13351. <em>Sua sponte, </em>cause dismissed as moot.</p>\n<judges id=\"AKWH\">Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n<judges id=\"AJR\">Moyer, C.J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

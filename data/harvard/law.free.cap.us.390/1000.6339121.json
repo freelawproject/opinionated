@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1032-10\">No. 34,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A5TJ\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AuEL\">New Jersey <em>v. </em>New York et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AJre\"><em>Arthur J. Sills, </em>Attorney General of New Jersey, on the motion. <em>Louis J. Lefkowitz, </em>Attorney General, <em>Ruth Kessler Toeh, </em>Solicitor General, and <em>Julius L. Sackman </em>for the State of New York, and <em>David W. Peck </em>and <em>L. Robert Driver, Jr., </em>for Hudson Rapid Tubes Corp., defendants, in opposition.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWJM\">Motion for leave to file bill of complaint denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

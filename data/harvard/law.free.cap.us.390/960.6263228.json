@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b992-9\">No. 692,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ARkt\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AQm9\">Tobar <em>v. </em>Wisconsin.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Adm1\"><em>Bronson C. La Follette, </em>Attorney General of Wisconsin, and <em>Robert E. Sutton, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqdW\">Sup. Ct. Wis. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

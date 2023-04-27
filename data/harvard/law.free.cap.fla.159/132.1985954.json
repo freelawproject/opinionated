@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"132\" lastpage=\"132\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b164-18\">E. N. BEASLEY and wife, EVA BEASLEY, v. H. H. THOMAS</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b164-19\">30 So. (2nd) 547</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"A2Q\">Jaunary Term, 1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b164-20\">May 6, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AYr\">Special Division A</court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b164-21\">Rehearing denied May 30, 1947</otherdate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b164-22\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

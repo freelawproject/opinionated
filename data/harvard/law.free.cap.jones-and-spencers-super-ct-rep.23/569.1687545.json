@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"569\" lastpage=\"569\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b585-5\">Ephraim B. Demarest, Appellant <em>v. </em>Justus J. Smith, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b585-6\">Decided March 6, 1888.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ALNa\">Appeal from judgment. William C. Davies, for appellant.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AHr\">Theodore Dingeldein, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A_9\">Before Truax and Dugro, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AhG\">Opinion by Dugro, J.</author>\n<p id=\"A_0\">Judgment affirmed without costs if the defendants will consent to its reduction so as to be for $589.25; otherwise judgment reversed and a new trial ordered, with costs to abide the event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

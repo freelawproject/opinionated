@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1053-33\">UNITED STATES of America v. John H. FULLER, Administrator.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1053-35\">No. 994.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1053-36\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1053-37\">Nov. 18, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1053-39\">S. M. Brewster, U. S. Atty., of Topeka, Kan.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1053-40\">Roger Almond, of Wichita, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1053-41\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1053-42\">PER CURIAM.</author>\n<p id=\"b1053-43\">Appeal dismissed, on motion of appellant. .</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

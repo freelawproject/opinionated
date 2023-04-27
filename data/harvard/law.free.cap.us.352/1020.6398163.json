@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"otherdate\" id=\"b928-6\">March 4, 1957.</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b928-8\">No. 265.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AdHj\">United States <em>v. </em>American Freightways Co.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AvNx\">Argued January 23, 1957.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AQsZ\">Decided March 4, 1957.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AfUN\"><em>Ralph S. Spritzer </em>argued the cause for the United States. With him on the brief were <em>Solicitor General Rankin, Assistant Attorney General Olney, Beatrice Rosenberg </em>and <em>Judson W. Bowles. Samuel Masia </em>argued the cause for appellee. With him on the brief was <em>Martin Werner.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AzlO\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"A9dt\">The judgment is affirmed by an equally divided Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

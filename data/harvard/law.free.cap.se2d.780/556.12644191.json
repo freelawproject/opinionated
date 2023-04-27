@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"556\" lastpage=\"556\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Albert Lee STEVENSON, Jr.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 50P00-3.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 11, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Joseph L. Hyde, Assistant Attorney General, for State of N.C.\n </attorneys>\n <attorneys id=\"p-6\">\n  Albert Lee Stevenson, Jr., for Stevenson, Albert Lee Jr.\n </attorneys>\n <attorneys id=\"p-7\">\n  Brandy Cook, District Attorney, for State of N.C.\n </attorneys>\n <p id=\"p-8\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   Upon consideration of the petition filed by Defendant on the 11th of December 2015 in this matter for a writ of certiorari to review the order of the North Carolina Court of Appeals, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <blockquote id=\"p-10\">\n   \"Denied by order of the Court in conference, this the 11th of December 2015.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

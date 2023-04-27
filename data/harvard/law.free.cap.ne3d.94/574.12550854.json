@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"574\" lastpage=\"574\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  DULAY\n  <br/>\n  v.\n  <br/>\n  TESTA.\n </parties>\n <docketnumber id=\"p-2\">\n  2015-2111\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  March 23, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On joint motion to defer oral argument and return the case to mediation. Motion granted. The oral argument scheduled before a master commissioner for Tuesday, March 27, 2018, is vacated. The court refers this case to mediation under S.Ct.Prac.R. 19.01 and stays all filing deadlines for the case until further order of this court. The court will not issue any decision on the merits of this case until mediation has concluded.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

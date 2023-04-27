@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"37\" lastpage=\"37\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b121-13\">BOGART <em>v. </em>STATE BAR OF CALIFORNIA et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b121-15\">No. 806,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A4bB\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AdC\">Decided January 22, 1968.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b121-17\"><em>Peter D. Bogart, </em>appellant, <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b121-18\"><em>Homer I. Mitchell </em>and <em>F. La Mar Forshee </em>for appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b121-19\">Per Curiam.</author>\n<p id=\"b121-20\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

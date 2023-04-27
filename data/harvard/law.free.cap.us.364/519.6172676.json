@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"519\" lastpage=\"519\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b593-3\">ROBERTOY <em>v. </em>MICHIGAN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b593-5\">No. 308,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AHxk\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AA9\">Decided December 19, 1960.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b593-7\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b593-8\"><em>Paul L. Adams, </em>Attorney General of Michigan, and <em>Samuel J. Torina, </em>Solicitor General, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b593-9\">Per Curiam.</author>\n<p id=\"b593-10\">The appeal is dismissed for the reason that the judgment of the Supreme Court of Michigan, sought here to be reviewed, is based upon a nonfederal ground adequate to support it.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

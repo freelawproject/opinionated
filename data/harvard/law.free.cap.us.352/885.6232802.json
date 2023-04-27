@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"885\" lastpage=\"885\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b793-7\">No. 222,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AVvE\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AnWr\">Pugh <em>v. </em>California.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AY0u\"><em>Morris Lavine </em>for appellant.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AKl\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"APlY\">The appeal is dismissed for want of a substantial federal question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

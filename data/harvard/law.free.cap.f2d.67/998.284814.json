@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1036-9\">Nat J. HUMPHRIES v. F. G. ZERBST, Warden.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1036-10\">No. 959.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1036-11\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1036-12\">Sept. 21, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1036-14\">' Keefe O\u2019Keefe, of Leavenworth, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1036-15\">S. M. Brewster, U. S. Atty., of Topeka, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1036-16\">Before LEWIS and BRATTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1036-17\">PER CURIAM.</author>\n<p id=\"b1036-18\">Appeal dismissed, for want of merit.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

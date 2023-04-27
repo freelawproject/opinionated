@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1401\" lastpage=\"1401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b797-11\">\n<em>Wednesday, August 5, 1998</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b797-12\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b797-13\">96-2624.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AG3\">Hamilton v. Ohio Sav. Bank.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b797-14\">Cuyahoga App. No. 69757. On motion to recover costs. Motion granted only for the filing fee of $40.</p>\n<judges id=\"AqJ\">Douglas, Resnick and Pfeifer, JJ., dissent and would grant the motion in full.</judges>\n<judges id=\"b797-15\">Joseph J. Vukovich, J., of the Seventh Appellant District, sitting for F.E. Sweeney, J.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

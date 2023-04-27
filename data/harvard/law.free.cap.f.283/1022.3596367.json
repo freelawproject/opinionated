@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1042-9\">McWHORTER v. BARNES et al. In re BRYAN-BEATTY CO. et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A-5r\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AYWG\">October 6, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AAy2\">No. 3862.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"atq-dedup-1\">Stephen C. Upson, of Athens, Ga., for petitioner. Abit Nix, of Athens, Ga., for appellees.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Aq8m\">Before WALKER, BRYAN, and KING, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1042-10\">PER CURIAM.</author>\n<p id=\"AFpJ\">For reasons stated in the opinion rendered by the District Judge, we think that the ruling complained of was correct. It follows that the petition should be denied; and it is so ordered. Petition denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

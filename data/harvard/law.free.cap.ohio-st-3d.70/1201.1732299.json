@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1201\" lastpage=\"1201\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b801-4\">In re Resignation of Clauder.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b801-5\">[Cite as <em>In re Resignation of Clauder </em>(1994), 70 Ohio St.3d 1201.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AoRa\">(No. 94-1576</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ATk\">Submitted and decided July 28, 1994.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b801-7\">The resignation of Michael Arthur Clauder of Cincinnati, Ohio, as an attorney, Registration No. 0031987, is accepted.</p>\n<judges id=\"b801-8\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

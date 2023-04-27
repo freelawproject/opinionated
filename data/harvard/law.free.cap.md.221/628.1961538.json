@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"628\" lastpage=\"628\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b646-6\">SMITH <em>v. </em>WARDEN OF MARYLAND PENITENTIARY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b646-7\">[P. C. No. 63,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ae9z\">September Term, 1959.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b646-8\">\n<em>Decided January 21, 1960.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b646-11\">Before Brune, C. J., and Henderson, Hammond, Prescott and Horney, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b646-12\">Per Curiam.</author>\n<p id=\"b646-13\">For the reasons set forth in the opinion of Judge Evans in the Circuit Court for Anne Arundel County, the application for leave to appeal is denied.</p>\n<p id=\"b646-14\">\n<em>Application denied.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1467\" lastpage=\"1467\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AfZZ\">\n<em>Wednesday, January 20, 1999</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AbMf\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AJt\">98-1926.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AWF4\">State v. Toda.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8rK\">Wood App. No. WD-97-111. On review of order certifying a conflict. The court determines that no conflict exists within the meaning of S.Ct.Prac.R. IV(2)(B). This cause is therefore dismissed. See <em>State v. Cook </em>(1998), 83 Ohio St.3d 404, 700 N.E.2d 570.</p>\n<judges id=\"AiE2\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

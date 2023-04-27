@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1503\" lastpage=\"1503\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"ATin\">MOTION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AKYM\">92-2565.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AVd\">State v. Scudder.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYz\">Franklin App. No. 91AP-506. On motion to set execution date. Motion denied.</p>\n<judges id=\"AY1g\">Cook, J., would defer ruling on the motion at this time.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

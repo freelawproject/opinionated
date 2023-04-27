@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"929\" lastpage=\"929\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b915-11\">March 14, 1949.</decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b915-12\">\n<em>Per Curiam Decisions.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b915-13\">No. 514.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AcH\">County of Los Angeles <em>v. </em>Southern California Telephone Co.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AIT9\"><em>Harold W. Kennedy </em>for appellant. <em>Oscar Lawler </em>and <em>Francis N. Marshall </em>for appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Anm\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"Ap_G\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

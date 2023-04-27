@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1413\" lastpage=\"1413\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A4U\">\n<em>Wednesday, June 11, 1997</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A8O\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AM0\">94-1143.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A6pq\">State v. Robinette.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AI_\">Montgomery App. No. 14074. The cause is pending in this court on remand from the Supreme Court of the United States.</p>\n<p id=\"AqH\">IT IS ORDERED by the court, <em>sua sponte, </em>that the Clerk shall issue an order for the transmittal of the record from the Court of Appeals for Montgomery County.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

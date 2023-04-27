@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"AHdb\">No. 850,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AM0\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A4e8\">Wilson <em>v. </em>Georgia.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AHH0\"><em>Howard Moore, Jr., </em>for petitioner. <em>Lewis R. Slaton, J. Walter LeCraw </em>and <em>J. Robert Sparks for </em>respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aq1t\">Sup. Ct. Ga. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

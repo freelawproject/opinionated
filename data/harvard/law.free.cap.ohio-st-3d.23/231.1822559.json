@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"231\" lastpage=\"231\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b257-3\">The State of Ohio, Appellant, <em>v. </em>Berry, Appellee.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b257-4\">[Cite as State <em>v. </em>Berry (1986), 23 Ohio St. 3d 231.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b257-6\">(No. 85-1186</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AgC\">Decided May 7, 1986.)</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b257-8\"><em>Jim Slagle, </em>prosecuting attorney, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b257-9\"><em>Wiedemann &amp; Taube </em>and <em>Donald H. Taube, </em>for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b257-10\">This cause oh appeal from the court of appeals (case No. 9-84-10) is reversed on authority of <em>State </em>v. <em>Rohdes </em>(1986), 23 Ohio St. 3d 225, decided this date.</p>\n<judges id=\"b257-11\">Celebrezze, C.J., Sweeney, Locher, Holmes, C. Brown, Douglas and Wright, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

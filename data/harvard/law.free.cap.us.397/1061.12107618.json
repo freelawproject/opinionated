@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1061\" lastpage=\"1061\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1087-7\">No. 1985,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ALm1\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AcqO\">Cowles Communications, Inc. <em>v. </em>Alioto et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AIIn\"><em>Charles W. Ken-ady, R. Barry Churton, Ronald S. Diana, </em>and <em>William G. Hundley </em>on the motion.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A11-\">C. A. 9th Cir. and D. C. N. D. Cal. Motion for leave to file petitions for writs of certiorari denied.</p>\n<judges id=\"ATYk\">Mr. Justice Douglas took no part in the consideration or decision of this motion</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

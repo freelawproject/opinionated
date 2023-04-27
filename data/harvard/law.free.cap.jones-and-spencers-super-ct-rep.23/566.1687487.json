@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"566\" lastpage=\"566\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b582-10\">Jacob B. Tallman, Appellant <em>v. </em>John H. Murphy, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b582-11\">Decided December 5, 1887.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Af-\">Appeal from judgment in favor of defendant upon verdict for him.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Amh\">James M. Smith, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A2o\">Theodore F. Sanxay, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A5i\">Before Sedgwick, Ch. J., Freedman and Truax, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AhPH\">Per Curiam.</author>\n<p id=\"A-3\">Judgment affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

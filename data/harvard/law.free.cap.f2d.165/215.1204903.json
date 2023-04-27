@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"215\" lastpage=\"215\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b269-9\">Ray MEADORS v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b269-29\">No. 3601.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b269-30\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ABb\">Dec. 16, 1947.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b269-32\">Woodford, Skinner &amp; Ballinger, of Holdenville, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b269-33\">Cleon A. Summers, U. S. Atty., and J. W. Crawford, Asst. U. S. Atty., both of Muskogee, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b269-34\">Before PHILLIPS, Circuit Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b269-35\">PER CURIAM.</author>\n<p id=\"b269-36\">Judgment of the district court, 70 F.Supp. 800, reversed and cause remanded per stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

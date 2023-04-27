@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1067-21\">Louis RAPPAPORT v. UNITED STATES of America.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1067-22\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AG-\">Feb. 11, 1938.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b1067-24\">George S. Fitzgerald, of Detroit, Mich., for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1067-25\">John <em>C. </em>Lehr, U. S. Atty., ,of Detroit, Mich., for the United States.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1067-26\">Before HICKS, SIMONS, and ALLEN, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1067-27\">PER CURIAM.</author>\n<p id=\"b1067-28\">It is ordered that the appeal in this cause be, and the same is, dismissed for want of prosecution, the costs to be charged against the government as constructive earnings.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

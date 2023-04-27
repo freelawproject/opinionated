@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b119-10\">Cleveland Bar Association <em>v. </em>Clower.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b119-11\">[Cite as Cleveland Bar Assn. <em>v. </em>Clower (1989), 41 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b119-12\">(No. D.D. 88-28</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AJB\">Submitted January 11, 1989</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Akb\">Decided February 8, 1989.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b119-15\">James K. Clower is publicly reprimanded.</p>\n<judges id=\"Ago\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

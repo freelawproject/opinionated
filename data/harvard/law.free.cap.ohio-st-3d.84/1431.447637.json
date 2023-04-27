@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1431\" lastpage=\"1431\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AmQx\">\n<em>Monday, December 14, 1998</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AoI-\">DISCIPLINARY DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AlBE\">98-1758.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ALp\">Disciplinary Counsel v. Fish.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7Z\">Upon consideration of respondent\u2019s motion to withdraw objections,</p>\n<p id=\"AFM\">IT IS ORDERED by the court that the motion to withdraw objections be, and hereby is, granted.</p>\n<p id=\"Aci2\">IT IS FURTHER ORDERED by the court, <em>sua sponte, </em>that oral argument currently scheduled for December 16,1998, be canceled.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1080-27\">James I. D. STRAUS, as Trustee, Appellant, v. CINDERELLA THEATRE COMPANY, Inc., Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1080-28\">No. 8145.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1080-29\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AD7v\">Jan. 17, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1080-31\">George E. Brand, of Detroit, Mich., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1080-32\">Ralph E. Routier, of Detroit, Mich., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1080-33\">Before HICKS and SIMONS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1080-34\">PER CURIAM.</author>\n<p id=\"b1080-35\">It is ordered that the appeal herein be and the same is dismissed without costs, pursuant to stipulation of counsel.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

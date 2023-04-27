@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1055-10\">DOLLFUS MIEG &amp; CIE v. RICHARDSON SILK CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A_4\">(Circuit Court of Appeals. Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ava\">December 18, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AHmm\">No. 68.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ASU\">Curie, Lane &amp; Maxwell, James L. Steuart, and James H. Griffin, all of New York City, for appellant. Putney, <page-number citation-index=\"1\" label=\"1020\">*1020</page-number>Twombly <em>&amp; </em>Putney and John D. Morgan, all of New York City, for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A5O\">Before ROGERS, HOUGH, and MANTON, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1056-4\">PER CURIAM.</author>\n<p id=\"AtxG\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

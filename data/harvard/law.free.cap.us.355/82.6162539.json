@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"82\" lastpage=\"82\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b166-5\">IN RE LATIMER.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b166-7\">No. 147,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AJV1\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Avx\">Decided November 25, 1957.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b166-10\"><em>John L. Kilcullen </em>for petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b166-11\">Per Curiam.</author>\n<p id=\"b166-12\">The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

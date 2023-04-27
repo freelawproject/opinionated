@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"943\" lastpage=\"943\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1003-32\">UNITED STATES of America v. Roscoe Simpson WELSH.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1003-33\">No. 2629.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1003-34\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1003-35\">Oct. 12, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1003-37\">George H. West, U. S. Atty., of Topeka, Kan., and Charles L. Chalender, Department of Justice, of Springfield, Mo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1003-38\">Frank R. Daley, of Kansas City, Mo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1003-39\">Before PHILLIPS, HUXMAN, and MURRAH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1003-40\">PER CURIAM.</author>\n<p id=\"b1003-41\">Appeal dismissed, pursuant to stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

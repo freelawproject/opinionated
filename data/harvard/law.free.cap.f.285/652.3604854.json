@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"652\" lastpage=\"652\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b688-3\">In re KALNITZSKY BROS. &amp; OPPENHEIM. Appeal of MARLOW.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b688-5\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXz\">October 24, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b688-6\">No. 31.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b688-9\">Meyer Marlow, of New York City (David K. Shappiro, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b688-10\">W. A. Cunningham, of New York City (White &amp; Case and Ernest G. Pifield, all of New York City, of counsel), for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b688-11\">Before ROGERS, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b688-12\">PER CURIAM.</author>\n<p id=\"Ayh\">Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A4tR\">PETRIE TRANSPORTATION COMPANY, Inc., Appellee, v. COLONIAL SAND &amp; STONE COMPANY, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AqQM\">No. 381.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AjJV\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AN-u\">April 2, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AAAA\">Single, Atkins &amp; Tyler, of New York City (Christopher E. Heckman, of Now York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ABu\">William F. Purdy, of New York City (Prank C. Mason, of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"A7Uj\">Before L. HAND, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"axy-dedup-2\">PER CURIAM.</author>\n<p id=\"axk-dedup-0\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

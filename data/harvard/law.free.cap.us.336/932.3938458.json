@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"932\" lastpage=\"932\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b918-7\">March 28, 1949.</decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b918-8\">\n<em>Per Curiam Decisions.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b918-9\">No. 533.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A1yW\">Boston Railroad Holding Co. et al. <em>v. </em>Delaware &amp; Hudson Co. et al.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aj6c\"><em>John L. Hall </em>and <em>Richard Wait </em>for appellants.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AO8_\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AXNV\">The appeal is dismissed for want of a substantial federal question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b587-11\">ROBERT JOSEPHSON v. PATRICIA JOSEPHSON</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b587-12\">31 So. (2nd) 277</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AyB\">January Term, 1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b587-13\">June 3, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AEU\">Divsion B</court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b587-14\">Rehearing denied June 25, 1947.</otherdate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b587-15\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

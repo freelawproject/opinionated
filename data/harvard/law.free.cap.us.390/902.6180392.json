@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b934-8\">No. 866,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AEai\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aor\">McClary <em>v. </em>Rodgers, Jail Superintendent.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A6B8\"><em>Solicitor General Griswold </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Apkt\">Motion for leave to file petition for writ of habeas corpus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

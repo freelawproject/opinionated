@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1063-41\">Lew LEVITT v. UNITED STATES OF AMERICA.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1063-42\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1063-43\">Feb. 11, 1938.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b1063-45\">George S. Fitzgerald, of Detroit, Mich., for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1063-46\">John C. Lehr, U. S. Atty., of Detroit, Mich., for the United States.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1063-47\">Before HICKS, SIMONS, and ALLEN, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1063-48\">PER CURIAM.</author>\n<p id=\"b1063-49\">It is ordered that the appeal in this cause be, and the same is, dismissed for <page-number citation-index=\"1\" label=\"1016\">*1016</page-number>want of prosecution, the costs to be charged against the government as constructive earnings.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

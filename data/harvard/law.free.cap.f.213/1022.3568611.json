@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1036-7\">SOUTH et al. v. NICROSI et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AZF\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJ5\">May 11, 1914.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A1B\">No. 2470.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Amq\">Appeal from the District Court of the United States for the Middle District of Alabama.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"A5tL\">Before PARDEE and SHELBY, Circuit Judges, and MAXEY, District Judge.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1036-8\">PER CURIAM.</author>\n<p id=\"AVXy\">This case has been argued orally twice and submitted also on exhaustive briefs. After careful consideration, we are of the opinion that the District Court ruled correctly in sustaining the demurrer and dismissing the bill. The decree is therefore affirmed.</p>\n<p id=\"b1036-9\">PARDEE, Circuit Judge, dissents.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

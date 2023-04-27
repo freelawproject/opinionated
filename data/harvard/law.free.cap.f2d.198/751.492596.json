@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"751\" lastpage=\"751\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b799-5\">Lynn R. BRODRICK, Collector of Internal Revenue for the District of Kansas, v. David C. WHITE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b799-6\">No. 4505.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b799-7\">United. States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b799-8\">Aug. 13, 1952.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b799-10\">Eugene W. Davis, U. S. Atty., and V. J. Bowersock, Asst. U. S. Atty., Topeka, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b799-11\">W. D. Jochems, Wichita, Kan., for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b799-12\">Before PHILLIPS, Chief Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b799-13\">PER CURIAM.</author>\n<p id=\"b799-14\">Appeal dismissed on motion of appellant. D.C., 104 F.Supp. 213.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

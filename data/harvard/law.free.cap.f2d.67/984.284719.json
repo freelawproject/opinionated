@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"984\" lastpage=\"984\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1022-40\">William BELL v. F. G. ZERBST, Warden.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_bx\">No. 957.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1022-41\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ACe\">Sept. 19, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1022-43\">John C. Waters, of Topeka, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1022-44\">S. M. Brewster, U. S. Atty., of Topeka,, Kan., for appellee. \u2022</attorneys>\n<p data-order=\"6\" data-type=\"legal\" id=\"b1022-45\">' Before LEWIS, MeDERMOTT, and BRATTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1022-46\">PER CURIAM.</author>\n<p id=\"b1022-47\">Appeal dismissed, for want of merit.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

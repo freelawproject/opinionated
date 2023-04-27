@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"609\" lastpage=\"609\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b633-7\">The National Oleo Meter Co., Appellant <em>v. </em>Walter M. Jackson, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b633-8\">Decided January 7, 1889.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AOV\">Appeal by plaintiff from a judgment entered after a trial at special term, dismissing the complaint.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ABRO\">Edmund Coffin, Jr., for appellant. Isaac Angel, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Azlo\">Before Sedgwick, Ch. J., and Truax, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AE5\">The appeal involved substantially only questions of fact. The Court held (Per Curiam), <em>\u201c </em>that the judgment should be affirmed.\u201d</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1017\" lastpage=\"1017\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1071-4\">William J. STUDER v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1071-5\">No. 1654.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1071-6\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ad3\">Jan. 5, 1938.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1071-8\">A. E. Williams, of Tulsa, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1071-9\">Whit Y. Mauzy, U. S. A-tty., of Tulsa, Okl.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1071-10\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1071-11\">PER CURIAM.</author>\n<p id=\"b1071-12\">Appeal dismissed, at appellant\u2019s costs, for failure to prosecute, on motion of appellee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

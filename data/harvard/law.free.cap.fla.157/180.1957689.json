@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"180\" lastpage=\"180\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b202-7\">BARNEY BARTOW WALKER v. AZILEANE S. WALKER</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b202-8\">25 So. (2nd) 280</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Az2\">January Term, 1946</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b202-9\">March 15, 1946</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A-Rj\">Special Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b202-11\"><em>J. G. </em>Rogers_, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b202-12\"><em>M. II. Edwards, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b202-13\">PER CURIAM:</author>\n<p id=\"b202-14\">The decree appealed from should be affirmed.</p>\n<p id=\"AFc\">It is so ordered.</p>\n<judges id=\"b202-16\">CHAPMAN, C. J., BROWN and SEBRING, JJ., and BARNS, Circuit Judge, concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

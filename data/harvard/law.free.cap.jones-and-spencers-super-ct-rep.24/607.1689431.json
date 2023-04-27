@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"607\" lastpage=\"607\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b631-7\">Mary J. Conley, Respondent <em>v. </em>The Forty-second Street, Manhattanville &amp; St. Nicholas Avenue Railway Co., Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b631-8\">Decided June 20,1888.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Aug\">Appeal by defendant from a judgment entered on the verdict of a jury, and from an order denying defendant\u2019s motion for a new trial.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AoX\">William C. Trull, for appellant. Herbert W. Grindal and Austen G. Fox, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A0yX\">Before Sedgwick, Ch. J., and Freedman J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A98\">Per Curiam.</author>\n<p id=\"AkG\">The judgment and order should be affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

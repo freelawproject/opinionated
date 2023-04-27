@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1401\" lastpage=\"1401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Abk\">\n<em>Friday, November 6, 1998</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ARW\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AXi\">97-2342.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A8t\">Wightman v. Consol. Rail Corp.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AtT\">Erie App. No. E-97-001. This cause is pending before the court as an appeal and cross-appeal from the court of Appeals for Erie County. Upon consideration of appellee/cross-appellant\u2019s motion to extend time for oral argument,</p>\n<p id=\"AAN\">IT IS ORDERED by the court that the motion to extend time for oral argument be, and hereby is, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

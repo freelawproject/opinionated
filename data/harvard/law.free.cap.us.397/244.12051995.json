@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"244\" lastpage=\"244\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b346-4\">MARTIN-TRIGONA <em>v. </em>STATE BOARD OF LAW EXAMINERS OF ILLINOIS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ACN\">No. 1360,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AxT3\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AWD\">Decided March 16, 1970</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b346-6\">Per Curiam.</author>\n<p id=\"b346-7\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

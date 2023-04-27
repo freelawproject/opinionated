@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1415\" lastpage=\"1417\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b811-11\">\n<em>Wednesday, September 2,1998</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b813-6\"><page-number citation-index=\"1\" label=\"1417\">*1417</page-number>MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b813-7\">94-1538.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AAZq\">State v. Bies.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b813-8\">Hamilton App. No. C-920841. On motion to continue stay of execution pending exhaustion of postconviction remedies. Motion granted; stay to expire in sixty days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

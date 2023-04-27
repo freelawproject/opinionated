@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"605\" lastpage=\"605\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b615-9\" pgmap=\"615\">In re Gridley, Daniel F.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_0\" pgmap=\"615\">(MR 17239)</docketnumber><p data-order=\"2\" data-type=\"court\" id=\"b615-10\" pgmap=\"615\">Barrington, Illinois</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b615-13\" pgmap=\"615\">Order of the Court:</p> <p id=\"b615-14\" pgmap=\"615\">The motion by Daniel F. Gridley to strike his name from the roll of attorneys licensed to practice law in Illinois pursuant to Supreme Court Rule 762(a) is allowed, effective immediately.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

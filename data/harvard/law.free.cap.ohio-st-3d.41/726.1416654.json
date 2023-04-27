@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"726\" lastpage=\"726\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AAP\">Wednesday, March 15, 1989</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AOLv\">REHEARING DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AN_P\">87-192.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AM1\">State v. Coleman.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AzY\"><em>Hamilton County, </em>No. C-850340. On motion for rehearing. Rehearing denied. On motion for stay. Stay denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

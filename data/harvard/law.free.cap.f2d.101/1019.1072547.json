@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1075-14\">James SHARROCK, a Minor, et al. v. J. E. MILLER.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1075-15\">No. 1849.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1075-16\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AI1\">March 1, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1075-18\">Hal Welch, of Ada, Okl., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ATy\">E. W. Whitney, of Wewoka, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1075-19\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1075-20\">PER CURIAM.</author>\n<p id=\"b1075-21\">Appeal dismissed, at appellants\u2019 costs, for failure to prosecute, on motion of appellee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

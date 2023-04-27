@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"457\" lastpage=\"457\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b541-14\">ORTEGA <em>v. </em>MICHIGAN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b541-16\">No. 1163,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ac5\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ASX\">Decided March 25, 1968.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b541-18\">Per Curiam.</author>\n<p id=\"b541-19\">The appeal is dismissed for want of a substantial federal question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

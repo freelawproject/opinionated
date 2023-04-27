@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1481\" lastpage=\"1481\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AJUs\">\n<em>Tuesday, February 2, 1999</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AsUp\">DISCIPLINARY DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"APSa\">97-2182.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ARhn\">Disciplinary Counsel v. Kurtz.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQGx\">This matter is pending before the court upon the filing by the Clients\u2019 Security Fund of a motion for leave to file motion for order to show cause. Upon consideration thereof,</p>\n<p id=\"AjIB\">IT IS ORDERED by the court that the motion be, and is, hereby, granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

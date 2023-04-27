@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"563\" lastpage=\"563\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b585-9\">John Brooks Leavitt, Appellant, <em>v. </em>Lewis S. Chase, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b585-10\">Decided June 23, 1887.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AJ2\">Appeal by plaintiff from order denying motion to strike from complaint scandalous matter. Austen G-. Fox, for appellant. Abram Kling, for respondent.</summary>\n<p data-order=\"3\" data-type=\"judges\" id=\"APO\">Before Sedgwick, Ch. J., Freedman and Truax, JJ. Sedgwick, Ch. J.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Acv\">\u201c The motion was made more than twenty days after the complaint was served. There is reason, from the nature of this particular case, why the rule twenty-two should not be applied to it. It was properly denied. Per Curiam. Order affirmed, with ten dollars costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

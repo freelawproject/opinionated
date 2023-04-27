@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"645\" lastpage=\"645\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b661-8\">R. BLACKINGTON &amp; CO. v. ADELS.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b661-9\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A9kq\">April 3, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b661-10\">No. 267.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b661-13\">Emery, Varney, Blair &amp; Hoguet, of New York City (Robert S. Blair, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b661-14\">Otto Munk, of New York City (George N. Goddard, of Boston, Mass., of counsel), for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b661-15\">Before HOUGH, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b661-16\">PER CURIAM.</author>\n<p id=\"AjR\">Decree affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

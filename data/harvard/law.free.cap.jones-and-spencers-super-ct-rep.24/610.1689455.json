@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"610\" lastpage=\"610\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b634-6\">Henry Hess, as Assignee etc., Respondent <em>v. </em>Nathaniel Hess, Jr., <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b634-7\">Decided March 14, 1889.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Ab-\">Appeal by defendants from judgment entered upon verdict for plaintiff.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ADd\">Otto Horwitz, for appellants. W. J. Townsend, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"Asba\">Before Sedgwick, Ch. J., and Ingraham, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A7-\">Per Curiam.</author>\n<p id=\"AVr\">Judgment affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

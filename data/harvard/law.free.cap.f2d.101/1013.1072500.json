@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1069-8\">John R. McINERNEY, Receiver of the Lincoln Park National Bank, v. Frederic L. LOWRIE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1069-9\">No. 7590.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1069-10\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AaO\">Jan. 11, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1069-12\">McLeod, Fixel &amp; Pixel, of Detroit, Mich., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1069-13\">Van Osdol, McGregor &amp; Dixon, of Detroit, Mich., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1069-14\">Before HICKS, SIMONS, and ALLEN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1069-15\">PER CURIAM.</author>\n<p id=\"b1069-16\">It is ordered that the appeal in this cause be dismissed pursuant to stipulation of counsel.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

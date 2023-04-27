@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"729\" lastpage=\"729\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b751-2\">THE S. J. WILDER. BROWN v. WHITNEY-BODDEN SHIPPING CO. et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b751-5\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AfY\">October 27, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b751-6\">No. 3885.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b751-9\">George B. Cleveland, Jr., of Mobile, Ala., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b751-10\">David B. Goode, of Mobile, Ala., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b751-11\">Before WALKER, BRYAN, and KING, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b751-12\">PER CURIAM.</author>\n<p id=\"AVG\">The order or decree appealed from is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

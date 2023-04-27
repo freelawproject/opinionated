@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"539\" lastpage=\"539\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b547-4\">SAMUEL D. SEWARD, Plaintiff and Respondent, v. ADOLPH KESSLER, Defendant and Appellant.</parties>\n<p data-order=\"2\" data-type=\"summary\" id=\"b547-6\">Before Speir and Sanford, JJ.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b547-7\"><em>Decided, March </em>20, 1876.</decisiondate>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b547-5\">The question involved in this case was whether the decision of a referee on a question of fact should be reversed.</summary>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b547-8\">Per Curiam.</author>\n<p id=\"A-K\">Judgment affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

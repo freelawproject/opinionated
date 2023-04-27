@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"932\" lastpage=\"932\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b958-8\">No. 333,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ARM3\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AtQW\">Dawson <em>v. </em>Kerr, Chairman, Adult Authority of California.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ADz\"><em>Thomas C. Lynch, </em>Attorney General of California, <em>William E. James, </em>Assistant Attorney General, and <em>Howard J. Schwab, </em>Deputy Attorney General, in opposition.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnTh\">Motion for leave to file petition for writ <em>of </em>mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

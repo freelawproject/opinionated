@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AD4N\">WADDELL &amp; SONS, Inc., v. PARNELL.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AEW\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AVYM\">November 14, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AbFq\">No. 3797.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AqH\">William R. Watkins, of Wichita Falls, Tex. (Kenneth W. Tapp, of Kansas City, Mo., and Jos. H. Aynesworth, of Wichita Falls, Tex., on the brief), for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AK5-\">Charles C. McDonald, of Wichita Falls, Tex., for defendant in error.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"A9j9\">Before WALKER, BRYA\u00d1, and KING, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-12\">PER CURIAM.</author>\n<p id=\"AkO\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

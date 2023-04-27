@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b812-7\">No. 12,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Asv\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ANHM\">Lee, Governor of Utah, <em>v. </em>Humphrey, Secretary of the Treasury.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ANFY\"><em>C. M. Gilmour </em>for plaintiff. <em>Solicitor General Rankin, Assistant Attorney General Doub, Paul A. Sweeney </em>and <em>Morton Hollander </em>for defendant.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-F\">The motion for leave to file bill of complaint is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"560\" lastpage=\"560\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"A3K\">Seth M. Harris, Appellant, <em>v. </em>Annie R. Platt, as Executrix, &amp;c., Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ACb\">Decided May 2, 1887.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AyQ\">Appeal from order denying plaintiff\u2019s motion for costs of the action. Cornell, Secor Page, for appellant. Wm. R. Martin, for respondent.</summary>\n<p data-order=\"3\" data-type=\"judges\" id=\"AqD\">Before Sedgwick, Ch. J., Freedman and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A7L\">Per Curiam.</author>\n<p id=\"Af6g\">The order should be affirmed, with ten dollars costs and disbursements to be taxed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

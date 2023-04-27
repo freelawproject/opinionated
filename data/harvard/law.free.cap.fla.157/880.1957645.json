@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"880\" lastpage=\"880\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b902-3\">MARION AUSTIN BRUMBLEY, alias MARION AUSTIN BRUMBY, Appellant, v. STATE OF FLORIDA, Appellee.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b902-4\">May 21, 1946</decisiondate>\n<p data-order=\"2\" data-type=\"misc\" id=\"AH7\">January Term, 1946</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b902-5\">Rehearing deniel June 11, 1946</otherdate>\n<court data-order=\"4\" data-type=\"court\" id=\"Abh\">Division A</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b902-6\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

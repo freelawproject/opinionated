@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"610\" lastpage=\"610\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b620-10\" pgmap=\"620\">In re Titoni, Frank William</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AuL\" pgmap=\"620\">(MR 17213)</docketnumber><p data-order=\"2\" data-type=\"p\" id=\"b620-11\" pgmap=\"620\">Pueblo, Colorado</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b620-14\" pgmap=\"620\">Order of the Court:</p> <p id=\"b620-15\" pgmap=\"620\">The petition by the Administrator of the Attorney Registration and Disciplinary Commission to impose reciprocal discipline pursuant to Supreme Court Rule 763 is allowed, and respondent Frank William Titoni, who has been disciplined in the State of Colorado, is disbarred in the State of Illinois.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

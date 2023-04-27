@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"570\" lastpage=\"570\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b586-7\">Charles A. Watkins <em>v. </em>The New York Central &amp; H. R. R. Co.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b586-8\">Decided May 7, 1888.</decisiondate>\n<summary data-order=\"2\" data-type=\"headnotes\" id=\"AqM\">Submission of case under section 1279, Code of Civil Procedure.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Afn\">Frederick Hemming, for plaintiff. H. E. Kenney, for defendant.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A4u\">Before Sedgwick, Ch. J., Freedman and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AoM\">Per Curiam.</author>\n<p id=\"AAoB\">There should be judgment for defendant with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

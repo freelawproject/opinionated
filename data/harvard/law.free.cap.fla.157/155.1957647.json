@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"155\" lastpage=\"155\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b177-8\">LUCY M. DURFEY v. EUSTACE <em>G. </em>WATTS</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b177-9\">25 So. (2nd) 200</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AOt\">January Term, 1946</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b177-10\">March 8, 1946</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AL1\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b177-12\"><em>Morton B. Adams, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b177-13\"><em>Eugene A. Williams </em>and <em>Ernest A. Roth, </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AaI\">PER CURIAM:</author>\n<p id=\"b177-14\">Only questions of fact are raised on this appeal which were decided adversely to appellant by the master in chancery \u25a0 and the chancellor. We find no error in the decree, so it is affirmed.</p>\n<judges id=\"b177-15\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

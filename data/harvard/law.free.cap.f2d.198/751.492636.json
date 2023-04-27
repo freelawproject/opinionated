@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"751\" lastpage=\"751\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b799-28\">S. E. J. COX v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b799-29\">No. 4431.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b799-30\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b799-31\">Sept. 11, 1952.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b799-33\">David Tant, Oklahoma City, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b799-34\">Whit Y. Mauzy, U. S. Atty., Tulsa, Old., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b799-35\">Before PHILLIPS, Chief Judge, and MURRAH, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b799-36\">PER CURIAM.</author>\n<p id=\"b799-37\">Appeal dismissed September 11, 1952, on motion of appellee, for failure of appellant diligently to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

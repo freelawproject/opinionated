@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"603\" lastpage=\"603\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b241-14\">Dayton Bar Association <em>v. </em>Sams.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b241-15\">[Cite as Dayton Bar Assn. <em>v. </em>Sams (1989), 46 Ohio St. 3d 603.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b241-16\">(No. D.D. 88-23</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AyR\">\u2014 Submitted October 11, 1989 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ae3\">Decided November 1, 1989.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b241-18\">The application for reinstatement to the practice of law is denied. William Sams is not reinstated to the practice of law in the state of Ohio.</p>\n<p id=\"b241-19\">(For earlier case, see [1989], 41 Ohio St. 3d 11, 535 N.E. 2d 298.)</p>\n<judges id=\"An9\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur,</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

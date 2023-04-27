@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"741\" lastpage=\"741\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b773-7\">MAURICE JACOBS and HERMAN J. BLOOM v. SAMUEL BERLIN and GERTRUDE BERLIN.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b773-8\">32 So. (2nd) 753</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AU4\">June Term,-1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b773-9\">November 21, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Al3\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b773-11\"><em>Harry Gordon, </em>for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b773-12\"><em>McKay, Dixon, DeJarnette &amp; Bradford, </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b773-13\">PER CURIAM:</author>\n<p id=\"b773-14\">Affirmed on authority of Stewart v. Manget, 135 Fla. 485' 181 So. 370, and Reisen v. Maryland Casualty Co., 153 Fla. 205, 14 So. (2nd) 197.</p>\n<p id=\"b773-15\">So ordered.</p>\n<judges id=\"b773-16\">THOMAS, C. J,, BUFORD, ADAMS and BARNS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

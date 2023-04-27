@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ARN1\">E. C. MULLENDORE, Jr., v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1041-7\">No. 1063.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1041-8\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1041-9\">March 23, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1041-11\">McCoy, Craig <em>&amp; </em>Pearson, of Pawhuska, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1041-12\">C. E. Bailey, U. S. Atty., of Tulsa, Okl.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1041-13\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1041-14\">PER CURIAM.</author>\n<p id=\"b1041-15\">Appeal dismissed for failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

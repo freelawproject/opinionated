@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1053-13\">UNITED STATES of America v. Jo. O. FERGUSON, Administrator.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1053-14\">No. 955.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1053-15\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A4ol\">Sept. 18, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1053-17\">C. E. Bailey, U. S. Atty., of Tulsa, Okl.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1053-18\">Lewis Raba, of Pawnee, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1053-19\">Before LEWIS, PHILLIPS, and Mc-DERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1053-20\">PER CURIAM.</author>\n<p id=\"b1053-21\">Appeal dismissed, on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"921\" lastpage=\"921\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b829-4\">No. 251,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A9PP\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ACM5\">Thompson <em>v. </em>Heither et al.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ABU\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AM_\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"564\" lastpage=\"564\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b586-6\">Moses Samelson, Respondent, <em>v. </em>George A. Haggerty, Impleaded, <em>et al, </em>Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b586-7\">Decided June 23, 1887.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Azi\">Appeal from an order denying a motion made by the defendant Haggerty to vacate an order appointing a receiver of mortgaged premises <em>pendente lite.</em></summary>\n<p data-order=\"3\" data-type=\"judges\" id=\"AlgY\">Before Sedgwick, Ch. J., Freedman and Truax, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AG2\">Per Curiam.</author>\n<p id=\"ABU\">The order appealed from should be affirmed, with ten dollars costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1204\" lastpage=\"1205\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b612-17\">The State of Ohio, Appellee, <em>v. </em>Sanchez, Appellant.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"AJl\">[Cite as <em>State v. Sanchez </em>(1996), 77 Ohio St.3d 1204.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b613-3\"><page-number citation-index=\"1\" label=\"1205\">*1205</page-number>(No. 96-730</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AQKq\">Submitted October 9, 1996</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AUv\">Decided November 6, 1996.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b613-4\"><em>Daniel D. Connor Co., L.P.A., </em>and <em>Daniel D. Connor, </em>for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b613-5\">The appeal is dismissed, <em>sua sponte, </em>as having been improvidently allowed.</p>\n<judges id=\"b613-6\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n<judges id=\"AFx\">Stratton, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

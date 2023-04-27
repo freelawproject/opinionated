@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"563\" lastpage=\"563\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b585-7\">John B. Ireland, Respondent, <em>v. </em>The Metropolitan Elevated Railway Co., Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b585-8\">Decided June 23, 1887.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A-v\">Appeal from an order made at special term allowing the plaintiff to amend his complaint on payment of twenty dollars costs. Whitehead, Parker &amp; Dexter, for respondent. Davies, Cole &amp; Rapallo, attorneys, and Edward C. James of counsel, for appellant.</summary>\n<p data-order=\"3\" data-type=\"judges\" id=\"A70\">Before Sedgwick, Ch. J., Freedman and Truax JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A_d\">Opinion Per Curiam.</author>\n<p id=\"AWR\">Order amended by-striking out words \u201c Twenty dollars costs,\u201d and substituting in place thereof, words <em>\u201c </em>the costs awarded to the appellant on the appeal, and ten dollars the costs of the motion,\u201d and as so modified order affirmed, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

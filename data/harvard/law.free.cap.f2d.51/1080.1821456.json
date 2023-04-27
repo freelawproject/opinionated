@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1080\" lastpage=\"1080\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1104-27\">Mary Madeline McCALLISTER et al., Apellants, v. William H. MOORE, Jr., Trustee, etc., Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1104-28\">No. 6457.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1104-29\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ARY8\">Aug. 29, 1931.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1104-31\">Before WILBUR and SAWTELLE, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1104-32\">PER CURIAM.</author>\n<p id=\"b1104-33\">Upon consideration of stipulation of counsel for respective parties, and good cause therefor appearing, ordered appeal in this cause dismissed; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

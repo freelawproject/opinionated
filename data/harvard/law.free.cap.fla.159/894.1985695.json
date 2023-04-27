@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"894\" lastpage=\"894\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b926-16\">KATE HAVLIN MARTIN, joined by her husband, W. WALTER MARTIN, v. FAUD H. HANNA and MARGARET ALICE HANNA, his wife.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b926-17\">32 So. (2nd) 922</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"A_l\">June Term, 1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b926-18\">December 19, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AFF\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b926-20\"><em>Owen W. Pittman, </em>for Plaintiffs.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b926-21\"><em>R. K. Bell, </em>for defendants.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b926-22\">PER CURIAM:</author>\n<p id=\"b926-23\">The certifiied question is not answered because it is not a question contemplated under Rule 38 of this Court.</p>\n<judges id=\"b926-24\">THOMAS, C. J., TERRELL, CHAPMAN and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

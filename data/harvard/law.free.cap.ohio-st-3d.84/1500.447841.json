@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1500\" lastpage=\"1500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Avf0\">\n<em>Wednesday, February 17, 1999</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Ayqb\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Atdq\">98-2615.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AEs9\">State ex rel. Howard v. Weiher.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Av1\">Lucas App. No. L-98-1344. On motion to dismiss and motion for award of reasonable expenses. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"A2rQ\">Moyer, C.J., Douglas, F.E. Sweeney, Cook and Lundberg Stratton, JJ., concur.</judges>\n<judges id=\"Asm0\">Pfeifer, J., concurs and would also award attorney fees.</judges>\n<judges id=\"ABHW\">Resnick, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

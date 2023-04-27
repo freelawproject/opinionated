@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1037-3\">In re COCCARO et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AORK\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AR4s\">October 31, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Ay-\">No. 75.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Atqy\">Alexander &amp; Green, of New York City (Clifton P. Williamson,* of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AMx\">Leo Qppenheimer, of New York City, for appellee Lesser. Frank, Weil &amp; Strouse, of New York (Sty (Samuel F. Frank and Samuel H. Kaufman, both of New York City, of counsel), for appellee Chrystie.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AvvM\">Before ROGERS, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1037-5\">PER CURIAM.</author>\n<p id=\"ASX\">Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

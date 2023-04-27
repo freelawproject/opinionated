@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"721\" lastpage=\"721\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"ASX\">Wednesday, March 1, 1989</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ANA\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AMzr\">88-1316.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Amc\">Rodman v. Seiter.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWI\">In Habeas Corpus. On motion to vacate. <em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"AdJ\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

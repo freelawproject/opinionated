@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1081\" lastpage=\"1082\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1105-37\">NORTH AMERICAN OIL CONSOLIDATED, Petitioner, v. COMMISSIONER OF INTERNAL REVENUE, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1105-38\">No. 6599.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1105-39\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"asrb-dedup-0\">Aug. 29, 1931.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1105-41\">Before WILBUR and SAWTELLE, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1106-3\"><page-number citation-index=\"1\" label=\"1082\">*1082</page-number>PER C\u00dcRIAM.</author>\n<p id=\"b1106-4\">Upon motion of counsel for respondent, consented to by counsel for petitioner, ordered petition to review of North American Oil Consolidated dismissed; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

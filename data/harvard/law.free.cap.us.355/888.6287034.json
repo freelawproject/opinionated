@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b782-7\">No. 284,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AqJq\">No. 301,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A-k\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"APPp\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"Atmy\">Collins <em>v. </em>New York et al.; and Anderson <em>v. </em>California et al.</parties>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9-\">Motions for leave to file petitions for writs of habeas corpus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"566\" lastpage=\"566\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b582-8\">Robert C. Turner, Appellant <em>v. </em>Jacob Silberman, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b582-9\">Decided June 23, 1887.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ASj\">Appeal from judgment dis missing complaint.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AvS\">Hyland &amp; Zabriskie, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ajt\">Stern &amp; Myers for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ALH\">Before Freedman and Truax, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Alx\">Per Curiam.</author>\n<p id=\"AjT\">The reasons assigned by the learned Chief Judge for dismissing plaintiff\u2019s complaint at the trial, are well founded. The judgment should be affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

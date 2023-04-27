@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1058-9\">WHITEHEAD v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AUo0\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ApZ0\">January 16, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ASF\">No. 3865.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AVsD\">S. S. Sandford and John W. Bull, both of Tampa, Ha., for plaintiff in error. William M. Gober, U. S. Atty., Maynard Ramsey, Asst. U. S. Atty., and Harry W. Reinstine, Sp. Asst. U. S. Atty., all of Jacksonville, Fla.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ARM5\">Before WALKER, BRYAN, and KING, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1058-10\">PER CURIAM.</author>\n<p id=\"ACn\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

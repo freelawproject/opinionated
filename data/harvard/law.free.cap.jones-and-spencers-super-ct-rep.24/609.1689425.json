@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"609\" lastpage=\"609\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b633-5\">Barker Place, as Executor, etc., Appellant <em>v. </em>Jedediaii K. Hayward, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b633-6\">Decided January 7, 1889.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A5L0\">Appeal from judgment dismissing the complaint entered on the report of a referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AEe\">Charles F. Wells, for appellant. J. K. Hayward, respondent in person.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AXel\">Before Sedgwick, Ch. J., Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AfB\">The case involved questions of fact only. The Court held (Per Curiam) <em>\u201c </em>that the judgment should be affirmed.\u201d</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

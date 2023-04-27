@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1007\" lastpage=\"1008\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1023-12\">MARCHESE SISTERS, EMBROIDERY CORPORATION v. GOTHAM SILK HOSIERY CO., Inc.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1023-14\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aji\">May 15, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1023-15\">No. 239.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1024-3\"><page-number citation-index=\"1\" label=\"1008\">*1008</page-number>Frackman &amp; Robins, of New York City (James H. Griffin, Joseph 'H. Robins, and Mark Frackman, all of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1024-4\">Darby &amp; Darby, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1024-5\">Before ROGERS, HOUGH, and MANTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1024-6\">PER CURIAM.</author>\n<p id=\"A_-m\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

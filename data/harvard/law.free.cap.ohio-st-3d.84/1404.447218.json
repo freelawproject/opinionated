@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1404\" lastpage=\"1404\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Aov\">\n<em>Wednesday, November 18, 1998</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AJKf\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AGG\">98-1759.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A4E\">Miller v. State.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Azuv\">In Mandamus. On answer of respondent by Reginald A. Wilkinson, motion to dismiss by Honorable Ruth Ann Franks, and motion for order allowing relator access to law library. <em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"Ae7\">Motee, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

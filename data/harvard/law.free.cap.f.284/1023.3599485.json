@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1045-5\">WEISS v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A6K\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A02\">October 24, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Aju\">No. 65.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AYEP\">Samuel Weiss, of New York City (Samuel I. Hartman, of New York City, of counsel), for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AZa\">Ralph C. Greene. U. S. Atty., of Brooklyn, N. Y. (Henry J. Walsh, Assfe U. S. Atty., of Brooklyn, N. Y., of counsel), for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"ACz\">Before ROGERS, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1045-6\">PER CURIAM.</author>\n<p id=\"A8kz\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

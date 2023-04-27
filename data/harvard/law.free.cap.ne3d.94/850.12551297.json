@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"850\" lastpage=\"850\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  COMMONWEALTH\n  <br/>\n  v.\n  <br/>\n  Quincy BUTLER.\n </parties>\n <court id=\"p-2\">\n  Supreme Judicial Court of Massachusetts.\n </court>\n <decisiondate id=\"p-3\">\n  November 6, 2017\n </decisiondate>\n <opinion id=\"p-4\">\n  The defendant's application is denied without prejudice, and the case is remanded to the Appeals Court for any reconsideration that may be warranted in light of this court's decisions in Commonwealth v. Oberle,\n  <extracted-citation case-ids=\"12462694\" index=\"0\" url=\"https://cite.case.law/mass/476/539/\">\n   476 Mass. 539\n  </extracted-citation>\n  (2017), and Commonwealth v. Jones, All Mass. 307 (2017). Either side is free to apply, or re-apply as the case may be, for further appellate review following the Appeals Court's reconsideration of the matter.\n </opinion>\n <opinion id=\"p-5\">\n  Appellate review denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   Mme. Justice Cypher did not participate.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

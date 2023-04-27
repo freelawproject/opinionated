@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"140\" lastpage=\"140\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b162-4\">JOHN MAJOR v. EMMA MAJOR</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b162-5\">25 So. (2nd) 82</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AuC\">January Term, 1946</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b162-6\">March 5, 1946</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"ApQ\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b162-8\"><em>Roach &amp; Hoyl, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b162-9\"><em>Ella Jo Stollberg, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b162-10\">PER CURIAM:</author>\n<p id=\"b162-11\">Affirmed.</p>\n<judges id=\"b162-12\">CHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

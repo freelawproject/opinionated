@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1042-5\">KEA v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Arb4\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"aod-dedup-0\">October 14, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ahk-dedup-1\">No. 3803.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ase-dedup-0\">Wallace Miller, of Macon, Ga., for plaintiff in error. John W. Bennett, U. S. Atty., of Macon, Ga.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ajgo-dedup-0\">Before WALKER, BRYAN, and KING, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1042-6\">PER CURIAM.</author>\n<p id=\"asq-dedup-1\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

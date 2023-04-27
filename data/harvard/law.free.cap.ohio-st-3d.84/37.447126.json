@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"37\" lastpage=\"37\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b163-11\">The State of Ohio, Appellee, <em>v. </em>Bowman, Appellant.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b163-12\">[Cite as <em>State v. Bowman </em>(1998), 84 Ohio St.3d 37.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b163-14\">(No. 98-1373</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AO-\">Submitted October 13, 1998</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AfX\">Decided December 2, 1998.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b163-15\"><em>Peter Rosenwald, </em>for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b163-16\">The judgment of the court of appeals is affirmed on the authority of <em>State v. Cook </em>(1998), 83 Ohio St.3d 404, 700 N.E.2d 570.</p>\n<judges id=\"b163-17\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

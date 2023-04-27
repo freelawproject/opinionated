@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"568\" lastpage=\"568\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b584-4\">Richard G. Berford, Appellant <em>v. </em>The New York Iron Mine, <em>et al., </em>Respondents.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b584-5\">Decided January 3, 1888.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AnQ\">Appeal from order vacating an order directing service without the state.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A64\">Roger M. Sherman, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ABG\">Barlow &amp; Wetmore, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ALA\">Before Sedgwick, Ch. J., Freedman and In-graham, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ArI\">Per Curiam.</author>\n<p id=\"A83\">The appeal book does not contain the order of May 2, 1887, and we therefore cannot determine whether the learned judge who vacated it, did or did not commit an error in doing so. The order appealed from should be affirmed with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1495\" lastpage=\"1495\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Ao0\">\n<em>Tuesday, September 9, 1997</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AMD\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Axei\">96-1965.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ABl_\">Disciplinary Counsel v. Holzer.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJL2\">This matter is pending before the court upon the filing of an application of the city of Englewood and Eric A. Smith to intervene. Upon consideration thereof,</p>\n<p id=\"Aqah\">IT IS ORDERED by the court that the application be, and is, hereby, denied.</p>\n<judges id=\"Acxv\">Moyer, C.J., and Lundberg Stratton, J., dissent and would allow twenty days to respond.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

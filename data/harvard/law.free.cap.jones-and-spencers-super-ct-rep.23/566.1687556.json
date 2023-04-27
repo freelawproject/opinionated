@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"566\" lastpage=\"566\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b582-6\">Thomas R. A. Hall, <em>et al., </em>Respondents <em>v. </em>Julius Lipman, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b582-7\">Decided June 23, 1887.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"ABV\">Appeal from a judgment for the plaintiffs entered on a decision of the judge at trial term, on a trial without a jury.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AWu\">Thomas C. Enever, for respondents.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ahq\">Julius Lipman, for appellant.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A9p\">Before Freedman and Truax, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AOv\">Per Curiam.</author>\n<p id=\"Aq5\">The judgment appealed from is affirmed on the opinion of the court below, with costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

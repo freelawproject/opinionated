@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1012\" lastpage=\"1012\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1072-3\">CITY OF ALBUQUERQUE v. Herbert In C. HELLER.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1072-4\">No. 2048.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1072-5\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGV\">Jan. 6, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1072-7\">Joseph L. Dailey, of Albuquerque, N. M., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1072-8\">H. A. Kiker, of Santa Fe, N. M., for appellee. '</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1072-9\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1072-10\">PER CURIAM.</author>\n<p id=\"A9L\">Appeal dismissed pursuant to stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

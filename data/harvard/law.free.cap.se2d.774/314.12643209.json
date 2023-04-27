@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"314\" lastpage=\"314\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  ELAM, et al.\n  <br/>\n  v.\n  <br/>\n  WILLIAM DOUGLAS MANAGEMENT, INC., et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 216P15-1.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  July 22, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Kenneth T. Davies, for Elam, Amy Pharr, et al.\n </attorneys>\n <attorneys id=\"p-6\">\n  M. Aaron Lay, Charlotte, for William Douglas Management, Inc.\n </attorneys>\n <attorneys id=\"p-7\">\n  Lori Gilmore, for Charlotte House Association Of Unit Owners, Inc.\n </attorneys>\n <attorneys id=\"p-8\">\n  Erik M. Rosenwood, Charlotte, for Elam, Amy Pharr, et al.\n </attorneys>\n <p id=\"p-9\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-10\">\n   The following order has been entered on the motion filed on the 21st of July 2015 by Plaintiffs for Temporary Stay:\n  </p>\n  <blockquote id=\"p-11\">\n   \"Motion Allowed by order of the Court in conference, this the 22nd of July 2015.\"\n  </blockquote>\n  <author id=\"p-12\">\n   ERVIN, J. recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

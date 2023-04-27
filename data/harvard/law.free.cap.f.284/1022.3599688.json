@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-7\">TUCKER v. UNIVERSAL AUTO CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AaZ\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AUzV\">October 24, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AH4\">No. 35.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A1BO\">Parsons &amp; Bodell, of Syracuse, N. Y., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AuN\">Heath Sutherland, of Hartford, Conn., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"A7n\">Before ROGERS, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-8\">PEE CURIAM.</author>\n<p id=\"AixF\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"34\" lastpage=\"34\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b62-8\">[The State, ex rel.] Porter, Appellee, <em>v. </em>Industrial Commission of Ohio, Appellant, et al.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b62-9\">[Cite as Porter <em>v. </em>Indus. Comm. (1986), 25 Ohio St. 3d 34.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b62-11\">(No. 85-1523</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AR-\">Decided July 9, 1986.)</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b62-13\"><em>Anthony J. Celebrezze, Jr., </em>attorney general, and <em>Merl H. Wayman, </em>for appellant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b62-14\">The judgment of \"the court of appeals (case No. 84AP-988) granting a writ of mandamus is hereby reversed on authority of <em>Vulcan Materials Co. </em>v. <em>Indus. Comm. </em>(1986), 25 Ohio St. 3d 31, decided this date.</p>\n<judges id=\"b62-15\">Celebrezze, C.J., Sweeney, Locher, Holmes, C. Brown, Douglas and Wright, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

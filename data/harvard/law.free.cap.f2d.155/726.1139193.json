@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"726\" lastpage=\"727\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b778-35\">UNITED STATES FIDELITY &amp; GUARANTY COMPANY v. O. R. HUGHES et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b778-36\">No. 3324.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b778-37\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ayk\">May 23, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b778-39\">A. S. Wells, of Seminole, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b779-3\"><page-number citation-index=\"1\" label=\"727\">*727</page-number>Allen G. Nichols and Hubert Hargrave, both of Wewoka, Okl., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b779-4\">Before PHILLIPS, BRATTON, and HUXMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b779-5\">PER CURIAM.</author>\n<p id=\"b779-6\">Appeal dismissed pursuant to stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"40\" lastpage=\"40\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b122-3\">The State, ex rel. Jones, Appellant, <em>v. </em>Ruggeri, Appellee.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b122-4\">[Cite as State, ex rel. Jones, <em>v. </em>Ruggeri (1990), 48 Ohio St. 3d 40.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b122-5\">(No. 89-1084</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AHP\">Submitted November 7, 1989</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Am\">Decided January 10, 1990.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b122-6\"><em>Hillary James Jones </em>and <em>Vincent C. Rhodes, pro se.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b122-7\">The judgment of the court of appeals is affirmed based on that court\u2019s journal entry and opinion of May 19, 1989.</p>\n<judges id=\"b122-8\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

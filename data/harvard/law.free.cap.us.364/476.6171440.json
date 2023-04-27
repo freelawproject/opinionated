@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"476\" lastpage=\"476\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b550-13\">RAY v. OHIO.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b550-15\">No. 237,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AR9\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AUxF\">Decided December 5, 1960.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b550-18\"><em>Ralph Atkinson </em>for appellant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b550-19\">Per Curiam.</author>\n<p id=\"b550-20\">The motion for leave to supplement the jurisdictional statement is granted. The appeal is dismissed for want of a substantial federal question.</p>\n<judges id=\"b550-21\">Mr. Justice Douglas is of the opinion that probable jurisdiction should be noted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

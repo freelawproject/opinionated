@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"892\" lastpage=\"893\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the Matter of Manuel P. ASENSIO, Appellant,\n  <br/>\n  v.\n  <br/>\n  Nancy M. BANNON, Respondent. (AD No. O.P. 124/17)\n </parties>\n <parties id=\"p-2\">\n  In the Matter of Manuel P. Asensio, Appellant,\n  <br/>\n  v.\n  <br/>\n  Nancy M. Bannon, Respondent. (AD No. O.P. 125/17)\n </parties>\n <docketnumber id=\"p-3\">\n  2018-61\n </docketnumber>\n <court id=\"p-4\">\n  Court of Appeals of New York.\n </court>\n <decisiondate id=\"p-5\">\n  February 15, 2018\n </decisiondate>\n <opinion id=\"p-6\">\n  On the Court's own motion, appeals dismissed, without costs, upon the ground that no substantial constitutional question is directly involved.\n </opinion>\n <opinion id=\"p-7\">\n  Motion for a stay dismissed as academic.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Chief Judge DiFiore took no part.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

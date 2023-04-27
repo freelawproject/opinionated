@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"590\" lastpage=\"590\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b666-34\">Richard T. DORMAN, Appellant, v. STATE OF GEORGIA et al., Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b666-36\">No. 25316.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b666-37\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b666-38\">April 22, 1968.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b666-40\">Richard T. Dorman, pro se.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b666-41\">Mathew Robins, Asst. Atty. Gen., Atlanta, Ga., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b666-42\">Before WISDOM, BELL and DYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b666-43\">PER CURIAM:</author>\n<p id=\"b666-44\">The judgment is affirmed. Henderson v. Circuit Court, 5 Cir. 1968, 392 F.2d 551 [decided on April 22, 1968].</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

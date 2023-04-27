@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1076-22\">UNITED STATES of America v. William W. LILLARD.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1076-23\">No. 1995.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1076-24\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AUiW\">Oct 24, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1076-26\">Whit Y. Mauzy, U. S. Atty., of Tulsa, Okl.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1076-27\">Benjamin E. Cook, of Ponca City, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1076-28\">Before LEWIS, PHILLIPS, and BRATTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1076-29\">PER CURIAM.</author>\n<p id=\"b1076-30\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1053-37\">Harry E. BRADLEY, Receiver of The Nogales National Bank of Nogales, Arizona, a National Banking Association, Appellant, v. SANTA CRUZ COUNTY, a Body Politic and Corporate, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1053-38\">No. 8408.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1053-39\">Circuit Court of Appeals, Ninth Circuit.</court>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b1053-41\">Stephen D. Monahan, of Nogales, Ariz., for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1053-42\">James V. Robins, of Nogales, Ariz., for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1053-43\">Before GARRECHT, MATHEWS, and HANEY, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1053-44\">PER CURIAM.'</author>\n<p id=\"b1053-45\">The decree is affirmed upon the authority of McNair v. Knott, 302 U.S. \u2014, 58 S.Ct. 245, 82 L.Ed. -, decided December 13, 1937.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

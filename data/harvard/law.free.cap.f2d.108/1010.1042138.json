@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1070-38\">Arthur BARTOLOZZI, Appellant, v. UNITED STATES.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1070-40\">No. 7222.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1070-41\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1070-42\">Jan. 4, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1070-44\">L. Scott Cherchesky, of Camden, N. J., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1070-45\">John J. Quinn, U. S. Atty., of Trenton, N. J., and W. Orvyl Schalick, Asst. U. S. Atty., of Camden, N. J., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1070-46\">Before BIGGS, MARIS, and CLARK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1070-47\">PER CURIAM.</author>\n<p id=\"b1070-48\">The judgment of the District Court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

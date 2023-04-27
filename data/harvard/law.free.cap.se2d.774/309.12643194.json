@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"309\" lastpage=\"309\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  LILLIE\n  <br/>\n  v.\n  <br/>\n  BALL.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 421P10-3.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  July 13, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Catherine F. Jordan, Assistant Attorney General, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-6\">\n  Robert Alan Lillie, for Lillie, Robert Alan.\n </attorneys>\n <attorneys id=\"p-7\">\n  Patrick Nadolski, District Attorney, for State of North Carolina.\n </attorneys>\n <p id=\"p-8\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   The following order has been entered on the motion filed on the 9th of July 2015 by Petitioner to Proceed In Forma Pauperis:\n  </p>\n  <blockquote id=\"p-10\">\n   \"Motion Allowed by order of the Court in conference, this the 13th of July 2015.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AJCz\">James E. KENNEDY, Appellant, v. Uzziel S. WHITCOMB and Alice M. Whitcomb, Debtors-Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Agy\">No. 173.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AsR\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A2U\">May 1, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AB_K\">Francis D. Foley and Samuel H. Roth-man, both of Burlington, Vt., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A6Bd\">Consuelo Northrop Bailey and J. H. Ma-comber, Jr., both of Burlington, Vt., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"A9Vz\">Before SWAN, CLARK, and WOOD-BURY, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AQk\">PER CURIAM.</author>\n<p id=\"AM6Y\">The order is affirmed on the opinion of the District Court, 61 F.Supp. 942.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

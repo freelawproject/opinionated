@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"970\" lastpage=\"970\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b996-10\">March 9, 1970</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b996-11\">No. -.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AIsc\">Upjohn Co. <em>v. </em>Finch, Secretary of Health, Education, and Welfare, et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ATX\"><em>Stanley L. Temko </em>and <em>Herbert Dym </em>for applicant. <em>Solicitor General Griswold </em>in opposition. <em>C. Joseph Stetler </em>for Pharmaceutical Manufacturers Assn, as <em>amicus curiae </em>in support of the application.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AzYC\">C. A. 6th Cir. Application for stay, presented to Mr. Justice Stewart, and by him referred to the Court, denied.</p>\n<judges id=\"Ab93\">Mr. Justice Stewart took no part in the consideration or decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1464\" lastpage=\"1464\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b888-8\">\n<em>Wednesday, October 19, 1994</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b888-9\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b888-10\">93-2045.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ALA\">State ex rel. Sweet v. Hancock Cty. Bd. of Elections.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AsC\"><em>Hancock County, </em>No. 5-93-15. <em>Sua sponte, </em>cause dismissed as moot.</p>\n<judges id=\"b888-11\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

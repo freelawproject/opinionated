@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"324\" lastpage=\"324\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b342-10\">Lynch <em>v. </em>Wood.</parties>\n<headnotes data-order=\"1\" data-type=\"headnotes\" id=\"b342-11\">\n<em>Costs of a commission.</em>\n</headnotes>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b342-12\"><em>Levy </em>exhibited an account of expenses in the execution of a commission,</attorneys>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AUl9\">which had issued for the plaintiff, <em>ex parte, </em>and moved that they might be allowed in the costs.</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"at2-dedup-0\">Besides the charges for swearing the witnesses, and their attendance on the commissioners, there were charges for agency, and for the expenses of travelling to collect the testimony.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b342-13\">The Court allowed the charges for swearing the witnesses, and for their attendance ; but rejected those for agency and travelling.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

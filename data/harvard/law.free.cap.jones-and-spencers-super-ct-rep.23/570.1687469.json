@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"570\" lastpage=\"570\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b586-9\">Robert Baxter, Respondent <em>v. </em>George C. Richardson, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b586-10\">Decided May 7, 1888.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A_9g\">Appeal by defendant from judgment entered upon verdict of jury.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A0G\">James M. Smith, for appellants. Edward C. James, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"A6t\">Before Sedgwick, Ch. J., and O\u2019Gorman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Akl\">Per Curiam.</author>\n<p id=\"Anrd\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

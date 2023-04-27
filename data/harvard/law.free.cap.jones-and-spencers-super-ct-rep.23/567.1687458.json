@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"567\" lastpage=\"567\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b583-4\">Mary McEvoy, as Administratrix, &amp;c., Appellant <em>v. </em>The Manhattan Railway Co., Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b583-5\">Decided December 12, 1887.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Anj\">Appeal from judgment.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ayv\">Gilbert R. Hawes, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AUW\">Davies &amp; Cole, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Aqe\">Before Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Aux\">Per Curiam.</author>\n<p id=\"AKv\">At the trial the plaintiff wholly failed to prove the cause of action set forth in the complaint and consequently the complaint was properly dismissed. The judgment must be affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

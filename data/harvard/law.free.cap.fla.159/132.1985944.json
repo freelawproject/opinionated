@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"132\" lastpage=\"132\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b164-3\">MARY C. KEYSER, MELLEY K. MEREDITH, and her husband, WILLIAM M. MEREDITH, v. THE CITY OF PENSACOLA, a Municipal Corporation.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b164-4\">30 So. (2nd) 547</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ajr\">January Term, 1947</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b164-5\">April 29, 1947</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AjUe\">Special Division A</court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b164-6\">Rehearing denied May 19, 1947</otherdate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQX\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

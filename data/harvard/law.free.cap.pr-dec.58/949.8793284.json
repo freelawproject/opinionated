@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"949\" lastpage=\"949\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1009-12\">N\u00fam. 1200.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aaz\">Baetjer, etc., peticionarios, <em>v. </em>Corte, dmdada.</parties>\n<p data-order=\"2\" data-type=\"court\" id=\"ARm\">Original.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AABC\">Abril 4, 1941.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1009-13\">Por los fundamentos consignados en la opini\u00f3n emitida en el d\u00eda de boy en el caso de <em>certiorari </em>n\u00fam. 1199, entre las mismas partes (ante, p\u00e1g. 422), no ba lugar a la reconsideraci\u00f3n solicitada.</p>\n<judges id=\"b1009-14\">El Juez Asociado Sr. Todd, Jr., no intervino.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

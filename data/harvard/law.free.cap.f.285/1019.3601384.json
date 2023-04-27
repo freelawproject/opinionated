@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1055-8\">In re A. &amp; W. NESBITT, Limited.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AGr\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIp\">December 2, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Abz\">No. 102.</docketnumber>\n<seealso data-order=\"4\" data-type=\"seealso\" id=\"AeEL\">See, also, 232 Fed. 265.</seealso>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A1e\">Rosenthal A Heerrnanee, of New York City (S. Michael Cohen, of New York City, of counsel), for petitioning creditors. Morris J. Goldston, of New York City, for answering creditor.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AfNb\">Before HOUGH, MANTON, and MAYEE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1055-9\">PER CUEIAM.</author>\n<p id=\"A0BV\">The order entered below is affirmed, with costs, upon the authority of Bradley v. Huntington (C. C. A.) 277 Fed. 948.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

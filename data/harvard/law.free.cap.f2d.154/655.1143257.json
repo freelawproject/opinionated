@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"655\" lastpage=\"655\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b709-37\">Clifford J. JUDD, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b709-38\">No. 11117.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b709-39\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b709-40\">April 2, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b709-42\">Joseph P. Lacey, Harmon D. Skillin, and Fred. McDonald, all of San Francisco, Cal., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b709-43\">Frank J. Hennessy, U. S. Atty., and Reynold H. Colvin, Asst. U. S. Atty., both of San Francisco, Cal., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b709-44\">Before MATHEWS, IIEALY, and BONE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b709-45\">PER CURIAM.</author>\n<p id=\"b709-46\">The judgment of the District Court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

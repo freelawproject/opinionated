@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"876\" lastpage=\"876\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b814-6\">November 7, 1960.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b814-8\">No. 360,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ayg\">Misc.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ASVV\">Scott <em>v. </em>California.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A2Vy\"><em>Morris Lavine </em>for petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGPP\">Upon the suggestion of counsel for petitioner of the death of petitioner, the petition for writ of certiorari to the Supreme Court of California is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

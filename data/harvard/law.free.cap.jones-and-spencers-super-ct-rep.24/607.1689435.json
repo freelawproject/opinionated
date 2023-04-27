@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"607\" lastpage=\"607\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b631-4\">Edwin Gomez, Jr., Appellant <em>v. </em>Edward Joyce, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b631-5\">Decided June 20, 1888.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AMT\">Appeal by plaintiff from a judgment in his favor for six cents damages, entered upon the verdict of a jury directed by the trial judge in an action for slander.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AXe\">Hector M. Hitchings, for appellant. Thomas F. Magner, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"ATO\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ant\">The Court held (Per Curiam) <em>\u201c </em>that the words spoken were actionable <em>per se, </em>and therefore the jury might give exemplary damages as well as damages for plaintiff\u2019s mental disturbance and suffering; and reversed the judgment and ordered a new trial.\u201d</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

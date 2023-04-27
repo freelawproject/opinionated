@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1407\" lastpage=\"1407\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1461-20\">UNITED STATES of America, Plaintiff-Appellee, v. Mitchel D. COHEN, dba the White House, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1461-22\">No. 6-4.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1461-23\">Temporary Emergency Court of Appeals.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AxYb\">May 28, 1974.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1461-24\">Before TAMM, Chief Judge, and CHRISTENSEN and JOHNSON, Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1461-25\">ORDER OF AFFIRMANCE UNDER RULE 28</p>\n<author id=\"b1461-26\">TAMM, Chief Judge.</author>\n<p id=\"b1461-27\">The court having considered the record and briefs on this appeal and having found no reversible error in the decision of the District Court, 380 F.Supp. 147, the judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

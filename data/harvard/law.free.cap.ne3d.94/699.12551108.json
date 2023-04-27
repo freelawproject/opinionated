@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"699\" lastpage=\"699\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Termination: S.M.H., Appellant\n  <br/>\n  v.\n  <br/>\n  INDIANA DEPARTMENT OF CHILD SERVICES\n </parties>\n <court id=\"p-2\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-3\">\n  November 8, 2017\n </decisiondate>\n <disposition id=\"p-4\">\n  Transfer Denied.\n </disposition>\n <opinion id=\"p-5\">\n  Massa, J., Slaughter, J., and Goff, J., vote to deny transfer.\n </opinion>\n <opinion id=\"p-6\">\n  Rush, C.J., dissents from the denial of transfer with separate opinion in which David, J., concurs.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   Najam, J., May, J., Bailey, J.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

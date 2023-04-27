@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"969\" lastpage=\"969\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1027-4\">N\u00fam. 40.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AGK\">In re Miranda.</parties>\n<p data-order=\"2\" data-type=\"court\" id=\"ATs\">Original.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AzrL\">Enero 3, 1942.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1027-5\">A la anterior moci\u00f3n sobre condonaci\u00f3n de parte d\u00e9 la sentencia dictada en este caso en julio 29 de 1941; no ba lugar.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

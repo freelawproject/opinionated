@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1510\" lastpage=\"1510\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b790-10\">\n<em>Monday, January 6, 1997</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b790-11\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b790-12\">96-2790.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AkfL\">State v. Clemons.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b790-13\">Hamilton C.P. No. B9511119. This cause is pending before the court as an appeal from the Court of Common Pleas of Hamilton County. Upon consideration of appellant\u2019s motion for stay of execution.</p>\n<p id=\"b790-14\">IT IS ORDERED by the court that a stay of execution be, and hereby is, granted, pending further order of this court.</p>\n<judges id=\"b790-15\">Douglas, J., would grant pending this court\u2019s decision on direct appeal.</judges>\n<judges id=\"b790-16\">Pfeifer, J., would grant to a time certain.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

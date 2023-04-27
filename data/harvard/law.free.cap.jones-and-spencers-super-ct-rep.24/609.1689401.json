@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"609\" lastpage=\"609\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b633-9\">Kate Towart, Respondent <em>v. </em>The Broadway &amp; Seventh Avenue Railroad Company, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b633-10\">Decided January 7, 1889.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Aau\">Appeal by defendant from judgment entered on the verdict of a jury, and from an order denying a motion for a new trial upon the minutes.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aap\">Samuel B. Clarke, for appellant. Henry B. Stapler, for respondent.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"AvC\">Before Sedgwick, Ch. J., and Ingraham, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ArJ\">The only question involved was whether the damages were excessive. Per Curiam. The judgment and order should be affirmed, because, considering the testimony, it cannot be held that the jury abused its power to assess the damages.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

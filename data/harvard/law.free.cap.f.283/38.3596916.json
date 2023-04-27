@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"38\" lastpage=\"38\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b58-7\">SILVERTHORNE v. THADDEUS DAVIDS INK CO., Inc.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b58-8\">(Circuit Court of Appeals,. Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"at-dedup-0\">April 3, 1922.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b58-9\">No. 266.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b58-12\">William A. Redding and Warren S. Orton, both of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b58-13\">W. P. Preble, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b58-14\">Before HOUGH, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b58-15\">PER CURIAM.</author>\n<p id=\"Ac0\">Decree affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

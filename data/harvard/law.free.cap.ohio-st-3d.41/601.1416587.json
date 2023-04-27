@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b119-4\">Office of Disciplinary Counsel <em>v. </em>Bernstein.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b119-5\">[Cite as Disciplinary Counsel <em>v. </em>Bernstein (1989), 41 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b119-6\">(No. D.D. 88-27</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A8E\">Submitted January 11, 1989</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AP3\">Decided February 8, 1989.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b119-9\">Jan Michael Bernstein is publicly reprimanded.</p>\n<judges id=\"Aqn\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

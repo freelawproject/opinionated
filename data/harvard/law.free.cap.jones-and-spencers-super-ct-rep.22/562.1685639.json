@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"562\" lastpage=\"563\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b584-10\">Charles Northrop, Respondent, <em>v. </em>Alfred H. Smith, Impleaded, &amp;c., Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b584-11\">Decided June 23, 1887.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AE8\">Appeal from judgment en<page-number citation-index=\"1\" label=\"563\">*563</page-number>tered upon the verdict of a jury, and from order denying defendant\u2019s motion upon the minutes for a new trial.</summary>\n<p data-order=\"3\" data-type=\"judges\" id=\"AAC\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AxBM\">Opinion Per Curiam.</author>\n<p id=\"Avk\">Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
