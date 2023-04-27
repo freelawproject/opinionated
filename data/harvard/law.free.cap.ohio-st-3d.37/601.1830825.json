@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"323\" lastpage=\"323\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b387-4\">Dayton Bar Association <em>v. </em>Callahan.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b387-5\">[Cite as Dayton Bar Assn. <em>v. </em>Callahan (1988), 37 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b387-7\">No. D.D. 87-19</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ARpg\">Submitted June 1, 1988</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AEG\">Decided June 29, 1988.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b387-9\">The application for reinstatement to the practice of law is granted. J. Gerard Callahan, Jr., is reinstated to the practice of law in the state of Ohio.</p>\n<p id=\"b387-10\">(For earlier case, see [1988], 36 Ohio St. 3d 179, 522 N.E. 2d 542.)</p>\n<judges id=\"AX3G\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur,</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

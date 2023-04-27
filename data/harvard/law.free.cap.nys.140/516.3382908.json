@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"516\" lastpage=\"516\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b542-6\">MURPHY v. HURLEY et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A1pq\">(No. 2.)</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b542-7\">(Supreme Court, Appellate Division, Second Department.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Acvu\">February 21, 1913.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b542-8\">Appeal from Special Term, Kings County.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"Ao5\">Action by John J. Murphy against William S. Hurley and others. Plaintiff appeals from an order. Affirmed.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"b542-10\">Argued before JENKS, P. J., and BURR, THOMAS, CARR, and WOODWARD, JJ.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b542-11\">PER CURIAM.</author>\n<p id=\"ACs\">Order affirmed, with $10 costs and disbursements, on the authority of Murphy v. Hurley (Appeal No. 1) 140 N. Y. Supp. 614, decided herewith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"752\" lastpage=\"752\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b764-5\">JOSEPH DICKERSON, PROSECUTOR, v. JOSEPH ALTMAN, RECORDER OF ATLANTIC CITY, RESPONDENT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b764-6\">Submitted August 14, 1934</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ajb\">Decided October 6, 1934.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b764-7\">Before Justices Teen chard, Hei-ier and Perskie.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b764-8\">For the prosecutor-petitioner, <em>Samuel Morris.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b764-9\">For the respondent, <em>Anthony J. Siracusa.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b764-10\">Per Curiam.</author>\n<p id=\"b764-11\">The petition of the prosecutor for a rehearing is denied.</p>\n<p id=\"b764-12\">See <em>Dickerson </em>v. <em>Altman, </em>12 <em>N. J. Mis. R. </em>656; 174 <em>Atl. Rep. </em>207.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

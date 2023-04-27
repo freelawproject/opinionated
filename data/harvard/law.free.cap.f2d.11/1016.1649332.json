@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-16\">William P. RODGERS, Jr., Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1044-17\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-vz\">April 3, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1044-18\">No. 4660.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1044-20\">W. K. Zewadski, Jr., and Jo. Johnson, both of Tampa, Fla., for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1044-21\">Wm. M. Gober, U. S. Atty., of Tampa, Fla., and A. W. Henderson, Sp. Asst. Atty. Gen., for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1044-22\">Before WALKER, BRYAN, and FOSTER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-23\">PER CURIAM.</author>\n<p id=\"A4xG\">The record shows no reversible error. The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

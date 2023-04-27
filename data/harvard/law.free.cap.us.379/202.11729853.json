@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"202\" lastpage=\"202\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b302-5\">CROSS et al. <em>v. </em>BRUNING et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ApT\">No. 436,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AbmF\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A3V\">Decided December 7, 1964.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b302-8\">Per Curiam.</author>\n<p id=\"b302-9\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n<judges id=\"b302-10\">The Chief Justice took no part in the consideration or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

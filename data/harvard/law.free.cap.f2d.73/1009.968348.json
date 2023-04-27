@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1009\" lastpage=\"1009\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1037-24\">Frank B. PASTIR, Plaintiff-Appellant, v. Samuel GOLDFARB, Doing Business as Goldfarb Novelty Company, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1037-25\">No. 36.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1037-26\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AnZ\">Oct. 8, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1037-28\">Andrew Foulds, Jr., of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1037-29\">Arthur J. Hudson, of Cleveland, Ohio, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"legal\" id=\"b1037-30\">\u2022 Before MANTON, AUGUSTUS N. HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1037-31\">PER CURIAM.</author>\n<p id=\"b1037-32\">Affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

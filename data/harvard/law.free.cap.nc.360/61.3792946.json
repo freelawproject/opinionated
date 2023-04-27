@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"61\" lastpage=\"61\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Ahj\">Capps v. NW Sign Indus. of N.C., Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A83\">No. 383A05</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ag_\">1. Denied 11/03/05</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AMqh\">2. Denied 09/16/05</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"AaM\">3. Denied 09/16/05</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMzH\">1. Pit\u2019s Motion to Dismiss Appeal</p>\n<p id=\"Ad5\">2. Defs\u2019 Motion for Temporary Stay (COA04-1229)</p>\n<p id=\"AB5\">3. Defs\u2019 Petition for Writ of Supersedeas</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

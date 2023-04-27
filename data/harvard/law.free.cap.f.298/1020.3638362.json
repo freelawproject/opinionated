@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1042-7\">Jacob B. HIRSHFELD, doing business as J. B. Hirshfeld <em>&amp; </em>Company, Plaintiff in Error, v. TENNESSEE MILLS, Inc., Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AbqQ\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AfGU\">May 5, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AHjJ\">No. 353.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"AIN\">Before HOUGH, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1042-8\">PER CURIAM.</author>\n<p id=\"ASc\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"811\" lastpage=\"811\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b833-8\">COFFEY, Internal Revenue Collector, etc., et al. v. EXCHANGE BANK OF LENNOX.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b833-10\">(Circuit Court of Appeals, Eighth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aux\">February 26, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b833-11\">No. 6458.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b833-14\">Before SANBORN, Circuit Judge, and TRIEBER and HUNGER, District Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b833-15\">PER CURIAM.</author>\n<p id=\"As_K\">In this cause the issues involved are identical with those in 6342 (296 Fed. 807), were argued orally, and submitted by the same attorneys and on the same briefs. For the reasons therein stated, the judgment of the District Court is reversed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

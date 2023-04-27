@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1050-24\">Mrs. Mary WILLIS v. COMMISSIONER OF INTERNAL REVENUE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1050-25\">No. 1172.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1050-26\">. Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ABA\">Nov. 28, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1050-28\">Albert L. McRill, of Oklahoma City, Okl., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1050-29\">Robert H. Jackson, Asst. Gen. Counsel, Bureau of Internal Revenue, of Washington, D. C., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1050-30\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1050-31\">PER CURIAM.</author>\n<p id=\"b1050-32\">Petition for review dismissed on motion of respondent, petitioner consenting.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

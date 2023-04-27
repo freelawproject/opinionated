@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1046-15\">In the Matter of Philip HORINSTEIN, Bankrupt, J. Kridel Sons &amp; Company, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1046-16\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1046-17\">January 20, 1927.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1046-18\">No. 784.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1046-20\">B.enjamin Siegel, of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1046-21\">(Miss) A.' Rosenstein, \u00f3f New York City, and Frooks &amp; Prooks, of New York City (Archibald Palmer, of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1046-22\">Before HOUGH, MANTON, and HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1046-23\">PER CURIAM.</author>\n<p id=\"A3hS\">Order reversed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

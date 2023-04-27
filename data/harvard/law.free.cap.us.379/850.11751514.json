@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"850\" lastpage=\"850\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b848-6\">No. <em>37,</em></docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AyOR\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ANJs\">Huffman <em>v. </em>Douglas Aircraft Co. et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AG7Y\">Petitioner <em>pro se. Lewis B. Carpenter </em>for respondents.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFp\">Supreme Court of North Carolina. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"551\" lastpage=\"551\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b575-4\">GEORGE W. WHITE, Respondent, <em>v. </em>CHARLES WHITE, et al., Appellants.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b575-5\">Before Sedgwick, Ch. J., and Freedman, ,J.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b575-6\"><em>Decided June </em>6, 1881.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b575-7\">Appeal from order denying defendants\u2019 motion to make certain parts of the complaint more definite and certain, or to strike them out as irrelevant and redundant.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b575-8\"><em>F. O. </em>Bowman, for appellants. ,</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b575-9\"><em>George H. </em>Adams, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b575-10\">Per Curiam.</author>\n<p id=\"A2y\">The order should be affirmed, witit costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

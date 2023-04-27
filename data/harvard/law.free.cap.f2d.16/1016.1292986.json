@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-33\">Rosario GAMBINO and Joseph Lima, Plaintiffs in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1044-34\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ARuq\">January 21, 1927.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1044-35\">No. 142.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1044-37\">Irving K.' Baxter, of Utica, N. Y., for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"legal\" id=\"b1044-38\">\u201c Oliver D. Burden, U. S. Atty., of Syracuse, N. Y.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1044-39\">Before MANTON and LEARNED HAND, Circuit Judges, and AUGUSTUS N. HAND, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-40\">PER CURIAM.</author>\n<p id=\"Ay3\">Judgment of conviction affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

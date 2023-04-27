@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"703\" lastpage=\"703\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b759-29\">DEWARD &amp; RICH, Inc., and Amsterdam Syndicate, Inc., Appellants, v. C. H. BRIDGES, d/b/a Bridges Shoe Store, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b759-30\">No. 12221.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b759-31\">United States Court of Appeals Fifth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b759-32\">Dec. 7, 1948.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b759-34\">M. M. Wade and E. Hastings Ackley, both of Dallas, Tex., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b759-35\">Mark E. Kramer, of Dallas, Tex., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b759-36\">Before HOLMES, WALLER, and LEE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b759-37\">PER CURIAM.</author>\n<p id=\"b759-38\">The judgment appealed from is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

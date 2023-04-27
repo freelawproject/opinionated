@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"539\" lastpage=\"540\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b563-15\">JOHN HASATT v. EDWARD M. TOWNSEND.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"Aut\">Before Sedgwick, Ch. J., Fbeedman and Tbuax, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b563-16\"><em>Decided April </em>4, 1881.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b563-17\">. Complaint dismissed, and exceptions ordered to be heard at general term in first instance.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b564-4\"><page-number citation-index=\"1\" label=\"540\">*540</page-number><em>O. J. Wells, </em>for plaintiff.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b564-5\"><em>North, Ward &amp; Wagstaff, </em>attorneys, and Lang-<em>don Ward, </em>of counsel, for defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b564-6\">Opinion pee Curiam.</author>\n<p id=\"b564-7\">Exceptions overruled, and judgment to be entered, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

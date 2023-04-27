@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1002\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1030-29\">Samuel P. BROWN, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1030-30\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1030-31\">April 3, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1030-32\">No. 4741.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1030-34\">M. H. Myerson, of Jacksonville, Fla., for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1030-35\">Francis L. Poor, Asst. U. S. Atty., of Jacksonville, Fla., and Chas. L. Redding, Asst. U. S. Atty., of Savannah, Ga.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1030-36\">Before WALKER, BRYAN, and FOSTER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1030-37\">PER CURIAM.</author>\n<p id=\"Aaq\">The order appealed</p>\n<p id=\"AuU7\">from is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

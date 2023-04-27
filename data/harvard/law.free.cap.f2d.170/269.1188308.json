@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"269\" lastpage=\"269\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"1\" data-type=\"parties\" id=\"b325-18\">Ernest Lawrence PAPORELLO v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b325-19\">No. 3696.</docketnumber>\n<court data-order=\"3\" data-type=\"court\" id=\"b325-20\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b325-21\">Sept. 10, 1948.</decisiondate>\n<attorneys data-order=\"0\" data-type=\"attorneys\" id=\"b325-3\">Philip H. Dunleavy and Joe L. Martinez, both of Albuquerque, N. M., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b325-23\">Everett M. Grantham, U. S. Atty., of Santa Fe, N. M., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b325-24\">Before PHILLIPS, Chief Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b325-25\">PER CURIAM.</author>\n<p id=\"b325-26\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

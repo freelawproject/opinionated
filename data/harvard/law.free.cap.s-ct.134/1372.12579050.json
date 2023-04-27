@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1372\" lastpage=\"1372\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Donald G. JONES, petitioner,\n  <br/>\n  v.\n  <br/>\n  DEPARTMENT OF the TREASURY, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-1456.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Feb. 24, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12579875,12579876,12579877,12579878,12579879,12579880,12704036,12704037,12702357,12702358,12702359,12702968\" index=\"0\" url=\"https://cite.case.law/s-ct/134/174/\">\n   134 S.Ct. 174\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   <strong>\n    Justice ALITO took no part in the consideration or decision of this petition.\n   </strong>\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

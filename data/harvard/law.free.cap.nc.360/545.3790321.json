@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"545\" lastpage=\"545\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b617-4\">Swift v. Richardson Sports Ltd. Partners</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AI_F\">No. 598P05</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AAP\">1. Denied (06/29/06)</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A5bn\">2. Dismissed as Moot (06/29/06)</otherdate>\n<p data-order=\"4\" data-type=\"otherdate\" id=\"AEni\">3. Denied (06/29/06)</p>\n<p data-order=\"5\" data-type=\"attorneys\" id=\"Ajj\">4. Dismissed as Moot (06/29/06)</p>\n<judges data-order=\"6\" data-type=\"judges\" id=\"AfD\">Timmons-Goods\u00f3n, J., Recused</judges>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ar-F\">1. Pit\u2019s PDR Under N.C.G.S. \u00a7 7A-31 (COA04-302-2)</p>\n<p id=\"A-sG\">2. Defs Conditional PDR Under N.C.G.S. \u00a7 7A-31</p>\n<p id=\"AJqZ\">3. Pit\u2019s Motion to Remand</p>\n<p id=\"AOl\">4. Defs\u2019 Motion to Dismiss Pit\u2019s PDR</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

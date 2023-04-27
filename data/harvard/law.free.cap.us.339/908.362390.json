@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b922-6\">\n<em>Miscellaneous Orders.</em>\n</p>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b922-7\">No.-.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AVh\">Lancaster et al. <em>v. </em>Hammond, Attorney General of Maryland, et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aq2\"><em>I. Duke Avnet </em>for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AFTq\"><em>Hall Hammond, </em>Attorney General of Maryland, and <em>J. Edgar Harvey, </em>Deputy Attorney General, for appellees.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADqB\">The motion for a stay of the mandate of the Court of Appeals of Maryland, referred to the Court by Mr. Justice Black, is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

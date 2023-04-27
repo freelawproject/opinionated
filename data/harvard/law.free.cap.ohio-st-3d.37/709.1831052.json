@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"337\" lastpage=\"337\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b401-3\">Monday, June 6, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b401-4\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b401-5\">88-658.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AFC\">State v. Perry.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AuL\"><em>Allen County, </em>No. 1-88-12. On motion for stay. Motion granted.</p>\n<judges id=\"b401-6\">Locher, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"484\" lastpage=\"484\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AfHS\">State v. Brown</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AQXZ\">No. 565A83-5</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJV\">1. Denied 04/13/06</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AYTG\">2. Denied 04/13/06</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"AxjG\">3. Denied 04/13/06</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ap01\">1. Def\u2019s PWC to Review Order of Martin County Superior Court</p>\n<p id=\"Ac0p\">2. Defs Petition for Writ of Supersedeas</p>\n<p id=\"AqiQ\">3. Def\u2019s Petition for Stay of Execution</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

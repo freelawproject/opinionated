@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"724\" lastpage=\"724\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b450-4\">Thursday, November 3, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b450-5\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b450-6\">88-1657.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AU9\">Smith v. Williams.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4ZC\"><em>Wood County, </em>No. WD-76-5. On motion to stay the Deed of Sheriff pending the appeal to this court. Motion granted.</p>\n<judges id=\"b450-7\">Douglas and Wright, JJ., dissent.</judges>\n<judges id=\"b450-8\">Locher, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

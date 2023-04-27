@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"280\" lastpage=\"280\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b336-16\">Russell O. SNIDER v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b336-17\">No. 3565.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b336-18\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b336-19\">Nov. 8, 1947.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b336-21\">Will G. Beardslee, of Seattle, Wash., and E. E. Birchby, of Sheridan, Wyo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b336-22\">Carl L. Sackett, U. S. Atty., and John C. Pickett, Asst. U. S. Atty., both of Cheyenne, Wyo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b336-23\">Before PHILLIPS, Circuit Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b336-24\">PER CURIAM.</author>\n<p id=\"b336-25\">Appeal dismissed on motions of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

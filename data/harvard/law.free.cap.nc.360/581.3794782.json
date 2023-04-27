@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"581\" lastpage=\"581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AsI\">State v. Sink</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AY9V\">No. 347P06</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ARaJ\">1. Denied 07/10/06</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AKHX\">2. Denied 8/17/06</otherdate>\n<p data-order=\"4\" data-type=\"docketnumber\" id=\"AHyi\">3. Denied</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABkR\">1. Def\u2019s Motion for Temporary Stay (COA05-874)</p>\n<p id=\"AOP4\">2. Def\u2019s Petition for Writ of Supersedeas (COA05-874)</p>\n<p id=\"A6-v\">3. Def\u2019s PDR Under N.C.G.S. \u00a7 7A-31</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

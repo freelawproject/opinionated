@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1027-36\">Paco ANTIONO and another, Plaintiffs in Error, v. UNITED STATES, Defendant In Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1027-38\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1027-39\">May 7, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1027-40\">No. 344.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1027-42\">Isidore Oshlag and Joseph H. Washer-man, both of Brooklyn, N. Y., for plaintiffs in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1027-43\">William A. De Groot, U. S. Atty., of Brooklyn, N. Y. (Herbert H. Kellogg, of Brooklyn, N. Y., of counsel), for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1027-44\">Before HOUGH, MANTON, and MACK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1027-45\">PER CURIAM.</author>\n<p id=\"A1R\">Judgment affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

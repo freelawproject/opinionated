@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1009\" lastpage=\"1009\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"AbV\">NEW YORK COMMON PLEAS</court>\n<p data-order=\"1\" data-type=\"p\" id=\"Amjy\">GENERAL TERM.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A8Tb\">Filed June 3, 1889.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A-Sy\">PATRICK SCANLON, Resp\u2019t, v. CHARLES BROPLY and ano., App\u2019lts.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aj0\"><em>A. H. Beawy, </em>for resp\u2019t; <em>A. Lamont, </em>for app\u2019lts.</attorneys>\n<summary data-order=\"5\" data-type=\"summary\" id=\"Aisi\">Appeal from second district court, Mubbay, J.</summary>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYW\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

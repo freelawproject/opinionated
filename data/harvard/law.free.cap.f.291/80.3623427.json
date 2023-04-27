@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"80\" lastpage=\"80\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"pAqZ\">THE WILLIAM M. TUPPER. THE GREENWICH.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b98-11\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ajg\">March 5, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b98-12\">Nos. 149, 150.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b98-15\">Macklin, Brown, Purdy &amp; Van Wyck, of New York City (Pierre M. Brown, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b98-16\">Burlingham, Veeder, Masten &amp; Fearey, of New York City (Chauncey I. Clark, of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b98-17\">Before ROGERS, HOUGH, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b98-18\">PER CURIAM.</author>\n<p id=\"AGr\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

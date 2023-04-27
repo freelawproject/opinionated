@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"535\" lastpage=\"535\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AeSq\">Renfro v. Richardson Sports Ltd. Partners</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aa2x\">No. 537P05</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AH1m\">1. Denied (06/29/06)</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AVF7\">2. Dismissed as Moot (06/29/06)</otherdate>\n<p data-order=\"4\" data-type=\"otherdate\" id=\"AIXr\">3. Denied (06/29/06)</p>\n<p data-order=\"5\" data-type=\"attorneys\" id=\"Ak1E\">4. Dismissed as Moot (06/29/06)</p>\n<judges data-order=\"6\" data-type=\"judges\" id=\"Alj4\">Timmons-Goodson, J., Recused</judges>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AB1t\">1. Pit\u2019s PDR Under N.C.G.S. \u00a7 7A-31 (COA04-1407)</p>\n<p id=\"Anhr\">2. Defs Conditional PDR Under N.C.G.S. \u00a7 7A-31</p>\n<p id=\"ARqm\">3. Pit\u2019s Motion to Remand</p>\n<p id=\"ATok\">4. Defs\u2019 Motion to Dismiss Pit\u2019s PDR</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

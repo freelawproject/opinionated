@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"479\" lastpage=\"479\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b535-30\">Shirley Marie GREEN et al., Appellants, v. SIMPLICITY PATTERN CO., Inc., Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b535-32\">No. 12359.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b535-33\">United States Court of Appeals Fifth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AWo\">Nov. 17, 1948.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b535-35\">Richard B. Shults and Philip I. Palmer, both of Dallas, Tex., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b535-36\">Norman N. Holland, of New York City, and S. Austin Wier and Howard E. Moore, both of Dallas, Tex., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b535-37\">Before HOLMES, WALLER, and LEE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b535-38\">PER CURIAM.</author>\n<p id=\"b535-39\">The judgment appealed from is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"606\" lastpage=\"606\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b424-13\">In re Resignation of Carter.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b424-14\">[Cite as In re Resignation of Carter (1988), 39 Ohio St. 3d 606.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b424-15\">(No. D.R. 88-7</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ApE\">\u2014 Submitted October 19, 1988 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ANYc\">Decided November 23, 1988.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b424-16\">The resignation of Robert A. Carter, Jr. as an attorney is accepted.</p>\n<judges id=\"A2O\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

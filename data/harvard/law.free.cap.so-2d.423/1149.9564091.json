@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1149\" lastpage=\"1149\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1209-5\">IMC EXPLORATION COMPANY &amp; The Petroleum Corp. of Delaware v. Foster HENDERSON, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1209-8\">No. 82-C-2588.</docketnumber>\n<p data-order=\"2\" data-type=\"seealso\" id=\"AR-r\">(SEE 82-C-2592).</p>\n<court data-order=\"3\" data-type=\"court\" id=\"Al6\">Supreme Court of Louisiana.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b1209-9\">Nov. 29, 1982.</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1209-10\">In re Kent Upson and Todd Upson, applying for certiorari, or writ of review, to the Court of Appeal, Second Circuit. Parish of DeSoto. Eleventh Judicial District Court. Parish of DeSoto. 419 So.2d 490.</p>\n<p id=\"b1209-11\">Denied.</p>\n<judges id=\"b1209-12\">WATSON, J., would grant the writ.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

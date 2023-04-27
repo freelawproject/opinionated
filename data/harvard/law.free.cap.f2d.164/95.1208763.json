@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"95\" lastpage=\"95\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b151-19\">UNITED STATES of America, Plaintiff-Appellee, v. Josef BELAND, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b151-20\">No. 25, Docket 20657.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b151-21\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b151-22\">Nov. 14, 1947.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b151-24\">Andrew J. Reisinger, of New York City (Raymond Tese, of New York City, of counsel), for defendant-appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b151-25\">Irving J. Higbee, U. S. Atty., of Syracuse, N. Y., for plaintiff-appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b151-26\">Before L. HAND, A. N. HAND, and FRANK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b151-27\">PER CURIAM.</author>\n<p id=\"b151-28\">Order affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1085-2\">New York Superior Court</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AFI1\">General Term.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1085-3\">Filed March 4, 1890.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1085-4\">Robert Morrison <em>v. </em>The Met. El. R. R.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1085-5\">Judgment and order affirmed, with costs. Opinion per curiam.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"6\" lastpage=\"6\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b106-12\">MALONEY <em>v. </em>HOLDEN, JUDGE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b106-14\">No. 225,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AS-\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AnS\">Decided October 12, 1964.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b106-16\">Per Curiam.</author>\n<p id=\"b106-17\">The appeal is. dismissed for want of a substantial fed\u00e9ral question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

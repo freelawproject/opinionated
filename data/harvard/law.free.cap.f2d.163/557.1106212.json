@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"557\" lastpage=\"557\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b609-3\">UNITED STATES of America v. ORIENTAL REFINING COMPANY et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b609-4\">No. 3503.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b609-5\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ayu-dedup-0\">Aug. 4, 1947.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b609-7\">Max M. Bulkeley, U. S. Atty., of Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b609-8\">Max P. Zall, of Denver, Colo., for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b609-9\">Before PHILLIPS and BRATTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b609-10\">PER CURIAM.</author>\n<p id=\"b609-11\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

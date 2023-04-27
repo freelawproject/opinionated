@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"551\" lastpage=\"551\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b575-11\">PETER D. STRAUCH, et al., Respondents, v. CATHARINE WARREN, Appellant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b575-13\">Before Speir and Freedman, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ANK\">Decided <em>June </em>6, 1881.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b575-14\">Appeal from judgment and from an order denying: a motion for a new trial upon the minutes.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b575-16\"><em>S. F. Kneeland, </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b575-17\"><em>George W. </em>Lord, for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b575-18\">Opinion per Curiam.</author>\n<p id=\"b575-19\">Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

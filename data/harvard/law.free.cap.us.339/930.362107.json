@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"930\" lastpage=\"930\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b944-8\">\n<em>Certiorari Granted.</em>\n</p>\n<seealso data-order=\"1\" data-type=\"seealso\" id=\"A90\">\n<em>(See No. 286, ante, p. 258.)</em>\n</seealso>\n<p data-order=\"2\" data-type=\"court\" id=\"b944-9\">\n<em>Certiorari Denied.</em>\n</p>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b944-10\">No. 547.</docketnumber>\n<parties data-order=\"4\" data-type=\"parties\" id=\"Aor\">Snyder <em>v. </em>Woods, Housing Expediter.</parties>\n<court data-order=\"5\" data-type=\"court\" id=\"At42\">United States Emergency Court of Appeals.</court>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AEX8\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"A8R\"><em>Solicitor General Perlman, John R. Benney, Ed Dupree, Charles P. Lift </em>and <em>Philip Travis </em>for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7YOI\">Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

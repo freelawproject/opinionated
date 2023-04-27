@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"10\" lastpage=\"10\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AHy\">McILVAINE et al. <em>v. </em>LOUISIANA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b110-14\">No. 21,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A5O\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aqd\">Decided October 12, 1964.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b110-16\"><em>Maurice R. Woulfe </em>for petitioners.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b110-17\"><em>Jim Garrison </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b110-18\">Per Curiam.</author>\n<p id=\"b110-19\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Louisiana for further consideration in light of <em>Aguilar </em>v. <em>Texas, </em>378 U. S. 108.</p>\n<judges id=\"b110-20\">Mr. Justice Black dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

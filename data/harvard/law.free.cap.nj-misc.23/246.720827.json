@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"246\" lastpage=\"246\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b252-5\">FAMILY FINANCE CORPORATION, PLAINTIFF, v. MILDRED BUSCH AND LEON BUSCH, OTHERWISE KNOWN AS LOUIS SILK, DEFENDANTS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b252-6\">Argued January 16, 1945</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AL1\">Decided February 7, 1945.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b252-8\">Before Justices Parker and Colie.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b252-9\">Por ihe defendants, <em>Ira J. Katchen.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b252-10\">Per Curiam.</author>\n<p id=\"b252-11\">On the facts laid before us in this case we think it indubitable that the defendants are entitled to a change of venue to Monmouth County. To that end a suitable rule may be entered in the clerk\u2019s office.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

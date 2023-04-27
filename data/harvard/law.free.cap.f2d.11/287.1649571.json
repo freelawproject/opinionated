@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"287\" lastpage=\"287\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b315-8\">In the Matter of Louis J. MANNER, Bankrupt, Flossie Manner, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b315-9\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b315-10\">December 22, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b315-11\">No. 172.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b315-13\">Layton H. Vogel, of Buffalo, N. Y., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b315-14\">Ward B. Arbury, of Buffalo, N. Y., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b315-15\">Before ROGERS, HOUGH, and MANTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b315-16\">PER CURIAM.</author>\n<p id=\"A_2\">Order (11 F.[2d] 286) affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"77\" lastpage=\"77\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b95-4\">THE ASUARCA.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b95-5\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ApX\">April 16, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b95-6\">No. 274.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b95-9\">Kirlin, Woolsey, Campbell; Hickox &amp; Keating, of New York City (Robert S. Erskine, John M. Woolsey, and Harry D. Thirkield, all of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b95-10\">Bigliam, Englar &amp; Jones, of New York City (T. Catesby Jones and William H. Woolley, both of New York City, of counsel), for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b95-11\">Before ROGERS, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b95-12\">PER CURIAM.</author>\n<p id=\"A-t\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

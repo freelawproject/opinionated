@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1049-37\">GULF COAST SECURITIES COMPANY, Inc., and D. E. Kirgan, Appellants, v. J. C. HOPE, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1049-38\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIaa\">December 26, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1049-39\">No. 5279.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1049-41\">A. W. Cameron and J. C. Epperson, both of Edinburg, Tex., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1049-42\">S. N. McWhorter, of Weslaco, Tex. (Thompson <em>&amp; </em>McWhorter, of Weslaco, Tex., on the brief), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1049-43\">Before WALKER and FOSTER, Circuit Judges, and DAWKINS, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1049-44\">PER CURIAM.</author>\n<p id=\"A62_\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

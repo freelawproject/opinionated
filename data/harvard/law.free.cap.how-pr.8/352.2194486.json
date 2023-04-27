@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"352\" lastpage=\"352\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b360-3\">SUPREME COURT.</court>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b360-4\">Bonesteel, appellant, agt. Lynde and others, respondents.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"b360-5\">\n<em>Monroe General Term,</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ATZ\">September, 1853.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"AB\">Welles, Johnson, and T. R. Strong, Justices.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b360-6\">The decision at special term, in this case, as reported in the present volume, <em>ante p. </em>226, was affirmed on appeal, at the present term, and for the reasons stated by the justice at the special term.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

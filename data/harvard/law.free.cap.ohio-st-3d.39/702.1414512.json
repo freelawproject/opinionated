@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"702\" lastpage=\"702\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b428-11\">Wednesday, September 28, 1988</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b428-12\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b428-13\">88-866.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AuC\">State v. Burton.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOf\"><em>Franklin County, </em>No. 87AP-864. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"b428-14\">Moyer, C.J., Holmes, Wright and H. Brown, JJ., concur.</judges>\n<judges id=\"b428-15\">Sweeney, Locher and Douglas, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

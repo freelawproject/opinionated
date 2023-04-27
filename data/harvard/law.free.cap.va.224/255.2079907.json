@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"255\" lastpage=\"255\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b285-4\">Richmond</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b285-5\">Larry Dade v. Commonwealth of Virginia</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b285-8\">October 15, 1982.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b285-9\">Record No. 811791.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b285-10\">Present: Carrico, C.J., Cochran, Poff, Compton, Stephenson and Russell, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b285-13\"><em>Robert S. Letnick </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b285-14\"><em>Alan Katz, Assistant Attorney General (Gerald L. Balites, Attorney General, </em>on brief), for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b285-15\">\n<em>Affirmed.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1051-16\">Robert C. WHITNEY, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1051-17\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AU_\">January 21, 1927.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1051-18\">No. 143.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1051-21\">Irving K. Baxter, of Utica, N. Y., for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1051-22\">Oliver D. Burden, U. S. Atty., of Syracuse, N. Y., for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1051-23\">Before MANTON and LEARNED HAND, Circuit Judges, and AUGUSTUS N. HAND, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1051-24\">PER CURIAM.</author>\n<p id=\"Adt0\">Judgment of conviction, affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"482\" lastpage=\"482\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AWcx\">MacEachern v. MacEachern</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AxS\">No. 048P06</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ATq\">1. Dismissed ex mero motu (04/06/06)</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ABbQ\">2. Denied (04/06/06)</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"Adv\">3. Dismissed (04/06/06)</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2U9\">1. Def\u2019s NOA (COA04-1453)</p>\n<p id=\"AvQ\">2. Def\u2019s PDR Under N.C.G.S. \u00a7 7A-31</p>\n<p id=\"AR4C\">3. Def\u2019s Motion for \u201cPetition to Review after Remand\u201d</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

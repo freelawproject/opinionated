@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"545\" lastpage=\"545\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Axb_\">Walker v. Fleetwood Homes of N.C.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_iu\">No. 223A06</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AK_W\">2. Allowed (06/29/06)</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AgLg\">3. Denied (06/29/06)</otherdate>\n<p data-order=\"4\" data-type=\"otherdate\" id=\"AJ_k\">4. Denied (06/29/06)</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVGu\">1. Defs NOA (Dissent) (COA04-1466)</p>\n<p id=\"AhfD\">2. Def\u2019s PDR Under N.C.G.S. \u00a7 7A-31</p>\n<p id=\"AWWt\">3. Pits\u2019 PWC to Review Orders of the COA</p>\n<p id=\"A1To\">4. Pits\u2019 Conditional PDR Under N.C.G.S. \u00a7 7A-31</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

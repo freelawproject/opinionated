@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"363\" lastpage=\"363\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b435-4\">Goldston v. State of N.C.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ay2y\">No. 328P04-2</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIxY\">2. Allowed (03/02/06)</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AGIM\">3. Denied (03/02/06)</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"AJ2S\">4. Allowed (03/02/06)</p>\n<judges data-order=\"5\" data-type=\"judges\" id=\"Ari\">Timmons-Goodson, J. Recused</judges>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Adt\">1. Pit\u2019s NOA Based Upon a Constitutional Question (COA04-593)</p>\n<p id=\"A2WR\">2. Pit\u2019s PDR Under N.C.G.S. \u00a7 7A-31</p>\n<p id=\"AAs8\">3. Pit\u2019s Alternative PDR of Constitutional Issues Pursuant to N.C.G.S. \u00a7 7A-31</p>\n<p id=\"A2d\">4. Def\u2019s Motion to Dismiss Appeal</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

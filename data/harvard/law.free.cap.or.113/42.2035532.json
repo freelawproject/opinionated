@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"42\" lastpage=\"43\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b78-8\">On motion to dismiss appeal. Appeal dismissed December 16, 1924.</decisiondate>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b78-9\">J. A. HARRIS <em>v. </em>J. S. LEBB, SECURITY SAVINGS &amp; TRUST CO. et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b78-10\">(231 Pac. 187.)</citation>\n<p data-order=\"3\" data-type=\"docketnumber\" id=\"b78-11\">(No Syllabus.)</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b78-15\"><em>Messrs. </em>Chamberlain, <em>Thomas \u00e9 Kraemer, </em>for the motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b79-3\"><page-number citation-index=\"1\" label=\"43\">*43</page-number>No appearance <em>contra.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b79-4\">McBRIDE, C. J.</author>\n<p id=\"Ar\">The facts in this case are the same as the facts in the other case of <em>Harris </em>v. <em>Lebb, </em>decided this day, and for the reason there 'given the appeal is dismissed.</p>\n<p id=\"b79-5\">Appeal Dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

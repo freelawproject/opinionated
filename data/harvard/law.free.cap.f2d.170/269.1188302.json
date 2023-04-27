@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"269\" lastpage=\"269\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b325-28\">TAKASABURO SEKINO et al. v. Tom C. CLARK et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b325-29\">No. 3517.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b325-30\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b325-31\">Sept. 13, 1948.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b325-33\">A. L. Wirin and Fred Okrand, both of Los Angeles, Cal., and Warwick C. Lamoreaux, of Salt Lake City, Utah, for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b325-34\">Dan B. Shields, U. S. Atty., and Scott M. Matheson and O. K. Clay, Asst. U. S. Atty., all of Salt Lake City, Utah, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b325-35\">Before BRATTON, HUXMAN, and MURRAH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b325-36\">PER CURIAM.</author>\n<p id=\"b325-37\">Appeal dismissed on motion of appellants.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

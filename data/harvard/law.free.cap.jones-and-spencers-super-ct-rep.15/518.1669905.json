@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"518\" lastpage=\"518\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b542-4\">IRWIN A. WILLIAMS <em>v. </em>HENRY B. SHUTE.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"AoS\">Before Sedgwick, Ch. J., and Russell, &lt;T.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b542-5\"><em>Decided December </em>30, 1880.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b542-6\">Appeal by the sheriff of the city and county of New York from an order directing him to admit the defendant to the iail liberties.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b542-7\"><em>Knox &amp; </em>McLean, for the sheriff;</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b542-8\"><em>Man &amp; </em>Parsons, for defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b542-9\">No opinion.</p>\n<p id=\"b542-10\">Order affirmed, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

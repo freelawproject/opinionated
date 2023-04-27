@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"959\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b973-9\">May 29, 1950.</decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b973-10\">\n<em>Per Curiam Decisions.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b973-11\">No. 671.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Az2s\">United States Gypsum Co. et al. <em>v. </em>United States.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AWBJ\"><em>Albert R. Connelly, Cranston Spray </em>and <em>Hugh Lynch, Jr. </em>for appellants.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aymc\">Appeal from the United States District Court for the District of Columbia.</p>\n<author id=\"AOqv\">Per <em>Curiam:</em></author>\n<p id=\"A2dV\">The appeal is dismissed.</p>\n<judges id=\"ASO\">Mr. Justice Jackson and Mr. Justice Clark took no part in the consideration or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

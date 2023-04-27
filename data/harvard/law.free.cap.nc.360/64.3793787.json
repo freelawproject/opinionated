@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"64\" lastpage=\"64\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AbJ\">Kegly v. City of Fayetteville</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aqv\">No. 342P04-3</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"APX\">1. Denied 09/13/05</decisiondate>\n<p data-order=\"3\" data-type=\"p\" id=\"AoJ5\">2.Denied 09/13/05</p>\n<judges data-order=\"4\" data-type=\"judges\" id=\"Auct\">Brady, J. Recused</judges>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AEW\">1. Petitioners\u2019 Urgent Motion for Stay Pending Appeal (COA04-1123)</p>\n<p id=\"ALM\">2. Petitioners\u2019 Petition for Writ of Supersedeas</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

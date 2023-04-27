@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"67\" lastpage=\"67\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AWiT\">State v. Borkar</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A7Xk\">No. 502P05</docketnumber>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AiN\">1. Allowed Pending Determination of the State\u2019s PDR 09/16/05</otherdate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Auj\">Stay Dissolved 11/03/05</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A59\">2. Denied 11/03/05</decisiondate>\n<p data-order=\"5\" data-type=\"otherdate\" id=\"AnB\">3. Denied 11/03/05</p>\n<otherdate data-order=\"6\" data-type=\"otherdate\" id=\"AJi\">4. Dismissed as moot 11/03/05</otherdate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9R\">1. AG\u2019s Motion for Temporary Stay (COA04-1159)</p>\n<p id=\"A1W\">2. AG\u2019s Petition for Writ of Supersedeas</p>\n<p id=\"AGx-\">3. AG\u2019s PDR Under N.C.G.S. \u00a7 7A-31</p>\n<p id=\"Acv\">4. Def\u2019s Conditional PDR Under N.C.G.S. \u00a7 7A-31</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

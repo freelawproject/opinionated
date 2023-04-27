@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"93\" lastpage=\"93\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b105-8\">Supreme Court, New York Special Term.</court>\n<p data-order=\"1\" data-type=\"judges\" id=\"AH9\">Reported. N. Y. L. J.r</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b105-9\">March 5, 1903.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b105-10\">In the Matter of the Application of Martin Armstrong to Revoke the Liquor Tax Certificate of Martin Anderson.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b105-11\"><em>Joseph P. Joachvmsen, </em>for petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b105-12\">McCall, J.:</author>\n<p id=\"AWC\">In this matter I am not at all satisfied that the service made was a proper service but eliminating that feature, the essential requirement of the written consent of the State Commissioner of Excise, as provided for in subdivision 2 of section 28 of the Liquor Tax Law is lacking and upon that ground, if no other, the motion is denied with leave to renew.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

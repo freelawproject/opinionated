@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-29\">UNITED STATES of America v. Hans Andrew HANSEN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1044-30\">No. 1144.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1044-31\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AXhj\">Sept. 10, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1044-33\">Dan B. Shields, U. S. Atty., of Salt Lake City, Utah.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1044-34\">Hawley &amp; Worthwine, of Boise, Idaho, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1044-35\">Before LEWIS, MeDERMOTT, and BRATTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-36\">PER CURIAM.</author>\n<p id=\"b1044-37\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

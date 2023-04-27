@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"16\" lastpage=\"16\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b116-3\">BOHMAN <em>v. </em>CITY OF BOSTON REAL ESTATE COMMISSION.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b116-5\">No. 312,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A7j\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A40\">Decided October 19, 1964.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b116-7\">Per Curiam.</author>\n<p id=\"b116-8\">The appeal is dismissed for want of a substantial federal question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

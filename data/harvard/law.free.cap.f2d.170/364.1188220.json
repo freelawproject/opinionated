@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"364\" lastpage=\"364\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b420-33\">A. J. HOOVER et al. v. FOX RIG &amp; LUMBER COMPANY et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b420-34\">No. 3784.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b420-35\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b420-36\">Oct. 21, 1948.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b420-38\">E. O. Monnett, of Tulsa, Okl., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b420-39\">Ezra Dyer and Earl Q. Gray, both of Ardmore, Okl., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b420-40\">Before PHILLIPS, Chief Judge, and BRATTON and HUXMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b420-41\">PER CURIAM.</author>\n<p id=\"b420-42\">Docketed and dismissed, on motion of appellees, for failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

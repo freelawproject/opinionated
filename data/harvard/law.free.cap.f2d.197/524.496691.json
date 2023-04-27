@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"524\" lastpage=\"524\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b574-9\">SOUTHWEST TELEPHONE COMPANY v. Glen FIRESTONE, Administrator of the Estate of Wauwiece Thornton, deceased.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b574-12\">No. 4455.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b574-13\">United States Court of Appeals Tenth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AtS\">June 9, 1952.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b574-15\">Charles Vance, Liberal, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b574-16\">Russell L. Hazzard, Dodge City, Kan., and Otto Smith, Clovis, N. Mex., for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b574-17\">Before PHILLIPS, Chief Judge, and BRATTON and HUXMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b574-18\">PER CURIAM.</author>\n<p id=\"b574-19\">Appeal dismissed June 9, 1952, on motion of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

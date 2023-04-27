@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1051-5\">UNITED STATES ex rel. James OTTO et al., Relators Appellants, v. Daniel F. BREITENSTEIN, as U. S. Marshal, etc., Respondent Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1051-6\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AmZ\">December 17, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1051-7\">No. 218.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1051-9\">Roseoe Irwin, of Albany, N. Y., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1051-10\">Charles H. Tuttle, U. S. Atty., and Thomas T. Cooke, both of New York City, for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1051-11\">Before L. HAND, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1051-12\">PER CURIAM.</author>\n<p id=\"ANKn\">Order affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

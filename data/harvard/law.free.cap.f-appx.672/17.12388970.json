@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"17\" lastpage=\"17\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b49-5\">IN RE: Lionel Dewitt NUNN, Petitioner</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"asp-dedup-0\">No. 16-3105</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"am-dedup-0\">September Term, 2016</p>\n<court data-order=\"3\" data-type=\"court\" id=\"A7X\">United States Court of Appeals, District of Columbia Circuit.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b49-10\">Filed: 11/18/2016</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b49-12\">Gary Proctor, Attorney, Law Offices of Gary E. Proctor, LLC, Baltimore, MD, for Petitioner.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b49-13\">ORDER</p>\n<p id=\"b49-17\">Upon consideration of petitioner\u2019s motion for voluntary dismissal of the petition for writ of mandamus, it is</p>\n<p id=\"b49-18\">ORDERED that the motion be granted and this case be dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

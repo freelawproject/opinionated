@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"525\" lastpage=\"525\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b537-3\">TONY PETER PAUL, PLAINTIFF-APPELLANT, v. REPUBLIC VARNISH COMPANY, INCORPORATED, DEFENDANT-RESPONDENT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b537-4\">Submitted January 26, 1934</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A3x\">Decided May 2, 1934.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b537-6\">Before Justices Parker, Lloyd and Perskie.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b537-7\">For the appellant, <em>Abe Press.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b537-8\">Per Curiam.</author>\n<p id=\"b537-9\">A careful examination of the printed book submitted in this case fails to disclose any judgment record, or any specification of the determinations or directions of the trial court with which the appellant is dissatisfied in point of law.</p>\n<p id=\"b537-10\">The appeal is accordingly dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

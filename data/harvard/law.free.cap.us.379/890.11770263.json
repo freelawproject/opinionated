@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"890\" lastpage=\"890\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b888-7\">No. 144,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b888-8\">No. 155,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AMrr\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"AUf\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"A9ZX\">Harris <em>v. </em>Arkansas; and Trotter <em>v. </em>Arkansas.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AP2_\"><em>George Howard, Jr., </em>for petitioner in No. 144, Misc. Petitioner <em>pro se </em>in No. 155, Misc. Bruce, <em>Bennett, </em>Attorney Gen\u00e9ral of Arkansas, and <em>Jack L. Lessenberry, </em>Chief Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7aR\">Supreme Court of Arkansas. Certiorari denied.</p>\n<p id=\"A1fa\">Reported below: 237 Ark. 820,377 S. W. 2d-14.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

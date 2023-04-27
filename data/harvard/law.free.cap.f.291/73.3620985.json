@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"73\" lastpage=\"73\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b91-3\">THE HACKENSACK. THE TRITON. PENNSYLVANIA COAL CO. v. POTTER TRANSP. CO., Inc.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b91-4\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIB\">April 16, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b91-5\">No. 263.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b91-8\">Park &amp; Mattison, of New York City (Anthony V. Lynch, Jr., of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b91-9\">Bigham, Englar &amp; Jones, of New York City (Leonard J. Matteson and' Andrew J. McElhinney, both of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b91-10\">Before ROGERS, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b91-11\">PER CURIAM.</author>\n<p id=\"Aqd\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

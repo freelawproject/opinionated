@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"144\" lastpage=\"144\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AfKj\">Zelda BRAUNSTEIN, Appellant, v. Jack FEINSTEIN and Leila Feinstein, his wife, Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A5f\">No. 74-374.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AKi\">District Court of Appeal of Florida, Third District.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AWQ\">April 23, 1974.</decisiondate>\n<p data-order=\"4\" data-type=\"otherdate\" id=\"Au_\">April 23, 1974.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Au_A\">PER CURIAM.</p>\n<p id=\"A2p\">Appeal dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

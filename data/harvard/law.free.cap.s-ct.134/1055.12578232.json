@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1055\" lastpage=\"1055\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Linda Lee STARTUP, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES DISTRICT COURT FOR the CENTRAL DISTRICT OF CALIFORNIA, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-6515.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Jan. 27, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12585408,12585409,12585410,12699784,12699785,12699796,12699773,12699797,12699774,12585405,12585406,12585407\" index=\"0\" url=\"https://cite.case.law/s-ct/134/724/\">\n   134 S.Ct. 724\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   <strong>\n    Justice ALITO took no part in the consideration or decision of this petition.\n   </strong>\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

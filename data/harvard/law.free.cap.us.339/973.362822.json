@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"973\" lastpage=\"973\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b987-8\">June 5, 1950.</decisiondate>\n<p data-order=\"1\" data-type=\"parties\" id=\"b987-9\">\n<em>Per Curiam Decisions.</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b987-10\">No. 814.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AACU\">Felman <em>v. </em>United States et al.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AsmA\"><em>Samuel E. Hirsch </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ayn\"><em>Solicitor General Perlman </em>and <em>Benedict P. Cottone </em>for appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABdO\">Appeal from the United States District Court for the Northern District of Illinois.</p>\n<author id=\"ABXK\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AUf_\">The motion to affirm is granted and the judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

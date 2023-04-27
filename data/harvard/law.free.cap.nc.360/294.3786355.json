@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"294\" lastpage=\"294\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ANr\">State v. Middlebrooks</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AXYx\">No. 669P05</docketnumber>\n<p data-order=\"2\" data-type=\"docketnumber\" id=\"ABx\">1.\u2014</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A2v\">2. Allowed 01/26/06</decisiondate>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"AoZ\">3. Denied 01/26/06</otherdate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AEHI\">1. Def\u2019s NOA Based Upon a Constitutional Question (COA04-1662)</p>\n<p id=\"AZX\">2. AG\u2019s Motion to Dismiss Appeal</p>\n<p id=\"Azfm\">3. Def\u2019s PDR</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1049-7\">SCHOONMAKER CONNORS CO., Inc., Libelant-Appellee, v. Benno LEVISON and Lois C. Levison, Respondents-Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1049-8\">(Circuit Court of Appeals. Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1049-9\">December 6, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1049-10\">No. 101.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1049-13\">McManus, Ernst &amp; Ernst, of New York City (Curley C. Hoffpauir, of New York City, of counsel), for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1049-14\">William F. Purdy, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1049-15\">Before HOUGH, HAND, and MACK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1049-16\">PER CURIAM.</author>\n<p id=\"ATVq6\">Decree affirmed, with interest and costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

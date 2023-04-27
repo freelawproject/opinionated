@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"365\" lastpage=\"365\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b421-5\">A. J. HOOVER et al. v. Chas. M. HUDSON et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b421-6\">No. 3787.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b421-7\">United States Court of Appeals Tenth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AzP\">Oct 21, 1948.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b421-9\">E. O. Monnett, of Tulsa, Okl., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b421-10\">Ezra Dyer and Earl Q. Gray, both of Ardmore, Okl., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b421-11\">Before PHILLIPS, Chief Judge, and BRATTON and HUXMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b421-12\">PER CURIAM.</author>\n<p id=\"b421-13\">Docketed and dismissed, on motion of appellees, for failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

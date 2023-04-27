@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"607\" lastpage=\"607\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b617-3\">Nos. 2836, 2837.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Apa\">Caldwell <em>v. </em>Davis.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"ALl\">November Term, 1891.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AWUm\">January 26, 1892.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AID\">Per Curiam,</author>\n<p id=\"AT_h\">Appeal dismissed because of failure of appellants to make and serve any exceptions or \u201cCase\u201d containing exceptions upon the attorneys for respondent within the time limited by law.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1425\" lastpage=\"1425\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"citation\" id=\"AADq\">[Cite as <em>05/23/2003 Case Announcements, </em>2003-Ohio-2666.]</p>\n<p data-order=\"1\" data-type=\"court\" id=\"Ausc\">CASE ANNOUNCEMENTS AND ADMINISTRATIVE ACTIONS</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEP6\">\n<em>May 23, 2003</em>\n</decisiondate>\n<p data-order=\"3\" data-type=\"otherdate\" id=\"AcM\">MEDIATION REFERRALS</p>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"AL-\">2003-0342.</docketnumber>\n<parties data-order=\"5\" data-type=\"parties\" id=\"ACne\">State ex rel. Shandrow v. Roper Corp.</parties>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ao3\">The following cases have been referred to mediation pursuant to S.Ct.Prae.R. XIV(6):</p>\n<p id=\"AMhP\">Franklin App. No. 02AP-342, 2003-0hio-1516.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

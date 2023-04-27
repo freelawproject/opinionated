@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"547\" lastpage=\"547\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b571-3\">WILLIAM H. GARNER v. DARIUS R. MANGAM, et al.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b571-5\">Before Sedgwick, Ch. J., Freedman and .Truax, JJ,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AAh\"><em>Decided May </em>2, 1881.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b571-6\">Exceptions ordered to be heard at general term in the first instance.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b571-7\"><em>James 8. Or eves, </em>attorney, and <em>Alexander Thain7 </em>of counsel, for plaintiff.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b571-8\"><em>Huntley &amp; Bower, Ernest T. Fellowes, </em>and <em>Richard H. Huntley, </em>for defendants.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AH0\">Truax, J.,</author>\n<p id=\"AUT\">wrote for judgment on the verdict for plaintiff; exceptions overruled ; Sedgwick, Ch. J.. and Freedman, J., concurred.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

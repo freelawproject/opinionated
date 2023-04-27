@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"750\" lastpage=\"750\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b802-34\">Bjorn G. WAHLGREN, Plaintiff-Appellant, v. STANDARD OIL COMPANY OF NEW JERSEY, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b802-35\">No. 40, Docket 20691.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b802-36\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Avm\">Oct. 15, 1947.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b802-38\">Jacob Rassner, of New York City, for plaintiff-appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b802-39\">Vernon S. Jones, of New York City, for defendant-appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b802-40\">Before A. N. HAND, CLARK, and FRANK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b802-41\">PER CURIAM.</author>\n<p id=\"b802-42\">Order affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

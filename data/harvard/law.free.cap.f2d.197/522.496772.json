@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"522\" lastpage=\"522\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b572-4\">Florence BERRY et al. v. MID-CONTINENT PETROLEUM CORPORATION.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b572-5\">No. 4484.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b572-6\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b572-7\">June 9, 1952.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b572-9\">Charles N. Berry, Jr., Oklahoma City, Okl., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b572-10\">R. H. Wills and J. P. Greve, Tulsa, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b572-11\">Before PHILLIPS, Chief Judge, and BRATTON and HUXMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b572-12\">PER CURIAM.</author>\n<p id=\"b572-13\">Appeal dismissed June 9, 1952, on motion of appellee, on ground that notice of appeal was not filed within time.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

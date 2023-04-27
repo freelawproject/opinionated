@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"20\" lastpage=\"20\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<citation data-order=\"0\" data-type=\"citation\" id=\"b48-5\">155 A.3d 899</citation>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AyO\">ROGALA v. PATCHETT</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A4s\">Pet. Docket No. 556,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"A_V\">Sept. Term, 2016</p>\n<court data-order=\"4\" data-type=\"court\" id=\"ajq-dedup-0\">Court of Appeals of Maryland.</court>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b48-8\">March 27, 2017</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b48-9\">(No, C-05-CV-16-000020, Circuit Court for Caroline County).</p>\n<p id=\"b48-10\">Petition for writ of certiorari denied</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

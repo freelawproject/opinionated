@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"147\" lastpage=\"147\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b159-7\">Supreme Court, New York Special Term.</court>\n<p data-order=\"1\" data-type=\"judges\" id=\"AiM\">Reported N. Y. L J.,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AtU\">June 5, 1903.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b159-8\">People <em>v. </em>Schoell.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b159-9\">Blanchard, J.:</author>\n<p id=\"AEa\">The charge against the defendant is a violation of the Liquor Tax Law. The moving papers fail to disclose exceptional features which would render a jury trial more expedient or proper than a trial at Special Sessions. No substantial claim is made that a fair trial cannot be had in that court and repeated adjudications on the questions involved require me to deny the motion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

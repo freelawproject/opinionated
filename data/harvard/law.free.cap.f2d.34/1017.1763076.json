@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1017\" lastpage=\"1017\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1045-14\">BIGELOW &amp; DOWSE COMPANY et al., Creditors, Appellants, v. Harry N. GUTERMAN, Trustee, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1045-16\">Circuit Court of Appeals, First Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AhNS\">April 18, 1929.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1045-17\">No. 2351.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1045-19\">Prank C. Gorman, of Boston, Mass., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1045-20\">Harry N. Guterman, of Boston, Mass., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1045-21\">Before BINGHAM and ANDERSON, Circuit Judges, and MORRIS, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1045-22\">PER CURIAM.</author>\n<p id=\"AQC\">Order denying petition for appeal was entered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

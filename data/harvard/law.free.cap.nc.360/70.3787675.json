@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"70\" lastpage=\"70\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ATb\">State v. Harrington &amp; Rattis</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJmx\">No. 384P05</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ArV\">1. Denied 10/06/05</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AR2\">2. Dismissed ex mero mota 10/06/05</otherdate>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"AeG_\">3. Dismissed 10/06/05</otherdate>\n<p data-order=\"5\" data-type=\"p\" id=\"AKDI\">4. Dismissed 10/06/05</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3mG\">1. Def\u2019s (Chris Rattis) PDR Under N.C.G.S. \u00a7 7A-31 (c)</p>\n<p id=\"AkV\">2. Def\u2019s Motion of Appeals as a Matter of Constitutional Right to this Higher Court Under the Strickland Standard Under N.C.G.S. \u00a7 15A-1443 A + B</p>\n<p id=\"ADk\">3. Def\u2019s Motion to Set Aside Unconstitutional and High Sentencing</p>\n<p id=\"AxCE\">4. Def\u2019s Motion to Review Denial of Motion to Suppress</p>\n<judges id=\"AFW\">Brady, J. Recused</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

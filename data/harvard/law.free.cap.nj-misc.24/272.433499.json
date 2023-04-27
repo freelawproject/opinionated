@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"272\" lastpage=\"272\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b278-11\">STATE OF NEW JERSEY, RESPONDENT, v. FRED HAGER, DEFENDANT-PROSECUTOR.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b278-12\">Argued January 15, 1946</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ANs\">Decided January 16, 1946.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b278-14\">Before Justices Donees, Heheb and Colie.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b278-15\">Bor the prosecutor, <em>Joseph H. Gaudielle </em>and <em>James A. Major.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b278-16\">For the. respondent, <em>Walter G. Wmne </em>and <em>Wallace S. DePuy.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b278-17\">Pee Cueiam.</author>\n<p id=\"b278-18\">The application for <em>ceHiorari </em>is denied, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

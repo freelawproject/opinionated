@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"955\" lastpage=\"955\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b953-13\">No. 598,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AdPd\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AA6F\">Williamson et al. <em>v. </em>Gilmer et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AoJ\">Petitioners <em>pro se. William D. Neary </em>for Gil-mer et al., and <em>T. W. Davidson, pro se, </em>respondents.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgaR\">Motion for leave, to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

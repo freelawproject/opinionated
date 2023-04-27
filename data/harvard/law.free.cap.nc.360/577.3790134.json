@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"577\" lastpage=\"577\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AdLl\">In re Foreclosure of Hunt</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aduf\">No. 173P06</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQxs\">1. Dismissed <em>Ex Mero Motu </em>05/04/06 360 N.C. 534</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AfUF\">2. Denied 05/04/06 360 N.C. 534</otherdate>\n<p data-order=\"4\" data-type=\"otherdate\" id=\"AIHy\">3. Denied 06/29/06</p>\n<p data-order=\"5\" data-type=\"otherdate\" id=\"A396\">4. Denied 8/17/06</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJJO\">1. Def\u2019s (Martina Clark) NOA Based Upon a Constitutional Question (COA05-178)</p>\n<p id=\"AO-W\">2. Def\u2019s PDR Under N.C.G.S. \u00a7 7A-31</p>\n<p id=\"ARhm\">3. Defendant\u2019s (Martina Clark) Motion to Vacate Order</p>\n<p id=\"AEyZ\">4. Def\u2019s Alternative Motion to Modify Order</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

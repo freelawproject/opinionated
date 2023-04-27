@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1002\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1000-9\">No. 510,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ApoV\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AMWz\">Hunter <em>v. </em>California.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ACCh\"><em>Caryl Warner </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7_\">District Court of Appeal of California, Second Appellate District. Cer-tiorari denied.'.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

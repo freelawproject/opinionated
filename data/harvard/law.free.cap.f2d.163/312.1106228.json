@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"312\" lastpage=\"312\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b364-4\">Robert STROUD, Appellant, v. James A. JOHNSTON, Warden, United States Penitentiary, Alcatraz Island, California, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b364-5\">No. 11640.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b364-6\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"af-dedup-0\">Sept. 4, 1947.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b364-8\">Robert Stroud, in pro. per., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b364-9\">Frank J. Hennessy, U. S. Atty., and Joseph Karesh, Asst. U. S. Atty., both of San Francisco, Cal., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b364-10\">Before GARRECHT, MATHEWS, and HEALY, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b364-11\">PER CURIAM.</author>\n<p id=\"b364-12\">The judgment of the District Court affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

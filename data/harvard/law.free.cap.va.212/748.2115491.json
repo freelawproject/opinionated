@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"748\" lastpage=\"748\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b884-4\">Richmond</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b884-5\">Richard Carroll Green v. Commonwealth of Virginia.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b884-6\">March 6, 1972.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b884-7\">Record No. 7770.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b884-8\">Present, Snead, C.J., Carrico, Gordon, Harrison, Cochran and Harman, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b884-10\"><em>R. R. Ryder, </em>for plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b884-11\"><em>A. R. Woodroof, Assistant Attorney General (Andrew P. Miller, Attorney General, </em>on brief), for defendant in error.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b884-12\"><em>Judgment affirmed </em>without opinion by equally divided Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

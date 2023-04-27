@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"485\" lastpage=\"485\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ADJ\">State v. Crow</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ayp5\">No. 045P06</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AAK6\">1. Dismissed <em>Ex mero motu </em>(05/04/06)</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Ayek\">2. Denied (05/04/06)</otherdate>\n<p data-order=\"4\" data-type=\"seealso\" id=\"A_ie\">3. Denied 02/10/06 360 N.C. 365</p>\n<p data-order=\"5\" data-type=\"seealso\" id=\"AdbT\">4. Denied (05/04/06)</p>\n<p data-order=\"6\" data-type=\"p\" id=\"A4PO\">5. Allowed (05/04/06)</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Az6\">1. Def\u2019s NOA Based Upon A Constitutional Question (COA05-253)</p>\n<p id=\"ADJc\">2. Def\u2019s PDR Under N.C.G.S. \u00a7 7A-31</p>\n<p id=\"AOP\">3. Def\u2019s Motion for Temporary Stay</p>\n<p id=\"AJO8\">4. Def\u2019s Petition for Writ of Supersedeas</p>\n<p id=\"AByk\">5. AG\u2019s Motion to Deem State\u2019s Response Timely Filed</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

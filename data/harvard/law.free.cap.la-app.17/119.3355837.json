@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"119\" lastpage=\"119\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b149-9\">No. 850</docketnumber>\n<court data-order=\"1\" data-type=\"court\" id=\"ASD\">First Circuit</court>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b149-10\">EASTMAN ET UX. v. DEMOURELLE</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b149-11\">(June 30, 1931. Opinion and Decree.)</decisiondate>\n<p data-order=\"4\" data-type=\"docketnumber\" id=\"b149-12\">\n<em>(No Syllabus)</em>\n</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b149-17\">J. M. Blache, Jr., of Hammond, attorney for plaintiffs, appellees.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b149-18\">Rownd &amp; Warner, of Hammond, and Fred A. Blanche, of Baton Rouge, attorneys for defendant, appellant.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b149-19\">MOUTON, J.</author>\n<p id=\"Ac4\">In this case, for the reasons given in the two consolidated cases, 135 So. 623, the judgment appealed from is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

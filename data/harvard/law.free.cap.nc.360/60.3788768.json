@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"479\" lastpage=\"479\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AgP\">Forbis v. Neal</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aiu\">No. 079A06</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AScF\">1. Treated as PWC-allowed (04/06/06)</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AROK\">2. Allowed (04/06/06)</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"AgX\">3. Allowed (04/06/06)</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Al_B\">1. Pit\u2019s NOA (Dissent) (COA04-1495)</p>\n<p id=\"A-J\">2. Pit\u2019s PDR as to Additional Issues</p>\n<p id=\"AnQC\">3. Def\u2019s Motion to Dismiss Appeal</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"860\" lastpage=\"860\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b858-8\">No. 179,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AfrW\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AgRN\">Goldberg <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A87\"><em>Carl L. Shipley </em>and <em>Thomas' A. Zieharth </em>for petitioner. <em>Solicitor General Cox </em>for the United States.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVHI\">Court of Claims. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

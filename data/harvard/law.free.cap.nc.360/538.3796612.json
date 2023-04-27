@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"538\" lastpage=\"538\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A1H_\">State v. Bryant</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ASH4\">No. 117A06</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJgB\">2. Allowed 03/13/06 360 N.C. 485</decisiondate>\n<p data-order=\"3\" data-type=\"attorneys\" id=\"AUY\">3. Allowed 03/13/06 360 N.C. 485</p>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"AgDX\">4. Denied (06/29/06)</otherdate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHye\">1. AG\u2019s NOA (Dissent) (COA05-514)</p>\n<p id=\"Ae7z\">2. AG\u2019s Motion for Temporary Stay</p>\n<p id=\"Avxp\">3. AG\u2019s Petition for Writ of Supersedeas</p>\n<p id=\"AY8A\">4. Defendant-Appellants\u2019 PDR</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"280\" lastpage=\"280\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b336-4\">PRYOR BUILDING &amp; INVESTMENT COMPANY, a Corporation, v. FEDERAL HOUSING ADMINISTRATION and Federal Housing Administrator, in His Official Capacity.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b336-6\">No. 3591.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b336-7\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b336-8\">Nov. 6, 1947.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b336-10\">R. A. Wilkerson, of Pryor, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b336-11\">Curtis P. Harris, Sp. Atty., Department of Justice, of Oklahoma City, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b336-12\">Before PHILLIPS, BRATTON, and HUXMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b336-13\">PER CURIAM.</author>\n<p id=\"b336-14\">Docketed and dismissed on motion of appellee for failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"279\" lastpage=\"279\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b335-28\">Dewey Wallace McMURTREY v. Arthur J. MELLOTT, United States District Judge, District of Kansas.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b335-29\">No. 3592.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b335-30\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AXB\">Nov. 6, 1947.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b335-32\">No appearance for either party.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b335-33\">Before PHILLIPS, BRATTON, and MURRAH, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b335-34\">PER CURIAM.</author>\n<p id=\"b335-35\">Petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

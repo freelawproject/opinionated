@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1050-4\">A. J. WALDOCK, Trustee of and for Home Builders\u2019 Lumber Company, v. CHOCTAW LUMBER COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1050-5\">No. 1161.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1050-6\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ALz\">Oct. 15, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1050-8\">F. E. Riddle,, of Tulsa, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1050-9\">Watson, Ess, Groner, Barnett <em>&amp; </em>Whit-taker, of Kansas City, Mo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1050-10\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1050-11\">PER CURIAM.</author>\n<p id=\"b1050-12\">Appeal dismissed for failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1047-8\">Louis LEAVITT, Petitioner, v. FEDERAL TRADE COMMISSION, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1047-9\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AT0E\">December 9, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1047-10\">No. 11.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1047-12\">Alexander A. Mayper, of New York City, for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1047-13\">Bayard T. Haines, Adrien F. Busiek, and G. E. Rowland, all of Washington, D. C., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1047-14\">Before HOUGH, HAND, and MACK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1047-15\">PER CURIAM.</author>\n<p id=\"ARU4\">Order affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

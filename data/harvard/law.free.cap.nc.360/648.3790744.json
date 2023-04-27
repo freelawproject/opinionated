@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"648\" lastpage=\"648\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A0la\">Rhew v. Felton</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"As1R\">No. 453P06</docketnumber>\n<p data-order=\"2\" data-type=\"docketnumber\" id=\"A32Q\">1.-</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ACCr\">2. Allowed 10/05/06</decisiondate>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"A-mT\">3. Denied 10/05/06</otherdate>\n<p data-order=\"5\" data-type=\"p\" id=\"AFb\">4. Denied 10/05/06</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AzV0\">1. Pit\u2019s NOA Based Upon a Constitutional Question (COA05-402)</p>\n<p id=\"A2Vc\">2. Def\u2019s Motion to Dismiss Appeal</p>\n<p id=\"AAd5\">3. Pit\u2019s PDR Under N.C.G.S. \u00a7 7A-31</p>\n<p id=\"Aikg\">4. Def\u2019s PDR Under N.C.G.S. \u00a7 7A-31</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

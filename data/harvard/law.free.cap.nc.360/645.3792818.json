@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"645\" lastpage=\"645\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AuvC\">Davis v. Harrah\u2019s Cherokee Casino</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AOCX\">No. 456A06</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AG3-\">2. Allowed 08/30/06</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Ah0\">3. Allowed 10/05/06</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"AiSx\">4. Allowed 10/05/06</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOZN\">1. Defs\u2019 NOA (Dissent) (COA05-1153)</p>\n<p id=\"Azc-\">2. Defs\u2019 Motion for Temporary Stay</p>\n<p id=\"ATBx\">3. Defs\u2019 Petition for Writ of Supersedeas</p>\n<p id=\"ALV\">4. Defs\u2019 PDR Under N.C.G.S. \u00a7 7A-31</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1028-13\">Guy T. HELVERING, Commissioner of Internal Revenue, v. B. R. HAMMOND.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1028-14\">No. 1152.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1028-15\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aoak\">Sept. 27, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1028-17\">Robert H. Jackson, Asst. Gen. Counsel, Bureau of Internal Revenue, of Washington, D. C., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1028-18\">J. C. Campbell, of Charles City, Iowa, for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1028-19\">Before PHILLIPS, McDERMOTT, and BRATTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1028-20\">PER CURIAM.</author>\n<p id=\"b1028-21\">Petition for review dismissed on motion of petitioner.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

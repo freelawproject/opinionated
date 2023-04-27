@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"537\" lastpage=\"537\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ArTj\">State v. Branch</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AiSB\">No. 095P04-2</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A9q\">1. Denied 04/20/06</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Az9H\">2. Denied (06/29/06)</otherdate>\n<p data-order=\"4\" data-type=\"otherdate\" id=\"A0vO\">3. Denied (06/29/06)</p>\n<p data-order=\"5\" data-type=\"otherdate\" id=\"A4-8\">4. Denied (06/29/06)</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ay0\">1. AG\u2019s Motion for Temporary Stay (COA03-350-2)</p>\n<p id=\"ALqZ\">2. AG\u2019s Petition for Writ of Supersedeas</p>\n<p id=\"AW4v\">3. AG\u2019s PDR Under N.C.G.S. \u00a7 7A-31 (COA03-350-2)</p>\n<p id=\"AjgI\">4. Def\u2019s Cross PDR</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

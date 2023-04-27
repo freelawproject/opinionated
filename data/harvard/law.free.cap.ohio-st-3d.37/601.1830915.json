@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"323\" lastpage=\"323\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b387-11\">Toledo Bar Association <em>v. </em>Banks.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b387-12\">[Cite as Toledo Bar Assn. <em>v. </em>Banks (1988), 37 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b387-14\">No. D.D. 86-8</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AHJ\">Submitted June 1, 1988</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A1i\">Decided June 29, 1988.</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b387-15\">The application for reinstatement to the practice of law is granted. Gerald W. Banks is reinstated to the practice of law in the state of Ohio.</p>\n<p id=\"AIb\">(For earlier case, see [1986], 28 Ohio St. 3d 125, 28 OBR 223, 502 N.E. 2d 1021.)</p>\n<judges id=\"b387-17\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

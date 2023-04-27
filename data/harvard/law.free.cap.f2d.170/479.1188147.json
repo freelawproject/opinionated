@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"479\" lastpage=\"480\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b535-41\">William C. ROSEMOND, Appellant, v. Frank A. GROSSMAN et al., Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b535-42\">No. 12370.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b535-43\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b535-44\">Nov. 17, 1948.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b536-3\"><page-number citation-index=\"1\" label=\"480\">*480</page-number>Gaius G. Gannon, Walter J. Kronzer, Jr., and J. Russell Mount, all of Houston, Tex., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b536-4\">Russel H. Markwell, of Galveston, Tex., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b536-5\">Before HOLMES, WALLER, and LEE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b536-9\">PER CURIAM.</author>\n<p id=\"b536-10\">The judgment appealed from is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"55\" lastpage=\"55\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b67-8\">Supreme Court, New York Special Term.</court>\n<p data-order=\"1\" data-type=\"judges\" id=\"A42\">Reported. N. Y\u201e L. J.,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b67-9\">December 26, 1902.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b67-10\">Patrick W. Cullinan <em>v. </em>Julius Stein, et al.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b67-11\"><em>William IS. Soliendo, </em>for plaintiff.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b67-12\"><em>Nadal &amp; Garrere, </em>for defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b67-13\">Keener, J.:</author>\n<p id=\"AVu\">The contention that the liability on the bond is discharged by a cancellation of the certificate is not well taken. <em>(Lyman </em>v. <em>Cheever, </em>168 N. Y. 43, 46-47.) The plaintiff is entitled to judgment on the verdict.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

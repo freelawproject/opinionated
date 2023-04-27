@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b923-16\">\n<em>Certiorari Granted.</em>\n</p>\n<seealso data-order=\"1\" data-type=\"seealso\" id=\"A4G\">\n<em>(See also No. \u00a313, supra.)</em>\n</seealso>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b923-17\">No. 551.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ATel\">Fogarty, Trustee in Bankruptcy, <em>v. </em>United States et al.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"A47N\">C. A. 8th Cir.</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AsF\"><em>Henry S. Blum </em>for petitioner.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Aks\"><em>Solicitor General Perl-</em><page-number citation-index=\"1\" label=\"910\">*910</page-number><em>man </em>filed a memorandum stating that the United States does not oppose the granting of the petition.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWv\"><page-number citation-index=\"1\" label=\"909\">*909</page-number>Certiorari granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

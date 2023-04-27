@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"178\" lastpage=\"178\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b250-4\">State v. Cummings</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A-x\">No. 496P05</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Afne\">2. Allowed 12/01/05</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Akc\">3. Denied 12/01/05</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"AJp\">4. Denied 12/01/05</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACCP\">1. Def-Appellant\u2019s NOA Pursuant to N.C.G.S. \u00a7 7A-30 (1) (COA04-1228)</p>\n<p id=\"AEdi\">2. AG\u2019s Motion to Dismiss Appeal</p>\n<p id=\"A_1f\">3. Def-Appellant\u2019s PDR Pursuant to N.C.G.S. \u00a7 7A-31 (c)</p>\n<p id=\"AWW\">4. Def-Appellant\u2019s PWC Pursuant to N.C.G.S. \u00a7 7A-32 (b)</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

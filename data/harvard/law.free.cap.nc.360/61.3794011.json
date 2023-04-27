@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"61\" lastpage=\"61\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ACm\">Chambers v. Transit Mgmt.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ajf\">No. 527A05</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AqA\">2. Allowed 11/03/05</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Aky\">3. Allowed 11/03/05</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"AFR4\">4. Allowed 11/03/05</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYc\">1. Def\u2019s NOA (Dissent)</p>\n<p id=\"AerF\">2. Def\u2019s Motion for Temporary Stay (COA04-677) \u2022</p>\n<p id=\"APH\">3. Defs Petition for Writ of Supersedeas</p>\n<p id=\"AOh\">4. Def\u2019s PDRas to Additional Issues</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

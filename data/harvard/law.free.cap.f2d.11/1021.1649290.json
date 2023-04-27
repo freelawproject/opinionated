@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ApGT\">UNITED STATES ex rel. Cyrla GOLDWASSER et al., Relators Appellants, v. Henry H. CURRAN, as Commissioner, etc., Respondent Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A8m\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AlPp\">March 10, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AaH\">No. 283.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ApN6\">Morris Greenberg, of New York City, for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AxU-\">Emory R. Buckner, U. S. Atty., of New York City (Charles L. Sylvester, of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"ABC\">Before HOUGH, MANTON, and HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AXT\">PER CURIAM.</author>\n<p id=\"A0z\">Order affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

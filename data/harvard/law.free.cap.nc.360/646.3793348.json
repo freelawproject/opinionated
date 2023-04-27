@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"646\" lastpage=\"646\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ASWA\">Holly Ridge Assocs., LLC v. N.C. Dep\u2019t of Env\u2019t &amp; Natural Res.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AZKl\">No. 218A06</docketnumber>\n<p data-order=\"2\" data-type=\"docketnumber\" id=\"AsSD\">1.-</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AZBP\">2. Denied 11/16/06</decisiondate>\n<p data-order=\"4\" data-type=\"otherdate\" id=\"ALo5\">3. Denied 11/16/06</p>\n<p data-order=\"5\" data-type=\"otherdate\" id=\"AiqL\">4. Denied 11/16/06</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmiA\">1. Petitioner\u2019s NOA (Dissent) (COA03-1686)</p>\n<p id=\"AMC4\">2. Petitioner\u2019s PDR Under N.C.G.S. \u00a7 7A-31</p>\n<p id=\"AUup\">3. Petitioner\u2019s PDR as to Additional Issues</p>\n<p id=\"AFZ\">4. Respondent-Intervenor\u2019s Motion to Dismiss Appeal</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

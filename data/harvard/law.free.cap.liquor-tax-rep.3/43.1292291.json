@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"43\" lastpage=\"43\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b55-5\">Supreme Court, New York Special Term.</court>\n<p data-order=\"1\" data-type=\"judges\" id=\"AWt\">Reported. N. Y. L. J.,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b55-6\">October 11, 1902.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b55-7\">People <em>v. </em>Fassanelli. Same <em>v. </em>Wagner. Same <em>v. </em>Yamerdo.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b55-8\">Bischoff, J.:</author>\n<p id=\"AI\">The fact that the defendant is the holder of a liquor tax certificate and would suffer substantial pecuniary loss through a conviction of the misdemeanor charged affords sufficient ground for a direction that the charge should be prosecuted by indictment. I have so held upon applications of this character in the past, and find no reason for altering my views.</p>\n<p id=\"b55-9\">See <em>People </em>v. <em>Stewart, </em>N. Y. L. Journal, July 30, 1900.</p>\n<p id=\"b55-10\">Motions granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

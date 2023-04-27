@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"580\" lastpage=\"580\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AZry\">State v. Love</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJ4\">No. 353P06</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AaA6\">1. Denied 8/17/06</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AnO2\">2. Denied 8/17/06</otherdate>\n<p data-order=\"4\" data-type=\"otherdate\" id=\"AHF\">3. Denied 8/17/06</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Au4\">1. Def\u2019s (Toby Love) PDR Under N.C.G.S. \u00a7 7A-31 (COA05-1237)</p>\n<p id=\"AxcR\">2. Def\u2019s (Ronnie Love) PDR Under N.C.G.S. \u00a7 7A-31</p>\n<p id=\"ArvF\">3. Def\u2019s (Tino Love) PDR Under N.C.G.S. \u00a7 7A-31</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2695\" lastpage=\"2695\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the Matter of DISBARMENT OF Donald A. BAILEY.\n </parties>\n <docketnumber id=\"p-2\">\n  No. D-2750.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  May 27, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12700107,12585775,12585776,12585777,12585778,12585779,12585780,12699868,12699869,12699870,12700095\" index=\"0\" url=\"https://cite.case.law/s-ct/134/820/\">\n   134 S.Ct. 820\n  </extracted-citation>\n  .\n </history>\n <disposition id=\"p-6\">\n  Disbarment order entered.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   <strong>\n    Justice ALITO took no part in the consideration or decision of this matter.\n   </strong>\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

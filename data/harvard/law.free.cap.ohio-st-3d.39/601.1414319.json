@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b419-3\">Columbus Bar Association <em>v. </em>Boggs.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b419-4\">[Cite as Columbus Bar Assn. <em>v. </em>Boggs (1988), 39 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b419-5\">(No. D.D. 88-19</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AjKa\">\u2014 Submitted September 21, 1988 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AhD\">Decided October 19, 1988.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b419-7\">Kenneth R. Boggs is publicly reprimanded.</p>\n<judges id=\"A8R\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"481\" lastpage=\"481\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AHzK\">Komegay v. Robinson</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJSL\">No. 153A06</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AioK\">3. Denied (05/04/06)</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AqTP\">4. Allowed (05/04/06)</otherdate>\n<p data-order=\"4\" data-type=\"p\" id=\"AInO\">5. Denied (05/04/06)</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aqcf\">1. Def\u2019s NOA (Dissent) (COA05-131)</p>\n<p id=\"Atp\">2. Pit\u2019s NOA (Dissent)</p>\n<p id=\"AxIq\">3. Pit\u2019s PDR as to Additional Issues</p>\n<p id=\"AAyd\">4. Pit\u2019s Motion to Strike</p>\n<p id=\"Ajze\">5. Def\u2019s Response to Pit\u2019s Motion to Strike and, in the Alternative, PWC</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"483\" lastpage=\"483\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AyD6\">Payne v. Charlotte Heating &amp; Air Conditioning</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AVEQ\">No. 526A05</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A6zI\">2. Allowed (05/04/06)</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ACE\">3. Dismissed as Moot (05/04/06)</otherdate>\n<p data-order=\"4\" data-type=\"summary\" id=\"Ax8o\">4. Dismissed as Moot (05/04/06)</p>\n<judges data-order=\"5\" data-type=\"judges\" id=\"A1E\">Timmons-Goodson, J., Recused</judges>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AapX\">1. Defs\u2019 (Ross &amp; Witmer and Travelers Insurance) NOA Pursuant to N.C.G.S. \u00a7 7A-30 (COA03-1651)</p>\n<p id=\"Aqa6\">2. Defs\u2019 Motion to Withdraw Appeal</p>\n<p id=\"ATNW\">3. Pit\u2019s Motion to Dismiss Appeal</p>\n<p id=\"AzT\">4. Defs\u2019 (Ross &amp; Witmer and Travelers Insurance) Motion to Amend NOA</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"63\" lastpage=\"63\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b135-4\">Goodson v. P.H. Glatfelter Co.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AVS\">No. 464P05</docketnumber>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"ADaq\">1. Allowed Pending Determination of Defendant\u2019s PDR 08/25/05</otherdate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A6a8\">Stay Dissolved 11/03/05</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AIx5\">2. Denied 11/03/05</decisiondate>\n<p data-order=\"5\" data-type=\"otherdate\" id=\"AeIj\">3. Denied 11/03/05</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AbB\">Def\u2019s (P.H. Glatfelter Co.) Motion for Temporary Stay (COA04-886)</p>\n<p id=\"AHlS\">2. Def\u2019s Petition for Writ of Supersedeas</p>\n<p id=\"AQ0\">3. Def\u2019s PDR Under N.C.G.S. \u00a7 7A-31</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"876\" lastpage=\"876\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b874-3\">No. 17,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Aitx\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Akm\">Nebraska <em>v. </em>Iowa.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AHyV\"><em>Clarence A. H. Meyer, </em>Attorney General of Nebraska,, and <em>Joseph R. Moore </em>and <em>Howard H. Moldenhauer, </em>Special Assistant Attorneys General, for plaintiff. <em>Evan Hultman, </em>Attorney General of Iowa, <em>W. N. Bump, </em>Solicitor General, and <em>William J: Yost, </em>Assistant Attorney General, for defendant.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFE\">This case is set down for argument on the motion for leave to file a bill of .complaint.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

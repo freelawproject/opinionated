@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"70\" lastpage=\"70\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A26q\">State v. Hames</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AtrE\">No. 337P05</docketnumber>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AbC\">1. Allowed 06/27/05 359 N.C. 638</otherdate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AG-\">Stay Dissolved 10/06/05</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ask\">2. Denied 10/06/05</decisiondate>\n<p data-order=\"5\" data-type=\"otherdate\" id=\"Ae35\">3. Denied 10/06/05</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-P\">1. AG\u2019s Motion for Temporary Stay (COA04-968)</p>\n<p id=\"AUbd\">2. AG\u2019s Petition for Writ of Supersedeas</p>\n<p id=\"AWf7\">3. AG\u2019s PDR Under N.C.G.S. 7A-31</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"352\" lastpage=\"352\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b360-7\">SUPREME COURT.</court>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AuA\">New York Life Insurance and Trust Co. agt. Rand and others.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"b360-10\">\n<em>Monroe General Term,</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ALh\"><em>September, </em>1853.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"AVR\">Welles, Johnson, and T. R. Strong, Justices.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AeN\">, This case came up on appeal from the order made at special term, as reported in this volume, <em>ante p. </em>35, when the decision .\u00a1made, at special term was affirmed, as well for the reasons .stated fay the justice at special term, as upon the ground that the writ of assistance is in the nature of an execution upon the .judgment, and, under the Cpde, may issue without an or\u00a1der.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
