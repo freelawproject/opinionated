@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"930\" lastpage=\"930\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b732-9\">No. 471,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"APvJ\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AGHB\">Hawkes <em>v. </em>Warden, Missouri Penitentiary.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AqM6\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AhGI\"><em>Norman H. Anderson, </em>Attorney General of Missouri, and <em>Howard L. McFadden, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Adub\">Sup. Ct. Mo. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

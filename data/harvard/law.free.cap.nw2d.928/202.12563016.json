@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"202\" lastpage=\"203\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Suzanne RUBBA and Daniel LeBlanc, Personal Representatives of the Estate of Patricia E. LeBlanc, Plaintiffs-Appellees,\n  <br/>\n  v.\n  <br/>\n  Eugene J. AGNONE, M.D., and Michigan Cancer Specialists, P.C., Defendants-Appellants,\n  <br/>\n  and\n  <br/>\n  Chakrapani Ranganathan, M.D., Michael F. Romanelli, M.D., Macomb Neurology Associates, P.C., and Woods Cardiovascular Internal Medicine Associates, P.C., Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 159514\n  <br/>\n  COA: 3445327\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  June 7, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of plaintiffs-appellees to extend the time for filing their answer to the application for leave to appeal is GRANTED. The answer submitted on May 30, 2019, is accepted as timely filed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

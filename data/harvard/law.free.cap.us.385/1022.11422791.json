@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b978-8\">January 13, 1967.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b978-10\">No. 775,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AKCu\">Misc.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A6qB\">Lindsey <em>v. </em>United States.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AqzRr\"><em>Warner Hodges </em>for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ApIQ\"><em>Solicitor General Marshall </em>for the United-States.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AeoZ\">C. A. 6th Cir. Petition for writ of certiorari dismissed pursuant to Rule 60 of the Rules of this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"330\" lastpage=\"330\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b358-12\">In re Resignation of Maiorano.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b358-13\">[Cite as In re Resignation of Maiorano (1987), 31 Ohio St. 3d 602.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A8n\">(D.R. No. 87-5</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ASr\">Decided July 15, 1987.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b358-14\">The resignation of Alexander Maiorano as an attorney is accepted.</p>\n<judges id=\"b358-15\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

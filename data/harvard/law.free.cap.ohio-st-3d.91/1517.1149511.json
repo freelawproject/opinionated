@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1517\" lastpage=\"1517\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A9J0\">\n<em>Tuesday, May 8, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"APt1\">RECONSIDERATION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A2D\">01-459.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AtLi\">Riley v. St. Ann Catholic School.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYno\">Cuyahoga App. No. 78129. Reported at 91 Ohio St.3d 1466, 743 N.E.2d 921. IT IS ORDERED by the court that the motion for reconsideration in this ease be, and hereby is, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

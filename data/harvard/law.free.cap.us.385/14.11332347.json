@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"14\" lastpage=\"14\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b118-11\">WAKIN <em>v. </em>PENNSYLVANIA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AbP\">No. 293,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AxCt\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AQP\">Decided October 10, 1966.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b118-14\">Per Curiam.</author>\n<p id=\"b118-15\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

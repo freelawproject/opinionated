@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"15\" lastpage=\"15\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b119-4\">BOYDEN <em>v. </em>MAY, WARDEN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b119-6\">No. 351,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AaYh\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AS\">Decided October 10, 1966.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b119-8\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b119-9\"><em>Solicitor General Marshall </em>for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b119-10\">Per Curiam.</author>\n<p id=\"b119-11\">The motion to dismiss is granted and the appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

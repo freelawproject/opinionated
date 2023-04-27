@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"19\" lastpage=\"19\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b123-4\">McGILL et al. <em>v. </em>RYALS, SHERIFF, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b123-6\">No. 381,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AS_z\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Axb\">Decided October 17, 1966.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b123-8\"><em>Vernon Z. Crawford, Morton Stavis, William M. Kunstler, Arthur Kinoy </em>and <em>Benjamin E. Smith </em>for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b123-9\"><em>Truman Hobbs </em>for appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b123-10\">Per Curiam.</author>\n<p id=\"b123-11\">The appeal is dismissed for want of jurisdiction because the case was not appropriate for a three-judge court.</p>\n<judges id=\"b123-12\">Mr. Justice Douglas is of the opinion that a three-judge court was properly convened and would affirm the judgment of the lower court.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

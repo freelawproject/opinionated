@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"584\" lastpage=\"584\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE Vernon Eugene PROCTOR, M.D.\n </parties>\n <parties id=\"p-2\">\n  Bureau of Health Care Services, Petitioner-Appellee,\n  <br/>\n  v.\n  <br/>\n  Vernon Eugene Proctor, M.D., Respondent-Appellant.\n </parties>\n <parties id=\"p-3\">\n  Bureau of Health Care Services, Petitioner-Appellee,\n  <br/>\n  v.\n  <br/>\n  Vernon Eugene Proctor, M.D., Respondent-Appellant.\n </parties>\n <docketnumber id=\"p-4\">\n  SC: 159498\n  <br/>\n  COA: 342029\n  <br/>\n  SC: 159499\n  <br/>\n  COA: 342676\n </docketnumber>\n <court id=\"p-5\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-6\">\n  May 17, 2019\n </decisiondate>\n <p id=\"p-7\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   On order of the Chief Justice, the motion of petitioner-appellee to extend the time for filing and to exceed the page limitation for its answer is GRANTED. The answer will be accepted as timely filed if submitted on or before June 13, 2019.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

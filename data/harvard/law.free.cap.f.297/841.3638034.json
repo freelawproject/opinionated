@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"841\" lastpage=\"841\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b863-7\">THE BISMARCK.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b863-8\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A1zE\">January 7, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b863-9\">No. 156.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b863-12\">Macklin, Brown &amp; Van Wyek, of New York City (Pierre M. Brown, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b863-13\">Foley &amp; Martin, of New York City (William J. Martin and George V. A. McCloskey, both of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b863-14\">Before ROGERS, HOUGH, and MANTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b863-15\">PER CURIAM.</author>\n<p id=\"ANj\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

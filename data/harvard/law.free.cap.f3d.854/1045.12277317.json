@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1045\" lastpage=\"1045\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1061-8\">UNITED STATES of America, Plaintiff-Appellee, v. Alexis Torres SIMON, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1061-11\">No. 15-10203</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1061-12\">United States Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1061-14\">Filed JANUARY 27, 2017</decisiondate>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b1061-15\">D.C. No. 2:13-cr-00148-JAD-GWF-2, District of Nevada, Las Vegas</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1061-16\">ORDER</p>\n<author id=\"b1061-17\">THOMAS, Chief Judge:</author>\n<p id=\"b1061-18\">Upon the vote of a majority of nonre-cused active judges, it is ordered that this case be reheard en banc pursuant to Federal Rule of Appellate Procedure 35(a) and Circuit Rule 35-3. The three-judge panel disposition in this case shall not be cited as precedent by or to any court of the Ninth Circuit.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

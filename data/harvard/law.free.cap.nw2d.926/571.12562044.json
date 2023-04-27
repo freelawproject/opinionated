@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"571\" lastpage=\"571\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Arthur Larome JEMISON, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157812\n  <br/>\n  COA: 334024\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  May 10, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the second motion of defendant-appellant to extend the time for filing his brief is GRANTED. The brief will be accepted as timely filed if submitted on or before June 19, 2019.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

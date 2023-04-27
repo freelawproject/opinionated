@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1404\" lastpage=\"1404\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Abk\">\n<em>Friday, January 12, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AGLW\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Aoe\">00-1854.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A-4\">Jennings Commons Apts., Inc. v. Cuyahoga Cty. Bd. of Revision.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AR8\">Board of Tax Appeals, Nos. 98-A-1234, 98-A-1235 and 98-A-1236. This cause is pending before the court as an appeal from the Board of Tax Appeals. Upon consideration of appellant\u2019s motion to stay the briefing schedule to facilitate settlement,</p>\n<p id=\"AUY\">IT IS ORDERED by the court that the motion to stay the briefing schedule be, and hereby is, granted for a period of twenty days from the date of this entry.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

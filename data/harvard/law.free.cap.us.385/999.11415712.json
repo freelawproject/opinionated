@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b955-8\">No. 953,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AGg-\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AFQ6\">Smith et al. <em>v. </em>Stanley, U. S. District Judge.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A-VE\"><em>James B. Flack </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AZF0\"><em>Robert C. Londerholm, </em>Attorney General of Kansas, and <em>Kenton C. Granger, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApHc\">Motion for leave to file petition for writ of mandamus and/or prohibition denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

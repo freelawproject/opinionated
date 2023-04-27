@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"843\" lastpage=\"843\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b765-5\">No. 132,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AMpj\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AHE4\">Flickinger <em>v. </em>Pennsylvania.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AtD\"><em>D. M. Oarrahan </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aoua\">Supreme Court of Pennsylvania. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

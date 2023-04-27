@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1372\" lastpage=\"1372\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the Matter of DISBARMENT OF Richard Lawrence James McGARRY.\n </parties>\n <docketnumber id=\"p-2\">\n  No. D-2743.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Feb. 24, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12699139,12699235,12699236,12584806,12584807,12584808,12584809,12584810,12584811,12584812,12699237,12699243,12699244,12699245\" index=\"0\" url=\"https://cite.case.law/s-ct/134/634/\">\n   134 S.Ct. 634\n  </extracted-citation>\n  .\n </history>\n <disposition id=\"p-6\">\n  Disbarment order entered.\n </disposition>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

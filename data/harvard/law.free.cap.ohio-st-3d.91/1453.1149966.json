@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1453\" lastpage=\"1453\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AahE\">\n<em>Wednesday, February 21, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AjMg\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A8hb\">00-1942.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AI7M\">State ex rel. Ruscilli Constr. Co. v. Indus. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Am5Y\">Franklin App. No. 99AP-1328. This cause is pending before the court as an appeal from the Court of Appeals for Franklin County. Upon consideration of the joint motion to consolidate this cause with Supreme Court case No. 00-2191,</p>\n<p id=\"Ax0\">IT IS ORDERED by the court that the motion to consolidate be, and hereby is, granted.</p>\n<p id=\"AKE\">IT IS FURTHER ORDERED that the briefs filed by the parties in this case shall be deemed filed in case No. 00-2191 as of the date of this entry.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1203\" lastpage=\"1203\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b733-4\">In re Resignation of Kasson.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b733-5\">[Cite as <em>In re Resignation of Kasson </em>(1991), 62 Ohio St.3d 1203.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b733-6\">(Nos. 91-1914 and 91-1742</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Aoj\">Submitted October 9, 1991</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A9U\">Decided October 10, 1991.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b733-7\">The resignation of Lee B. Kasson, Jr. as an attorney, Registration No. 0002133, is accepted. <em>Sua sponte, </em>91-1742, <em>Cincinnati Bar Assn. v. Kasson, </em>Disciplinary Docket No. 90-41, is dismissed as moot.</p>\n<judges id=\"b733-8\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

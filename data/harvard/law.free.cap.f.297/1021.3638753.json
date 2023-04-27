@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1043-3\">In the Matter of NATIONAL GRAIN CORPORATION, Bankrupt. AMERICAN CREDIT INDEMNITY CO. OF NEW YORK, Petitioner.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Av69\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Av1G\">April 16, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Apn\">No. 352.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A7BS\">Arthur Erank, of New York City, for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AoNc\">Benjamin Slade, of New York City, for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"ACx\">Before HOUGH, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1043-4\">PER CURIAM.</author>\n<p id=\"AB8\">Order affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"15\" lastpage=\"15\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b119-12\">BRADFORD <em>v. </em>HELMAN, JUSTICE OF THE SUPREME COURT OF THE STATE OF NEW YORK, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b119-14\">No. 389,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"As7j\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AAE\">Decided October 10, 1966.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b119-16\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b119-17\"><em>Louis J. Lefkowitz, </em>Attorney General of New York, <em>Samuel A. Hirshowitz, </em>First Assistant Attorney General, and <em>Brenda Soloff, </em>Assistant Attorney General, for appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b119-18\">Per Curiam.</author>\n<p id=\"b119-19\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

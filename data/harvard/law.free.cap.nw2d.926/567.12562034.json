@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"567\" lastpage=\"567\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the MATTER OF the TERESA KASPARBAUER REVOCABLE LIVING TRUST,\n </parties>\n <attorneys id=\"p-2\">\n  Marie Eischeid, Marguerite Nielsen, Teresa Smith, Annette Firkus, Kathleen Kasparbauer, and Mary Smith, Defendants-Appellants.\n </attorneys>\n <docketnumber id=\"p-3\">\n  No. 17-1129\n </docketnumber>\n <court id=\"p-4\">\n  Court of Appeals of Iowa.\n </court>\n <decisiondate id=\"p-5\">\n  Filed December 5, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   The defendants appeal from the district court's grant of partial summary judgment in favor of the plaintiffs.\n   <strong>\n    AFFIRMED.\n   </strong>\n  </p>\n  <p id=\"p-8\">\n   <strong>\n    AFFIRMED.\n   </strong>\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1045-27\">UNITED STATES of America, Appellant, v. Virgil R. HARTZELL, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1045-29\">No. 7822.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1045-30\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1045-31\">April 1, 1935.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1045-33\">Carl C. Donaugh, U. S. Atty., of Portland, Or.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1045-34\">Barge E. Leonard, of Portland, Or., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1045-35\">Before WILBUR, GARRECHT, and DENMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1045-36\">PER CURIAM.</author>\n<p id=\"b1045-37\">Upon motion of counsel for appellant, and stipulation of counsel for respective parties, ordered appeal dismissed; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

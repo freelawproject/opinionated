@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"804\" lastpage=\"804\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b606-22\">No. 22,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Anf\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Alc\">Davis <em>v. </em>Beto, Corrections Director.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aa6d\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A4O\"><em>Waggoner Carr, </em>Attorney General of Texas, <em>Hawthorne Phillips, </em>First Assistant Attorney General, <em>Stanton Stone, </em>Executive Assistant Attorney General, and <em>Howard M. Fender, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aa8L\">Motion for leave to file petition for writ of habeas corpus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

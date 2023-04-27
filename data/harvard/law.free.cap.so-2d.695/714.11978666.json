@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"714\" lastpage=\"714\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A1K\">In re Re-assignment of Judge Robert T. BENTON, II.</parties>\n<p data-order=\"1\" data-type=\"parties\" id=\"AfG\">Administrative Order 96-2.</p>\n<court data-order=\"2\" data-type=\"court\" id=\"AviI\">District Court of Appeal of Florida, First District.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AgY\">June 5, 1996.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlA_\">BY ORDER OF</p>\n<author id=\"AJ7\">THE COURT:</author>\n<p id=\"AYU6\">Judge Robert T. Benton, II, is re-assigned to the Administrative Division effective August 1,1996.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

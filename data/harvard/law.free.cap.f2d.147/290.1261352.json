@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"290\" lastpage=\"290\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b342-4\">Chester A. CRUM v. UNITED STATES DISTRICT COURT FOR DISTRICT OF KANSAS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b342-5\">No. 3128.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b342-6\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A6d\">Feb. 27, 1945.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b342-8\">No appearance for either party.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b342-9\">Before PHILLIPS, Circuit Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b342-10\">PER CURIAM.</author>\n<p id=\"b342-11\">Leave to file petition for writ denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

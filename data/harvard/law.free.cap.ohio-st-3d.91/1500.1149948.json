@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1500\" lastpage=\"1500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AB9e\">\n<em>Thursday April 26, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Ayy\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AjF\">01-454.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AnFS\">Hughes v. Calabrese.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATIdu\">In Prohibition. On April 23, 2001, relator filed a motion to strike respondent\u2019s memorandum in opposition to relator\u2019s motion for reconsideration. It appears to the court that relator\u2019s motion to strike is, in substance, a reply to respondent\u2019s memorandum in opposition. Whereas S.Ct.Prac.R. XIV(4)(B) prohibits a reply to a memorandum opposing a motion,</p>\n<p id=\"Amm\">IT IS ORDERED by the court, <em>sua sponte, </em>that relator\u2019s motion to strike be, and hereby is, stricken.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

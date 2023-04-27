@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"625\" lastpage=\"625\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b645-5\">CAMPBELL <em>v. </em>WARDEN OF THE MARYLAND PENITENTIARY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b645-6\">[App. No. 70,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A_eu\">September Term, 1963.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b645-7\">\n<em>Decided December 13, 1963.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b645-10\">Before Henderson, Hammond, Horney, Marbury and Sybert, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b645-11\">Per Curiam.</author>\n<p id=\"b645-12\">The application of Edward H. Campbell for leave to appeal from the order denying him post conviction relief from his imprisonment for armed robbery and carrying a deadly weapon is hereby denied for the reasons stated by Judge Prendergast in his opinion filed in the lower court.</p>\n<p id=\"b645-13\">\n<em>Application denied.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

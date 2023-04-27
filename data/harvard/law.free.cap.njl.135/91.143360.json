@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"91\" lastpage=\"92\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b137-14\">JOHN WARREN, RESPONDENT, v. COUNTY OF HUDSON, APPELLANT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b137-15\">Submitted January 15, 1946</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AjK\">Decided April 30, 1946.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b137-17\">Before Case, Chibe Justice, and Justices Parker and Oliphant.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b138-4\"><page-number citation-index=\"1\" label=\"92\">*92</page-number>Eor the appellant, <em>Thomas J. Armstrong (J. Emil Walscheid, </em>on the brief).</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b138-5\">For the respondent, <em>Eugene T. Sharkey.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b138-6\">Per Curiam.</author>\n<p id=\"b138-7\">The judgment is affirmed, for the reasons stated in the full and careful opinion of Judge Roberson in the Common Pleas, and printed in 23 <em>N. J. Mis. R. </em>252.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

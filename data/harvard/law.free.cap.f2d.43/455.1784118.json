@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"455\" lastpage=\"455\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b479-3\">SOUTHERN SURETY CO. v. George W. CHRISTMAN and George S. Christman d. b. a. Christman Lumber Company.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b479-5\">No. 5371.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b479-6\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b479-7\">Jan. 22, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b479-9\">Knappen, Uhl <em>&amp; </em>Bryant, of Grand Rapids, Mich., and C. C. Coulter, of Detroit, Mich., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b479-10\">Laurence W. Smith, of Grand Rapids, Mich., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b479-11\">Before MOORMAN, MACK and HICKS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b479-12\">PER CURIAM.</author>\n<p id=\"b479-13\">Judgment of District Court [43 F.(2d) 452] affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"583\" lastpage=\"583\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Fawzy MOHAMED, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  BRENNER OIL COMPANY, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 159383\n  <br/>\n  COA: 341899\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  May 17, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of defendant-appellant to extend the time for filing its reply is GRANTED. The reply will be accepted as timely filed if submitted on or before June 20, 2019.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

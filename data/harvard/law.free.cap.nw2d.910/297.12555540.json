@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"297\" lastpage=\"297\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  Alphonso L. STRAUGHTER, Jr., Defendant-Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 156198\n  <br/>\n  COA: 328956\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  May 2, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of James Dayson to file a brief amicus curiae in support of the defendant-appellee is DENIED because it fails to address the issues identified by the Court in its December 27, 2017 order directing oral argument on the application. The motion to extend the time for filing such brief is DENIED as moot.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

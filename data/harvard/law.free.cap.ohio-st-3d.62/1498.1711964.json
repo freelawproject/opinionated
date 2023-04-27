@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1498\" lastpage=\"1498\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b862-21\">\n<em>Thursday, January 16, 1992</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b862-22\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b862-23\">91-2102.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ADE\">Ohio Edison Co. v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AfFK\">Public Utilities Commission, No. 91-04-EL-EFC. On motion for stay. Stay granted.</p>\n<judges id=\"b862-24\">Resnick, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

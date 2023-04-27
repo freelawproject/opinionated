@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"838\" lastpage=\"838\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Christopher J. COMMINS, petitioner,\n  <br/>\n  v.\n  <br/>\n  HABBERSTAD BMW, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-10359.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 16, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12702624,12702625,12702633,12578250,12578251,12578252,12578253,12578254,12578255,12578256,12702634,12702621,12702622,12702623\" index=\"0\" url=\"https://cite.case.law/s-ct/134/106/\">\n   134 S.Ct. 106\n  </extracted-citation>\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1368\" lastpage=\"1368\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Ronald L. WHITWORTH, petitioner,\n  <br/>\n  v.\n  <br/>\n  Terry LOWERY, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-6292.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Feb. 24, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12699328,12699329,12699317,12584854,12584855,12584856,12584857,12584858,12584859,12699325,12699326,12699327\" index=\"0\" url=\"https://cite.case.law/s-ct/134/641/\">\n   134 S.Ct. 641\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

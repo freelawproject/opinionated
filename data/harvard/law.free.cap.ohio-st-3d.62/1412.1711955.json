@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1412\" lastpage=\"1412\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b776-22\">\n<em>Wednesday, September 25, 1991</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b776-23\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b776-24\">91-651.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AcU\">Alexander v. Rush.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABU\"><em>Clark County, </em>No. 2791. On motion for stay, motion to accelerate, and request for oral argument. Motions and request denied. <em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"b776-25\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

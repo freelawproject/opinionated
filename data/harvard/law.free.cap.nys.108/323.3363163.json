@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"323\" lastpage=\"323\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b343-7\">In re LA GRAVE.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b343-8\">(Supreme Court, Appellate Division, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ABX\">January 24, 1908.)</decisiondate>\n<summary data-order=\"3\" data-type=\"misc\" id=\"A21\">Appeal from Special Term, Kings County.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b343-9\">Application of Sophie March\u00e1is La Grave to examine Frank J. Herbert and others. From the order made, said La Grave appeals. Affirmed.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b343-10\">Argued before WOODWARD, JENKS, HOOKER, MILLER, and GAYNOR, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b343-11\">PER CURIAM.</author>\n<p id=\"Auf\">Order affirmed, with $10 costs and disbursements, on the authority of Cherbuliez v. Parsons (decided herewith) 108 N. Y. Supp. 321.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

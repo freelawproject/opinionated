@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1297\" lastpage=\"1297\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  David EDENFIELD, petitioner,\n  <br/>\n  v.\n  <br/>\n  GEORGIA.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-7742.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Feb. 24, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"4243679\" index=\"0\" url=\"https://cite.case.law/ga/293/370/\">\n   293 Ga. 370\n  </extracted-citation>\n  ,\n  <extracted-citation case-ids=\"4243679\" index=\"1\" url=\"https://cite.case.law/ga/293/370/\">\n   744 S.E.2d 738\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the Supreme Court of Georgia.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

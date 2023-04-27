@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1006\" lastpage=\"1006\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1060-38\">MARYLAND CASUALTY COMPANY OF BALTIMORE, a Corporation, v. Tom B. REED et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1060-40\">No. 1492.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1060-41\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Akb\">Nov. 2, 1936.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1060-43\">Ames, Cochran, Monet, Hayes &amp; Ames,\u00bb of Oklahoma City, Old., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1060-44\">Luther Bohanon, J. L. Gowdy, and J. B. Dudley, all of Oklahoma City, Okl., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1060-45\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1060-46\">PER CURIAM.</author>\n<p id=\"b1060-47\">Appeal dismissed on application of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

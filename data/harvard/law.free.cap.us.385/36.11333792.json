@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"36\" lastpage=\"36\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b140-4\">MASSEY <em>v. </em>GEORGIA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b140-6\">No. 630,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AH6l\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A7e\">Decided November 7, 1966.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b140-8\"><em>Floyd H. Wardlow, Jr., </em>and <em>John R. Rogers </em>for appellant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b140-9\">Per Curiam.</author>\n<p id=\"b140-10\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

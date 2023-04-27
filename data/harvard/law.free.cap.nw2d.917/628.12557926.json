@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"628\" lastpage=\"628\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Jerry Rick VANDIVER, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 155503\n  <br/>\n  COA: 335735\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  September 28, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the motion to add exhibits is GRANTED. By order of February 20, 2018, the prosecuting attorney was directed to answer the application for leave to appeal the February 23, 2017 order of the Court of Appeals. The answer having been received, the application for leave to appeal is again considered, and leave to appeal is DENIED. The defendant's motion for relief from judgment is prohibited by MCR 6.502(G), and we are not persuaded that the remaining question presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

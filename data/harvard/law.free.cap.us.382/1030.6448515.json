@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1030\" lastpage=\"1030\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b832-8\">No. 1026,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AkmU\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AKXv\">Johnson et al. <em>v. </em>Lloyd.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AeG8\"><em>Thurman L. Dodson </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AGQN\"><em>James F. Temple </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZA1\">C. A. D. C. Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

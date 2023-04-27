@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1007\" lastpage=\"1007\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1071-28\">Benj. E. COOK, Executor of Last WILL and Testament of Elmer E. DRAKE, deceased, v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AggQ\">No. 1374.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1071-29\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ai3q\">Sept. 23, 1936.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1071-31\">Benj. E. Cook, of Ponca City, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1071-32\">Daniel Dillon, Atty., Bureau of War Risk Litigation, of Oklahoma City, Okl., for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1071-33\">Before LEWIS, PHILLIPS, and BRATTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1071-34\">PER CURIAM.</author>\n<p id=\"b1071-35\">Judgment reversed and cause remanded pursuant to stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b801-5\">No. 847,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"At4k\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A5ee\">Andrews <em>v. </em>Murphy.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ahz9\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A6yl\"><em>Robert E. Sullivan </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQRo\">C. A. 6th Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

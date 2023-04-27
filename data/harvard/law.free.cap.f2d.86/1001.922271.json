@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1055-33\">J. E. HOLMES et al. v. Richard J. HOPKINS, United States District Judge for the District of Kansas.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1055-34\">No. 1475.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1055-35\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1055-36\">Dec. 12, 1936.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1055-38\">Charles L. Kagey, of Wichita, Kan., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1055-39\">Austin M. Cowan, of Wichita, Kan., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1055-40\">Before PHILLIPS, McDERMOTT, and BRATTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1055-41\">PER CURIAM.</author>\n<p id=\"b1055-42\">Petition denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

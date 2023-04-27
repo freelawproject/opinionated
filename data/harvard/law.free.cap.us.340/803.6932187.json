@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b725-6\">No. 5,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Ax9q\">Original.</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AqWX\">No. 7,</docketnumber>\n<p data-order=\"3\" data-type=\"docketnumber\" id=\"AW7PA\">Original.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"Ay6\">New Jersey <em>v. </em>New York et al.; and Texas <em>v. </em>Florida et al.</parties>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWn\">These cases are ordered stricken from the docket.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

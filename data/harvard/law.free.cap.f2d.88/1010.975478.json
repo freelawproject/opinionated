@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1074-35\">Antoinette HELLER, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1074-36\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1074-37\">March 5, 1937.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b1074-39\">Louis L. Swarthe and David Schwartz, both of Los Angeles, Cal., for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1074-40\">Peirson M. Hall, U. S. Atty., of Los Angeles, Cal.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1074-41\">Before WILBUR, MATHEWS, and HANEY, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1074-42\">PER CURIAM.</author>\n<p id=\"b1074-43\">Upon stipulation of counsel for respective parties, ordered appeal in above cause dismissed, that a judgment of dismissal be filed and entered accordingly, and the mandate of this court issued forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

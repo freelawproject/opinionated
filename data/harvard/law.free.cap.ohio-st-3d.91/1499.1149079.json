@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1499\" lastpage=\"1499\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"ArND\">\n<em>Friday, April 20, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AsjW\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AdmZ\">99-40.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AgHD\">Lincoln v. ANR Advance Transp. Co.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGX-\">Montgomery App. No. 16975. This cause is pending before the court as a discretionary appeal. On March 19, 1999, this court stayed further proceedings in this ease and ordered appellant to file a notice with this court upon the termination of the automatic stay under the Bankruptcy Code.</p>\n<p id=\"AEq3\">IT IS ORDERED by the court, <em>sua sponte, </em>that appellant file a notice advising this court of the status of the bankruptcy case, within fifteen days of the date of this entry.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1038-4\">James M. DUGGAN, Appellant, v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1038-5\">No. 9016.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1038-6\">Circuit Court of Appeals, Eighth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1038-7\">Sept. 26, 1930.</decisiondate>\n<p data-order=\"4\" data-type=\"seealso\" id=\"b1038-9\">For opinion below, see 36 F.(2d) 804.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1038-10\">L. B. Schwartz, of St. Paul, Minn., and S. P. Halpern, of Minneapolis, Minn., for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1038-11\">Lewis L. Drill, U. S. Atty., of St. Paul, Minn.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1038-12\">PER CURIAM.</author>\n<p id=\"b1038-13\">Appeal docketed and dismissed without costs to either party in this court, on joint motion and stipulation of parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

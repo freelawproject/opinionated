@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"430\" lastpage=\"430\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b434-6\">GENERAL COURT,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A3V6\">APRIL TERM, 1796.</decisiondate>\n<p data-order=\"2\" data-type=\"court\" id=\"A4I5\">(EASTERN SHORE.)</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b434-7\">John Dougherty\u2019s Lessee <em>against </em>Samuel Denny.</parties>\n<summary data-order=\"4\" data-type=\"headnotes\" id=\"b434-8\">EJECTMENT. In this case it appeared the plaintiff\u2019s land had been laid out to him some years ago, as the needle then pointed.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b434-11\"><em>Hammond, for </em>the plaintiff,</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b434-9\">\n<em>The Court.</em>\n</author>\n<p id=\"AYN3\">In locating his land in this suit, the plaintiff is bound to run the lines in the manner the land had been laid out to him.</p>\n<p id=\"b434-10\">The plaintiff was nonprossed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

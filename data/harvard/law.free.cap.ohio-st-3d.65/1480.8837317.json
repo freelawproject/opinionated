@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1480\" lastpage=\"1480\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b886-3\">\n<em>Wednesday, December 23, 1992</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b886-4\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b886-5\">92-1878.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AOE\">State ex rel. Pratt v. Cartolano.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAmb\"><em>Hamilton County, </em>No. C-920464. On motion for peremptory writ and motion for default judgment. Motions denied.</p>\n<judges id=\"b886-6\">Moyer, C.J., and Wright, J., dissent and would dismiss the cause.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

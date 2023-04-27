@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b605-4\">No. 18,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A2d\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A4U\">Illinois <em>v. </em>Missouri.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ALP\"><em>Norman H. Anderson, </em>Attorney General of Missouri, <em>Harold L. McFadden, </em>Assistant Attorney General, and <em>Stanley M. Rosenblum </em>on the motion.</attorneys>\n<seealso data-order=\"4\" data-type=\"seealso\" id=\"ARi\">[For earlier orders herein, see 379 U. S. 952; 380 U. S. 901, 969.]</seealso>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ada\">Motion to make complaint more definite and certain granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

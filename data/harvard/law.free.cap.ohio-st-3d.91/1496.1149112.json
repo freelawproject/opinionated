@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1496\" lastpage=\"1496\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Agts\">\n<em>Friday, April 13, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A9G\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A-A\">00-1030.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AouK\">Ohio Hosp. Assn. v. Armstrong World Industries, Inc.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Af4\">Cuyahoga App. No. 76067. This cause is pending before the court as an appeal from the Court of Appeals for Cuyahoga County. On April 9, 2001, appellee filed a Suggestion of Bankruptcy. Upon consideration thereof,</p>\n<p id=\"APEe\">IT IS ORDERED by the court that proceedings in this case be, and hereby are, stayed pending further order of this court.</p>\n<p id=\"A7S8\">IT IS FURTHER ORDERED by the court, <em>sua sponte, </em>that appellee shall file a notice with this court upon the termination of the automatic stay under the Bankruptcy Code.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

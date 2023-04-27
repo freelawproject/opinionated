@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"989\" lastpage=\"989\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b791-7\">No. 148,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AO_q\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AQWM\">Kirk <em>v. </em>California.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AsAK\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ArRq\"><em>Thomas C. Lynch, </em>Attorney General of California, and <em>Raymond M. Mom-boisse </em>and <em>Richard K. Turner, </em>Deputy Attorneys General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AC8q\">Sup. Ct. Cal. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

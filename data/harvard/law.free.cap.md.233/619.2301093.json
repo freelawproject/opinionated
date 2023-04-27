@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"619\" lastpage=\"619\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b639-10\">JONES <em>v. </em>WARDEN OF MARYLAND HOUSE OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b639-11\">[App. No. 81,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A7U\">September Term, 1963.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b639-12\">\n<em>Decided December 12, 1963.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b639-15\">Before the full Court.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b639-16\">Per Curiam.</author>\n<p id=\"b639-17\">For the reasons set forth in the opinion of Judge Dorsey in the lower court, the application for leave to appeal is denied.</p>\n<p id=\"b639-18\">\n<em>Application denied.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

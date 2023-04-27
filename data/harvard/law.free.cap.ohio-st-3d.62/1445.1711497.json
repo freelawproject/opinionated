@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1445\" lastpage=\"1445\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b809-4\">\n<em>Wednesday, October 30, 1991</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b809-5\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b809-6\">91-1624.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A-0\">State, ex rel. Martinelli, v. Wilkinson.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUH0\">In Procedendo. On answer of respondent. Answer treated as motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"b809-7\">Moyer, C.J., Sweeney, Holmes, Wright and Resnick, JJ., concur.</judges>\n<judges id=\"b809-8\">Douglas and H. Brown, JJ., would also deny the motions for default judgment and summary judgment.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

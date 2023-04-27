@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1422\" lastpage=\"1422\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b786-5\">\n<em>Wednesday, October 2, 1991</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b786-6\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b786-7\">91-1137.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AqpT\">State, ex rel. Hwang, v. Mahoning Cty.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APLT\">Court of Common Pleas. In Prohibition. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"b786-8\">Moyer, C.J., Sweeney, Holmes, Douglas, H. Brown and Resnick, JJ., concur.</judges>\n<judges id=\"b786-9\">Wright, J., would overrule the motion to dismiss, allow an answer, and deny the motion for leave to file <em>amicus </em>of Sinkovich.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

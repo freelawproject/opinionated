@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"576\" lastpage=\"576\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  ESQUIRE DEVELOPMENT AND CONSTRUCTION, INC., Petitioner-Appellant,\n  <br/>\n  v.\n  <br/>\n  CITY OF MASON, Respondent-Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 159549\n  <br/>\n  COA: 343173\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  May 10, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of petitioner-appellant to file an application for leave to appeal in excess of the page limitation is GRANTED. The 62-page application submitted on May 7, 2019, is accepted for filing.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

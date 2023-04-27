@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1280\" lastpage=\"1280\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b806-4\">The State of Ohio, Appellant, <em>v. </em>Noggle, Appellee.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b806-5\">[Cite as <em>State v. Noggle </em>(2001), 91 Ohio St.3d 1280.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b806-7\">(No. 00-1914</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Al_\">Submitted April 24, 2001</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AFF\">Decided June 6, 2001.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b806-11\"><em>Russell B. Wiseman, </em>Crawford County Prosecuting Attorney, and <em>Clifford J. Murphy, </em>Assistant Prosecuting Attorney, for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b806-9\">The cause is dismissed, <em>sua sponte, </em>as having been improvidently allowed.</p>\n<judges id=\"b806-10\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

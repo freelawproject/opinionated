@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"844\" lastpage=\"844\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b866-3\">THE P. R. R. NO. 34 (four cases).</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b866-4\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AfVb\">April 30, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b866-5\">Nos. 259-262.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b866-8\">James A. Fechtig, Jr., of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b866-9\">Burlingham, Yeeder, Masten &amp; Fearey, of New York City (Chauncey I. Clark and A. Howard Neely, both of New York City, of counsel) for appellee Pennsylvania R. Co.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b866-10\">Before ROGERS, HOUGH, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b866-11\">PER CURIAM.</author>\n<p id=\"APaP\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1076-14\">Ida WELLS v. F. E. KENNAMER, United States District Judge for the Northern District of Oklahoma.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1076-15\">No. 1506.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1076-16\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AXp-\">Nov. 27, 1936.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1076-18\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1076-19\">PER CURIAM.</author>\n<p id=\"b1076-20\">Motion denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

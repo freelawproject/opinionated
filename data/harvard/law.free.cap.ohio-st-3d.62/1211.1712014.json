@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1211\" lastpage=\"1211\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b741-4\">In re Resignation of Jan.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b741-6\">[Cite as <em>In re Resignation of Jan </em>(1991), 62 Ohio St.3d 1211.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ATkV\">(No. 91-2229</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AaI\">Submitted November 20, 1991</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AazK\">Decided November 27, 1991.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b741-7\">The resignation of Joseph John Jan as an attorney, Registration No. 0024519, is accepted.</p>\n<judges id=\"b741-8\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

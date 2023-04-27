@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"807\" lastpage=\"807\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b763-8\">No. 449,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AusX\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ahgc\">Davis et al. <em>v. </em>Union Free School District No. 7 et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AN8L\"><em>Murray A. Miller </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A699\"><em>Louis J. Lejkowitz, </em>Attorney General of New York, and <em>Charles A. Brind </em>for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWG\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

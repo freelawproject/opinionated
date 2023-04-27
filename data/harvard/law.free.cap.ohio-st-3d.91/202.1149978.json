@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"202\" lastpage=\"202\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b352-9\">Cain, Admr., Appellee, <em>v. </em>Simpson, Admr., et al.; City of Niles et al., Appellants.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b352-10\">[Cite as <em>Cain v. Simpson </em>(2001), 91 Ohio St.3d 202.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b352-12\">(Nos. 00-584 and 00-808</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AqP\">Submitted February 28, 2001</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Alt\">Decided March 28, 2001.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b352-16\"><em>Reminger &amp; Reminger Co., L.P.A., </em>and <em>Nick C. Tomino, </em>for appellants.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b352-14\">The judgment of the court of appeals is affirmed on the authority of <em>Stevens v. Ackman </em>(2001), 91 Ohio St.3d 182, 743 N.E.2d 901.</p>\n<judges id=\"b352-15\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

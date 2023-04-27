@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b603-5\">No. 20,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A91\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A1yK\">Kansas <em>v. </em>Colorado.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AB7\"><em>Robert C. Londerholm, </em>Attorney General of Kansas, and <em>Charles N. Henson, Jr., </em>Assistant Attorney General, for plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A15\"><em>Duke W. Dunbar, </em>Attorney General of Colorado, <em>James D. Geissinger </em>and <em>Raphael J. Moses, </em>Assistant Attorneys General, and <em>Donald H. Hamburg, </em>Special Assistant Attorney General, for defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ASnj\">Motion for leave to file bill of complaint dismissed August 2, 1965, pursuant to Rule 60 of the Rules of this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

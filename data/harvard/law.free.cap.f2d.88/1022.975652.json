@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1086-19\">Herbert M. WEIL v. WEBSTER HALL CORPORATION OF AMERICA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1086-20\">No. 7659.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1086-21\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1086-22\">March 4, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1086-24\">Herbert M. Weil, of Detroit, Mich., for appellant.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1086-25\">Before MOORMAN, HICKS, and SIMONS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1086-26\">PER CURIAM.</author>\n<p id=\"b1086-27\">On petition of Herbert M. Weil, appellant, and upon stipulation of counsel, it is ordered that the appeal of Herbert M. Weil be, and the same is hereby, docketed and dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1499\" lastpage=\"1499\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b863-6\">\n<em>Wednesday, January 22, 1992</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b863-7\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b863-8\">91-382.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AlWW\">State, ex rel. Pheils, v. Bates.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiH\"><em>Lucas County, </em>No. L-91-022. Reported at 62 Ohio St.3d 6, 577 N.E.2d 347. On merits on rehearing. <em>Sua sponte, </em>cause dismissed as moot.</p>\n<judges id=\"A9F1\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

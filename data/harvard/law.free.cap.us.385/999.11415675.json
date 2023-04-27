@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b955-6\">No. 924,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AQuj\">Misc.</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b955-7\">No. 935,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"Ay-d\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AXs-\">Scott <em>v. </em>Dawkins, U. S. District Judge; and Huston <em>v. </em>Kansas.</parties>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFc2\">Motions for leave to file petitions for writs of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

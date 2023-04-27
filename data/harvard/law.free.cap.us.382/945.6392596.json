@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"945\" lastpage=\"945\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b747-8\">No. 252,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ANyi\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ALr2\">Brown <em>v. </em>West Virginia.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AUCS\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AeKJ\"><em>C. Donald Robertson, </em>Attorney General of West Virginia, <em>Leo Catsonis, </em>Assistant Attorney General, and <em>Charles M. Walker </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AkKm\">Sup. Ct. App. W. Va. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

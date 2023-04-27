@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1376\" lastpage=\"1376\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Paul A. HOWELL, petitioner,\n  <br/>\n  v.\n  <br/>\n  Michael D. CREWS, Secretary, Florida Department of Corrections.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-8530 (13A824).\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Feb. 26, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"3703469\" index=\"0\" url=\"https://cite.case.law/f3d/730/1257/\">\n   730 F.3d 1257\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Application for stay of execution of sentence of death presented to Justice THOMAS and by him referred to the Court denied. Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

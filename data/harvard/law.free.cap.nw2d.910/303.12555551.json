@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"303\" lastpage=\"303\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE ANONYMOUS JUDGE\n </parties>\n <judges id=\"p-2\">\n  Before the Judicial Tenure Commission\n </judges>\n <docketnumber id=\"p-3\">\n  SC: 157451\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  May 4, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Court, the Judicial Tenure Commission having filed a motion to withdraw the petition for interim suspension, the motion is GRANTED. The motion for immediate consideration of the petition is DENIED as moot.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1485\" lastpage=\"1486\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b891-22\">\n<em>Wednesday, January 6, 1993</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b891-23\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b891-24\">92-2637.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AHex\">MetroHealth Med. Ctr. v. Kaiser Found. Hosp.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Alin\">On motion to vacate. The motion to vacate the granting of emergency relief and stay dated December 31, 1992 (65 Ohio St.3d 1485, <page-number citation-index=\"1\" label=\"1486\">*1486</page-number>604 N.E.2d 1364) is granted and this cause is dismissed.</p>\n<judges id=\"b892-5\">A.W. Sweeney, Acting C.J., Douglas, Wright, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n<judges id=\"AbLN\">Resnick, J., dissents.</judges>\n<judges id=\"b892-6\">Moyer, C.J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

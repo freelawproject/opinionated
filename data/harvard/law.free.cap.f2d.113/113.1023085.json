@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"113\" lastpage=\"113\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b169-4\">Arthur BERENSON, Petitioner, v. COMMISSIONER OF INTERNAL REVENUE, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b169-5\">No. 246.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b169-6\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AG4\">July 8, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b169-8\">Arthur Berenson, pro se, and Lawrence Berenson, both of New York City, and Bernard Berenson, of Boston, Mass., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b169-9\">Samuel O. Clark, Jr., Asst. Atty. Gen., and Sewall Key, Carlton Fox, and Lee A. Jackson, Sp. Assts. to the Atty. Gen., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b169-10\">Before SWAN, AUGUSTUS N. HAND, and PATTERSON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b169-21\">PER CURIAM.</author>\n<p id=\"AQa\">Decision affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"516\" lastpage=\"516\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State\n  <br/>\n  v.\n  <br/>\n  Isidro Garcia Hernandez\n </parties>\n <docketnumber id=\"p-2\">\n  63P15-2\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 18, 2016\n </decisiondate>\n <attorneys id=\"p-5\">\n  Isidro Garcia Hernandez, for Hernandez, Isidro Garcia.\n </attorneys>\n <attorneys id=\"p-6\">\n  Kristin Jo Uicker, Assistant Attorney General, N. Lorrin Freeman, District Attorney, for State of North Carolina.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 18th of May 2016 by Defendant for Petition for Discretionary Review:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Dismissed by order of the Court in conference, this the 18th of August 2016.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Ervin, J. recused\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

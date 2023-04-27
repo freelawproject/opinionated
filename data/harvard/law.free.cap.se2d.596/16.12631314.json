@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"16\" lastpage=\"17\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Michael Eugene REED, II.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 232P01-2.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  April 1, 2004.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Mark L. Killian, Newton, for Reed.\n </attorneys>\n <attorneys id=\"p-6\">\n  Buren R. Shields, III, Assistant Attorney General, James C. Gaither, Jr., District Attorney, for State.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Defendant on the 1st day of March 2004 in this matter for a writ of certiorari to review the decision of the North Carolina Court of Appeals, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <blockquote id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 1st day of April 2004.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

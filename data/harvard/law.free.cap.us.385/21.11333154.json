@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"21\" lastpage=\"21\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b125-12\">JOHNSON <em>v. </em>CALIFORNIA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b125-14\">No. 88,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Axyv\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A1K\">Decided October 24, 1966.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b125-16\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b125-17\"><em>Thomas C. Lynch, </em>Attorney General of California, and <em>Edward P. O\u2019Brien </em>and <em>Lawrence R. Mansir, </em>Deputy Attorneys General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b125-18\">Per Curiam.</author>\n<p id=\"b125-19\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

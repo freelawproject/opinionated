@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1495\" lastpage=\"1495\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b901-4\">\n<em>Wednesday, January 20, 1993</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b901-5\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b901-6\">92-995.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AS0b\">State ex rel. Gampfer v. Wilkinson.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ax9\"><em>Franklin County, </em>No. 91AP-809. On request for oral argument. Request denied and cause dismissed as moot.</p>\n<judges id=\"b901-7\">Moyer, C.J., A.W. Sweeney, Douglas and Wright, JJ., concur.</judges>\n<judges id=\"b901-8\">Resnick and F.E. Sweeney, JJ., would deny the request.</judges>\n<judges id=\"b901-9\">Pfeifer, J., would grant the request.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

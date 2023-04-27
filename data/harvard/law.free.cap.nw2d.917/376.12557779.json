@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"376\" lastpage=\"377\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE ESTATE OF WARD\n </parties>\n <parties id=\"p-2\">\n  James V. Ward, III, Appellant,\n  <br/>\n  v.\n  <br/>\n  Karen Powers and Elias Kafantaris, Personal Representative of the Estate of James V. Ward, Jr., Appellees.\n </parties>\n <docketnumber id=\"p-3\">\n  SC: 157228\n  <br/>\n  COA: 335438\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  September 12, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Court, the application for leave to appeal the January 9, 2018\n   judgment of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court. The request for default judgment is DENIED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

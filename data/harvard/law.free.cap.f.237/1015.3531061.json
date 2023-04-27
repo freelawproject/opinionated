@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1027-6\">BAKKER v. NETHERLANDS-AMERICAN STEAM NAV. CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AlJ5\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AxZc\">November 14, 1916.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AVTC\">No. 34.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AZY\">In Error to the District Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Aigj\">Edwin G. Davis, of New York City, for plaintiff in error. M. L. Fearey, of New Yqrk City, for defendant in error.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AGO\">Before COXE, WARD, and HOUGH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1027-7\">PER CURIAM.</author>\n<p id=\"A_oJ\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

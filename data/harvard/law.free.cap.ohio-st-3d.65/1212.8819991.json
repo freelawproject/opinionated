@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1212\" lastpage=\"1212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b800-11\">In re Resignation of Bernabei. Stark County Bar Association <em>v. </em>Bernabei.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b800-13\">[Cite as <em>In re Resignation of Bernabei </em>(1992), 65 Ohio St.3d 1212.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ASi_\">(Nos. 92-1978 and 92-1705 \u2014</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AgD\">Submitted December 10, 1992 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ack\">Decided December 18, 1992.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b800-14\">The resignation of Vincent J. Bernabei, Attorney Registration No. 0016965, is accepted; case No. 92-1705, <em>Stark Cty. Bar Assn. v. Bernabei, </em>is dismissed as moot.</p>\n<p id=\"b800-15\">For earlier case, see (1992), 65 Ohio St.3d 1202, 601 N.E.2d 41.</p>\n<judges id=\"b800-16\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

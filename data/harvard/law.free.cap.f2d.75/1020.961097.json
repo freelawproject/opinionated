@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-39\">In the Matter of Charles J. SWAN, Individually, etc., Bankrupt. United States of America, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1044-40\">No. 363.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1044-41\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ag5-dedup-0\">March 19, 1935.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1044-43\">Clarence W. Roberts, of New York City, for the United States.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1044-44\">Israel Akselrod, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1044-45\">Before L. HAND, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-46\">PER CURIAM.</author>\n<p id=\"b1044-47\">Appeal dismissed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"706\" lastpage=\"706\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b730-7\">(First Circuit\u2014Hamilton Co., O., Circ\u2019t Court</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Az1\">Jan. Term, 1899.)</decisiondate>\n<judges data-order=\"2\" data-type=\"judges\" id=\"ARI\">Before Hale, Marvin and Caldwell, JJ.</judges>\n<p data-order=\"3\" data-type=\"court\" id=\"b730-8\">[of the Eighth Circuit, sitting in the First Circuit.]</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AY7\">SMITH v. MORRIS.</parties>\n<headnotes data-order=\"5\" data-type=\"headnotes\" id=\"b730-9\"><em>Frivolous answer </em>\u2014 Power <em>of court to strike from </em>files\u2014</headnotes>\n<seealso data-order=\"6\" data-type=\"seealso\" id=\"b730-10\">See s. c., 41 W. L. B., 41.</seealso>\n<summary data-order=\"7\" data-type=\"summary\" id=\"b730-11\">Error to the Court of Common Pleas of Cuyahoga county.</summary>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A3d\">PER CURIAM.</author>\n<p id=\"b730-12\">The power to strike a frivolous answer from the flies is inherent in the court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

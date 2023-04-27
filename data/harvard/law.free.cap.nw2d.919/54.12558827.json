@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"54\" lastpage=\"55\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Quamain Conay LEAK, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 155004\n  <br/>\n  COA: 327336\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  October 30, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   By order of June 27, 2017, the application for leave to appeal the November 8, 2016 judgment of the Court of Appeals was held in abeyance pending the decisions\n   in\n   <em>\n    People v. Skinner\n   </em>\n   (Docket No. 152448) and\n   <em>\n    People v. Hyatt\n   </em>\n   (Docket No. 153081). On order of the Court, the cases having been decided on June 20, 2018, --- Mich. ---- (2018), the application is again considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

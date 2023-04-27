@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"23\" lastpage=\"23\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b167-10\">KASHARIAN <em>v. </em>HALPERN et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b167-12\">No. 389,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ac3N\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AJW\">Decided October 11, 1965.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b167-14\">Per Curiam.</author>\n<p id=\"b167-15\">The appeal is dismissed for want of jurisdiction.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

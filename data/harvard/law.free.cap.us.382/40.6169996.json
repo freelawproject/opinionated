@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"40\" lastpage=\"40\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b184-12\">KASHARIAN et al. <em>v. </em>SOUTH PLAINFIELD BAPTIST CHURCH et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b184-15\">No. 433,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AdRe\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AFu\">Decided October 18, 1965.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b184-17\">Per Curiam.</author>\n<p id=\"b184-18\">The appeal is dismissed for want of jurisdiction.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

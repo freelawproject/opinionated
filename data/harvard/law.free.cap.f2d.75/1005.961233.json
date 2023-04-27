@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1005\" lastpage=\"1005\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1029-5\">Harold G. ARON, Petitioner, v. COMMISSIONER OF INTERNAL REVENUE, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1029-6\">No. 11.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1029-7\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AUdF\">Feb. 18, 1935.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1029-9\">Herman J. Galloway, of Washington, D. C. (Harold G. Aron, of New York City, of counsel), for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1029-10\">Frank J. Wideman, Asst. Atty. Gen., and Sewall Key and Joseph M. Jones, Sp. Assts. to Atty. Gen., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1029-11\">Before MANTON, AUGUSTUS N. HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1029-12\">PER CURIAM.</author>\n<p id=\"b1029-13\">Decision affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b593-11\">No. 566,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AD-\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AmCJ\">DeFoe <em>v. </em>Weaver Bros., Inc.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Apu\"><em>Homer Brooks </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AQK\"><em>Milton W. King, Bernard I. Nordlinger, Wallace Luchs, Jr. </em>and <em>Robert B. Frank </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAI\">United States Court of Appeals for the District of Columbia Circuit. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

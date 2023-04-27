@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"6\" lastpage=\"6\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b134-4\">Richmond</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b134-5\">Dorcas Louise Wolgemuth Baugher v. John O. Baugher.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b134-6\">May 25, 1972.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b134-7\">Record No. 7843.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b134-8\">Present, Snead, C.J., PAnson, Carrico, Gordon, Harrison and Harman, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b134-10\"><em>Humes J. Franklin, Jr. (Franklin, Poindexter &amp; Franklin, </em>on brief), for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b134-11\"><em>Carter R. Allen (Allen &amp; Dalton, </em>on brief), for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b134-12\"><em>Decree affirmed </em>without opinion by equally divided Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

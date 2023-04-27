@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1085-7\">The UNITED STATES of America v. The WEBSTER MANUFACTURING COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1085-8\">No. 6144.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1085-9\">Circuit Court of Appeals, Seventh Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1085-10\">Jan. 16, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1085-12\">Michael L. Igoe, of Chicago, 111., for the United States.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1085-13\">Before EVANS and SPARKS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1085-14\">PER CURIAM.</author>\n<p id=\"b1085-15\">On motion of counsel for appellant, and upon consideration of the certificate of the clerk of the United States District Court filed this day, it is ordered and adjudged that this cause be docketed in this court and that this appeal be, and the same is hereby, dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

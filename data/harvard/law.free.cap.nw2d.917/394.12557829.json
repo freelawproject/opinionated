@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"394\" lastpage=\"394\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Michael Rene GARRETT, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157544\n  <br/>\n  COA: 341352\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  September 12, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the motion to submit supporting documents is GRANTED. The application for leave to appeal the February 16, 2018 order of the Court of Appeals is considered, and it is DENIED, because the defendant has failed to meet the burden of establishing entitlement to relief under MCR 6.508(D). The motions to remand, to appoint counsel, for oral argument, and to file an affidavit are DENIED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

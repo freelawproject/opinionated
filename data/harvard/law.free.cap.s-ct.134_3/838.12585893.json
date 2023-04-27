@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"838\" lastpage=\"838\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Kevin BROMWELL, et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  George LOMBARDI, Director, Missouri Department of Corrections, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-10501.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 16, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12578368,12578369,12578370,12578371,12578372,12702699,12702700,12702701,12702711,12702719,12702718,12578367\" index=\"0\" url=\"https://cite.case.law/s-ct/134/123/\">\n   134 S.Ct. 123\n  </extracted-citation>\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

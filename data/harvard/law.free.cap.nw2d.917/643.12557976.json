@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"643\" lastpage=\"644\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Daniel PRICE, Plaintiff-Appellee,\n  <br/>\n  and\n  <br/>\n  VHS of Michigan, Inc. d/b/a Detroit Medical Center, Life Skills Village, PLLC, Professional Care Physical Therapy, Inc., and Safe-T Transportation, Intervening Plaintiffs-Appellees,\n  <br/>\n  v.\n  <br/>\n  TRUMBULL INSURANCE COMPANY, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157136\n  <br/>\n  COA: 339363\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  October 2, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the January 4, 2018 order of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the question presented should now be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

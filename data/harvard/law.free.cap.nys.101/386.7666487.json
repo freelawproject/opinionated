@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"386\" lastpage=\"386\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b418-11\">RIPLEY v. SMITH et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b418-12\">(Supreme Court, Appellate Division, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A_6\">November 28, 1906.)</decisiondate>\n<summary data-order=\"3\" data-type=\"misc\" id=\"A9e\">Appeal from Trial Term, Kings County.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b418-13\">Action by David Ripley against James A. Smith and others. Erom a judgment for plaintiff, defendant Patrick Skelly appeals. Affirmed.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b418-14\">Argued before HIRSCHBERG, P. J., and WOODWARD, HOOKER, RICH, and MILLER, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b418-15\">PER CURIAM.</author>\n<p id=\"Atp\">Judgment affirmed, with costs, on the authority of Tinsley v. Smith (decided herewith) 101 N. Y. Supp. 382.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1207\" lastpage=\"1207\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b737-4\">In re Resignation of Spencer.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b737-5\">[Cite as <em>In re Resignation of Spencer </em>(1991), 62 Ohio St.3d 1207.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ATvU\">(No. 91-1948</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A3P\">Submitted October 9, 1991</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Agf\">Decided October 10, 1991.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b737-6\">The resignation of Richard F. Spencer, Jr. as an attorney, Registration No. 0034179, is accepted.</p>\n<judges id=\"b737-7\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

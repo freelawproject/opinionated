@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1370\" lastpage=\"1370\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Marlan C. BONDS, petitioner,\n  <br/>\n  v.\n  <br/>\n  Bill K. WILSON, Superintendent, Indiana State Prison.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-6859.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Feb. 24, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12700160,12700161,12585827,12585828,12585829,12585830,12585831,12585832,12700170,12700171,12700158,12700159\" index=\"0\" url=\"https://cite.case.law/s-ct/134/829/\">\n   134 S.Ct. 829\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

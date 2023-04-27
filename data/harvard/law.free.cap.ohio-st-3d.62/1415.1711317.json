@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1415\" lastpage=\"1415\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b779-11\">MOTION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b779-12\">86-512.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A4G\">State v. Byrd.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARkF\"><em>Hamilton County, </em>No. G-830676. On motion to reinstate stay. Motion granted. <em>Sua sponte, </em>all other cases filed by Byrd in the Supreme Court of Ohio are dismissed.</p>\n<judges id=\"b779-13\">Holmes, J., would deny the motion to reinstate stay.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

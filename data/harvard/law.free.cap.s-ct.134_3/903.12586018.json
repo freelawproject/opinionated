@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Bingham McCUTCHEN, et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  Hartwell HARRIS.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-351.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Jan. 13, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"4263636\" index=\"0\" url=\"https://cite.case.law/cal-app-4th/214/1399/\">\n   214 Cal.App.4th 1399\n  </extracted-citation>\n  ,\n  <extracted-citation index=\"1\" url=\"https://cite.case.law/citations/?q=154%20Cal.%20Rptr.%203d%20843\">\n   154 Cal.Rptr.3d 843\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Motion of New England Legal Foundation for leave to file a brief as\n  <em>\n   amicus curiae\n  </em>\n  granted. Petition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

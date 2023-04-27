@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"854\" lastpage=\"854\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b810-3\">No. 49,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ADFI\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ac9\">Wirtshafter <em>v. </em>Pennsylvania.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AFcD\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A0Rd\"><em>Joseph M. Smith </em>and <em>Arlen Specter </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AuR\">Sup. Ct. Pa. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

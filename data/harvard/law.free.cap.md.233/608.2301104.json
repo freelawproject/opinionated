@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"608\" lastpage=\"608\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b628-10\">HALL <em>v. </em>WARDEN OF MARYLAND HOUSE OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b628-11\">[App. No. 84,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"ASB\">September Term, 1963.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b628-14\">\n<em>Decided December 10, 1963.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b628-17\">Before the full Court.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b628-18\">PER Curiam.</author>\n<p id=\"b628-19\">This case is now moot because the applicant has been released from custody, and the application is therefore dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

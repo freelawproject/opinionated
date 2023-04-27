@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"34\" lastpage=\"34\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the Matter of Gregory Xavier HESTERBERG.\n </parties>\n <docketnumber id=\"p-2\">\n  No. D-2982.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  July 17, 2017.\n </decisiondate>\n <opinion id=\"p-5\">\n  Gregory Xavier Hesterberg, of Garden City, New York, having requested to resign as a member of the Bar of this Court, it is ordered that his name be stricken from the roll of attorneys admitted to the practice of law before this Court. The Rule to Show Cause, issued on June 12, 2017, is discharged.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

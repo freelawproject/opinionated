@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"84\" lastpage=\"85\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  TOWNSHIP OF WILLIAMSTOWN, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  SANDALWOOD RANCH, LLC, Alec Kolenda, and Sarah Kolenda, Defendants-Appellants,\n  <br/>\n  and\n  <br/>\n  Love Advertising, Inc., Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158171\n  <br/>\n  COA: 337469\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  September 27, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motions of defendants-appellants to extend the time for filing their reply and to exceed the page limitation are GRANTED.\n  </p>\n  <p id=\"p-7\">\n   The reply submitted on September 18, 2018, is accepted for filing.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

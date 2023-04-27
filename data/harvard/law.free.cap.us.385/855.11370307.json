@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"855\" lastpage=\"855\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b811-8\">No. 67,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AchM\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Asz4\">Zucker <em>v. </em>California et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ASI7\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A59Y\"><em>Thomas C. Lynch, </em>Attorney General of California, <em>William E. James, </em>Assistant Attorney General, and <em>Ronald M. George, </em>Deputy Attorney General, for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOIj\">Sup. Ct. Cal. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

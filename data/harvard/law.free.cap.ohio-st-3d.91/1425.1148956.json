@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1425\" lastpage=\"1425\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A4d\">\n<em>Friday, February 2, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AN2\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AXX\">00-2339.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AT5\">State v. Avery.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApvI\">This cause is pending before the court as a discretionary appeal and claimed appeal as of right. On January 10, 2001, appellee filed a memo opposing motion for delayed appeal that was due, under S.Ct.Prac.R. XIV(4)(B), no later than January 8, 2001. Whereas S.Ct.Prac.R. XIV(1)(C) prohibits untimely filings,</p>\n<p id=\"A4S\">IT IS ORDERED by the court, <em>sua sponte, </em>that the memo opposing motion for delayed appeal be, and hereby is, stricken.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

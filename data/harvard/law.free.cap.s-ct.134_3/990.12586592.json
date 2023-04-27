@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"990\" lastpage=\"990\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Roderick Olaf FONSECA, petitioner,\n  <br/>\n  v.\n  <br/>\n  Larry SMALL, Warden.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-10980.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Jan. 13, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12703117,12703118,12703119,12703120,12703121,12580951,12580952,12580953,12580954,12580955,12580956,12704063\" index=\"0\" url=\"https://cite.case.law/s-ct/134/208/\">\n   134 S.Ct. 208\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1086-30\">Frederick W. WILHELM et al. v. STANDARD OIL COMPANY (INDIANA) et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1086-31\">No. 6095.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1086-32\">Circuit Court of Appeals, Seventh Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1086-33\">Nov. 20, 1936.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1086-35\">Harrison E. Fryberger, of New York City, and Erwin Seago, of Chicago, 111., for appellants.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1086-36\">Before EVANS and SPARKS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1086-37\">PER CURIAM.</author>\n<p id=\"b1086-38\">On motion of counsel for appellant, it is ordered by the court that this appeal be, and the same is hereby, dismissed without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"872\" lastpage=\"872\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b674-5\">No. 219,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A7HB\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AuAc\">Hughes et al. <em>v. </em>Kropp, Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AuMv\">Petitioners <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AIg\"><em>Frank J. Kelley, </em>Attorney General of Michigan, <em>Luke Quinn, </em>Assistant Attorney General, and <em>Robert A. Derengoski, </em>Solicitor General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b674-6\">C. A. 6th Cir. Certiorari denied.</p>\n<judges id=\"Ao9\">Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

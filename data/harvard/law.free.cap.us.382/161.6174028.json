@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"161\" lastpage=\"161\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b305-13\">KASHARIAN <em>v. </em>WILENTZ.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b305-15\">No. 672,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AefR\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"At7\">Decided November 22, 1965.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b305-17\">Per Curiam.</author>\n<p id=\"b305-18\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

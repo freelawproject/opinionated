@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1461\" lastpage=\"1461\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b867-15\">\n<em>Wednesday, December 2, 1992</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b867-16\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b867-17\">92-1797.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Au2\">State v. Auria.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-CY\"><em>Erie County, </em>No. E-90-55. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"b867-18\">Moyer, C.J., Sweeney, Holmes, Douglas, H. Brown and Resnick, JJ., concur.</judges>\n<judges id=\"b867-19\">Wright, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

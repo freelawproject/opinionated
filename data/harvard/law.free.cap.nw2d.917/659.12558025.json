@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"659\" lastpage=\"660\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Ronald BROWNLOW and Susan Travis, Plaintiffs-Appellants,\n  <br/>\n  v.\n  <br/>\n  MCCALL ENTERPRISES, INC., d/b/a Paul Davis Restoration of Washtenaw County, Defendant-Appellee,\n  <br/>\n  and\n  <br/>\n  State Farm Fire &amp; Casualty Company, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157247\n  <br/>\n  COA: 339006\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  October 2, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the February 13, 2018\n   order of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the question presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

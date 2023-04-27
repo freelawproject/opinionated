@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1042-7\">Joseph B. HAGE, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AgZ\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AI4\">March 18, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AKx\">No. 320.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Avg\">Merrill, Sisson &amp; Hanagan, of Utica, N. Y., for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A1x\">Oliver D. Burden, U. S. Atty., of Syracuse, N. Y.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AJ1t\">Before ROGERS, HOUGH, and MAYER, Circuit Judges. \u2018 \u25a0</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1042-8\">PER CURIAM.</author>\n<p id=\"AFVz\">Judgment affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

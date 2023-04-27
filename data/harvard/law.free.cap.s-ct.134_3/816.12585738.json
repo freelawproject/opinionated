@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"816\" lastpage=\"816\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  WEN LIU, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES DISTRICT COURT FOR the SOUTHERN DISTRICT OF NEW YORK.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-10928.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 9, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12703139,12703076,12703180,12703181,12583731,12583732,12583733,12583734,12583735,12583736,12703035,12703167\" index=\"0\" url=\"https://cite.case.law/s-ct/134/393/\">\n   134 S.Ct. 393\n  </extracted-citation>\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

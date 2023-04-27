@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"810\" lastpage=\"810\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Yreva MUHAMMAD, Personal Representative of the Estate of Robert Muhammad, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  William GRESLEY, Matthew Kamps, Sebastien Lebon, Bertrand Thibault, Michael Champrenault, Daniel Moore, and Nicolas Pelfrene, Defendants-Appellees.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 159566\n  <br/>\n  159567\n  <br/>\n  COA: 341745, 343236\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  May 24, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of defendants-appellees to extend the time for filing their answer to the application for leave to appeal is GRANTED. The answer will be accepted as timely filed if submitted on or before July 3, 2019.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

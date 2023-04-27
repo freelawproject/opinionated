@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"868\" lastpage=\"868\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b824-12\">No. 234,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Adbr\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ASuA\">Jones <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ads0\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ah3p\"><em>Solicitor General Marshall, Assistant Attorney General Vinson, Beatrice Rosenberg </em>and <em>Julia P. Cooper </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACMV\">C. A. D. C. Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

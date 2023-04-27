@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"114\" lastpage=\"114\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b170-24\">Henry C. and Lillie M. Wright SMITH, Petitioners, v. COMMISSIONER OF INTERNAL REVENUE, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b170-25\">No. 356.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b170-26\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ALNa\">July 8, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b170-8\">Henry C. Smith, of New York City, for petitioners.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b170-9\">Samuel O. Clark, Jr., Asst. Atty. Gen., and Sewall Key and William L. Cary, Sp. Assts. to Atty. Gen., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b170-10\">Before SWAN, AUGUSTUS N. HAND, and PATTERSON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b170-11\">PER CURIAM.</author>\n<p id=\"b170-12\">Decision affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

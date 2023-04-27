@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"676\" lastpage=\"676\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE GUARDIANSHIP of Dorothy REDD\n </parties>\n <parties id=\"p-2\">\n  GARY REDD, Appellant,\n  <br/>\n  v.\n  <br/>\n  Jennifer Carney and Nichole Legardy, as Co-Guardians for Dorothy Redd, a legally Incapacitated Person, Appellees.\n </parties>\n <docketnumber id=\"p-3\">\n  SC: 156705\n  <br/>\n  COA: 335152\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  October 5, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Court, the motion to supplement the application for leave to appeal is GRANTED. The application for leave to appeal the September 19, 2017 judgment of the Court of Appeals is considered, and it is DENIED as moot in light of the death of the incapacitated individual who was the subject of the guardianship at issue.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

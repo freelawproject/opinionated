@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"995\" lastpage=\"995\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Len VANDO, petitioner,\n  <br/>\n  v.\n  <br/>\n  PENNSYLVANIA.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-6399.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Jan. 13, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"12704801,12704706,12704802,12584494,12584495,12584496,12584497,12584498,12584499,12699124,12699125,12704795\" index=\"0\" url=\"https://cite.case.law/s-ct/134/531/\">\n   134 S.Ct. 531\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

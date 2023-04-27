@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"924\" lastpage=\"924\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b948-6\">In re ULROP-HUFF CO. Inc. Appeal of WHITEHOUSE, DAVIS &amp; CO., Inc.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b948-8\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b948-9\">November 2, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b948-10\">No. 75.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b948-13\">Averill &amp; Tompkins, of Rochester, N. Y. (Arthur Mayer, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b948-14\">Isaac Adler, of Rochester, N. Y., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b948-15\">Before HOUGH, MANTON and HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b948-16\">PER CURIAM.</author>\n<p id=\"AaRq\">Order (9 F.[2d] 922) affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

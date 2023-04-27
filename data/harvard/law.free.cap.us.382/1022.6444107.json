@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b824-4\">January 31, 1966.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b824-6\">No. 18,</docketnumber>\n<p data-order=\"2\" data-type=\"docketnumber\" id=\"A8n5\">Original.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AXP5\">Illinois <em>v. </em>Missouri.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aqh2\"><em>William O. Clark, </em>Attorney General of Illinois, <em>Richard A. Michael, </em>Assistant Attorney General, and <em>Terence F. MacCarthy, </em>Special Assistant Attorney General, for plaintiff.</attorneys>\n<seealso data-order=\"5\" data-type=\"seealso\" id=\"Abso\">[For earlier orders herein, see 379 U. S. 952; 380 U. S. 901, 969; <em>ante, </em>p. 803.]</seealso>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApdW\">The amended complaint is filed and the State of Missouri is allotted 60 days to answer the complaint, as amended.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

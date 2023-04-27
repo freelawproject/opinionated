@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1034-10\">WOLLAEGER MFG. CO. v. DALLAS COUNTY.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AXj6\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AeY8\">December 18, 1916.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A0PC\">No. 2930.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ANM-\">In Error to the District Court of the United States for the Northern District of Texas; Edward R. Meek, Judge.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AB5\">Robert Y. Davidson, of Dallas, Tex., for plaintiff in error. Jed C. Adams and R. L. Stennis, both of Dallas, Tex., for defendant in error.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"A4O\">Before PARDEE and WALKER, Circuit Judges, and FOSTER, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1034-11\">PER CURIAM.</author>\n<p id=\"Ab2\">We find none of the assignments of error well taken. Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

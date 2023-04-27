@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A8dH\">Joseph GOLDSTEIN, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"APd1\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AjSh\">May 18, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Ay9o\">No. 351.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A1c\">Lind &amp; Marks, of New York City (Alfred D. Lind and Norman L. Marks, both of New York City, of counsel), for plaintiff in error. Emory R. Buckner, U. S. Atty., of New York City (Morris D. Reiss, Asst. U. S. Atty., of New York City, of counsel), for the United States.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AzFI\">Before ROGERS, HOUGH, and HAND, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A5i\">PER CURIAM.</author>\n<p id=\"AKk\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

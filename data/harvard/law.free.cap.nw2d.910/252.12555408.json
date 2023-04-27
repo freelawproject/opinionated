@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"252\" lastpage=\"252\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Frederick SEEKINS, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 155016\n  <br/>\n  COA: 333491\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  May 1, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the November 9, 2016 order of the Court of Appeals is considered. We DIRECT appellate counsel, Tracie Gittleman, to file a supplemental brief addressing the reason for her failure to file the defendant's delayed application for leave to appeal in the Court of Appeals within the deadlines set forth in MCR 7.205(G)(3), which led to the defendant losing his right to direct first-tier review of his plea-based conviction. Counsel shall file the supplemental brief within 28 days of the date of this order.\n  </p>\n  <p id=\"p-7\">\n   The application for leave to appeal remains pending.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

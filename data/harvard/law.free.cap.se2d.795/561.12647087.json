@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"561\" lastpage=\"561\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State\n  <br/>\n  v.\n  <br/>\n  Anthony Leon Hoover\n </parties>\n <docketnumber id=\"p-2\">\n  370P04-16\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  January 26, 2017\n </decisiondate>\n <attorneys id=\"p-5\">\n  Elizabeth N. Strickland, Assistant Attorney General, James R. O'Neill, District Attorney, for State of N.C.\n </attorneys>\n <attorneys id=\"p-6\">\n  Anthony Leon Hoover, for Hoover, Anthony Leon.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 3rd of November 2016 by Defendant for Mandamus Mandate Mandatory Injunction Appeal:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Dismissed by order of the Court in conference, this the 26th of January 2017.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Hudson, J. recused\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

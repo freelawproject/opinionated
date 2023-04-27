@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"84\" lastpage=\"84\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE PAROLE OF Ronald IRWIN\n </parties>\n <parties id=\"p-2\">\n  Macomb County Prosecuting Attorney, Appellee,\n  <br/>\n  v.\n  <br/>\n  Ronald Irwin, Appellant.\n </parties>\n <docketnumber id=\"p-3\">\n  Parole Board, Intervenor-Appellee.\n </docketnumber>\n <docketnumber id=\"p-4\">\n  SC: 158077\n  <br/>\n  COA: 342963\n </docketnumber>\n <court id=\"p-5\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-6\">\n  September 27, 2018\n </decisiondate>\n <p id=\"p-7\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   On order of the Chief Justice, the motion of appellant to extend the time for filing his reply is GRANTED. The reply submitted on September 5, 2018, is accepted for filing.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

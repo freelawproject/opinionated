@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1004\" lastpage=\"1004\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1058-4\">I. W. LANE v. Robert L. WILLIAMS, Judge of the United States District Court for the Eastern District of Oklahoma.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1058-5\">No. 1482.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1058-6\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AAvq\">Oct. 23, 1936.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1058-8\">Charles A. Chandler, of Muskogee, Okl., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1058-9\">Robert L. Williams, United States District Judge, of Muskogee, Okl., pro se.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1058-10\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1058-11\">PER CURIAM.</author>\n<p id=\"b1058-12\">Order to show cause discharged pursuant to response of respondent.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

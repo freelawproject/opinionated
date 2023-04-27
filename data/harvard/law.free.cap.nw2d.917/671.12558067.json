@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"671\" lastpage=\"671\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  David Troy ZARN, Defendant-Appellant.\n </parties>\n <parties id=\"p-2\">\n  People of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  David Troy Zarn, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-3\">\n  SC: 157643, SC: 157644\n  <br/>\n  COA: 323279, COA: 323280\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  October 2, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Court, the application for leave to appeal the March 27, 2018 judgment of the Court of Appeals is considered and, it appearing to this Court that the case of\n   <em>\n    People v. Dixon-Bey\n   </em>\n   (Docket No. 156746) is pending on appeal before this Court and that the decision in that case may resolve an issue raised in the present application for leave to appeal, we ORDER that the application be held in ABEYANCE pending the decision in that case.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

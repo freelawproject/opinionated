@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"783\" lastpage=\"784\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State of North Carolina\n  <br/>\n  v.\n  <br/>\n  Timothy Wiley, Jr.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 201P16\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 18, 2016\n </decisiondate>\n <attorneys id=\"p-5\">\n  Ms. Amy Kunstling Irene, Special Deputy Attorney General, Mr. Michael Bonfoey, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-6\">\n  Ms. Anne M. Gomez, Assistant Appellate Defender, Mr. Timothy Wiley, Jr., for Wiley, Timothy (Jr.)\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Defendant on the 23rd of May 2016 in this matter for a writ of certiorari to review the order of the Superior Court, Jackson County, the following order was entered and is hereby certified to the Superior Court of that County:\n  </p>\n  <p id=\"p-9\">\n   \"Dismissed by order of the Court in conference, this the 18th of August 2016.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

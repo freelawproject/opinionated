@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"284\" lastpage=\"284\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE MGR, Minor.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157821\n  <br/>\n  COA: 338286, 340203\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  November 16, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion to extend the time for filing the brief amicus curiae of the Academy of Adoption and Assisted Reproduction Attorneys is GRANTED. The amicus brief submitted on November 9, 2018, is accepted for filing.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

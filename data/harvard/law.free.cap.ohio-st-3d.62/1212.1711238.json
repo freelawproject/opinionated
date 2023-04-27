@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1212\" lastpage=\"1212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b742-14\">In re Resignation of Zaller.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b742-15\">[Cite as <em>In re Resignation of Zaller </em>(1991), 62 Ohio St.3d 1212.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AoQX\">(No. 91-2284</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Aqq3\">Submitted December 4, 1991</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aq1Z\">Decided December 11, 1991.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b742-16\">The resignation of Edmund John Zaller as an attorney, Registration No. 0023934, is accepted.</p>\n<judges id=\"b742-17\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

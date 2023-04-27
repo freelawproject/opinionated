@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"864\" lastpage=\"864\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b666-6\">No. 253,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AzFE\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ars\">Wilson <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A8D\"><em>Joel E. Hoffman </em>and <em>Monroe H. Freedman </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ACc5\"><em>Solicitor General Cox, Assistant Attorney General Vinson, Beatrice Rosenberg </em>and <em>Sidney M. Glaser </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ASL\">C. A. D. C. Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1401\" lastpage=\"1401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b765-4\">\n<em>Friday, September 6, 1991</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b765-5\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b765-6\">91-854.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A0m\">Cleveland Bar Assn. v. Jurek.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiR\">Upon consideration of relator\u2019s motion to continue oral argument currently scheduled for September 10, 1991,</p>\n<p id=\"b765-7\">IT IS ORDERED by the court that said motion be, and the same is hereby, granted, and oral argument is continued until further notice of this court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

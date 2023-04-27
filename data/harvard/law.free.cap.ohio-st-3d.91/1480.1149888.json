@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1480\" lastpage=\"1480\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A0v\">\n<em>Wednesday, April 4, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AMC\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A2M\">01-126.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AIg\">State ex rel. Koppert v. Ohio Dept. of Natural Resources.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlA\">In Mandamus. On relator\u2019s motion for leave to amend petition. The motion is granted.</p>\n<p id=\"Ak53\">Upon consideration of relator\u2019s amended petition, it is hereby ordered that the cause be, and hereby is, dismissed.</p>\n<judges id=\"AGWU\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

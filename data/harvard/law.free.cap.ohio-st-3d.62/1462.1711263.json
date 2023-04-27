@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1462\" lastpage=\"1462\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b826-13\">\n<em>Wednesday, November 20, 1991</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b826-14\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b826-15\">91-1874.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ABp\">State, ex rel. Thrower, v. Bond.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1Ng\">In Procedendo and Prohibition. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"b826-16\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

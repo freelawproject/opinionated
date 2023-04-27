@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1420\" lastpage=\"1420\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AKzb\">\n<em>Thursday, January 25, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A75\">RECONSIDERATION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AO9\">00-1947.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AZe\">State v. Feathers.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAd\">Summit App. No. 19837. Reported at 90 Ohio St.3d 1483, 738 N.E.2d 1255.</p>\n<p id=\"AYZ\">IT IS ORDERED by the court that the motion for reconsideration in this case be, and hereby is, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

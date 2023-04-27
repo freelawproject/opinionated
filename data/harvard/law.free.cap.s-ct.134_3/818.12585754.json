@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"818\" lastpage=\"818\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jesse L. YOUNGBLOOD, petitioner,\n  <br/>\n  v.\n  <br/>\n  M.S. EVANS, Warden, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-5509.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 9, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12702151,12703719,12703720,12583116,12583117,12583118,12583119,12583120,12583121,12583122,12703220,12703707,12703708,12703709\" index=\"0\" url=\"https://cite.case.law/s-ct/134/301/\">\n   134 S.Ct. 301\n  </extracted-citation>\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

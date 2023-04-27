@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"847\" lastpage=\"847\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b649-6\">No. 8,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AM9J\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Abxc\">Morris <em>v. </em>Missouri.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AqNt\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aq3M\"><em>Norman H. Anderson., </em>Attorney General of Missouri, and <em>William A. Peterson </em>and <em>Howard L. McFadden, </em>Assistant Attorneys General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKap\">Sup. Ct. Mo. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
