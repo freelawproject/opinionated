@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1137\" lastpage=\"1137\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  GASBI, LLC d/b/a Michiana Chrysler Dodge Jeep Ram Fiat, Appellant\n  <br/>\n  v.\n  <br/>\n  Tatiyana SANDERS, et al.\n </parties>\n <court id=\"p-2\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-3\">\n  July 25, 2019\n </decisiondate>\n <opinion id=\"p-4\">\n  Granted.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-5\">\n   Bailey, J., Bradford, J., Brown, J.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

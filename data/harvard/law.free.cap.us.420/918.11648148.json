@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"918\" lastpage=\"918\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b916-5\">No. 35,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Apa\">Orig.</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b916-6\">No. 52,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"AKIa\">Orig.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AfcN\">United States <em>v. </em>Maine et al.; and United States <em>v. </em>Florida.</parties>\n<seealso data-order=\"5\" data-type=\"seealso\" id=\"APkr\">[For earlier orders herein, see, <em>e. g., ante, </em>p. 904 and 419 U. S. 814.]</seealso>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7LR\">Motion of the Solicitor General for reallocation and reduction of time for oral argument granted. It is ordered that a total of three hours be allotted for oral argument in No. 35, Orig., and that a total of one and one-half hours be allotted for oral argument in No. 52, Orig.</p>\n<judges id=\"AE7l\">Mr. Justice Marshall took no part in the consideration or decision of this motion.*</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

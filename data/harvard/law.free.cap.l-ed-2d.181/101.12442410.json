@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"101\" lastpage=\"101\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b201-12\">No. 10-10952.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AIlh\">Henry Howard, Petitioner v. Primrose Transportation Management, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b201-13\">565 U.S. 859, 132 S. Ct. 194,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AryD\">181 L. Ed. 2d 101,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AiAI\">2011 U.S. LEXIS 6045.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b201-14\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"at9-dedup-0\">Petition for writ of certiorari to the Court of Appeals of Indiana, First District, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

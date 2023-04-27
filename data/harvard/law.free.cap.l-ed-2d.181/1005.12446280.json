@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1005\" lastpage=\"1005\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1105-20\">No. 11-7862.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AbcJL\">Alex Shevgert, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1105-21\">565 U.S. 1172, 132 S. Ct. 1128,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AVoJf\">181 L. Ed. 2d 1005,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AbhMl\">2012 U.S. LEXIS 675.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1105-22\">January 17, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQ45c\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n<p id=\"AvBo1\">Same case below, 373 Fed. Appx. 915.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

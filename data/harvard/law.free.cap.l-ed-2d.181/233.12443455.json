@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"233\" lastpage=\"233\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b333-13\">No. 10-1411.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AxTX\">Jonathan Doe, a Minor, By and Through His Guardian and Next Friend, Dorothy Doe, Petitioner v. Todd County School District, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b333-14\">565 U.S. 929, 132 S. Ct. 367,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AA8X\">181 L. Ed. 2d 233,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AlTM\">2011 U.S. LEXIS 6844.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b333-15\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"abzt-dedup-0\">Motion of South Dakota Advocacy Services, et al. for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.</p>\n<p id=\"b333-17\">Same case below, 625 F.3d 459.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

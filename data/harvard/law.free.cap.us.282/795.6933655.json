@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"795\" lastpage=\"796\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b859-6\">No. 20,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A_Yo\">original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"APT\">Wyoming <em>v. </em>Colorado.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A25W\">Motion submitted October 6, 1930.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aya\">Decided October 13, 1930.</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"An3\">The motion for leave to file the bill of complaint herein is <page-number citation-index=\"1\" label=\"796\">*796</page-number>granted.</p>\n<attorneys id=\"AQl\"><em>Mr. William. O. Wilson </em>for complainant. <em>Messrs. Clarence L. Ireland, Charles Roach, C. D. Todd, Wm. R. Kelly, Paul W. Lee, George H. Shaw, </em>and <em>Lawrence R. Temple </em>for defendant.</attorneys>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

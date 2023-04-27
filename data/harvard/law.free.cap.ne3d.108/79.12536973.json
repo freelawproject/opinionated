@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"79\" lastpage=\"79\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  BALDWIN\n  <br/>\n  v.\n  <br/>\n  UNIV. OF CINCINNATI HOSP. MED. CTR.\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0839\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  September 26, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MERIT DECISIONS WITHOUT OPINIONS\n </p>\n <opinion id=\"p-7\">\n  Miscellaneous case. On respondent's motion to dismiss. Motion granted. Cause dismissed. Relator's motion to amend complaint denied as moot.\n </opinion>\n <judges id=\"p-8\">\n  O'Connor, C.J., and Fischer, DeWine, and DeGenaro, JJ., concur.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   O'Donnell, Kennedy, and French, JJ., concur in granting respondent's motion to dismiss but would also grant relator's motion to amend complaint.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

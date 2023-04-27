@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1102\" lastpage=\"1102\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  HENDERSON\n </parties>\n <docketnumber id=\"p-2\">\n  1987-0447\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  October 10, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On appellee's motion to set execution date. Motion granted. Jerome Henderson's sentence shall be carried into execution by the warden of the Southern Ohio Correctional Facility or, in his absence, by the deputy warden on Thursday, September 14, 2023, in accordance with the statutes so provided.\n  </p>\n  <p id=\"p-8\">\n   O'Connor, C.J., and O'Donnell, Kennedy, French, Fischer, DeWine, and DeGenaro, JJ., concur.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

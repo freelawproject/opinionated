@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"550\" lastpage=\"550\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b650-13\">No. 11-464.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ApvLM\">Donald Rudolph Stock, Petitioner v. Montana.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b650-14\">565 U.S. 1093, 132 S. Ct. 850,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AtsP\">181 L. Ed. 2d 550,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AGMzt\">2011 U.S. LEXIS 8942.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b650-15\">December 12, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A80tb\">Petition for writ of certiorari to the Supreme Court of Montana denied.</p>\n<p id=\"b650-16\">Same case below, 361 Mont. 1, 256 P.3d 899.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

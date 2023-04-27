@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"221\" lastpage=\"221\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b321-6\">No. 11-5833.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aows-dedup-0\">Brian Copeland, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b321-7\">565 U.S. 923, 132 S. Ct. 350,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Acxt\">181 L. Ed. 2d 221,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"azhj-dedup-0\">2011 U.S. LEXIS 6955.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b321-8\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4A7\">Petition for writ of certiorari to the District of Columbia Court of Appeals denied.</p>\n<p id=\"b321-9\">Same case below, 16 A.3d 974.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

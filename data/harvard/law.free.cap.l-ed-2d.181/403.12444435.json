@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"403\" lastpage=\"403\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b503-12\">No. 11-6510.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aq_t\">Carl Brogli, Petitioner v. Oregon.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b503-13\">565 U.S. 1018, 132 S. Ct. 558,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"APWq\">181 L. Ed. 2d 403,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AXYv\">2011 U.S. LEXIS 7996.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b503-14\">November 7, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1D7b\">Petition for writ of certiorari to the Court of Appeals of Oregon denied.</p>\n<p id=\"b503-15\">Same case below, 240 Or. App. 464, 248 P.3d 451.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

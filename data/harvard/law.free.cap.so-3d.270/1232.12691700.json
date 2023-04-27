@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1232\" lastpage=\"1232\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <attorneys id=\"p-1\">\n  STATE of Florida, Department of Legal Affairs, Office of the Attorney General, Attorney General Ashley Brooke Moody, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  STONEBRIER HOMEOWNERS ASSOCIATION, INC., Appellee/Respondent(s).\n </attorneys>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D19-1867\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  June 04, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Dismissed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

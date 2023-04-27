@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"83\" lastpage=\"83\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  WILLACY\n  <br/>\n  v.\n  <br/>\n  CLEVELAND BD. OF INCOME TAX REV.\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0794\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  September 26, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <summary id=\"p-6\">\n  PETITIONS TO TRANSFER\n </summary>\n <opinion id=\"p-7\">\n  On petition to transfer jurisdiction of Hazel M. Willacy. Petition granted. The clerk shall issue an order for the transmittal of the record from the Court of Appeals for Franklin County and the Board of Tax Appeals, and the parties shall brief this case in accordance with the Rules of Practice.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   O'Donnell, J., dissents.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

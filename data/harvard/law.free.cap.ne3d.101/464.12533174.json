@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"464\" lastpage=\"464\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Cleveland\n  <br/>\n  v.\n  <br/>\n  Bur. of Workers' Comp.\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0572\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  July 5, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <history id=\"p-6\">\n  APPEALS ACCEPTED FOR REVIEW\n </history>\n <attorneys id=\"p-7\">\n  Cause accepted and held for the decision in 2017-0179, Cirino v. Bur. Of Worker's Comp., and briefing schedule stayed.\n </attorneys>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   O'Connor, C.J., would accept the cause on proposition of law No. I only.\n  </author>\n  <p id=\"p-9\">\n   Kennedy, J., would not hold the cause or stay the briefing schedule.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

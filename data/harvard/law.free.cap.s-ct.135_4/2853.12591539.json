@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"2853\" lastpage=\"2853\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Monty M. SHELTON, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14-8931.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  June 15, 2015.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Motion of petitioner for reconsideration of order denying leave to proceed in\n   <em>\n    forma pauperis\n   </em>\n   denied.\n  </p>\n  <author id=\"p-7\">\n   Justice KAGANtook no part in the consideration or decision of this petition.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

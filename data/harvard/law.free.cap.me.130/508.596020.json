@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"508\" lastpage=\"508\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b518-7\">L. M. Longley &amp; Son <em>vs. </em>Gertrude D. Hammond.</parties>\n<p data-order=\"1\" data-type=\"court\" id=\"b518-8\">Oxford County.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AF2\">Decided January 12, 1931.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AsLF\"><em>E. Walleer Abbott, </em>for plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AXTv\"><em>Nicolaus Harillias, </em>for defendant:</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AyK\">The controversy in this case is over liability for work and materials used on farm property of the defendant. The questions were all of fact, and the only error on the part of the jury which the court perceives is failure to allow defendant a conceded credit of $2.20.</p>\n<p id=\"b518-9\">This error entitles defendant to a new trial, unless plaintiff within fifteen days from the filing of mandate files remittitur of the aforesaid amount. So ordered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"125\" lastpage=\"125\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b225-6\">No. 10-11182.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AerX\">Billy Dale Green, Petitioner v. Arkansas.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b225-7\">565 U.S. 871, 132 S. Ct. 225,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A_fX\">181 L. Ed. 2d 125,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A97X\">2011 U.S. LEXIS 7140.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b225-8\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1Qg\">Petition for writ of certiorari to the Supreme Court of Arkansas denied.</p>\n<p id=\"b225-9\">Same case below, 2011 Ark. 92, 380 S.W.3d 368.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

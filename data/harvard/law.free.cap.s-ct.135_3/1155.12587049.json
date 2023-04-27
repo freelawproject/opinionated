@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1155\" lastpage=\"1155\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Ricardo O. CURRY, II, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14-6573.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Jan. 20, 2015.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Motion of respondent for leave to file a brief in opposition under seal with redacted copies for the public record granted. Motion of petitioner for leave to file a reply brief under seal with redacted copies for the public record granted. Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

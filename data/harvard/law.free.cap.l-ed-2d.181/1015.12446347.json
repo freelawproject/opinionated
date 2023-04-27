@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1115-11\">No. 11M62.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A1-qn\">George Cornelius Day, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1115-12\">565 U.S. 1176, 132 S. Ct. 1161,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AxrUD\">181 L. Ed. 2d 1015,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AIaMa\">2012 U.S. LEXIS 948.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1115-13\">January 23, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Anav\">Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.</p>\n<p id=\"b1115-14\">Same case below, 425 Fed. Appx. 237.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

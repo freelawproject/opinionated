@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"466\" lastpage=\"466\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State\n  <br/>\n  v.\n  <br/>\n  Van Hook\n </parties>\n <docketnumber id=\"p-2\">\n  1987-1159\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  July 6, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On appellant's renewed motion for stay of execution. Appellee shall file a response, if any, to the renewed motion for stay of execution no later than 9:00 a.m. on Tuesday, July 10, 2018.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

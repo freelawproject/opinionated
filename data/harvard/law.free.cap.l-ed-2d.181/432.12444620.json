@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"432\" lastpage=\"432\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b532-13\">No. 11-6411.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"APEq\">James Coddington, Petitioner v. Oklahoma.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b532-14\">565 U.S. 1040, 132 S. Ct. 588,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AFBGo\">181 L. Ed. 2d 432,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AcAoR\">2011 U.S. LEXIS 8252.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b532-15\">November 14, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQN3\">Petition for writ of certiorari to the Court of Criminal Appeals of Oklahoma denied.</p>\n<p id=\"b532-16\">Same case below, 254 P.3d 684.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

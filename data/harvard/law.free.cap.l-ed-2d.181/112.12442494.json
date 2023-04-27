@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"112\" lastpage=\"112\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b212-7\">No. 10-11057.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AasB\">Derek N. Jarvis, Petitioner v. Maryland.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"ajrm-dedup-0\">565 U.S. 864, 132 S. Ct. 208,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AhPqQ\">181 L. Ed. 2d 112,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AWBX\">2011 U.S. LEXIS 6635,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b212-9\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMiE\">Petition for writ of certiorari to the Court of Special Appeals of Maryland denied.</p>\n<p id=\"b212-10\">Same case below, 197 Md. App. 756.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

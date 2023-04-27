@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"59\" lastpage=\"60\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b159-25\">No. 10-10414.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A5CN\">Christopher Carson Smith, Petitioner v. Michigan.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b159-27\">565 U.S. 836, 132 S. Ct. 141,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AVaf\">181 L. Ed. 2d 59,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AETZ\">2011 U.S. LEXIS 5819,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b159-28\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHCc\">Petition for writ of certiorari to the Supreme Court of Michigan denied.</p>\n<p id=\"b160-3\"><page-number citation-index=\"1\" label=\"60\">*60</page-number>Same case below, 488 Mich. 1040, 794 N.W.2d 34.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

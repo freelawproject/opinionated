@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"133\" lastpage=\"133\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b233-20\">No. 10-11266.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AcAF\">Connell Lensey Howard, Petitioner v. Michigan.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b233-21\">565 U.S. 876, 132 S. Ct. 236,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"APRp\">181 L. Ed. 2d 133,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AWiR\">2011 U.S. LEXIS 6416.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b233-22\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXnx\">Petition for writ of certiorari to the Supreme Court of Michigan denied.</p>\n<p id=\"b233-23\">Same case below, 488 Mich. 853, 787 N.W.2d 502.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

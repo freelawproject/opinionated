@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"270\" lastpage=\"270\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b370-21\">No. 11-5748.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ASmh\">Andre Knight, Petitioner v. Pennsylvania.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b370-22\">565 U.S. 950, 132 S. Ct. 414,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A3LP\">181 L. Ed. 2d 270,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"aotk-dedup-0\">2011 U.S. LEXIS 7265.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b370-23\">October 11, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aae--dedup-0\">Petition for writ of certiorari to the Superior Court of Pennsylvania, Harrisburg Office, denied.</p>\n<p id=\"b370-24\">Same case below, 4 A.3d 686.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

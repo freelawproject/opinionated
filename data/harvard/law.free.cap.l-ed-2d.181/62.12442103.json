@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"62\" lastpage=\"62\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b162-11\">No. 10-10457.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ach-dedup-0\">Glenn Ford, Petitioner v. Louisiana.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b162-12\">565 U.S. 837, 132 S. Ct. 144,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ag_X\">181 L. Ed. 2d 62,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ASzB\">2011 U.S. LEXIS 6394.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b162-13\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"adm-dedup-1\">Petition for writ of certiorari to the Supreme Court of Louisiana denied.</p>\n<p id=\"b162-14\">Same case below, 57 So. 3d 297.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

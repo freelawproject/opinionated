@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1103\" lastpage=\"1103\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1121-12\">HARR, Respondent, v. MOONEY, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Apvq\">(City Court of New York, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AjDP\">November 18, 1898.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AQ1C\">Action by Henry M. Harr against Christopher Mooney.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"Ajl9\">Argued before FITZSIMONS, C. J., and CONLAN and O\u2019DWYER, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AsIT\">Thomas J. O\u2019Neil and Thomas J. Purdy, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Au4j\">Forster, Hotaling &amp; Klenke, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1121-13\">PER CURIAM.</author>\n<p id=\"Ae2m\">Judgment and order appealed from affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"10\" lastpage=\"11\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b110-28\">No. 11M10.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AzP\">Preston D. Johnson, Petitioner v. Michael McCall, Warden, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b110-29\">565 U.S. 808, 132 S. Ct. 78,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ahv-dedup-0\">181 L. Ed. 2d 10,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A80\">2011 U.S. LEXIS 6669.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b110-30\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aa4\">Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.</p>\n<p id=\"b111-2\"><page-number citation-index=\"1\" label=\"11\">*11</page-number>Same case below, 415 Fed. Appx. 512.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

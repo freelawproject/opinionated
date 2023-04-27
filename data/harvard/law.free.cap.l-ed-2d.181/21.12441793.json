@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"21\" lastpage=\"21\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b121-16\">No. 10-1106.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"al1-dedup-0\">Owner-Operator Independent Drivers Association, Inc., et al., Petitioners v. Landstar System, Inc., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b121-17\">565 U.S. 814, 132 S. Ct. 91,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Aeag\">181 L. Ed. 2d 21,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"akgb-dedup-0\">2011 U.S. LEXIS 6681.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b121-18\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"avr-dedup-1\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n<p id=\"b121-19\">Same case below, 622 F.3d 1307.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1101\" lastpage=\"1101\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1129-4\">BROWER, Respondent, v. SHAW et al., Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AqJl\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A5jO\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AqU\">August 4, 1898.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Asp3\">Action by Charles De Hart Brower against William H. Shaw and James K. Shaw.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AuWF\">David J. Newland, for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Aa79\">William E. Hill, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1129-5\">PER CURIAM.</author>\n<p id=\"AvB\">Order appealed from affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

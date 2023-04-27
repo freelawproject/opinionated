@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1101-21\">No. 11-7786.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AOhqp\">Barron Walker, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1101-22\">565 U.S. 1170, 132 S. Ct. 1122,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AMHlm\">181 L. Ed. 2d 1001,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A5Rd\">2012 U.S. LEXIS 654.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1101-23\">January 17, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AkSt1\">Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b1101-24\">Same case below, 657 F.3d 160.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

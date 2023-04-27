@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"303\" lastpage=\"303\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b403-8\">No. 11-6151.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A7H5\">Michael McInerney, Petitioner v. Lakes Crossing Center.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b403-9\">565 U.S. 968, 132 S. Ct. 464,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aclb-dedup-0\">181 L. Ed. 2d 303,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"and1-dedup-1\">2011 U.S. LEXIS 7586.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b403-10\">October 17, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_qz\">Petition for writ of certiorari to the Supreme Court of Nevada denied.</p>\n<p id=\"b403-11\">Same case below, 127 Nev. 1159, 373 P.3d 941.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

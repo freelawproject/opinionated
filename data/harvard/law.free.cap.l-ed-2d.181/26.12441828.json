@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"26\" lastpage=\"26\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b126-19\">No. 10-1341.</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b126-20\">No. 10-1346.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"abv-dedup-1\">UPMC, Petitioner v. West Penn Allegheny Health System, Inc. Highmark, Inc., Petitioner v. West Penn Allegheny Health System, Inc.</parties>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b126-21\">565 U.S. 817, 132 S. Ct. 98,</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"AEe\">181 L. Ed. 2d 26,</p>\n<citation data-order=\"5\" data-type=\"citation\" id=\"AqcJ\">2011 U.S. LEXIS 6650.</citation>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b126-22\">October 3, 2011.</decisiondate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmnF\">Petitions for writs of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"AM5\">Same cases below, 627 F.3d 85.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

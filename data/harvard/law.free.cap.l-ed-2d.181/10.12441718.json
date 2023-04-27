@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"10\" lastpage=\"10\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b110-17\">No. 11M7.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aqk-dedup-0\">Justo E. Roque, Jr., Petitioner v. Miguel A. Elias, a Professional Law Corporation.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b110-18\">565 U.S. 808, 132 S. Ct. 78,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ay8\">181 L. Ed. 2d 10,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ARh\">2011 U.S. LEXIS 6616.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b110-19\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AaG\">Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.</p>\n<p id=\"b110-20\">Same case below, 51 So. 3d 26.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

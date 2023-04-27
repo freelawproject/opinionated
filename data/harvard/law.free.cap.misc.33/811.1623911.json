@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"811\" lastpage=\"811\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b851-2\">Supreme Court \u2014 Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AT5\">January, 1901.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"AC7\">Before Truax, P. J., Scott and Dugro, JJ.</p>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b851-3\">William H. Condon, Appellant, v. Darius O. Mills, Respondent.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A5--\">Appeal from a judgment in favor of the defendant rendered in the Municipal Court of the city of New York, third district, borough of Manhattan.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A5KF\">W. H. Condon, for appellant; no appearance for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aa3\">Judgment affirmed, with costs. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

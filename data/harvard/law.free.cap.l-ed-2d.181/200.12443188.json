@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"200\" lastpage=\"200\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b300-7\">No. 11-5515.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"agsk-dedup-0\">Roger Palmer, Petitioner v. Rita Buge, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b300-8\">565 U.S. 912, 132 S. Ct. 322,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A9ms\">181 L. Ed. 2d 200,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ARg6\">2011 U.S. LEXIS 5946,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b300-9\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aupr-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

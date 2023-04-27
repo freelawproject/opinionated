@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"64\" lastpage=\"64\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX REL. BOLZENIUS\n  <br/>\n  v.\n  <br/>\n  FRANKLIN CTY. BD. OF ELECTIONS\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1221\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  August 28, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   In Mandamus. Sua sponte, respondents ordered to file their answer to the complaint by Friday, August 31, 2018. The case shall otherwise proceed in accordance with S.Ct.Prac.R. 12.08. No requests or stipulations for extension of time shall be accepted in this case, and the clerk's office shall refuse to accept for filing any request or stipulation for extension of time. Pursuant to S.Ct.Prac.R. 12.08(C), all documents filed in this case shall be served on the date of filing by personal service, facsimile transmission, or e-mail.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

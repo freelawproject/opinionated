@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"436\" lastpage=\"436\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b470-2\">PEOPLE <em>v. </em>WOODWORTH.</parties>\n<p data-order=\"1\" data-type=\"parties\" id=\"b470-3\">This ease is controlled by <em>People </em>v. <em>Lowell, ante, </em>349.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AkhK\">Submitted January 16, 1930.</otherdate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A4KB\">(Docket No. 151, Calendar No. 34,741.)</docketnumber>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AD3\">Decided April 9, 1930.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b470-6\"><em>Wilber M. Bruclcer, </em>Attorney. General, and <em>George G. Hunter, </em>Prosecuting Attorney, for the people.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b470-7\">Per Curiam.</author>\n<p id=\"AlR\">The questions involved in this case are- similar to the ones discussed in <em>People </em>v. <em>Lowell, ante, </em>349.</p>\n<p id=\"b470-8\">For the reasons stated therein, the judgment in the present case is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b655-27\">No. 11-6852.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AuSMv\">Craig Bassett, Petitioner v. Kenneth S. Tucker, Secretary, Florida Department of Corrections, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b655-28\">565 U.S. 1096, 132 S. Ct. 851,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A6E0X\">181 L. Ed. 2d 555,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AMh9\">2011 U.S. LEXIS 8938,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b655-29\">December 12, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACrv\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

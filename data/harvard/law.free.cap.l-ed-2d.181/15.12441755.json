@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"15\" lastpage=\"15\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b115-11\">No. 10-10159.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ast-dedup-0\">Thelma Williams, Jr., Petitioner v. Lt. Johnson, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b115-12\">565 U.S. 811, 132 S. Ct. 84,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ay_-dedup-0\">181 L. Ed. 2d 15,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Agd\">2011 U.S. LEXIS 6684.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b115-13\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATx\">Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

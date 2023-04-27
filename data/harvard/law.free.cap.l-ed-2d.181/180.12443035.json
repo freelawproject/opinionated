@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"180\" lastpage=\"180\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b280-19\">No. 11-5326.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AxC1\">Steve Houston, Petitioner v. Dwight Neven, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b280-20\">565 U.S. 901, 132 S. Ct. 297,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"az_h-dedup-0\">181 L. Ed. 2d 180,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ATmo\">2011 U.S. LEXIS 5417.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b280-21\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8vb\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b280-22\">Same case below, 637 F.3d 976.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

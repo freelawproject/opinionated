@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"233\" lastpage=\"234\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b333-26\">No. 10-1456.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aqp9-dedup-0\">Bob Barr, et al., Petitioners v. William F. Galvin, Secretary of the Commonwealth of Massachusetts.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b333-27\">565 U.S. 929, 132 S. Ct. 368,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ajpo-dedup-0\">181 L. Ed. 2d 233,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AjqdI\">2011 U.S. LEXIS 6952.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b333-28\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4WL\">Motion of petitioner to defer consideration of the petition for writ of certiorari denied. Petition for writ <page-number citation-index=\"1\" label=\"234\">*234</page-number>of certiorari to the United States Court of Appeals for the First Circuit denied.</p>\n<p id=\"b334-4\">Same case below, 626 F.3d 99.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

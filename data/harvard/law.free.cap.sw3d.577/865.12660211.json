@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"865\" lastpage=\"866\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Terron HOOKS, Appellant,\n  <br/>\n  v.\n  <br/>\n  STATE of Missouri, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  WD 81575\n </docketnumber>\n <court id=\"p-3\">\n  Missouri Court of Appeals, Western District.\n </court>\n <decisiondate id=\"p-4\">\n  ORDER FILED: June 28, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  S. Kate Webber, Kansas City, MO, Counsel for Appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Mary Moore, Jefferson City, MO, Counsel for Respondent.\n </attorneys>\n <judges id=\"p-7\">\n  Before Division Three: Thomas H. Newton, P.J., Anthony Rex Gabbert, and Edward R. Ardini, JJ.\n </judges>\n <p id=\"p-8\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Per Curiam:\n  </author>\n  <p id=\"p-10\">\n   Mr. Terron Hooks appeals a Jackson County Circuit Court judgment overruling a Rule 24.035 motion following an evidentiary hearing. For the reasons stated in the memorandum provided to the parties, we affirm. Rule 84.16(b).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

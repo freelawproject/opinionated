@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"300\" lastpage=\"300\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b400-12\">No. 11-5906.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AD8J\">Devin Reed, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b400-13\">565 U.S. 966, 132 S. Ct. 460,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AOr8\">181 L. Ed. 2d 300,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"adpl-dedup-0\">2011 U.S. LEXIS 7526.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b400-14\">October 17, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AO1i\">Petition for writ of certiorari to the Appellate Court of Illinois, Third District, denied.</p>\n<p id=\"b400-15\">Same case below, 405 Ill. App. 3d 279, 344 Ill. Dec. 930, 938 N.E.2d 199.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

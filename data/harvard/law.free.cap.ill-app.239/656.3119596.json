@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"656\" lastpage=\"656\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b688-2\" pgmap=\"688\">Anna Hofmeister, appellee, v. M. A. Soper, trading as M. A. Soper &amp; Company, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aua\" pgmap=\"688\">Gen. No. 29,859.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AEP\" pgmap=\"688\">Thomson, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A99\" pgmap=\"688\">Opinion filed October 28, 1925.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b688-6\" pgmap=\"688\">.David S. Horwich, for appellant.</attorneys><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ajn\" pgmap=\"688\">Charles C. Spencer and Arthur A. House, for appellee; James V. Cunningham, of counsel.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b688-7\" pgmap=\"688\">Mr. Justice Taylor</author> <p id=\"Aat\" pgmap=\"688\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

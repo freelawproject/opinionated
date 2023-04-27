@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"782\" lastpage=\"782\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE GUARDIANSHIP OF James R. BECKER, Sr., an incapacitated person.\n </parties>\n <parties id=\"p-2\">\n  James Becker, Jr., as personal representative of the Estate of James R. Becker, Sr., deceased, Appellant,\n  <br/>\n  v.\n  <br/>\n  Mary Fluharty, as guardian of James R. Becker, Sr., an incapacitated person, Appellee.\n </parties>\n <docketnumber id=\"p-3\">\n  Case No. 2D15-4854\n </docketnumber>\n <court id=\"p-4\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-5\">\n  Opinion filed December 20, 2017\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

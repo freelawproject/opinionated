@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"232\" lastpage=\"232\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b332-23\">No. 10-1337.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aqzc-dedup-0\">American Society of Composers, Authors and Publishers, Petitioner v. United States, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b332-24\">565 U.S. 929, 132 S. Ct. 366,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aytk-dedup-0\">181 L. Ed. 2d 232,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Akfp\">2011 U.S. LEXIS 6771.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b332-25\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXyB8\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"aglj-dedup-0\">Justice Kagan took no part in the consideration or decision of this petition.</judges>\n<p id=\"b332-26\">Same case below, 627 F.3d 64.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"33\" lastpage=\"33\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b133-6\">No. 10-1431.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aa6-dedup-0\">Henry Tien, Petitioner v. Wachovia Bank, et al. (two judgments).</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b133-7\">565 U.S. 821, 132 S. Ct. 106,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Amz\">181 L. Ed. 2d 33,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Asib\">2011 U.S. LEXIS 6754.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b133-8\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AR4\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n<p id=\"b133-9\">Same case below, 406 Fed. Appx. 378 (first judgment) and 406 Fed. Appx. 411 (second judgment).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

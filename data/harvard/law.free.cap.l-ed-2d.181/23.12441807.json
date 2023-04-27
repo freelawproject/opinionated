@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"23\" lastpage=\"23\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b123-17\">No. 10-1230.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AVK\">Toby Douglas, Director, California Department of Health Care Services, et al., Petitioners v. California Hospital Association.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b123-18\">565 U.S. 815, 132 S. Ct. 94,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AD9s\">181 L. Ed. 2d 23,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"APqN\">2011 U.S. LEXIS 6640.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b123-19\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"asz-dedup-0\">Petition for writ of certiorari to the Court of Appeal of California, First Appellate District, denied.</p>\n<p id=\"b123-20\">Same case below, 188 Cal. App. 4th 559, 115 Cal. Rptr. 3d 572.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

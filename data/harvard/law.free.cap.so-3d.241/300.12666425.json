@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"300\" lastpage=\"300\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX REL. Richard N. MILLER\n  <br/>\n  v.\n  <br/>\n  STATE of Louisiana\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-KH-0205\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  April 16, 2018\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE CRIMINAL DISTRICT COURT, PARISH OF ORLEANS\n  </strong>\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM:\n  </author>\n  <p id=\"p-7\">\n   WRIT NOT CONSIDERED. Petitioner has not demonstrated that he sought review in the court(s) below before filing in this Court nor shown the \"extraordinary circumstances\" that would justify bypassing that level of review. La.S.Ct.R. X \u00a7 5(b).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

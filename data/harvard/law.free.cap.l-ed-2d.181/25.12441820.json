@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"25\" lastpage=\"25\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b125-15\">No. 10-1329.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"as5-dedup-0\">William DeLuccio, et al., Petitioners v. Ed Havill, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b125-16\">565 U.S. 816, 132 S. Ct. 96,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"akx-dedup-0\">181 L. Ed. 2d 25,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AaBG\">2011 U.S. LEXIS 6758.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b125-17\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"axt-dedup-0\">Petition for writ of certiorari to the District Court of Appeal of Florida, First District, denied.</p>\n<p id=\"b125-18\">Same case below, 43 So. 3d 925.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

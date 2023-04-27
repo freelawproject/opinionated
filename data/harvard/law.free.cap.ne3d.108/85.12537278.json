@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"85\" lastpage=\"85\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX REL. EBERHARDT\n  <br/>\n  v.\n  <br/>\n  JANIK\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1367\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  September 27, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   In Habeas Corpus. Sua sponte, petitioner ordered to be released from custody immediately. Further proceedings by respondent are stayed pursuant to this temporary interim order pending a ruling by this court on the emergency motion for bond and request for alternative writs. Respondent ordered to file a response, if any, to both the petition for writ of habeas corpus and emergency motion for bond and request for alternative writs no later than Tuesday, October 2, 2018.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"300\" lastpage=\"300\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  TRUST NO. 3008FD DATED 07/13/2015, DEMA INVESTMENTS LLC as Trustee, Appellant,\n  <br/>\n  v.\n  <br/>\n  LASALLE BANK NATIONAL ASSOCIATION, as Trustee FOR CERTIFICATEHOLDERS OF BEAR STEARNS ASSET BACKED SECURITIES I LLC, ASSET-BACKED CERTIFICATES, SERIES 2007-HE6, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  Case No. 2D16-804\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed October 25, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

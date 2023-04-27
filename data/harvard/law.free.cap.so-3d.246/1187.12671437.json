@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1187\" lastpage=\"1187\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Kenneth Lee KENO, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D17-3270\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  September 20, 2017\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   This appeal is dismissed for failure of the Appellant to comply with this court's August 11, 2017, order to show cause.\n  </p>\n  <judges id=\"p-7\">\n   VILLANTI, MORRIS, and BLACK, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

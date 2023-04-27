@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"13\" lastpage=\"13\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b113-6\">No. 09-1454.</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b113-7\">No. 09-1478.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A-qt\">Bob Camreta, Petitioner v. Sarah Greene, Personally and as Next Friend of S. G., a Minor, and K. G., a Minor. James Alford, Deputy Sheriff, Deschutes County, Oregon, Petitioner v. Sarah Greene, Personally and as Next Friend of S. G., a Minor, and K. G., a Minor.</parties>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b113-8\">565 U.S. 809, 132 S. Ct. 81,</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"Ax4\">181 L. Ed. 2d 13,</p>\n<citation data-order=\"5\" data-type=\"citation\" id=\"Am1\">2011 U.S. LEXIS 6763.</citation>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b113-9\">October 3, 2011.</decisiondate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXl\">Motion of respondents to retax costs granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

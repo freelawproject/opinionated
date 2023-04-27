@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1100-26\">No. 11-7764.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AHoq\">Brian Hernandez, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1100-27\">565 U.S. 1169, 132 S. Ct. 1121,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A3QV8\">181 L. Ed. 2d 1000,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A1YFD\">2012 U.S. LEXIS 585.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1100-28\">January 17, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABzRs\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"b1101-2\"><page-number citation-index=\"1\" label=\"1001\">*1001</page-number>Same case below, 655 F.3d 608.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

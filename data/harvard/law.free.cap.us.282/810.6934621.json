@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"810\" lastpage=\"810\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b874-3\">No. 23,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Ab8\">original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Am4c\">Ex parte Harper et al.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AviN\">Return to rule submitted January 5, 1931.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ARC\">Decided January 12, 1931.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AKhU\"><em>Mr. Charles T. Coleman </em>for petitioners. <em>Mr. Charles D. Frierson </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5I\">Upon consideration of the return of the Honorable John E. Martineau, Judge of the District Court of the United States for the Eastern District of Arkansas to the rule, issued in this case, to show cause why a writ of mandamus should not issue herein, it is now here ordered that the said rule be, and the same is hereby, discharged, and that the petition be, and the same hereby is, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

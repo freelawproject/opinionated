@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1002\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1102-23\">No. 11-7809.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ANqvg\">Moises Garcia, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1102-24\">565 U.S. 1170, 132 S. Ct. 1124,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A_H44\">181 L. Ed. 2d 1002,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AtfDx\">2012 U.S. LEXIS 633.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1102-25\">January 17, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQ5BD\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"AbelO\">Same case below, 655 F.3d 426.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

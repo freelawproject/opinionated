@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"28\" lastpage=\"28\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b128-18\">No. 10-1366.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ao4-dedup-0\">Dionicio Guerrero, Petitioner v. Eric H. Holder, Jr., Attorney General.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b128-19\">565 U.S. 818, 132 S. Ct. 100,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AGR\">181 L. Ed. 2d 28,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A69\">2011 U.S. LEXIS 6908.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b128-20\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVXk\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"a1r-dedup-0\">Same case below, 407 Fed. Appx. 964.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

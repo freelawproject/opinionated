@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"5\" lastpage=\"5\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b105-14\">No. 10-11047.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AFi\">Cleveland McLean, Jr., Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b105-15\">565 U.S. 805, 132 S. Ct. 377,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ate-dedup-0\">181 L. Ed. 2d 5,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A3N\">2011 U.S. LEXIS 6466.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b105-16\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_t\">Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit dismissed. See Rule 39.8.</p>\n<p id=\"b105-17\">Same case below, 425 Fed. Appx. 222.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

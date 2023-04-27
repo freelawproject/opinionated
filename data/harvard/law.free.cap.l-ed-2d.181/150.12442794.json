@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"150\" lastpage=\"150\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b250-15\">No. 11-5011.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AdCl\">Anthony Nix, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b250-16\">565 U.S. 885, 132 S. Ct. 258,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A0m8\">181 L. Ed. 2d 150,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AClA\">2011 U.S. LEXIS 5726.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b250-17\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"abxq-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n<p id=\"b250-18\">Same case below, 628 F.3d 1341.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

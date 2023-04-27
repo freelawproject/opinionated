@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"811\" lastpage=\"811\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b851-8\">City Court of New York \u2014 General Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Axj\">January, 1901.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b851-9\">Before Fitzsimons, Oh. J., O\u2019Dwyer and Hascall, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b851-10\">Mike Lakner, Respondent, v. Julia M. Goggill et al., Appellants.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Ao3\">Appeal by defendant Fried from a judgment of the City Court of the City of New York, in favor of plaintiff.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A58\">Joseph I. Green, for appellants; Albert I. Sire, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A97\">Judgment affirmed, with costs. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

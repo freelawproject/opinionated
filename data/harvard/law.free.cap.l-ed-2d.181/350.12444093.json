@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"350\" lastpage=\"350\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b450-13\">No. 11-309.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"alwb-dedup-0\">Nicholas P. Tides, et al., Petitioners v. The Boeing Company.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b450-14\">565 U.S. 978, 132 S. Ct. 518,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A_Xr\">181 L. Ed. 2d 350,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A95-\">2011 U.S. LEXIS 7880.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b450-15\">October 31, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AbCF\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"AZEq\">Same case below, 644 F.3d 809.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"623\" lastpage=\"624\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b653-18\" pgmap=\"653\">Marshall O. Densby, appellee, v. Frederick H. Bartlett, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Alu\" pgmap=\"653\">Gen. No. 29,045.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"Ahv\" pgmap=\"653\">Taylor, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"As2\" pgmap=\"653\">Opinion filed February 11, 1925.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b654-3\" pgmap=\"654\">Vail, Vail &amp; Plamondon, for appellant.</attorneys><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A0Q\" pgmap=\"654\">Vincent G. Gallagher, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b654-4\" pgmap=\"654\">Sir. Justice Thomson</author> <p id=\"AiB\" pgmap=\"654\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

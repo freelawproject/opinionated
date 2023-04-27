@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"97\" lastpage=\"97\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b197-21\">No. 10-10915.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A7WY\">William Thomas Bauberger, Petitioner v. Grady J. Haynes, Superintendent, Warren Correctional Institution.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"A2cS\">565 U.S. 857, 132 S. Ct. 189,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"at--dedup-0\">181 L. Ed. 2d 97,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"As63\">2011 U.S. LEXIS 6231.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b197-23\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"amo-dedup-2\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b197-24\">Same case below, 632 F.3d 100.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

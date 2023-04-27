@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b600-14\">No. 11-6796.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AO-B\">Terrence Patrick Sheehan, Petitioner v. Texas.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b600-15\">565 U.S. 1068, 132 S. Ct. 781,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ADfT\">181 L. Ed. 2d 500,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AVOgU\">2011 U.S. LEXIS 8657.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b600-16\">November 28, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqNXo\">Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

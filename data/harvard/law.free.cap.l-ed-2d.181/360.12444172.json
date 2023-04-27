@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"360\" lastpage=\"360\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b460-17\">No. 11-6102.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"axej-dedup-1\">Jonathan Lewis, Petitioner v. Florida, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b460-18\">565 U.S. 984, 132 S. Ct. 511,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"arhx-dedup-1\">181 L. Ed. 2d 360,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A-3f\">2011 U.S. LEXIS 7852.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b460-19\">October 31, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APjk\">Petition for writ of certiorari to the District Court of Appeal of Florida, First District, denied.</p>\n<p id=\"b460-20\">Same case below, 58 So. 3d 264.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

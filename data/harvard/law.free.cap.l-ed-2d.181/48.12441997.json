@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"48\" lastpage=\"48\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b148-17\">No. 10-9682.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AAI1\">Brent E. Martin, Petitioner v. Alabama.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b148-18\">565 U.S. 830, 132 S. Ct. 126,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Aj_Y\">181 L. Ed. 2d 48,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AU9t\">2011 U.S. LEXIS 6214.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b148-19\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQvl\">Petition for writ of certiorari to the Court of Criminal Appeals of Alabama denied.</p>\n<p id=\"b148-20\">Same case below, 62 So. 3d 1050.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

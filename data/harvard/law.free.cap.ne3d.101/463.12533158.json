@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"463\" lastpage=\"463\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State\n  <br/>\n  v.\n  <br/>\n  Van Hook\n </parties>\n <docketnumber id=\"p-2\">\n  1987-1159\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  July 5, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On appellant's amended motion for stay of execution. Motion denied.\n  </p>\n  <p id=\"p-8\">\n   O'Connor, C.J., and O'Donnell, Kennedy, French, Fischer, DeWine, and DeGenaro, JJ., concur.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

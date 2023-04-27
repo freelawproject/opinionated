@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1008\" lastpage=\"1008\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  James ENGLAND\n  <br/>\n  v.\n  <br/>\n  Alina Julia ENGLAND\n </parties>\n <parties id=\"p-2\">\n  James England\n  <br/>\n  v.\n  <br/>\n  Alina Julia England\n </parties>\n <docketnumber id=\"p-3\">\n  NO. 2018-CJ-0515\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-5\">\n  May 11, 2018\n </decisiondate>\n <opinion id=\"p-6\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   JOHNSON, C.J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

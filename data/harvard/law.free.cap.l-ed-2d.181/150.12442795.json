@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"150\" lastpage=\"150\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b250-19\">No. 11-5012.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A009\">Charles William McDowell, Petitioner v. Tom Clements, Executive Director, Colorado Department of Corrections.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b250-20\">565 U.S. 885, 132 S. Ct. 258,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ahri-dedup-0\">181 L. Ed. 2d 150,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A9o7\">2011 U.S. LEXIS 5338.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b250-21\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AldR\">Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n<p id=\"b250-22\">Same case below, 417 Fed. Appx. 755.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

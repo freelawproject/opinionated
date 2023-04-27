@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"25\" lastpage=\"25\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b125-27\">No. 10-1334.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AE_\">Bernardo Salado-Alva, Petitioner v. Eric H. Holder, Jr., Attorney General.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b125-28\">565 U.S. 817, 132 S. Ct. 97,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AgWo\">181 L. Ed. 2d 25,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"apn-dedup-1\">2011 U.S. LEXIS 6824.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b125-29\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A32\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"Ag6v\">Same case below, 405 Fed. Appx. 229.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

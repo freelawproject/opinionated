@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"811\" lastpage=\"811\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b851-5\">City Court of New York \u2014 General Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Apq\">December, 1900.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"A9HM\">Before O\u2019Dwyer and Schuchman, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b851-6\">The Mutual Bank, Respondent, v. Robert Beggs et al., Appellants.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AQK\">Appeal from a judgment in favor of the plaintiff against the defendants, entered' upon a verdict directed By the court.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ASG\">Isaac N. Miller, for appellants; Mc-Crea, Sommerville &amp; Taylor (George H. Taylor, Jr., of counsel), for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_p\">Judgment and order appealed from affirmed, with costs. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

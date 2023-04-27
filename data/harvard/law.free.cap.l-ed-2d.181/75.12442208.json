@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"75\" lastpage=\"75\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b175-12\">No. 10-10701.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ajx-dedup-1\">Jimmy Carter, Jr., Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b175-13\">565 U.S. 845, 132 S. Ct. 161,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AVPT\">181 L. Ed. 2d 75,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"apx-dedup-2\">2011 U.S. LEXIS 5903.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b175-14\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9qi\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n<p id=\"b175-15\">Same case below, 411 Fed. Appx. 242.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

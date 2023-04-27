@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"111\" lastpage=\"111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b211-29\">No. 10-11052.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AD_S\">Donald J. Tyner, Petitioner v. Maryland.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b211-30\">565 U.S. 864, 132 S. Ct. 207,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Atll\">181 L. Ed. 2d 111,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A-V3\">2011 U.S. LEXIS 6521.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b211-31\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5lX\">Petition for writ of certiorari to the Circuit Court of Maryland, Baltimore City, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

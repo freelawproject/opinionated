@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"804\" lastpage=\"805\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b868-8\">No. 22,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ATj3\">original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AvV_\">United States <em>v. </em>Oregon.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ALym\">Submitted November 24, 1930.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AdxK\">Decided December 1, 1930.</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmS3\">The motion for leave to file bill of complaint herein is granted <page-number citation-index=\"1\" label=\"805\">*805</page-number>and process is ordered to issue.</p>\n<attorneys id=\"AaT\"><em>Messrs'. Charles M. Black-mar </em>and <em>Randolph S. Collins </em>for the United States. <em>Messrs. I. H. Van Winkle </em>and <em>L. A. Liljegvist </em>for defendant.</attorneys>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

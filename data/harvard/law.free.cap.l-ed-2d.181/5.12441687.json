@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"5\" lastpage=\"5\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b105-10\">No. 10-10979.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AxK\">Adrian Marion Smith, Petitioner v. John McCall, Warden, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b105-11\">565 U.S. 804, 132 S. Ct. 376,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A8B\">181 L. Ed. 2d 5,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ae1\">2011 U.S. LEXIS 6576.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b105-12\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Abu\">Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit dismissed. See Rule 39.8.</p>\n<p id=\"b105-13\">Same case below, 442 Fed. Appx. 20.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

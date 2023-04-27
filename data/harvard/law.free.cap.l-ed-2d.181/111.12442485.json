@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"111\" lastpage=\"111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b211-3\">No. 10-11044.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ATBA\">Phillip C. Lathrop, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b211-4\">565 U.S. 864, 132 S. Ct. 206,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A9Lv\">181 L. Ed. 2d 111,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Apg8\">2011 U.S. LEXIS 6039.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b211-5\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_pt\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"a6a-dedup-0\">Same case below, 634 F.3d 931.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

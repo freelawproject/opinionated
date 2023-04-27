@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"80\" lastpage=\"80\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b180-12\">No. 10-10748.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ADvt\">Henry Cruz Barraza, aka Henry Geo Barraza, aka Henry Cruz-Barraza, aka Henry Garcia, aka Henry Geovavay Barraza, aka Henry Geovarray Cruz Barraza, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b180-13\">565 U.S. 847, 132 S. Ct. 167,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AGkC\">181 L. Ed. 2d 80,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AlXE\">2011 U.S. LEXIS 6382.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b180-14\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ae8-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b180-15\">Same case below, 414 Fed. Appx. 663.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

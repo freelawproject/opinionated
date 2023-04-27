@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"120\" lastpage=\"120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b220-12\">No. 10-11131.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AgGM\">Kenneth Lee Foster, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b220-13\">565 U.S. 868, 132 S. Ct. 218,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AGOV\">181 L. Ed. 2d 120,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"amue-dedup-0\">2011 U.S. LEXIS 6539.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b220-14\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AitA\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b220-15\">Same case below, 416 Fed. Appx. 304.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"101\" lastpage=\"102\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b201-26\">No. 10-10958.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"auv-dedup-2\">Kelvin Summers, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b201-27\">565 U.S. 859, 132 S. Ct. 195,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AYiT\">181 L. Ed. 2d 101,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"aq4p-dedup-0\">2011 U.S. LEXIS 6138.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b201-28\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AjlC\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n<p id=\"b202-3\"><page-number citation-index=\"1\" label=\"102\">*102</page-number>Same case below, 422 Fed. Appx. 838.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"29\" lastpage=\"30\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b129-23\">No. 10-1382.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AhHU\">John E. Reardon, Petitioner v. Mr. Leason, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b129-24\">565 U.S. 818, 132 S. Ct. 102,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"a-s-dedup-0\">181 L. Ed. 2d 29,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AGCE\">2011 U.S. LEXIS 6946.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b129-25\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"agf-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b130-3\"><page-number citation-index=\"1\" label=\"30\">*30</page-number>Same case below, 408 Fed. Appx. 551.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

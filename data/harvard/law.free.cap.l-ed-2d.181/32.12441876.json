@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"32\" lastpage=\"33\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b132-30\">No. 10-1428.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aj8p\">Jose Valadez-Munoz, Petitioner v. Eric H. Holder, Jr., Attorney General.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b132-31\">565 U.S. 821, 132 S. Ct. 106,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AfLo\">181 L. Ed. 2d 32,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AAqy\">2011 U.S. LEXIS 6936.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b132-32\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"adf-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b133-2\"><page-number citation-index=\"1\" label=\"33\">*33</page-number>Same case below, 623 F.3d 1304.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

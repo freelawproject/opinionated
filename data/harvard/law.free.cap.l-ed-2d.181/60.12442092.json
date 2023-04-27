@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"60\" lastpage=\"61\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b160-28\">No. 10-10431.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AAT3\">Albert Murphy, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b160-29\">565 U.S. 836, 132 S. Ct. 142,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ADyt\">181 L. Ed. 2d 60,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ANCc\">2011 U.S. LEXIS 5577.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b160-30\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AsXl\">Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied.</p>\n<p id=\"b161-2\"><page-number citation-index=\"1\" label=\"61\">*61</page-number>Same case below, 395 Ill. App. 3d 1116, 369 Ill. Dec. 493, 986 N.E.2d 806.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

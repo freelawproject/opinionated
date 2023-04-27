@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1\" lastpage=\"1\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Allen MOORE, Appellant,\n  <br/>\n  v.\n  <br/>\n  George LOMBARDI, et al., Respondents.\n </parties>\n <docketnumber id=\"p-2\">\n  WD 80747\n </docketnumber>\n <court id=\"p-3\">\n  Missouri Court of Appeals, Western District.\n </court>\n <decisiondate id=\"p-4\">\n  ORDER FILED: MARCH 6, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Allen E Moore, Appellant Acting Pro Se, Counsel for Appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Michael J Spillane, Jefferson City, MO, Counsel for Respondents.\n </attorneys>\n <judges id=\"p-7\">\n  Before Division Two: James Edward Welsh, Presiding Judge, Alok Ahuja, Judge, Anthony Rex Gabbert, Judge\n </judges>\n <p id=\"p-8\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Per Curiam:\n  </author>\n  <p id=\"p-10\">\n   Allen Moore appeals the dismissal of his declaratory judgment petition challenging a parole denial and the procedures used by the Parole Board, including the holding of a parole hearing before he has been provided sex offender treatment. We affirm. Rule 84.16(b).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

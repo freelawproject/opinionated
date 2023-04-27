@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"90\" lastpage=\"90\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b190-12\">No. 10-10848.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A2q5\">Hayze Halstied, Petitioner v. Oklahoma.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b190-13\">565 U.S. 853, 132 S. Ct. 180,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"APnC\">181 L. Ed. 2d 90,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ASSa\">2011 U.S. LEXIS 6311.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b190-14\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AISC\">Petition for writ of certiorari to the Court of Criminal Appeals of Oklahoma denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"234\" lastpage=\"234\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b334-5\">No. 10-1464.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aclk-dedup-1\">The Hertz Corporation, Petitioner v. Jennifer Myers.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b334-6\">565 U.S. 930, 132 S. Ct. 368,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AHbpL\">181 L. Ed. 2d 234,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A39B\">2011 U.S. LEXIS 7077.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b334-7\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"asve-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"AN6i\">Justice Sotomayor took no part in the consideration or decision of this petition.</judges>\n<p id=\"b334-8\">Same case below, 624 F.3d 537.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

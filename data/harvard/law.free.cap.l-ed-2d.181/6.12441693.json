@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"6\" lastpage=\"6\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b106-12\">No. 10-11244.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AHV\">Jason David Cooper, Petitioner v. Georgia.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b106-13\">565 U.S. 805, 132 S. Ct. 379,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ae7\">181 L. Ed. 2d 6,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AJ3\">2011 U.S. LEXIS 6360.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b106-14\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApH\">Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the Court of Appeals of Georgia dismissed. See Rule 39.8.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

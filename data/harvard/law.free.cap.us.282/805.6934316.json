@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"805\" lastpage=\"805\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"Abqo\">No. 23,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AkSV\">original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AD5n\">Ex parte Harper et al.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AAjl\">Submitted November 24, 1930.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A6q\">Decided December 1, 1930.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ABs\">-Messrs. <em>Henry J. Balzer </em>and <em>Charles T. Coleman </em>for petitioners.</attorneys>\n<seealso data-order=\"6\" data-type=\"seealso\" id=\"AWtm\">See <em>post, </em>p. 810.</seealso>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUNT\">The motion for leave to file petition for writ of mandamus is granted and a rule to show cause is ordered to issue.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1885\" lastpage=\"1885\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Richard E. GLOSSIP, et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  Kevin J. GROSS, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14-7955.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  April 20, 2015.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Motion of petitioners for leave to file Volume II of the joint appendix under seal with redacted copies for the public record granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

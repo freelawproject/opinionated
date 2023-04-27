@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"40\" lastpage=\"40\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b140-18\">No. 10-1507.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"auh-dedup-1\">Dean Rea, Petitioner v. Federated Investors.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b140-19\">565 U.S. 825, 132 S. Ct. 116,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aki-dedup-0\">181 L. Ed. 2d 40,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ASmR\">2011 U.S. LEXIS 5234.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b140-20\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1P\">Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b140-21\">Same case below, 627 F.3d 937.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"523\" lastpage=\"523\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b625-3\">No. 19,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Az_r\">original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aax\">Ex parte Colorado.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AzA\">Motion submitted February 17, 1932.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AoU\">Decided February 23, 1932.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AJu\"><em>Mr. Clarence L. Ireland </em>for petitioner.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKL\">A rule is ordered to issue requiring the respondent to show cause on or before March 14th next why leave to file the petition for writ of mandamus should not be granted:</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1099-2\">No. 11-7736.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AjVUX2\">John Western Thomas, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1099-3\">565 U.S. 1168, 132 S. Ct. 1118,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A9jX\">181 L. Ed. 2d 999,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AL1Rp\">2012 U.S. LEXIS 624.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1099-4\">January 17, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AF8RR\">Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

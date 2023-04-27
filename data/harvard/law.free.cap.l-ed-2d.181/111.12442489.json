@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"111\" lastpage=\"111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b211-17\">No. 10-11049.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A1d7\">Jermaine Weeden, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b211-18\">565 U.S. 864, 132 S. Ct. 207,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AiZm\">181 L. Ed. 2d 111,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AiOF\">2011 U.S. LEXIS 6108.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b211-19\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"a6jc-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"b211-20\">Same case below, 412 Fed. Appx. 889.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"832\" lastpage=\"832\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b882-2\">City Court of New York \u2014 General Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ANKX\">February, 1901.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b882-3\">Before Fitzsimons, Oh. J., Conlan and O\u2019Dwyer, JJ.</p>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b882-4\">The Hecktograph Manufacturing Company, Appellant, v. Herman Knubel, Respondent.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"pAtVF\">Appeal from an order of the Special Term of the City court of the city of New York, denying a motion for a new trial, on the ground of surprise and newly-discovered evidence. Samuel H. Randall, for appellant; Paskusz &amp; Cohen C Martin Paskusz and William S. Gordon, of counsel), for respondent. Judgment and order appealed from affirmed, with costs.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlP\">No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

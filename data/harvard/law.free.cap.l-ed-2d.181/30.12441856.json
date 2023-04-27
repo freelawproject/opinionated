@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"30\" lastpage=\"30\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b130-11\">No. 10-1390.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ALXM\">Peggy Reed, et vir, Petitioners v. Robert Gutierrez, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b130-12\">565 U.S. 818, 132 S. Ct. 102,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A5p0\">181 L. Ed. 2d 30,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ADlM\">2011 U.S. LEXIS 7010.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b130-13\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A61\">Petition for writ of certiorari to the Court of Appeals of New Mexico denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

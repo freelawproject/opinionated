@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"798\" lastpage=\"798\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b848-21\">In the Matter of Tyler W. BERRY, Petitioner.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b848-22\">Misc. No. 436.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b848-23\">United States Court of Appeals Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b848-24\">April 22, 1955.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b848-29\">Tyler W. Berry, in pro. per.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b848-30\">Before DENMAN, Chief Judge, and BONE and ORR, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b848-31\">PER CURIAM.</author>\n<p id=\"b848-32\">Movant asks that this court grant him permission to file an application for a writ of habeas corpus in forma pauperis with the United States District Court.</p>\n<p id=\"b848-33\">This motion should be addressed to the District Court and is therefore ordered dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

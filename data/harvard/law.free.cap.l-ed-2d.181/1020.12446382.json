@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1120-3\">No. 11-655.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Au0G-\">Texas Entertainment Association, et al., Petitioners v. Susan Combs, Comptroller of Public Accounts, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1120-4\">565 U.S. 1179, 132 S. Ct. 1146,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ag7_\">181 L. Ed. 2d 1020,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AngZm\">2012 U.S. LEXIS 1015.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1120-5\">January 23, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgkI6\">Petition for writ of certiorari to the Supreme Court of Texas denied.</p>\n<p id=\"b1120-6\">Same case below, 347 S.W.3d 277.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

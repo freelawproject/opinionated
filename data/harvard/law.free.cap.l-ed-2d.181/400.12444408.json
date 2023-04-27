@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"400\" lastpage=\"400\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b500-3\">No. 11-6190.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ALBe\">Ryan Hammontree, Petitioner v. Florida.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b500-4\">565 U.S. 1016, 132 S. Ct. 552,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AHOH\">181 L. Ed. 2d 400,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AynI\">2011 U.S. LEXIS 8043.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b500-5\">November 7, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AdWl\">Petition for writ of certiorari to the District Court of Appeal of Florida, First District, denied.</p>\n<p id=\"b500-6\">Same case below, 54 So. 3d 492.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

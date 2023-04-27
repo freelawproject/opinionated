@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"514\" lastpage=\"514\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b524-7\">Thomas L. Fenn <em>vs. </em>William H. Fenn, Edward D. Noyes and Horace Manning, as Trustees et als.</parties>\n<p data-order=\"1\" data-type=\"court\" id=\"b524-9\">Cumberland County.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ab_\">Decided March 10, 1931.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AYBq\"><em>George C. Otto </em>and <em>Frederick R. Dyer, </em>for plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AbS\"><em>John F. Dana </em>and <em>Eugene L. Bodge, </em>for defendants.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aym\">The record in this case is insufficient. Insufficiency may be due to oversights and omissions on the part of the clerical compiler of the record, but, whatever the cause, the case may not have consideration at this time, and the report must be discharged. Report discharged.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

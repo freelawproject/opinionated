@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"302\" lastpage=\"302\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b402-26\">No. 11-6088.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"anof-dedup-0\">Michael Drawbaugh, Petitioner v. Pennsylvania.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b402-27\">565 U.S. 967, 132 S. Ct. 464,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A0Z9\">181 L. Ed. 2d 302,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"atnj-dedup-1\">2011 U.S. LEXIS 7506.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b402-28\">October 17, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AM_d\">Petition for writ of certiorari to the Superior Court of Pennsylvania, Harrisburg Office, denied.</p>\n<p id=\"b402-29\">Same case below, 23 A.3d 563.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

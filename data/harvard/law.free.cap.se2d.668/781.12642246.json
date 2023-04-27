@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"781\" lastpage=\"781\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Garry Lewis STALE Y.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 122P08.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  October 9, 2008.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Garry Lewis Staley, Pro Se.\n </attorneys>\n <attorneys id=\"p-6\">\n  Joan M. Cunningham, Assistant Attorney General, Garland N. Yates, District Attorney, for State of NC.\n </attorneys>\n <p id=\"p-7\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Defendant on the 19th day of March 2008 in this matter for a writ of certiorari to review the order of the North Carolina Court of Appeals and/or any other available relief pursuant to the All Writs Act, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-9\">\n   \"Dismissed by order of the Court in conference, this the 9th day of October 2008.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

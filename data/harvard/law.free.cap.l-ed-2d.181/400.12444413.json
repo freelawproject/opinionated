@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"400\" lastpage=\"400\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b500-21\">No. 11-6209.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aoqvs\">Thomas Kemp, Petitioner v. Charles L. Ryan, Director, Arizona Department of Corrections, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b500-22\">565 U.S. 1016, 132 S. Ct. 553,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AoR9T\">181 L. Ed. 2d 400,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A-s2\">2011 U.S. LEXIS 8019.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b500-23\">November 7, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"An2VS\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"AOEz\">Same case below, 638 F.3d 1245.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

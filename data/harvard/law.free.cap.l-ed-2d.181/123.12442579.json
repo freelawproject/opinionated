@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"123\" lastpage=\"123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b223-2\">No. 10-11157.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aiuh-dedup-0\">John McDowell, Petitioner v. Jerome W. Walsh, Superintendent, State Correctional Institution at Dallas, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b223-3\">565 U.S. 870, 132 S. Ct. 222,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AgCA\">181 L. Ed. 2d 123,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"a2i-dedup-0\">2011 U.S. LEXIS 6577,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b223-4\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ArD5\">Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b223-5\">Same case below, 419 Fed. Appx. 149.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

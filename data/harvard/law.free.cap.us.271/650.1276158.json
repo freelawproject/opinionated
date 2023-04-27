@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"650\" lastpage=\"650\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b704-7\">No. 3,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ASam\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AQ_t\">State of New Mexico <em>v. </em>State of Texas.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ADQs\">Order entered June 7, 1926.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Avv\">It is ordered that the report of the special master be, and, it is hereby, received and a hearing on the report and any exceptions thereto is set for Monday, January. 3, 1927.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

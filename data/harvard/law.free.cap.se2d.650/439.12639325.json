@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"439\" lastpage=\"439\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Frankie Ray SMITH.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 534P02-2.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  July 17, 2007.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Harry C. Martin, Hillsborough, J. Matthew Martin, Willis B. Whichard, Research Triangle Park, for Smith.\n </attorneys>\n <attorneys id=\"p-6\">\n  Frank R. Parrish, District Attorney, for State.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 13th day of July 2007 by Attorney General to Extend Time for Filing Response to Petition for Writ of Certiorari:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Allowed. Attorney General shall have up to and including the 26th day of July 2007 to file and serve his/her response with this Court. By order of the Court in conference this the 17th day of July 2007.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   TIMMONS-GOODSON, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

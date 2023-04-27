@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"2376\" lastpage=\"2376\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PURDUE PHARMA L.P., et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES EX REL. Steven MAY and Angela Radcliffe.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-1162.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  June 1, 2015.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Motion of The Pharmaceuticals Research and Manufacturers of America, et al. for leave to file a brief as\n   <em>\n    amici curiae\n   </em>\n   granted. Motion of Washington Legal Foundation for leave to file a brief as\n   <em>\n    amicus curiae\n   </em>\n   granted. Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

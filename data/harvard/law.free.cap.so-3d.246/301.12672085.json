@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"301\" lastpage=\"301\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Guadalupe KARKATSELOS, John Karkatselos and Landings at Bell Lake Homeowners Assoc., Inc., Appellants,\n  <br/>\n  v.\n  <br/>\n  BAC HOME LOANS SERVICING, L.P.; any and all Unknown Parties Claiming by, through, under, and Against the Herein Named Individual Defendant(s) Who Are Not Known to be Dead or Alive, Whether Said Unknown Parties May Claim an Interest as Spouses, Heirs, Devisees, Grantees or Other Claimants; United States of America, on Behalf of the Secretary of Housing and Urban Development; John Doe and Jane Doe as Unknown Tenants in Possession, Appellees.\n </parties>\n <docketnumber id=\"p-2\">\n  Case No. 2D17-495\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed October 25, 2017.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

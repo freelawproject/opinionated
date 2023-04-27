@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"12\" lastpage=\"13\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b112-26\">No. 65, Original.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ad6N\">State of Texas, Plaintiff v. State of New Mexico.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b112-27\">565 U.S. 809, 132 S. Ct. 81,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A81l\">181 L. Ed. 2d 12,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A505\">2011 U.S. LEXIS 6683.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b112-28\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aj0\">Motion of the River Master for fees and reimbursement of <page-number citation-index=\"1\" label=\"13\">*13</page-number>expenses granted, and the River Master is awarded a total of $6,885.82 for the period July 1, 2010, through June 30, 2011, to be paid equally by the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"105\" lastpage=\"105\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b205-2\">No. 10-10989.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AaIF\">Brian Carmichael, Petitioner v. New York.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b205-3\">565 U.S. 860, 132 S. Ct. 199,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Aba-\">181 L. Ed. 2d 105,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AebP\">2011 U.S. LEXIS 5835.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b205-4\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AIOu\">Petition for writ of certiorari to the Appellate Division, Supreme Court of New York, First Judicial Department, denied.</p>\n<p id=\"b205-5\">Same case below, 73 App. Div. 3d 622, 901 N.Y.S.2d 48.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

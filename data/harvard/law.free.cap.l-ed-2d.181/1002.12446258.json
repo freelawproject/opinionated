@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1002\" lastpage=\"1003\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1102-26\">No. 11-7810.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AQOon\">Jadrion Griffin, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1102-27\">565 U.S. 1170, 132 S. Ct. 1124,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AOvJ3\">181 L. Ed. 2d 1002,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A_AW\">2012 U.S. LEXIS 588.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1102-28\">January 17, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AhQcT\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"b1103-2\"><page-number citation-index=\"1\" label=\"1003\">*1003</page-number>Same case below, 652 F.3d 793.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

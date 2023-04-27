@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"525\" lastpage=\"525\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b625-22\">No. 11-269.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ARTMy\">Blackstone Medical, Inc., Petitioner v. United States ex rel. Susan Hutcheson.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b625-23\">565 U.S. 1079, 132 S. Ct. 815,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AoW6W\">181 L. Ed. 2d 525,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ADVr8\">2011 U.S. LEXIS 8767.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b625-24\">December 5, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ArPU\">Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied.</p>\n<p id=\"b625-25\">Same case below, 647 F.3d 377.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

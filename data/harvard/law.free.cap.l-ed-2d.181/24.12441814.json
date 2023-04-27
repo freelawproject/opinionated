@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"24\" lastpage=\"24\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b124-18\">No. 10-1289.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Afa1\">Lamtec Corporation, Petitioner v. Department of Revenue of the State of Washington.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b124-19\">565 U.S. 816, 132 S. Ct. 95,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aqt-dedup-0\">181 L. Ed. 2d 24,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A4h\">2011 U.S. LEXIS 6789.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b124-20\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Azoq\">Petition for writ of certiorari to the Supreme Court of Washington denied.</p>\n<p id=\"b124-21\">Same case below, 170 Wash. 2d 838, 246 P.3d 788.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

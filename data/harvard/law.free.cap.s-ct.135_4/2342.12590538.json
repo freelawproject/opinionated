@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"2342\" lastpage=\"2342\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State of FLORIDA, plaintiff,\n  <br/>\n  v.\n  <br/>\n  State of GEORGIA.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 142, Original.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  May 18, 2015.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Motion of Special Master for allowance of fees and disbursements granted, and the Special Master is awarded a total of $47,635.01 for the period November 19, 2014, through March 31, 2015, to be paid equally by the parties.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

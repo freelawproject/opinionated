@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"30\" lastpage=\"30\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b130-14\">No. 10-1391.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"agb-dedup-0\">St. Elizabeth\u2019s Child Care Center, Petitioner v. Pennsylvania Department of Public Welfare.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b130-15\">565 U.S. 818, 132 S. Ct. 103,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ADcV\">181 L. Ed. 2d 30,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"abv-dedup-2\">2011 U.S. LEXIS 6729.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b130-16\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ac_P\">Petition for writ of certiorari to the Commonwealth Court of Pennsylvania denied.</p>\n<p id=\"b130-17\">Same case below, 989 A.2d 52.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

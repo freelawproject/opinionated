@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1185\" lastpage=\"1185\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  David S. HASTINGS, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D17-3407\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  October 06, 2017\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Petitioner's petition for writ of certiorari is denied. See Spaulding v. State,\n   <extracted-citation case-ids=\"7009940\" index=\"0\" url=\"https://cite.case.law/so-3d/93/473/#p474\">\n    93 So. 3d 473\n   </extracted-citation>\n   , 474-475 (Fla. 2d DCA 2012).\n  </p>\n  <judges id=\"p-7\">\n   SILBERMAN, LUCAS, and ROTHSTEIN-YOUAKIM, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

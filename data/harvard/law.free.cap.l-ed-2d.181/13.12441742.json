@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"13\" lastpage=\"13\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b113-18\">No. 10-1333.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AKUv\">Sandy Creek Energy Associates, L.P., Petitioner v. Sierra Club, Inc., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b113-19\">565 U.S. 810, 132 S. Ct. 82,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AKc\">181 L. Ed. 2d 13,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A-9\">2011 U.S. LEXIS 6612.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b113-20\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ax--dedup-0\">The Solicitor General is invited to file a brief in this case expressing the views of the United States.</p>\n<p id=\"b113-21\">Same case below, 627 F.3d 134.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

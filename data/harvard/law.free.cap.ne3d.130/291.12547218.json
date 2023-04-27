@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"291\" lastpage=\"291\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  TORRES\n  <br/>\n  v.\n  <br/>\n  CONCRETE DESIGNS, INC.\n </parties>\n <docketnumber id=\"p-2\">\n  2019-0953\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  August 30, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   CASE ANNOUNCEMENTS\n  </strong>\n </p>\n <p id=\"p-6\">\n  <strong>\n   MOTION AND PROCEDURAL RULINGS\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On joint notice of resolution of App.R. 26 applications. Stay of proceedings lifted. Appellees shall file either a memorandum in response to jurisdiction or a notice of cross-appeal and memorandum in support of jurisdiction and in response to jurisdiction no later than October 7, 2019. The cause shall otherwise proceed in accordance with the Supreme Court Rules of Practice.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

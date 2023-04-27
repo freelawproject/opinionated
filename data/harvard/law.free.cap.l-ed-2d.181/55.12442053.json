@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"55\" lastpage=\"56\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b155-25\">No. 10-10331.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"amc-dedup-2\">Ruben Nava, Petitioner v. Brian Haws, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b155-26\">565 U.S. 834, 132 S. Ct. 135,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"amx-dedup-1\">181 L. Ed. 2d 55,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"APy4\">2011 U.S. LEXIS 5476.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"azq-dedup-2\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Amcx\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b156-3\"><page-number citation-index=\"1\" label=\"56\">*56</page-number>Same case below, 414 Fed. Appx. 23.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

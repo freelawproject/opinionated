@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b655-10\">No. 11-6823.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AbqRS\">Gabriel J. Arceo, et al., Petitioners v. California.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b655-11\">565 U.S. 1096, 132 S. Ct. 851,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AVpU\">181 L. Ed. 2d 555,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A_E50\">2011 U.S. LEXIS 8973.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b655-12\">December 12, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKqv9\">Petition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied.</p>\n<p id=\"b655-13\">Same case below, 195 Cal. App. 4th 556, 125 Cal. Rptr. 3d 436.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

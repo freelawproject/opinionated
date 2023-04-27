@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1191\" lastpage=\"1191\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE the Personal Restraint of Royal Wallace DRAYTON, Petitioner.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 94924-7\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Washington.\n </court>\n <decisiondate id=\"p-4\">\n  DATED at Olympia, Washington, October 31, 2018.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER DENYING MOTION FOR RECONSIDERATION\n  </strong>\n </p>\n <opinion id=\"p-6\">\n  \u00b6 1 The Court considered the Petitioner's \"MOTION TO RECONSIDER ORDER DISMISSING PRP ACCORDING TO RAP 12.4(a)\";\n </opinion>\n <opinion id=\"p-7\">\n  \u00b6 2 Now, therefore, it is hereby\n </opinion>\n <opinion id=\"p-8\">\n  \u00b6 3 ORDERED:\n </opinion>\n <opinion id=\"p-9\">\n  \u00b6 4 That the motion for reconsideration is denied.\n </opinion>\n <attorneys id=\"p-10\">\n  For the Court\n </attorneys>\n <judges type=\"majority\">\n  <author id=\"p-11\">\n   <em>\n    /s/ Fairhurst, C.J.\n   </em>\n  </author>\n  <p id=\"p-12\">\n   CHIEF JUSTICE\n  </p>\n </judges>\n</casebody>\n"
+  }
+}

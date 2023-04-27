@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"80\" lastpage=\"80\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b180-4\">No. 10-10744.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"agt-dedup-2\">Hector Ceron-Garcia, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b180-5\">565 U.S. 847, 132 S. Ct. 166,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A2oM\">181 L. Ed. 2d 80,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"afqd-dedup-0\">2011 U.S. LEXIS 6235.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b180-6\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aki-dedup-2\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b180-7\">Same case below, 411 Fed. Appx. 668.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

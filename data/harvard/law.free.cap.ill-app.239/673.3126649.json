@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"673\" lastpage=\"673\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b705-6\" pgmap=\"705\">Standard Trust &amp; Savings Bank, appellant, v. William N. Armstrong and Caroline E. Armstrong, appellees.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"APlP\" pgmap=\"705\">Gen. No. 30,058.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AuXH\" pgmap=\"705\">Fitch, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ApVV\" pgmap=\"705\">Opinion filed December 8, 1925.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b705-8\" pgmap=\"705\">Castle, Williams, Long &amp; Castle, for appellant.</attorneys><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ATH\" pgmap=\"705\">Dent, Dobyns &amp; Freeman, for appellees.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b705-9\" pgmap=\"705\">Mr. Justice Gridley</author> <p id=\"A9h\" pgmap=\"705\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

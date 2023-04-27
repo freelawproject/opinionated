@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"512\" lastpage=\"512\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b612-3\">No. 10-9996.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aazcv\">Charles Walton Wright, Petitioner v. Ricky Bell, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b612-4\">565 U.S. 1074, 132 S. Ct. 800,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AMHEH\">181 L. Ed. 2d 512,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AZrl\">2011 U.S. LEXIS 8455.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b612-5\">November 28, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqcOR\">Petition for rehearing denied.</p>\n<p id=\"b612-6\">Former decision, 565 U.S. 830, 132 S. Ct. 127, 181 L. Ed. 2d 49, 2011 U.S. LEXIS 5770.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

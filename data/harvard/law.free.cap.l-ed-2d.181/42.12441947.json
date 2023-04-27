@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"42\" lastpage=\"42\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b142-4\">No. 10-1525.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A5G4\">Matt Hoover, Petitioner v. Thomas E. Walley, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"a1d-dedup-0\">565 U.S. 826, 132 S. Ct. 118,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AcJW\">181 L. Ed. 2d 42,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AVl8\">2011 U.S. LEXIS 5214.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b142-6\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARN\">Petition for writ of certiorari to the Court of Appeal of California, Fourth Appellate District, Division Three, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"270\" lastpage=\"270\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b370-25\">No. 11-5749.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A4fc\">Willie E. Davis, Petitioner v. John Pollock, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b370-26\">565 U.S. 950, 132 S. Ct. 414,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ABNF\">181 L. Ed. 2d 270,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ACffS\">2011 U.S. LEXIS 7413.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b370-27\">October 11, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aqza-dedup-2\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b370-28\">Same case below, 419 Fed. Appx. 517.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

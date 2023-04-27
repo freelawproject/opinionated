@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"211\" lastpage=\"211\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b311-10\">No. 11-5653.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"agyj-dedup-0\">Alejandro Hernandez-Rojas, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b311-11\">565 U.S. 917, 132 S. Ct. 337,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AXto\">181 L. Ed. 2d 211,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"acsq-dedup-0\">2011 U.S. LEXIS 6270.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b311-12\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ahjd-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b311-13\">Same case below, 426 Fed. Appx. 67.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

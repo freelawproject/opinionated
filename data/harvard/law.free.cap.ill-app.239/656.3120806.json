@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"656\" lastpage=\"656\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b688-16\" pgmap=\"688\">Lillian Simmons, appellee, v. Yellow Cab Company, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A-Z\" pgmap=\"688\">Gen. No. 29,899.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AXpb\" pgmap=\"688\">Thomson, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ARe\" pgmap=\"688\">Opinion filed October 28, 1925.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b688-18\" pgmap=\"688\">Moloney &amp; Postelnek and Charles L. Mahony, for appellant; Charles L. Mahony, of counsel.</attorneys><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AtB0\" pgmap=\"688\">Irving G. Zazove, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b688-19\" pgmap=\"688\">Mr. Justice Taylor</author> <p id=\"Alr\" pgmap=\"688\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

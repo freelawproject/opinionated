@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"583\" lastpage=\"583\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b629-18\">SPRINGFIELD BROADCASTING CO., Defendant, Appellant, v. W. L. FOSS, Inc., Plaintiff, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A7o\">No. 4989.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b629-21\">United States Court of Appeals First Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b629-22\">Nov. 4, 1955.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b629-24\">Gerson Askinas, Springfield, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b629-25\">Donald T. Field, Boston, Mass., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b629-26\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b629-27\">PER CURIAM.</author>\n<p id=\"b629-28\">The judgment of the District Court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

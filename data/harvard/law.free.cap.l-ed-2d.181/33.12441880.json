@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"33\" lastpage=\"33\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b133-13\">No. 10-1433.</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b133-14\">No. 10-1439.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AGYS\">United States Steel Corporation, Petitioner v. United States, et al. Nucor Corporation, Petitioner v. United States, et al.</parties>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b133-15\">565 U.S. 821, 132 S. Ct. 106,</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"ANx-\">181 L. Ed. 2d 33,</p>\n<citation data-order=\"5\" data-type=\"citation\" id=\"ait-dedup-0\">2011 U.S. LEXIS 6871.</citation>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b133-16\">October 3, 2011.</decisiondate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"agd-dedup-2\">Petitions for writs of certiorari to the United States Court of Appeals for the Federal Circuit denied.</p>\n<p id=\"an1-dedup-0\">Same cases below, 621 F.3d 1351.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

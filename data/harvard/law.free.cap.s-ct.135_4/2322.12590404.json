@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"2322\" lastpage=\"2322\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Bashar FARRAJ, petitioner,\n  <br/>\n  v.\n  <br/>\n  Hugh WOLFENBARGER, Warden.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14-8858.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  May 18, 2015.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

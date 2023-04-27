@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"372\" lastpage=\"372\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Eddie CAPLE.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 437A05-2.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  December 18, 2007.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Derrick C. Mertz, Assistant Attorney General, L. Johnson Britt, III, District Attorney, for State of NC.\n </attorneys>\n <opinion id=\"p-6\">\n  The following order has been entered on the motion filed on the 12th day of December 2007 by Defendant for Extension of Time to File Brief:\n </opinion>\n <opinion id=\"p-7\">\n  \"Motion Allowed. Defendant (Caple) shall have up to and including the 11th day of January 2008 to file and serve his/her brief with this Court. By order of the Court in conference this the 18th day of December 2007.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   HUDSON, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"365\" lastpage=\"365\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b465-23\">No. 11-6260.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AIUM\">Roger Stevenson, Petitioner v. April Shoup, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b465-24\">565 U.S. 987, 132 S. Ct. 520,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ayx9-dedup-0\">181 L. Ed. 2d 365,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AToG\">2011 U.S. LEXIS 7851.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b465-25\">October 31, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aj6k\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b465-26\">Same case below, 421 Fed. Appx. 312.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"697\" lastpage=\"697\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b725-3\">REUBEN N. SOLLENBERGER <em>v. </em>RACHEL M. SOLLENBERGER.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b725-4\">[No. 33,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AZ16\">January Term, 1933.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b725-9\"><em>Decided March </em>21st, <em>1933.</em></decisiondate>\n<judges data-order=\"4\" data-type=\"judges\" id=\"b725-12\">The cause was argued before Boetd, C. J., Pattisoft, Urfter, Adkijvs, Offtjtt, Digges, Parke, and Sloajt, JJ.</judges>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b725-13\"><em>D. Angle Wolfiyiger, </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b725-14\"><em>Grace B. Gerber Silverberg, </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b725-15\">Bond, C. J.,</author>\n<p id=\"AN4\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

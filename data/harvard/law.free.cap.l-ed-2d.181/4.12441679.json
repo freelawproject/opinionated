@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"4\" lastpage=\"4\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b104-4\">No. 10-10624.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"afy-dedup-0\">Thomas Davis, Petitioner v. Allegheny County, Pennsylvania, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b104-5\">565 U.S. 803, 132 S. Ct. 373, 2011 U.S. LEXIS 7031.</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A0a\">181 L. Ed. 2d 4,</p>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b104-6\">October 3, 2011.</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AX-\">Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari dismissed. See Rule 39.8.</p>\n<p id=\"b104-7\">Same case below, 411 Fed. Appx. 447.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

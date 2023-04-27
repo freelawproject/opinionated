@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"526\" lastpage=\"526\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b628-5\">No. \u2014, original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AKU\">Ex parte Keogh.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"ANK\">Submitted February 29, 1932.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ae2\">Decided March 14, 1932.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AJg\">\n<em>Mr. John W. Keogh, pro se.</em>\n</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWHG\">The motion for leave to file petition for writ of mandamus is' denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

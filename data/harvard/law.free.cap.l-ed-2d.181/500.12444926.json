@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b600-17\">No. 11-6801.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AcqqYX\">Charles Mason, Petitioner v. Salvador A. Godinez, Director, Illinois Department of Corrections, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b600-18\">565 U.S. 1068, 132 S. Ct. 781,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AVS_\">181 L. Ed. 2d 500,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A_mB\">2011 U.S. LEXIS 8628,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b600-19\">November 28, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqaK\">Petition for writ of certiorari to the Appellate Court of Illinois, Fourth District, denied.</p>\n<p id=\"b600-20\">Same case below, 405 Ill. App. 3d 1218, 375 Ill. Dec. 707, 997 N.E.2d 1018.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

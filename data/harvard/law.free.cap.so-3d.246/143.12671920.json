@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"143\" lastpage=\"143\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  EX PARTE TTR CONSTRUCTION, LLC, et al.\n </parties>\n <parties id=\"p-2\">\n  (In re: Sunbelt Rentals, Inc. v. TTR Construction, LLC, and Carolyn Robinson)\n </parties>\n <docketnumber id=\"p-3\">\n  2160678\n </docketnumber>\n <court id=\"p-4\">\n  Court of Civil Appeals of Alabama.\n </court>\n <decisiondate id=\"p-5\">\n  June 9, 2017\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Mand. pet. dismissed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

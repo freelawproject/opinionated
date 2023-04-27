@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b902-6\">No. 9,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ADJJ\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Axc\">United States <em>v. </em>Louisiana et al. (Louisiana Boundary Case).</parties>\n<seealso data-order=\"3\" data-type=\"seealso\" id=\"AYP\">[For earlier orders herein, see, <em>e. g., </em>419 U. S. 990.]</seealso>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b902-9\">See also note, <em>swpra, </em>p. 901.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"A1H\">Exceptions to Report of Special Master set for oral argument.</p>\n<judges id=\"ALq\">Mr. Justice Marshall took no part in the consideration or decision of this order.<footnotemark>*</footnotemark></judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

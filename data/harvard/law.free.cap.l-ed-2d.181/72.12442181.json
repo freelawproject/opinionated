@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"72\" lastpage=\"72\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b172-4\">No. 10-10656.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AVBl\">David W. Lagas, Petitioner v. New York.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b172-5\">565 U.S. 843, 132 S. Ct. 156,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AUmr\">181 L. Ed. 2d 72,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ALVX\">2011 U.S. LEXIS 6305.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b172-6\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGfe\">Petition for writ of certiorari to the Appellate Division, Supreme Court of New York, Third Judicial Department, denied.</p>\n<p id=\"b172-7\">Same case below, 76 App. Div. 3d 384, 906 N.Y.S.2d 151.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

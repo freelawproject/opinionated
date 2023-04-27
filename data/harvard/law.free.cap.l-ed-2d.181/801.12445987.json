@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b901-11\">No. 11-5928.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AtMe\">William M. Baker, Jr., Petitioner v. Gerdenich Realty Company.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b901-12\">565 U.S. 1151, 132 S. Ct. 1083,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AlCHQ\">181 L. Ed. 2d 801,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AVWT\">2012 U.S. LEXIS 534.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b901-13\">January 9, 2012.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4Ls\">Petition for rehearing denied.</p>\n<p id=\"b901-14\">Former decision, 565 U.S. 952, 132 S. Ct. 422, 181 L. Ed. 2d 275, 2011 U.S. LEXIS 7375.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

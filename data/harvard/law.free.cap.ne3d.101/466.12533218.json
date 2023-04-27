@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"466\" lastpage=\"466\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State ex rel. Guest\n  <br/>\n  v.\n  <br/>\n  Husted\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0889\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  July 10, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   In Mandamus. On relator's motion to expedite case schedule. Motion granted. Respondents shall file their answers no later than Wednesday, July 11, 2018, relator shall file her merit brief and evidence no later than Monday, July 16, 2018, respondents shall file their merit briefs and evidence no later than Wednesday, July 25, 2018, and relator may file a reply brief no later than Wednesday, August 1, 2018.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

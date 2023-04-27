@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"511\" lastpage=\"511\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b521-7\">George W. Perry <em>vs. </em>International Harvester Company.</parties>\n<p data-order=\"1\" data-type=\"court\" id=\"b521-8\">Aroostook County.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIS\">Decided February 17, 1931.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A-o\"><em>Bernard Archibald, </em>for plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AyRN\"><em>Ransford W. Shaw, </em>for defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHEI\">On motion. Action brought to recover damages on account of injury to automobile caused by collision between cars of plaintiff and defendant. Verdict for plaintiff with reasonable assessment of damages.</p>\n<p id=\"b521-9\">The case presents simple issues of fact and the record discloses sufficient apparently credible evidence to justify the jury in finding negligence on the part of defendant and the exercise of ordinary care by the plaintiff. Motion overruled.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

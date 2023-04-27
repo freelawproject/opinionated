@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"25\" lastpage=\"25\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b125-11\">No. 10-1318.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AqmI\">Stephen Lingis, et al., Petitioners v. Rick Dorazil, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b125-12\">565 U.S. 816, 132 S. Ct. 96,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"agu-dedup-1\">181 L. Ed. 2d 25,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AiFe\">2011 U.S. LEXIS 6964.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b125-13\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ANN1\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"b125-14\">Same case below, 633 F.3d 552.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

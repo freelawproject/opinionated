@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1245\" lastpage=\"1245\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jeremy M. CARTER, Appellant,\n  <br/>\n  v.\n  <br/>\n  OUELLETTE &amp; MAULDIN COURT REPORTERS, INC., Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D17-645\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed June 13, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Jeremy M. Carter, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Markowitz, Ringel, Trusty &amp; Hartog, P.A., Alan Rosenberg and Adrian Delancy, for appellee.\n </attorneys>\n <judges id=\"p-7\">\n  Before ROTHENBERG, C.J., and FERNANDEZ, and SCALES, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

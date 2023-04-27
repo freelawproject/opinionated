@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"2\" lastpage=\"2\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b102-5\">No. 10-1405.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AzH\">Larry G. Tyrues, Petitioner v. Eric K. Shinseki, Secretary of Veterans Affairs.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b102-6\">565 U.S. 802, 132 S. Ct. 75,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Act\">181 L. Ed. 2d 2,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ATY\">2011 U.S. LEXIS 6980.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b102-7\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aaz\">On petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of Henderson v. Shinseki, 562 U.S. 428, 131 S. Ct. 1197, 179 L. Ed. 2d 159 (2011).</p>\n<p id=\"b102-8\">Same case below, 631 F.3d 1380.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

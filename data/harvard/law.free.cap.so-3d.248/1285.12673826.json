@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1285\" lastpage=\"1285\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE: HARRIER TRUST\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 18-CD-1090\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  July 13, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <em>\n   ON SUPERVISORY WRITS TO THE FOURTEENTH JUDICIAL DISTRICT COURT FOR THE PARISH OF CALCASIEU\n  </em>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   GRANTED. The \"Order Requesting the Supreme Court to Assign an Ad Hoc Judge\" is vacated.\n  </p>\n  <p id=\"p-8\">\n   Acting pursuant to our supervisory authority under La. Const. art. V, \u00a7 5 (A), by separate administrative process and order, this court will appoint an ad hoc judge to hear the pending motion to recuse.\n  </p>\n  <p id=\"p-9\">\n   GENOVESE, J., recused.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

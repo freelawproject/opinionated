@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"35\" lastpage=\"35\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b135-13\">No. 10-1455.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"afe-dedup-0\">Fernandos Taylor, Petitioner v. James Taylor, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b135-14\">565 U.S. 822, 132 S. Ct. 109,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"anf-dedup-0\">181 L. Ed. 2d 35,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ARlf\">2011 U.S. LEXIS 5301,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b135-15\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ALXH\">Petition for writ of certiorari to the Court of Civil Appeals of Alabama denied.</p>\n<p id=\"a5g-dedup-0\">Same case below, 84 So. 3d 171.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

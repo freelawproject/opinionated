@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"648\" lastpage=\"648\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b700-17\">Hardin PRUITT, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b700-19\">No. 15107.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b700-20\">United States Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b700-21\">Dec. 14, 1954.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b700-23\">Hardin D. Pruitt, in pro. per.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b700-24\">Charles L. Short, Asst. U. S. Atty., Malcolm R. Wilkey, U. S. Atty., Houston, Tex., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b700-25\">Before HUTCHESON, Chief Judge, and HOLMES, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b700-26\">PER CURIAM.</author>\n<p id=\"b700-27\">On the grounds and for the reasons stated in its opinion, 121 F.Supp. 15, the judgment of the District Court is Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

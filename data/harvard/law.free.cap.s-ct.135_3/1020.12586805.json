@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Nazie AZAM, et al., applicants,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES DISTRICT COURT FOR the CENTRAL DISTRICT OF CALIFORNIA, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14A573.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Jan. 12, 2015.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Application for stay addressed to Justice SOTOMAYOR and referred to the Court denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

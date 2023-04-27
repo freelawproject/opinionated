@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"10\" lastpage=\"10\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b110-8\">No. 11M4.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"axn-dedup-0\">Joseph Kamau Christopher Bey, Petitioner v. North Carolina, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b110-9\">565 U.S. 808, 132 S. Ct. 77,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A8f\">181 L. Ed. 2d 10,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A4k\">2011 U.S. LEXIS 6678.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b110-10\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aey-dedup-0\">Motion for leave to proceed in forma pauperis with the declaration of indigency under seal denied.</p>\n<p id=\"ADk\">Same case below, 411 Fed. Appx. 643.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

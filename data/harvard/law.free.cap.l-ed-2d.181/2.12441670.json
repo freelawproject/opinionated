@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"2\" lastpage=\"2\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b102-13\">No. 10-10334.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AIS\">Terence L. Williams, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b102-14\">565 U.S. 802, 132 S. Ct. 76,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Axi\">181 L. Ed. 2d 2,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Azd\">2011 U.S. LEXIS 6820.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b102-15\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABZ\">On petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of Pepper v. United States, 562 U.S. 476, 131 S. Ct. 1229, 179 L. Ed. 2d 196 (2011).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

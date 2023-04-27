@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"400\" lastpage=\"400\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b500-10\">No. 11-6196.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A760\">Xavier A. Collins, Petitioner v. Anthony Hedgpeth, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b500-11\">565 U.S. 1016, 132 S. Ct. 552,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ADXPQ\">181 L. Ed. 2d 400,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AcBJU\">2011 U.S. LEXIS 7934.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b500-12\">November 7, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aq3-\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

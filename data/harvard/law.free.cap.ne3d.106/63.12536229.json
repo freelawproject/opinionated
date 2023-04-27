@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"63\" lastpage=\"63\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  OHIO HIGH SCHOOL ATHLETIC ASSN.\n  <br/>\n  v.\n  <br/>\n  RUEHLMAN\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1200\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  August 24, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   In Prohibition. Sua sponte, respondent shall file a response, if any, to relator's motion for emergency stay and expedited alternative writ no later than 9:00 a.m. on Monday, August 27, 2018.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"604\" lastpage=\"604\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the Matter of J.J.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 15A07.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 23, 2007.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Katharine Chester, for Mother.\n </attorneys>\n <attorneys id=\"p-6\">\n  Jil Sanchez, for Gaston County DSS.\n </attorneys>\n <attorneys id=\"p-7\">\n  Laura Crawford, for Perry Bobbin.\n </attorneys>\n <attorneys id=\"p-8\">\n  Ed Bogle, Gastonia, for Guardian Ad Litem.\n </attorneys>\n <opinion id=\"p-9\">\n  The following order has been entered on the motion filed on the 21st day of August 2007 by Respondent (Mother) for Extension of Time to File Brief:\n </opinion>\n <opinion id=\"p-10\">\n  \"Motion Allowed. Respondent (Mother) shall have up to and including the 29th day of August 2007 to file and serve his/her brief with this Court. By order of the Court in conference this the 23rd day of August 2007.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-11\">\n   HUDSON, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

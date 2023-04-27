@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"160\" lastpage=\"160\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b260-16\">No. 11-5123.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"alpz-dedup-0\">Clinton Black, Petitioner v. Gina Tendras.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b260-17\">565 U.S. 891, 132 S. Ct. 271,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AZdI\">181 L. Ed. 2d 160,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ackl-dedup-1\">2011 U.S. LEXIS 5412.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b260-18\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYu_\">Petition for writ of certiorari to the Court of Special Appeals of Maryland denied.</p>\n<p id=\"b260-19\">Same case below, 197 Md. App. 752 and 197 Md. App. 762.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

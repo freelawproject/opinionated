@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"234\" lastpage=\"234\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b334-17\">No. 10-1512.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aufs-dedup-0\">James DeWeese, Judge, Court of Common Pleas, Richland County, Ohio, Petitioner v. American Civil Liberties Union of Ohio Foundation, Inc.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b334-18\">565 U.S. 930, 132 S. Ct. 368,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ak9I\">181 L. Ed. 2d 234,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AkOW\">2011 U.S. LEXIS 7025.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b334-19\">October 3, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AS2f\">Motion of Foundation for Moral Law for leave to file a brief as amicus curiae out of time granted. Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n<p id=\"b334-20\">Same case below, 633 F.3d 424.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
