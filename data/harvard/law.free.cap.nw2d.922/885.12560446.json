@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"885\" lastpage=\"886\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Sidney Lee CALDWELL, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  William Charles BROWN, Defendant-Appellee,\n  <br/>\n  and\n  <br/>\n  Frankenmuth Mutual Insurance Company, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158761\n  <br/>\n  COA: 343674\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  March 1, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of defendant-appellee to retroactively\n   extend the time for filing his answer to the application for leave to appeal is GRANTED. The answer submitted on January 25, 2019, is accepted as timely filed. On further order of the Chief Justice, the motion of plaintiff-appellant to strike the answer for being untimely is DENIED as moot.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

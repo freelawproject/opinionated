@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"580\" lastpage=\"580\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b636-3\">Charles A. C. FAIMAN, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b636-4\">No. 12542.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b636-5\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b636-6\">March 20, 1950.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b636-8\">James H. Martin,. Dallas, Tex., T. F. Monroe, Dallas, Tex., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b636-9\">William Cantrell, Jr., Asst. U. S. Atty., Dallas, Tex., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b636-10\"><em>Before </em>HOLMES, McCORD, and BORAH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b636-11\">PER CURIAM.</author>\n<p id=\"b636-12\">The judgment appealed from is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

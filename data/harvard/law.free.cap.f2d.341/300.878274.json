@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"300\" lastpage=\"300\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b356-17\">Gerhard Willy GAWANTKA, Petitioner, v. IMMIGRATION AND NATURALIZATION SERVICE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b356-19\">No. 15141.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b356-20\">United States Court of Appeals Third Circuit.</court>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b356-21\">Submitted Feb. 12, 1965.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b356-22\">Decided Feb. 26, 1965.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b356-24\">Gerhard Willy Gawantka, pro se. Mema B. Marshall, Asst. U. S. Atty., Philadelphia, Pa., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b356-25\">Before KALODNER, STALEY and FREEDMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b356-26\">PER CURIAM:</author>\n<p id=\"b356-27\">On review of the record we find no error.</p>\n<p id=\"b356-28\">The Order of the Board of Immigration Appeals will be affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

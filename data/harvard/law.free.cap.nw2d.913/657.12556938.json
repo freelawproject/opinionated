@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"657\" lastpage=\"657\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  MICHIGAN HEAD &amp; SPINE INSTITUTE, P.C., Plaintiff-Appellant,\n  <br/>\n  and\n  <br/>\n  Beaumont Health and Kuanda Bey, Intervening Plaintiffs,\n  <br/>\n  v.\n  <br/>\n  GEICO INDEMNITY COMPANY and State Farm Mutual Automobile Insurance Company, Defendants-Appellees.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157289\n  <br/>\n  COA: 340273\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  July 6, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the motion for immediate consideration is GRANTED. The motion for reconsideration of this Court's May 29, 2018 order is considered, and it is DENIED, because it does not appear that the order was entered erroneously.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

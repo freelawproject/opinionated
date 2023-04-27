@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b937-11\">December 11, 1989</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b937-13\">No.-.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ARc1\">Humphrey <em>v. </em>Bates et al.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlWk\">Motion to direct the Clerk to file petition for writ of certiorari out of time denied.</p>\n<judges id=\"Av41\">Justice Blackmun dissents and would grant the motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

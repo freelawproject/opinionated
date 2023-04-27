@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"922\" lastpage=\"922\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b918-2\">Josephine Volpe <em>v. </em>Carmine Volpe</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AGC8\">(10929)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b918-3\">O\u2019Connell, Foti and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b918-4\">Argued December 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AsL\">decision released December 29, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b918-6\"><em>Helen C. Brum, </em>with whom, on the brief, was <em>Paul J. Pacifico, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b918-7\"><em>Joy Kony Peshkin, </em>with whom, on the brief, was <em>Mitchell A. Dinkin, </em>law student intern, for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b918-8\">Per Curiam.</author>\n<p id=\"Agr\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

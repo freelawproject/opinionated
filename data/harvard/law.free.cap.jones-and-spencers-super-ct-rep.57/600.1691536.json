@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"600\" lastpage=\"600\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b620-8\">Garret Fitzgerald, as Administrator, Appellant, <em>v. </em>Charles Fach, Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b620-10\">Decided January 6, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"An7\">Appeal from judgment entered upon verdict for plaintiff, and from order denying plaintiff\u2019s motion for a new trial made upon, the minutes.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AF4\">George C. Coffin, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AZM\">Thomas F. Grady and Theodore Connolly, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Asi\">Before Sedgwick, Ch. J., Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Aq8\">Per Curiam.</author>\n<p id=\"Ag9\">Judgment and order affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"914\" lastpage=\"914\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b518-9\">No. 1337,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Acg\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AoT\">Thompson <em>v. </em>Thompson et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AfBg\"><em>Jerome L. Markovitz </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AuD\"><em>Morris M. Wexler </em>for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHh\">C. A. 3d Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1401\" lastpage=\"1401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A8j\">\n<em>March 27, 2002</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Atee\">MEDIATION REFERRALS</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AlOa\">02- 138.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AMp6\">State ex rel. Dayton-Walther Corp. v. Indus. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATzv\">The following eases have been referred to mediation pursuant to S.Ct.Prac.R. XIV(6):</p>\n<p id=\"AZE\">Franklin App. No. 01AP-179.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

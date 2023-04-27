@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b911-2\">John Salafia et al. <em>v. </em>Salvatore Salafia et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b911-3\">(10785)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b911-4\">Daly, Foti and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b911-5\">Submitted on briefs October 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A1u\">decision released November 24, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b911-7\"><em>Stephen T. Gionfriddo </em>filed a brief for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b911-8\"><em>John L. Boccalatte </em>filed a brief for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b911-9\">Per Curiam.</author>\n<p id=\"AG9\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

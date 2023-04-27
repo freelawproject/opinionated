@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"94\" lastpage=\"94\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b150-6\">James Walter MEADOWS v. William H. HIATT, Warden, United States Penitentiary, Atlanta, Georgia</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AY_\">No. 13024.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b150-7\">United States Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b150-9\">April 20, 1950.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b150-11\">James Walter Meadows, in pro. per. .</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b150-12\">J. Ellis Mundy,-.. U, S. Atty., Atlanta, Ga., Harvey H. Tisinger, Asst. U. S. Att-y., Atlanta, Ga., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b150-13\">Before HUTCHESON, Chief Judge, and McCORD and WALLER, Circuit \u2022 Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b150-14\">PER CURIAM.</author>\n<p id=\"b150-15\">The judgment of the lower court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

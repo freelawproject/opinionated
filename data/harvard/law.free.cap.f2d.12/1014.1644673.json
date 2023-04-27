@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1042-26\">In the Matter of HURWITZ COMPANY, Inc., Bankrupt. Abram E. Hurwitz, Petitioner-Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1042-27\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1042-28\">May 17, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1042-29\">No. 327.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1042-31\">Louis Rosenberg, of New York City (Nathan April, of New York City, of counsel), for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1042-32\">McDonnell &amp; Lebett, of New York City, for trustee in bankruptcy.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1042-33\">Before HOUGH, MANTON, and MACK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1042-34\">PER CURIAM.</author>\n<p id=\"AagM\">Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

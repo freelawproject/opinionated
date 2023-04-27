@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b621-5\">S. Charles Welsh, <em>v. </em>The Metropolitan Elevated Railroad Company, (action No. 2.)</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b621-6\">Decided January 6, 1890.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"Ajj\">Before Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Aej\">Per Curiam.</author>\n<p id=\"AkS\">The questions presented on this appeal are all determined by the decision in Welsh <em>v. </em>The Metropolitan El. Ry. Co., action No. 1. See <em>ante, </em>page 408. For the reasons there stated the judgment should be affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

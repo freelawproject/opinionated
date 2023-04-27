@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"919\" lastpage=\"919\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b523-8\">No. 1673,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aab\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AgVP\">Smith <em>v. </em>Idaho et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A8Eq\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AgX\"><em>Allan G. Shepard, </em>Attorney General of Idaho, and <em>John S. Simko, </em>Assistant Attorney General, for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Altl\">C. A. 9th Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

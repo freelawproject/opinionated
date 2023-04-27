@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"713\" lastpage=\"713\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b731-5\">JOHNSON <em>v. </em>WARDEN OF MARYLAND PENITENTIARY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b731-6\">[App. No. 144,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AXd\">September Term, 1964.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b731-7\">\n<em>Decided August 5, 1965.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b731-10\">Before the entire Court.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b731-11\">Per Curiam.</author>\n<p id=\"b731-12\">For reasons stated in the opinion of Judge Jenifer in the lower court, the application for leave to appeal is hereby denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

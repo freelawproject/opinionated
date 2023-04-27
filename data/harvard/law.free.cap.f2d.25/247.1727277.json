@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"247\" lastpage=\"247\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b275-8\">UNITED STATES of America, Appellant, v. Oscar Edvin Ferdinand PERSSON, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b275-10\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b275-11\">April 4, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b275-12\">No. 5197.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b275-14\">Wayne G. Borah, U. S. Atty., and Edmond E. Talbot, Asst. U. S. Atty., both of New Orleans, La.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b275-15\">Before WALKER, BRYAN, and FOSTER, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b275-16\">FOSTER, Circuit Judge.</author>\n<p id=\"Agt\">The questions presented in this case are identical with those involved in the ease of United States v. Marco Nicolich, 25 F.(2d) 245, No. 5109 of the docket of this court, decided to-day.</p>\n<p id=\"b275-17\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

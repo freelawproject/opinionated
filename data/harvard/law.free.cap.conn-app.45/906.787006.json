@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b854-14\">HERBERT K. GLENN <em>v. </em>GLENN FENCE COMPANY ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b854-15\">(AC 16047)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b854-16\">Landau, Schaller and Thim, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b854-17\">Argued March 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Akm\">officially released May 6, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b854-19\">Per Curiam.</author>\n<p id=\"ALb\">The decision of the workers\u2019 compensation review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

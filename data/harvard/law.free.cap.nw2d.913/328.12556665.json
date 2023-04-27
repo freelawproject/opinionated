@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"328\" lastpage=\"328\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Shameka B. LAYTON, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157555-6\n  <br/>\n  COA: 340379\n  <br/>\n  340515\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  July 3, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the motion for immediate consideration is GRANTED. The application for leave to appeal the February 22, 2018 order of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the question presented should be reviewed by this Court. The motion for release on personal recognizance is DENIED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

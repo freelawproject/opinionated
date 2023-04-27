@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"287\" lastpage=\"287\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b353-4\">Staunton</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b353-5\">William C. Rhines, Sr. v. N. S. Bond.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b353-6\">September 22, 1932.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b353-7\">Present, Campbell, C. J., and Holt, Epes, Gregory and Browning, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b353-10\"><em>William H. Werth, </em>for the plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b353-11\">O. <em>M. Vicars, </em>for the defendant in error.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b353-12\">Per Curiam.</author>\n<p id=\"b353-13\">This case is controlled by the opinion of the court in the case of <em>Hubert Rhines </em>v. <em>N. S. Bond, ante, </em>p. 279, 165 S. E. 515.</p>\n<p id=\"b353-14\">\n<em>Affirmed.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

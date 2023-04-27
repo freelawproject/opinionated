@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"899\" lastpage=\"899\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b641-4\">November 12, 1963.</decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"b641-6\">No. \u2014.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ACGJ\">Association for the Preservation of Freedom of Choice, Inc., et al. <em>v. </em>Nation Company.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ApRM\"><em>Alfred Avins </em>on the motion.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AA2C\">The motion of Association for the Preservation of Freedom of Choice, Inc., for leave to proceed <em>in forma pauperis </em>is denied.</p>\n<judges id=\"Af00\">Mr. Justice Black, Mr. Justice Stewart and Mr. Justice Goldberg are of the opinion that the motion should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

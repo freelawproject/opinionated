@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"501\" lastpage=\"501\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b523-3\" pgmap=\"523\">Fred Kemper, Appellee, v. Harry Cohen et al., Defendants. Appeal of Harry Cohen, Appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b523-5\" pgmap=\"523\">Gen. No. 41,200.</docketnumber><p data-order=\"2\" data-type=\"p\" id=\"A5b\" pgmap=\"523\">(Abstract of Decision.)</p><court data-order=\"3\" data-type=\"court\" id=\"AzD1\" pgmap=\"523\">Heard in third division, first district, this court at April term, 1940;</court><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AE5x\" pgmap=\"523\">opinion filed May 22, 1940,</decisiondate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ADW7\" pgmap=\"523\">Isador Becker and Joseph C. Cowen, for appellant; C. A. Caplow, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"Amlk\" pgmap=\"523\">Opinion by Justice Hebel.</author> <p id=\"Aq3\" pgmap=\"523\">\u2018 \u2018Not to be published in full.\u201d</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-26\">John F. MAEDER et al., Appellants, v. JOHN R. THOMPSON CO., Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1044-27\">(Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-N\">May 25, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1044-28\">No. 3424.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1044-30\">John M. Henry, of Pittsburgh, Pa., for appellants.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1044-31\">Before BUFFINGTON, WOOLLEY, and DAVIS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-32\">PER CURIAM.</author>\n<p id=\"Al2X\">After argument and due consideration had, the motion to dismiss is granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

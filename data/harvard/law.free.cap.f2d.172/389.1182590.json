@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"389\" lastpage=\"389\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b437-26\">UNITED STATES of America ex rel. John H. MOESEL, Relator-Appellant, v. Walter B. MARTIN, as Warden of Attica Prison, Attica, New York, Respondent-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ABv\">Docket 21264.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b437-27\">United States Court of Appeals Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b437-28\">Feb. 14, 1949.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b437-30\">Nathaniel L. Goldstein, Atty. Gen., of New York (Louis Winer, Asst. Atty. Gen., of Counsel), for the motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b437-31\">H. G. Ingraham, of New York City, opposed.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b437-32\">Before AUGUSTUS N. HAND, CHASE, and FRANK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b437-33\">PER CURIAM.</author>\n<p id=\"b437-34\">Order affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

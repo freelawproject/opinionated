@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"832\" lastpage=\"832\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Christine CROWLEY, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  Susan MCDONOUGH, et al., Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-1379\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  October 25, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   In the absence of a response to this court's August, 24, 2018, order, this appeal is dismissed as from a nonappealable nonfinal order.\n  </p>\n  <judges id=\"p-7\">\n   KELLY, VILLANTI, and ROTHSTEIN-YOUAKIM, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

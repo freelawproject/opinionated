@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"842\" lastpage=\"842\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  David CARPENTER, Appellant,\n  <br/>\n  v.\n  <br/>\n  The STATE of Florida, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D18-1580\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed October 3, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  David Carpenter, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Pamela Jo Bondi, Attorney General, for appellee.\n </attorneys>\n <judges id=\"p-7\">\n  Before SUAREZ, EMAS, and FERNANDEZ, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

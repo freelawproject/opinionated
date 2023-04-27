@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"299\" lastpage=\"299\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b355-13\">George BANKSTON, Appellant, v. AETNA CASUALTY AND SURETY CO., HARTFORD, CONNECTICUT, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b355-15\">No. 21461.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b355-16\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b355-17\">Feb. 18, 1965.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b355-19\">L. B. Ponder, Jr., Ponder &amp; Ponder and J. Lynn Ponder, Amite, La., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b355-20\">Iddo Pittman, Jr., and Pittman &amp; Matheny, Hammond, La., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b355-22\">Before WISDOM and GEWIN, Circuit Judges, and BOOTLE, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b355-23\">PER CURIAM:</author>\n<p id=\"b355-24\">' Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

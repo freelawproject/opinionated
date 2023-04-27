@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"512\" lastpage=\"512\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  UMB BANK, N.A.\n  <br/>\n  v.\n  <br/>\n  David T. WHITEHEAD\n </parties>\n <docketnumber id=\"p-2\">\n  2016AP1097\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Wisconsin.\n </court>\n <decisiondate id=\"p-4\">\n  May 8, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   PETITION FOR REVIEW DENIED\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   ZIEGLER, J. did not participate.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

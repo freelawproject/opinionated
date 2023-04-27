@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"787\" lastpage=\"787\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b865-10\">May 13, 1965.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b865-12\">No. 1102,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AQi\">Misc.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ax6F\">Jones <em>v. </em>United States.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AlR\">Petitioner <em>pro se. Solicitor General Cox, Assistant Attorney General Miller, Beatrice Rosenberg </em>and <em>Julia P. Cooper </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Auuo\">C. A. 4th Cir. Petition for writ of certiorari dismissed pursuant to Rule 60 of the Rules of this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

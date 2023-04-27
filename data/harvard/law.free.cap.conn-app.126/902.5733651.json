@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b902-2\">ALAN BROCKENBERRY <em>v. </em>THOMAS DEEGAN ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A6p\">(AC 31955)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b902-3\">DiPentima, C. J., and Bishop and Bear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b902-4\">Submitted on briefs December 7, 2010</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aay-dedup-0\">officially released January 11, 2011</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b902-6\">Per Curiam.</author>\n<p id=\"APM\">The decision is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"923\" lastpage=\"923\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b527-12\">No. 1674,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AS4N\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AKTV\">Hensley et al. <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Am70\"><em>I. Philip Sipser, Paul O\u2019Dwyer </em>and <em>Dcm Jack Combs </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A4nY\"><em>Solicitor General Marshall, Assistant Attorney General Vinson, Beatrice Rosenberg </em>and <em>Sidney M. Glazer </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AcUN\">C. A. 6th Cir.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

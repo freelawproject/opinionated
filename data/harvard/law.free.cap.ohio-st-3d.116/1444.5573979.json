@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1444\" lastpage=\"1444\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b760-9\">MEDIATION REFERRALS</p>\n<p data-order=\"1\" data-type=\"parties\" id=\"b760-10\">The following cases have been referred to mediation pursuant to S.CtPrae.R. XIV(6):</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b760-11\">2006-2056.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AML\">State ex rel. Mun. Constr. Equipment Operators\u2019 Labor Council v. Cleveland.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b760-12\">In Mandamus. Referred for resolution of the pending motion for attorney fees.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

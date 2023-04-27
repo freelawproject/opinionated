@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b891-12\">ROCKVILLE BANK ET AL. <em>v. </em>ZOCCO BUILDERS, LLC, ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b891-13\">(AC 31815)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b891-14\">Alvord, Espinosa and Pellegrino, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b891-15\">Submitted on briefs April 20 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ASA-\">officially released May 17, 2011</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b891-17\">Per Curiam.</author>\n<p id=\"AqR\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

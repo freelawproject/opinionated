@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"133\" lastpage=\"133\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  James T. HOREJS, et al., Appellants\n  <br/>\n  v.\n  <br/>\n  Albert MILFORD, D.O., et al.\n </parties>\n <court id=\"p-2\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-3\">\n  February 21, 2019\n </decisiondate>\n <opinion id=\"p-4\">\n  Granted.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-5\">\n   Vaidik, C.J., Barnes, J., Pyle, J.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

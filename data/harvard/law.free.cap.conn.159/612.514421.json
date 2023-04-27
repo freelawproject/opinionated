@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"612\" lastpage=\"612\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b628-8\">Louise R. Hendrix et al. <em>v. </em>Clifford R. Hendrix, Jr.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b628-9\">Alcorn, C. J., House, Thim, Ryan and Shapiro, Js.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b628-10\">Assigned June 2</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ARt\">decided June 2, 1970</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b628-12\">Per Curiam.</author>\n<p id=\"AMh\">No counsel for any party appeared to argue this appeal on the date the case was assigned for hearing.</p>\n<p id=\"b628-13\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

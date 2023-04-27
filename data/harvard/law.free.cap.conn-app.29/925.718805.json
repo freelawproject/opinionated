@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"925\" lastpage=\"926\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b921-11\">Kathleen B. Borkowski <em>v. </em>John J. Borkowski</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b921-12\">(10882)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b921-13\">O\u2019Connell, Foti and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b921-14\">Argued December 9, 1992</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ApoD\">decision released January 5, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b922-3\"><page-number citation-index=\"1\" label=\"926\">*926</page-number><em>Alexandra Davis, </em>with whom was <em>Wesley W. Horton, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b922-4\"><em>Averum J. Sprecher, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b922-5\">Per Curiam.</author>\n<p id=\"AfR\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

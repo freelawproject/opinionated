@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"509\" lastpage=\"509\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b541-4\" pgmap=\"541\">175 A.3d 144</citation><parties data-order=\"1\" data-type=\"parties\" id=\"A0cI\" pgmap=\"541\">HORTON, Fernando Grady v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AdVn\" pgmap=\"541\">Pet. Docket No. 334,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"AFN\" pgmap=\"541\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"AOqN\" pgmap=\"541\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b541-8\" pgmap=\"541\">December 15, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b541-9\" pgmap=\"541\">Opinion of the Court of Special Appeals unreported (No. 507, Sept.Term, 2015).</p> <p id=\"b541-10\" pgmap=\"541\">Petition for writ of certiorari dismissed</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

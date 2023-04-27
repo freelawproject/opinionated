@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"958\" lastpage=\"958\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b976-22\">Hennessey, Respondent, <em>v. </em>Metropolitan El. Ry. Co. <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A9b\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Adft\">March 3, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b976-23\">Appeal from equity term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b976-24\">Action by James Hennessey against the Metropolitan Elevated Railway Company and others. From a judgment for plaintiff, defendants appeal.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"ABE\">Argued before Truax and Dugro, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b976-25\"><em>Davies &amp; Rapallo, </em>for appellants. <em>L. C. Dessar, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b976-26\">Per Curiam.</author>\n<p id=\"ABi4\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

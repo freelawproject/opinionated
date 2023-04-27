@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"448\" lastpage=\"448\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  James TOWNSEND\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2019-KH-0093\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  February 25, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE FIRST JUDICIAL DISTRICT COURT, PARISH OF CADDO\n  </strong>\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM:\n  </author>\n  <p id=\"p-7\">\n   Defendant represents that the court of appeal has failed to act timely on a supervisory writ application or applications filed on or about July 23, 2018. If defendant's representation is correct, the court of appeal is ordered to consider and act on the writ application(s). The court of appeal is also ordered to provide this court with a copy of its judgment.\n  </p>\n  <p id=\"p-8\">\n   Guidry, J., would deny.\n  </p>\n  <p id=\"p-9\">\n   Clark, J., would deny.\n  </p>\n  <p id=\"p-10\">\n   Crichton, J., recused.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

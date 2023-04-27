@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1050-3\">The ASHBOURNE.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AXI\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A2WZ\">March 12, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Aey\">No. 133.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AvTc\">Appeal from the District Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Atp\">Pierre M. Brown, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A5T\">Le Boy S. Gove, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"ACB\">Before WALLACE, LACOMBE, and COXE, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJ5h\">No opinion. Decree affirmed, with interest and costs. See (D. C.) 112 Fed. 687.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

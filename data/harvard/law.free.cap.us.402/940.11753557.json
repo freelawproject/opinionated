@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"940\" lastpage=\"940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b808-4\">No. 45,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ATs_\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A4BJ\">Washington et al. <em>v. </em>General Motors Corp. et al.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmH\">Motion for leave to file bill of complaint set for oral argument. One hour allowed for oral argument.</p>\n<judges id=\"ArvC\">Mr. Justice Blackmun took no part in the consideration or decision of this matter.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

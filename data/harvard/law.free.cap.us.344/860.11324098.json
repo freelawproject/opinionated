@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"860\" lastpage=\"860\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b768-8\">No. 133,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A07\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"APBG\">Paonessa <em>v. </em>New York.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ACT_\"><em>Stephen Bienieck </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AQn0\"><em>Burton C. Meighan </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-2z\">Petition for writ of certiorari to the Court of Appeals of New York denied for the reason that application therefor was not made within the time provided by law. 28 U. S. C. \u00a7 2101(c).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

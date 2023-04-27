@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1440\" lastpage=\"1440\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Ayt\">\n<em>April 29, 2002</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"header\" id=\"AIP\">MOTION AND PROCEDURAL RULINGS</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AvId\">2002-0415.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Atmx\">State ex rel. Pepple v. Montgomery.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2Nx\">In Mandamus and Prohibition. This cause originated in this court on the filing of a complaint for writs of mandamus and prohibition. Upon consideration of respondents\u2019 motion for stay of discovery pending ruling on motion to dismiss,</p>\n<p id=\"Ao-\">IT IS ORDERED by the court that the motion for stay of discovery be, and hereby is, granted.</p>\n<judges id=\"AS0\">Pfeifer, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

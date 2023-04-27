@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"221\" lastpage=\"221\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b255-6\">ELDERT v. CROSS COUNTRY R. CO. et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b255-7\">(Supreme Court, Appellate Division, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A33\">November 27, 1914.)</decisiondate>\n<summary data-order=\"3\" data-type=\"misc\" id=\"b255-8\">Appeal from Special Term, Queens County.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b255-9\">Action by Luke Eldert against the Cross Country Railroad Company and others. From an interlocutory judgment for plaintiff, defendant Sarah Maria Streeter appeals. Affirmed.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b255-10\">Argued before JENKS, P. J., and BURR, THOMAS, CARR, and PUTNAM, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b255-11\">PER CURIAM.</author>\n<p id=\"AVF\">Orders affirmed, with $10 cost and disbursements, on the authority of Eldert v. Cross Country R. R. Co., 150 N. Y. Supp. 220, decided herewith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

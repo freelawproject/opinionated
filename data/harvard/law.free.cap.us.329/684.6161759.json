@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"684\" lastpage=\"685\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b770-7\">No. 68,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AHn\">No. 70,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AEA5\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"Av_N\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AkV4\">Ex parte DeCloux; Ex parte Glass; and <page-number citation-index=\"1\" label=\"685\">*685</page-number>Ex parte Lee.</parties>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"AIUj\">No. 73,</docketnumber>\n<p data-order=\"6\" data-type=\"misc\" id=\"Aus_\">Misc.</p>\n<decisiondate data-order=\"7\" data-type=\"decisiondate\" id=\"ANE\">December 9, 1946.</decisiondate>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"At5\">The applications are denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

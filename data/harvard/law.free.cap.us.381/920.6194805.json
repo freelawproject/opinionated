@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"800\" lastpage=\"800\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b878-6\">No. 298,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AtM\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aj8\">Smith <em>v. </em>New York.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A5jK\"><em>Leon B. Polsky </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGq_\">Ct. App. N. Y. Certiorari denied.</p>\n<judges id=\"AK2J\">Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"546\" lastpage=\"546\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b560-4\">Winter, Inc. <em>v. </em>Urban Redevelopment Commission</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b560-5\">Alcorn, C. J., House, Cotter, Thim and Ryan, Js.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b560-6\">Argued October 7</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AeR\">decided October 14, 1970</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b560-8\"><em>Lawrence Gochberg, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b560-9\"><em>Robert M. Wechsler, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b560-10\">Per Curiam.</author>\n<p id=\"Aa-\">Because the findings of subordinate facts are fatally inconsistent, the conclusion of the referee as to the fair market value of the real estate cannot be sustained.</p>\n<p id=\"b560-11\">There is error, the judgment is set aside and the case is remanded for a new trial.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1\" lastpage=\"1\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b125-4\">The State of Ohio, Appellee, <em>v. </em>Crenshaw, Appellant.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b125-5\">[Cite as <em>State v. Crenshaw </em>(1993), 66 Ohio St.3d 1.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b125-6\">(No. 92-2177</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ATu\">Submitted January 5, 1993</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AM\">Decided February 3, 1993.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b125-7\">\n<em>Marvin Crenshaw, pro se.</em>\n</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b125-8\">The judgment of the court of appeals is affirmed.</p>\n<judges id=\"b125-9\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

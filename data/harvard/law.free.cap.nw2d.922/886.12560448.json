@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"886\" lastpage=\"886\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE RAYMOND L. FRICK TRUST.\n </parties>\n <attorneys id=\"p-2\">\n  Edward M. Kress and Jenny Frick Trychel, also known as Jeni Frick Trychel, Successor Co-Trustees, Plaintiffs-Appellees,\n  <br/>\n  v.\n  <br/>\n  Bradley Spice and BCL 75, Inc., Defendants-Appellants.\n </attorneys>\n <docketnumber id=\"p-3\">\n  SC: 158984\n  <br/>\n  COA: 341498\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  March 1, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Chief Justice, the motions for the temporary admission of out-of-state attorneys Susan D. Solle and Thomas P. Whalley, II, to appear and practice in this case under MCR 8.126(A) are GRANTED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

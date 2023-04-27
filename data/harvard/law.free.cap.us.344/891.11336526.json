@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"891\" lastpage=\"891\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b799-6\">No. 237,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aech\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ATtd\">Kaufman et al. <em>v. </em>Pine, U. S. District Judge.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AHRu\"><em>Irving Moskovitz, Henry G. Fischer, Odell Kominers </em>and <em>Seymour Graubard </em>for petitioners.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Adj\">Motion for leave to file petition for writ of mandamus denied.</p>\n<judges id=\"AGcA\">Mr. Justice Clark took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

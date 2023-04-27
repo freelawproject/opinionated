@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"370\" lastpage=\"371\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Vincent BURGESS, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  ATTORNEY GRIEVANCE COMMISSION, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157452\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  July 20, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the complaint for superintending control is considered, and\n   relief is DENIED, because the Court is not persuaded that it should grant the requested relief. We further find that the plaintiff is a vexatious litigator under MCR 7.316(C)(3). We direct the Clerk of this Court not to accept any further filings from plaintiff in any matter against the Attorney Grievance Commission without the filing fee required by MCR 7.319.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

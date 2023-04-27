@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"413\" lastpage=\"414\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Kacey SEVERIN\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-KK-1844\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  February 11, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE CRIMINAL DISTRICT COURT FOR THE PARISH OF ORLEANS\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   Writ granted in part. The trial court abused its discretion in admitting evidence of the prior obstruction of justice charge against defendant, as such evidence does not aid the prosecution in \"proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident\" with respect to his second degree murder charge. La. C.E. art. 404(B). The application is otherwise denied, particularly insofar as it challenges the admissibility of evidence of defendant's prior act of engaging in a vehicle-to-vehicle shooting.\n  </p>\n  <p id=\"p-8\">\n   CLARK, J., would deny.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

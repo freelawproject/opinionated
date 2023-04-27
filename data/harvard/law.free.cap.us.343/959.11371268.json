@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"959\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b949-5\">No. 322,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AFm\">No. 397,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Aib\">No. 416,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"A5fC\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"A9v6\">Misc.</p>\n<p data-order=\"5\" data-type=\"misc\" id=\"AvaC\">Misc.</p>\n<parties data-order=\"6\" data-type=\"parties\" id=\"Ava0\">Mahler <em>v. </em>Frisbie, Warden, Tate <em>v. </em>United States District Court for the Northern District of California et al.; Black <em>v. </em>Moore, Warden, et al.</parties>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqxS\"><em>ante, </em>p. 935;</p>\n<p id=\"AyGi\"><em>ante, </em>p. 925; and</p>\n<p id=\"AjiW\"><em>ante, </em>p. 931. Petitions for rehearing denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

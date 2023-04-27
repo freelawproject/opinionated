@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1042-5\">10,930 BOTTLES OF LIQUOR, Bobbie Burnside, Claimant, Plaintiff in Error, v. UNITED STATES, Libelant, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A7O6\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ahm\">February 18, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AAYi\">No. 235.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AKvk\">Bennett &amp; Korey, of New York City, for plaintiff in error. William Hayward, U. S. Atty., of New York City (Francis A. McGurk, Asst. U. S. Atty., of New York City, of counsel), for the United States.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ABLz\">Before ROGERS, MANTON,, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1042-6\">.PER OU.RIAM.</author>\n<p id=\"Agy\">Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

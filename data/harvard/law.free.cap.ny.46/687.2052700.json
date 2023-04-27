@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"687\" lastpage=\"687\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b705-5\">John M. Buckingham, Respondent, <em>v. </em>Thomas Denny et al., Appellants.</parties>\n<p data-order=\"1\" data-type=\"court\" id=\"b705-6\">(Argued</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A8t\">; decided September 11, 1871.)</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b705-7\"><em>S. Hcmd, </em>for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AeW\"><em>jy. O. Moak, </em>for respondent.</attorneys>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b705-8\">Decided upon the ground that the only material questions were those of fact, which were disposed of below.</summary>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b705-9\">Beckham, J.,</author>\n<p id=\"AdO\">reads opinion for affirmance.</p>\n<p id=\"b705-10\">All concur.</p>\n<p id=\"b705-11\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

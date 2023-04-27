@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b860-16\">HELEN BEVAN ET AL. <em>v. </em>ANNE ROSENBAUM</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ArB1\">(15194)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b860-17\">Dupont, C. J., and Landau and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b860-18\">Submitted on briefs June 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ANo\">officially released July 16, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b860-20\">Per Curiam.</author>\n<p id=\"AXlK\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

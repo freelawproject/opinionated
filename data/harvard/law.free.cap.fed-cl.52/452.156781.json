@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"452\" lastpage=\"452\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b975-6\">MORGANTI NATIONAL, INC., Plaintiff-Appellant, v. UNITED STATES, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b975-8\">No. 01-5109.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b975-9\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b975-10\">June 7, 2002.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b975-12\">Before LINN, Circuit Judge, PLAGER, Senior Judge and PROST, Circuit Judge.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b975-13\">Judgment</p>\n<author id=\"b975-14\">PER CURIAM.</author>\n<p id=\"b975-15\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b975-16\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b850-8\">AMERICAN ENVIRONMENTAL TECHNOLOGIES, INC. <em>v. </em>PETER A. BRAY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aflv\">(AC 16234)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b850-9\">Lavery, Schaller and Thim, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b850-10\">Argued March 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Atb\">officially released April 29, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b850-12\">Per Curiam.</author>\n<p id=\"AIu\">The judgment is affirmed and the case is remanded for the purpose of setting a new sale date.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

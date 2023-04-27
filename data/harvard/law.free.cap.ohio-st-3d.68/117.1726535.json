@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"117\" lastpage=\"117\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b333-3\">The State ex rel. Fant, Appellant, <em>v. </em>Tober, Appellee.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b333-4\">[Cite as <em>State ex rel. Fant v. Tober </em>(1993), 68 Ohio St.3d 117.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b333-6\">(No. 93-831</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AE3b\">Submitted October 12, 1993</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AQFQ\">Decided December 29, 1993.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b333-8\">\n<em>Henry J. Fant, pro se.</em>\n</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b333-9\"><em>Juan Edgardo Adorno, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b333-10\">The judgment of the court of appeals is affirmed.</p>\n<judges id=\"b333-11\">Moyer, C.J., AW. Sweeney, Douglas, Wright, Resnick and Pfeifer, JJ., concur.</judges>\n<judges id=\"b333-12\">F.E. Sweeney, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

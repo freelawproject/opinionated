@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"130\" lastpage=\"130\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  GRIEVANCE ADMINISTRATOR, Petitioner-Appellee,\n  <br/>\n  v.\n  <br/>\n  Andrew Leo SHIRVELL, Respondent-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158309\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  February 4, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.\n  </p>\n  <p id=\"p-7\">\n   CAVANAGH , J., did not participate due to her prior service as a member of the Attorney Grievance Commission.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

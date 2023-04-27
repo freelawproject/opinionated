@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"89\" lastpage=\"89\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"A1f\" pgmap=\"121\">171 A.3d 615</citation><parties data-order=\"1\" data-type=\"parties\" id=\"A-K\" pgmap=\"121\">JONES, Letory v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ATuW\" pgmap=\"121\">Pet. Docket No. 207,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"ATGu\" pgmap=\"121\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"Abu\" pgmap=\"121\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"AqL\" pgmap=\"121\">October 20, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"Ah\" pgmap=\"121\">Application for leave to appeal dismissed by the Court of Special Appeals (No. 541, Sept. Term, 2017).</p> <p id=\"AB\" pgmap=\"121\">Petition for writ of certiorari denied.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

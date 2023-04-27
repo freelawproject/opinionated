@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"987\" lastpage=\"987\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b729-4\">No. 460,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aygt\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A3ha\">McIntosh <em>v. </em>New York.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Adjp\"><em>Abraham Ziegler </em>for petitioner. <em>Joseph A. Ryan </em>and <em>Michael R. Canestrano </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-GJ\">Appellate Division, Supreme Court of New York, Fourth Judicial Department. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

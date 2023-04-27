@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"445\" lastpage=\"445\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b499-11\">Dayton Bar Association <em>v. </em>Zarka.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b499-12\">[Cite as Dayton Bar Assn. <em>v. </em>Zarka (1987), 32 Ohio St. 3d 603.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AqML\">(D.D. No. 87-46</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Alq\">Decided September 25, 1987.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b499-14\">The petition for reinstatement to the practice of law is granted. John S. Zarka is reinstated to the practice of law in the state of Ohio.</p>\n<p id=\"b499-15\">(For earlier case, see (1986), 24 Ohio St. 3d 157, 24 OBR 374, 493 N.E. 2d 1362.)</p>\n<judges id=\"b499-17\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

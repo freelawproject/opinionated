@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"453\" lastpage=\"454\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Tiffany WESTLUND and Tim Sedlock\n  <br/>\n  v.\n  <br/>\n  NATIONAL UNION FIRE INS. COMPANY OF PITTSBURGH, PA, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-CC-0725\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  September 14, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Writ denied. Adequate remedy on appeal.\n </opinion>\n <judges id=\"p-6\">\n  CRICHTON, J., would grant and docket and assigns reasons.\n </judges>\n <judges id=\"p-7\">\n  GENOVESE, J., would grant and docket.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   CRICHTON, J., would grant and docket and assigns reasons\n   I would grant the defendant's and docket this matter to examine whether La. Civil Code article 2315.1 includes damages for \"loss of life\" as an element of the survival action damages.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

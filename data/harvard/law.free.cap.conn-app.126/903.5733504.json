@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b903-2\">ANTHONY J. PELLECCHIA, ADMINISTRATOR (ESTATE OF ANTHONY E. PELLECCHIA) <em>v. </em>CONNECTICUT LIGHT AND POWER COMPANY ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b903-3\">(AC 31588)</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b903-4\">(AC 31800)</docketnumber>\n<p data-order=\"3\" data-type=\"judges\" id=\"b903-5\">DiPentima, C. J., and Harper and Pellegrino, Js.</p>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b903-6\">Argued January 4</otherdate>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"avo-dedup-0\">officially released February 1, 2011</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b903-8\">Per Curiam.</author>\n<p id=\"AqD\">The judgments are affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"858\" lastpage=\"858\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b912-3\">In the Matter of S. P. BEECHER.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AW9\">No. 12084F.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"Aff\">United States Court of Appeals Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"aea-dedup-0\">March 5, 1951.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"acu-dedup-2\">Before DENMAN, Chief Judge, and STEPHENS and ORR, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Avl\">PER CURIAM.</author>\n<p id=\"AKCP\">Beecher has filed a notice of appeal from an order of the district court of December 31, 1947, denying his motion to amend an order of that court of December 12, 1947, appointing Erie W. Horswill, an attorney, to represent Beecher and the estate in certain matters arising out of Beecher\u2019s proceedings under Section 75 of the Bankruptcy Act, 11 U.S.C.A. \u00a7 203.</p>\n<p id=\"apx-dedup-0\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

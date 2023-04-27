@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b855-7\">EDGEWOOD ELM HOUSING, INC. <em>v. </em>SHAWMUT BANK CONNECTICUT</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AWg\">(14701)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b855-8\">Dupont, C. J., and Schaller and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b855-9\">Argued June 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A47\">officially released July 2, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b855-11\">Per Curiam.</author>\n<p id=\"AF3J\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

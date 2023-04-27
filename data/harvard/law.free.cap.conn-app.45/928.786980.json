@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"928\" lastpage=\"928\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b876-12\">LANDEL BROWN <em>v. </em>MARYLAND CASUALTY COMPANY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AMB\">(AC 16198)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b876-13\">Dupont, C. J., and O\u2019Connell and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b876-14\">Submitted on briefs June 10</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AJA1\">officially released July 15, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b876-16\">Per Curiam.</author>\n<p id=\"AhZT\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

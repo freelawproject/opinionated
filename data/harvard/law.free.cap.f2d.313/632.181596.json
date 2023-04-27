@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"632\" lastpage=\"632\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b700-4\">COMMERCIAL INSURANCE COMPANY v. James E. REDFORD et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b700-6\">No. 7213.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b700-7\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b700-8\">Feb. 13, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b700-10\">Colmery &amp; Russell, Topeka, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b700-11\">Robert L. Deam, Junction City, Kan., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b700-12\">Before MURRAH, Chief Judge, and BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b700-13\">PER CURIAM.</author>\n<p id=\"b700-14\">Appeal dismissed February 13, 1963, on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

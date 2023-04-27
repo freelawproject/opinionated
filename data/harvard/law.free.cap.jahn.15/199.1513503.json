@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"199\" lastpage=\"199\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b219-8\">(First Circuit-Hamilton Co., O., Circuit Court</court>\n<decisiondate data-order=\"1\" data-type=\"misc\" id=\"AK5\">Jan. Term, 1897.)</decisiondate>\n<judges data-order=\"2\" data-type=\"judges\" id=\"b219-9\">Before Day, Price and Norris, JJ.</judges>\n<p data-order=\"3\" data-type=\"court\" id=\"b219-10\">(The judges of the Third Circuit sitting in the First Circuit.)</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"b219-11\">JNO. KRAUSE v. AMANDA E. STICHTENOTH et al.</parties>\n<headnotes data-order=\"5\" data-type=\"headnotes\" id=\"b219-12\">\n<em>Overruling Demurrer with leave to answer, is. not final order to which error will lie.</em>\n</headnotes>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b219-13\">Dat, J.</author>\n<p id=\"b219-14\">The ruling of the court of comm\u00f3n pleas, sustaining the demurrer to the petition in this case, and granting leave to amend the pleading in ten days, is not a final order to which error will lie.</p>\n<p id=\"b219-15\">The petition in error is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

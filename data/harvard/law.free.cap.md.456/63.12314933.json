@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"63\" lastpage=\"63\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b95-5\" pgmap=\"95\">170 A.3d 295</citation><parties data-order=\"1\" data-type=\"parties\" id=\"Akv\" pgmap=\"95\">GILMORE, Larry v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AO6B\" pgmap=\"95\">Pet. Docket No. 177,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"Atz\" pgmap=\"95\">Sept.Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b95-8\" pgmap=\"95\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b95-9\" pgmap=\"95\">September 22, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b95-10\" pgmap=\"95\">Opinion of the Court of Special Appeals unreported (Nos. 2514 &amp; 2869, Sept.Term, 2015).</p> <p id=\"b95-11\" pgmap=\"95\">Petition for writ of certiorari dismissed</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

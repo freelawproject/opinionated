@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"919\" lastpage=\"920\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b915-10\">Claire Friedlander <em>v. </em>Henry Friedlander</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ABy\">(10789)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b915-11\">Dupont, C. J., Daly and Foti, Js.</p>\n<p data-order=\"3\" data-type=\"otherdate\" id=\"b915-12\">Argued December 2</p>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ARz1\">decision released December 22, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b916-3\"><page-number citation-index=\"1\" label=\"920\">*920</page-number><em>Henry Friedlander, </em>pro se, the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b916-4\"><em>Saul Kwartin, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b916-5\">Per Curiam.</author>\n<p id=\"AXy\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

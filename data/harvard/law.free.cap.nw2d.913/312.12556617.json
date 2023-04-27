@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"312\" lastpage=\"312\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Samuel Keith THURMAN, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 156768\n  <br/>\n  COA: 340296\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  July 3, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the October 11, 2017 order of the Court of Appeals is considered and, pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we REMAND this case to the Court of Appeals for consideration of whether the defendant's delayed application for leave to appeal was timely filed by virtue of the prison mailbox rule, MCR 7.205(A)(3).\n  </p>\n  <p id=\"p-7\">\n   We do not retain jurisdiction.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

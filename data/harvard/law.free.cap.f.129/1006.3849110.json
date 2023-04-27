@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1006\" lastpage=\"1006\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1042-9\">In re NEWMAN.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AWJE\">(Circuit Court of Appeals, First Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AvL\">April 26, 1904.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ADg\">No. 518.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Akz\">Adoniram J. Cushing, for petitioner. Henry C. Cram, for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AAi\">Before COLT and PUTNAM, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1042-10\">PER CURIAM.</author>\n<p id=\"A0lc\">Petition dismissed, without costs to either party.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

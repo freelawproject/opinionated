@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1422\" lastpage=\"1422\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b870-13\">\n<em>Wednesday, January 5, 1994</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b870-14\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b870-15\">93-2596.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Aie3\">State ex rel. Jaynes v. Ohio Dept. of Rehab.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Af0R\">On motion for injunctive relief. <em>Sua aponte, </em>cause dismissed.</p>\n<judges id=\"b870-16\">Douglas, Wright, Resnick and Pfeifer, JJ., concur.</judges>\n<judges id=\"b870-17\">Moyer, C.J., A.W. Sweeney and P.E. Sweeney, JJ., would deny the motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

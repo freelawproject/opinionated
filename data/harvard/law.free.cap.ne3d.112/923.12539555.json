@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"923\" lastpage=\"923\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  COLUMBUS CITY SCHOOLS BD. OF EDN.\n  <br/>\n  v.\n  <br/>\n  FRANKLIN CTY. BD. OF REVISION\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1299\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  November 28, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   PETITION TO TRANSFER\n  </strong>\n </p>\n <opinion id=\"p-6\">\n  On petition to transfer jurisdiction of Palmer House Borrower, L.L.C. Petition granted. The clerk shall issue an order for the transmittal of the records from the Court of Appeals for Franklin County and the Board of Tax Appeals, and the parties shall brief this case in accordance with the Rules of Practice of the Supreme Court of Ohio.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   O'DONNELL, J., dissents.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

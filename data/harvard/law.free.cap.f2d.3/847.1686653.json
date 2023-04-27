@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"847\" lastpage=\"847\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b877-4\">MIRROLIKE MFG. CO., Inc., Plaintiff Appellant, v. DEVOE &amp; RAYNOLDS CO., Inc., Respondent Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b877-5\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A66\">November 3, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b877-6\">No. 51.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b877-8\">James L. Steuart and Frank S. Moore, both of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b877-9\">William D. Gaillard and C. A. L. Massie, both of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b877-10\">Before ROGERS and MANTON, Circuit Judges, and LEARNED HAND, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b877-11\">PER CURIAM.</author>\n<p id=\"A1X\">Decree (3 F.[2d] 840) affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

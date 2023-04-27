@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"93\" lastpage=\"93\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b125-13\" pgmap=\"125\">171 A.3d 617</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AMaJ\" pgmap=\"125\">SUMO v. GARDA WORLD</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b125-16\" pgmap=\"125\">Pet. Docket No. 254,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"AcT\" pgmap=\"125\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"ApL7\" pgmap=\"125\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b125-17\" pgmap=\"125\">October 20, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b125-18\" pgmap=\"125\">Opinion of the Court of Special Appeals unreported (No. 1010, Sept. Term, 2016).</p> <p id=\"b125-19\" pgmap=\"125\">Petition for writ of certiorari denied.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

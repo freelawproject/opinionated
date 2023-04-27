@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1017\" lastpage=\"1017\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1049-12\">The ANCHORIA.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A9X\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AKy\">February 4, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Ac9u\">No. 80.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AyQ\">Appeal from the District Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A3v\">H. D. Marshall, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AdC\">W. H. Smith, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AfyU\">Before WALLACE, LACOMBE, and COXE, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1049-13\">PER CURIAM.</author>\n<p id=\"AgX\">Decree affirmed, with interest and costs, upon the opinion below. 113 Fed. 982.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

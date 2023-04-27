@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"581\" lastpage=\"582\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b637-44\">Ollle Otto PRINCE, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b637-46\">No. 12773.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b637-47\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b637-48\">March 20, 1950.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b638-3\"><page-number citation-index=\"1\" label=\"582\">*582</page-number>No Appearance entered for Appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AI_a\">Frank B. Potter, U. S. Atty., Fort Worth, Tex., Clyde G. Hood, Asst. U. S. Atty., Dallas, Tex., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b638-4\">Before HOLMES, McCORD, and BORAH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b638-5\">PER CURIAM.</author>\n<p id=\"b638-6\">The judgment appealed from is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

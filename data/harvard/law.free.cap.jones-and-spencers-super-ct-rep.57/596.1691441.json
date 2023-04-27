@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"596\" lastpage=\"596\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b616-7\">Dwight Ashley and Another, Appellants, <em>v. </em>James W. Whitney, <em>et al., </em>Respondents.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b616-8\">Decided May 6, 1889.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AKh\">Appeal from order denying plaintiffs\u2019 motion for a reference.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A2S\">Baldwin &amp; Blackmar, for appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AQv\">Arnoux, Ritch <em>&amp; </em>Wood-ford,. for respondents.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Arj6\">Before Freedman and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Axq\">Per Curiam:</author>\n<p id=\"Aeq\">The order appealed from should be affirmed with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

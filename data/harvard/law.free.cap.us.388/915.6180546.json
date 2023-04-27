@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b519-8\">No. 1612,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A7Z\">No. 1627,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Atr_\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"A2p\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AhAm\">Brown <em>v. </em>United States; and Jones <em>v. </em>United States.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Aq4\"><em>M. Michael Cramer </em>and <em>H. Thomas Sisk </em>for petitioner in No. 1612, Mise., and <em>Jean F. Dwyer </em>for petitioner in No. 1627, Mise.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A4f\"><em>Solicitor General Marshall, Assistant Attorney General Vinson </em>and <em>Beatrice Rosenberg </em>for the United States in both cases.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AcI\">C. A. D. C. Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

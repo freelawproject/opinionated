@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"503\" lastpage=\"503\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b535-4\" pgmap=\"535\">175 A.3d 141</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AzuF\" pgmap=\"535\">ANAND v. O\u2019SULLIVAN</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b535-7\" pgmap=\"535\">Pet. Docket No. 305,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"AWfs\" pgmap=\"535\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"Atg1\" pgmap=\"535\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b535-8\" pgmap=\"535\">December 15, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b535-10\" pgmap=\"535\">Petition for writ of certiorari denied</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

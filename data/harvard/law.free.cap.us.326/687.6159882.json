@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"687\" lastpage=\"687\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b775-9\">No. 34,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AbpP\">No. 35,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"As5\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"Azvs\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AqFH\">Johnson <em>v. </em>Utah; and Metter <em>v. </em>Zriskey et al.</parties>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"AUV\">October 15, 1945.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ao23\">The applications are denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

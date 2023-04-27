@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b861-2\">BENJAMIN F. GYADU <em>v. </em>PERLSTEIN AND AYARS, P.C., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b861-3\">(14917)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b861-4\">Dupont, C. J., and O\u2019Connell, Foti, Landau and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AVu\">Submitted on briefs June 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AWTM\">officially released July 16, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b861-6\">Per Curiam.</author>\n<p id=\"AVpg\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

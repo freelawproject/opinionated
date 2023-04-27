@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"281\" lastpage=\"281\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  James CHARLES\n </parties>\n <docketnumber id=\"p-2\">\n  No. 215P18\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  September 20, 2018.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Alvin William Keller, Jr., Assistant Attorney General, Greg Newman, District Attorney, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-6\">\n  M. Gordan Widenhouse, Jr., Attorney at Law, for Charles, James.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed on the 10th of July 2018 by Defendant in this matter for discretionary review of the decision of the North Carolina Court of Appeals pursuant to G.S. 7A-31, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 20th of September 2018.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

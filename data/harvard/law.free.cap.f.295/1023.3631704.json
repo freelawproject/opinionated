@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1045-3\">UNITED STATES ex rel. Stefano Trapini, Relator-Appellee, v. COMMISSIONER OF IMMIGRATION et al., Respondents-Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A2R\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A5lF\">January 25, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ANV\">No. 196.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AXal\">\u25a0William Hayward, U. S. Atty., of New York City (James C. Thomas, Asst, U. S. Atty., of New York City, of counsel), for appellant.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Ad0N\">Before ROGERS, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1045-5\">PER CURT AM.</author>\n<p id=\"AdTX\">Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

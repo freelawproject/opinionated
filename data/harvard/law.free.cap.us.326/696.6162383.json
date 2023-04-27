@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"696\" lastpage=\"696\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b784-3\">No. 76,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Axc\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Apy\">Stizza <em>v. </em>Essex County Juvenile and Domestic Relations Court.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AHO\">January 14, 1946.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Age\">The application is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b857-12\">DHIRENDRA P. MATHUR <em>v. </em>MARY JANE MATHUR</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b857-13\">(14297)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b857-14\">Foti, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b857-15\">Submitted on briefs June 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A0H\">officially released July 9, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b857-17\">Per Curiam.</author>\n<p id=\"AUt\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

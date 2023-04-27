@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1054-10\">UNITED STATES v. OIL SEEDS PRESSING CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ATrs\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A3t\">February 2, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ABeR\">No. 91.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Azb\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ABT-\">J. Frank Lloyd, for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"Ajk3\">Before WALLACE, LACOMBE, and COXE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A6-\">No opinion. Affirmed in open court. See (C. C.) 114 Fed. 793.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"599\" lastpage=\"599\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b615-4\">No. 12,130.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b615-5\">People ex rel. Colorado Bar Association <em>v. </em>Lindsey.</parties>\n<p data-order=\"2\" data-type=\"court\" id=\"b615-6\">(... P. [2d] ...)</p>\n<court data-order=\"3\" data-type=\"court\" id=\"b615-8\">\n<em>En Banc.</em>\n</court>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b615-9\">It is ordered by the court, on its own motion, that the respondent, Ben B. Lindsey, be, and he is hereby, reinstated in the office of attorney and counselor at law, and that his name be, and it is hereby, restored to the roll of attorneys and counselors at law.</p>\n<p id=\"b615-10\">Mr. Justice Campbell dissents.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

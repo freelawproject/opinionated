@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1465\" lastpage=\"1465\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AKqm\">\n<em>Wednesday, April 28, 1993</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A9O\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ARMV\">92-1754.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"APqH\">Jones v. Morris.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlCa\">In Mandamus. On motion to dismiss and on motion for summary judgment. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"AIx2\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

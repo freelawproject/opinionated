@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"470\" lastpage=\"471\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b530-38\">Cecil MORRIS v. Robert H. HUDSPETH, Warden, United States Penitentiary, Leavenworth, Kansas.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b530-39\"><em>No. </em>2518.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b530-40\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AS5\">March 7, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AMj\">No appearance for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b531-3\"><page-number citation-index=\"1\" label=\"471\">*471</page-number>Homer Davis, Asst. U. S. Atty., of Topeka, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b531-4\">Before PHILLIPS, Circuit Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b531-5\">PER CURIAM.</author>\n<p id=\"b531-6\">Appeal dismissed on motion of appellee, for failure diligently to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

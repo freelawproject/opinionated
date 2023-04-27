@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"900\" lastpage=\"900\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b948-31\">Muriel LOOFBURROW v. Eldon MILLER.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b948-32\">No. 3865.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b948-33\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ALe\">Feb. 28, 1949.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b948-35\">Claude L. Rice, of Kansas City, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b948-36\">N. E. Snyder, James L. Hogin, and Blake A Williamson, all of Kansas City, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b948-37\">Before PPIILLIPS, Chief Judge, and HUXMAN andMURRAH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b948-41\">PER CURIAM.</author>\n<p id=\"b948-42\">Docketed and dismissed, on motion of ap-pellee, for failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

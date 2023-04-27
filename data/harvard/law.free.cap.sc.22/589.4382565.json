@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"589\" lastpage=\"589\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b599-4\">No. 1661.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Au0\">Collins v. Roumillat.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"ANm\">November Term, 1884.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AJ0\">March 3, 1885.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AvB\"><em>A. Gr.,Magrath Son, </em>for the motion. <em>W.M. Thomas, </em>contra.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APb\">Opinion by</p>\n<author id=\"AhH4\">Mr. Justice McGowan,</author>\n<p id=\"AGR\">This was an order dismissing an appeal on motion, because (1) the exceptions to the rulings during the trial, and to the order refusing a new trial, had not been furnished to the presiding judge; and (2) the Brief presented to this court was not the case as settled, and was not in compliance with the requirements of rule Y.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

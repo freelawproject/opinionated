@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1026-3\">Beulah ALLEN, Guardian, v. Sarah FIXICO et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1026-4\">No. 1071.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1026-5\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A6o\">April 1, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1026-7\">W. M. Gulager, of Muskogee, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1026-8\">Wall, Winsor <em>&amp; </em>Boyer, of Wichita, Kan., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1026-9\">Before PHILLIPS, McDERMOTT, and BRATTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1026-10\">PER CURIAM.</author>\n<p id=\"b1026-11\">Appeal dismissed for failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

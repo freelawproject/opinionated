@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"86\" lastpage=\"86\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b118-5\" pgmap=\"118\">171 A.3d 614</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AEz\" pgmap=\"118\">DAVIS, Roy Sharonnie, III v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AGI\" pgmap=\"118\">Pet. Docket No. 216,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"Abx\" pgmap=\"118\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b118-9\" pgmap=\"118\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b118-10\" pgmap=\"118\">October 20, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b118-11\" pgmap=\"118\">Opinion of the Court of Special Appeals unreported (No. 1134, Sept. Term, 2016).</p> <p id=\"b118-12\" pgmap=\"118\">Petition for writ of certiorari denied.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

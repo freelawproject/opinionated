@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"753\" lastpage=\"753\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b793-2\">Supreme Court \u2014 Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AZb\">November, 1896.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b793-3\">Before Daly, P. J., McAdam and Bischoff, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b793-4\">Franklin J. Minck, Respondent, v. Melanie Levey, Appellant.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AsH\">Appeal from orders of the Special and General Terms of the City Court denying motion to vacate an attachment.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A71\">I. Henry Harris, for Appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Ahr\">Richard Marvin, for Respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABs0\">Orders affirmed upon argument.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

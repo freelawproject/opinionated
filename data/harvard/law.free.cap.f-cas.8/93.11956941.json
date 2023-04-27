@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"93\" lastpage=\"93\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b95-5\">Case No. 4,170.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b95-6\">DUNLOP et al. v. WEST.</parties>\n<p data-order=\"2\" data-type=\"citation\" id=\"b95-7\">[Brunner, Col. Cas. 27;<footnotemark>1</footnotemark></p>\n<citation data-order=\"3\" data-type=\"citation\" id=\"A6Nj\">2 Hayw. N. C. 346.]</citation>\n<court data-order=\"4\" data-type=\"court\" id=\"b95-8\">Circuit Court, D. North Carolina.</court>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"AeM\">1805.</decisiondate>\n<footnote data-order=\"6\" data-type=\"footnote\" id=\"x999-1\" label=\"1\">\n<p id=\"b95-23\"> [Reported by Albert Brunner, Esq., and here reprinted by permission.]</p>\n</footnote>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"b95-11\">PER CURIAM.</author>\n<p id=\"Al8\">If the sheriff or marshal seizes property in execution, and neglects to sell it, and is sued for his neglect, the plaintiff-shall recover damages to the amount of what the property would have produced had he sold it</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

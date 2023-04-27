@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-15\">John KOVALSKY, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1044-17\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1044-18\">May 17, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1044-19\">No. 328.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1044-21\">Frederick W. Lahr, of St. George, S. I., N. Y., for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1044-22\">William A. De Groot, U. S. Atty., of Brooklyn, N. Y. (H. H. Kellogg, Asst. U. S. Atty., of Brooklyn, N. Y., of counsel), for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1044-23\">Before HOUGH, MANTON, and MACK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-24\">PER CURIAM.</author>\n<p id=\"AxWr\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

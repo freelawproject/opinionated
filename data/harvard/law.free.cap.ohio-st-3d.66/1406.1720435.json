@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1406\" lastpage=\"1406\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"APaa\">\n<em>Wednesday, February 3, 1993</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"ACR\">JURISDICTIONAL MOTIONS ALLOWED</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Adq\">92-2013.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Aue\">Reid, Johnson, Downes, Andrachik &amp; Webster v. Lansberry.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AsT\"><em>Summit County, </em>No. 15449.</p>\n<judges id=\"AhqC\">A.W. Sweeney, Resnick and Pfeifer, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

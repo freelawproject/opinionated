@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"505\" lastpage=\"505\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b537-12\" pgmap=\"537\">175 A.3d 142</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AMU\" pgmap=\"537\">CARTER v. BLUMBERG</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b537-15\" pgmap=\"537\">Pet. Docket No. 324,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"A5nn\" pgmap=\"537\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"AUgO\" pgmap=\"537\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b537-16\" pgmap=\"537\">December 15, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b537-17\" pgmap=\"537\">Dismissed by the Court of Special Appeals (No. 2235, Sept.Term, 2016).</p> <p id=\"b537-18\" pgmap=\"537\">Petition for writ of certiorari denied</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

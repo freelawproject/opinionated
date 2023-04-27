@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"62\" lastpage=\"62\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b94-4\" pgmap=\"94\">170 A.3d 294</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AC0\" pgmap=\"94\">ESTATE OF ADAMS v. CONTINENTAL INSURANCE CO.</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Arx\" pgmap=\"94\">Pet. Docket No. 201,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"AMy\" pgmap=\"94\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b94-7\" pgmap=\"94\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"Als\" pgmap=\"94\">September 22, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"Ava\" pgmap=\"94\">Petition for writ of certiorari denied</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1037-12\">DETROIT FIDELITY &amp; SURETY COMPANY, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AbP\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1038-3\"><page-number citation-index=\"1\" label=\"1016\">*1016</page-number>January 23, <em>1924.)</em></decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A46v\">\n<em>No. 180.</em>\n</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ADn\">E. J. McCrossin and Felder <em>&amp; </em>McCrossin, all of New York City, for plaintiff in error.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AY6b\">Before HOUGH, MANTON, and MAYER, Circuit Judges. .</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1038-4\">PER CURIAM.</author>\n<p id=\"AfJ\">Judgment affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

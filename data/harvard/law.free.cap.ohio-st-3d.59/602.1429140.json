@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"602\" lastpage=\"602\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b250-3\">In re Resignation of Lautzenheiser.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b250-4\">[Cite as In re Resignation of Lautzenheiser (1991), 59 Ohio St. 3d 602.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b250-5\">(No. 91-510</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A1zn\">Submitted April 9, 1991</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZ2\">Decided April 17, 1991.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b250-6\">The resignation of Patricia Lautzenheiser as an attorney is accepted.</p>\n<judges id=\"Amj\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

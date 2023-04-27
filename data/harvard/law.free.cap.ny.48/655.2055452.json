@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"655\" lastpage=\"655\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b673-13\">Thomas Murray, Respondent, <em>v. </em>The Hudson River Railroad Company, Appellant.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b673-14\">(Argued May 12,1871;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A5n\">decided September term, 1871.)</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b673-15\"><em>John H. Reynolds </em>for the appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b673-16\"><em>Amasa J. PaJker </em>for the respondent.</attorneys>\n<p data-order=\"5\" data-type=\"attorneys\" id=\"b673-17\">For affirmance, Eabl, G-bay and Hunt, CO.</p>\n<p data-order=\"6\" data-type=\"attorneys\" id=\"b673-18\">For reversal, Lott, Ch. C., and Leonabd, C.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b673-19\"><em>No </em>opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

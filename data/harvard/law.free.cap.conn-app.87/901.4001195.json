@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b859-2\">STATEWIDE GRIEVANCE COMMITTEE <em>v. </em>JAMES A. MCGEE, JR.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b859-3\">(AC 24742)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b859-4\">Lavery, C. J., and Flynn and Berdon, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b859-5\">Argued January 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AvHA\">officially released February 1, 2005</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b859-7\">Per Curiam.</author>\n<p id=\"afv-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

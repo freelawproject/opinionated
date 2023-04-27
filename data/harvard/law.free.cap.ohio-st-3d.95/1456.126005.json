@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1456\" lastpage=\"1456\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"citation\" id=\"Ae-\">[Cite as <em>5/15/2002 Case Announcements, </em>2002-0hio-2230.]</p>\n<p data-order=\"1\" data-type=\"court\" id=\"AVHv\">CASE ANNOUNCEMENTS AND ADMINISTRATIVE ACTIONS</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Azgp\">\n<em>May 15, 2002</em>\n</decisiondate>\n<p data-order=\"3\" data-type=\"attorneys\" id=\"AV4l\">MERIT DECISIONS WITHOUT OPINIONS</p>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"Avfb\">2002-0514.</docketnumber>\n<parties data-order=\"5\" data-type=\"parties\" id=\"AHFh\">State ex rel. Belcastro v. Court of Appeals, Eighth Appellate Dist.</parties>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYE\">In Procedendo. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"A5h\">Douglas, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n<judges id=\"A78v\">Moyer, C.J., and Lundberg Stratton, J., dissent and would grant an alternative writ.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

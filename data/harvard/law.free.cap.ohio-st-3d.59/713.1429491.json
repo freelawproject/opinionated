@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"713\" lastpage=\"713\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<otherdate data-order=\"0\" data-type=\"otherdate\" id=\"A2T\">Wednesday, April 24, 1991</otherdate>\n<p data-order=\"1\" data-type=\"misc\" id=\"A7V\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ACq\">87-1985.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AqBb\">State v. Bradley.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_1\"><em>Scioto County, </em>No. 1583. On motion to produce/transmit record. Motion denied.</p>\n<judges id=\"ALF\">Wright, H. Brown and Resnick, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

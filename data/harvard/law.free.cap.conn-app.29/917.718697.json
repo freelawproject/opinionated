@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"917\" lastpage=\"917\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b913-6\">Alicia M. Cavanagh <em>v. </em>Lawrence Cavanagh, Executor (Estate of Alicia L. Cavanagh), et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b913-7\">(9856)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b913-8\">Daly, Foti and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b913-9\">Argued November 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AhHH\">decision released December 1, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b913-11\"><em>Joseph P. Secola </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b913-12\"><em>David D. Legere, </em>with whom, on the brief, were <em>Shelley R. Halber, Robert P. Dolian </em>and <em>William H. Narwold, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b913-13\">Per Curiam.</author>\n<p id=\"Ayh\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

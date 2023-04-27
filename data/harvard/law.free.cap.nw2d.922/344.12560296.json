@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"344\" lastpage=\"344\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  RAINBOW CONSTRUCTION, INC., Plaintiff/Counterdefendant-Appellant/Cross-Appellee,\n  <br/>\n  v.\n  <br/>\n  TOWNSHIP OF HOWELL, Defendant/Counterplaintiff-Appellee/Cross-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157206-9\n  <br/>\n  COA: 332621\n  <br/>\n  333336\n  <br/>\n  335140\n  <br/>\n  335142\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  February 4, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the motion for reconsideration of this Court's July 3, 2018 order is considered, and it is DENIED, because it does not appear that the order was entered erroneously.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

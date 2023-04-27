@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"800\" lastpage=\"800\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b878-8\">No. 665,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AK1\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ab5c\">Austin <em>v. </em>Florida.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A1uf\">Petitioner <em>pro se. Earl Faircloth, </em>Attorney General of Florida, and <em>James G. Mahomer, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AyX\">Sup. Ct. Fla. Certiorari denied without prejudice to an application for a writ of habeas corpus in the appropriate United States District Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

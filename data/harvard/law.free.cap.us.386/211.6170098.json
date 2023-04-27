@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"211\" lastpage=\"211\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b289-10\">BOGART <em>v. </em>REAGAN, GOVERNOR OF CALIFORNIA, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b289-12\">No. 1044,</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"ABq\">Mise.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ADQ\">Decided February 27, 1967.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b289-14\"><em>Peter D. Bogart, </em>appellant, <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b289-15\"><em>Warren M. Christopher </em>for appellee State Bar of California.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b289-16\">Per Curiam.</author>\n<p id=\"b289-17\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. The request for other relief is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

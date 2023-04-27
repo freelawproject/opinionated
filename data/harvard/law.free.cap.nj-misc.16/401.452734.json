@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"401\" lastpage=\"401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b409-3\">IN THE MATTER OF DANIEL A. MARINARO FOR LEAVE TO TAKE THE BAR EXAMINATIONS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b409-4\">Argued May 3, 1938</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJI\">Decided June 4, 1938.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b409-6\">Before Justices Trenchard, Parker and Perskie.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b409-7\">For the applicant, <em>Frank C. Scerbo.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b409-8\">For the Morris County Bar Association, <em>Elmer </em>King, <em>Jr.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b409-9\">Per Curiam.</author>\n<p id=\"b409-10\">The application is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

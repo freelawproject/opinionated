@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1040-9\">PARTOLA MANUFACTURING COMPANY, Plaintiff in Error, v. William SCHIELD et al., Individually, etc., Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Aa0\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AGV\">January 21, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AqCI\">No. 178.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Afa5\">Hovell, McChesney &amp; Clarkson, of Brooklyn, N. Y. (Sidney A. Clarkson and Albert A. Hovell, both of Brooklyn, N. Y., of counsel), for plaintiff in error. Arnold Lichtig, of New York City (Arnold Lichtig and Herbert'A. Mossier, both of New York City, of counsel), for defendants in error.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AyUS\">Before ROGERS, HOUGH, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1040-10\">PER CURIAM.</author>\n<p id=\"AIB1\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

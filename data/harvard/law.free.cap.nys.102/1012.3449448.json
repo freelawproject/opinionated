@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1012\" lastpage=\"1012\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<citation data-order=\"0\" data-type=\"citation\" id=\"b1032-5\">(118 App. Div. 897)</citation>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b1032-6\">QUINLAN v. CITY OF NEW YORK.</parties>\n<court data-order=\"2\" data-type=\"court\" id=\"b1032-7\">(Supreme Court, Appellate Division, Second Department.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A3o\">March 1, 1907.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1032-8\">Appeal from Trial Term, Kings County.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b1032-9\">Action by Annie L,. Quinlan against the city of New York. Judgment for plaintiff, and defendant appeals. Affirmed.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1032-10\">Argued before JENKS, HOOKER, GAYNOR, and MILLER, JJ.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1032-11\">PER CURIAM.</author>\n<p id=\"AUu\">Judgment unanimously affirmed, with costs, on the authority of Gravey v. City of New York (decided herewith) 102 N. Y. Supp. 1010.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

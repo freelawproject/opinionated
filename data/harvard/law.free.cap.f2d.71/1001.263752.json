@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"1\" data-type=\"parties\" id=\"b1029-33\">COMMISSIONER OF INTERNAL REVENUE v. RAY OIL COMPANY.</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b1029-34\">No. 1081.</docketnumber>\n<court data-order=\"3\" data-type=\"court\" id=\"b1029-35\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b1029-36\">April 24, 1934.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1029-38\">Robert H. Jackson, Gen. Counsel, Bureau of Internal Revenue, of Washington, D. C., for petitioner.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1029-39\">J. G. Beavens, of Oklahoma City, Okl., for respondent.</attorneys>\n<p data-order=\"0\" data-type=\"judges\" id=\"b1029-17\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1029-18\">PER CURIAM.</author>\n<p id=\"b1029-19\">Petition for review dismissed April 24, 1934, on motion of petitioner.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

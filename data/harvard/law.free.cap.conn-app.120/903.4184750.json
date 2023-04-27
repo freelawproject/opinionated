@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b891-2\">ERIBERTO DELEON <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ain-dedup-0\">(AC 29679)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b891-3\">Bishop, Beach and West, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b891-4\">Argued April 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aij-dedup-0\">officially released May 4, 2010</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b891-6\">Per Curiam.</author>\n<p id=\"ApK\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

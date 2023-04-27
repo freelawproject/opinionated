@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"485\" lastpage=\"486\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b507-8\" pgmap=\"507\">James J. McCauley, Administrator, Appellee, v. Augusta Peters et al. Walter Haertel, Appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b507-9\" pgmap=\"507\">Gen. No. 9,530.</docketnumber><p data-order=\"2\" data-type=\"p\" id=\"AMi\" pgmap=\"507\">(Abstract of Decision.)</p><court data-order=\"3\" data-type=\"court\" id=\"AWy\" pgmap=\"508\">Heard in this court at February term, 1940;</court><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"APo\" pgmap=\"508\">opinion filed May 15, 1940.</decisiondate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Avk\" pgmap=\"508\">Marcus J. Sternberg, for appellant; D. T. Smiley, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"A275\" pgmap=\"508\">Opinion by Justice Dove.</author> <p id=\"Aqy\" pgmap=\"508\">\u201cNot to be published in fuH.\u2019\u2019</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

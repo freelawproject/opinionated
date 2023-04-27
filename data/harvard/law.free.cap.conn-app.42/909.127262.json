@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b861-11\">MICHAEL SCHOFF <em>v. </em>XENELIS CONSTRUCTION COMPANY, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b861-12\">(14736)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b861-13\">Dupont, C. J., and Landau and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b861-14\">Submitted on briefs June 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aig\">officially released July 16, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b861-16\">Per Curiam.</author>\n<p id=\"A4H\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

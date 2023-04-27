@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"107\" lastpage=\"107\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b131-5\">DOERFLER v. POTTBERG et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b131-6\">(Supreme Court, Appellate Division, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AzK\">December 10, 1915.)</decisiondate>\n<summary data-order=\"3\" data-type=\"misc\" id=\"AFD\">Appeal from Special Term, Kings County.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b131-7\">Action by Abraham Doeriler against Sarah E. Pottborg and others. From an order, certain defendants appeal.</summary>\n<disposition data-order=\"5\" data-type=\"disposition\" id=\"AnJ\">Affirmed.</disposition>\n<p data-order=\"6\" data-type=\"judges\" id=\"b131-8\">Argued before JKNKS, P. J., and CARR, STAPLETON, MILLS, and PUTNAM, ,1,1.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b131-9\">PER CURIAM.</author>\n<p id=\"Aj3S\">Order affirmed, without costs, but without prejudice to further application to the Special Term. See Isabella R. Doerfler v. Pottberg, 156 N. Y. Supp. 106, decided herewith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

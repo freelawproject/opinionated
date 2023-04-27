@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"884\" lastpage=\"884\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE: HARRIER TRUST\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-CC-1467\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  February 18, 2019\n </decisiondate>\n <history id=\"p-5\">\n  ON SUPERVISORY WRITS TO THE FOURTEENTH JUDICIAL DISTRICT COURT, PARISH OF CALCASIEU\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n   <footnotemark>\n    *\n   </footnotemark>\n  </author>\n  <p id=\"p-7\">\n   Granted in part. Considering the unique facts presented in this case and in the exercise of our plenary authority pursuant to La. Const. Art. V, \u00a7 5 (A), we find the interests of justice warrant the appointment of a judge ad hoc to preside over this matter. The specific appointment will be made in a separate order accompanying this opinion. Because this appointment renders the recusal issues moot, the applications are denied in all other respects.\n  </p>\n  <p id=\"p-8\">\n   GENOVESE, J., recused.\n  </p>\n  <footnote label=\"*\">\n   <p id=\"p-11\">\n    Genovese, J. recused.\n   </p>\n  </footnote>\n </opinion>\n</casebody>\n"
+  }
+}

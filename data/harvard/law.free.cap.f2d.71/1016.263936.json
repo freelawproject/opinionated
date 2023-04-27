@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-19\">Ex parte In the Matter of STATE OF LOUISIANA, Robert S. Maestri, Commissioner of Conservation of the State of Louisiana.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1044-20\">No. 7432.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1044-21\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ah7\">June 25, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1044-23\">Gaston L. Porterie, Atty. Gen. of Louisiana, E. Howard M\u2019Caleb and E. Howard M\u2019Caleb, Jr., Sp. Assts. to Atty. Gen. of Louisiana, for petitioner.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1044-24\">Before BRYAN, POSTER, and SIBLEY, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-25\">PER CURIAM.</author>\n<p id=\"b1044-26\">The petition for the writ of prohibition or mandamus in the above-entitled cause is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

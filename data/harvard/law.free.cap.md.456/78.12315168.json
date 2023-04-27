@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"78\" lastpage=\"78\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b110-13\" pgmap=\"110\">171 A.3d 610</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AQ2\" pgmap=\"110\">CHRISTIAN v. MATERNAL-FETAL MEDICINE ASSOC. OF MD.</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b110-16\" pgmap=\"110\">Pet. Docket No. 247,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"ATG\" pgmap=\"110\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"AP-m\" pgmap=\"110\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b110-17\" pgmap=\"110\">October 10, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b110-18\" pgmap=\"110\">Opinion of the Court of Special Appeals unreported (No. 13, Sept. Term, 2015).</p> <p id=\"b110-19\" pgmap=\"110\">Petition for writ of certiorari granted. Transferred to the regular docket as No. 51, Sept. Term, 2017.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

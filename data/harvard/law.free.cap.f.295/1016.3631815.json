@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1017\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1038-15\">Ludwig HAAS, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Arak\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AU1Q\">February 18, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AmmM\">No. 243.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AJF\"><page-number citation-index=\"1\" label=\"1017\">*1017</page-number>William E. Kennedy, of New York City, for plaintiff in error. Ralph C. Greene, U. S. Atty., of Brooklyn, N. Y. (Wm. A. De Groot, Asst. U. S. Atty., of Brooklyn, N. Y., of counsel), for the United States.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Atp\">Before ROGERS, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1039-4\">PER CURIAM.</author>\n<p id=\"ATrg\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

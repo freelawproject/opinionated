@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1011\" lastpage=\"1011\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1047-33\">Arthur CORKUM, Respondent, v. PANAMA RAILROAD COMPANY, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1047-34\">No. 39.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1047-35\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1047-36\">Oct. 19, 1936.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1047-38\">Thomas J. Maginnis, of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1047-39\">Paul C. Matthews, of New York City (Archibald F. McGrath, of New York City, of counsel), for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1047-40\">Before MANTON, L. HAND, and SWAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1047-41\">PER CURIAM.</author>\n<p id=\"b1047-42\">Judgment affirmed on the authority of Fairmount Glass Works v. Cub Fork Coal Co., 287 U.S. 474, 53 S.Ct. 252, 77 L.Ed. 439.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

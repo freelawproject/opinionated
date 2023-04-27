@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b877-2\">IN RE PATRICIA I.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b877-3\">(AC 29038)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b877-4\">DiPentima, Harper and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b877-5\">Argued September 10</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AIL\">officially released October 14, 2008</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b877-7\">Per Curiam.</author>\n<p id=\"AOq\">The judgment is affirmed. <em>Glastonbury Volunteer Ambulance Assn., Inc. </em>v. <em>Freedom of Information Commission, </em>227 Conn. 848, 633 A.2d 305 (1993).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1052-6\">MANNHEIM INS. CO. v. HOLLANDER.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ARQE\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ARD\">March 12, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A8g\">No. 148.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AE4\">Appeal from the District Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Apo\">F. M. Brown, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AqVa\">Eustace Conway, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"Av_\">Before WALLACE, LACOMBE, and COXE, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AIV\">No opinion. Decree affirmed, with interest and. costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

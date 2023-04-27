@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1046-3\">AMERICAN STEAMSHIP CO. v. INDEMNITY MUT. MARINE ASSUR. CO., Limited. SAME v. MANNHEIM INS. CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Ab5\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ApL\">June 16, 1902.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AmO\">Nos. 119, 137.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A5e\">Appeals from the District Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ao2\">Wilhelmus Mynderse, for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A9U\">Harrington Putnam, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"ABD\">Before LACOMBE and TOWNSEND, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1046-4\">PER CURIAM.</author>\n<p id=\"ASr\">Decrees (108 Fed. 421) affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

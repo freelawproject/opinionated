@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b904-2\">The Finance Discount Company <em>v. </em>Rose T. Neary et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b904-4\">(11005)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b904-5\">Dupont, C. J., O\u2019Connell and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b904-6\">Submitted on briefs September 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A-t\">decision released October 20, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b904-8\"><em>Richard B. Laschever </em>filed a brief for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b904-9\"><em>Neil E. Atlas </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b904-10\">Per Curiam.</author>\n<p id=\"AvV\">The judgment is affirmed and the case is remanded for the purpose of setting new law days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

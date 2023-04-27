@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"118\" lastpage=\"118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE LOUIS G. BASSO, JR., REVOCABLE LIVING TRUST.\n </parties>\n <parties id=\"p-2\">\n  Mary Angela Basso, Appellant,\n  <br/>\n  v.\n  <br/>\n  Thomas Brennan Fraser, Successor Trustee, and Ronald M. Barron, Trustee, Appellees.\n </parties>\n <docketnumber id=\"p-3\">\n  SC: 158629\n  <br/>\n  COA: 337321\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  February 4, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Court, the motion for immediate consideration is GRANTED. The application for leave to appeal the September 20, 2018 judgment of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

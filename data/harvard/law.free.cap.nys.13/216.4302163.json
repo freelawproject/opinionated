@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"216\" lastpage=\"216\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b234-7\">Brennan <em>v. </em>Beck et <em>al.; </em>People <em>ex rel. </em>Brennan <em>v. </em>Common Council of City of Kingston.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Aivl\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A6X\">February 4, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AlN\">Appeal from special term, Ulster county.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b234-9\">Argued before Learned, P. J., and Landon and Mayham, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b234-10\"><em>G. D. B. Basbrouck, </em>for appellant. <em>John F. Cloonan, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b234-11\">Landon, J.</author>\n<p id=\"Az2Y\">Upon above opinion <em>(Halloran </em>v. <em>Carter, </em>ante, 214,) same orders as above. All concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

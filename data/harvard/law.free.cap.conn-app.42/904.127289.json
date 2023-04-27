@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b856-2\">FLORENCE KRONDES ET AL. <em>v. </em>WILLIAM O\u2019BOY ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b856-3\">(15075)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b856-4\">SchaUer, Spear and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b856-5\">Argued May 31</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A1qH\">officially released July 2, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b856-7\">Per Curiam.</author>\n<p id=\"A42g\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

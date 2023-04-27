@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"202\" lastpage=\"202\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b220-13\">Morris <em>v. </em>Carmichael <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b220-14\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A8T\">February 18, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"Ab2\">Appeal from special term, Montgomery county.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b220-15\">Argued before Landon and Mayham, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b220-16\"><em>Moak &amp; Buchanan, {C. J. Buchanan, </em>of counsel,) for appellant. <em>W. L. Van Denbergh, {E. Countryman, </em>of counsel,) for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b220-17\">Landon, J.</author>\n<p id=\"A-A\">This order is like the foregoing, <em>{Bank </em>v. <em>McFarlan, ubi supra,) </em>and is for the same reasons affirmed, with $10 costs and printing disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

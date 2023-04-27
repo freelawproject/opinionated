@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"593\" lastpage=\"594\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Anh Viet THAI.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 7PA06.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  February 23, 2007.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Q. Shante Martin, Assistant Attorney General, Peter S. Gilchrist, III, District Attorney, for State of NC.\n </attorneys>\n <opinion id=\"p-6\">\n  The following order has been entered on the motion filed on the 23rd day of February 2007 by Defendant for Extension of Time to File Brief:\n </opinion>\n <opinion id=\"p-7\">\n  \"Motion Allowed. Defendant (Anh Viet Thai) shall have up to and including the 2nd day of March 2007 to file and serve his/her brief with this Court. By order of the Court in conference this the 23rd day of February 2007.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Justice HUDSON recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

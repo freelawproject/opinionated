@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1041-41\">Arthur Y. DALZIEL, as Trustee, etc., Plaintiff-Appellee, v. PACIFIC BANK, Defendant-Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1041-42\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJAo\">May 6, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1041-43\">No. 329.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1042-3\"><page-number citation-index=\"1\" label=\"1014\">*1014</page-number>Blumenstiel &amp; Blumenstiel, of New York City (A. Blumenstiel, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1042-4\">David Haar, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1042-5\">Before HOUGH, MANTON, and MACK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1042-6\">PER CURIAM.</author>\n<p id=\"Aptc\">Affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

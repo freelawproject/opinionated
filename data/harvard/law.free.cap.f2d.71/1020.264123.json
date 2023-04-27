@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1048-10\">UNITED STATES of America v. Chester D. HOLMAN, Administrator.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1048-11\">No. 1080.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1048-12\">Circuit Court of Appeals, Tenth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AQoK\">April 24, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1048-14\">L. E. Wyman, Asst. U. S. Atty., of Topeka, Kan., for the--United States.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1048-15\">Lee Bond, of Leavenworth, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1048-16\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1048-17\">PER CURIAM.</author>\n<p id=\"b1048-18\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

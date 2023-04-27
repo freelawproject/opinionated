@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1169\" lastpage=\"1170\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Fernando FORTANEZ, petitioner,\n  <br/>\n  v.\n  <br/>\n  TIME WARNER CABLE, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 15-7143.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Feb. 29, 2016.\n </decisiondate>\n <opinion id=\"p-5\">\n  Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.\n </opinion>\n <opinion id=\"p-6\">\n  THE CHIEF JUSTICE took no part in the consideration or decision of this petition.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

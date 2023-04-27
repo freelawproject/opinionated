@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"440\" lastpage=\"440\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Troy TAYLOR\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-KH-1317\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  February 25, 2019\n </decisiondate>\n <summary id=\"p-5\">\n  <strong>\n   ON RECONSIDERATION\n  </strong>\n </summary>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Reconsideration Denied.\n  </p>\n  <judges id=\"p-7\">\n   HUGHES, J., would grant and assigns reasons.\n  </judges>\n  <author id=\"p-8\">\n   Hughes, J., would grant reconsideration.\n  </author>\n  <p id=\"p-9\">\n   Respectfully, given the odyssey this case has taken, the trial court is in the best position to determine whether defendant was properly re-indicted after his original convictions were overturned.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

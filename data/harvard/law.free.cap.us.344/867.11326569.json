@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"867\" lastpage=\"867\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b775-9\">No. 101,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AFPW\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Al_\">Sellers <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A_uF\"><em>Anthony P. Nugent </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AvOm\"><em>Acting Solicitor General Stern, Assistant Attorney General Murray, Beatrice Rosenberg </em>and <em>Robert G. May sack </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAC\">C. A. 10th Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

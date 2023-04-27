@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"695\" lastpage=\"695\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b783-3\">No. 65,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ayr\">No. 69,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AFq\">No. 71,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"AfZ\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"AhQ\">Misc.</p>\n<p data-order=\"5\" data-type=\"misc\" id=\"An5T\">Misc.</p>\n<parties data-order=\"6\" data-type=\"parties\" id=\"AFin\">In re Edmondson; Johnson <em>v. </em>John Hancock Mutual Life Insurance Co. et al.; and Durkin <em>v. </em>Clark, Attorney General.</parties>\n<decisiondate data-order=\"7\" data-type=\"decisiondate\" id=\"ADF\">January 2, 1946.</decisiondate>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVqy\">The applications are denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1401\" lastpage=\"1401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AHRY\">\n<em>March 28, 2002</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"A_d\">MEDIATION REFERRALS</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A3ny\">02-148.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A_1\">State ex rel. Devore Roofing &amp; Painting Co. v. Indus. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2Pq\">The following cases have been referred to mediation pursuant to S.CtPrac.R. XIV(6):</p>\n<p id=\"ATyi\">Franklin App. No. 01AP-69.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

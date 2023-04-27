@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"17\" lastpage=\"17\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b105-4\">KING et <em>al. v. </em>KING et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b105-6\">No. 153,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AHH\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Azf\">Decided October 14, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b105-9\">Appellants <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b105-10\"><em>William K. Meadow </em>and <em>Robert B. Troutman </em>for appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b105-11\">Per Curiam.</author>\n<p id=\"b105-12\">The motion \u2018to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

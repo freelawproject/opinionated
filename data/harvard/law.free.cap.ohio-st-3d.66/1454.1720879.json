@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1454\" lastpage=\"1454\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AY37\">\n<em>Wednesday, April 14, 1993</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A6ZN\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AYv\">92-1888.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A0qS\">State ex rel. Ohio Civ. Serv. Emp. Assn. v. Trimble.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Af7\">In Mandamus. <em>Sua sponte, </em>cause dismissed for want of prosecution.</p>\n<judges id=\"A8tG\">A.W. Sweeney, Wright, P.E. Sweeney and Pfeifer, JJ., concur.</judges>\n<judges id=\"APsn\">Moyer, C.J., Douglas and Resnick, JJ., dissent and would issue a show cause order.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

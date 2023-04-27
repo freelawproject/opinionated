@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"70\" lastpage=\"70\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b102-4\" pgmap=\"102\">170 A.3d 298</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AVU\" pgmap=\"102\">MUA v. CALIFORNIA CASUALTY INDEMNITY EXCHANGE</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ADn\" pgmap=\"102\">Pet. Docket No. 212,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"ACk\" pgmap=\"102\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"AeL\" pgmap=\"102\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b102-6\" pgmap=\"102\">September 22, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b102-7\" pgmap=\"102\">Dismissed by the Court of Special Appeals (No. 1534, Sept.Term, 2016).</p> <p id=\"b102-8\" pgmap=\"102\">Petition for writ of certiorari denied</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

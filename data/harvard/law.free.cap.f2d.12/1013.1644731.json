@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1041-30\">In the Matter of COATES, BENNETT <em>&amp; </em>REIDENBACH, Inc., Bankrupts. Genessee Valley Trust Company, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1041-33\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aqzh\">May 14, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1041-34\">No. 370.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1041-36\">Peck &amp; Whitbeek and E. C. Whitbeck, all of Rochester, N. Y., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1041-37\">Hubbell, Taylor, Goodwin &amp; Moser and C. L. Clinton, all of Rochester, N. Y., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1041-38\">Before ROGERS, MANTON, and HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1041-39\">PER CURIAM.</author>\n<p id=\"ApCs\">Order (8 F.[2d] 757) reversed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

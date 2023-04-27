@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1203\" lastpage=\"1203\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b915-4\">Cincinnati Bar Association <em>v. </em>Grote.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b915-5\">[Cite as <em>Cincinnati Bar Assn. v. Grote </em>(1991), 61 Ohio St.3d 1203.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A1H\">(No. 89-2164</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A4WN\">Submitted and Decided July 16, 1991.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b915-11\">For earlier case, see <em>Cincinnati Bar Assn. v. Grote </em>(1990), 50 Ohio St.3d 156, 553 N.E.2d 657.</p>\n<judges id=\"b915-12\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

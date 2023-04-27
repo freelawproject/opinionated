@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1085\" lastpage=\"1085\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1109-17\">Acle TAYLOR v. T. B. WHITE, Warden.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AK3X\">No. 428.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1109-18\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AOe9\">Jan. 28, 1931.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1109-20\">S. M. Brewster, U. S. Atty., of Topeka, Kan., for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1109-21\">Before LEWIS, PHILLIPS, and MeDERMOTT, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1109-22\">PER CURIAM.</author>\n<p id=\"b1109-23\">Appeal dismissed January 28, 1931, for lack of merit.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

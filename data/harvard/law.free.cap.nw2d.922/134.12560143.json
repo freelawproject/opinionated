@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"134\" lastpage=\"135\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Denise Ann FILCEK, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158317\n  <br/>\n  COA: 343897\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  February 4, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the July 10, 2018 order of the Court of Appeals is considered and,\n   pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we VACATE the July 10, 2018 order of the Court of Appeals and REMAND this case to the Court of Appeals, which shall hold this case in abeyance pending its decision in\n   <em>\n    People v. Eric J. Anderson\n   </em>\n   (Docket No. 343272). After\n   <em>\n    Anderson\n   </em>\n   is decided, the Court of Appeals shall reconsider the defendant's delayed application for leave to appeal.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

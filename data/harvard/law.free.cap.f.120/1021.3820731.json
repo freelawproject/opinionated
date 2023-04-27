@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1053-7\">RAINE v. AMERICAN STEEL &amp; WIRE CO. OF NEW JERSEY.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ASjD\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AT4\">January 29, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ADO\">No. 79.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A0H\">In Error to the Circuit Court of the United States for the Northern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AZh8\">F. E. Smith, for plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AI-6\">C. C. Van Kirk, for defendant In error.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AIoN\">Before WALLACE and LACOMBB, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXGF\">No opinion. Affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

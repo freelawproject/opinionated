@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1046\" lastpage=\"1046\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  HUNTSMAN INTERNATIONAL, LLC and Rubicon, LLC\n  <br/>\n  v.\n  <br/>\n  PRAXAIR, INC.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-CC-1532\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  November 5, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE CIVIL DISTRICT COURT FOR THE PARISH OF ORLEANS\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   Writ granted. Considering the unique circumstances presented, it is ordered that the trial judge be recused. The case is remanded to the district court for random re-allotment of the case to another judge.\n  </p>\n  <p id=\"p-8\">\n   WEIMER, J., would grant and docket\n  </p>\n  <p id=\"p-9\">\n   CRICHTON, J., would deny.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

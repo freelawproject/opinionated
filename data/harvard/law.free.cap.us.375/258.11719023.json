@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"258\" lastpage=\"258\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b346-12\">MACON <em>v. </em>INDIANA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b346-14\">No. 37,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A89\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"APf\">Decided December 16, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b346-17\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b346-18\"><em>Edwin K. Steers, </em>Attorney General of Indiana, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b346-19\">Per Curiam.</author>\n<p id=\"b346-20\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Indiana for further consideration in light of <em>Lane </em>v. <em>Brown, </em>372 U. S. 477.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1026-22\">Dwight James BAUM, Plaintiff in Error, v. FIRST NATIONAL COMPANY OF SARASOTA, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1026-23\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Akz\">January 19, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1026-24\">No. 236.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1026-26\">Thomas McCall, of New York City, for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1026-27\">Loueks, Griffin, Connet &amp; Cullen, of New York City (Wm. H. Griffin, of New York City, of counsel), for defendant in error.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1026-28\">Before MANTON, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1026-29\">PER CURIAM.</author>\n<p id=\"AThl\">Judgment affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

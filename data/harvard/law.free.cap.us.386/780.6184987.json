@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"780\" lastpage=\"780\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b860-3\">MONTIETH <em>v. </em>OREGON.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b860-5\">No. 1459,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AOl\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Auq3\">Decided May 8, 1967.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b860-7\"><em>Howard R. Lonergan </em>for appellant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b860-8\">Per Curiam.</author>\n<p id=\"b860-9\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

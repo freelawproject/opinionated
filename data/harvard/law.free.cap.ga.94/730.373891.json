@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"730\" lastpage=\"730\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b746-4\">Mathis <em>v. </em>Weaver, executor.</parties>\n<headnotes data-order=\"1\" data-type=\"headnotes\" id=\"A0v\">, while an interlocutory order for the appointment of a receiver is reviewable by the Supreme Court, a subsequent order made pending a writ of error in such case, supplying a vacancy in the office of receiver resulting from non-acceptance of the one first appointed, is not reviewable upon a fast writ of error.</headnotes>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-IO\">April 9, 1894.</decisiondate>\n<p data-order=\"3\" data-type=\"p\" id=\"AENO\">Argued at the last term.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b746-8\">J. H. Lumpkin and Little, Wimbish &amp; Worrill, for plaintiff in error. Blandeord &amp; Grimes and Thornton <em>&amp; </em>McMichael, <em>contra.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AIp\">\n<em>Writ of error dismissed.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b854-2\">JOHN PLACA <em>v. </em>DONALD AHEARN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ATs\">(14902)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b854-3\">Dupont, C. J., and Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b854-4\">Argued June 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AHYh\">officially released July 2, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b854-6\">Per Curiam.</author>\n<p id=\"A7Bp\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

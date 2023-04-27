@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"72\" lastpage=\"72\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b104-13\" pgmap=\"104\">170 A.3d 299</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AsHQ\" pgmap=\"104\">STEVENSON, Korey v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AYO\" pgmap=\"104\">Pet. Docket No. 226,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"APj\" pgmap=\"104\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"AbR\" pgmap=\"104\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b104-15\" pgmap=\"104\">September 22, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b104-16\" pgmap=\"104\">Application for leave to appeal dismissed by the Court of Special Appeals (No. 866, Sept.Term, 2016).</p> <p id=\"b104-17\" pgmap=\"104\">Petition for writ of certiorari dismissed</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

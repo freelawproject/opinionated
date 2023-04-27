@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"118\" lastpage=\"118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b198-8\">Supreme Court, Kings Special Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A0z\">January, 1897.</decisiondate>\n<p data-order=\"2\" data-type=\"misc\" id=\"AEm\">Unreported.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b198-9\">In the Matter of the Petition of Harry W. Michell for an Injunction against John Flynn.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b198-10\">Osborne, J. S. C.</author>\n<p id=\"Av4\">I agree with the reasoning in \u201cBrown <em>v. </em>Hilton, 40 Mass. R. 319\u201d and \u201cCobb <em>v. </em>Billings, 23 Maine, 470\u201d and am of the opinion that the sale by Flynn of the six gallons of liquor at one time, though of two different kinds, was not a \u201ctrafficking in liquors in quantities of less than five wine gallons.\u201d</p>\n<p id=\"b198-11\">Motion for injunction denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

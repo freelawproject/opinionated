@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"923\" lastpage=\"923\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b919-2\">Vito DiLustro <em>v. </em>John S. Horvat, Sr., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b919-3\">(10961)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b919-4\">Daly, Lavery and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b919-5\">Argued December 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A0Vm\">decision released December 29, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b919-7\"><em>Laurence P. Nadel, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b919-8\"><em>Michael P. Foley, Jr., </em>for the appellee (named defendant).</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b919-9\"><em>Michael R. Caporale, Jr., </em>for the appellee (defendant Harbor National Bank).</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b919-10\">Per Curiam.</author>\n<p id=\"Azg\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

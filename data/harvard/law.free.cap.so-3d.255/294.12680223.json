@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"294\" lastpage=\"294\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Dallas BROOKS, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-3288\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  October 09, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Petitioner's petition for writ of mandamus is denied without prejudice to any right petitioner might have to request counsel in the lower tribunal. See Fla. R. Crim. P. 3.850(f)(7) ; Graham v. State,\n   <extracted-citation case-ids=\"9642628\" index=\"0\" url=\"https://cite.case.law/so-2d/372/1363/\">\n    372 So. 2d 1363\n   </extracted-citation>\n   (Fla. 1979).\n  </p>\n  <judges id=\"p-7\">\n   LaROSE, C.J., and MORRIS and SALARIO, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

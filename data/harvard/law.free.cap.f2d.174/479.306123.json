@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"479\" lastpage=\"479\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b533-5\">CENTRAL STATIONS SIGNALS, Inc., Petitioner, v. COMMISSIONER OF INTERNAL REVENUE, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b533-6\">No. 128, Docket 21105.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b533-7\">United States Court of Appeals Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b533-8\">May 19, 1949.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b533-10\">Edwin Stephen Schweig, New York City, for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b533-11\">Theran L. Caudle, Harry Marselli, Washington, D. C., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b533-12\">Before L. HAND, Chief Judge, and SWAN and FRANK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b533-13\">PER CURIAM.</author>\n<p id=\"b533-14\">Order affirmed upon opinion below, 10 Tax Court 1015.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

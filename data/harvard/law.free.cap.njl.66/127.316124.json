@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"127\" lastpage=\"127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b165-9\">CHARLES BIERMAN, RELATOR, v. JAMES M. SEYMOUR ET AL. AND PATRICK CODY, TRUSTEE.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b165-10\">On rule to show cause why <em>mandamus </em>should not issue to the mayor of the city of Newark, &amp;c.</summary>\n<p data-order=\"2\" data-type=\"judges\" id=\"b165-11\">Before Justices Van Syckel and Fort.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b165-12\">For the rule, <em>James R. Nugent.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b165-13\">\n<em>Contra, Herbert Boggs.</em>\n</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b165-14\">Per Curiam.</author>\n<p id=\"b165-15\">This case is determined upon the same grounds as that stated in the opinion of this court filed in Bierman <em>v. </em>Seymour and Shanley, at this present term, and the writ will issue in this case upon the same grounds stated in that.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

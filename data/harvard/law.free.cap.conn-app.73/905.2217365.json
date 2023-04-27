@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b883-12\">HANNA BELSKA <em>v. </em>KRZYSZTOF BELSKI</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AYA\">(AC 21937)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b883-13\">Mihalakos, Dranginis and West, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b883-14\">Submitted on briefs October 31 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AC\">officially released November 19, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b883-16\">Per Curiam.</author>\n<p id=\"AN9\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

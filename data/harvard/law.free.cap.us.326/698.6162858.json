@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"698\" lastpage=\"698\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b786-7\">No. 81,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AM6\">No. 82,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AV5\">No. 83,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"AMsp\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"Amr\">Misc.</p>\n<p data-order=\"5\" data-type=\"misc\" id=\"AuUB\">Misc.</p>\n<parties data-order=\"6\" data-type=\"parties\" id=\"Aal\">Dioguardi <em>v. </em>Durning, Collector of Customs; Smith <em>v. </em>Maguire, Justice, et al.; and Harding <em>v. </em>LaGuardia, Mayor, et al.</parties>\n<decisiondate data-order=\"7\" data-type=\"decisiondate\" id=\"AgB\">January 28, 1946.</decisiondate>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aal1\">The applications are denied.</p>\n<judges id=\"AtNx\">Mr. Justice Rutledge took no part in the consideration or decision of these applications.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

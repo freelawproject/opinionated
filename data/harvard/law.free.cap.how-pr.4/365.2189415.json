@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"365\" lastpage=\"365\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b369-3\">COURT OF APPEALS.</court>\n<decisiondate data-order=\"1\" data-type=\"misc\" id=\"b369-4\">Decisions, <em>April </em>Term, 1848,</decisiondate>\n<p data-order=\"2\" data-type=\"misc\" id=\"ArW\">\n<em>at the City Hall in the City of New York</em>\n</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b369-5\">Cornelia Dodge, appellant, vs. Ralph Manning and others, respondents.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ACo\">\n<em>\u2014Decree of the Chancellor modified.</em>\n</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Aum\">N. Hill, Jr., for appel lant ;</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AD9R\">M. T. Reynolds, for respondents.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b369-6\">This was a case involving the construction of a will in regard to the charge and lien of a legacy, and the time when, and by whom it should be paid. (Reported, 1 Comstock, 298.)</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1435\" lastpage=\"1435\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AY2\">\n<em>Wednesday, March 17, 1993</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Am6T\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A4od\">92-2248.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Acv\">Roselawn Community Council, Inc. v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Arqo\">Public Utilities Commission, No. 91-1648-TP-ATA. On motions to dismiss and motion to strike. Motions to dismiss sustained. Cause dismissed.</p>\n<judges id=\"AmV\">A.W. Sweeney, Douglas and F.E. Sweeney, JJ., concur.</judges>\n<judges id=\"A8A\">Wright, J., would grant the motions to dismiss, would grant the motion to intervene, and would deny the motion to strike.</judges>\n<judges id=\"Ayh3\">Pfeifer, J., would overrule the motions to dismiss, and would allow Cincinnati Bell to intervene.</judges>\n<judges id=\"AYJB\">Moyer, C.J., and Resnick, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

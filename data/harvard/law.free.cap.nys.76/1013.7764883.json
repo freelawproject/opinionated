@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1033-12\">ELINSKY, Respondent, v. STUYVESANT INS. CO., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AaW0\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A5fJ\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AfB7\">January, 1902.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AaWQ\">Action by Meyer Elinsky against the Stuyvesant Insurance Company of the city of New York. Maxwell Hall Elliott, for appellant. Alexander Rosenthal, for respondent.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Asr\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

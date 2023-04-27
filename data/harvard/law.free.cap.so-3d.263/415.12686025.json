@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"415\" lastpage=\"415\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Clarence E. DIXON\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-K-0542\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  February 11, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON WRIT OF CERTIORARI TO THE COURT OF APPEAL, FIFTH CIRCUIT, PARISH OF JEFFERSON\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   JOHNSON, C.J., would grant.\n  </author>\n  <p id=\"p-8\">\n   HUGHES, J., would grant.\n  </p>\n  <p id=\"p-9\">\n   CRICHTON, J., would grant and docket and assigns reasons.\n  </p>\n  <p id=\"p-10\">\n   CRICHTON, J., would grant and docket and assigns reasons:\n  </p>\n  <p id=\"p-11\">\n   As the defendant in this matter has no crimes of violence on his record, and no history of firearms violations, I would grant and docket this matter to fully examine the record on the issue of excessiveness of sentence.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"614\" lastpage=\"615\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b676-9\">No. 15,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AEV9\">original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AXQ\">Kansas <em>v. </em>Missouri.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A5R\">May 27, 1940.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A77\">The motion for leave to file a bill of complaint is granted <page-number citation-index=\"1\" label=\"615\">*615</page-number>and process is ordered to issue returnable September 1, next.</p>\n<attorneys id=\"Afpm\"><em>Messrs. Jay S. Parker, </em>Attorney General of Kansas, <em>A. B. Mitchell, </em>Assistant Attorney General, <em>Clarence V. Beck, </em>and <em>Errett P. Scrivner </em>for complainant.</attorneys>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

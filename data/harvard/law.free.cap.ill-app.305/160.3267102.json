@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"160\" lastpage=\"161\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b182-9\" pgmap=\"182\">Anton E. Sundquist, Appellee, v. Illinois Fire Insurance Company of Peoria, Appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b182-10\" pgmap=\"182\">Gen. No. 9,379.</docketnumber><p data-order=\"2\" data-type=\"p\" id=\"A49\" pgmap=\"182\">(Abstract of Decision.)</p><court data-order=\"3\" data-type=\"court\" id=\"AIbI\" pgmap=\"183\">Heard in this court at February term, 1939;</court><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ABB\" pgmap=\"183\">opinion filed April 6, 1940.</decisiondate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A6z\" pgmap=\"183\">Clausen, Hirsch &amp; Miller and Shurtleff &amp; Niehaus, for appellant; F. B. Brian and Andrews &amp; Young, for appellee; J. E. Richards, of counsel.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"Abu\" pgmap=\"183\">Opinion by Justice Dove.</author> <p id=\"AQ1\" pgmap=\"183\">\u201cNot to be published in full.\u201d</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

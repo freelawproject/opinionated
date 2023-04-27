@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"495\" lastpage=\"495\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Rafael MUNOZ, Respondent,\n  <br/>\n  v.\n  <br/>\n  NORFOLK SOUTHERN RAILWAY COMPANY, Petitioner.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 123894\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Illinois.\n </court>\n <decisiondate id=\"p-4\">\n  May 22, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Petition for Leave to Appeal Denied.\n </opinion>\n <opinion id=\"p-6\">\n  In the exercise of this Court's supervisory authority, the Appellate Court, First District, is directed to vacate its judgment in\n  <em>\n   Munoz v. Norfolk Southern Railway Company,\n  </em>\n  case No. 1-17-1009 (06/05/18). The appellate court is directed to consider the effect of the United States Supreme Court's opinion in\n  <em>\n   BNSF Railway Co. v. Loos,\n  </em>\n  586 U.S. ___ (2019), on the issue of whether a FELA lost-wages award is compensation subject to withholding taxes, and determine if a different result is warranted.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   Neville, J. took no part.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"637\" lastpage=\"637\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b705-4\">SUN OIL COMPANY v. FEDERAL POWER COMMISSION.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ap9\">No. 7018.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b705-6\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b705-7\">Jan. 15, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b705-9\">Robert E. May, Omar L. Crook and Francis H. Caskin, Washington, D. C., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b705-10\">Richard A. Solomon, Gen. Counsel, and Howard A. Wahrenbrock, Solicitor, Federal Power Commission, Washington, D. C., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b705-11\">Before MURRAH, Chief Judge, and PICKETT and LEWIS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b705-24\">PER CURIAM.</author>\n<p id=\"b705-25\">Petition to review withdrawn by petitioner January 15, 1963.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

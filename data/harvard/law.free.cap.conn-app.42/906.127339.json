@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b858-14\">ANNE MARIE GEISSLER <em>v. </em>ROBERT J. GEISSLER</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b858-15\">(14210)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b858-16\">Foti, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b858-17\">Submitted on briefs June 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AIg\">officially released July 9, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b858-19\">Per Curiam.</author>\n<p id=\"Afq\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

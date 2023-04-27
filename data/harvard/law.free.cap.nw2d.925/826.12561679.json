@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"826\" lastpage=\"826\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Jessie HAYES, Defendant-Appellant.\n </parties>\n <parties id=\"p-2\">\n  People of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Donyelle Michael Black, Defendant-Appellant.\n </parties>\n <parties id=\"p-3\">\n  People of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Jemal Tipton, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-4\">\n  SC: 157813\n  <br/>\n  SC: 157814\n  <br/>\n  SC: 157815\n  <br/>\n  COA: 339543\n  <br/>\n  COA: 339544\n  <br/>\n  COA: 339547\n </docketnumber>\n <court id=\"p-5\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-6\">\n  April 25, 2019\n </decisiondate>\n <p id=\"p-7\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   On order of the Court, the application for leave to appeal the March 27, 2018 judgment of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"920\" lastpage=\"920\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b916-6\">Kathy Weydig et al. <em>v. </em>Andrew La Bella et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b916-7\">(10586)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b916-8\">Foti, Heiman and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b916-9\">Argued December 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A7o\">decision released December 22, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b916-11\"><em>Cheryl L. Hoppenstein, </em>pro se, the appellant (defendant), filed a brief.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b916-12\"><em>Valerie Boylan, </em>with whom was <em>Frank A. Johnson, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b916-13\">Per Curiam.</author>\n<p id=\"Axqy\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

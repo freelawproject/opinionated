@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b889-2\">IN RE JOHNNA R.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJ8r\">(AC 31460)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b889-4\">DiPentima, C. X, and Graendel and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b889-5\">Argued May 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AY8-\">officially released June 15, 2010</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b889-7\">Per Curiam.</author>\n<p id=\"A4H\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

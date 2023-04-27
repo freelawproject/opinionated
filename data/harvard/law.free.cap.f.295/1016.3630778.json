@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1038-5\">In the Matter of Israel FEIT, Bankrupt, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"As6\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AVTE\">December 14, 1923.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A1B\">No. 150.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AaD\">Kopp, Markewieh &amp; Perlman, of New York City (L. H. Sapor, of New York City, of counsel), for appellant. Jacobson &amp; Pollock, of New York City (Alexander Aaronson and Henry W. Pollock, both of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AlU\">Before HOUGH, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1038-6\">PER CURIAM.</author>\n<p id=\"Abx\">Order affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

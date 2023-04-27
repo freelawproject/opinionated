@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"102\" lastpage=\"102\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE: Tony OXENDINE\n </parties>\n <docketnumber id=\"p-2\">\n  No. 424P18\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  May 9, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Daniel P. O'Brien, Special Deputy Attorney General, Ben R. David, District Attorney, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-6\">\n  Tony Oxendine, for Oxendine, Tony.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Petitioner on the 30th of November 2018 in this matter for a writ of mandamus, the following order was entered and is hereby certified to the Superior Court, Pender County:\n  </p>\n  <p id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 9th of May 2019.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

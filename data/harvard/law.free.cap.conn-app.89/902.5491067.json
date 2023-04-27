@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b908-2\">PAUL A. PEREZ <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A1c\">(AC 24998)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b908-3\">SchaUer, Harper and Mihalakos, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b908-4\">Argued May 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ALX\">officially released May 31, 2005</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b908-6\">Per Curiam.</author>\n<p id=\"Aga\">This case is controlled by <em>State v. Gibson, </em>75 Conn. App. 103, 815 A.2d 172 (2003).</p>\n<p id=\"b908-7\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"118\" lastpage=\"118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b334-6\">The State ex rel. May, Appellant, <em>v. </em>Hendon, Judge, Appellee.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"AcpQ\">[Cite as <em>State ex rel. May v. Hendon </em>(1993), 68 Ohio St.3d 118.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b334-8\">(No. 93-1118</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A7-\">Submitted November 9, 1993</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AOB\">Decided December 29, 1993.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b334-9\">\n<em>Morris May, pro se.</em>\n</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b334-10\">The judgment of the court of appeals is affirmed.</p>\n<judges id=\"b334-11\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

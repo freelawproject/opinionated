@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"483\" lastpage=\"483\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b619-3\">Richmond</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b619-4\">Jack W. Edwards v. Elizabeth Ann Edwards.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b619-5\">January 18, 1971.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b619-6\">Record No. 7262.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b619-7\">Present, Snead, C.J., I\u2019Anson, Gordon, Harrison, Cochran and Harman, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b619-9\"><em>Lowry J. Miller (James B. Miller and Gary W. Reese, </em>on brief), for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b619-10\"><em>Ken McFarlane Smith (James W. Korman; Kinney, Smith \u25a0&amp; Bar-ham, </em>on brief), for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b619-11\"><em>Decree affirmed </em>without opinion by equally divided Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

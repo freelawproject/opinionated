@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b963-9\">No. 30,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AFc\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AOk\">Michigan <em>v. </em>Ohio.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AzR\"><em>Frank J. Kelley, </em>Attorney General of Michigan, <em>Robert A. DerengosUi, </em>Solicitor General, and <em>Nicholas V. Olds </em>and <em>Esther E. Newton, </em>Assistant Attorneys General, on the \u25a0 motion. <em>William B. Saxbe, </em>Attorney General of Ohio, and <em>Charles S. Lopeman </em>for defendant in opposition.'</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnfJ\">Motion for leave to file a bill of complaint granted and State of Ohio allowed sixty days to answer.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

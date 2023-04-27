@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"34\" lastpage=\"34\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  DEKALB COUNTY AIRPORT AUTHORITY, Appellant\n  <br/>\n  v.\n  <br/>\n  DEKALB COUNTY BOARD OF ZONING APPEALS, et al.\n </parties>\n <court id=\"p-2\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-3\">\n  March 7, 2019\n </decisiondate>\n <opinion id=\"p-4\">\n  Denied.\n </opinion>\n <opinion id=\"p-5\">\n  All Justices concur, except Rush, C.J., and Massa, J., who vote to grant the petition to transfer.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   Najam, J., Altice, J., Robb, J.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

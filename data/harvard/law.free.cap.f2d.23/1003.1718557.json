@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1003\" lastpage=\"1003\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1031-25\">Conrad J. LEVIN, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1031-26\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Azk\">January 10, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1031-27\">No. 228.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1031-29\">Frank, Weil &amp; Strouse, of New York City (Samuel B. Frank, of New York City, of counsel), for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1031-30\">L. W. Breed, and Oliver D. Burden, both of Syracuse, N. Y., for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1031-31\">Before MANTON, L. HAND, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1031-32\">PER CURIAM.</author>\n<p id=\"AUz\">Judgment affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1017\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1045-46\">William KENNY, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1045-47\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A0I7\">March 14, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1045-48\">No. 5062.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1046-3\"><page-number citation-index=\"1\" label=\"1018\">*1018</page-number>C. S. Hebert, of New Orleans, La., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1046-4\">Wayne G. Borah, U. S. Atty., and T. M. Logan Bruns, Asst. U. S. Atty., both of New Orleans, La., for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1046-5\">Before WALKER, BRYAN, and FOSTER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1046-6\">PER CURIAM.</author>\n<p id=\"AO_\">The decree in this case is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

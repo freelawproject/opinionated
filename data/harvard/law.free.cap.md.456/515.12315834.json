@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"515\" lastpage=\"515\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b547-12\" pgmap=\"547\">175 A.3d 147</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AIX\" pgmap=\"547\">POOLE, Bryan Lamont v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A6Xg\" pgmap=\"547\">Pet. Docket No. 336,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"A5D\" pgmap=\"547\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b547-16\" pgmap=\"547\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b547-17\" pgmap=\"547\">December 15, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b547-18\" pgmap=\"547\">Opinion of the Court of Special Appeals unreported (No, 2400, Sept.Term, 2014).</p> <p id=\"b547-19\" pgmap=\"547\">Petition for writ of certiorari denied</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

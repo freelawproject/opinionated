@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"696\" lastpage=\"696\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b784-4\">No. 77,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Ax9\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AjE\">Eureka Gas Co. <em>v. </em>Ford, U. S. District Judge.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AhJa\">January 14, 1946.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AjK\"><em>Mr. J. W. Jones </em>for petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AxY\">The motion for leave to file a petition for a writ of mandamus is denied.</p>\n<judges id=\"AQy\">Mr. Justice Reed took no part in the consideration or decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

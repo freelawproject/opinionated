@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"780\" lastpage=\"780\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A79\">Robert KELLY v. A. C. ADERHOLD, Warden, United States Penitentiary Annex, Fort Leavenworth, Kansas.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"avgz-dedup-0\">No. 2279.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"aoj-dedup-0\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ACTI\">May 9, 1941.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"anj-dedup-0\">Thomas Raber Taylor, of Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AB5\">Homer Davis, Asst. U. S. Atty., of Topeka, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AKZl\">Before PHILLIPS, Circuit Judge, and SYMES, District Judge,</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"aik-dedup-0\">PER CURIAM.</author>\n<p id=\"Aff\">Appeal1 dismissed May 1, 1941, on appellee\u2019s motion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

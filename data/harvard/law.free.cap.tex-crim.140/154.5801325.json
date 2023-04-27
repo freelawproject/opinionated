@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"154\" lastpage=\"155\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b178-12\">Lawrence Leadon and Lavernis Wilson v. The State.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b178-13\">No. 21260.</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A43\">Delivered October 23, 1940.</decisiondate>\n<p data-order=\"3\" data-type=\"summary\" id=\"b178-19\">The opinion states the case.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b179-4\"><page-number citation-index=\"1\" label=\"155\">*155</page-number><em>H. H. Wellborn, </em>of Henderson, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b179-5\"><em>Lloyd W. Davidson, </em>State\u2019s Attorney, of Austin, for the State.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AkQ\">BEAUCHAMP, Judge.</author>\n<p id=\"b179-6\">This case is before us without bills of exception or statement of facts. Furthermore, the transcript contains no notice of appeal. The appeal is, therefore, dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

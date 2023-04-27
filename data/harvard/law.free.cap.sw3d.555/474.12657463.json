@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"474\" lastpage=\"475\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Missouri, Respondent,\n  <br/>\n  v.\n  <br/>\n  Leon Lamonte CORNELIUS, Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  WD 80440\n </docketnumber>\n <court id=\"p-3\">\n  Missouri Court of Appeals, Western District.\n </court>\n <decisiondate id=\"p-4\">\n  ORDER FILED: SEPTEMBER 11, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Carol D. Jansen, Columbia, MO, Counsel for Appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Dora Fichter, Jefferson City, MO, Counsel for Respondent.\n </attorneys>\n <judges id=\"p-7\">\n  Before Division Four: Mark D. Pfeiffer, Presiding Judge, Karen King Mitchell, Chief Judge, Anthony Rex Gabbert, Judge\n </judges>\n <p id=\"p-8\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Per Curiam:\n  </author>\n  <p id=\"p-10\">\n   Leon L. Cornelius appeals from a judgment convicting him of possession of a controlled substance with intent to distribute under Section 195.211, RSMo Cum. Supp. 2003, a class B felony. We affirm. Rule 30.25(b).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

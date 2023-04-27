@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"525\" lastpage=\"525\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE: E.D.\n </parties>\n <docketnumber id=\"p-2\">\n  125PA18-1\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  May 28, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Wyatt B. Orsbon, Assistant Appellant Defender, for E.D.\n </attorneys>\n <attorneys id=\"p-6\">\n  Glenn Gerding, Appellate Defender.\n </attorneys>\n <attorneys id=\"p-7\">\n  Robert T. Broughton, Assistant Attorney General, for State of North Carolina.\n </attorneys>\n <opinion id=\"p-8\">\n  The following order has been entered on the motion filed on the 24th of May 2019 by Respondent to Stay the Mandate and Order Remand to Court of Appeals:\n </opinion>\n <opinion id=\"p-9\">\n  \"Motion Denied by order of the Court in conference, this the 28th of May 2019.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-10\">\n   Davis, J. recused\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

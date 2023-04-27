@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b852-8\">MARGARET EDWARDS ET AL. <em>v. </em>JAMES TIERNEY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Am_\">(AC 15760)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b852-9\">O\u2019Connell, Foti and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b852-10\">Submitted on briefs March 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A42\">officially released April 29, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b852-12\">Per Curiam.</author>\n<p id=\"AmW\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

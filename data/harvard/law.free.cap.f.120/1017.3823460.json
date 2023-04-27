@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1017\" lastpage=\"1017\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1049-14\">ANDERSON v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ARe\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A89\">February 4, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AQ6\">No. 73.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AbY\">In Error to the Circuit Court of the United States for the Eastern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AHZv\">Edmund F. Dreggs, for plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Ac9K\">T. C. Chatfield, for the United States.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AxdI\">Before WALLACE, LACOMBE, and COXE, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-E\">No opinion. Judgment of Circuit Court affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

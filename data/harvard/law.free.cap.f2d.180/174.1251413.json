@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"174\" lastpage=\"174\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b230-26\">Vincent A. WATSON et al. v. William C. SALOME, Jr., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b230-28\">No. 4029.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b230-29\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b230-30\">Jan. 24, 1950.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b230-32\">Waldo B. Wetmore and Lawrence J. Wetzel, Wichita, Kan., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b230-33\">Lawrence E. Curfman, Fred W. Aley and Robert B. Morton, Wichita, Kan., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b230-34\">Before BRATTON and PICKETT, Grcuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b230-35\">PER CURIAM.</author>\n<p id=\"b230-36\">Appeal dismissed January 24, 1950, on motion of appellants.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

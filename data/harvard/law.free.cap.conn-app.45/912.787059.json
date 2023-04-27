@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b860-2\">STATE OF CONNECTICUT <em>v. </em>VICTOR MILLAN STATE OF CONNECTICUT <em>v. </em>PABLO ROSADO</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJ8\">(AC 16448)</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AjL\">(AC 16449)</docketnumber>\n<p data-order=\"3\" data-type=\"judges\" id=\"b860-4\">Dupont, C. J., and Landau and Schaller, Js.</p>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b860-5\">Argued April 24</otherdate>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"A7t\">officially released May 27, 1997</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b860-7\">Per Curiam.</author>\n<p id=\"Adim\">The judgments are affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

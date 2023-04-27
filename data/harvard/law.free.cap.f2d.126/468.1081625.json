@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"468\" lastpage=\"468\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b528-15\">GRAND RIVER DAM AUTHORITY, a Public Corporation, v. George SQUIRREL et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b528-16\">No. 2353.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b528-17\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ady-dedup-0\">Feb. 26, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b528-19\">Q. B. Boydstun, Grand River Dam Authority, of Vinita, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b528-20\">Whit Y. Mauzy, U. S. Atty., and S. R. Lewis, both of Tulsa, Okl., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b528-21\">Before PHILLIPS, Circuit Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b528-22\">PER CURIAM.</author>\n<p id=\"b528-23\">Appeal dismissed pursuant to stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

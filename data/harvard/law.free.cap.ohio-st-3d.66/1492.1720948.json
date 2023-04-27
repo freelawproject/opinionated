@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1492\" lastpage=\"1492\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Aoyx\">\n<em>Wednesday, June 2, 1993</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A21\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AYUN\">92-183.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ax8U\">State ex rel. Fowkes v. Marchewka.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AzB\">In Mandamus. <em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"APc5\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick and F.E. Sweeney, JJ., concur.</judges>\n<judges id=\"APRS\">Pfeifer, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

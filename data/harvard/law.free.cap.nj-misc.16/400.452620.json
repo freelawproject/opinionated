@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"400\" lastpage=\"400\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b408-6\">IN THE MATTER OF THE APPLICATION OF JOSEPH F. NARDIELLO FOR LEAVE TO TAKE THE BAR EXAMINATIONS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b408-7\">Argued May 3, 1938</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"As0-\">Decided June 4, 1938.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b408-9\">Before Justices Trenchard, Parker and Perskie.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b408-10\">For the applicant, <em>John J. Clancy.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b408-11\">For the Essex County Bar Association, <em>Milton M. Unger.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b408-12\">Per Curiam.</author>\n<p id=\"b408-13\">The application is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

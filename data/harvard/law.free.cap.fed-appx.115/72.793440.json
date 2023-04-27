@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"863\" lastpage=\"863\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b882-9\">James L. LEWIS, Plaintiff-Appellant, v. UNITES STATES, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ACs\">No. 04-5015.</docketnumber>\n<court data-order=\"3\" data-type=\"court\" id=\"b882-11\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b882-12\">Nov. 15, 2004.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b882-3\">Before NEWMAN, BRYSON, and DYK, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b882-4\">JUDGMENT</p>\n<author id=\"AC-\">PER CURIAM.</author>\n<p id=\"b882-5\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED: <em>AFFIRMED. See </em>Fed. Cir. R. 36</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

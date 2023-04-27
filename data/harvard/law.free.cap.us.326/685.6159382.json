@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"685\" lastpage=\"685\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b773-4\">No. 2,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AlC\">No. 3,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A_JV\">No. 4,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"AZlg\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"AM1\">Misc.</p>\n<p data-order=\"5\" data-type=\"misc\" id=\"A4d\">Misc.</p>\n<parties data-order=\"6\" data-type=\"parties\" id=\"A-h\">In re Delisle; Srygley <em>v. </em>United States; and Crum <em>v. </em>Hunter, Warden.</parties>\n<decisiondate data-order=\"7\" data-type=\"decisiondate\" id=\"A43\">October 8, 1945.</decisiondate>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AhK\">The applications are denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

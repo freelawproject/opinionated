@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"700\" lastpage=\"700\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b718-13\">DUFF <em>v. </em>WARDEN OF MARYLAND PENITENTIARY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b718-14\">[App. No. 110,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A4K\">September Term, 1964.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b718-15\">\n<em>Decided July 2, 1965.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b718-18\">Before Prescott, C. J., and Hammond, HornEy, Marbury, Oppenheimer and Barnes, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b718-19\">Per Curiam.</author>\n<p id=\"b718-20\">For the reasons assigned by Judge Keating below the application must be denied.</p>\n<p id=\"b718-21\">\n<em>Application denied.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"645\" lastpage=\"645\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b677-5\">TEXAS &amp; P. R. CO. v. CAU.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b677-6\">(Circuit Court of Appeals, Fifth Circuit</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AAdf\">March 10, 1903.)</decisiondate>\n<disposition data-order=\"3\" data-type=\"disposition\" id=\"b677-7\">On Rehearing.</disposition>\n<seealso data-order=\"4\" data-type=\"seealso\" id=\"b677-8\">For former opinion, see 120 Fed. 15.</seealso>\n<p data-order=\"5\" data-type=\"judges\" id=\"b677-9\">Before PARDEE, McCORMICK, and SHELBY, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b677-10\">PER CURIAM.</author>\n<p id=\"AK7\">We find nothing in the reasons presented for a rehearing to make us doubt the correctness of the decision heretofore rendered, and the rehearing is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

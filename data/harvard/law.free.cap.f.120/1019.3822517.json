@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1051-4\">In re CRARY.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Aqo\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Asa\">January 21, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AAZ\">No. 49.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AJZ\">Petition for Revision of Proceedings of the District Court of the United States for the Western District of New York.</summary>\n<p data-order=\"5\" data-type=\"summary\" id=\"AHlG\">Before WALLACE, LACOMBE, and COXE, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADg\">No opinion. Affirmed in open court</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1464\" lastpage=\"1464\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A3Vl\">\n<em>Tuesday, April 27, 1993</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AXJ\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ANsh\">91-374.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AYY9\">State v. Rojas.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A71\">On motion for stay. Stay granted.</p>\n<judges id=\"A6AE\">Douglas and Pfeifer, JJ., dissent.</judges>\n<judges id=\"AsIo\">On request to appoint independent counsel. Request denied.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

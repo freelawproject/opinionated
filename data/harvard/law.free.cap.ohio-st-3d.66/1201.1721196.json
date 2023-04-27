@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1201\" lastpage=\"1201\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b773-4\">In re Resignation of Hunter.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b773-5\">[Cite as <em>In re Resignation of Hunter. </em>(1993), 66 Ohio St.3d 1201.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AGF\">(No. 92-2472</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ABm\">Submitted January 6, 1993</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ap3\">Decided January 7, 1993.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b773-6\">The resignation of Joyce D. Hunter as an attorney, Registration No. 0038512, is accepted.</p>\n<judges id=\"b773-7\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

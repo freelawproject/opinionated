@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b862-13\">PAMELA B. PRICE <em>v. </em>JOHN T. PRICE PAMELA B. PRICE ET AL. <em>v. </em>JOHN T. PRICE</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ao5B\">(15147)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b862-14\">Dupont, C. J., and O\u2019Connell, Foti, Heiman and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Atoa\">Submitted on briefs June 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Azag\">officially released July 16, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b862-16\">Per Curiam.</author>\n<p id=\"A_d\">The judgments are affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b249-4\">In re Resignation of Johnson.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b249-5\">[Cite as In re Resignation of Johnson (1991), 59 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b249-6\">(No. 91-549</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A13\">Submitted March 20, 1991</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A4-\">Decided March 27, 1991.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b249-7\">The resignation of Charles W. Johnson as an attorney is accepted; he must surrender his Certificate of Admission to the practice of law.</p>\n<judges id=\"AAr\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur,</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

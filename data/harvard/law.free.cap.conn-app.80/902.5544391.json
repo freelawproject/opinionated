@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b852-12\">BRIDGEPORT POST OFFICE FEDERAL CREDIT UNION <em>v. </em>CHARLES F. LUGOVICH</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A6d\">(AC 22898)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b852-13\">Lavery, C. J., and DiPentima and Mihalakos, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b852-14\">Argued September 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A6k\">officially released November 4, 2003</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b852-16\">Per Curiam.</author>\n<p id=\"amo-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

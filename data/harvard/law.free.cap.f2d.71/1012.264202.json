@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1012\" lastpage=\"1012\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1040-26\">MERRILL MORTUARIES, Inc., a Corporation, Appellant, v. Ezra SHOEMAKER et al., Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1040-27\">No. 7507.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1040-28\">Circuit Court of Appeals, Ninth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AjVx\">June 11, 1934</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1040-31\">Hall &amp; McCabe, of Great Falls, Mont, and Howard A. Johnson, of Butte, Mont, for appellees.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1040-32\">Before WILBUR, SAWTELLE, and GARRECHT, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1040-33\">PER CURIAM.</author>\n<p id=\"b1040-34\">Upon consideration of motion of appellees, ordered appeal herein dismissed for failure of appellant to file record and docket cause; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

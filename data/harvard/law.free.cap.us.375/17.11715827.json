@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"17\" lastpage=\"17\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b105-13\">RYAN <em>v. </em>TINSLEY, WARDEN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b105-15\">No. 403,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A3e\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AXq\">Decided October 14, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b105-18\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b105-19\"><em>Duke W. Dunbar, </em>Attorney General of Colorado, <em>Frank E. Hickey, </em>Deputy Attorney General, and <em>John E. Bush, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b105-20\">Per Curiam.</author>\n<p id=\"b105-21\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

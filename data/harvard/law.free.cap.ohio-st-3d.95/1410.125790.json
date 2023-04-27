@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1410\" lastpage=\"1410\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"AK8\">RECONSIDERATION OF PRIOR DECISIONS</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AAU\">01- 2114.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aqca\">State v. Brown.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AA4\">Lucas App. No. L-00-1123. Reported at 94 Ohio St.3d 1470, 762 N.E.2d 1017. On motion for reconsideration. Motion denied.</p>\n<judges id=\"AOB\">Pfeifer, J., dissents.</judges>\n</opinion>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-2\" type=\"dissent\">\n<author id=\"ApQ\">Lundberg Stratton, J.,</author>\n<p id=\"AOn\">dissents, would grant the motion and allow the appeal, and would hold the cause for the decision in 01-99, <em>State v. Walls, </em>Butler App. No. CA99-10-174.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

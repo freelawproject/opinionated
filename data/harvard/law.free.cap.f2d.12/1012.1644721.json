@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1012\" lastpage=\"1012\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1040-28\">Henry Du Bois Sons Company, Libelant-Appellee, v. Steam Tug ANSON M. BANGS, Her Engines, etc.; Moran Dry Dock &amp; Repair Company, Claimant-Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1040-29\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AKNI\">May 17, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1040-30\">No. 335.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1040-32\">H. L. Cheyney and Macklin, Brown &amp; Van Wyck, all of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1040-33\">A. V. Lynch, Jr., and Park, Mattison &amp; Lynch, all of New York City, for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1040-34\">Before HOUGH, MANTON, and HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1040-35\">PER CURIAM.</author>\n<p id=\"A1OP\">Decree affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

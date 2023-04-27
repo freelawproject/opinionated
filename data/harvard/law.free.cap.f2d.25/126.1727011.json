@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"126\" lastpage=\"126\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b154-6\">Mary B. ELLIOTT, Plaintiff in Error, v. BARRETT COMPANY, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b154-7\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b154-8\">March 16, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b154-9\">No. 268.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b154-11\">Clarence McMillan, of New York City, for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b154-12\">Charles Neave, of New York City, for defendant in error.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b154-13\">Before MANTON, L. HAND, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b154-14\">PER CURIAM.</author>\n<p id=\"A4FM\">Judgment (25 F.[2d] 125) affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

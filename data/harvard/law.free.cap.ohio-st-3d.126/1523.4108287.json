@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1523\" lastpage=\"1523\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"header\" id=\"b715-4\">CASE ANNOUNCEMENTS</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b715-5\">\n<em>July 30, 2010</em>\n</decisiondate>\n<p data-order=\"2\" data-type=\"citation\" id=\"b715-6\">[Cite as <em>07/3012010 Case Announcements, </em>2010-Ohio-3518.]</p>\n<p data-order=\"3\" data-type=\"court\" id=\"b715-7\">MEDIATION REFERRALS</p>\n<p data-order=\"4\" data-type=\"summary\" id=\"b715-8\">The following cases have been referred to mediation pursuant to S.Ct.Prac.R. 17.1(A):</p>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"adu-dedup-1\">2010-1277.</docketnumber>\n<parties data-order=\"6\" data-type=\"parties\" id=\"A6D\">State ex rel. Serv. Emps. Internatl. Union Dist. 1199 v. Univ. of Cincinnati.</parties>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AD5\">In Mandamus.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

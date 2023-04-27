@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"520\" lastpage=\"520\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b552-4\" pgmap=\"552\">175 A.3d 149</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AGs\" pgmap=\"552\">VICARINI v. CARROLL CO. SHERIFFS DEPARTMENT</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AV-5\" pgmap=\"552\">Pet. Docket No. 337,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"ACC5\" pgmap=\"552\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b552-7\" pgmap=\"552\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b552-8\" pgmap=\"552\">December 15, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b552-9\" pgmap=\"552\">Dismissed by the Court of Special Appeals (No. 2621, Sept.Term, 2016).</p> <p id=\"b552-10\" pgmap=\"552\">Petition for writ of certiorari dismissed</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

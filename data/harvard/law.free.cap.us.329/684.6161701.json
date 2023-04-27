@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"684\" lastpage=\"684\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b770-5\">No. 67,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AFUIY\">No. 69,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A1UG\">No. 72,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"ASTt\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"AhB1\">Misc.</p>\n<p data-order=\"5\" data-type=\"misc\" id=\"AFTr\">Misc.</p>\n<parties data-order=\"6\" data-type=\"judges\" id=\"AX8L\">Ex parte Smith; Ex parte Greco; and Ex parte Myers.</parties>\n<decisiondate data-order=\"7\" data-type=\"decisiondate\" id=\"AOS\">December 9, 1946.</decisiondate>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFS\">The motions for leave to file petitions for writs of habeas corpus are denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

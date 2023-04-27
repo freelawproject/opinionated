@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"80\" lastpage=\"80\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b112-12\" pgmap=\"112\">171 A.3d 611</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AAW\" pgmap=\"112\">WHEELER, Robert v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A5KJ\" pgmap=\"112\">Pet. Docket No. 246,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"Af2\" pgmap=\"112\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"AEj\" pgmap=\"112\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b112-14\" pgmap=\"112\">October 10, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b112-16\" pgmap=\"112\">Petition for writ of certiorari granted. Transferred to the regular docket as No. 50, Sept. Term, 2017.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

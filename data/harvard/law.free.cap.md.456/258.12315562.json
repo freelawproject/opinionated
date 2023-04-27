@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"258\" lastpage=\"258\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b290-4\" pgmap=\"290\">173 A.3d 156</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AIG\" pgmap=\"290\">FREEDMAN, Calvin v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Agj\" pgmap=\"290\">Pet. Docket No. 291,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"AvT\" pgmap=\"290\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b290-7\" pgmap=\"290\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b290-8\" pgmap=\"290\">November 17, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b290-9\" pgmap=\"290\">Opinion of the Court of Special Appeals unreported (No. 1429, Sept.Term, 2016).</p> <p id=\"b290-10\" pgmap=\"290\">Petition for writ of certiorari denied</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

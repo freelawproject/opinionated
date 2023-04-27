@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b862-7\">DARRYL WHITAKER <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A5\">(AC 27592)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b862-8\">Bishop, Gruendel and Lavine, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b862-9\">Argued October 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Av\">officially released November 18, 2008</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b862-11\">Per Curiam.</author>\n<p id=\"AC\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

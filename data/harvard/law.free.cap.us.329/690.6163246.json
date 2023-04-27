@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"690\" lastpage=\"690\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b776-7\">No. 82,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ASoO6\">No. 84,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Apkq\">No. 86,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"Ahs2\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"ALbc\">Misc.</p>\n<p data-order=\"5\" data-type=\"misc\" id=\"AM_M\">Misc.</p>\n<parties data-order=\"6\" data-type=\"judges\" id=\"AeU7\">Ex parte Blanton; Ex parte McMillan; and Ex parte Bantz.</parties>\n<decisiondate data-order=\"7\" data-type=\"decisiondate\" id=\"A0i\">January 6, 1947.</decisiondate>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFfP\">The motions for leave to file petitions for writs of habeas corpus are denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"957\" lastpage=\"957\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b975-6\">Thain, Respondent, <em>v. </em>Jones, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b975-7\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ATk\">March 2, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"b975-8\">Appeal from special term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b975-9\">Action by Alexander Thain against Charles Jones. From an order directing a reference on the ground that the case involves the examination of a long account, defendant appeals.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b975-10\">Argued before Sedgwick, C. J., and Dugro, J.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b975-11\"><em>John M. Tierney, </em>for appellant. <em>Alexander Thain, in pro. per.</em></attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b975-12\">Per Curiam.</author>\n<p id=\"ATl\">Order affirmed, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

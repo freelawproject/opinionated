@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b863-17\">JOSEPHINE RIDER ET AL. <em>v. </em>V. W. CREDIT, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_V\">(AC 16326)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b863-18\">O\u2019Connell, Landau and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b863-19\">Argued May 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ABE\">officially released June 3, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b863-21\">Per Curiam.</author>\n<p id=\"AuF\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

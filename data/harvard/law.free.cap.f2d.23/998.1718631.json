@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1026-12\">Thomas ARTHUR, Plaintiff in Error, v. NEW YORK, NEW HAVEN &amp; HARTFORD RAILROAD COMPANY, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1026-13\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1026-14\">January 9, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1026-15\">No. 97.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1026-17\">Andrew Eckel, of New York City, for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1026-18\">J. M. Gibbons, of New York City (E. R. Brumley, of New York City, of counsel), for defendant in error.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1026-19\">Before MANTON, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1026-20\">PER CURIAM.</author>\n<p id=\"A5JY\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"12\" lastpage=\"12\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b10-4\">[Philadelphia, December 14, 1837.] .</decisiondate>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b10-5\">JOHNSON <em>against </em>HIBBARD.</parties>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b10-7\">Mr. <em>Jach </em>for the plaintiff in error.</attorneys>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b10-8\">Mr. <em>Henderson, contra.</em></attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"b10-9\">Cited <em>hy </em>Counsel, 3 Barr, 128.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b10-6\">In this case Th\u00ae Court quashed a writ of error, which had issued to the Court of Common Pleas for the City and County of Philadelphia, on the ground that the judgment of the court below had been given on a <em>certiorari, </em>issued to remove the judgment of an alderman; the twenty-second section of the act of 20th March, 1810, declaring that the judgment on such <em>certiorari </em>shall be final, and that no writ of error shall issue thereon.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

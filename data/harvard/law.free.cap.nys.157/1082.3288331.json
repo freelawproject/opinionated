@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1082\" lastpage=\"1082\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1112-9\">PAPA v. RINI.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1112-10\">(Supreme Court, Appellate Division, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AV8\">March 17, 1916.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1112-11\">Proceeding by Pasquaie Papa against Michael O. Rini. Heard on motions. Motions denied.</summary>\n<seealso data-order=\"4\" data-type=\"seealso\" id=\"b1112-12\">See, also, 157 N. Y. Supp. 1079.</seealso>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1112-13\">Argued before CLARKE, P. X, and DOWLING, SMITH, PAGE, and DAVIS, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1112-14\">PER CURIAM.</author>\n<p id=\"AzX\">Motions denied, without costs. Orders filed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"86\" lastpage=\"86\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b166-4\">Supreme Court, Westchester Special Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AO\">September, 1896.</decisiondate>\n<p data-order=\"2\" data-type=\"misc\" id=\"AhO\">Unreported.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b166-5\">People ex rel. Martin Anderson <em>v. </em>John Hoag, as County Treasurer.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b166-6\">Keogh, J.</author>\n<p id=\"AFb\">The County Treasurer has no power to try an issue of fact. When the application conforms to the provisions of the statute, he has no discretion, and is bound to issue the certificate. In this case, the applicant did not comply with the requirements of the statute.</p>\n<p id=\"b166-7\">The application is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

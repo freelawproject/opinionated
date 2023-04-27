@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"661\" lastpage=\"662\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b876-6\">BERNICE PATTON TESTAMENTARY TRUST, Moody Patton, Trustee, Plaintiff-Appellant, v. UNITED STATES, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ark-dedup-1\">No. 01-5088.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b876-8\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b876-9\">DECIDED: Feb. 27, 2002.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b876-11\">Before NEWMAN, GAJARSA, and PROST, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b877-3\">\n<page-number citation-index=\"1\" label=\"662\">*662</page-number>\n<em>Judgment</em>\n</p>\n<author id=\"Agv\">PER CURIAM.</author>\n<p id=\"b877-4\">\n<em>This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</em>\n</p>\n<p id=\"b877-5\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

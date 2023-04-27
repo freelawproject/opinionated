@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1017\" lastpage=\"1017\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1039-5\">In the Matter of Louis HAMBURGER, Bankrupt; Commercial Investment Trust, Inc., Petitioner.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A2-K\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ac9\">January 25, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AHWX\">No. 226.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AV6N\">Leo Oppenheimer, of New York City (Leo N. Hiblum, of New York City, of counsel), for petitioner. Tanzer &amp; Lane, of New York City (Charles J. Lane, of New York City, of counsel), for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AQAO\">Before HOUGH, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1039-6\">PER CURIAM.</author>\n<p id=\"ARW\">Petition dismissed, without prejudice, in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

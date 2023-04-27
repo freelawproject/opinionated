@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A25j\">UNITED STATES v. DEL GATTO.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ai8-dedup-0\">No. 222.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"ana-dedup-0\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aiz\">April 21, 1941.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A2E\">James E. Wilkinson, of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AU_t\">Vine H. Smith, of Brooklyn, N. Y., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"A1Ru\">Before L. HAND, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AaTT\">PER CURIAM.</author>\n<p id=\"AqH2\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

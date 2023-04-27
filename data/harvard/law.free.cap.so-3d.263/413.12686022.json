@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"413\" lastpage=\"413\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  John DRUMMER, Jr.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-K-1139\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  February 11, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON WRIT OF CERTIORARI TO THE COURT OF APPEAL, THIRD CIRCUIT, PARISH OF AVOYELLES\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <judges id=\"p-7\">\n  HUGHES, J., concurs and assigns reasons.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Hughes, J., concurring.\n  </author>\n  <p id=\"p-9\">\n   The statement of the minor child to her father is properly admissible. However, the later statement to the police officer is not \"res gestae.\" Nor is the \"other crimes\" evidence admissible. But given the totality of the evidence, these errors are harmless.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

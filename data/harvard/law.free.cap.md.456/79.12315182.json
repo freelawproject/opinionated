@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"79\" lastpage=\"79\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b111-12\" pgmap=\"111\">171 A.3d 610</citation><parties data-order=\"1\" data-type=\"parties\" id=\"API\" pgmap=\"111\">STATE of Maryland v. PHILLIPS, Bashunn Christopher</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Aqq1\" pgmap=\"111\">Pet. Docket No. 236,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"A9uP\" pgmap=\"111\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b111-15\" pgmap=\"111\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b111-16\" pgmap=\"111\">October 10, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b111-17\" pgmap=\"111\">Reported below: 233 Md.App. 184, 163 A.3d 230.</p> <p id=\"b111-18\" pgmap=\"111\">Petition for writ of certiorari granted. Transferred to the regular docket as No. 49, Sept. Term, 2017.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

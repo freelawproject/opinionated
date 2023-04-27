@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"2039\" lastpage=\"2039\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Gene POLK, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 15-8894.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  May 16, 2016.\n </decisiondate>\n <opinion id=\"p-5\">\n  Motion of petitioner for leave to proceed\n  <em>\n   in forma pauperis\n  </em>\n  denied, and the petition for a writ of certiorari dismissed. See Rule 39.8.\n </opinion>\n <opinion id=\"p-6\">\n  Justice KAGAN took no part in the consideration or decision of this motion and this petition.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

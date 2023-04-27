@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b621-4\">Sophie E. Minton, Respondent, <em>v. </em>The New York Elevated Railroad Company, <em>et al., </em>Appellants.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ArF\">Decided January 6, 1890.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Alz\">Appeal by defendants from judgment entered upon the decision of a judge at special term.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AHLY\">George V. N. Baldwin, for respondent.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aoc\">Davies &amp; Rapallo, for appellants.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"ARe\">Before Freedman and Ingraham, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A7I\">Per Curiam.</author>\n<p id=\"A6p\">The judgment should be affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

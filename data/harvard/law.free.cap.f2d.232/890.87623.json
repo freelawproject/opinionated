@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"890\" lastpage=\"890\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b938-4\">Hugh GANT v. Chesley H. LOONEY, Warden, United States Penitentiary, Leavenworth, Kansas.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b938-6\">No. 5294.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b938-7\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b938-8\">March 23, 1956.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b938-10\">William W. Morris, Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b938-11\">William C. Farmer, U. S. Atty., and Selby S. Soward, Asst. U. S. Atty., Topeka, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b938-12\">Before BRATTON, Chief Judge, and HUXMAN and MURRAH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b938-13\">PER CURIAM.</author>\n<p id=\"b938-14\">Affirmed without opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

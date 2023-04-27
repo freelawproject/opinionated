@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"253\" lastpage=\"253\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b285-4\" pgmap=\"285\">173 A.3d 154</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AgX\" pgmap=\"285\">MCIVER, Cornelius John v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A-5\" pgmap=\"285\">Pet. Docket No. 233,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"ATR\" pgmap=\"285\">Sept.Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"AcD\" pgmap=\"285\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b285-8\" pgmap=\"285\">November 3, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b285-9\" pgmap=\"285\">(No. 129971C, Circuit Court for Montgomery County.) Transferred to the regular docket as No. 58, Sept.Term, 2017.</p> <p id=\"b285-10\" pgmap=\"285\">Petition for writ of certiorari granted</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"11\" lastpage=\"11\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b89-4\">STONEHAM <em>v. </em>TEXAS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b89-6\">No. 18,</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"AIK\">Mise.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AH\">Decided February 13, 1967.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b89-8\"><em>Charles E. Benson </em>for appellant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b89-9\">Per Curiam.</author>\n<p id=\"b89-10\">The appeal is dismissed.</p>\n<judges id=\"b89-11\">The Chief Justice, Mr. Justice Douglas, and Mr. Justice Fortas would reverse the judgment of the court below for the reasons stated in the opinion of The Chief Justice in <em>Spencer </em>v. <em>Texas, </em>385 U. S. 554, 569.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

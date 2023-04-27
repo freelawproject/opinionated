@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"822\" lastpage=\"822\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b900-11\">No. 1126,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ATN4\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AQX\">Smith <em>v. </em>Crain Brothers, Inc.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A0Rs\"><em>Louis C. Glasso </em>for petitioner. <em>Carl E. Glock </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-B\">C. A. 3d Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

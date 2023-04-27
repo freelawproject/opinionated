@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"604\" lastpage=\"604\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b716-6\">No. \u2014, Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AuG\">Ex parte Leslie Williams et al.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ams\">January 4, 1943.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aora\"><em>Leslie Williams </em>and <em>Joe Bennett, pro se.</em></attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ALBS\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AIQ\">It does not appear that petitioners have exhausted their remedies under state law, especially in view of their failure to file an original application for habeas corpus in the Supreme Court of Nebraska as is permissible under state law (Nebraska Compiled Statutes, 1929, \u00a7 27-204; <em>In re White, </em>33 Neb. 812, 814, 51 N. W. 287), nor does it appear that the question presented here has been considered on the merits by the Supreme Court of Nebraska in any prior proceeding. The motion for leave to file a petition for writ of habeas corpus is therefore denied without prejudice.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

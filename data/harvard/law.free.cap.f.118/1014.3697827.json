@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1046-10\">In re BROWN.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ACk\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AW-\">October 30, 1902.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AtPX\">Nos. 71, 76.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Agr\">Appeals from the District Court of the United States for the Southern District of New York.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"AjU\">Before WALLACE, TOWNSEND, and COXE, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1046-11\">PER CURIAM.</author>\n<p id=\"AKeC\">The motion to dismiss appeals from orders of the district court of April 26, 1902, and May 17, 1902, are respectively granted, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

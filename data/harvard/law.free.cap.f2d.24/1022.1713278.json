@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1050-31\">UNITED STATES ex rel. George CONDOURAS, Relator-Appellant, v. Benjamin M. DAY, as Commissioner, etc., Respondent-Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1050-32\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJ2u\">March 9, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1050-34\">No. 266.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1050-36\">Leopold Klinger, of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1050-37\">Charles H. Tuttle, U. S. Atty., of New York City (Frank Chambers, Asst. U. S. Atty., of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1050-38\">Before MANTON, L. HAND, and SWAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1050-39\">PER CURIAM.</author>\n<p id=\"AtcV\">Order affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

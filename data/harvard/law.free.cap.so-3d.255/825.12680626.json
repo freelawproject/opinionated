@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Harold STEPHENSON, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  Tayna PORUBA, et al., Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-2851\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  October 19, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Petitioner's petition for a writ prohibiting Judge Jack Helingerfrom presiding further in circuit court case number 11-14772-FD-12 is granted. See Fla. R. Jud. Admin. 2.330(f) ; In re I.K., Jr.,\n   <extracted-citation case-ids=\"9250488,9250502\" index=\"0\" url=\"https://cite.case.law/so-2d/869/579/\">\n    869 So. 2d 579\n   </extracted-citation>\n   (Fla. 2d DCA2003). Accordingly, the chief judge shall immediately appoint a successor judge pursuant to Florida Rule of Judicial Administration 2.215(b)(4).\n  </p>\n  <judges id=\"p-7\">\n   LaROSE, C.J., and SILBERMAN and SALARIO, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

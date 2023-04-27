@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"924\" lastpage=\"924\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b872-12\">MARYLOU BRADLEY <em>v. </em>TIMOTHY P. RANDALL ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b872-13\">(AC 16301)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b872-14\">Dupont, C. J., and Lavery and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b872-15\">Argued June 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A41\">officially released July 8, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b872-17\">Per Curiam.</author>\n<p id=\"AFO\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

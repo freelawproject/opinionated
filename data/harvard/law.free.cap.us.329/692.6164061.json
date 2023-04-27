@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"692\" lastpage=\"692\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b778-6\">No. 79,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aqsr\">No. 93,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AIp\">No. 95,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"ALUv\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"A8N8\">Misc.</p>\n<p data-order=\"5\" data-type=\"misc\" id=\"AL2A\">Misc.</p>\n<parties data-order=\"6\" data-type=\"judges\" id=\"Asu\">Ex parte Cannady; Ex parte Thomas; and Ex parte Kneisley.</parties>\n<decisiondate data-order=\"7\" data-type=\"decisiondate\" id=\"A1ra\">January 20, 1947.</decisiondate>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9T\">The motions for leave to file petitions for writs of habeas corpus are denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

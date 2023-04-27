@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"512\" lastpage=\"512\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b544-4\" pgmap=\"544\">175 A.3d 145</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AV37\" pgmap=\"544\">LITTY v. ISLAND BOATS</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b544-7\" pgmap=\"544\">Pet. Docket No. 319,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"AKh\" pgmap=\"544\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b544-8\" pgmap=\"544\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b544-9\" pgmap=\"544\">December 15, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b544-10\" pgmap=\"544\">(No. C-17-CV-17-000079, Circuit Court for Queen Anne\u2019s County.)</p> <p id=\"b544-11\" pgmap=\"544\">Petition for writ of certiorari dismissed</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

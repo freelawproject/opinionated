@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"416\" lastpage=\"416\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b440-5\">Jack Cothran v. The State.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b440-6\">No. 21331.</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A3z\">Delivered December 11, 1940.</decisiondate>\n<p data-order=\"3\" data-type=\"summary\" id=\"b440-12\">The opinion states the case.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b440-13\"><em>J. Mitch Johnson, </em>of San Saba, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b440-14\"><em>Lloyd W. Davidson, </em>State\u2019s Attorney, of Austin, for the State.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b440-15\">BEAUCHAMP, Judge.</author>\n<p id=\"b440-16\">The question presented in this appeal is exactly the same as that discussed in Cause No. 21,329 by the same appellant in an opinion of this date (page 414 of this volume). For the same reasons the judgment of the trial court is reversed and the cause remanded.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

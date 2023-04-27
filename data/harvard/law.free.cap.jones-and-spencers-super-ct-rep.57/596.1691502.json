@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"596\" lastpage=\"596\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b616-5\">Louisa Lenner, Appellant, <em>v. </em>Jean Westen, Impleaded, etc., Respondent.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b616-6\">Decided May 6, 1889.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"An-\">Appeal from judgment entered upon a direction of judge dismissing the complaint on a trial before a jury.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AfN\">Arthur Furber, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AGb\">Fettretch, Silkman &amp; Seybel, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Apj\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A4f\">Per Curiam:</author>\n<p id=\"A4L\">The testimony upon the trial required the decision made below. Judgment affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

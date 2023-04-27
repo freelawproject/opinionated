@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b859-14\">H. CLIFFORD O\u2019SHEA, JR., ET AL. <em>v. </em>GERALD F. DEAN ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b859-15\">(AC 15370)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b859-16\">Foti, Lavery and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b859-17\">Argued April 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Abl\">officially released May 27, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b859-19\">Per Curiam.</author>\n<p id=\"A9y\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

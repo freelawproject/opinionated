@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1055-12\">Glen SANDERS v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1055-13\">No. 1385.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1055-14\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AIq\">Dec. 9, 1935.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1055-16\">Virgil P. Wilson, of Tulsa, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1055-17\">Cleon A. Summers, U. S. Atty., of Muskogee, Okl.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1055-18\">Before LEWIS, PHILLIPS, and Mc-DERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1055-19\">PER CURIAM.</author>\n<p id=\"b1055-20\">Appeal dismissed for failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

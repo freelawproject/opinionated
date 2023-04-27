@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"897\" lastpage=\"897\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b945-15\">Elmo De Vere CARPENTER v. BINGHAM &amp; GARFIELD RAILWAY COMPANY, a Corporation, and Kennecott Copper Corporation.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b945-16\">No. 3828.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b945-17\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b945-18\">Feb. 19, 1949.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b945-20\">Rawlings, Wallace &amp; Black, of Salt Lake City, Utah, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b945-21\">C. C. Parsons, Wm. M. McCrea, A. D. Moffat and C, A. Behle, all of Salt Lake City, Utah, for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b945-22\">Before PHILLIPS, Chief Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b945-23\">PER CURIAM.</author>\n<p id=\"b945-29\">Appeal dismissed, pursuant to stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

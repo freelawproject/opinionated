@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"12\" lastpage=\"12\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b100-15\">MATSON <em>v. </em>QUEEN\u2019S HOSPITAL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b100-17\">No. 353,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A3\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A4\">Decided October 14, 1963.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b100-19\">Per Curiam.</author>\n<p id=\"b100-20\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

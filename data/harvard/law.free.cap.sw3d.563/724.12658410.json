@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"724\" lastpage=\"725\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael D. HOLIWAY, Appellant,\n  <br/>\n  v.\n  <br/>\n  STATE of Missouri, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  WD 80982\n </docketnumber>\n <court id=\"p-3\">\n  Missouri Court of Appeals, Western District.\n </court>\n <decisiondate id=\"p-4\">\n  ORDER FILED: DECEMBER 18, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  S. Kathleen Webber, Kansas City, MO, Counsel for Appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Robert Bartholomew, Jefferson City, MO, Counsel for Respondent.\n </attorneys>\n <judges id=\"p-7\">\n  Before Division Three: Gary D. Witt, Presiding Judge, Cynthia L. Martin, Judge, Anthony Rex Gabbert, Judge\n  <strong>\n   ORDER\n  </strong>\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Per Curiam:\n  </author>\n  <p id=\"p-9\">\n   Michael Holiway appeals the circuit court's denial of his Rule 29.15 motion for post-conviction relief after an evidentiary hearing. We affirm. Rule 84.16(b).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1495\" lastpage=\"1495\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"ajv-dedup-1\">MEDIATION REFERRALS</p>\n<p data-order=\"1\" data-type=\"parties\" id=\"arl-dedup-1\">The following cases have been referred to mediation pursuant to S.Ct.Prac.R. 17.1(A):</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AtUn\">2011-0445.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"aow-dedup-0\">State ex rel. Wilson v. United Parcel Serv.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ayk8\">Franklin App. No. 10AP-68, 2011-Ohio-775.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

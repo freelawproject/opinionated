@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1443\" lastpage=\"1443\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AOUD\">\n<em>Wednesday, March 24, 1993</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AgKZ\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Afo\">92-1998.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AqUp\">State v. White.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZ3U\"><em>Athens County, </em>No. 92CA1528. On motion to adopt and incorporate notice of appeal, and motion to strike. Motion to strike granted.</p>\n<judges id=\"APqN\">Douglas, Wright, Resnick and F.E. Sweeney, JJ., concur.</judges>\n<judges id=\"ASkK\"><em>Sua sponte, </em>cause dismissed.</judges>\n<judges id=\"AymX\">Moyer, C.J., A.W. Sweeney, Douglas and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b860-2\">JOHN MORTON <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AK13\">(AC 24574)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b860-3\">Lavery, C. J., and Foti and DiPentima, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b860-4\">Submitted on briefs January 12</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AFK\">officially released February 1, 2005</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b860-6\">Per Curiam.</author>\n<p id=\"AzK\">The habeas court did not abuse its discretion in denying the petition for certification to appeal.</p>\n<p id=\"b860-7\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1017\" lastpage=\"1017\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1039-9\">INTERSTATE PULP &amp; PAPER CO., Inc., Plaintiff in Error, v. WATERBURY REPUBLICAN, Inc., Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AEj\">(Circuit Court of Appeals. Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AvEU\">January 25, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AKZ\">No. 200.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AhVB\">Ingraham, Sheehan &amp; Moran, of New York City (M. E. Burke, of New York City, of counsel), for plaintiff in error. Remington &amp; Meek, of New York City (Harold Remington and B. H. Pollitt, both of New York City, of counsel), for defendant in error.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AWV\">Before ROGERS, MANTON, and MAYER, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1039-10\">PER CURIAM.</author>\n<p id=\"Aque\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

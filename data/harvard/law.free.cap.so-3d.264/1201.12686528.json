@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1201\" lastpage=\"1202\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Keith MARTIN\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-KH-578\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  March 6, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE FIRST JUDICIAL DISTRICT COURT, PARISH OF CADDO\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <judges id=\"p-7\">\n  HUGHES, J., additionally concurs and assigns reasons.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   CRICHTON, J., recused.\n  </author>\n  <p id=\"p-9\">\n   Hughes, J., additionally concurs.\n  </p>\n  <p id=\"p-10\">\n   I concur with the denial of the writ while noting that the court of appeal transferred this matter to the trial court to consider the request for documents. If the transcript supports relator's contentions that the prosecutor infringed upon his\n   right to remain silent, he may reurge that claim.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

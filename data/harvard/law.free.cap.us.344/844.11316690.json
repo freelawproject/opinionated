@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"844\" lastpage=\"845\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b752-12\">No. 71,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AC_\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AcSc\">Packwood <em>v. </em>Briggs &amp; Stratton Corp. et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ADuD\"><em>Thomas Cooch </em><page-number citation-index=\"1\" label=\"845\">*845</page-number>and <em>John E. Hubbell </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AN60\"><page-number citation-index=\"1\" label=\"844\">*844</page-number>C. A. 3d Cir. Certiorari denied.</p>\n<attorneys id=\"ASUx\"><page-number citation-index=\"1\" label=\"845\">*845</page-number><em>Ira Milton Jones </em>and <em>Arthur G. Connolly </em>for respondents.</attorneys>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

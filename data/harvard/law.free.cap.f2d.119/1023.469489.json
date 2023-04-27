@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Ad-d\">UNITED STATES, Appellee, v. George Frederick GUNDELFINGER, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aaj-dedup-2\">No. 7713.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"Aq8G\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"alq-dedup-1\">May 21, 1941.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ar--dedup-0\">H. F. Stambaugh, of Pittsburgh, Pa., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"aiv-dedup-1\">George Mashank, of Pittsburgh, Pa. (Charles F. Uhl, U. S. Atty., of Pittsburgh, Pa., on the brief), lor appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"Am6\">Before BIGGS, MARIS, and CLARK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ajd-dedup-0\">PER CURIAM.</author>\n<p id=\"Aa7n\">The judgment of the district court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

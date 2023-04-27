@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"52\" lastpage=\"52\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b84-5\" pgmap=\"84\">170 A.3d 289</citation><parties data-order=\"1\" data-type=\"parties\" id=\"Aos\" pgmap=\"84\">JONES, Clinton v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AjR\" pgmap=\"84\">Case No. 34,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"Ab0\" pgmap=\"84\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"AuC\" pgmap=\"84\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"AKj\" pgmap=\"84\">September 25, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"A1\" pgmap=\"84\">Case dismissed prior to oral argument.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

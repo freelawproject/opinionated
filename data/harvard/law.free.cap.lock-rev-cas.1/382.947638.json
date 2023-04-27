@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"382\" lastpage=\"382\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b430-7\">Evertson <em>v. </em>Booth. Appeal, 19 J. R 486.</parties>\n<p data-order=\"1\" data-type=\"p\" id=\"b430-8\">Not reported in Ch.</p>\n<headnotes data-order=\"2\" data-type=\"headnotes\" id=\"b430-9\">\n<em>Mortgage Debtor and Creditor.</em>\n</headnotes>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b430-10\">In this case the Court of Errors held, that where a creditor has a lien on two funds, out of which he can satisfy his debt, and a subsequent creditor has a lien on one of them only, the first creditor must resort to the fund which the second creditor can not touch, in order that the second creditor may avail himself of his only security, provided it can be done without injury to the prior creditor, or impairing his rights.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

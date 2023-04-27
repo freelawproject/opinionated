@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b907-8\">STATE OF CONNECTICUT <em>v. </em>MIGUEL BELTRAN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AO2n\">(AC 25172)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b907-9\">Laveiy, C. J., and Schaller and Gruendel, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b907-10\">Argued April 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"An2\">officially released May 31, 2005</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b907-12\">Per Curiam.</author>\n<p id=\"ASr\">This case is controlled by <em>State </em>v. <em>Chicano, </em>216 Conn. 699, 584 A.2d 425 (1990).</p>\n<p id=\"b907-13\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

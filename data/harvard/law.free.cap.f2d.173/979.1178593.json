@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"979\" lastpage=\"979\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1027-5\">Manning STREWL, Appellant, v. W. H. HIATT, Warden, United States Penitentiary, Atlanta, Ga., Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1027-7\">No. 12558</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1027-8\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1027-9\">May 3, 1949.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1027-11\">Manning Strewl, of Atlanta, Ga., in pro. per.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1027-12\">J. Ellis Mundy, U. S. Atty., and Harvey H. Tisinger, Asst. U. S. Atty., both of Atlanta, Ga., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1027-13\">Before HOLMES, McCORD, and WALLER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1027-14\">PER CURIAM.</author>\n<p id=\"b1027-15\">The judgment of the lower Court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

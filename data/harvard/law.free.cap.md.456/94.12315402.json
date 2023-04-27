@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"94\" lastpage=\"94\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b126-13\" pgmap=\"126\">171 A.3d 618</citation><parties data-order=\"1\" data-type=\"parties\" id=\"Aqu\" pgmap=\"126\">TRUSTY v. WARD</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b126-16\" pgmap=\"126\">Pet. Docket No. 227,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"AFI\" pgmap=\"126\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b126-17\" pgmap=\"126\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b126-18\" pgmap=\"126\">October 20, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b126-19\" pgmap=\"126\">Opinion of the Court of Special Appeals unreported (No. 2571, Sept. Term, 2015).</p> <p id=\"b126-20\" pgmap=\"126\">Petition for writ of certiorari denied.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

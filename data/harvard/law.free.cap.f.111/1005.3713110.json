@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1005\" lastpage=\"1005\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1017-4\">In re BIDDELL.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AID\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AzXM\">November 15, 1901.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AkW_\">No. 25.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A9D\">Appeal from the District Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ax4\">Isaac N. Miller, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ABN\">Robert Inch, for appellees.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"Anl\">Before WALLACE and IAOOMBE, Circuit .Judges, and TOWNSEND, District Judge.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmI\">No opinion.</p>\n<p id=\"A-W\">Order of district court, appealed from, reversed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

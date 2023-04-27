@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"288\" lastpage=\"288\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Florida, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  Emanuel QOSAJ, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-1929\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  June 01, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   The petitioner's petition for a writ prohibiting Judge William H. Burgess, III, from presiding further in circuit court case number 17-04504CF is granted as the petitioner's motion to disqualify the judge filed in the circuit court is deemed legally sufficient. Accordingly, a successor judge shall be immediately appointed pursuant to Florida Rule of Judicial Administration 2.215(b)(4).\n  </p>\n  <p id=\"p-7\">\n   The petitioner's motion to review the trial court's oral ruling denying stay is denied as moot.\n  </p>\n  <judges id=\"p-8\">\n   NORTHCUTT, VILLANTI, and CRENSHAW, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

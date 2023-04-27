@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"181\" lastpage=\"181\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b197-3\">JOHN FRASCELLA, PLAINTIFF, v. HERMAN E. RAPHAEL, DEFENDANT.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b197-4\">Decided January 26, 1932.</decisiondate>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b197-6\">For the plaintiff, <em>Charles A. Malloy.</em></attorneys>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b197-7\">For the defendant, <em>Perlman \u2022&amp; Lerner.</em></attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"b197-8\">Before Olipbajstt, Circuit Court judge, sitting as Supreme 'Court commissioner.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b197-9\">Oliphant, S. C. C.</author>\n<p id=\"A0G\">For the reasons set forth in the memorandum in the case of <em>Tarangioli </em>v. <em>Raphael, </em>10 <em>N. J. Mis. R. </em>171, filed of even date herewith, the motion to strike out the complaint will be granted. An order in conformity therewith may be presented.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

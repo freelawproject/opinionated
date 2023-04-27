@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"781\" lastpage=\"781\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AzH\">Orrel A. PARKER, Appellant, v. Conway P. COE, Commissioner of Patents, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AvH\">No. 7597.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"avt-dedup-1\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"a2n-dedup-0\">May 2, 1941.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"Avbe\">Before MARIS, JONES, and GOODRICH, Circuit Judges.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"acm-dedup-0\">Frank M. Slough, of Cleveland, Ohio, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A4JS\">Hugh C. Lord, of Erie, Pa., for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ayl-dedup-0\">PER CURIAM.</author>\n<p id=\"AxjZ\">The decree of the District Court is affirmed upon the opinion of Judge Schoon-maker, 33 F.Supp. 410.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

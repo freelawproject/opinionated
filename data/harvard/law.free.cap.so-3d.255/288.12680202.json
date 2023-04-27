@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"288\" lastpage=\"288\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Dominique CATHOLIC, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-2440\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  July 25, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   The petition, docketed June 21, 2018, is transferred to case 2D17-5117 as an amended petition. Case 2D18-2440 is dismissed as a duplicate to case 2D17-5117.\n  </p>\n  <judges id=\"p-7\">\n   MORRIS, SLEET, and SALARIO, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

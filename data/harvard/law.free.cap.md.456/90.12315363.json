@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"90\" lastpage=\"90\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b122-13\" pgmap=\"122\">171 A.3d 616</citation><parties data-order=\"1\" data-type=\"parties\" id=\"b122-14\" pgmap=\"122\">MORRISON, Abras S.Q. v. STATE of Maryland, et al.</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AHU\" pgmap=\"122\">Pet. Docket No. 215,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"AHz\" pgmap=\"122\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"A9F\" pgmap=\"122\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b122-17\" pgmap=\"122\">October 20, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b122-18\" pgmap=\"122\">Opinion of the Court of Special Appeals unreported (No. 546, Sept. Term, 2016).</p> <p id=\"b122-19\" pgmap=\"122\">Petition for writ of certiorari denied.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

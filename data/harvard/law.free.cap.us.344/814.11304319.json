@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"814\" lastpage=\"815\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b722-9\">No. 9,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Am_\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AAq\">Ward <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A9q\"><em>James T. Wright </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AJ6X\"><em>Solicitor General Perlman, Assistant, Attorney General </em><page-number citation-index=\"1\" label=\"815\">*815</page-number><em>McInerney, Beatrice Rosenberg </em>and <em>Murry Lee Randall </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7o\"><page-number citation-index=\"1\" label=\"814\">*814</page-number>C. A. 5th Cir. Certiorari granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

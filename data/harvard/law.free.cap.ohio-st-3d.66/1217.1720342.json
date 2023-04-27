@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1217\" lastpage=\"1217\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b789-6\">In re Resignation of Dorfmeier.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b789-7\">[Cite as <em>In re Resignation of Dorfmeier </em>(1993), 66 Ohio St.3d 1217.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ARc\">(No. 93-487</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A8H\">Submitted March 16, 1993</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ADT\">Decided March 17, 1993.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b789-8\">The resignation of William Dean Dorfmeier as an attorney, Registration No. 0006405, is accepted.</p>\n<judges id=\"b789-9\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

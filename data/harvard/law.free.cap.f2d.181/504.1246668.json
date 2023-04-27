@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"504\" lastpage=\"504\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b560-4\">CLYDE W. BECKNER, Inc., a corporation, v. WESTERN CONTRACTING CORPORATION, a corporation.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b560-5\">No. 4051.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b560-6\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b560-7\">March 15, 1950.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b560-9\">H. L. Snyder and Charles G. Peters, Charleston, West Virginia, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b560-10\">Lowell C. Kindig, Sioux City, Iowa, and W. D. Jochems, Wichita, Kansas, for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b560-11\">Before PHILLIPS, Chief Judge, and BRATTON, HUXMAN, MURRAH and PICKETT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b560-12\">PER CURIAM.</author>\n<p id=\"b560-13\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

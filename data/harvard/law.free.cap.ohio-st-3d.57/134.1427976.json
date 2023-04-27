@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"134\" lastpage=\"134\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b214-6\">[The State, ex rel.] Walton, Appellant, <em>v. </em>Hunter, Judge, et al., Appellees.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b214-8\">[Cite as State, ex rel. Walton, <em>v. </em>Hunter (1991), 57 Ohio St. 3d 134.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b214-10\">(No. 90-1967</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AfZ\">Submitted January 8, 1991</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AbY\">Decided February 6, 1991.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b214-12\">\n<em>William J. Walton, pro se.</em>\n</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Avv\"><em>Charles L. Bartholomew, </em>prosecuting attorney, for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b214-14\">The judgment of the court of appeals is affirmed.</p>\n<judges id=\"AOq\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

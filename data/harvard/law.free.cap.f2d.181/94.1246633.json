@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"94\" lastpage=\"94\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b150-29\">William Richard WILLIAMS v. William H. HIATT, Warden, United States Penitentiary, Atlanta, Georgia.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b150-30\">No. 13090.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b150-31\">United States Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AAl\">April 20, 1950.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b150-36\">William Richard Williams, in pro. per. J. Ellis Mundy, U. S. Atty., and Harvey H. Tisinger, Asst. U. S. Atty., Atlanta, Ga., for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b150-37\">Before HUTCHESON, Chief Judge, and McCORD and WALLER, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b150-38\">PER CURIAM. .</author>\n<p id=\"b150-39\">The judgment ,of the lower court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

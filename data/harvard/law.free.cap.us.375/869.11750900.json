@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"869\" lastpage=\"869\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b611-5\">No. 63,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AKE\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ACJr\">Milton <em>v. </em>Wainwright, Corrections Director.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AQs\"><em>Ray Sandstrom </em>for petitioner. <em>Richard W. Ervin, </em>Attorney General of Florida, and <em>George R. Georgieff, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AC8c\">Supreme Court of Florida. Certiorari denied.</p>\n<judges id=\"A1c_\">Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

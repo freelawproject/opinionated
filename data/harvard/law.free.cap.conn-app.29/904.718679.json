@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b900-2\">Gonzalo Avila <em>v. </em>Commissioner of Correction</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b900-3\">(10484)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b900-4\">O\u2019Connell, Heiman and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b900-5\">Argued September 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZT\">decision released October 13, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b900-7\"><em>Laurence P. Nadel, </em>for the appellant (petitioner).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b900-8\"><em>Stephen J. Sedensky III, </em>assistant state\u2019s attorney, with whom, on the brief, was <em>Donald Browne, </em>state\u2019s attorney, for the appellee (respondent).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b900-9\">Per Curiam.</author>\n<p id=\"AdRi\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"782\" lastpage=\"782\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A_q\">Henry Linn SHOCK, Appellant, v. Joseph W. SANFORD, Warden, United States Penitentiary, Atlanta, Georgia, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Az6\">No. 9709.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"abh-dedup-0\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"aev-dedup-0\">May 28, 1941.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A-X8\">Henry Linn Shock, in propria persona, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A8M\">Lawrence S. Camp, U. S. Atty., and Harvey H. Tysinger and John J. Flynt, Jr., Asst. U. S. Attys., all of Atlanta, Ga., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AypM\">Before FOSTER, HUTCHESON, and HOLMES, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AO9H\">PER CURIAM.</author>\n<p id=\"amq-dedup-2\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

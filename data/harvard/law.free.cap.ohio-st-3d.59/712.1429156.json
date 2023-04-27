@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"712\" lastpage=\"712\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<otherdate data-order=\"0\" data-type=\"otherdate\" id=\"Aio\">Wednesday, April 24, 1991</otherdate>\n<p data-order=\"1\" data-type=\"misc\" id=\"AzE\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AUT\">90-2545.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AAW\">Schramm v. Mahoney.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AhI\">In Habeas Corpus. On motion to vacate. Motion denied.</p>\n<judges id=\"ABqD\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

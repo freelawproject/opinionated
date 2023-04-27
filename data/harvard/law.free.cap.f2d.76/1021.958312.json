@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"aum-dedup-0\">UNITED STATES v. Lester SHORT.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AV4s\">No. 5446.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AIN\">Circuit Court of Appeals, Seventh Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AS0\">April 10, 1935.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AKYB\">Arthur Roe, of Vandalia, Ill., for the United States.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AdC\">Frank C. Wade, of Terre Haute, Ind., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"acd-dedup-1\">Before SPARKS, FITZHENRY, and ALSCHULER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AUG6\">PER CURIAM.</author>\n<p id=\"AUec\">On motion of counsel for appellant, it is now here ordered and adjudged by this court that this appeal be, and the same is hereby, dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b812-8\">No. 117,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AV5T\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A-X1\">Williamson <em>v. </em>Oklahoma.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Aqv_\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AdK-\"><em>Mac Q. Williamson, </em>Attorney General of <page-number citation-index=\"1\" label=\"905\">*905</page-number>Oklahoma, and <em>Owen J. Watts, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aprn\"><page-number citation-index=\"1\" label=\"904\">*904</page-number>Court of Criminal Appeals of Oklahoma. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1006\" lastpage=\"1006\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1018-4\">LAWLESS v. WARNECKE.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AAEz\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AUi\">November 13, 1901.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ApKV\">No. 11.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ALN\">Appeal from the Circuit Court of the United States for the Eastern .District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ajg\">Clarence Kelsey, for appellant.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AQt9\">Before WALLACE and L\u00c1COMBE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AuqA\">No opinion. Decree affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

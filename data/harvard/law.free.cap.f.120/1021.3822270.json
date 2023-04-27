@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1053-8\">ROUSS v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"APg\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AM4\">January 30, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Axl\">No. 88.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AjY\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AE3W\">Albert Comstock, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AEG\">J. Frank Lloyd, for the United States.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"A7zr\">Before WALLACE and LACOMBE, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3h\">No opinion. Affirmed in open court. See 113 Fed. 816.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"580\" lastpage=\"580\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b636-14\">Edward C. KELLEY, Petitioner, v. The RAILROAD RETIREMENT BOARD, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b636-15\">No. 13045.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b636-16\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aoq\">March 20, 1950.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b636-19\">Robt. C. Giles, Birmingham, Ala., Ben F. Ray, Birmingham, Ala., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b636-20\">Myles F. Gibbons, General Counsel, Railroad Retirement Bd., Chicago, Ill., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b636-21\">Before HOLMES, McCORD, and BORAH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b636-22\">PER CURIAM.</author>\n<p id=\"b636-23\">The petition is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

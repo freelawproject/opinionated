@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"918\" lastpage=\"918\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b914-2\">Rose Ella Monahan <em>v. </em>John J. Loeper</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AqJ\">(10719)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b914-3\">Daly, Foti and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b914-4\">Argued November 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ATTm\">decision released December 1, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b914-6\"><em>Charles M. Tighe, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b914-7\"><em>Adam J. Olshan, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b914-8\">Per Curiam.</author>\n<p id=\"Abn\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

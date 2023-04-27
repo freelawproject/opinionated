@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"609\" lastpage=\"609\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b305-9\">In re Resignation of Lawrence.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b305-10\">[Cite as In re Resignation of Lawrence (1991), 57 Ohio St. 3d 609.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b305-11\">(No. 90-1958</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AUC\">Submitted January 9, 1991</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"akb-dedup-0\">Decided January 16, 1991.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b305-12\">The resignation of Herbert Lee Lawrence as an attorney is accepted.</p>\n<judges id=\"ado-dedup-0\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

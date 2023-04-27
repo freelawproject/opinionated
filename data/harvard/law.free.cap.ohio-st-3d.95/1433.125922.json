@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1433\" lastpage=\"1433\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"ASN\">\n<em>April 25, 2002</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"header\" id=\"Ais\">MOTION AND PROCEDURAL RULINGS</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AbU7\">2001-1613.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AekQ\">SCIT, Inc. v. Cuyahoga Cty. Bd. of Revision.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_T-\">Board of Tax Appeals, No. 97-E-675. This cause is pending before the court as an appeal from the Board of Tax Appeals. Upon consideration of the joint motion to remand case to Board of Tax Appeals upon settlement,</p>\n<p id=\"AxU\">IT IS ORDERED by the court that the motion to remand case be, and hereby is, granted, and this cause is remanded to the Board of Tax Appeals for entry of an order.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

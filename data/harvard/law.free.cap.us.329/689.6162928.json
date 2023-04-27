@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"689\" lastpage=\"689\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b775-5\">No. 12,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AV24\">original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"At9\">United States <em>v. </em>California.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ah1U\">December 23, 1946.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AO1\">The motion of Robert E. Lee Jordan for leave to intervene is denied.</p>\n<judges id=\"Ah0h\">Mr. Justice Jackson took no part in the consideration or decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"654\" lastpage=\"655\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b676-10\">PARKER <em>v. </em>STATE</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aaa\">[App. No. 43,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AB9\">September Term, 1964.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b676-11\">\n<em>Decided March 5, 1965.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b676-14\">Before Hammond, Horney, Marbury, Sybert, OppEnheimer and Barnes, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b677-4\"><page-number citation-index=\"1\" label=\"655\">*655</page-number>Per Curiam.</author>\n<p id=\"b677-5\">Application for leave to appeal from a denial of post conviction relief is denied for the reasons set out in the opinion of Judge Powers in the court below.</p>\n<p id=\"b677-6\">\n<em>Application denied.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

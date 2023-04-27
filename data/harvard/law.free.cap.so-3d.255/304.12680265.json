@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"304\" lastpage=\"304\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  M.T., The Father, Appellant,\n  <br/>\n  v.\n  <br/>\n  DEPARTMENT OF CHILDREN AND FAMILIES, et al., Appellees.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D18-314\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed September 20, 2018.\n </decisiondate>\n <attorneys id=\"p-5\">\n  M.T., the father, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Karla Perkins, for appellee Department of Children and Families; Thomasina Moore, Statewide Director of Appeals, and Laura J. Lee (Sanford), for appellee Guardian ad Litem Program; Children &amp; Youth Law Clinic, and Robert Latham, for R.T., the child.\n </attorneys>\n <judges id=\"p-7\">\n  Before ROTHENBERG, C.J., and SALTER and LOGUE, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

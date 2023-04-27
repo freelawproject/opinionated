@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"257\" lastpage=\"257\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b289-13\" pgmap=\"289\">173 A.3d 156</citation><parties data-order=\"1\" data-type=\"parties\" id=\"Aaqs\" pgmap=\"289\">COX, Samuel J. v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AXX\" pgmap=\"289\">Pet. Docket No. 302,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"AQu\" pgmap=\"289\">Sept.Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"AVLr\" pgmap=\"289\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b289-16\" pgmap=\"289\">November 17, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b289-17\" pgmap=\"289\">Opinion of the Court of Special Appeals unreported (No. 126, Sept.Term, 2016).</p> <p id=\"b289-18\" pgmap=\"289\">Petition for writ of certiorari dismissed</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

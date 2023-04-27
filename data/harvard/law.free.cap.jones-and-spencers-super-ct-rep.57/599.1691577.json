@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"599\" lastpage=\"600\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b619-9\">The Holmes and Griggs Manufacturing Company, Respondent, <em>v. </em>G. Livingston Morse, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b619-10\">Decided June 28, 1889.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"A-D\">Appeal by defendant from judgment entered on report of referee.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A6N\">A. C. Ellis, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aa2\">Sidney H. Harris, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"Afde\">Before Sedgwick, Ch. J., Truax and Dugro, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ASd\">Per Curiam.</author>\n<p id=\"AJi\">The decisions of the supreme court <page-number citation-index=\"1\" label=\"600\">*600</page-number>on the subject involved in this action, are to be followed.. Judgment reversed, order of reference set aside and new trial ordered, with costs to abide event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

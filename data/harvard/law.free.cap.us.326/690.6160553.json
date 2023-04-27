@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"690\" lastpage=\"690\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b778-5\">No. 43,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A90\">No. 44,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ad1I\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"AOmi\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"ArN\">In re Young; and Bantz <em>v. </em>Squier, Warden.</parties>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"AYk\">November 5, 1945.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ASVp\">The applications are denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

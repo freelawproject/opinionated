@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"11\" lastpage=\"11\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b89-12\">BEER <em>v. </em>ATTORNEY GENERAL OF CALIFORNIA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b89-14\">No. 858,</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"AZ2\">Mise.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AJ\">Decided February 13, 1967.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b89-16\">Per Curiam.</author>\n<p id=\"b89-17\">An application for a stay addressed to Mr. Justice Douglas, and by him referred to the Court; is denied.</p>\n<p id=\"AW\">The judgment is affirmed.</p>\n<judges id=\"b89-18\">Mr. Justice Douglas is of the opinion that probable jurisdiction should be noted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

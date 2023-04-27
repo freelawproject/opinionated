@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"407\" lastpage=\"407\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<headnotes data-order=\"0\" data-type=\"headnotes\" id=\"b455-10\">Case No. 197.</headnotes>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A2F\">The ALICE VIVIAN.</parties>\n<p data-order=\"2\" data-type=\"summary\" id=\"AV3O\">[Nowhere reported; opinion not accessible.]</p>\n<citation data-order=\"3\" data-type=\"citation\" id=\"A9X\">[8 Adm. Rec. 403.]<footnotemark>1</footnotemark></citation>\n<court data-order=\"4\" data-type=\"court\" id=\"A5jN\">District Court, S. D. Florida.</court>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"AOJH\">Jan. 20, 1864.</decisiondate>\n<footnote data-order=\"6\" data-type=\"footnote\" id=\"x999-1\" label=\"1\">\n<p id=\"b455-17\"> [8 Adm. Rec. 403, only contains the decree of the court.]</p>\n</footnote>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"Aomqr\">[Cited in The R. E. Lee, Case No. 11,691.]</p>\n<p id=\"AleT\">[This was a libel by the United States against the steamer Alice Vivian and cargo, captured in attempting to run the blockade.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

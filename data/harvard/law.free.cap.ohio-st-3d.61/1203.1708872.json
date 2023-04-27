@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1203\" lastpage=\"1203\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AFJ\">In re Resignation of Johnson.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b915-14\">[Cite as <em>In re Resignation of Johnson </em>(1991), 61 Ohio St.3d 1203.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AHt\">(No. 91-1277</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Ail\">Submitted July 17, 1991</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AvS\">Decided July 24, 1991.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b915-15\">The resignation of Barbara Lynn Johnson as an attorney, Registration No. 0030533, is accepted.</p>\n<judges id=\"b915-16\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

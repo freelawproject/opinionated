@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"33\" lastpage=\"33\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b49-11\">CARRADINO PERGOLA AND ALFRED DONNARUMMA, PLAINTIFFS, v. BERNARD LOBERMANN AND MARY T. LOBERMANN, DEFENDANTS.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b49-12\">Decided December 10, 1931.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"A9L\">Before Justices Campbell, Lloyd and Bodine.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b49-14\">For the motion, <em>Philip Sherman.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b49-15\">\n<em>Contra, A. Michael Lepore.</em>\n</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b49-16\">Memorandum.</p>\n<p id=\"b49-17\">An examination and consideration of the proofs before us in this matter brings us to the conclusion that the judgments should not be permitted to be opened.</p>\n<p id=\"b49-18\">The application is therefore denied, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

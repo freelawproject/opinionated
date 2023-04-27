@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"294\" lastpage=\"294\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b430-4\">Richmond</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b430-5\">Lacy Carleton Polk, Jr. v. Commonwealth of Virginia.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b430-6\">October 12, 1970.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b430-7\">Record No. 7269.</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b430-8\">Present, I\u2019Anson, Carrico, Gordon, Harrison, Harman and Cochran, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b430-10\"><em>R. R. Ryder, </em>for plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b430-11\"><em>William P. Bagwell, Jr., Assistant Attorney General (Andrew P. Miller, Attorney General, </em>on brief), for defendant in error.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b430-12\"><em>Decree affirmed </em>without opinion by equally divided Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

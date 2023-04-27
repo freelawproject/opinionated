@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"212\" lastpage=\"212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b292-10\"><em>In re </em>Conferencia Judicial de Puerto Rico.</parties>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b292-11\"><em>N\u00famero: </em>-</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"As7\"><em>Resuelto: </em>24 de marzo de 1992</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b292-12\">RESOLUCI\u00d3N</p>\n<p id=\"b292-13\">En conformidad con nuestra Orden de 30 de junio de 1987, se transfiere la Conferencia Judicial de Puerto Rico para mayo de 1993.</p>\n<p id=\"b292-14\">\n<em>Publ\u00edquese.</em>\n</p>\n<p id=\"b292-15\">Lo acord\u00f3 el Tribunal y certifica el se\u00f1or Secretario General.</p>\n<author id=\"b292-16\"><em>(Fdo.) </em>Francisco R. Agrait Liado</author>\n<author id=\"AYp\">\n<em>Secretario General</em>\n</author>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

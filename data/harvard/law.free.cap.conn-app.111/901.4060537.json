@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b861-8\">CECELIA LEBBY <em>v. </em>WORLD WRESTLING ENTERTAINMENT, INC., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b861-9\">(AC 29444)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b861-10\">Bishop, DiPentima and Graendel, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b861-11\">Submitted on briefs October 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AN\">officially released November 18, 2008</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b861-13\">Per Curiam.</author>\n<p id=\"AG\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

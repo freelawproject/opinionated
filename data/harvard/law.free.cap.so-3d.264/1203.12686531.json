@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1203\" lastpage=\"1203\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Lorenzo CONNER\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-KK-2003\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  March 6, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE CRIMINAL DISTRICT COURT FOR THE PARISH OF ORLEANS\n  </strong>\n </p>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <judges id=\"p-7\">\n  HUGHES, J., would grant and assigns reasons.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Hughes, J., would grant the writ.\n  </author>\n  <p id=\"p-9\">\n   Respectfully, the investigating officer received an\n   <em>\n    email\n   </em>\n   from another detective stating, \"Gun on victim had five murders connected to it. Bystanders attempted to remove weapon but police arrived too soon. Victim killed someone near University Hospital last week.\"\n  </p>\n  <p id=\"p-10\">\n   This email should have been immediately provided to the defense.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

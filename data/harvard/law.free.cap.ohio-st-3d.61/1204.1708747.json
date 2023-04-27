@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1204\" lastpage=\"1204\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b916-13\">In re Resignation of Tankersley.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b916-14\">[Cite as <em>In re Resignation of Tankersley </em>(1991), 61 Ohio St.3d 1204.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"As4\">(No. 91-1427</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AfO\">Submitted July 31, 1991</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Arf\">Decided August 7, 1991.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b916-15\">The resignation of Hugh R. Tankersley as an attorney, Registration No. 0009404, is accepted.</p>\n<judges id=\"b916-16\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"673\" lastpage=\"673\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b759-9\">No. 36,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AFQ\">No. 39,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A0BI\">No. 40,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"A3i\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"AbQ7\">Misc.</p>\n<p data-order=\"5\" data-type=\"misc\" id=\"AegI\">Misc.</p>\n<parties data-order=\"6\" data-type=\"parties\" id=\"A_s\">Ex parte Goins; Ex parte Stephenson; and Ex parte McCrackin.</parties>\n<decisiondate data-order=\"7\" data-type=\"decisiondate\" id=\"AK6\">October 21, 1946.</decisiondate>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Adh\">The motions for leave to file petitions for writs of habeas corpus are denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

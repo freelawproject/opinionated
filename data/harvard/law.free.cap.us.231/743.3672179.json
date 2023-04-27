@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"743\" lastpage=\"744\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b793-7\">No. -. Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A-Q\"><em>Ex parte: </em>In the Matter of Jonas Jones, Petitioner.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AOU\">Submitted December 15, 1913.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"APO\">De<page-number citation-index=\"1\" label=\"744\">*744</page-number>cided December 22, 1913.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ah0\"><em>Mr. W. I. Cruce </em>and <em>Mr. A. C. Cruce </em>for the petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AHec\"><em>The Solicitor General </em>opposing.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARLn\">Motion for leave to file petition for writ of <em>habeas corpus </em>denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

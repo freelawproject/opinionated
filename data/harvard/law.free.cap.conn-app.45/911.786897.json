@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b859-7\">GERALD F. DEAN <em>v. </em>NORWALK CONTAINER, INC., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b859-9\">(AC 16237)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b859-10\">Foti, Lavery and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b859-11\">Argued April 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AGG\">officially released May 27, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b859-13\">Per Curiam.</author>\n<p id=\"AkH\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

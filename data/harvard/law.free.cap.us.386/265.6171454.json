@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"265\" lastpage=\"265\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b343-4\">TETTAMBLE <em>v. </em>MISSOURI.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b343-6\">No. 32,</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"AoN\">Mise.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ATK\">Decided March 13, 1967.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b343-8\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b343-9\"><em>Norman H. Anderson, </em>Attorney General of Missouri, and <em>Harold L. McFadden, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b343-10\">Per Curiam.</author>\n<p id=\"b343-11\">The motion for leave to proceed <em>in jornia pauperis </em>and the petition for- a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Missouri for further consideration in light of <em>Swenson </em>v. <em>Bosler, ante, </em>p. 258.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

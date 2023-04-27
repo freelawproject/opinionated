@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"876\" lastpage=\"876\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b618-10\">No. 255,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"APCG\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ARf\">Carrillo <em>v. </em>United States District Court for the District of New Mexico.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A6j\">Petitioner <em>pro se. Solicitor General Cox </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACCg\">Motion for leave to file petition for writ of mandamus and for other relief denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

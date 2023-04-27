@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b902-7\">ANTONIO BARNES v. COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aey-dedup-0\">(AC 31975)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b902-8\">Bishop, Bear and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b902-9\">Submitted on briefs January 10</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ahx-dedup-0\">officially released February 1, 2011</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b902-11\">Per Curiam.</author>\n<p id=\"ac5-dedup-0\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"614\" lastpage=\"614\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  DKE, INC., Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  SECURA INSURANCE COMPANY, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158988, 158989\n  <br/>\n  COA: 333497, 337834\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  February 22, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of plaintiff-appellee to extend the time for filing its answer is GRANTED. The answer will be accepted as timely filed if submitted on or before March 19, 2019.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

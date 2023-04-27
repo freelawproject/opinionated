@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b885-13\">MAUREEN WALSH <em>v. </em>DEAN MOBERG</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"a_i-dedup-0\">(AC 31357)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b885-14\">Beach, Alvord and West, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b885-15\">Argued April 21</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ASaS\">officially released May 18, 2010</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b885-17\">Per Curiam.</author>\n<p id=\"A3BJ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

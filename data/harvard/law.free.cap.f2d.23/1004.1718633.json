@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1004\" lastpage=\"1004\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1032-26\">MORGAN HILL PAVING COMPANY, Plaintiff in Error, v. D. W. IRELAND, Doing Business as Gulf Construction Company, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1032-27\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AET\">February 20, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1032-28\">No. 5011.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1032-30\">Allen C. Clements and George H. Craven, both of Ft. Myers, Fla., for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1032-31\">E. Dixie Beggs, of Ft. Myers, Fla., for defendant in error.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1032-32\">Before WALKER, BRYAN, and FOSTER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1032-33\">PER CURIAM.</author>\n<p id=\"Ahb\">The judgment in this case is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

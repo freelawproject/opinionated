@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"506\" lastpage=\"506\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b538-4\" pgmap=\"538\">175 A.3d 142</citation><parties data-order=\"1\" data-type=\"parties\" id=\"Acc\" pgmap=\"538\">CHASE v. CHASE</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b538-7\" pgmap=\"538\">Pet. Docket No. 318,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"AVC\" pgmap=\"538\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b538-8\" pgmap=\"538\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b538-9\" pgmap=\"538\">December 15, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b538-10\" pgmap=\"538\">Opinion of the Court of Special Appeals unreported (No. 2531, Sept.Term, 2014).</p> <p id=\"b538-11\" pgmap=\"538\">Petition for writ of certiorari dismissed</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

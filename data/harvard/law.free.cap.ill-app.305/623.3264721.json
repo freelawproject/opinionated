@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"623\" lastpage=\"623\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b645-8\" pgmap=\"645\">Alfred Johnson, Appellee, v. Edward Balmes, Appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Avv\" pgmap=\"645\">Gen. No. 40,965.</docketnumber><p data-order=\"2\" data-type=\"p\" id=\"AVBJ\" pgmap=\"645\">(Abstract of Decision.)</p><court data-order=\"3\" data-type=\"court\" id=\"AvS\" pgmap=\"645\">Heard in second division, first district, this court at October term, 1939;</court><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AqL\" pgmap=\"645\">opinion filed May 28, 1940.</decisiondate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A0ou\" pgmap=\"645\">Arthur R. Wolfe, for appellant; James G. Barber, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"Ax1\" pgmap=\"645\">Opinion by Justice Friend.</author> <p id=\"Aii\" pgmap=\"645\">\u2018\u2018Not to be published in full.\u201d</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

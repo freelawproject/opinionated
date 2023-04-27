@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"923\" lastpage=\"923\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b919-11\">James Packard <em>v. </em>Department of Motor Vehicles</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b919-12\">(10681)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b919-13\">Landau, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b919-14\">Argued December 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AQQ\">decision released December 29, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b919-16\"><em>Raymond T. Trebisacci, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b919-17\"><em>Priscilla J. Green, </em>assistant attorney general, with whom, on the brief, was <em>Richard Blumenthal, </em>attorney general, for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b919-18\">Per Curiam.</author>\n<p id=\"Aq_\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

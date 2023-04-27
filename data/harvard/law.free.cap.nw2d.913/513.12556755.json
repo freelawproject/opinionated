@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"513\" lastpage=\"513\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  John McClaine TERRELL\n </parties>\n <docketnumber id=\"p-2\">\n  2017AP771-CR\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Wisconsin.\n </court>\n <decisiondate id=\"p-4\">\n  May 8, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   PETITION FOR REVIEW DENIED\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   ROGGENSACK, C.J. did not participate.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

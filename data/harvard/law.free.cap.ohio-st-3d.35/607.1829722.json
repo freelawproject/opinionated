@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"607\" lastpage=\"607\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b311-4\">Columbus Bar Association <em>v. </em>Farber.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b311-5\">[Cite as Columbus Bar Assn. <em>v. </em>Farber (1988), 35 Ohio St. 3d 607.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b311-6\">(D.D. No. 87-18</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Apo\">Decided January 27, 1988.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b311-8\">Robert H. Farber, Jr. is .publicly reprimanded.</p>\n<judges id=\"AzG\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

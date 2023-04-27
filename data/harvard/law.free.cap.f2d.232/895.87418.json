@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"895\" lastpage=\"895\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b943-3\">Earl C. PATTERSON v. Eva C. CLEARY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b943-5\">No. 5236.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b943-6\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b943-7\">March 21, 1956.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b943-9\">T. B. Keleher and John B. Tittmann, Albuquerque, N. M., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b943-10\">George A. Shipley and Robert J. Seller and Loma M. Shipley, Alamogordo, N. M., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b943-11\">Before MURRAH and PICKETT, Circuit Judges, and HILL, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b943-17\">PER CURIAM.</author>\n<p id=\"b943-18\">Remanded to District Court without opinion, with instructions to vacate the order granting a new trial and to reinstate the judgment.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

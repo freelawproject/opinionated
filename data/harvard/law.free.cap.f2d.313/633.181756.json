@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"633\" lastpage=\"633\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b701-4\">Willie Charles HILL v. J. C. TAYLOR, Warden.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b701-6\">No. 7149.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b701-7\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b701-8\">Jan. 9, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b701-10\">Thomas W. Inman, Denver, Colo., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b701-11\">Newell A. George, U. S. Atty., and Benjamin E. Franklin, Asst. U. S. Atty., Topeka, Kan., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b701-12\">Before MURRAH, Chief Judge, and PICKETT and LEWIS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b701-13\">PER CURIAM.</author>\n<p id=\"b701-14\">Appeal dismissed on motion of respondent January 9, 1963, on ground appeal is moot</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

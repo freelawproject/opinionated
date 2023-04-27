@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"84\" lastpage=\"84\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b116-5\" pgmap=\"116\">171 A.3d 613</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AH2\" pgmap=\"116\">AVEDISIAN v. RAPID FINANCIAL SERVICES</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AXJ\" pgmap=\"116\">Pet. Docket No. 241,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"ACS\" pgmap=\"116\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b116-8\" pgmap=\"116\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b116-9\" pgmap=\"116\">October 20, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b116-10\" pgmap=\"116\">Opinion of the Court of Special Appeals unreported (No. 1035, Sept. Term, 2016).</p> <p id=\"b116-11\" pgmap=\"116\">Petition for writ of certiorari denied.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

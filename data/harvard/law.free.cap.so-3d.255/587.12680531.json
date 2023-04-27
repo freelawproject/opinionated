@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"587\" lastpage=\"587\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  CROSSTEX ENERGY SERVICES, LP, et al.\n  <br/>\n  v.\n  <br/>\n  TEXAS BRINE COMPANY, LLC, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-CC-1128\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  October 29, 2018\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRIT TO THE 23\n   <sup>\n    RD\n   </sup>\n   JUDICIAL DISTRICT COURT, PARISH OF ASSUMPTION\n  </strong>\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   Writ granted. Finding there are genuine issues of material fact still in dispute, we set aside the district court's ruling which granted Occidental Chemical Corporation's motion for partial summary judgment and dismissed Texas Brine Company's fraud-based claims. This matter is remanded to the district court for further proceedings.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

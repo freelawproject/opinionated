@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"697\" lastpage=\"697\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b729-3\">DONNA M. MOUNTFORD <em>v. </em>NATHANIEL M. MOUNTFORD</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b729-5\">[No. 19,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"ANs\">January Term, 1941.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b729-7\">\n<em>Decided April 9th, 1941</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b729-10\">The cause was argued before Sloan, Johnson, Delaplaine, and Collins, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b729-11\"><em>Eldridge Hood Young </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b729-12\"><em>Joseph T. Sherier, </em>with whom was <em>Robert Peter, </em>on the brief, for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b729-13\">Collins, J.,</author>\n<p id=\"As7\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

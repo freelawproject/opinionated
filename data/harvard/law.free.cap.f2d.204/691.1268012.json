@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"691\" lastpage=\"692\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b743-35\">FARMERS INSURANCE EXCHANGE et al. v. Ray Leon WOFFORD.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ast-dedup-0\">No. 4641.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"A48\">United States Court of Appeals Tenth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AhN\">April 3, 1953.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aid\">Duke Duvall, Draper Grigsby and Charles. R. Nesbitt, Oklahoma City, Old., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ACj\">Gus Rinehart, Oklahoma City, Okl, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"ALZI\">Before PHILLIPS, Chief Judge, and. KNOUS, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b744-3\"><page-number citation-index=\"1\" label=\"692\">*692</page-number>PER CURIAM.</author>\n<p id=\"b744-4\">Appeal dismissed \u00f3n joint motion of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

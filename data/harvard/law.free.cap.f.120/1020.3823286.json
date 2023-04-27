@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1052-3\">JUMEAU v. BROOKS et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AnLp\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AyaU\">March 3, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AVlm\">No. 1,209.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Aplg\">Appeal from the Circuit Court of the United States for the Southern District of Florida.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A5Rk\">Jno. G. Reardon, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Axr\">Herbert L. Anderson, for appellees.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"Ai_\">Before McCORMICK and SHELBY, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1052-4\">PER CURIAM.</author>\n<p id=\"AWB\">The decree of the Circuit Court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

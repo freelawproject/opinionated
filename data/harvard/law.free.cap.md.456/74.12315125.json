@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"74\" lastpage=\"74\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b106-4\" pgmap=\"106\">170 A.3d 300</citation><parties data-order=\"1\" data-type=\"parties\" id=\"Al9\" pgmap=\"106\">WORSHAM v. MOSBY</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Adf\" pgmap=\"106\">Pet. Docket No. 220,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"AZW\" pgmap=\"106\">Sept.Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"ADtG\" pgmap=\"106\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b106-9\" pgmap=\"106\">September 22, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b106-10\" pgmap=\"106\">(No. 12-C-15-002452, Circuit Court for Harford County.)</p> <p id=\"AqM\" pgmap=\"106\">Petition for writ of certiorari dismissed</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

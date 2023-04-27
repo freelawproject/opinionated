@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b901-10\">Lynn Wilson-Rich <em>v. </em>Bryan Wilson-Rich</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aj6\">(10409)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b901-11\">O\u2019Connell, Heiman and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b901-12\">Argued September 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ag1\">decision released October 13, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b902-3\"><page-number citation-index=\"1\" label=\"906\">*906</page-number><em>William C. Bieluch, Jr., </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b902-4\"><em>Joyce A. Riccio, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b902-5\">Per Curiam.</author>\n<p id=\"Ad4a\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

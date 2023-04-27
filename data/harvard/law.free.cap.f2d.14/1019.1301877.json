@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1043-7\">In the Matter of Morris BLEECKER et al. Bankrupts. Samuel SHINKMAN and Milton M. Berkowitz, Petitioners.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1043-8\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AcA_\">October 14, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1043-9\">No. 7.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1043-11\">Samuel Rose, of New York City (David Leavenworth, of New York City, of counsel), for petitioners.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1043-12\">Eugene L. Bondy and Bondy <em>&amp; </em>Sehloss, all of New York City, for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1043-13\">Before MANTON, HAND, and MACK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1043-14\">PER CURIAM.</author>\n<p id=\"A-bb\">Order (14 F.[2d] 1018) affirmed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

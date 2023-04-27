@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"201\" lastpage=\"201\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b227-7\">Wilfred LeBlanc <em>v. </em>Nye Motor Company et al.</parties>\n<p data-order=\"1\" data-type=\"misc\" id=\"b227-8\">May Term, 1929.</p>\n<judges data-order=\"2\" data-type=\"judges\" id=\"b227-9\">Present: Watson, C. J., Powers, Slack, Moulton, and Willcox, JJ</judges>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b227-10\">Opinion filed October 1, 1929.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b227-12\"><em>Beane G. Bavis </em>for the claimant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b227-13\"><em>Erwin M. Harvey </em>for the defendants.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b227-14\">Slack, J.</author>\n<p id=\"AdH\">This is the claimant\u2019s appeal referred to and disposed of in the companion case reported in the 102 Vermont Beports at page 194.</p>\n<p id=\"b227-15\">\n<em>Order vacated and proceedings dismissed with costs. Let the result be certified to the commissioner of industries.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

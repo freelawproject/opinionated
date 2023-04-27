@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"355\" lastpage=\"355\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b383-11\">Frederick W. HILDITCH, as Trustee, and American Chain Company, Inc., Plaintiffs Appellees, v. BETHLEHEM BUMPER COMPANY, Inc., Defendant Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b383-12\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXMW\">February 6, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b383-13\">No. 128.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b383-15\">Nelson Littell, of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b383-16\">Frederick S. Duncan and Oscar W. Jeffery, both of New York City, for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b383-17\">Before MANTON, SWAN, and AUGUSTUS N. HAND, Circuit Judges..</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b383-18\">PER CURIAM.</author>\n<p id=\"AkK4\">Decree (25 F.[2d] 353) affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

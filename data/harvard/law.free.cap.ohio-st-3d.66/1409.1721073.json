@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1409\" lastpage=\"1409\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AqS\">\n<em>Wednesday, February 10, 1993</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Afj\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AOz\">92-2290.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AnfO\">State ex rel. Fields v. Ohio Adult Parole Auth.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHCK\">In Mandamus. On answer of respondent, on motion to file answer instanter, and on motion to amend complaint. <em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"ACH\">Moyer, C.J., A.W. Sweeney, Douglas, Wright and Resnick, JJ., concur.</judges>\n<judges id=\"A2Z\">F.E. Sweeney and Pfeifer, JJ., would deny the writ.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

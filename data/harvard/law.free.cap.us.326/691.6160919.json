@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"691\" lastpage=\"691\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b779-6\">No. 16,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AHQ\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AWnN\">DeCloux <em>v. </em>Johnston, Warden, et al.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AO4\">December 3, 1945.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AdYv\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AET\">\n<em>Solicitor General McGrath, Messrs.</em>\n</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A8Kq\"><em>Robert S. Erdahl </em>and <em>Leon Ulman </em>for respondents.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A26\">The motion for leave to file a petition for a writ of certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

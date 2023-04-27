@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"308\" lastpage=\"308\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b356-4\">Hal Francis HAWK, Administrator etc., et al. v. Honorable Willis W. RITTER, United States District Judge for the District of Utah.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b356-5\">No. 4194.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b356-6\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b356-7\">Nov. 13, 1950.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b356-9\">J. D. Skeen and F. Robert Bayle, Salt Lake City, Utah, for petitioners.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b356-10\">Van Cott, Bagley, Cornwell and McCarthy, Salt Lake City, Utah, for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b356-11\">Before HUXMAN, MURRAH and PICKETT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b356-12\">PER CURIAM.</author>\n<p id=\"b356-13\">Petition for writ of prohibition denied November 13, 1950.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

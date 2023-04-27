@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"126\" lastpage=\"126\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b180-28\">James Russell CLEARY v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b180-29\">No. 10697.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b180-30\">United States Court of Appeals Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b180-31\">April 12, 1949.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b180-33\">Appellant not represented.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b180-34\">Thomas P. Thornton, Detroit, Mich., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b180-35\">Before HICKS, Chief Judge, and MILLER, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b180-36\">PER CURIaM.</author>\n<p id=\"b180-37\">It appearing to the court that no steps having been taken in this case since May 10, 1948, it is now ordered that this case be and the same is dismissed with leave to reinstate for good cause shown.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

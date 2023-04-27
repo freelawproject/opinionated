@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"164\" lastpage=\"164\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b186-3\" pgmap=\"186\">Sadie Yeates et al., Appellants, v. School Directors of District No. 38, County of Kankakee and State of Illinois, Appellees.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b186-4\" pgmap=\"186\">Gen. No. 9,531.</docketnumber><p data-order=\"2\" data-type=\"p\" id=\"AWc\" pgmap=\"186\">(Abstract of Decision.)</p><court data-order=\"3\" data-type=\"court\" id=\"ALy\" pgmap=\"186\">Heard in this court at February term, 1940;</court><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Adh\" pgmap=\"186\">opinion filed April 6, 1940.</decisiondate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AYW\" pgmap=\"186\">Eva L. Minor, for appellants; Charles W. Kurtz and H. H. Whittemore, for appellees.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"Aa6\" pgmap=\"186\">Opinion by Justice Huffman.</author> <p id=\"AX_\" pgmap=\"186\">\u201cNot to be published in full.\u201d</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

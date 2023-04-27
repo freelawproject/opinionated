@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1058-30\">UNITED STATES of America, Complainant-Respondent, v. John TALLUTO, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1058-31\">No. 303.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1058-32\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1058-33\">April 6, 1936.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1058-35\">Thomas L. Newton, of Buffalo, N. Y., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1058-36\">George L. Grobe, U. S. Atty., of Buffalo, N. Y. (John S. Carriero, Asst. U. S. Atty., of Buffalo, N. Y., of counsel), for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1058-37\">Before MANTON, L. HAND, and SWAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1058-38\">PER CURIAM.</author>\n<p id=\"b1058-39\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

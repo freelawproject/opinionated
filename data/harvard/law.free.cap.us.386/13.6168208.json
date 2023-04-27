@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"13\" lastpage=\"13\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b91-4\">ALLISON <em>v. </em>UNITED STATES.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b91-6\">No. 454,</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"Avf\">Mise.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGS\">Decided February 13, 1967.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b91-8\">Petitioner <em>pro' se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b91-9\"><em>Solicitor General Marshall </em>for the United States.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AiN\">Per Curiam.</author>\n<p id=\"b91-10\">. The motion for leave to proceed <em>in forma pauperis </em>and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Seventh Circuit with instructions to grant the petitioner an appeal with counsel.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

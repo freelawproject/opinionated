@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1047-25\">Henry HYMAN, Plaintiff Appellant, v. YALE ELECTRIC CORPORATION, Defendant Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1047-26\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ax89\">April 9, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1047-27\">No. 254.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1047-29\">Gifford &amp; Scull, of New York City (John H. Bruninga, of St. Louis, Mo., of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1047-30\">Wm. S. Pritchard, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1047-31\">Before MANTON, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1047-32\">PEE CURIAM.</author>\n<p id=\"AkW\">Decree affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

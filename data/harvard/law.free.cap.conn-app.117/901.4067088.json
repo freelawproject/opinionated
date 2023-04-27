@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b907-7\">NYRON DUMAS <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A94\">(AC 29888)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b907-8\">Flynn, C. J., and Alvord and Sullivan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b907-9\">Argued September 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AlMA\">officially released October 13, 2009</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b907-11\">Per Curiam.</author>\n<p id=\"afq-dedup-0\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1046-5\">B. B. HILL MFG. CO. v. SAWYER-BOSS MFG. CO. et al. (two cases).</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A6X\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A2v\">November 17, 1902.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AS8\">Nos. 24, 25.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AlX\">Appeals from the Circuit Court of the United States for the Eastern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ACA\">W. E. Warland, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A2d\">H. Albertus West, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AHM\">Before WALLACE, TOWNSEND, and COXE, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1046-6\">PER CURIAM.</author>\n<p id=\"AFMR\">Decrees (112 Fed. 144) affirmed, with costs, on opinion below.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

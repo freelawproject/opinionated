@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"360\" lastpage=\"360\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Shawn Loveto CAMERON, Jr., Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 155849\n  <br/>\n  COA: 330876\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  July 16, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motions of the Criminal Defense Attorneys of Michigan to waive fee and to extend the time for filing a brief amicus curiae are GRANTED. The amicus brief submitted on July 12, 2018, is accepted for filing. On further order of the Chief Justice, the motions of the Attorney General to file a brief amicus curiae and to extend the time for doing so are GRANTED. The amicus brief submitted on July 13, 2018, is accepted for filing.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

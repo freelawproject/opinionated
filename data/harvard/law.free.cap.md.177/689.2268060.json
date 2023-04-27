@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"689\" lastpage=\"690\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b719-3\">CHARLES C. RENNER <em>v. </em>MARY ELLA RENNER</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b719-4\">[No. 31,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Au5\">January Term, 1940.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b720-4\">\n<page-number citation-index=\"1\" label=\"690\">*690</page-number>\n<em>Decided April 3rd, 1940.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b720-7\">The cause was argued before Bond, C. J., Offutt, Parke, Sloan, Mitchell, Johnson, and Delaplaine, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b720-8\"><em>Omer T. Kaylor, </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b720-9\"><em>Martin V. B. Bostetter, </em>submitting on brief, for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b720-10\">Delaplaine, J.,</author>\n<p id=\"ARA\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

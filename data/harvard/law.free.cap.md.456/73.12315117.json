@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"73\" lastpage=\"73\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b105-12\" pgmap=\"105\">170 A.3d 300</citation><parties data-order=\"1\" data-type=\"parties\" id=\"Asz\" pgmap=\"105\">WOMEN FIRST OB/GYN v. HARRIS</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Aqc\" pgmap=\"105\">Pet. Docket No. 194,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"ADKK\" pgmap=\"105\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b105-16\" pgmap=\"105\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"AEq\" pgmap=\"105\">September 22, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b105-17\" pgmap=\"105\">Reported below: 232 Md.App. 647, 161 A.3d 28.</p> <p id=\"ADN\" pgmap=\"105\">Petition for writ of certiorari denied</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

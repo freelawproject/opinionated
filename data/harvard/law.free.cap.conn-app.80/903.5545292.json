@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b853-7\">DOROTHY S. MITCHELL <em>v. </em>MORRIS SILVERSTEIN ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b853-8\">(AC 23445)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b853-9\">Foti, Dranginis and West, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b853-10\">Argued October 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aj2\">officially released December 2, 2003</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b853-12\">Per Curiam.</author>\n<p id=\"aff-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

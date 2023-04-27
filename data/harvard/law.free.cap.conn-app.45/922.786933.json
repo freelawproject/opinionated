@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"922\" lastpage=\"922\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b870-12\">GRAHAM HERWERTH <em>v. </em>CITY OF GROTON</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A00e\">(AC 16788)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b870-13\">Foti, Landau and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b870-14\">Argued June 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AbB\">officially released July 8, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b870-16\">Per Curiam.</author>\n<p id=\"A59\">The decision of the workers\u2019 compensation review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

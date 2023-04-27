@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"795\" lastpage=\"795\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AhF_\">COMMISSIONER OF INTERNAL REVENUE, Petitioner, v. The PROCTOR SHOP, Inc., Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AX_L\">No. 7734.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AMr\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AfLO\">March 20, 1936.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"Ale\">Before WILBUR, GARRECHT, and HANEY, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AuP_\">PER CURIAM.</author>\n<p id=\"AKv3\">This case involves the same parties and the same question as that this day decided in Commissioner of Internal Revenue v. The Proctor Shop, Inc. (C.C.A.) 82 F.(2d) 792, save that the taxes in question are for the taxable year ending January 31, 1929. Upon that authority, the decision of the Board of Tax Appeals is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

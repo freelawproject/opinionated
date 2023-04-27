@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"689\" lastpage=\"689\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b777-5\">No. 42,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AyoM\">No. 47,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A_G\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"AHc\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"Avvi\">Bernard <em>v. </em>Wright, Warden; and Hilliard <em>v. </em>Johnston, Warden.</parties>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"Aph\">November 5, 1945.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUKR\">The motions for leave to file petitions for writs of habeas corpus are denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

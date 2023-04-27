@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"679\" lastpage=\"679\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b765-4\">No. 45,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AE1\">No. 46,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AYfE\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"AXh\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AFi\">Read <em>v. </em>Zimmerman; and Ex parte Lee.</parties>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"Aey\">October 28, 1946.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Abzr\">Applications denied.</p>\n<judges id=\"AehV\">Mr. Justice Murphy took no part in the consideration or decision of these applications.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

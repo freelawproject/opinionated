@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"828\" lastpage=\"828\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b906-3\">No. 13,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Am2m\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A5dC\">Texas <em>v. </em>New Jersey et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AIAF\"><em>Arthur J. Sills, </em>Attorney General of New Jersey, <em>Alan B. Handler, </em>First Assistant Attorney General, and <em>Charles J. Kehoe, </em>Deputy Attorney General, on the motion.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AsjZ\">(379 U. S. 674, 380 U. S. 518, <em>ante, </em>p. 931.) Motion of State of New Jersey for modification of final decree denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

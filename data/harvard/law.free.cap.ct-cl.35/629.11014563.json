@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"629\" lastpage=\"629\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b661-13\">GEORGE DEWEY v. THE UNITED STATES.</parties>\n<p data-order=\"1\" data-type=\"p\" id=\"b661-14\">[35 C. Cls. R.;</p>\n<citation data-order=\"2\" data-type=\"citation\" id=\"Acq\">178 U. S. R., 210.]</citation>\n<summary data-order=\"3\" data-type=\"attorneys\" id=\"b661-15\">\n<em>On the claimant\"1 s Appeal.</em>\n</summary>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b661-16\">The decision of the court below (reported p. 172 <em>ante) </em>is affirmed on the same grounds.</p>\n<author id=\"b661-17\">Mr. Justice Harlan</author>\n<p id=\"AkX\">delivered the opinion of the Supreme Court May 14, 1900.</p>\n</opinion>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"dissent\">\n<author id=\"b661-18\">Mr. Chief Justice Fuller</author>\n<p id=\"AUN5\">delivered a dissenting opinion, in which</p>\n</opinion>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-3\" type=\"concurrence\">\n<author id=\"b661-19\">Mr. Justice White and Mr. Justice McKenna</author>\n<p id=\"Amf\">concurred.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"367\" lastpage=\"367\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b419-4\">Italy A. ROBINSON, Appellant, v. Sallie M. WILLIAMS, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b419-5\">No. 9928.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b419-6\">United States Court of Appeals District of Columbia Circuit.</court>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b419-7\">Argued May 13, 1949.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b419-8\">Decided May 23, 1949.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b419-11\">Mr. Charles K. Brown, Jr., Washington, D. C., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b419-12\">Before CLARK, WILBUR K. MILLER, and PRETTYMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b419-13\">PER CURIAM.</author>\n<p id=\"b419-14\">We find no error in the record. Therefore, the decision of the District Court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

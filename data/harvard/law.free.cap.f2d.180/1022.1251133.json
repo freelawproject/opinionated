@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1078-15\">Melvin C. CARR v. William H. HIATT, Warden, United States Penitentiary, Atlanta, Georgia</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AzU\">No. 13116.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1078-16\">United States Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1078-18\">April 20, 1950.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1078-20\">Melvin C. Carr, in pro. per.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1078-21\">J. Ellis Mundy, U. S. Atty., Atlanta, Ga., Harvey H. Tisinger, Asst. U. S. Atty., Atlanta, Ga., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1078-22\">Before HUTCHESON, Chief Judge, and McCORD and WALLER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1078-23\">PER CURIAM.</author>\n<p id=\"b1078-24\">The judgment of the lower court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1077\" lastpage=\"1077\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1101-7\">Theodore GESELLE v. UNITED STATES.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1101-8\">No. 448.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1101-9\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1101-10\">March 19, 1931.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1101-12\">Ayres, Cowan, McCorkle &amp; Fair and Dempster 0. Potts, all of Wichita, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1101-13\">Dan B. Cowie, Asst. U. S. Atty., of Tope- ' ka, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1101-14\">Before LEWIS and McDERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1101-15\">PER CURIAM.</author>\n<p id=\"b1101-16\">Appeal dismissed March 19, 1931, per stipulation, at costs of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

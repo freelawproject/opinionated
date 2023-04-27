@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"679\" lastpage=\"679\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b765-5\">No. 47,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A4El\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A0v\">Ex parte Evans.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AH2\">October 28, 1946.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ax5\">The motion for leave to file petition for writ of habeas corpus is denied.</p>\n<judges id=\"AJD\">Mr. Justice Murphy took no part in the consideration or decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

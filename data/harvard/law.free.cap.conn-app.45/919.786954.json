@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"919\" lastpage=\"920\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b867-17\">MELINDA DIAZ <em>v. </em>JAYESH B. SHELAT ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ATyd\">(AC 15994)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b867-18\">O\u2019Connell, Lavery and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b867-19\">Argued May 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AqoFR\">officially released June 24, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b868-2\"><page-number citation-index=\"1\" label=\"920\">*920</page-number>Per Curiam.</author>\n<p id=\"AJI\">This case is controlled by <em>Guthrie </em>v. <em>Hartford National Bank &amp; Trust Co., </em>146 Conn. 741, 156 A.2d 192 (1959).</p>\n<p id=\"b868-3\">The appeal is dismissed for lack of a final judgment.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

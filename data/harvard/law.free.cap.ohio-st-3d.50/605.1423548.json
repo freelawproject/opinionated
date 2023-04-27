@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"605\" lastpage=\"605\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b331-4\">In re Resignation of DeVictor.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b331-5\">[Cite as In re Resignation of DeVictor (1990), 50 Ohio St. 3d 605.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b331-6\">(No. 90-365</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AGz\">Submitted March 14, 1990</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ase\">Decided March 28, 1990.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b331-7\">The resignation of Robert Louis DeVictor as an attorney is accepted.</p>\n<judges id=\"AUgo\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown -and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

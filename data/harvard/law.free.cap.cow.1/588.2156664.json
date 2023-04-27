@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"588\" lastpage=\"588\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b600-10\">Durando <em>against </em>Mooney.</parties>\n<headnotes data-order=\"1\" data-type=\"headnotes\" id=\"b600-11\">On moving to amend,, a justice\u2019s return tb a writ of <em>certiorari, </em>ana affidavit upon which the writ was founded, or copies thereof, should be produced.</headnotes>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b600-12\">S. A. Foot,</attorneys>\n<p data-order=\"3\" data-type=\"headnotes\" id=\"A0o2\">moved to amend a Justice\u2019s return to a writ of <em>certiorari.</em></p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Acx3\"><em>Lovett, </em>contra,</attorneys>\n<p data-order=\"5\" data-type=\"legal\" id=\"AVR\">objected, that neither the return and afhdavit on which the <em>certiorari </em>was founded, nor copies thereof, were produced.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b600-17\">\n<em>Curia.</em>\n</author>\n<p id=\"AAK5\">The motion piust, for that reason, be denied.</p>\n<p id=\"b600-18\">Motion denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1017\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-44\">Fred GREENE, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1044-45\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A2S4\">March 5, 1928.</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1044-46\">No. 287.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1045-3\"><page-number citation-index=\"1\" label=\"1017\">*1017</page-number>Lester R. Baehner and Aaron A. Roth, both of New York City, for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1045-4\">Radcliffe Swinnerton, of New York City, for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1045-5\">Before L. HAND, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AqXT\">PER CURIAM.</author>\n<p id=\"AdZ\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

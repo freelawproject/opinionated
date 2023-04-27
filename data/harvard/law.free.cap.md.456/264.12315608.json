@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"264\" lastpage=\"264\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b296-4\" pgmap=\"296\">173 A.3d 159</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AQLY\" pgmap=\"296\">REMBOLD, Donald G. v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AcQ\" pgmap=\"296\">Pet. Docket No. 301,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"Ady\" pgmap=\"296\">Sept.Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b296-7\" pgmap=\"296\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b296-8\" pgmap=\"296\">November 17, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b296-9\" pgmap=\"296\">Opinion of the Court of Special Appeals unreported (No. 1122, Sept.Term, 2016).</p> <p id=\"b296-10\" pgmap=\"296\">Petition for writ of certiorari dismissed</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

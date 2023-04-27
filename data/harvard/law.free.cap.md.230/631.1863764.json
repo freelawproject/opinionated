@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"631\" lastpage=\"631\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b651-5\">SMITH <em>v. </em>WARDEN OF MARYLAND PENITENTIARY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b651-6\">[App. No. 40,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aue\">September Term, 1962.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b651-7\">\n<em>Decided December 13, 1962.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b651-10\">Before Henderson, Hammond, Prescott, HornEy and Marbury, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b651-11\">Per Curiam.</author>\n<p id=\"b651-12\">For the reasons stated by Judge Allen for dismissing the petition, the application for leave to appeal is denied.</p>\n<p id=\"b651-13\">\n<em>Application denied.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

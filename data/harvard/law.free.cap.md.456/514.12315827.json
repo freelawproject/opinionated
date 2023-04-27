@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"514\" lastpage=\"514\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><citation data-order=\"0\" data-type=\"citation\" id=\"b546-13\" pgmap=\"546\">175 A.3d 146</citation><parties data-order=\"1\" data-type=\"parties\" id=\"AMl\" pgmap=\"546\">NIVENS, Stephen v. STATE of Maryland</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AL_\" pgmap=\"546\">Pet. Docket No. 309,</docketnumber><p data-order=\"3\" data-type=\"misc\" id=\"AYZ\" pgmap=\"546\">Sept. Term, 2017</p><court data-order=\"4\" data-type=\"court\" id=\"b546-16\" pgmap=\"546\">Court of Appeals of Maryland.</court><decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b546-17\" pgmap=\"546\">December 15, 2017</decisiondate> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b546-18\" pgmap=\"546\">Opinion of the Court of Special Appeals unreported (No. 1383, Sept.Term, 2016).</p> <p id=\"b546-19\" pgmap=\"546\">Petition for writ of certiorari denied</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

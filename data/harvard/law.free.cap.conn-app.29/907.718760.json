@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b903-11\">Phillip Davis et al. <em>v. </em>Rosalind Lehrer et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b903-12\">(10996)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b903-13\">Daly, Foti and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b903-14\">Argued September 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVqi\">decision released October 20, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b903-16\"><em>John Lino Ponzini, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b903-17\"><em>Bruce A. Chamberlain, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b903-18\">Per Curiam.</author>\n<p id=\"A77\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

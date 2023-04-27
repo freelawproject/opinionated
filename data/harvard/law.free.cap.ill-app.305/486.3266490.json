@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"486\" lastpage=\"486\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b508-5\" pgmap=\"508\">Hugh G. Parsons, Appellant, v. Parsons Lumber Company, Inc., Appellee. Parsons Lumber Company, Inc., Appellee, v. Hugh G. Parsons, Appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b508-7\" pgmap=\"508\">Gen. No. 9,514.</docketnumber><p data-order=\"2\" data-type=\"p\" id=\"AQb\" pgmap=\"508\">(Abstract of Decision.)</p><court data-order=\"3\" data-type=\"court\" id=\"ArI\" pgmap=\"508\">Heard in this court at February term, 1940;</court><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AxIs\" pgmap=\"508\">opinion filed May 15, 1940.</decisiondate> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"AO1\" pgmap=\"508\">Opinion by Justice Huffman.</author> <p id=\"AdC\" pgmap=\"508\">\u201cNot to be published in full.\u201d</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

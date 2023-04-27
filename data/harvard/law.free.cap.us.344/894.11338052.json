@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"894\" lastpage=\"894\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b802-14\">December 8, 1952.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b802-16\">No. 211,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A5m2\">No. 223,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"A4Dp\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"AQz\">Misc.</p>\n<parties data-order=\"5\" data-type=\"parties\" id=\"A_K\">Lizzi <em>v. </em>Steele, Warden; and Dunlap <em>v. </em>Steiner, Warden.</parties>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ArNp_\">Motions for leave to file petitions for writs of habeas corpus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

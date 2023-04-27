@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1017\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1039-10\">DFI Communications, Inc., Respondent, v Sanford Greenberg, Appellant.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b1039-11\">Submitted February 7, 1977;</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AxN\">decided February 10, 1977</decisiondate>\n<p data-order=\"3\" data-type=\"otherdate\" id=\"b1039-13\">Reported below 51 AD2d 403, 55 AD2d 887.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1039-15\"><em>Anthony L. Tersigni </em>for motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1039-16\"><em>Michael E. Schoeman </em>opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1040-3\"><page-number citation-index=\"1\" label=\"1018\">*1018</page-number>Motion for a stay denied as unnecessary (CPLR 5519, subd [e])-</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

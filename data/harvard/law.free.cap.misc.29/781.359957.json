@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"781\" lastpage=\"781\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b817-8\">Supreme Court \u2014 Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AWW\">November, 1899.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b817-9\">Before Freedman, P. J., MacLean and Leventritt, JJ.</p>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b817-10\">William J. Walsh, Appellant, v. The Third Avenue Railroad Company, Respondent.\u2014</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AIXf\">Apeal from a judgment in favor of the defendant, based on the verdict of a jury, rendered in the Municipal Court of the city of New York,, seventh district, borough of Manhattan.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A5K\">William J. Walsh (J. Campbell, Thompson, of counsel), for Appellant;</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AT8F\">Hoadly, Lauterbach &amp; Johnson, for Respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APV\">Judgment affirmed, with, costs to the respondent. No opinion*</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

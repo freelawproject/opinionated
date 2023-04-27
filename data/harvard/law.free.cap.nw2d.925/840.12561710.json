@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"840\" lastpage=\"840\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Apostolos Paul MARGARIS, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  GENESEE COUNTY, Christopher Swanson, and Sheriff Robert Pickell, Defendants-Appellees,\n  <br/>\n  and\n  <br/>\n  Starlite Diner, Inc. and Kosta Popoff, Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157938\n  <br/>\n  COA: 337771\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  April 30, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the May 3, 2018 judgment of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the question presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

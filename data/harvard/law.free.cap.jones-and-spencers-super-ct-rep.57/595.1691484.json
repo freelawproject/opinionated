@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"595\" lastpage=\"596\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b615-10\">William Jukes, Respondent, <em>v. </em>Amos R. Eno, Appellant.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b615-11\">Decided May 6, 1889.</decisiondate>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AuQ\">Appeal from judgment entered upon verdict of jury, and from order denying <page-number citation-index=\"1\" label=\"596\">*596</page-number>motion for new trial, made upon the judge\u2019s minutes.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ANR\">Thomas C. Ennever, for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aa7\">Wager &amp; Acker, for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"A9n\">Before Sedgwick, Ch. J., and Freedman, J.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Aau\">Per Curiam:</author>\n<p id=\"Ak4\">Judgment and order affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
