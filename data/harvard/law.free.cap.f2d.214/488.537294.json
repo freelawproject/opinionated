@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"488\" lastpage=\"488\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b536-4\">Edith C. PETERSON, Appellant, v. SOUTHWESTERN GREYHOUND LINES, Inc., Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b536-6\">No. 14879.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b536-7\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b536-8\">July 16, 1954.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b536-10\">Frank Vaughan, Guy Bonham, San-Antonio, Tex., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b536-11\">Frank M. Wilson, Waco, Tex., for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b536-12\">Before HOLMES and STRUM, Circuit Judges, and THOMAS, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b536-13\">PER CURIAM.</author>\n<p id=\"b536-14\">The judgment appealed from is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

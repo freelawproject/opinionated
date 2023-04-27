@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b925-6\">PUTNAM NAIL CO. v. AUSABLE HORSE NAIL CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b925-7\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Afs\">February 27, 1894.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b925-8\">No. 40.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b925-9\">Appeal from tbe Circuit Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b925-10\">Frederick P. Bellamy, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b925-11\">Livingston Gifford, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"b925-12\">Before WALLACE, LACOMBE, and SHIPMAN, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b925-13\">Affirmed <em>on </em>opinion of court below. See Putnam Nail Co. v. Ausable Horsenail Co., 53 Fed. 390.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

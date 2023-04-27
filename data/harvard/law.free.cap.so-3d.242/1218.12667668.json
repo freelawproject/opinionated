@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1218\" lastpage=\"1218\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Wayne BANKS\n </parties>\n <docketnumber id=\"p-2\">\n  2018-KK-516\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 18, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE 24th JUDICIAL DISTRICT COURT FOR THE PARISH OF JEFFERSON\n  </strong>\n </p>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   Hughes, J., would deny on the showing made.\n  </author>\n  <p id=\"p-8\">\n   GENOVESE, J., would grant in part.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

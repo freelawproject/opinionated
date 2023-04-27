@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"9\" lastpage=\"9\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b111-15\">No. 10M1.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aq5\">Dale G. Wills, Petitioner v. Matthew Cate, Secretary, California Department of Corrections and Rehabilitation.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b111-16\">562 U.S. 819, 131 S. Ct. 372,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ase-dedup-0\">178 L. Ed. 2d 9,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A56\">2010 U.S. LEXIS 6666.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b111-17\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"An3\">Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

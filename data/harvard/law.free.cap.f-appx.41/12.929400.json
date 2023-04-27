@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"12\" lastpage=\"12\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b40-5\">Michael B. BROWN, Appellant, v. ADM MILLING COMPANY; David A. Singer, Jr., Dr., Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b40-7\">No. 02-2340.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b40-8\">United States Court of Appeals, Eighth Circuit.</court>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b40-9\">Submitted July 3, 2002.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b40-10\">Filed July 9, 2002.</decisiondate>\n<p data-order=\"5\" data-type=\"judges\" id=\"b40-12\">Before WOLLMAN, FAGG, and MORRIS SHEPPARD ARNOLD, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b40-14\">PER CURIAM.</author>\n<p id=\"b40-15\">Michael B. Brown appeals the district court\u2019s dismissal, without prejudice, of Brown\u2019s civil suit arising from the termination of his employment following a knee replacement. On careful review of the record, we affirm. <em>See </em>8th Cir. R. 47A(a).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

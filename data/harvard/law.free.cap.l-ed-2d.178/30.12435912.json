@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"30\" lastpage=\"30\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b132-22\">No. 09-1389.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aic-dedup-0\">Harber Corporation, et al., Petitioners v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b132-23\">562 U.S. 831, 131 S. Ct. 104,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ai2\">178 L. Ed. 2d 30,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AVdIN\">2010 U.S. LEXIS 6430.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b132-24\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"agt-dedup-1\">Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b132-25\">Same case below, 354 Fed. Appx. 676.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"745\" lastpage=\"745\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  John Edward DAVIS, Appellant,\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  Case No. 5D16-1364\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Fifth District.\n </court>\n <otherdate id=\"p-4\">\n  Decision filed March 6, 2018\n  <br/>\n  Rehearing and Rehearing En Banc Denied April 25, 2018\n </otherdate>\n <attorneys id=\"p-5\">\n  Mary Elizabeth Fitzgibbons, Orlando, for Appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Pamela Jo Bondi, Attorney General, Tallahassee, and Douglas T Squire, Assistant Attorney General, Daytona Beach, for Appellee.\n </attorneys>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-8\">\n   AFFIRMED.\n  </p>\n  <p id=\"p-9\">\n   ORFINGER, EVANDER and LAMBERT, JJ., concur.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

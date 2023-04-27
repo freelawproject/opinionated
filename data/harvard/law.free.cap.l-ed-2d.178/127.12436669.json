@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"127\" lastpage=\"127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b229-13\">No. 09-11506.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AOET\">Sergio Perez-Ochoa, aka Daniel Perez-Soto, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b229-14\">562 U.S. 884, 131 S. Ct. 211,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AoLN\">178 L. Ed. 2d 127,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Aba7\">2010 U.S. LEXIS 6819.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b229-15\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AaGD\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"a3og-dedup-0\">Same case below, 357 Fed. Appx. 960.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

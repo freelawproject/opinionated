@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"50\" lastpage=\"50\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b152-11\">No. 09-9955.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ANkJ\">Christopher Smith, Petitioner v. Pennsylvania.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b152-12\">562 U.S. 842, 131 S. Ct. 77,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AV_t\">178 L. Ed. 2d 50,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ANv\">2010 U.S. LEXIS 5789.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b152-13\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aldt-dedup-0\">Petition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied.</p>\n<p id=\"b152-14\">Same case below, 604 Pa. 126, 985 A.2d 886.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

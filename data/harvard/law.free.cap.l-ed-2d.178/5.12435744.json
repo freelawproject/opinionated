@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"5\" lastpage=\"5\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b107-15\">No. 09-11223.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"alz-dedup-0\">Doudou B. Janneh, Petitioner v. Regal Entertainment Group.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b107-16\">562 U.S. 804, 131 S. Ct. 162,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A7_\">178 L. Ed. 2d 5,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ahn-dedup-0\">2010 U.S. LEXIS 7664.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b107-17\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AcC\">Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Second Circuit dismissed. See Rule 39.8.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"784\" lastpage=\"784\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b806-9\">UNITED STATES of America Plaintiff\u2014Appellee v. Jacques Omar BLACK Defendant\u2014Appellant</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b806-12\">No. 01-5234.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b806-13\">United States Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b806-15\">July 26, 2002.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b806-16\">Before SUHRHEINRICH, SILER, and GILMAN, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b806-17\">This cause having come on to be heard upon the record, the briefs and the oral argument of the parties, and upon due consideration thereof,</p>\n<p id=\"b806-18\">The court finds that no prejudicial error intervened in the judgment and proceedings in the district court, and it is therefore ORDERED that said judgment be and it hereby is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

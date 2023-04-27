@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"212\" lastpage=\"212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b314-25\">No. 10-5612.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AbOz\">John Mitchell, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b314-26\">562 U.S. 931, 131 S. Ct. 327,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"AjiU\">2010 U.S. LEXIS 7300.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"arnr-dedup-0\">178 L. Ed. 2d 212,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b314-27\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMKE\">Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied.</p>\n<p id=\"b314-28\">Same case below, 386 Ill. App. 3d 1119, 361 Ill. Dec. 257, 970 N.E.2d 623.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

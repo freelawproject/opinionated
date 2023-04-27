@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"700\" lastpage=\"700\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b724-8\">JAMES T. HOLT <em>v. </em>FRANK M. STEPHEN et al., Administrators.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b724-9\">[No. 60,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A58\">October Term, 1928.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b724-12\">\n<em>Decided January 16th, 1929.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b724-15\">The cause was argued before Bond, C. J., Pattison, Adkins, Obbutt, Digges, Pabke, and Sloan, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b724-16\"><em>F. Murray Benson, </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b724-17\"><em>Charles W. Clagett, </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b724-18\">Bond, C. J.,</author>\n<p id=\"AlY\">delivered the opinion of the Court, dismissing the appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

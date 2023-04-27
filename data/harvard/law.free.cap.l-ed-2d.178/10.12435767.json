@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"10\" lastpage=\"10\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b112-10\">No. 10M4.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ap_-dedup-0\">David J. Beatty, Petitioner v. Deborah Kerivan.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b112-11\">562 U.S. 819, 131 S. Ct. 373,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A60\">178 L. Ed. 2d 10,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AFCQ\">2010 U.S. LEXIS 6245.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b112-12\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A6R\">Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

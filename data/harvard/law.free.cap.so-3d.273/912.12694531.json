@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Derek D. MOORE\n  <br/>\n  v.\n  <br/>\n  STATE\n </parties>\n <docketnumber id=\"p-2\">\n  CR-17-0231\n </docketnumber>\n <court id=\"p-3\">\n  Court of Criminal Appeals of Alabama.\n </court>\n <decisiondate id=\"p-4\">\n  February 28, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Dismissed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"182\" lastpage=\"182\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b270-30\">No. 09-760.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AkCt\">Keefe Alsobrook, et al., Petitioners v. UPS Ground Freight, Inc.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b270-31\">559 U.S. 972, 130 S. Ct. 1699,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"adh-dedup-2\">176 L. Ed. 2d 182,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AoKH\">2010 U.S. LEXIS 2140.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b270-32\">March 1, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AC5_\">Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n<p id=\"b270-33\">Same case below, 352 Fed. Appx. 1.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

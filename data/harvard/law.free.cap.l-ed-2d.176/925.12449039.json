@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"925\" lastpage=\"926\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1013-28\">No. 09-8327.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AL2M5\">Paul Runge, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1013-29\">559 U.S. 1108, 130 S. Ct. 2402,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aaiq-dedup-1\">176 L. Ed. 2d 925,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"avle-dedup-0\">2010 U.S. LEXIS 3748.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1013-30\">May 3, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"agqv-dedup-0\">Petition for writ of certio-rari to the Supreme Court of Illinois denied.</p>\n<p id=\"b1014-3\"><page-number citation-index=\"1\" label=\"926\">*926</page-number>Same case below, 234 Ill. 2d 68, 334 Ill. Dec. 865, 917 N.E.2d 940.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"212\" lastpage=\"212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b300-25\">No. 09-626.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AW2P\">Thomas Loch, et al., Petitioners v. Edwardsville Community Schools District No. 7.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b300-26\">559 U.S. 991, 130 S. Ct. 1736,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A1AX\">176 L. Ed. 2d 212,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ABpL\">2010 U.S. LEXIS 2279.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b300-27\">March 8, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgaY\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"b300-28\">Same case below, 327 Fed. Appx. 647.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

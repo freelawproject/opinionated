@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"110\" lastpage=\"110\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b198-17\">No. 09-542.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ANF\">Mitchell N. Kay, et al., Petitioners v. Jose Gonzalez.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b198-18\">559 U.S. 936, 130 S. Ct. 1505,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ACe\">176 L. Ed. 2d 110,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A0G\">2010 U.S. LEXIS 1200.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b198-19\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-P4\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"ACN\">Same case below, 577 F.3d 600.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

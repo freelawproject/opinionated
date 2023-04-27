@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"534\" lastpage=\"534\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b570-7\">No. \u2014.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Annr\">Ex parte Keogh.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AcaS\">Submitted May 16, 1932.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Amvc\">Decided May 31, 1932.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A6U7\">\n<em>Mr. John W. Keogh, pro se.</em>\n</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5A\">The motion that jurisdiction be assumed is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

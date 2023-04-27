@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"108\" lastpage=\"108\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b210-25\">No. 09-11338.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"afyk-dedup-0\">Raymond T. Boden, Petitioner v. Pennsylvania.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b210-26\">562 U.S. 874, 131 S. Ct. 182,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ApXP\">178 L. Ed. 2d 108,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Amay\">2010 U.S. LEXIS 6779.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b210-27\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARAD\">Petition for writ of certiorari to the Superior Court of Pennsylvania, Pittsburgh Office, denied.</p>\n<p id=\"b210-28\">Same case below, 972 A.2d 548.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

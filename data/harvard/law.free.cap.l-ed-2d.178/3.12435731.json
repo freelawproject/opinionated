@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"3\" lastpage=\"3\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b105-8\">No. 09-10029.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"APJ\">Winford Kent Bishop, Petitioner v. Antonio Johnson, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b105-9\">562 U.S. 802, 131 S. Ct. 74,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aap-dedup-0\">178 L. Ed. 2d 3,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Aof\">2010 U.S. LEXIS 7691.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b105-10\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ALG\">Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the Supreme Court of Georgia dismissed. See Rule 39.8.</p>\n<p id=\"b105-11\">Same case below, 684 S.E.2d 885.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

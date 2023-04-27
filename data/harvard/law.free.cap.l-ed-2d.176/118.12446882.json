@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"118\" lastpage=\"118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b206-15\">No. 09-6928.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"akt-dedup-1\">Barry Lane Anderson, Petitioner v. California.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b206-16\">559 U.S. 941, 130 S. Ct. 1503, 2010 U.S. LEXIS 1237.</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aev-dedup-1\">176 L. Ed. 2d 118,</p>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b206-17\">February 22, 2010.</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4yU\">Petition for writ of certiorari to the Supreme Court of California denied.</p>\n<p id=\"b206-18\">Same case below, 47 Cal. 4th 92, 97 Cal. Rptr. 3d 77, 211 P.3d 584.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

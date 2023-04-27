@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"255\" lastpage=\"255\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b357-15\">No. 10-5986.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aohb-dedup-1\">Tomas Vargas, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b357-16\">562 U.S. 955, 131 S. Ct. 364,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AeIF\">178 L. Ed. 2d 255,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Aqk19\">2010 U.S. LEXIS 7790.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b357-17\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AM1d\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"A579\">Justice Sotomayor took no part in the consideration or decision of this petition.</judges>\n<p id=\"b357-18\">Same case below, 378 Fed. Appx. 41.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

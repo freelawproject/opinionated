@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"100\" lastpage=\"100\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ADLE\">STATE OF MONTANA, Plaintiff, vs. DAVID M. SMITH, Defendant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AmX\">No. DC-02-361</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"Ao6Y\">Nunc Pro Tunc</p>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AW0Y\">The cause number indicated on the Defendant\u2019s Decision of August 8,2005 and the Amended Judgment and Commitment dated August 29, 2005 was listed as DC-02-316. The Sentence Review Division hereby corrects the cause number on these documents to reflect the actual cause number of the case to DC-02-361.</p>\n<p id=\"Al_1\">In all other respects, the August 8, 2005 Decision and the Amended Judgment and Commitment dated August 29, 2005 of the Sentence Review Division shall remain unchanged.</p>\n<p id=\"APhh\">DATED this 8th day of September, 2005</p>\n<judges id=\"AJrM\">Chairperson, Hon. Gary Day.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

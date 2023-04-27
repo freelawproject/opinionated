@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"714\" lastpage=\"714\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Marzuq AL-HAKIM, Appellant/Petitioner(s),\n </parties>\n <attorneys id=\"p-2\">\n  Julie L. JONES, Appellee/Respondent(s).\n </attorneys>\n <docketnumber id=\"p-3\">\n  CASE NO.:2D18-1472\n </docketnumber>\n <court id=\"p-4\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-5\">\n  May 03, 2018\n </decisiondate>\n <p id=\"p-6\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Appeal 2D18-1472 is dismissed as duplicative of 2D18-1279. Appellant's motion to consolidate is denied as moot.\n  </p>\n  <judges id=\"p-8\">\n   CASANUEVA, MORRIS, and ATKINSON, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"13\" lastpage=\"14\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b115-27\">No. 10M33.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AiX\">Dennis C. Reed, Petitioner v. Pennsylvania.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b115-28\">562 U.S. 820, 131 S. Ct. 377,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"app-dedup-0\">178 L. Ed. 2d 13,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A-f\">2010 U.S. LEXIS 6277.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b115-29\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1d\">Motion for leave to proceed in forma pauperis without an affidavit of indigency executed by petitioner granted.</p>\n<p id=\"b116-3\"><page-number citation-index=\"1\" label=\"14\">*14</page-number>Same case below, 605 Pa. 431, 990 A.2d 1158.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

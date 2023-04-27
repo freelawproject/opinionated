@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1076\" lastpage=\"1076\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jean JAMISON, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  HILLSBOROUGH COUNTY SHERIFF'S OFFICE, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D17-2953\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  January 25, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   The appellant's petition for all writs, treated within this appeal as a motion to compel, is denied. This appeal is dismissed for the appellant's failure to provide an appealable final order. This dismissal is without prejudice to the appellant to seek the issuance of a final order by filing a petition for writ of mandamus in this court.\n  </p>\n  <judges id=\"p-7\">\n   NORTHCUTT, MORRIS, and BLACK, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

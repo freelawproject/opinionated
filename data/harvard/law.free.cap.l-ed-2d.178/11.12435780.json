@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"11\" lastpage=\"12\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b113-26\">No. 10M17.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AqUx\">James Franklin Pipes, Petitioner v. David Ballard, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b113-27\">562 U.S. 820, 131 S. Ct. 375,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A2J\">178 L. Ed. 2d 11,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Aur\">2010 U.S. LEXIS 6511.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b113-28\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aiji\">Motion for leave to proceed as a veteran denied.</p>\n<p id=\"b114-3\"><page-number citation-index=\"1\" label=\"12\">*12</page-number>Same case below, 376 Fed. Appx. 315.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

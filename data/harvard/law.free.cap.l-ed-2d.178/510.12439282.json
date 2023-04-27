@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"510\" lastpage=\"511\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b612-27\">No. 09-10261.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AlWKo\">Edward Basley, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b612-28\">562 U.S. 1079, 131 S. Ct. 635,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"AYhar\">2010 U.S. LEXIS 9142.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"Af2qB\">178 L. Ed. 2d 510,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b612-29\">November 29, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJas\">Petition for writ of certiorari to the United States Court of <page-number citation-index=\"1\" label=\"511\">*511</page-number>Appeals for the Third Circuit denied.</p>\n<judges id=\"Ak6gj\">Justice Kagan took no part in the consideration or decision of this petition.</judges>\n<p id=\"b613-3\">Same case below, 357 Fed. Appx. 455.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

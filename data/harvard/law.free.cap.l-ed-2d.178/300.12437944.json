@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"300\" lastpage=\"300\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b402-14\">No. 10-5853.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Abom\">Nella Manko, Petitioner v. Dana Mannor, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b402-15\">562 U.S. 968, 131 S. Ct. 472,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AuInq\">178 L. Ed. 2d 300,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AfsB\">2010 U.S. LEXIS 8036.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b402-16\">October 12, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Advd-\">Petition for writ of certiorari to the Court of Appeals of New York denied.</p>\n<p id=\"b402-3\">Same case below, 14 N.Y.3d 880, 903 N.Y.S.2d 336, 929 N.E.2d 398.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

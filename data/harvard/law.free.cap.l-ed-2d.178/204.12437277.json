@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"204\" lastpage=\"204\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b306-20\">No. 10-5527.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ACFE\">Nathasha R. Scott, Petitioner v. JP Morgan Chase Bank.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b306-21\">562 U.S. 927, 131 S. Ct. 314,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"A7Y0\">2010 U.S. LEXIS 7248.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"axi-dedup-2\">178 L. Ed. 2d 204,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b306-22\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8Lq\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b306-23\">Same case below, 373 Fed. Appx. 528.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

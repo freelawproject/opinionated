@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"210\" lastpage=\"210\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b312-21\">No. 10-5591.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"afm1-dedup-0\">Marcus Thurmon, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b312-22\">562 U.S. 930, 131 S. Ct. 324,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"ALes\">2010 U.S. LEXIS 7633.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"AFM8\">178 L. Ed. 2d 210,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b312-23\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AhUH\">Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

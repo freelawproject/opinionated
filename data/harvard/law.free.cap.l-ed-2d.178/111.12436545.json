@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"111\" lastpage=\"111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b213-21\">No. 09-11367.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AaRU\">John Burton, Petitioner v. Washington Department of Corrections, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b213-22\">562 U.S. 876, 131 S. Ct. 391,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A9xG\">178 L. Ed. 2d 111,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AR0Y\">2010 U.S. LEXIS 6809.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b213-23\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A82c\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

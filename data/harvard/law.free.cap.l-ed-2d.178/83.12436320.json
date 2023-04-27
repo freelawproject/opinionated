@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"83\" lastpage=\"83\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b185-5\">No. 09-11067.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aqhd-dedup-1\">John H. Whitfield, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b185-6\">562 U.S. 833, 131 S. Ct. 136,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ALor\">178 L. Ed. 2d 83,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AUIN\">2010 U.S. LEXIS 6417.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b185-7\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"atcr-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b185-8\">Same case below, 590 F.3d 325.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

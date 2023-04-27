@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"24\" lastpage=\"24\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b126-19\">No. 09-1192.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AF4\">Thomas Wilner, et al., Petitioners v. National Security Agency, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b126-20\">562 U.S. 828, 131 S. Ct. 387,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AOJA\">178 L. Ed. 2d 24,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AdJ\">2010 U.S. LEXIS 6407.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b126-21\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9B\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<p id=\"b126-22\">Same case below, 592 F.3d 60.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

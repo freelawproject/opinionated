@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"96\" lastpage=\"96\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b198-7\">No. 09-11215.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aju3-dedup-0\">Guy E. Smith, Petitioner v. Florida.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b198-8\">562 U.S. 867, 131 S. Ct. 161,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AsJR\">178 L. Ed. 2d 96,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Asxv\">2010 U.S. LEXIS 6888.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b198-9\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"axjs-dedup-0\">Petition for writ of certiorari to the District Court of Appeal of Florida, Fifth District, denied.</p>\n<p id=\"b198-10\">Same case below, 26 So. 3d 597.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

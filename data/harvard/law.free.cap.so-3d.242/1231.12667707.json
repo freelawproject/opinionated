@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1231\" lastpage=\"1231\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Craig VICTORIAN\n  <br/>\n  v.\n  <br/>\n  James LEBLANC and Louisiana Department of Public Safety and Corrections\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2017-CI-0517\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 25, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   HUGHES, J., would grant.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

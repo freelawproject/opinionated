@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"702\" lastpage=\"702\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael R. PRESLEY, Esq., Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  Roberta Sue CASSELBERRY, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-0696\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  May 18, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Petitioner's petition for writ of prohibition is denied.\n  </p>\n  <judges id=\"p-7\">\n   KELLY, BLACK, and LUCAS, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

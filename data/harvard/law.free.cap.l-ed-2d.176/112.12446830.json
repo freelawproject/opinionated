@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"112\" lastpage=\"112\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b200-12\">No. 09-662.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ACr\">Chhun Eng, Petitioner v. Eric H. Holder, Jr., Attorney General.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b200-13\">559 U.S. 938, 130 S. Ct. 1521,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"AgU\">2010 U.S. LEXIS 1296.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"Ai_\">176 L. Ed. 2d 112,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b200-14\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aul-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b200-15\">Same case below, 345 Fed. Appx. 297.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

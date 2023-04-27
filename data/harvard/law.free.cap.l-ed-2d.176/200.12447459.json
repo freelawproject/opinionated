@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"200\" lastpage=\"200\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b288-17\">No. 09-8694.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AQ34\">Richard Joseph Finley, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b288-18\">559 U.S. 984, 130 S. Ct. 1718,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AD72I\">176 L. Ed. 2d 200,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"a-zq-dedup-0\">2010 U.S. LEXIS 1988.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b288-19\">March 1, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1Uq\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b288-20\">Same case below, 328 Fed. Appx. 480.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

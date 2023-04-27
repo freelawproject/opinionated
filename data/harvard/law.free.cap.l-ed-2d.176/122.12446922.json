@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"122\" lastpage=\"122\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b210-25\">No. 09-7878.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"avq-dedup-0\">Sheila Dennis, Petitioner v. Keller Meyer Building Services.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b210-26\">559 U.S. 944, 130 S. Ct. 1513,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aci-dedup-0\">176 L. Ed. 2d 122,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AqSA\">2010 U.S. LEXIS 1320.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b210-27\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnO\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

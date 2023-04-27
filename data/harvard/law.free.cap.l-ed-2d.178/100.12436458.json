@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"100\" lastpage=\"100\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b202-21\">No. 09-11258.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AyNOc\">Vernon Carter, Petitioner v. Walter A. McNeil, Secretary, Florida Department of Corrections.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b202-22\">562 U.S. 870, 131 S. Ct. 169,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ATAO\">178 L. Ed. 2d 100,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A7ht\">2010 U.S. LEXIS 6543.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b202-23\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AtP6\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

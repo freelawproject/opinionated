@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"132\" lastpage=\"132\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b220-16\">No. 09-8157.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aod-dedup-1\">Arthur Coleman, Petitioner v. E. Richard Bazzle, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b220-17\">559 U.S. 951, 130 S. Ct. 1534,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"apk-dedup-1\">176 L. Ed. 2d 132,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A_Y3\">2010 U.S. LEXIS 1490.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b220-18\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aqt-dedup-2\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b220-19\">Same case below, 333 Fed. Appx. 794.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

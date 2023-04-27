@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"849\" lastpage=\"849\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Adam Richard CAREY\n </parties>\n <docketnumber id=\"p-2\">\n  No. 293A19\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 21, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Guy J. Loranger, Attorney at Law, for Carey, Adam Richard.\n </attorneys>\n <attorneys id=\"p-6\">\n  E. Burke Haywood, Special Deputy Attorney General, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-7\">\n  Ernie Lee, District Attorney, for State of North Carolina.\n </attorneys>\n <p id=\"p-8\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   Upon consideration of the petition filed by State of NC on the 2nd of August 2019 for Writ of Supersedeas of the judgment of the Court of Appeals, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-10\">\n   \"Allowed by order of the Court in conference, this the 21st of August 2019.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

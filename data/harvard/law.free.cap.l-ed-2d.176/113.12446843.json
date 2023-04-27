@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"113\" lastpage=\"114\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b201-29\">No. 09-696.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Amq\">John J. Kane Regional Centers - Glen Hazel, Petitioner v. Sarah Grammer, as Administratrix of the Estate of Melvinteen Daniels, Deceased.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b201-30\">559 U.S. 939, 130 S. Ct. 1524,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AUT\">176 L. Ed. 2d 113,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"afl-dedup-0\">2010 U.S. LEXIS 1292.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b201-31\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"anr-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b202-3\"><page-number citation-index=\"1\" label=\"114\">*114</page-number>Same case below, 570 F.3d 520.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

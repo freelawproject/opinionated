@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"657\" lastpage=\"657\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b657-3\">Ford <em>vs. </em>Walsworth.</parties>\n<headnotes data-order=\"1\" data-type=\"headnotes\" id=\"b657-4\">On a motion for a <em>second trial </em>in ejectment, the opposite party is not entitled to costs for appearing to oppose, where no defence is made to the motion.</headnotes>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b657-5\"><em>S. Stevens, </em>for the defendant,</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"AF3\">moved for a rule ordering a new trial in an action of ejectment, in pursuance of 8 <em>R. S. 309, </em>&lt;\u00a7, 37.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b657-6\"><em>M. T. Reynolds, </em>for the plaintiff,</attorneys>\n<p data-order=\"5\" data-type=\"legal\" id=\"AIC\">asked costs for appearing to resist motion, but made no opposition to the motion on the merits.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b657-8\">The Court</author>\n<p id=\"AhIc\">granted the motion of the defendant without costs of opposing.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

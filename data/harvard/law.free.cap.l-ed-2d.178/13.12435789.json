@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"13\" lastpage=\"13\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b115-3\">No. 10M26.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AW48\">Orlan Hernan Valle, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b115-4\">562 U.S. 820, 131 S. Ct. 376,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ahg-dedup-0\">178 L. Ed. 2d 13,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"aiu-dedup-0\">2010 U.S. LEXIS 6244.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b115-5\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgH\">Motion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record granted.</p>\n<p id=\"b115-6\">Same case below, 376 Fed. Appx. 332.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

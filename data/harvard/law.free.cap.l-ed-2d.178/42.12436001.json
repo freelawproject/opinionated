@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"42\" lastpage=\"42\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b144-14\">No. 09-1523.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Af0_\">Kelly Conard, Petitioner v. Pennsylvania State Police, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b144-15\">562 U.S. 838, 131 S. Ct. 180,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ALpd\">178 L. Ed. 2d 42,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ab1T\">2010 U.S. LEXIS 5988.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b144-16\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ajq-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b144-17\">Same case below, 360 Fed. Appx. 337.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

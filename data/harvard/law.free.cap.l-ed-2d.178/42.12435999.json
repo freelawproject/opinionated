@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"42\" lastpage=\"42\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b144-6\">No. 09-1519.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AV4\">United States ex rel. Robert Pritsker, Petitioner v. Sodexho, Inc., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b144-7\">562 U.S. 838, 131 S. Ct. 179,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AZA0\">178 L. Ed. 2d 42,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"alo-dedup-0\">2010 U.S. LEXIS 6038.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b144-8\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AjrS\">Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b144-9\">Same case below, 364 Fed. Appx. 787.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

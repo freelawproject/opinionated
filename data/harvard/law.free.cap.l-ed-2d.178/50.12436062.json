@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"50\" lastpage=\"50\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b152-16\">No. 09-9957.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A5pZ\">Richard Herman Ford, Petitioner v. Cheryl Pliler, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b152-17\">562 U.S. 843, 131 S. Ct. 77,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AOZE\">178 L. Ed. 2d 50,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"a8c-dedup-0\">2010 U.S. LEXIS 5804.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b152-18\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5aU\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b152-19\">Same case below, 590 F.3d 782.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

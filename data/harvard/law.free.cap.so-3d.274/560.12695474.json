@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"560\" lastpage=\"561\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  BERKLEY ASSURANCE COMPANY\n  <br/>\n  v.\n  <br/>\n  Melissa WILLIS, as Parent/Guardian of Macy Lee Willis, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2019-CC-511\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 28, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE CIVIL DISTRICT COURT FOR THE PARISH OF ORLEANS\n  </strong>\n </p>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <judges id=\"p-7\">\n  HUGHES, J., would grant and assigns reasons.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Hughes, J., would grant the writ.\n  </author>\n  <p id=\"p-9\">\n   I do not believe an uncertain sum can be the basis for concursus. In any event, the concursus defendants can proceed by\n   reconventional demand to ascertain the amount at issue.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"33\" lastpage=\"34\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b135-23\">No. 09-1432.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"adc-dedup-0\">Sabel H. Bbela, Petitioner v. Microsoft Corporation.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b135-24\">562 U.S. 833, 131 S. Ct. 127,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A-0\">178 L. Ed. 2d 33,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A_yF\">2010 U.S. LEXIS 6594.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b135-25\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"asg-dedup-1\">Petition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied.</p>\n<p id=\"b136-3\"><page-number citation-index=\"1\" label=\"34\">*34</page-number>Same case below, 150 Wash. App. 1003.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

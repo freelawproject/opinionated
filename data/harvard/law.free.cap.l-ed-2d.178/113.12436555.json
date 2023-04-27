@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"113\" lastpage=\"113\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b215-5\">No. 09-11380.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ack5\">Carzell Scott, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b215-6\">562 U.S. 877, 131 S. Ct. 188,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AFM0\">178 L. Ed. 2d 113,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A3Sd\">2010 U.S. LEXIS 6733.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b215-7\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-15\">Petition for writ of certiorari to the Appellate Court of Illinois, Third District, denied.</p>\n<p id=\"b215-8\">Same case below, 395 Ill. App. 3d 1131, 369 Ill. Dec. 499, 986 N.E.2d 812.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

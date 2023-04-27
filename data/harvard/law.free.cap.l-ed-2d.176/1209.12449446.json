@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1209\" lastpage=\"1209\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1297-14\">No. 09-889.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ANe2\">Daniel M. Zachem, Petitioner v. Peter James Atherton.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1297-15\">560 U.S. 918, 130 S. Ct. 3275,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AcD0\">176 L. Ed. 2d 1209,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"apcd-dedup-0\">2010 U.S. LEXIS 4106.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1297-16\">May 17, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGGn\">Petition for writ of cer-tiorari to the United States Court of Appeals for the District of Columbia Circuit denied.</p>\n<judges id=\"AEhr\">The Chief Justice took no part in the consideration or decision of this petition.</judges>\n<p id=\"b1297-18\">Same case below, 386 U.S. App. D.C. 144, 567 F.3d 672.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

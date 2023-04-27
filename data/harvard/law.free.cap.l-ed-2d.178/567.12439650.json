@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"567\" lastpage=\"567\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b669-9\">No. 10-7194.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AfhtN\">Jeremy Pinson, Petitioner v. Robert Pacheco, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b669-10\">562 U.S. 1114, 131 S. Ct. 834,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"Aqx7t\">2010 U.S. LEXIS 9829.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"Af0o\">178 L. Ed. 2d 567,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b669-11\">December 13, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AdSr\">Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n<p id=\"b669-12\">Same case below, 397 Fed. Appx. 488.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

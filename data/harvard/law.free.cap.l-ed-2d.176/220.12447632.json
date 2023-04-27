@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"220\" lastpage=\"220\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b308-22\">No. 09-8630.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AVLQ\">Napoleon Brown, Petitioner v. California.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b308-23\">559 U.S. 996, 130 S. Ct. 1748,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"anbd-dedup-0\">176 L. Ed. 2d 220,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ajto-dedup-0\">2010 U.S. LEXIS 2302.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b308-24\">March 8, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"atg-dedup-2\">Petition for writ of cer-tiorari to the Court of Appeal of California, First Appellate District, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

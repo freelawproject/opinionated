@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"100\" lastpage=\"100\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b202-18\">No. 09-11256.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AFZq\">Rosemary Dillon, Petitioner v. San Francisco Veterans Administration, Fort Miley Hospital.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b202-19\">562 U.S. 870, 131 S. Ct. 169,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A1a5\">178 L. Ed. 2d 100,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"adkt-dedup-0\">2010 U.S. LEXIS 6922,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b202-20\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9Sr\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

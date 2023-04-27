@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"581\" lastpage=\"581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b669-3\">No. 09-475.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AcWT\">Monsanto Company, et al., Petitioners v. Geertson Seed Farms, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"AG-e\">559 U.S. 1060, 130 S. Ct. 2088,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"aeig-dedup-0\">2010 U.S. LEXIS 3116.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"AU68\">176 L. Ed. 2d 581,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b669-5\">April 16, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AotM\">Motion of the Solicitor General for divided argument granted.</p>\n<judges id=\"ApSjI\">Justice Breyer took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

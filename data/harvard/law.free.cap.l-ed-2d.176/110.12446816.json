@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"110\" lastpage=\"110\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b198-25\">No. 09-569.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AZ5\">Robert Bylin, et ux., Petitioners v. John R. Billings, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b198-26\">559 U.S. 936, 130 S. Ct. 1506,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AW1\">176 L. Ed. 2d 110,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"agz-dedup-0\">2010 U.S. LEXIS 1204.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b198-27\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AxQ\">Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n<p id=\"b198-28\">Same case below, 568 F.3d 1224.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

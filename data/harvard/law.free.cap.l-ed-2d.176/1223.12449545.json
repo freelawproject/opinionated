@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1223\" lastpage=\"1223\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1311-13\">No. 09-1203.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"afbv-dedup-0\">Raymond Frantz, Petitioner v. William J. Gress, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1311-14\">560 U.S. 926, 130 S. Ct. 3333,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AePYR\">176 L. Ed. 2d 1223,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ArKyo\">2010 U.S. LEXIS 4251.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1311-15\">May 24, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmPC\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b1311-16\">Same case below, 359 Fed. Appx. 301.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

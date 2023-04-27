@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"777\" lastpage=\"777\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b865-14\">No. 09-9437.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ahrv-dedup-0\">Samuel Quinn, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"ae5u-dedup-0\">559 U.S. 1097, 130 S. Ct. 2385,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"avex-dedup-0\">176 L. Ed. 2d 777,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AXIqF\">2010 U.S. LEXIS 3619.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b865-16\">April 26, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AL6s\">Petition for writ of cer-tiorari to the Appellate Court of Illinois, First District, denied.</p>\n<p id=\"b865-17\">Same case below, 392 Ill. App. 3d 1131, 368 Ill. Dec. 484, 984 N.E.2d 209.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

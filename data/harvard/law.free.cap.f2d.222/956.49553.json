@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"956\" lastpage=\"956\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1006-27\">Ryvers V. WOOLRIDGE v. NORTHEAST OKLAHOMA RAILROAD COMPANY, a Corporation.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1006-29\">No. 5010.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1006-30\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1006-31\">April 13, 1955.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1006-33\">Rex H. Holden, Oklahoma City, Okl., and Philip B. Lush, Minneapolis, Minn., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1006-34\">B. W. Tabor, Tulsa, Okl., and Wallace, Wallace &amp; Owens, Miami, Okl., for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1006-35\">Before BRATTON, HUXMAN and PICKETT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1006-36\">PER CURIAM.</author>\n<p id=\"b1006-37\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"254\" lastpage=\"254\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b356-5\">No. 10-5574.</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b356-6\">No. 10-5636.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AYBnq\">Jose Navas, Petitioner v. United States. Jose Alvarez, Petitioner v. United States.</parties>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b356-7\">562 U.S. 954, 131 S. Ct. 320,</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"A-CG\">178 L. Ed. 2d 254,</p>\n<citation data-order=\"5\" data-type=\"citation\" id=\"afbe-dedup-0\">2010 U.S. LEXIS 7681.</citation>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b356-8\">October 4, 2010.</decisiondate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AaWK\">Petitions for writs of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"AfTd\">Justice Kagan took no part in the consideration or decision of these petitions.</judges>\n<p id=\"b356-9\">Same cases below, 597 F.3d 492.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

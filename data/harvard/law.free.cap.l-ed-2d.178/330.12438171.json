@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"330\" lastpage=\"331\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b432-27\">No. 10-6107.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AscvF\">Frances Choy, Petitioner v. Massachusetts.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b432-28\">562 U.S. 986, 131 S. Ct. 425,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"API6o\">178 L. Ed. 2d 330,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Apcpq\">2010 U.S. LEXIS 8315.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b432-29\">October 18, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aqpll\">Petition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied.</p>\n<p id=\"b433-2\"><page-number citation-index=\"1\" label=\"331\">*331</page-number>Same case below, 456 Mass. 146, 927 N.E.2d 970.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

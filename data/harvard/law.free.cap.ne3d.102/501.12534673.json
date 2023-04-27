@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"501\" lastpage=\"501\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In re Complaint of Allied Erecting &amp; Dismantling Co., Inc.\n  <br/>\n  v.\n  <br/>\n  Ohio Edison Co.\n </parties>\n <docketnumber id=\"p-2\">\n  2014-0008\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  July 24, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On May 11, 2016, this court stayed these proceedings pending resolution of federal bankruptcy proceedings. Sua sponte, the court orders the parties to notify the court within 14 days whether the federal bankruptcy proceedings have concluded and this case can proceed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

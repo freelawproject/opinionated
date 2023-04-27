@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"421\" lastpage=\"421\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b523-12\">No. 10-6608.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AcX3\">Paul Misenhelter, Petitioner v. Colorado.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b523-13\">562 U.S. 1033, 131 S. Ct. 576,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"AnaV\">2010 U.S. LEXIS 8727.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"AmNt\">178 L. Ed. 2d 421,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b523-14\">November 8, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJYLd\">Petition for writ of certiorari to the Supreme Court of Colorado denied.</p>\n<p id=\"b523-15\">Same case below, 234 P.3d 657.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

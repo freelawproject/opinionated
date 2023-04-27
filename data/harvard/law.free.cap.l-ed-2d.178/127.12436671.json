@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"127\" lastpage=\"127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b229-20\">No. 09-11508.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AE1z\">Melvin L. Purnell, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b229-21\">562 U.S. 884, 131 S. Ct. 212,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Aq8n\">178 L. Ed. 2d 127,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Amjt\">2010 U.S. LEXIS 7082.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b229-22\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"anz-dedup-2\">Petition for writ of certiorari to the Appellate Court of Illinois, Fourth District, denied.</p>\n<p id=\"b229-23\">Same case below, 394 Ill. App. 3d 1126, 369 Ill. Dec. 103, 985 N.E.2d 1089.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

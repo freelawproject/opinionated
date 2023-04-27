@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"126\" lastpage=\"126\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b214-10\">No. 09-7967.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a2r-dedup-0\">Percy L. Jones, Petitioner v. Louisiana.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b214-11\">559 U.S. 947, 130 S. Ct. 1519,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"avg-dedup-0\">176 L. Ed. 2d 126,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AouH\">2010 U.S. LEXIS 1303.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b214-12\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AA5\">Petition for writ of certiorari to the Court of Appeal of Louisiana, Fifth Circuit, denied.</p>\n<p id=\"b214-13\">Same case below, 998 So. 2d 173.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

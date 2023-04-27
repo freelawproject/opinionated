@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"100\" lastpage=\"100\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b202-7\">No. 09-11252.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Avl2\">Albert Fitzgerald Brockman-El, Petitioner v. North Carolina Department of Corrections, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b202-8\">562 U.S. 870, 131 S. Ct. 168,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AVpb\">178 L. Ed. 2d 100,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A34B\">2010 U.S. LEXIS 6740.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b202-9\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0D3\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"AIG5\">Same case below, 373 Fed. Appx. 332.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

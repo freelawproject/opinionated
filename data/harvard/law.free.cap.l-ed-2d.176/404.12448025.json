@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"404\" lastpage=\"404\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b492-14\">No. 09-9033.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AdmX\">Michael Prescott, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b492-15\">559 U.S. 1031, 130 S. Ct. 1919,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AWrmK\">176 L. Ed. 2d 404,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AJO_V\">2010 U.S. LEXIS 2370.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b492-16\">March 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AU5C\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"Ad-7\">Justice Sotomayor took no part in the consideration or decision of this petition.</judges>\n<p id=\"b492-18\">Same case below, 360 Fed. Appx. 209.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

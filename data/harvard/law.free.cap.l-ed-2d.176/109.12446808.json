@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"109\" lastpage=\"109\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b197-22\">No. 09-426.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ANg\">Donald S. Eklund, Petitioner v. Wheatland County, Montana, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b197-23\">559 U.S. 936, 130 S. Ct. 1503,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"awl-dedup-0\">176 L. Ed. 2d 109,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ANx\">2010 U.S. LEXIS 1173.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b197-24\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9V\">Petition for writ of certiorari to the Supreme Court of Montana denied.</p>\n<p id=\"b197-25\">Same case below, 351 Mont. 370, 212 P.3d 297.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

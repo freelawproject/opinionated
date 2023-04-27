@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"250\" lastpage=\"250\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b352-18\">No. 10-80.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a0vs-dedup-0\">Thomas Weiss, Petitioner v. Assicurazioni Generali, S.p.A., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b352-19\">562 U.S. 952, 131 S. Ct. 287,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ap-q\">178 L. Ed. 2d 250,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Au-s\">2010 U.S. LEXIS 7770,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b352-20\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"API-\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"Asjm\">Justice Sotomayor and Justice Kagan took no part in the consideration or decision of this petition.</judges>\n<p id=\"b352-21\">Same case below, 592 F.3d 113.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

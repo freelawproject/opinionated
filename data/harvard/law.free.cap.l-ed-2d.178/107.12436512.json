@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"107\" lastpage=\"107\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b209-21\">No. 09-11325.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AEqr\">Erik Earhart, Petitioner v. Khelleh Konteh, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b209-22\">562 U.S. 874, 131 S. Ct. 178,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AZVQ\">178 L. Ed. 2d 107,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ASdy\">2010 U.S. LEXIS 6636,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b209-23\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AzSt\">Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n<p id=\"aihc-dedup-0\">Same case below, 589 F.3d 337.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

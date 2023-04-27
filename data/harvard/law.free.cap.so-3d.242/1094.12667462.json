@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1094\" lastpage=\"1094\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Manuel V. ANTUNA, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D17-3032\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  February 1, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   This appeal is dismissed as from a nonfinal, nonappealable order. See Fla. R. App. P. 9.030(b)(1)(A), .140(b)(1)(D) ; Stevens v. State,\n   <extracted-citation case-ids=\"7041536,7041501\" index=\"0\" url=\"https://cite.case.law/so-3d/57/960/\">\n    57 So.3d 960\n   </extracted-citation>\n   (Fla. 2D DCA 2011).\n  </p>\n  <p id=\"p-7\">\n   Appellant's January 16, 2018, \"Motion to Dismiss Petition\" is denied as moot.\n  </p>\n  <judges id=\"p-8\">\n   NORTHCUTT, CRENSHAW, and MORRIS, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

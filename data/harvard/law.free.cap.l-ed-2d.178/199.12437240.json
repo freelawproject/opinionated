@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"199\" lastpage=\"200\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b301-28\">No. 10-5485.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AiZWs\">Edward Meredith, Petitioner v. Florida.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b301-29\">562 U.S. 924, 131 S. Ct. 307,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"ALT2\">2010 U.S. LEXIS 7277,</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"A8C7\">178 L. Ed. 2d 199,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b301-30\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A54q\">Petition for writ of certiorari to the District Court of Appeal of Florida, First District, denied.</p>\n<p id=\"b302-3\"><page-number citation-index=\"1\" label=\"200\">*200</page-number>Same case below, 28 So. 3d 50.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

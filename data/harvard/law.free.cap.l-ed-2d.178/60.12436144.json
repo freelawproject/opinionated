@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"60\" lastpage=\"60\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b162-16\">No. 09-10657.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ad56\">Reginald Meeks, Petitioner v. David R. McKune, Warden, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b162-17\">562 U.S. 848, 131 S. Ct. 96,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Az-S\">178 L. Ed. 2d 60,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ACK\">2010 U.S. LEXIS 6027.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b162-18\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ajf-dedup-2\">Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n<p id=\"b162-19\">Same case below, 354 Fed. Appx. 348.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

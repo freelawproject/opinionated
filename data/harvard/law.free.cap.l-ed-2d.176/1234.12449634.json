@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1234\" lastpage=\"1234\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1322-23\">No. 09-10278.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A43Z\">Larry Collier Taylor, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1322-24\">560 U.S. 932, 130 S. Ct. 3339,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"APgA\">176 L. Ed. 2d 1234,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AjsDT\">2010 U.S. LEXIS 4268.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1322-25\">May 24, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AbuGo\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n<p id=\"b1322-26\">Same case below, 592 F.3d 1104.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

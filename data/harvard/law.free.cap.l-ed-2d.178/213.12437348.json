@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"213\" lastpage=\"213\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b315-17\">No. 10-5618.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"acvf-dedup-1\">Jefferson Watson, Petitioner v. Georgia.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b315-18\">562 U.S. 932, 131 S. Ct. 328,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AunP\">178 L. Ed. 2d 213,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ATAf\">2010 U.S. LEXIS 7482.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b315-19\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AaMh5\">Petition for writ of certiorari to the Court of Appeals of Georgia denied.</p>\n<p id=\"b315-20\">Same case below, 302 Ga. App. 619, 691 S.E.2d 378.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

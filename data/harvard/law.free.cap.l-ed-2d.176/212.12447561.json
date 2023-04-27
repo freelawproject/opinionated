@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"212\" lastpage=\"212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b300-18\">No. 09-523.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aq8-dedup-0\">Michael Malloy, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b300-19\">559 U.S. 991, 130 S. Ct. 1736,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ATbd\">176 L. Ed. 2d 212,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ac2H\">2010 U.S. LEXIS 2231.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b300-20\">March 8, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ai8z\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"AK9G\">Same case below, 568 F.3d 166.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

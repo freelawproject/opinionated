@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"38\" lastpage=\"39\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b140-28\">No. 09-1485.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ach-dedup-1\">American Road &amp; Transportation Builders Association, Petitioner v. Environmental Protection Agency, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b140-29\">562 U.S. 836, 131 S. Ct. 388,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"akb-dedup-1\">178 L. Ed. 2d 38,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"abs-dedup-0\">2010 U.S. LEXIS 6023.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b140-30\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"alg-dedup-2\">Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied.</p>\n<p id=\"b141-2\"><page-number citation-index=\"1\" label=\"39\">*39</page-number>Same case below, 388 U.S. App. D.C. 435, 588 F.3d 1109.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

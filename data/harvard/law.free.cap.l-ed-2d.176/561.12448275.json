@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"561\" lastpage=\"561\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b649-26\">No. 09-922.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AOFa\">Dave Jordan, Petitioner v. Apache Corp., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b649-27\">559 U.S. 1048, 130 S. Ct. 2347,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"A4LR\">2010 U.S. LEXIS 3052.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"AK75\">176 L. Ed. 2d 561,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b649-28\">April 5, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Acd_\">Petition for writ of certio-rari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b649-29\">Same case below, 332 Fed. Appx. 992.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

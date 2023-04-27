@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"456\" lastpage=\"456\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b558-16\">No. 09-11505.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AbXXi\">Jermaine S. Doss, Petitioner v. Virginia.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b558-18\">562 U.S. 1055, 131 S. Ct. 628,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AriV\">178 L. Ed. 2d 456,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AZrD\">2010 U.S. LEXIS 9009.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b558-19\">November 15, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFONT\">Petition for rehearing denied.</p>\n<p id=\"b558-20\">Former decision, 562 U.S. 884, 131 S. Ct. 211, 178 L. Ed. 2d 127, 2010 U.S. LEXIS 6618.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

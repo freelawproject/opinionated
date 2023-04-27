@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"123\" lastpage=\"123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b225-16\">No. 09-11468.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ap07\">Oyoyo Adanna Ebuzoeme, aka Oyoyo Adanna Ofurum, Petitioner v. Eric H. Holder, Jr., Attorney General.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b225-17\">562 U.S. 882, 131 S. Ct. 205,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A5Ak\">178 L. Ed. 2d 123,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"a0i-dedup-0\">2010 U.S. LEXIS 6768.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b225-18\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AijY\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"AcHQ\">Same case below, 352 Fed. Appx. 773.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

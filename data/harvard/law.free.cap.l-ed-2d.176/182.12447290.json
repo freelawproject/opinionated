@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"182\" lastpage=\"182\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b270-18\">No. 09-754.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"atf-dedup-2\">Midwest Pipe Insulation, Incorporated, Petitioner v. Minneapolis Pipefitters Union, Local 539.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b270-19\">559 U.S. 972, 130 S. Ct. 1699,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AqTD\">176 L. Ed. 2d 182,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ax7W\">2010 U.S. LEXIS 2078.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b270-20\">March 1, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqF3\">Petition for writ of cer-tiorari to the Supreme Court of Minnesota denied.</p>\n<p id=\"b270-21\">Same case below, 771 N.W.2d 28.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

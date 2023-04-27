@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"250\" lastpage=\"250\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b352-7\">No. 10-20.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A34i\">Robert Lewis Norwood, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b352-8\">562 U.S. 952, 131 S. Ct. 225,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"a9zj-dedup-0\">178 L. Ed. 2d 250,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A7Aq\">2010 U.S. LEXIS 7696.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b352-9\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aqqt-dedup-1\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<judges id=\"AOTs\">Justice Kagan took no part in the consideration or decision of this petition.</judges>\n<p id=\"b352-10\">Same case below, 603 F.3d 1063.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

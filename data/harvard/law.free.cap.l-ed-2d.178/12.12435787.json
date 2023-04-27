@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"12\" lastpage=\"12\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b114-24\">No. 10M24.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AV_\">Espiridion Aranda, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b114-25\">562 U.S. 820, 131 S. Ct. 376,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ALH\">178 L. Ed. 2d 12,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AHZ1\">2010 U.S. LEXIS 6210.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b114-26\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWP\">Motion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

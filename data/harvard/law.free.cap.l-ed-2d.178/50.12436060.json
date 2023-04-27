@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"50\" lastpage=\"50\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b152-7\">No. 09-9919.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"APZ_\">Craig Gordon Brown, Petitioner v. Michigan.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b152-8\">562 U.S. 842, 131 S. Ct. 77,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Amnx\">178 L. Ed. 2d 50,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AK8J\">2010 U.S. LEXIS 6098.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b152-9\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AEqe\">Petition for writ of certiorari to the Court of Appeals of Michigan denied.</p>\n<p id=\"b152-10\">Same case below, 279 Mich. App. 116, 755 N.W.2d 664.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"936\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b950-9\">No. 35,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AGnd\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AYzY\">United States <em>v. </em>Maine et al.</parties>\n<seealso data-order=\"3\" data-type=\"seealso\" id=\"AJa\">[For earlier orders herein, see, <em>e. g., </em>408 U. S. 917.]</seealso>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aq5J\">Motion of Commonwealth of Massachusetts for preliminary injunction denied.</p>\n<judges id=\"A6XY\">Mr. Justice Douglas would grant the preliminary injunction.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

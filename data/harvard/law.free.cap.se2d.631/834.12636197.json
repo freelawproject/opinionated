@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"834\" lastpage=\"834\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Wayne Thomas JOHNSON\n  <br/>\n  v.\n  <br/>\n  STATE of North Carolina.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 119P00-10.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  April 18, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Wayne Thomas Johnson, Pro Se.\n </attorneys>\n <attorneys id=\"p-6\">\n  William P. Hart, Senior Deputy Attorney General, for State of NC.\n </attorneys>\n <p id=\"p-7\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the application filed by Plaintiff on the 17th day of April 2006 in this matter for Writ of Habeas Corpus, the following order was entered and is hereby certified to the Superior Court, Alamance County:\n  </p>\n  <p id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 18th day of April 2006.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"120\" lastpage=\"120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b208-14\">No. 09-7802.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"air-dedup-1\">Geir Hansen, Petitioner v. Industrial Claim Appeals Office of Colorado, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b208-15\">559 U.S. 943, 130 S. Ct. 1509,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"add-dedup-0\">176 L. Ed. 2d 120,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"adk-dedup-0\">2010 U.S. LEXIS 1103,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b208-16\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMK\">Petition for writ of certiorari to the Court of Appeals of Colorado denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

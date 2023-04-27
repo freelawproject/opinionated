@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"260\" lastpage=\"261\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b376-44\">Matthew EIRICK v. SOUTHERN ELECTRIC SUPPLY COMPANY, INC. of Delaware, Reulet Electric Supplies, and Square D Company.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b376-47\">No. 98-C-2197.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b376-48\">Supreme Court of Louisiana.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b376-49\">Nov. 13, 1998.</decisiondate>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b376-50\">Prior report: La.App., \u2014 So.2d -.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Abl\"><page-number citation-index=\"1\" label=\"261\">*261</page-number>In re Eirick, Matthew; \u2014 Plaintiff(s); applying for writ of certiorari and/or review; Parish of East Baton Rouge, 19th Judicial District Court, Div. \u201cH\u201d, No. 413,419; to the Court of Appeal, First Circuit, No. CA97 0435.</p>\n<p id=\"AV9\">Denied.</p>\n<judges id=\"ATI\">LEMMON, J., not on panel.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

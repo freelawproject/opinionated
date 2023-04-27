@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"222\" lastpage=\"222\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b310-11\">No. 09-8890.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AJA0\">Charles Robert Barefoot, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b310-12\">559 U.S. 997, 130 S. Ct. 1752,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A35W\">176 L. Ed. 2d 222,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AAgj\">2010 U.S. LEXIS 2329.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b310-13\">March 8, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlVR\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b310-14\">Same case below, 326 Fed. Appx. 199.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

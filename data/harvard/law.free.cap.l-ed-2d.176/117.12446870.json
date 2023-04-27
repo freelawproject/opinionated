@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"117\" lastpage=\"117\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b205-2\">No. 09-5887.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a2e-dedup-0\">William G. Scott, Petitioner v. Mississippi.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b205-3\">559 U.S. 941, 130 S. Ct. 1500,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A21L\">176 L. Ed. 2d 117,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ath-dedup-0\">2010 U.S. LEXIS 1205.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b205-4\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACNq\">Petition for writ of certiorari to the Supreme Court of Mississippi denied.</p>\n<p id=\"b205-5\">Same case below, 8 So. 3d 855.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

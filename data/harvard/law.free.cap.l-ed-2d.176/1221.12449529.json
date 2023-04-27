@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1221\" lastpage=\"1221\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1309-10\">No. 09-1128.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ahfx-dedup-1\">Daniel J. Segal, Petitioner v. Fifth Third Bank, N.A., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1309-11\">560 U.S. 925, 130 S. Ct. 3326,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Abvy\">176 L. Ed. 2d 1221,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AMJA\">2010 U.S. LEXIS 4312.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1309-12\">May 24, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiJA\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n<p id=\"b1309-13\">Same case below, 581 F.3d 305.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

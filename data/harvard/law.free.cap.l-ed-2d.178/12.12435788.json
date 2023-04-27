@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"12\" lastpage=\"13\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b114-27\">No. 10M25.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ado-dedup-0\">Toni Clark, Petitioner v. National Credit Union Administration.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b114-28\">562 U.S. 819, 131 S. Ct. 376,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A5s\">178 L. Ed. 2d 12,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Amy\">2010 U.S. LEXIS 6748.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b114-29\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMg\">Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.</p>\n<p id=\"b115-2\"><page-number citation-index=\"1\" label=\"13\">*13</page-number>Same case below, 354 Fed. Appx. 805.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

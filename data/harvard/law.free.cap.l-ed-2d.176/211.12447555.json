@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"211\" lastpage=\"211\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b299-20\">No. 09-152.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AYQR\">Russell Bruesewitz, et al., Petitioners v. Wyeth LLC, fka Wyeth, Inc., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b299-21\">559 U.S. 991, 130 S. Ct. 1734,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A82D\">176 L. Ed. 2d 211,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AKVz\">2010 U.S. LEXIS 2266.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b299-22\">March 8, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHQqg\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Third Circuit granted.</p>\n<judges id=\"AnNiJ\">The Chief Justice took no part in the consideration or decision of this petition.</judges>\n<p id=\"b299-23\">Same case below, 561 F.3d 233.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

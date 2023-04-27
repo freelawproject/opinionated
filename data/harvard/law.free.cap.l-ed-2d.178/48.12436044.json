@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"48\" lastpage=\"48\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b150-7\">No. 09-1579.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"abs-dedup-1\">Napoleon Spear, Petitioner v. General Motors Corporation.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b150-8\">562 U.S. 841, 131 S. Ct. 222,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"arr-dedup-1\">178 L. Ed. 2d 48,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Amby\">2010 U.S. LEXIS 5766,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b150-9\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"akv-dedup-0\">Petition for writ of certiorari to the Court of Special Appeals of Maryland denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

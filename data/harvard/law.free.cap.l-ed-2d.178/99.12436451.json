@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"99\" lastpage=\"99\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b201-22\">No. 09-11249.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Al02\">Tito Abrante, Petitioner v. Peter St. Amand, Superintendent, Massachusetts Correctional Institution at Cedar Junction.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b201-23\">562 U.S. 869, 131 S. Ct. 168,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"acl-dedup-2\">178 L. Ed. 2d 99,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A2Gs\">2010 U.S. LEXIS 6592.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b201-24\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AY35\">Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied.</p>\n<p id=\"b201-25\">Same case below, 595 F.3d 11.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

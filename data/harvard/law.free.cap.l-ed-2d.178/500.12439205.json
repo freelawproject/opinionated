@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b602-32\">No. 10-7124.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ACCYg\">Rigoberto Molina-Uriostegui, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b602-33\">562 U.S. 1074, 131 S. Ct. 672,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ak8m\">178 L. Ed. 2d 500,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ASfdE\">2010 U.S. LEXIS 9327.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b602-34\">November 29, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUXHq\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b602-35\">Same case below, 389 Fed. Appx. 603.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

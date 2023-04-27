@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"225\" lastpage=\"225\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b327-19\">No. 10-5801.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AKCX\">Andrew P. Kalick, Petitioner v. Northwest Airlines Corp., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b327-20\">562 U.S. 938, 131 S. Ct. 348,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"a9hk-dedup-0\">178 L. Ed. 2d 225,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AB2O\">2010 U.S. LEXIS 7181.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b327-21\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-Mv\">Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b327-22\">Same case below, 372 Fed. Appx. 317.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"532\" lastpage=\"532\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b634-24\">No. 10-593.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AlpOC\">Adam Williams, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b634-25\">562 U.S. 1092, 131 S. Ct. 805,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"AT-E\">2010 U.S. LEXIS 9533.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"AZly\">178 L. Ed. 2d 532,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b634-26\">December 6, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AyCgg\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"b634-27\">Same case below, 616 F.3d 685.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

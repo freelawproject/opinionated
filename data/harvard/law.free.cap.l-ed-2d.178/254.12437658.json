@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"254\" lastpage=\"255\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b356-27\">No. 10-5792.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AYn4\">Ramon Goitia-Mora, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b356-28\">562 U.S. 955, 131 S. Ct. 346,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"a5ag-dedup-0\">178 L. Ed. 2d 254,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AHgF\">2010 U.S. LEXIS 7802.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b356-29\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AaQzF\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n<judges id=\"b357-2\"><page-number citation-index=\"1\" label=\"255\">*255</page-number>Justice Kagan took no part in the consideration or decision of this petition.</judges>\n<p id=\"b357-3\">Same case below, 377 Fed. Appx. 842.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

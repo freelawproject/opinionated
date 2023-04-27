@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1220\" lastpage=\"1220\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1308-19\">No. 09-962.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aa00-dedup-0\">LaSalle Group, Inc., Petitioner v. Trustees of the Detroit Carpenters Fringe Benefit Funds.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1308-20\">560 U.S. 925, 130 S. Ct. 3323,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aolr-dedup-0\">176 L. Ed. 2d 1220,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Al6n\">2010 U.S. LEXIS 4374.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1308-21\">May 24, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aa9o-dedup-0\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n<p id=\"b1308-22\">Same case below, 581 F.3d 313.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

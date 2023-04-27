@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"103\" lastpage=\"103\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b205-3\">No. 09-11282.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A_i5\">Roger Gordon, Petitioner v. State Bar of California, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b205-4\">562 U.S. 871, 131 S. Ct. 172,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aeek-dedup-1\">178 L. Ed. 2d 103,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ANnR\">2010 U.S. LEXIS 7053.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b205-5\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ALZm\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b205-6\">Same case below, 369 Fed. Appx. 833.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

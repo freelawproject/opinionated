@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"120\" lastpage=\"120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b208-17\">No. 09-7809.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AQQ\">Gregg Moore, Petitioner v. Currie Motors of Forest Park, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b208-18\">559 U.S. 943, 130 S. Ct. 1509,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A3B5\">176 L. Ed. 2d 120,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ayl-dedup-0\">2010 U.S. LEXIS 1102.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b208-19\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"apq-dedup-2\">Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied.</p>\n<p id=\"b208-20\">Same case below, 387 Ill. App. 3d 1175, 367 Ill. Dec. 210, 981 N.E.2d 535.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

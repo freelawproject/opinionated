@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1200\" lastpage=\"1200\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1288-8\">No. 09-9966.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"azud-dedup-0\">Gary S. Hann, Petitioner v. Michigan.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1288-9\">560 U.S. 914, 130 S. Ct. 3310,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AX5fA\">176 L. Ed. 2d 1200,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AVLJ\">2010 U.S. LEXIS 4029.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1288-10\">May 17, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aiwf-dedup-0\">Petition for writ of cer-tiorari to the Supreme Court of Michigan denied.</p>\n<p id=\"b1288-11\">Same case below, 484 Mich. 865, 769 N.W.2d 667.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

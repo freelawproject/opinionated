@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"243\" lastpage=\"244\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b345-24\">No. 09-1492.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a_im-dedup-0\">Missouri, Petitioner v. Robert R. Brooks.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b345-25\">562 U.S. 948, 131 S. Ct. 159,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"acrt-dedup-1\">178 L. Ed. 2d 243,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Aom4\">2010 U.S. LEXIS 7848.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b345-26\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3Po\">Motion of respondent for leave to proceed in forma pauperis <page-number citation-index=\"1\" label=\"244\">*244</page-number>granted. Petition for writ of certiorari to the Supreme Court of Missouri denied.</p>\n<p id=\"b346-4\">Same case below, 304 S.W.3d 130.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

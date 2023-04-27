@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"700\" lastpage=\"700\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b730-3\">MARGARET C. SPELLMAN <em>v. </em>HOWARD C. SPELLMAN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b730-5\">[Nos. 17, 18,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A3s\">October Term, 1935.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b730-10\">\n<em>Decided November 22nd, 1935.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b730-13\">The cause was argued before Bond, , C. J., Urner, \u00d3ffutt, Parke, Sloan, Mitchell, Shehan, and Johnson, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b730-14\"><em>William T. Tippett, </em>with whom was <em>James E. Tippett </em>on the brief, for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b730-15\"><em>Lester L. Barrett, </em>with whom was <em>Joshua S. Hull </em>on the brief, for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b730-16\">Shehan, J.,</author>\n<p id=\"ATj\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"123\" lastpage=\"123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b225-22\">No. 09-11470.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AKog\">Anthony Cross, Petitioner v. Nevada.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b225-23\">562 U.S. 882, 131 S. Ct. 205,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AH8qW\">178 L. Ed. 2d 123,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A0Vos\">2010 U.S. LEXIS 6974.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b225-24\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2dX\">Petition for writ of certiorari to the Supreme Court of Nevada denied.</p>\n<p id=\"b225-25\">Same case below, 126 Nev. 703.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

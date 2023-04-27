@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1005\" lastpage=\"1005\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Marv A. HUBBARD, Appellant,\n  <br/>\n  v.\n  <br/>\n  The STATE of Florida, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D18-555\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed May 23, 2018.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Marv A. Hubbard, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Pamela Jo Bondi, Attorney General, for appellee.\n </attorneys>\n <judges id=\"p-7\">\n  Before SUAREZ, SALTER, and FERNANDEZ, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Defendant filed this appeal of the trial court's denial of his petition for writ of Habeas Corpus. As the trial court correctly noted, the petition is actually a motion to vacate judgment, which was denied by the trial court. We treat the petition the same and affirm the trial court's denial.\n  </p>\n  <p id=\"p-10\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

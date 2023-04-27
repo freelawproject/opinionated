@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"314\" lastpage=\"314\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b366-4\">Tom WALTON, Appellant, v. Marlen R. OWENS and Yale and Towne Manufacturing Company, Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AsI\">No. 16287.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b366-6\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b366-7\">Nov. 13, 1957.</decisiondate>\n<seealso data-order=\"4\" data-type=\"seealso\" id=\"AYr\">For former opinion see 5 Cir., 244 F.2d 383.</seealso>\n<p data-order=\"5\" data-type=\"judges\" id=\"b366-10\">Before HUTCHESON, Chief Judge, and RIVES and BROWN, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b366-11\">PER CURIAM.</author>\n<p id=\"b366-12\">It is ordered that the Petition for Rehearing filed in the above entitled and numbered cause be, and the same is, hereby denied.</p>\n<p id=\"b366-13\">HUTCHESON, Chief Judge, dissents.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

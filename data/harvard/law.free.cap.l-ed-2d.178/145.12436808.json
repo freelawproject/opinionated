@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"145\" lastpage=\"145\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b247-10\">No. 10-138.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Au-t\">Victor Madeja, Petitioner v. Pennsylvania.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b247-11\">562 U.S. 895, 131 S. Ct. 319,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AFaF\">178 L. Ed. 2d 145,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"adgi-dedup-0\">2010 U.S. LEXIS 6243,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b247-12\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AtHJ\">Petition for writ of certiorari to the Superior Court of Pennsylvania, Philadelphia Office, denied.</p>\n<p id=\"arcl-dedup-0\">Same case below, 988 A.2d 724.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

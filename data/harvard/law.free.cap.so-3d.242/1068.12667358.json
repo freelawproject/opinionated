@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1068\" lastpage=\"1068\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jeffrey LE CLAIR, Appellant/petitioner(s),\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee/respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D17-4853\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  January 23, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Petitioner's petition for writ of mandamus is denied without prejudice. Petitioner is required to make an express and distinct demand for performance before mandamus will be considered. See Al-Hakim v. State,\n   <extracted-citation case-ids=\"11100251,11100198\" index=\"0\" url=\"https://cite.case.law/so-2d/783/293/\">\n    783 So. 2d 293\n   </extracted-citation>\n   , 294 (Fla. 5th DCA 2001).\n  </p>\n  <judges id=\"p-7\">\n   SILBERMAN, KELLY, and BADALAMENTI, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

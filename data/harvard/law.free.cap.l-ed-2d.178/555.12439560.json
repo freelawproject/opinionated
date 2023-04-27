@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b657-15\">No. 09-11480.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aa2GC\">Roger J. Day, Petitioner v. Minnesota, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b657-16\">562 U.S. 1108, 131 S. Ct. 818,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AboIf\">178 L. Ed. 2d 555,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AbX-3\">2010 U.S. LEXIS 9774.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b657-17\">December 13, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgQhs\">Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.</p>\n<p id=\"b657-18\">Same case below, 354 Fed. Appx. 272.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

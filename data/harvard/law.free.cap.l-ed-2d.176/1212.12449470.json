@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1212\" lastpage=\"1212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1300-20\">No. 09-8213.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ah6S\">Stephen D. Thibeau, Petitioner v. Massachusetts.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1300-21\">560 U.S. 919, 130 S. Ct. 3315,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"adtn-dedup-1\">176 L. Ed. 2d 1212,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AOC3\">2010 U.S. LEXIS 4120.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1300-22\">May 17, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8R0\">Petition for rehearing denied.</p>\n<p id=\"b1300-23\">Former decision, 559 U.S. 978, 130 S. Ct. 1700, 176 L. Ed. 2d 191, 2010 U.S. LEXIS 2006.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

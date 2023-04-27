@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"256\" lastpage=\"256\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b358-30\">No. 10-5416.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aovp-dedup-0\">In re Larry Rayford, Petitioner.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b358-31\">562 U.S. 825, 131 S. Ct. 293,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Av4R\">178 L. Ed. 2d 256,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AgBC\">2010 U.S. LEXIS 7794.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b358-32\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AI6S\">Petition for writ of habeas corpus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

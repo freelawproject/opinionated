@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"222\" lastpage=\"222\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b324-16\">No. 10-5741.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ag-t\">James E. Baker, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b324-17\">562 U.S. 936, 131 S. Ct. 341,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"abvb-dedup-2\">178 L. Ed. 2d 222,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AgpF\">2010 U.S. LEXIS 7561.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b324-18\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJ7G\">Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n<p id=\"b324-3\">Same case below, 371 Fed. Appx. 987.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"42\" lastpage=\"43\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b144-29\">No. 09-1529.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A3D-\">Sanjuanita Sepulveda, et al., Petitioners v. Allen Family Foods, Inc.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b144-30\">562 U.S. 838, 131 S. Ct. 187,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ACVl\">178 L. Ed. 2d 42,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ASeH\">2010 U.S. LEXIS 5967.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b144-31\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnGU\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b145-2\"><page-number citation-index=\"1\" label=\"43\">*43</page-number>Same case below, 591 F.3d 209.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"64\" lastpage=\"64\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b166-15\">No. 09-10732.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aqyk\">John Steven Gardner, Petitioner v. Texas.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b166-16\">562 U.S. 850, 131 S. Ct. 103,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ASyy\">178 L. Ed. 2d 64,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AZIl\">2010 U.S. LEXIS 6246.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b166-17\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUG8\">Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied.</p>\n<p id=\"b166-18\">Same case below, 306 S.W.3d 274.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

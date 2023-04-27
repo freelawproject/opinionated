@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1219\" lastpage=\"1219\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1307-20\">No. 09-750.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AdT0\">Textron Inc. and Subsidiaries, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1307-21\">560 U.S. 924, 130 S. Ct. 3320,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ArRGC\">176 L. Ed. 2d 1219,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"anpr-dedup-0\">2010 U.S. LEXIS 4373.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1307-22\">May 24, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aieb-dedup-0\">Petition for writ of cer-tiorari to the United States Court of Appeals for the First Circuit denied.</p>\n<p id=\"b1307-23\">Same case below, 577 F.3d 21.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

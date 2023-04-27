@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1131\" lastpage=\"1131\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1151-14\">FROST, Appellant, v. WEEHAWKEN WHARF CO., Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A5IB\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A1PI\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AfHP\">October 29, 1900.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ATle\">Action by Eelihu B. Frost, as assignee, against the Weehawken Wharf Company. From an order the plaintiff appeals.</summary>\n<disposition data-order=\"5\" data-type=\"disposition\" id=\"Ave\">Affirmed.</disposition>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AJ0_\">Norman-G. Johnson, for appellant. Wilder &amp; Anderson, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1151-15\">PER CURIAM.</author>\n<p id=\"AqDq\">Order appealed from affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

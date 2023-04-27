@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"99\" lastpage=\"99\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b201-26\">No. 09-11250.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aibe-dedup-1\">Earl Bradley Booker, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b201-27\">562 U.S. 870, 131 S. Ct. 168,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"amqh-dedup-0\">178 L. Ed. 2d 99,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"aue-dedup-1\">2010 U.S. LEXIS 6475.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b201-28\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ahht-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

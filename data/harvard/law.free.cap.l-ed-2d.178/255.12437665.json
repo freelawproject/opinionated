@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"255\" lastpage=\"255\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b357-25\">No. 09-11321.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"afqb-dedup-0\">In re Allah, Petitioner.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b357-26\">562 U.S. 825, 131 S. Ct. 178,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"a0pn-dedup-0\">178 L. Ed. 2d 255,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"a_r3-dedup-0\">2010 U.S. LEXIS 7755,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b357-27\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ALE8\">Petition for writ of habeas corpus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

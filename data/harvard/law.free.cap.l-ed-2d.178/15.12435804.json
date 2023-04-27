@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"15\" lastpage=\"15\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b117-3\">No. 09-996.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aus\">James Walker, Warden, et al., Petitioners v. Charles W. Martin.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b117-4\">562 U.S. 821, 131 S. Ct. 379,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ark-dedup-0\">178 L. Ed. 2d 15,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"aru-dedup-0\">2010 U.S. LEXIS 6172.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b117-5\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ahj-dedup-0\">Motion of respondent for appointment of counsel granted. Michael B. Bigelow, Esquire, of Sacramento, California, is appointed to serve as counsel for the respondent in this case.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

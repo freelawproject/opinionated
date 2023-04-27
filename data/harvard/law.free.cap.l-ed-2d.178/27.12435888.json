@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"27\" lastpage=\"27\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b129-19\">No. 09-1333.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aug-dedup-0\">Fernando Canto, Petitioner v. Eric H. Holder, Jr., Attorney General.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b129-20\">562 U.S. 830, 131 S. Ct. 85,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AND\">178 L. Ed. 2d 27,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AjVl\">2010 U.S. LEXIS 6560.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b129-21\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Asb\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"b129-22\">Same case below, 593 F.3d 638.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

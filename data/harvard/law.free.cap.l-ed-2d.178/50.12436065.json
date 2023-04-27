@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"50\" lastpage=\"50\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b152-26\">No. 09-9986.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"APuG\">Ganiyu Jaiyeola, Petitioner v. Carrier Corporation.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b152-27\">562 U.S. 843, 131 S. Ct. 78,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"azl-dedup-1\">178 L. Ed. 2d 50,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ai8a\">2010 U.S. LEXIS 5785,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b152-28\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYRP\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<p id=\"AyCJ\">Same case below, 350 Fed. Appx. 583.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

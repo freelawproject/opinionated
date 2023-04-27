@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"120\" lastpage=\"120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b222-16\">No. 09-11443.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"akkc-dedup-0\">William Housman, Petitioner v. Pennsylvania.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b222-17\">562 U.S. 881, 131 S. Ct. 199,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Aj8U\">178 L. Ed. 2d 120,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ASPr\">2010 U.S. LEXIS 6808.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b222-18\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A6qC\">Petition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied.</p>\n<p id=\"ARh5\">Same case below, 604 Pa. 596, 986 A.2d 822.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

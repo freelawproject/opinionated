@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"88\" lastpage=\"88\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b190-19\">No. 09-11145.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ATMu\">Ralph Howard Blakely, Petitioner v. Herb Snively, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b190-20\">562 U.S. 864, 131 S. Ct. 147,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aq4-dedup-0\">178 L. Ed. 2d 88,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AR4Q\">2010 U.S. LEXIS 6621,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b190-21\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ai8x\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b190-22\">Same case below, 362 Fed. Appx. 637.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

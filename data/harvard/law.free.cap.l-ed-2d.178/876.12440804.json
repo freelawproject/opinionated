@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"876\" lastpage=\"876\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b978-10\">No. 10-8081.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AH7iC\">Robert V. Trautman, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b978-11\">562 U.S. 1207, 131 S. Ct. 1059,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AtOTm\">178 L. Ed. 2d 876,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ApCS6\">2011 U.S. LEXIS 1065.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b978-12\">January 24, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AtXlT\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b978-13\">Same case below, 395 Fed. Appx. 141.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

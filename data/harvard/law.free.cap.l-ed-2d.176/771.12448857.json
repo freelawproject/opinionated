@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"771\" lastpage=\"771\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b859-18\">No. 09-9136.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"auti-dedup-0\">David I. Shirley, Petitioner v. Indiana.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b859-19\">559 U.S. 1094, 130 S. Ct. 2373,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"APat\">176 L. Ed. 2d 771,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AjLg\">2010 U.S. LEXIS 3547.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b859-20\">April 26, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlaQ\">Petition for writ of cer-tiorari to the Court of Appeals of Indiana, First District, denied.</p>\n<p id=\"b859-21\">Same case below, 917 N.E.2d 188.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

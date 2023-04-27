@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"300\" lastpage=\"300\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b402-17\">No. 10-5854.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A6AdZ\">Jack Jervis, Petitioner v. Indiana.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b402-18\">562 U.S. 968, 131 S. Ct. 472,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AA6Qp\">178 L. Ed. 2d 300,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AYmEy\">2010 U.S. LEXIS 8112.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b402-19\">October 12, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmVcG\">Petition for writ of certiorari to the Court of Appeals of Indiana, Fourth District, denied.</p>\n<p id=\"b402-20\">Same case below, 916 N.E.2d 969.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

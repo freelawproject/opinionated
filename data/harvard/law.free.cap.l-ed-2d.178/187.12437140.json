@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"187\" lastpage=\"187\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b289-13\">No. 10-5367.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AHyp\">Charles K. Wallace, Petitioner v. Louisiana.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b289-14\">562 U.S. 917, 131 S. Ct. 284,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"abcp-dedup-0\">2010 U.S. LEXIS 7079.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"Af60\">178 L. Ed. 2d 187,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b289-15\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUFR\">Petition for writ of certiorari to the Supreme Court of Louisiana denied.</p>\n<p id=\"AOE3\">Same case below, 31 So. 3d 1059.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

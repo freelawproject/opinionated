@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"38\" lastpage=\"38\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b140-3\">No. 09-1475.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A98G\">Aaron C. Boring, et ux., Petitioners v. Google, Inc.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b140-4\">562 U.S. 836, 131 S. Ct. 150,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A_G7\">178 L. Ed. 2d 38,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AA5\">2010 U.S. LEXIS 6057.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b140-5\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ad8-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"AFB\">Same case below, 362 Fed. Appx. 273.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

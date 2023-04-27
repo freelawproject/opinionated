@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"32\" lastpage=\"32\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b134-23\">No. 09-1420.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AAgm\">Calvin Allen, Petitioner v. Missouri ex rel. Chris Koster, Attorney General of Missouri.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b134-25\">562 U.S. 833, 131 S. Ct. 122,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aoh-dedup-0\">178 L. Ed. 2d 32,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AT7W\">2010 U.S. LEXIS 6477,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b134-26\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AG7y\">Petition for writ of certiorari to the Court of Appeals of Missouri, Southern District, denied.</p>\n<p id=\"b134-27\">Same case below, 298 S.W.3d 139.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

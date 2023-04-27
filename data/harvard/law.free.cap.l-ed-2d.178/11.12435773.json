@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"11\" lastpage=\"11\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b113-2\">No. 10M10.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Asz\">Gary William Hallford, Petitioner v. California Correctional Peace Officers Association.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b113-3\">562 U.S. 819, 131 S. Ct. 374,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AhMU\">178 L. Ed. 2d 11,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AtJ\">2010 U.S. LEXIS 6465.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b113-4\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATrT\">Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.</p>\n<p id=\"b113-5\">Same case below, 356 Fed. Appx. 981.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

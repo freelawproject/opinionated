@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"95\" lastpage=\"95\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b197-3\">No. 09-11201.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ASEI\">Charles Spaulding, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b197-4\">562 U.S. 867, 131 S. Ct. 157,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AsDC\">178 L. Ed. 2d 95,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ASVB\">2010 U.S. LEXIS 6517.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b197-5\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AigT\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"aepd-dedup-0\">Same case below, 366 Fed. Appx. 670.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

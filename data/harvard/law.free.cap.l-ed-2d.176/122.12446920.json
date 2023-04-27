@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"122\" lastpage=\"122\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b210-17\">No. 09-7867.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AMMp\">Anthony M. Garraway, Petitioner v. Brian Fischer, Commissioner, New York Department of Correctional Services, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b210-18\">559 U.S. 944, 130 S. Ct. 1513,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AJ1\">176 L. Ed. 2d 122,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"amq-dedup-0\">2010 U.S. LEXIS 1360.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b210-19\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ai75\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<p id=\"b210-20\">Same case below, 324 Fed. Appx. 98.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

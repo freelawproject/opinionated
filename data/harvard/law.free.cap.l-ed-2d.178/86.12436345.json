@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"86\" lastpage=\"86\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b188-10\">No. 09-11118.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AdYG\">Meloni Thomas, Petitioner v. Virginia.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b188-11\">562 U.S. 862, 131 S. Ct. 143,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aed-dedup-2\">178 L. Ed. 2d 86,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ARDK\">2010 U.S. LEXIS 6109.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b188-12\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aiaq\">Petition for writ of certiorari to the Supreme Court of Virginia denied.</p>\n<p id=\"b188-13\">Same case below, 279 Va. 131, 688 S.E.2d 220.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

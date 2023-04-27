@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"10\" lastpage=\"10\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b112-16\">No. 10M6.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AMe\">Edgardo Maldonado-Arce, Petitioner v. David R. Peters, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b112-17\">562 U.S. 819, 131 S. Ct. 373,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AK-\">178 L. Ed. 2d 10,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AZe\">2010 U.S. LEXIS 6340.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b112-18\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ako\">Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

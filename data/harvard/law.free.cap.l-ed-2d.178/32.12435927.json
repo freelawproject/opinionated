@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"32\" lastpage=\"32\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b134-20\">No. 09-1417.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AX2d\">United Rentals, Inc., Petitioner v. James B. Angell.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b134-21\">562 U.S. 832, 131 S. Ct. 121,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"avf-dedup-0\">178 L. Ed. 2d 32,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"azi-dedup-2\">2010 U.S. LEXIS 6346.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b134-22\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aq1-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"aty-dedup-1\">Same case below, 592 F.3d 525.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

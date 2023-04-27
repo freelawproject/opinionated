@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"707\" lastpage=\"707\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b737-6\">MARY ANDERSON <em>v. </em>MATTHEW ANDERSON.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b737-7\">[Nos. 74, 83,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AYg\">October Term, 1935.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b737-11\">\n<em>Decided January 16th, 1936.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b737-14\">The cause was argued before Bond, C. J., URNER, Offutt, Parke, Sloan, Shehan, and Johnson, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b737-15\"><em>John S. Strahorn, </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b737-16\"><em>Robert Moss, </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b737-17\">Urner, J.,</author>\n<p id=\"AiQ\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

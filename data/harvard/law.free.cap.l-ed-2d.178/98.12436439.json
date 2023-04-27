@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"98\" lastpage=\"98\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b200-7\">No. 09-11236.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"adfb-dedup-0\">Ricky H. Krantz, Petitioner v. Cherry Lindamood, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b200-8\">562 U.S. 869, 131 S. Ct. 166,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AIsb\">178 L. Ed. 2d 98,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AAkr\">2010 U.S. LEXIS 6657.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b200-9\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AB2l\">Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n<p id=\"ACcK\">Same case below, 594 F.3d 896.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

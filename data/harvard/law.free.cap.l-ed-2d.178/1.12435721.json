@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1\" lastpage=\"1\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b103-2\">No. 09-1238.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ai\">Dennis Hollingsworth, et al., Petitioners v. United States District Court for the Northern District of California, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b103-3\">562 U.S. 801, 131 S. Ct. 372,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AU\">178 L. Ed. 2d 1,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AT\">2010 U.S. LEXIS 6478.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b103-4\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AX\">On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Ninth Circuit with instructions to dismiss the case as moot. See United States v. Munsingwear, Inc., 340 U.S. 36, 71 S. Ct. 104, 95 L. Ed. 36 (1950).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

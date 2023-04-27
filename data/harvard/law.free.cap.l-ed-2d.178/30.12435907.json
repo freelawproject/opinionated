@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"30\" lastpage=\"30\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b132-6\">No. 09-1381.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"amy-dedup-0\">Carolyn Mitchell, Petitioner v. Anchorage Police Department, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b132-7\">562 U.S. 831, 131 S. Ct. 103,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ayg-dedup-1\">178 L. Ed. 2d 30,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"a7v-dedup-0\">2010 U.S. LEXIS 6226.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b132-8\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4s\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"ajt-dedup-1\">Same case below, 344 Fed. Appx. 413.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

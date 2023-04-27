@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"222\" lastpage=\"222\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b310-15\">No. 09-8897.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Akk8\">Juan M. Perez Cardenas, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b310-16\">559 U.S. 997, 130 S. Ct. 1752,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A7FZ\">176 L. Ed. 2d 222,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Arjn\">2010 U.S. LEXIS 2219.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b310-17\">March 8, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AN-P\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n<p id=\"b310-18\">Same case below, 569 F.3d 1263.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

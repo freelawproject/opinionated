@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"560\" lastpage=\"560\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b648-25\">No. 09-498.</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aiqm-dedup-0\">No. 09-499.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"APNB\">Ismael John, et al., Petitioners v. United States. People of Bikini, Petitioner v. United States.</parties>\n<citation data-order=\"3\" data-type=\"citation\" id=\"AyBBG\">559 U.S. 1048, 130 S. Ct. 2340,</citation>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A_BoW\">2010 U.S. LEXIS 2937.</citation>\n<p data-order=\"5\" data-type=\"citation\" id=\"AyWS\">176 L. Ed. 2d 560,</p>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b648-28\">April 5, 2010.</decisiondate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AdSF\">Petitions for writs of certiorari to the United States Court of Appeals for the Federal Circuit denied.</p>\n<p id=\"b648-29\">Same cases below, 554 F.3d 996.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

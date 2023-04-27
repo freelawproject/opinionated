@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"111\" lastpage=\"111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b199-11\">No. 09-637.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A6r\">School Board of Beauregard Parish, Petitioner v. Honeywell International, Inc., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b199-12\">559 U.S. 937, 130 S. Ct. 1511,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"afx-dedup-1\">176L. Ed. 2d 111,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"alo-dedup-0\">2010 U.S. LEXIS 1188.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b199-13\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AyS\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b199-14\">Same case below, 328 Fed. Appx. 973.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

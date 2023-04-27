@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"132\" lastpage=\"132\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b234-19\">No. 09-11555.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AogP\">John F. Mosley, Petitioner v. Florida.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b234-20\">562 U.S. 887, 131 S. Ct. 219,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AK5P\">178 L. Ed. 2d 132,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A3g-\">2010 U.S. LEXIS 6906,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b234-21\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARp7\">Petition for writ of certiorari to the Supreme Court of Florida denied.</p>\n<p id=\"b234-22\">Same case below, 46 So. 3d 510.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

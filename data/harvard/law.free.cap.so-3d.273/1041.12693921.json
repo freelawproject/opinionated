@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1041\" lastpage=\"1041\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Harvey JACKSON, Appellant,\n  <br/>\n  v.\n  <br/>\n  The STATE of Florida, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D19-288\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed March 13, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Harvey Jackson, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Ashley Moody, Attorney General, for appellee.\n </attorneys>\n <judges id=\"p-7\">\n  Before EMAS, C.J., and LOGUE and HENDON, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n   <em>\n    See\n   </em>\n   <em>\n    Jackson v. State\n   </em>\n   ,\n   <extracted-citation case-ids=\"6840828,6840799\" index=\"0\" url=\"https://cite.case.law/so-3d/175/368/\">\n    175 So.3d 368\n   </extracted-citation>\n   (Fla. 3d DCA 2015).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

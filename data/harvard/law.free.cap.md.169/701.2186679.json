@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"701\" lastpage=\"701\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b731-3\">ROBERT H. EPPS <em>v. </em>WILLIAM RAINEY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b731-4\">[No. 32,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"ANR\">October Term, 1935.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b731-7\">\n<em>Decided December 4th, 1935.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b731-10\">The cause was submitted on briefs to Bond, C. J., Urner, Offutt, Parke, Sloan, Mitchell, Shehan, and Johnson, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b731-11\"><em>Charles Jackson, Joseph O. Buchoff, Abraham Rostov, </em>and <em>Mark Jacks on,.tor </em>the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b731-12\"><em>Benjamin Goldman, W. Albert Menchine, </em>and <em>L. Wether ed Barroll, </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b731-13\">Urner, J.,</author>\n<p id=\"A4q\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

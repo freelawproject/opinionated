@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"123\" lastpage=\"123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b211-2\">No. 09-7887.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ad4q\">Tavares Antonio McDuffie, Petitioner v. Florida.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b211-3\">559 U.S. 944, 130 S. Ct. 1514,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"anv-dedup-1\">176 L. Ed. 2d 123,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AGjR\">2010 U.S. LEXIS 1194,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b211-4\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqMf\">Petition for writ of certiorari to the District Court of Appeal of Florida, First District, denied.</p>\n<p id=\"b211-5\">Same case below, 15 So. 3d 583.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

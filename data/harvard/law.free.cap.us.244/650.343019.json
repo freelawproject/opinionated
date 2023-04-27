@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"650\" lastpage=\"651\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"AJu\">No. -. Original.</p>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AGv\">No. -. Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Alhj\"><em>Ex parte: </em>In the Matter of Donn M. Roberts, Petitioner; and <em>Ex parte: </em>In the Matter of <page-number citation-index=\"1\" label=\"651\">*651</page-number>Dennis Shea.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AsM6\">Submitted June 4, 1917.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AN_\">Decided June 11, 1917.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AGzv\"><em>Mr. Frans E. Lindquist </em>for petitioners.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AfKQ\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AgeT\">Motions for leave to file petitions for writs' of habeas corpus denied on the authority of <em>United States </em>v. <em>Mosley, </em>238 U. S. 383.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"898\" lastpage=\"898\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b946-10\">John D. DUNCAN, Plaintiff, Appellant, v. Curtis M. PAYSON et al., Defendants. Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b946-13\">No. 5687.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b946-14\">United States Court of Appeals First Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b946-15\">Oct. 18, 1960.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b946-17\">Before WOODBURY, Chief Judge, and HARTIGAN and ALDRICH, Circuit Judges.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b946-18\">John D. Duncan, pro se, on brief for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b946-19\">Roger A. Putnam, Portland, on brief for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b946-20\">PER CURIAM.</author>\n<p id=\"b946-21\">The order of the District Court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"320\" lastpage=\"320\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AF9\">BLUE RIDGE NATURAL GAS &amp; OIL CORPORATION v. D. E. DUNNE, Jr., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AyH\">No. 5667.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"A-m\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ajz\">Oct. 8, 1957.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aqa\">Hershenstein &amp; Edwards, New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A33\">McKay &amp; McKay, El Dorado, Kan., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AEon\">Before BRATTON, Chief Judge, and HUXMAN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Aom\">PER CURIAM.</author>\n<p id=\"AH7\">Dismissed on application of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

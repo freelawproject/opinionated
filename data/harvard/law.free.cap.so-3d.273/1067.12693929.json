@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1067\" lastpage=\"1067\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Dwayne M. WILLIAMS, Appellant,\n  <br/>\n  v.\n  <br/>\n  The STATE of Florida, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D19-369\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed April 17, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Dwayne M. Williams, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Ashley Moody, Attorney General, for appellee.\n </attorneys>\n <judges id=\"p-7\">\n  Before FERNANDEZ, LOGUE, and MILLER, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n   <em>\n    See\n   </em>\n   <em>\n    State v. Enmund\n   </em>\n   ,\n   <extracted-citation case-ids=\"7601061,7601023\" index=\"0\" url=\"https://cite.case.law/so-2d/476/165/\">\n    476 So.2d 165\n   </extracted-citation>\n   , 166 (Fla. 1985) (\"[A] defendant can be convicted of and sentenced for both felony murder and the underlying felony.\").\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"201\" lastpage=\"201\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b289-33\">No. 09-8732.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A1ae\">Jose Juan Serrano-Meza, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b289-34\">559 U.S. 985, 130 S. Ct. 1720,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ad3-dedup-0\">176 L. Ed. 2d 201,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ATIF\">2010 U.S. LEXIS 1975.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b289-35\">March 1, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AhUS\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b289-36\">Same case below, 334 Fed. Appx. 717.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

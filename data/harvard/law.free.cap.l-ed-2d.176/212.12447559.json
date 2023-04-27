@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"212\" lastpage=\"212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b300-10\">No. 09-504.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"apm-dedup-2\">David Paul Hammer, Petitioner v. John D. Ashcroft, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b300-11\">559 U.S. 991, 130 S. Ct. 1735,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A1Sr\">176 L. Ed. 2d 212,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ab1TV\">2010 U.S. LEXIS 2290.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b300-12\">March 8, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqGL\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"b300-13\">Same case below, 570 F.3d 798.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

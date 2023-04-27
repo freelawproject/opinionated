@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1131\" lastpage=\"1131\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1151-19\">GALLIGAN, Respondent, v. METROPOLITAN ST. RY. CO., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AbSM\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AuLV\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ATfh\">October 29, 1900.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AU-W\">Action by John F. Galligan against' the-Metropolitan Street-Railway Company. From, a judgment in favor of plaintiff, defendant appeals.</summary>\n<disposition data-order=\"5\" data-type=\"disposition\" id=\"Act\">Affirmed.</disposition>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AQau\">Henry A. Robinson, for appellant. Philip J. Britt, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1151-20\">PER CURIAM.</author>\n<p id=\"AUSl\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

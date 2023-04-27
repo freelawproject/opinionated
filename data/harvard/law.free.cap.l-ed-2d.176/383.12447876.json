@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"383\" lastpage=\"383\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b471-2\">No. 09-8850.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"abce-dedup-0\">Steve Rosado, Petitioner v. New York.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b471-3\">559 U.S. 1017, 130 S. Ct. 1907,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"af-n-dedup-0\">176 L. Ed. 2d 383,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ahqa-dedup-0\">2010 U.S. LEXIS 2630.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b471-4\">March 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUWo\">Petition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department, denied.</p>\n<p id=\"b471-5\">Same case below, 54 App. Div. 3d 351, 863 N.Y.S.2d 386.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

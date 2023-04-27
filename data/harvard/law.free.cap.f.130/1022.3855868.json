@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1058-6\">SHORTLAND BROS. CO. v. CITY OF NEW YORK.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A7Dp\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AoB\">March 9, 1904.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AFbp\">No. 170.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A0u\">Appeal from the District Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AJ57\">E. Crosby Kindleberger, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AaLR\">James Forrester, for appellees.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"ANo\">Before WALLACE, LACOMBE, and TOWNSEND, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AX3\">No opinion. Decree (129 Fed. 973) affirmed, with interest and costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

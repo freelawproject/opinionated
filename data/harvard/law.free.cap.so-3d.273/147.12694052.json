@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"147\" lastpage=\"147\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Luis A. BENITES, Appellant,\n  <br/>\n  v.\n  <br/>\n  David BARRERA III, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D18-0008\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed February 20, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Luis A. Benites, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  David Barrera III, in proper person.\n </attorneys>\n <judges id=\"p-7\">\n  Before SALTER, SCALES and MILLER, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n   <em>\n    See\n   </em>\n   <em>\n    Applegate v. Barnett Bank of Tallahassee\n   </em>\n   ,\n   <extracted-citation case-ids=\"9626980\" index=\"0\" url=\"https://cite.case.law/so-2d/377/1150/#p1152\">\n    377 So.2d 1150\n   </extracted-citation>\n   , 1152 (Fla. 1980) (holding that, in the absence of an adequate record of the proceedings below, an appellate court must affirm the trial court's judgment).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

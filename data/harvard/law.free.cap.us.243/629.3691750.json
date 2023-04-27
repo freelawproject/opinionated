@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"629\" lastpage=\"629\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b671-5\">No.-.</p>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Ad6f\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ANjj\"><em>Ex parte: </em>In the Matter of Edgar F. Hathaway and Charles Lea, Petitioners.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AK7K\">Submitted March 6, 1917.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ajp\">Decided March 19, 1917.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ABU\"><em>Mr. Charles D. Lanning </em>and <em>Mr. William G. Johnson </em>for petitioners.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AIj\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

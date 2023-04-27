@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"21\" lastpage=\"21\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b123-6\">No. 10-5720.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"asv-dedup-0\">Debra Robertson, Petitioner v. Cree, Incorporated.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b123-7\">562 U.S. 824, 131 S. Ct. 386,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ard-dedup-1\">178 L. Ed. 2d 21,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ATCR\">2010 U.S. LEXIS 6274.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b123-8\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AhiQ\">Motion of petitioner for leave to proceed in forma pauperis denied. Petitioner is allowed until October 25, 2010, within which to pay the docketing fee required by Rule 38(a) and to submit a petition in compliance with Rule 33.1 of the Rules of this Court.</p>\n<p id=\"b123-9\">Same case below, 385 Fed. Appx. 307.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

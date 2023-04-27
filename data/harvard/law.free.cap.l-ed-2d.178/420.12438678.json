@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"420\" lastpage=\"420\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b522-8\">No. 10-6479.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ApIH\">John Witherow, Petitioner v. Craig Farwell, Warden, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b522-9\">562 U.S. 1033, 131 S. Ct. 574,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"AbGoW\">2010 U.S. LEXIS 8798.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"Argh\">178 L. Ed. 2d 420,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b522-10\">November 8, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7le\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b522-11\">Same case below, 383 Fed. Appx. 688.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

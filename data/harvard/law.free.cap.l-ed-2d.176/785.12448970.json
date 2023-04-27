@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"785\" lastpage=\"786\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b873-25\">No. 09-9712.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"avtt-dedup-0\">Conrad Cooper, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b873-26\">559 U.S. 1102, 130 S. Ct. 2388,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AhK5\">176 L. Ed. 2d 785,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AEqL\">2010 U.S. LEXIS 3533.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b873-27\">April 26, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4msA\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"A8oV0\">Jus<page-number citation-index=\"1\" label=\"786\">*786</page-number>tice Sotomayor took no part in the consideration or decision of this petition.</judges>\n<p id=\"b874-4\">Same case below, 354 Fed. Appx. 439.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

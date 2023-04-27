@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"160\" lastpage=\"161\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b262-28\">No. 10-5098.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ApZi\">Stephen P. Bowers, Petitioner v. Tom Scott, Administrator, Southwestern Regional Jail, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b262-29\">562 U.S. 903, 131 S. Ct. 241,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AjfC\">178 L. Ed. 2d 160,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ajcb\">2010 U.S. LEXIS 6294.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b262-30\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ax3o-dedup-0\">Petition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied.</p>\n<p id=\"b263-2\"><page-number citation-index=\"1\" label=\"161\">*161</page-number>Same case below, 226 W. Va. 130, 697 S.E.2d 722.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

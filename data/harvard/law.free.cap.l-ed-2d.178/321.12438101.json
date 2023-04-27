@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"321\" lastpage=\"321\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b423-20\">No. 09-1539.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ACdM\">Daniel Ray Wilkes, Petitioner v. Indiana.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b423-21\">562 U.S. 981, 131 S. Ct. 414,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A3aIV\">178 L. Ed. 2d 321,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A87i\">2010 U.S. LEXIS 8144.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b423-22\">October 18, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1JK\">Petition for writ of certiorari to the Supreme Court of Indiana denied.</p>\n<p id=\"b423-23\">Same case below, 917 N.E.2d 675.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

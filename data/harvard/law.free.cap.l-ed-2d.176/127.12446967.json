@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"127\" lastpage=\"127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b215-23\">No. 09-8001.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"adm-dedup-0\">Eric Taylor, et ux., Petitioners v. Samuel L. Jacobs, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b215-24\">559 U.S. 947, 130 S. Ct. 1524,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A7s\">176 L. Ed. 2d 127,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Auh4\">2010 U.S. LEXIS 1280.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b215-25\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZQO\">Petition for writ of certiorari to the Court of Appeals of Indiana, First District, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

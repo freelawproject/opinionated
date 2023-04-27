@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"750\" lastpage=\"750\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b852-15\">No. 10-503.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AD26\">John E. Erickson, et ux., Petitioners v. City of Auburn, Washington.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b852-16\">562 U.S. 1136, 131 S. Ct. 909,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Aekab\">178 L. Ed. 2d 750,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AZ6n\">2011 U.S. LEXIS 288.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b852-17\">January 10, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Avzpp\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"Agr2s\">Same case below, 361 Fed. Appx. 750.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

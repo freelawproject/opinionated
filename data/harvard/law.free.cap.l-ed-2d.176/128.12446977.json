@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"128\" lastpage=\"128\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b216-27\">No. 09-8041.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ASM6\">John Gonzales, Petitioner v. Charles L. Ryan, Director, Arizona Department of Corrections, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b216-28\">559 U.S. 948, 130 S. Ct. 1528,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AIL\">176 L. Ed. 2d 128,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AR1\">2010 U.S. LEXIS 1302.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b216-29\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A81\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

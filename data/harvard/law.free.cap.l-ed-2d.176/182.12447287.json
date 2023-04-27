@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"182\" lastpage=\"182\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b270-7\">No. 09-746.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aq17\">Beverly Enterprises-Illinois, Inc., dba VIP Manor, Petitioner v. Virginia Mitchell, Executor of the Estate of Charles A. Mitchell, Deceased.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b270-8\">559 U.S. 972, 130 S. Ct. 1698,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AMv9\">176 L. Ed. 2d 182,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AqN9\">2010 U.S. LEXIS 2108.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b270-9\">March 1, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AsUn\">Petition for writ of cer-tiorari to the Appellate Court of Illinois, First District, denied.</p>\n<p id=\"b270-10\">Same case below, 385 Ill. App. 3d 1151, 361 Ill. Dec. 138, 970 N.E.2d 138.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

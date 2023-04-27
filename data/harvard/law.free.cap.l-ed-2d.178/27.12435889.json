@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"27\" lastpage=\"27\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b129-23\">No. 09-1334.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AZ-y\">Chase Manhattan Bank, USA, N.A., Petitioner v. Harold S. Taxel, Trustee.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b129-24\">562 U.S. 830, 131 S. Ct. 85,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AabE\">178 L. Ed. 2d 27,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ADq\">2010 U.S. LEXIS 6394.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b129-25\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Acif\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"Afx\">Same case below, 594 F.3d 1073.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

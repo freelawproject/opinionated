@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"690\" lastpage=\"690\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AHx\">GREAT EASTERN STAGES, INC. <em>v. </em>W. T. COWAN, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b732-5\">[No. 78,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Av4\">October Term, 1935.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b732-10\">\n<em>Decided January 16, 1935.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b732-13\">The cause was submitted on briefs to Bond, C.J., Urner, Offutt, Parke, and Sloan, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b732-14\"><em>H. Beale Rollins </em>and <em>Daniel S. Sullivan, </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b732-15\"><em>Joseph T. Parr </em>and <em>Rome &amp; Rome, </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b732-16\">Bond, C.J.,</author>\n<p id=\"APq\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

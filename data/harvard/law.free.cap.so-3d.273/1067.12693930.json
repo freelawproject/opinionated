@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1067\" lastpage=\"1067\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Milagros RODRIGUEZ, Appellant,\n  <br/>\n  v.\n  <br/>\n  Griselda STANFIELD, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D19-117\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed April 17, 2019.\n  <br/>\n  Rehearing Denied April 30, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Milagros Rodriguez, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Walter J. Harvey, School Board Attorney, and Jeff James, Assistant School Board Attorney, for appellee.\n </attorneys>\n <judges id=\"p-7\">\n  Before EMAS, C.J., and LOGUE and HENDON, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Upon our review of the record and the initial brief, we affirm on the authority of Florida Rule of Appellate Procedure 9.315(a) (providing: \"After service of the initial brief ..., the court may summarily affirm the order to be reviewed if the court finds that no preliminary basis for reversal has been demonstrated.\")\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

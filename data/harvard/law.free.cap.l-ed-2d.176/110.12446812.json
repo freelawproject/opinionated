@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"110\" lastpage=\"110\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b198-8\">No. 09-532.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A94\">Thomas Fry, Petitioner v. Exelon Corporation Cash Balance Pension Plan.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b198-9\">559 U.S. 936, 130 S. Ct. 1504,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AE3\">176 L. Ed. 2d 110,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"act-dedup-0\">2010 U.S. LEXIS 1325.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b198-10\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ArG\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"b198-11\">Same case below, 571 F.3d 644.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

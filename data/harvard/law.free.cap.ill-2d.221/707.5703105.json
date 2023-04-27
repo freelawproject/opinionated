@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"707\" lastpage=\"708\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b719-13\" pgmap=\"719\">In re SHOVLAIN, Peter Thomas</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AOn\" pgmap=\"719\">(MR 20999)</docketnumber><p data-order=\"2\" data-type=\"court\" id=\"b719-14\" pgmap=\"719\">Waukegan, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b720-3\" pgmap=\"720\">Order of the Court:</p> <p id=\"b720-4\" pgmap=\"720\">The motion by Peter Thomas Shovlain to strike his name from the roll of attorneys licensed to practice law in Illinois pursuant to Supreme Court Rule 762(a) is allowed, effective immediately.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

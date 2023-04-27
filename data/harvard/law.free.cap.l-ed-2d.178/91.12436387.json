@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"91\" lastpage=\"91\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b193-15\">No. 09-11171.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"anb-dedup-2\">James W. Smith, Petitioner v. Wisconsin.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b193-16\">562 U.S. 865, 131 S. Ct. 153,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AVee\">178 L. Ed. 2d 91,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ABUb\">2010 U.S. LEXIS 6488.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b193-17\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ape-dedup-2\">Petition for writ of certiorari to the Supreme Court of Wisconsin denied.</p>\n<p id=\"b193-18\">Same case below, 323 Wis. 2d 377, 780 N.W.2d 90.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

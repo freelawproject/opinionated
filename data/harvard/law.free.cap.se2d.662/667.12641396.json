@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"667\" lastpage=\"667\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  WAKE CARES, INC., et al\n  <br/>\n  v.\n  <br/>\n  BOE, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 230P08.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  May 22, 2008.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Ann Majestic, Raleigh, for Wake Co. BOE.\n </attorneys>\n <opinion id=\"p-6\">\n  The following order has been entered on the motion filed on the 21st day of May 2008 by Plaintiffs for Temporary Stay:\n </opinion>\n <opinion id=\"p-7\">\n  \"Motion Allowed by order of the Court in conference this the 22nd day of May 2008.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   MARTIN, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

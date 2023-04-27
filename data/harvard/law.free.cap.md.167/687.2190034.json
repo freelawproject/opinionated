@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"687\" lastpage=\"687\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b729-8\">EDITH M. ELLIS et al. <em>v. </em>WILLIAM R. PURNELL, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b729-10\">[No. 55,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ag_\">October Term, 1934.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b729-13\"><em>Decided January </em>15th, 1935.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b729-16\">The cause was argued before Bond, C.J., Urner, Offutt, Parke, and Sloan, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b729-17\"><em>L. Paul Ewell, </em>for the appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b729-18\"><em>Thomas F. Johnson, </em>with whom were <em>Edmond H. Johnson </em>and <em>William H. Scott </em>on the brief, for the appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b729-19\">Sloan, J.,</author>\n<p id=\"AI8\">delivered the opinion of the court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

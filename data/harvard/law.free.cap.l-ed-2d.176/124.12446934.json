@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"124\" lastpage=\"124\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b212-4\">No. 09-7916.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AXo\">A. H., Petitioner v. Pennsylvania.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b212-5\">559 U.S. 945, 130 S. Ct. 1516,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AtOZ\">176 L. Ed. 2d 124,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"axq-dedup-1\">2010 U.S. LEXIS 1329.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b212-6\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOo\">Petition for writ of certiorari to the Superior Court of Pennsylvania, Philadelphia Office, denied.</p>\n<p id=\"b212-7\">Same case below, 974 A.2d 1182.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

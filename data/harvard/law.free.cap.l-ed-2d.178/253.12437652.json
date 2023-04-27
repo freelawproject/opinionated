@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"253\" lastpage=\"254\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b355-23\">No. 10-5557.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AjfJ\">Victor Perkins, Petitioner v. James Conway, Superintendent, Attica Correctional Facility.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b355-24\">562 U.S. 954, 131 S. Ct. 318,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ACfJ\">178 L. Ed. 2d 253,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"axbj-dedup-0\">2010 U.S. LEXIS 7701.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b355-25\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACIQ\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"b356-3\"><page-number citation-index=\"1\" label=\"254\">*254</page-number>Justice Sotomayor took no part in the consideration or decision of this petition.</judges>\n<p id=\"b356-4\">Same case below, 596 F.3d 161.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

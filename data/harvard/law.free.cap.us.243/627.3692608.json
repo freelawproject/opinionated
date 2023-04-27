@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"627\" lastpage=\"627\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b669-6\">No. \u2014 .</p>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AeB\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ABay\"><em>Ex parte: </em>In the Matter of Parris Prince, Petitioner.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AUL\">Submitted March 6, 1917.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ATH\">Decided March 12, 1917.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AmX\"><em>Mr. George E. Sullivan </em>for petitioner.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3J\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"556\" lastpage=\"556\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Bennie TEMPLE\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-KK-626\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  April 27, 2018\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRIT TO THE CRIMINAL DISTRICT COURT, PARISH OF ORLEANS\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <judges id=\"p-7\">\n  GENOVESE, J., additionally concurs and assigns reasons.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   GENOVESE, J., additionally concurs in the denial of the writ.\n  </author>\n  <p id=\"p-9\">\n   Defendant has an adequate remedy via motion for preliminary examination or motion to quash.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

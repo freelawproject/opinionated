@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"200\" lastpage=\"200\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b302-16\">No. 10-5491.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A7T6\">John Vega, Petitioner v. New York.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b302-18\">562 U.S. 925, 131 S. Ct. 308,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"Axg9\">2010 U.S. LEXIS 7485.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"AOh8\">178 L. Ed. 2d 200,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b302-19\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ag5t\">Petition for writ of certiorari to the Appellate Division, Supreme Court of New York, First Judicial Department, denied.</p>\n<p id=\"b302-20\">Same case below, 68 App. Div. 3d 665, 892 N.Y.S.2d 355.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

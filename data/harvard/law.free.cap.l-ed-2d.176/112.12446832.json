@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"112\" lastpage=\"112\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b200-20\">No. 09-673.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A2s\">Sea Hawk Seafoods, Inc., et al., Petitioners v. Gary F. Locke, Secretary of Commerce, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b200-21\">559 U.S. 938, 130 S. Ct. 1522,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A2H\">176 L. Ed. 2d 112,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"abr-dedup-0\">2010 U.S. LEXIS 1152.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b200-22\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"av2-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b200-23\">Same case below, 568 F.3d 757.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

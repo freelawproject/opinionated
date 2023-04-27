@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"212\" lastpage=\"212\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b314-21\">No. 10-5611.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"alqr-dedup-0\">Norman McBride, Petitioner v. New York.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b314-22\">562 U.S. 931, 131 S. Ct. 327,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"A5zDQ\">2010 U.S. LEXIS 7189.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"A4nb\">178 L. Ed. 2d 212,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b314-23\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aqjx\">Petition for writ of certiorari to the Court of Appeals of New York denied.</p>\n<p id=\"b314-24\">Same case below, 14 N.Y.3d 440, 902 N.Y.S.2d 830, 928 N.E.2d 1027.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

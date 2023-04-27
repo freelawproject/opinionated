@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"4\" lastpage=\"5\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b106-20\">No. 09-10885.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AmS\">Louis Robenson, Petitioner v. R. J. Bonshall, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b106-21\">562 U.S. 803, 131 S. Ct. 117,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Azj\">178 L. Ed. 2d 4,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A_G\">2010 U.S. LEXIS 7729.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b106-22\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVp\">Motion of petitioners for leave to proceed in forma pauperis denied, and petition for writ of certiorari <page-number citation-index=\"1\" label=\"5\">*5</page-number>to the Supreme Court of Florida dismissed. See Rule 39.8.</p>\n<p id=\"b107-3\">Same case below, 29 So. 3d 291.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

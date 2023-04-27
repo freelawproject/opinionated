@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"345\" lastpage=\"346\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b447-23\">No. 10A393.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aarf\">Michael Bowersox, Applicant v. Roderick Nunley.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b447-24\">562 U.S. 996, 131 S. Ct. 444,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AXKA6\">178 L. Ed. 2d 345,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AEuA\">2010 U.S. LEXIS 8325.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b447-25\">October 19, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZbq\">Application to vacate the stay of execution of sentence of death, entered by the United States District Court for the Western District of Missouri on October 18, 2010, presented to Justice Alito, and by him referred to the Court, denied.</p>\n<judges id=\"b448-3\"><page-number citation-index=\"1\" label=\"346\">*346</page-number>Justice Scalia would grant the application to vacate the stay of execution.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

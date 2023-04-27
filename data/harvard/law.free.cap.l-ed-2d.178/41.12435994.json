@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"41\" lastpage=\"41\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b143-15\">No. 09-1513.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aaa-dedup-1\">Lynn Duvall, Petitioner v. Missouri Department of Social Services, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b143-16\">562 U.S. 838, 131 S. Ct. 165,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AS3\">178 L. Ed. 2d 41,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"at5-dedup-0\">2010 U.S. LEXIS 5931.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b143-17\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AzLi\">Petition for writ of certiorari to the Court of Appeals of Missouri, Western District, denied.</p>\n<p id=\"b143-18\">Same case below, 304 S.W.3d 198.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

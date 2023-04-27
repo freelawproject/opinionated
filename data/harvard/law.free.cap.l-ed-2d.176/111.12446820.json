@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"111\" lastpage=\"111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b199-7\">No. 09-632.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AhY\">Erlinda Dominguez, Petitioner v. Price Okamoto Himeno &amp; Lum.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b199-8\">559 U.S. 937, 130 S. Ct. 1511,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"a0d-dedup-0\">176 L. Ed. 2d 111,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"a_f-dedup-0\">2010 U.S. LEXIS 1187.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b199-9\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiF\">Petition for writ of certiorari to the Intermediate Court of Appeals of Hawaii denied.</p>\n<p id=\"b199-10\">Same case below, 120 Haw. App. 384, 205 P.3d 649.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

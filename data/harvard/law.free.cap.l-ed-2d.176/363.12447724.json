@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"363\" lastpage=\"363\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b451-25\">No. 09-816.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AVtN\">J. Doe, Petitioner v. Richard L. Duncan, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b451-26\">559 U.S. 1006, 130 S. Ct. 1885,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A2-K\">176 L. Ed. 2d 363,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"aayw-dedup-0\">2010 U.S. LEXIS 2707.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b451-27\">March 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Amfa\">Petition for writ of certiorari to the Court of Appeals of Tennessee, Eastern Division, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

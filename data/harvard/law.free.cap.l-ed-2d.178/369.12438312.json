@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"369\" lastpage=\"370\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b471-27\">No. 09-1572.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a8pr-dedup-0\">Joseph Stroud, et al., Petitioners v. Jerri Blount.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b471-28\">562 U.S. 1002, 131 S. Ct. 503,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AlaW\">178 L. Ed. 2d 369,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"aoh2-dedup-0\">2010 U.S. LEXIS 8462.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b471-29\">November 1, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVNV\">Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied.</p>\n<p id=\"b472-3\"><page-number citation-index=\"1\" label=\"370\">*370</page-number>Same case below, 395 Ill. App. 3d 8, 333 Ill. Dec. 854, 915 N.E.2d 925.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

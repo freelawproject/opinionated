@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"14\" lastpage=\"14\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b116-10\">No. 126,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Ax7\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"a3d-dedup-0\">State of Kansas, Plaintiff v. State of Nebraska and State of Colorado.</parties>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b116-11\">562 U.S. 820, 131 S. Ct. 378,</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"AnM\">178 L. Ed. 2d 14,</p>\n<citation data-order=\"5\" data-type=\"citation\" id=\"awm-dedup-0\">2010 U.S. LEXIS 6584.</citation>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b116-12\">October 4, 2010.</decisiondate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0sr\">The Acting Solicitor General is invited to file a brief in this case expressing the views of the United States.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

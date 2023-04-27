@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"567\" lastpage=\"568\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b655-28\">No. 09-8968.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A8LZ\">William R. Harding, Petitioner v. Ohio.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"AO_56\">559 U.S. 1052, 130 S. Ct. 2349,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"A7yO\">2010 U.S. LEXIS 2949.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"AU1P\">176 L. Ed. 2d 567,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b655-30\">April 5, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARx4\">Petition for writ of certio-rari to the Court of Appeals of Ohio, Montgomery County, denied.</p>\n<p id=\"b656-3\"><page-number citation-index=\"1\" label=\"568\">*568</page-number>Same case below, 180 Ohio App. 3d 497, 905 N.E.2d 1289.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

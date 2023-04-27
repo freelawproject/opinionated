@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"173\" lastpage=\"173\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b275-10\">No. 10-5225.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ACa1\">Thomas Carter, Petitioner v. Linda Schuette.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b275-11\">562 U.S. 910, 131 S. Ct. 260,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AAyS\">178 L. Ed. 2d 173,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AMeb\">2010 U.S. LEXIS 6995.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b275-12\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AtD2\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b275-13\">Same case below, 362 Fed. Appx. 863.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

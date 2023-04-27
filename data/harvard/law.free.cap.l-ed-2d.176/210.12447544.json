@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"210\" lastpage=\"210\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b298-6\">No. 137,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A9OM\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"a1v-dedup-0\">State of Montana, Plaintiff v. State of Wyoming and State of North Dakota.</parties>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b298-7\">559 U.S. 989, 130 S. Ct. 1753,</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"AmDW\">176 L. Ed. 2d 210,</p>\n<citation data-order=\"5\" data-type=\"citation\" id=\"AqDI\">2010 U.S. LEXIS 2273.</citation>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b298-8\">March 8, 2010.</decisiondate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AI-x\">Report of the Special Master received and ordered filed. Exceptions to the Report, with supporting briefs, may be filed within 45 days. Replies, if any, with supporting briefs, may be filed within 30 days. Surreplies, if any, with supporting briefs, may be filed within 30 days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

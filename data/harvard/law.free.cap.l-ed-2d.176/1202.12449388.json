@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1202\" lastpage=\"1202\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1290-11\">No. 09-10060.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a97f-dedup-0\">John D. Horton, Petitioner v. Michael B. Donley, Secretary of the Air Force.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1290-12\">560 U.S. 915, 130 S. Ct. 3300,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AEI1\">176 L. Ed. 2d 1202,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AtnCW\">2010 U.S. LEXIS 3928.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1290-13\">May 17, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"alci-dedup-0\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b1290-14\">Same case below, 367 Fed. Appx. 400.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

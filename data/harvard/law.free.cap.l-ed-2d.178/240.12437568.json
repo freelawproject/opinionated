@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"240\" lastpage=\"241\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b342-28\">No. 09-1188.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a9kx-dedup-0\">Frank A. Skinner, Petitioner v. Department of Justice, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b342-29\">562 U.S. 946, 131 S. Ct. 72,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ahg0\">178 L. Ed. 2d 240,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AL8r\">2010 U.S. LEXIS 7686.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b342-30\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ajxl-dedup-0\">Petition for writ of certiorari to the United States Court of <page-number citation-index=\"1\" label=\"241\">*241</page-number>Appeals for the District of Columbia Circuit denied.</p>\n<judges id=\"AfXaG\">Justice Kagan took no part in the consideration or decision of this petition.</judges>\n<p id=\"b343-3\">Same case below, 388 U.S. App. D.C. 261, 584 F.3d 1093.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"688\" lastpage=\"688\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AQH\">NANCY B. NORFOLK <em>v. </em>JAMES E. CONNOR.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b730-4\">[No. 61,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AfW\">October Term, 1934.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b730-7\">\n<em>Decided January 15, 1935.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b730-10\">The cause was argued before Bond, C.J., Urner, Offutt, Parke, and Sloan, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b730-11\"><em>P. August Grill, </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b730-12\"><em>John B. Gray, Jr., </em>with whom were <em>John B. Gray &amp; Son </em>on the brief, for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b730-13\">Sloan, J.,</author>\n<p id=\"Azr\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

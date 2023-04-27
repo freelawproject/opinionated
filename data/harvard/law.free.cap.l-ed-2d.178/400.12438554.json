@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"400\" lastpage=\"400\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b502-25\">No. 10-6760.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A2XqR\">Jesus Gonzalez, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b502-26\">562 U.S. 1019, 131 S. Ct. 546,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AEElK\">178 L. Ed. 2d 400,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A8f1\">2010 U.S. LEXIS 8399.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b502-27\">November 1, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APlb1\">Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied.</p>\n<p id=\"AreLE\">Same case below, 609 F.3d 13.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

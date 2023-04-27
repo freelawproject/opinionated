@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"180\" lastpage=\"180\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b268-28\">No. 09-687.</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ajyo-dedup-0\">No. 09-845.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ARVc\">UNC Lear Services, Inc., et al., Petitioners v. Kingdom of Saudi Arabia, et al. Kingdom of Saudi Arabia, et al., Petitioners v. UNC Lear Services, Inc., et al.</parties>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b268-30\">559 U.S. 971, 130 S. Ct. 1689,</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"adr-dedup-1\">176 L. Ed. 2d 180,</p>\n<citation data-order=\"5\" data-type=\"citation\" id=\"A-3c\">2010 U.S. LEXIS 2091.</citation>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b268-31\">March 1, 2010.</decisiondate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ak6-dedup-0\">Petitions for writs of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b268-32\">Same cases below, 581 F.3d 210.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

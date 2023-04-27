@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"876\" lastpage=\"876\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b978-14\">No. 10-747.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Adh_\">Frederick J. Harrington, Jr., Petitioner v. Atlantic Sounding Co., Inc., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b978-15\">562 U.S. 1207, 131 S. Ct. 1054,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A962\">178 L. Ed. 2d 876,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AvY_\">2011 U.S. LEXIS 939.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b978-16\">January 24, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AzvBb\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"b978-17\">Justice Sotomayor took no part in the consideration or decision of this petition.</judges>\n<p id=\"b978-18\">Same case below, 602 F.3d 113.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

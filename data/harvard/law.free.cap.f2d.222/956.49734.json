@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"956\" lastpage=\"956\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1006-15\">Manuel Richard SANCHEZ v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1006-17\">No. 5109.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1006-18\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1006-19\">April 12, 1955.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1006-21\">Francis P. O\u2019Neill, Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1006-22\">Donald E. Kelley, U. S. Atty., and James W. Heyer, Asst. U. S. Atty., Denver, Colo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1006-23\">Before PHILLIPS, Chief Judge, and MURE AH, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1006-24\">PER CURIAM.</author>\n<p id=\"b1006-25\">Appeal dismissed for failure of appellant diligently to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

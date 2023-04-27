@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"200\" lastpage=\"200\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b288-33\">No. 09-8704.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"awd-dedup-0\">Rachel Kaplan, Petitioner v. Mark Mulligan, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b288-34\">559 U.S. 984, 130 S. Ct. 1718,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AVQa\">176 L. Ed. 2d 200,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"aik-dedup-1\">2010 U.S. LEXIS 1955.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b288-35\">March 1, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aerh\">Petition for writ of certiorari to the Appeals Court of Massachusetts denied.</p>\n<p id=\"b288-36\">Same case below, 74 Mass. App. 1104, 903 N.E.2d 1144.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

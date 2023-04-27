@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"14\" lastpage=\"14\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b116-13\">No. 132,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AgI\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A56g\">State of Alabama, et al., Plaintiffs v. State North Carolina.</parties>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b116-14\">562 U.S. 820, 131 S. Ct. 378,</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"ask-dedup-0\">178 L. Ed. 2d 14,</p>\n<citation data-order=\"5\" data-type=\"citation\" id=\"AyG\">2010 U.S. LEXIS 6157.</citation>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b116-15\">October 4, 2010.</decisiondate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"apg-dedup-0\">Motion of the Special Master for allowance of fees and reimbursement of expenses granted, and the Special Master is awarded a total of $80,904.16 for the period November 1, 2006, through June 30, 2010, to be paid equally by the parties.</p>\n<judges id=\"A8b\">Justice Kagan took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

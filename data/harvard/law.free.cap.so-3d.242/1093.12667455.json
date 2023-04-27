@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1093\" lastpage=\"1093\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Brian Yun SUNG, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D17-0028\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  March 01, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Appellant's notice of voluntary dismissal is denied without prejudice to file an unconditional notice of voluntary dismissal. See Hammerl v. State,\n   <extracted-citation case-ids=\"11121622\" index=\"0\" url=\"https://cite.case.law/so-2d/779/410/\">\n    779 So.2d 410\n   </extracted-citation>\n   (Fla. 2d DCA 2000).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

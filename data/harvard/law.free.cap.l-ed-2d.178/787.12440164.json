@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"787\" lastpage=\"787\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b889-26\">No. 10-7638.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AbMBC\">Charles W. McGee, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b889-27\">562 U.S. 1157, 131 S. Ct. 955,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"AVft\">2011 U.S. LEXIS 91.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"AmAM\">178 L. Ed. 2d 787,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b889-28\">January 10, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAsf\">Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n<p id=\"AmuUS\">Same case below, 615 F.3d 1287.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

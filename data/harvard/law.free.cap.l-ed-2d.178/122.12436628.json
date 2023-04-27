@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"122\" lastpage=\"122\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b224-10\">No. 09-11458.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aoql-dedup-0\">Steven Sandstrom, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b224-11\">562 U.S. 881, 131 S. Ct. 202,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Am7S\">178 L. Ed. 2d 122,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ARCT\">2010 U.S. LEXIS 6982.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b224-12\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARhxj\">Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.</p>\n<p id=\"b224-13\">Same case below, 594 F.3d 634.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"333\" lastpage=\"333\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b435-3\">No. 10-6336.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AEFg\">Melvin Tyrone Mearidy, Petitioner v. Georgia.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b435-4\">562 U.S. 987, 131 S. Ct. 427,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AhJ0\">178 L. Ed. 2d 333,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AdpxW\">2010 U.S. LEXIS 8202.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b435-5\">October 18, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A25oQ\">Petition for writ of certiorari to the Supreme Court of Georgia denied.</p>\n<p id=\"b435-6\">Same case below, 287 Ga. 312, 696 S.E.2d 61.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

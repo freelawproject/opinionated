@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"120\" lastpage=\"120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b208-3\">No. 09-7796.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A60\">Frederick W. Smith, Jr., Petitioner v. Delaware, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b208-4\">559 U.S. 942, 130 S. Ct. 1508,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A2f\">176 L. Ed. 2d 120,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AC9q\">2010 U.S. LEXIS 1154.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b208-5\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AJyt\">Petition for writ of certiorari to the Supreme Court of Delaware denied.</p>\n<p id=\"b208-6\">Same case below, 981 A.2d 1173.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

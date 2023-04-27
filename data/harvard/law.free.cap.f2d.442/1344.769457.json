@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1344\" lastpage=\"1344\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1402-4\">UNITED STATES of America, Appellee, v. Norman James McCAA, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1402-6\">No. 26817.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1402-7\">United States Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1402-8\">June 14, 1971.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1402-10\">Morris Futlick (argued), Fresno, Cal., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1402-11\">William R. Allen, Asst. U. S. Atty. (argued), Dwayne Keyes, U. S. Atty., Fresno, Cal., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1402-12\">Before HAMLEY, DUNIWAY and KILKENNY, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1402-13\">PER CURIAM:</author>\n<p id=\"b1402-14\">The judgment is affirmed. McGee v. United States, 402 U.S. -, 91 S.Ct. 1565, 28 L.Ed.2d 47 (1971).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

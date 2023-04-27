@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1223\" lastpage=\"1223\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1311-25\">No. 09-1241.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ApCD0\">Solomon and Solomon, P.C., et al., Petitioners v. Janet Ellis.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1311-26\">560 U.S. 926, 130 S. Ct. 3333,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aqnu-dedup-0\">176 L. Ed. 2d 1223,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"aylv-dedup-0\">2010 U.S. LEXIS 4323.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1311-27\">May 24, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"a9lq-dedup-0\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<p id=\"b1311-28\">Same case below, 591 F.3d 130.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

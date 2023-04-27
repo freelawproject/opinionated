@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"110\" lastpage=\"110\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b198-21\">No. 09-564.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Am6\">City Council of the City of Albuquerque, Petitioner v. Albuquerque Commons Partnership.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b198-22\">559 U.S. 936, 130 S. Ct. 1505,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ANr\">176 L. Ed. 2d 110,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Aco\">2010 U.S. LEXIS 1348.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b198-23\">February 22, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Anv\">Petition for writ of certiorari to the Court of Appeals of New Mexico denied.</p>\n<p id=\"b198-24\">Same case below, 146 N.M. 568, 212 P.3d 1122.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

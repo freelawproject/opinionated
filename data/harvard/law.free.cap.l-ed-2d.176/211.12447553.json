@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"211\" lastpage=\"211\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b299-12\">No. 09-530.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ABPt\">National Aeronautics and Space Administration, et al., Petitioners v. Robert M. Nelson, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b299-13\">559 U.S. 990, 130 S. Ct. 1755,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"af0-dedup-0\">176 L. Ed. 2d 211,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"awa-dedup-0\">2010 U.S. LEXIS 2298.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b299-14\">March 8, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9ug\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Ninth Circuit granted.</p>\n<p id=\"b299-15\">Same case below, 530 F.3d 865.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

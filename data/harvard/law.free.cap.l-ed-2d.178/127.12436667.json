@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"127\" lastpage=\"127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b229-6\">No. 09-11504.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AzF7\">Cornelius L. Jones, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b229-7\">562 U.S. 884, 131 S. Ct. 210,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ASSh\">178 L. Ed. 2d 127,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ac0s\">2010 U.S. LEXIS 6875.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b229-8\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Axgf\">Petition for writ of certiorari to the Appellate Court of Illinois, Fourth District, denied.</p>\n<p id=\"b229-9\">Same case below, 393 Ill. App. 3d 1115, 368 Ill. Dec. 922, 985 N.E.2d 729.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

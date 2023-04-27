@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"861\" lastpage=\"861\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b963-6\">No. 10M66.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ASvi\">La Juan Clemons, Petitioner v. Kansas.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b963-7\">562 U.S. 1197, 131 S. Ct. 1060,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AfrFS\">178 L. Ed. 2d 861,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AI_qe\">2011 U.S. LEXIS 934.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b963-8\">January 24, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmC_\">Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.</p>\n<p id=\"b963-9\">Same case below, 384 Fed. Appx. 734.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

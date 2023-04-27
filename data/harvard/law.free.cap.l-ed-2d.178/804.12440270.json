@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"804\" lastpage=\"804\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b906-18\">No. 10-647.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AHhME\">George Wysocki, Petitioner v. International Business Machines Corporation, dba IBM, Inc.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b906-19\">562 U.S. 1169, 131 S. Ct. 945,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AcdzR\">178 L. Ed. 2d 804,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AhuxA\">2011 U.S. LEXIS 54.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b906-20\">January 10, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3yli\">Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n<judges id=\"ATR8Y\">Justice Breyer took no part in the consideration or decision of this petition.</judges>\n<p id=\"b906-21\">Same case below, 607 F.3d 1102.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b602-7\">No. 10-7108.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AR6M\">Robert Lee Artic, Sr., Petitioner v. Wisconsin.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b602-8\">562 U.S. 1074, 131 S. Ct. 671,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AeK2e\">178 L. Ed. 2d 500,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AZ2c9\">2010 U.S. LEXIS 9126.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b602-9\">November 29, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Apckv\">Petition for writ of certiorari to the Supreme Court of Wisconsin denied.</p>\n<p id=\"b602-10\">Same case below, 327 Wis. 2d 392, 768 N.W.2d 430.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"201\" lastpage=\"201\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b303-19\">No. 10-5500.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"airo-dedup-0\">Georgi Eremeyev, Petitioner v. New York, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b303-20\">562 U.S. 925, 131 S. Ct. 309,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"ajui-dedup-0\">2010 U.S. LEXIS 7461.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"ACt7\">178 L. Ed. 2d 201,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b303-21\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"azhe-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

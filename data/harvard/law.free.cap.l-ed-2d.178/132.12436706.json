@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"132\" lastpage=\"132\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b234-3\">No. 09-11550.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A_ZH\">Gwen Bergman, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b234-4\">562 U.S. 887, 131 S. Ct. 219,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AN5i\">178 L. Ed. 2d 132,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ahl-dedup-2\">2010 U.S. LEXIS 6794.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b234-5\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2qSX\">Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n<p id=\"A92x\">Same case below, 599 F.3d 1142.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

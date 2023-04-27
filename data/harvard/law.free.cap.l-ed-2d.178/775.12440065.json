@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"775\" lastpage=\"775\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b877-16\">No. 10-7292.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Acn6\">Andre J. Jones, Petitioner v. Mississippi.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b877-17\">562 U.S. 1150, 131 S. Ct. 932,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ArIs\">178 L. Ed. 2d 775,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AIBnW\">2011 U.S. LEXIS 406.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b877-18\">January 10, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aq3d2\">Petition for writ of certiorari to the Supreme Court of Mississippi denied.</p>\n<p id=\"b877-19\">Same case below, 39 So. 3d 860.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

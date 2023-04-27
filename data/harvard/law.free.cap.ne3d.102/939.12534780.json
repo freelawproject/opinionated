@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"939\" lastpage=\"939\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE the ADOPTION OF S.O., A.O., and N.O.:\n </parties>\n <parties id=\"p-2\">\n  P.P., Appellant-Respondent,\n  <br/>\n  v.\n  <br/>\n  A.O., Appellee-Petitioner\n </parties>\n <docketnumber id=\"p-3\">\n  Court of Appeals Case No. 41A01-1712-AD-2967\n </docketnumber>\n <court id=\"p-4\">\n  Court of Appeals of Indiana.\n </court>\n <decisiondate id=\"p-5\">\n  FILED June 6, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   DISPOSITION OF CASE BY UNPUBLISHED MEMORANDUM DECISION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   <strong>\n    VAIDIK\n   </strong>\n   ,\n   <em>\n    C.J.\n   </em>\n  </author>\n  <p id=\"p-8\">\n   Affirmed.\n  </p>\n  <p id=\"p-9\">\n   BARNES, J., Concurs.\n  </p>\n  <p id=\"p-10\">\n   PYLE, J., Concurs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

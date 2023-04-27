@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"34\" lastpage=\"34\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b136-14\">No. 09-1437.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a5m-dedup-0\">Energy West, Inc., Petitioner v. Delores Tacke.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b136-15\">562 U.S. 833, 131 S. Ct. 131,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AXA\">178 L. Ed. 2d 34,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AWlR\">2010 U.S. LEXIS 6136.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b136-16\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4V\">Petition for writ of certiorari to the Supreme Court of Montana denied.</p>\n<p id=\"b136-17\">Same case below, 355 Mont. 243, 227 P.3d 601.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

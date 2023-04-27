@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"75\" lastpage=\"75\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b177-5\">No. 09-10936.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Akse\">Elias Gorostiza, Petitioner v. California.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b177-6\">562 U.S. 856, 131 S. Ct. 122,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"asy-dedup-2\">178 L. Ed. 2d 75,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"apo-dedup-1\">2010 U.S. LEXIS 6476.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b177-7\">October 4, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMgo\">Petition for writ of certiorari to the Court of Appeal of California, Fifth Appellate District, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
