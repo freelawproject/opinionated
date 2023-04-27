@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"307\" lastpage=\"307\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  M.B., Appellant-Respondent,\n  <br/>\n  v.\n  <br/>\n  G.G., Appellee-Intervenor.\n </parties>\n <docketnumber id=\"p-2\">\n  Court of Appeals Case No. 34A02-1708-DR-1828\n </docketnumber>\n <court id=\"p-3\">\n  Court of Appeals of Indiana.\n </court>\n <decisiondate id=\"p-4\">\n  FILED March 7, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DISPOSITION OF CASE BY UNPUBLISHED MEMORANDUM DECISION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   <strong>\n    BAILEY\n   </strong>\n   ,\n   <em>\n    J.\n   </em>\n  </author>\n  <p id=\"p-7\">\n   Affirmed in part and reversed in part.\n  </p>\n  <p id=\"p-8\">\n   KIRSCH, J., Concurs.\n  </p>\n  <p id=\"p-9\">\n   PYLE, J., Concurs.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

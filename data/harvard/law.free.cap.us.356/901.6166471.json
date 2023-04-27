@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b763-2\">March 10, 1958.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b763-5\">No. 304,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A64\">No. 408,</docketnumber>\n<p data-order=\"3\" data-type=\"summary\" id=\"ARxT\">Mise.</p>\n<p data-order=\"4\" data-type=\"summary\" id=\"Af0j\">Mise.</p>\n<parties data-order=\"5\" data-type=\"parties\" id=\"AnS\">Kapsalis <em>v. </em>United States; and McGuinn <em>v. </em>Pegelow, Superintendent, District of Columbia Reformatory.</parties>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHu\">Motions for leave to file petitions for writs of habeas corpus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

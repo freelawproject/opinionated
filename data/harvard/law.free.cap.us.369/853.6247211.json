@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"853\" lastpage=\"853\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b933-4\">No. 797,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AUJ\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AYNy\">Myers <em>v. </em>Cox, Warden, et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AMPE\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aysh\"><em>Earl E. Hartley, </em>Attorney General of New Mexico, for Cox, respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ASus\">Supreme Court of New Mexico. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

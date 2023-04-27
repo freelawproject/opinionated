@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1048-25\">UNITED STATES of America v. Edward N. F. HARRIS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1048-26\">No. 835.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1048-27\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ah00n\">March 28, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1048-29\">S. M. Brewster, U. S. Atty., of Topeka, Kan.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1048-30\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1048-31\">PER CURIAM.</author>\n<p id=\"b1048-32\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

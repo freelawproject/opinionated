@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"561\" lastpage=\"562\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b569-16\">MARY A. ROBINSON, Plaintiff and Appellant, <em>v. </em>ANTHONY ROBINSON, Defendant and Respondent.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b569-17\">Before Monell, Curtis, and Sedgwick, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b569-18\"><em>Decided June </em>29, 1872.</decisiondate>\n<summary data-order=\"3\" data-type=\"misc\" id=\"b569-19\">Appeal from a judgment of Special Term, dismissing the complaint in an action brought to obtain a separation from bed and board, for alleged cruel treatment of plaintiff by defendant.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b569-20\"><em>C. H. </em>Truax, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b570-3\"><page-number citation-index=\"1\" label=\"562\">*562</page-number><em>Charles Matthews, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b570-4\">Judgment reversed, and new trial ordered, with costs.</p>\n<p id=\"b570-5\">Opinion \"by Sedgwick, J.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

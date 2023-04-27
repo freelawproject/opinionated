@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"565\" lastpage=\"565\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b573-3\">GEORGE S. ST. JOHN, Plaintiff and Respondent, v. SALMON SKINNER, Defendant and Appellant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b573-4\">Before Freedman and Curtis, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b573-5\"><em>Decided November </em>2, 1872.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b573-6\">Appeal from a judgment in favor of plaintiff in an action to recover money loaned to defendant.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b573-7\"><em>A. H. Reavy, </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b573-8\"><em>W. H. Van Cott, </em>for respondent.</attorneys>\n<disposition data-order=\"6\" data-type=\"disposition\" id=\"b573-9\">Judgment affirmed.</disposition>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b573-10\">Opinion by Freedman, J., concurred in by Curtis, J.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

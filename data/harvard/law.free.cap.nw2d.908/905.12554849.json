@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <attorneys id=\"p-1\">\n  Sperry L. MEGERIAN, as Personal Representative of the Estate of Mari Zimmerman-Thompson, Deceased, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  UNITED SERVICES AUTOMOBILE ASSOCIATION, Defendant-Appellant.\n </attorneys>\n <docketnumber id=\"p-2\">\n  SC: 156484\n  <br/>\n  COA: 336483\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  April 3, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the June 16, 2017 order of the Court of Appeals is considered and, pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we REMAND this case to the Court of Appeals for consideration as on leave granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

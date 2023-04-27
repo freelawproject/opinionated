@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"987\" lastpage=\"987\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b731-9\">No. 799,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A4Tj\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AEs\">Corbin <em>v. </em>Georgia.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ANX\"><em>Paul James Maxwell </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnhA\">Supreme Court of Georgia. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

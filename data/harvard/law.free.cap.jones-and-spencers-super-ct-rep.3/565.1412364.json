@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"565\" lastpage=\"565\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b573-11\">THE LOANERS BANK, Plaintiff and Respondent, <em>v. </em>SAMUEL G. REED, Defendant and Appellant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b573-12\">Before Freedman and Curtis, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b573-13\"><em>Decided November </em>2, 1872.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b573-14\">Appeal from a judgment in favor of plaintiff in an action to recover the amount of a promissory note.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b573-15\"><em>Wm. D. </em>Booth, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b573-16\"><em>Sewell &amp; </em>Pierce, for respondents.</attorneys>\n<disposition data-order=\"6\" data-type=\"disposition\" id=\"b573-17\">Judgment affirmed.</disposition>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b573-18\">Opinion by Curtis, J., concurred in by Freedman, J.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"889\" lastpage=\"889\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b969-8\">No. 613,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AWDT\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AmTX\">Judd <em>v. </em>Cox, Commandant, United States Disciplinary Barracks, Fort Leavenworth, Kansas.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ARSC\"><em>Guy Emery </em>and <em>C. Robert Bard </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A6Ax\"><em>Solicitor General Cox, Assistant Attorney General Marshall </em>and <em>Harold H. Greene </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AtFp\">C. A. 10th Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"564\" lastpage=\"564\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b572-8\">JEREMIAH J. COLMAN <em>et al., </em>Plaintiffs and Respondents, <em>v. </em>ISAAC DIXON, Defendant and Appellant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b572-9\">Before Monell, Curtis, and Sedgwick, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b572-10\"><em>Decided June </em>29, 1872.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b572-11\">Appeal from an order denying motion of defendant to have the issues of fact tried by a jury.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b572-12\"><em>Arnoux, Ritch &amp; Woodford, </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b572-13\"><em>Andrew </em>Boardman, for respondents.</attorneys>\n<disposition data-order=\"6\" data-type=\"disposition\" id=\"b572-14\">Order affirmed.</disposition>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b572-15\">No opinion delivered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1067-25\">Robert SCHOMBERGER, Bankrupt, v. NATIONAL MUTUAL SAVINGS ASSOCIATION.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1067-26\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ajfm\">June 29, 1938.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b1067-28\">Griffin, Ileal &amp; Emery, of Detroit, Mich., and Frazer &amp; Popkin, of Detroit, Mich., for appellant.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1067-29\">Before HICKS, ALLEN, and HAMILTON, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1067-33\">PER CURIAM.</author>\n<p id=\"b1067-34\">It appearing to the court that an appeal was allowed in this case on May 8, 1934, and that no steps have been taken to prosecute appeal since October 3, 1934; it is ordered that the appeal be dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

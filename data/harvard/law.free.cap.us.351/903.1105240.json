@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b647-4\">No. 390,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AWd\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ADZ\">Peters <em>v. </em>New York.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Act\">Appeal from the Court of Appeals of New York.</p>\n<author id=\"ALt\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AR2\">The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

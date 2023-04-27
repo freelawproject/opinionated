@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b822-7\">No. 13,</docketnumber>\n<p data-order=\"1\" data-type=\"summary\" id=\"AJa\">Mise.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A_5\">Turner <em>v. </em>Ragen, Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AKLb\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AD0H\"><em>Latham Castle, </em>Attorney General of Illinois, for</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ABJP\">respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ASd\">Supreme Court of Illinois. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

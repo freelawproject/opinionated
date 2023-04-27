@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"42\" lastpage=\"42\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b98-8\">HURLEY <em>v. </em>RAGEN, WARDEN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b98-10\">No. 225,</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"AVLo\">Mise.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A1V\">Decided March 17, 1958.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b98-12\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b98-13\"><em>Latham Castle, </em>Attorney General of Illinois, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b98-14\">Per Curiam.</author>\n<p id=\"b98-15\">The petition for writ of certiorari is denied without consideration of the questions raised therein and without prejudice to the institution by petitioner of proceedings in any Illinois state court of competent jurisdiction under the Illinois Post-Conviction Hearing Act of August 4, 1949. Ill. Rev. Stat., 1957, c. 38, \u00a7 826.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

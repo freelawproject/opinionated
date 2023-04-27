@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"560\" lastpage=\"560\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b568-4\">JANE PECHIN, Plaintiff and Respondent, <em>v. </em>THOMAS COLUMB, Defendant and Appellant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b568-5\">Before Monell, Curtis, and Sedgwick, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b568-6\"><em>Decided June </em>29, 1872.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b568-7\">Appeal from a judgment entered on the report of a referee, in favor of the plaintiff in an action brought to reform a lease, and for a construction of the same.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b568-8\"><em>Jacob F. </em>Miller, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b568-9\"><em>Samuel </em>Jones, for respondent.</attorneys>\n<disposition data-order=\"6\" data-type=\"disposition\" id=\"b568-10\">Judgment reversed.</disposition>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b568-11\">Opinion by Cuetis, J., Monell and Sedgwick, JJ., concurring.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

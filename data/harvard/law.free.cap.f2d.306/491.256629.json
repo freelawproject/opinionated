@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"491\" lastpage=\"491\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b539-2\">CONTINENTAL CASUALTY COMPANY v. WESTINGHOUSE ELECTRIC CORPORATION.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b539-4\">No. 6984.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b539-5\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b539-6\">July 11, 1962.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b539-11\">Albert R. Kool, Albuquerque, N. M., and John A. Biersmith, Jr., Kansas City, Mo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b539-12\">Trammell E. Vickery, Atlanta, Ga., and Harold O. Waggoner, Albuquerque, N. M., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b539-13\">Before MURRAH, Chief Judge, and LEWIS and BREITENSTEIN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b539-14\">PER CURIAM.</author>\n<p id=\"b539-15\">Appeal dismissed pursuant to stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

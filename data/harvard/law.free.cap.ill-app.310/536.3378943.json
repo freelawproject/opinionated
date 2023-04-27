@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"536\" lastpage=\"536\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b564-8\" pgmap=\"564\">Marie Derango, Appellee, v. M. Rubin, Appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AeSQ\" pgmap=\"564\">Gen. No. 41,560.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"b564-10\" pgmap=\"564\">McSurely, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AdZ\" pgmap=\"564\">opinion filed June 9, 1941;</decisiondate><otherdate data-order=\"4\" data-type=\"otherdate\" id=\"AlY\" pgmap=\"564\">rehearing denied June 24, 1941.</otherdate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ArV\" pgmap=\"564\">John A. Bloomingston, for appellant; V. Russell Donaghy, for appellee; David A. Sehallman, of counsel.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"AyM\" pgmap=\"564\">Opinion by</p> <author id=\"ALq\" pgmap=\"564\">Presiding Justice O\u2019Connor.</author> <p id=\"Ad-\" pgmap=\"564\">\u201cNot to be published in full.\u2019\u2019</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

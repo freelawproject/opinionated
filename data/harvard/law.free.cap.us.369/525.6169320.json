@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"525\" lastpage=\"525\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b607-13\">EAGLE et al. <em>v. </em>BENNETT, WARDEN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b607-15\">No. 687,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ag7\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Av0\">Decided April 30, 1962.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b607-17\">Per Curiam.</author>\n<p id=\"b607-18\">The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<judges id=\"b607-19\">Mr. Justice Frankfurter took no part in the consideration or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

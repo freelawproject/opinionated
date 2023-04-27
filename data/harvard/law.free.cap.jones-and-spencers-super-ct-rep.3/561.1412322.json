@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"561\" lastpage=\"561\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b569-7\">JOHN McGUIRE, Plaintiff, <em>v. </em>JOHN SINCLAIR <em>et al., </em>Defendants.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b569-8\">Before Monell, Curtis, and Sedgwick, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b569-9\"><em>Decided June </em>29, 1872.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b569-10\">Case and exceptions heard at General Term in first instance.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b569-11\">Complaint dismissed at the trial.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b569-12\"><em>Edwards &amp; </em>Odell, for plaintiff.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b569-13\"><em>Edward </em>Patterson, for defendants.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b569-14\">Exceptions overruled, and judgment ordered dismissing the complaint, with costs.</p>\n<p id=\"b569-15\">Opinion by Monell, J., Curtis and Sedgwick, JJ., concurring.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

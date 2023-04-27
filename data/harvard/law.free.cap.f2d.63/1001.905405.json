@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1031-41\">ELLIS FOSTER COMPANY, Appellee, v. ALDUR CORPORATION, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1031-44\">No. 184.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1031-45\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1031-46\">Feb. 6, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1031-48\">O\u2019Neal, Sealy <em>&amp; </em>Sawyer, of New York City (Arthur T. Sawyer, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1031-49\">Gifford, Scull &amp; Burgess, of New York City (George F. Scull, of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1031-50\">Before L. HAND, SWAN, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1031-51\">PER CURIAM.</author>\n<p id=\"b1031-52\">Decree <em>(2 </em>F. Supp. 656) affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

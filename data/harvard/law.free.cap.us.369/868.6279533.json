@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"868\" lastpage=\"868\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b948-9\">May 14, 1962.<footnotemark>*</footnotemark></decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"b948-11\">No. \u2014.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A61t\">Carbo <em>v. </em>United States.</parties>\n<judges data-order=\"3\" data-type=\"judges\" id=\"A5-Q\">Mr. Justice Douglas took no part in the consideration or decision of this application.</judges>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A-9V\"><em>William B. Beime, A. L. Wirin </em>and <em>Fred Okrand </em>for petitioner.</attorneys>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b948-12\">Mr. Justice FranKfurter took no part in the consideration or decision of cases in which orders were this day announced.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"AoUH\">The application for review of the order of the Circuit Justice denying bail pending appeal is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

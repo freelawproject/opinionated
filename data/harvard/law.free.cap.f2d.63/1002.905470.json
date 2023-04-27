@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1002\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1032-4\">Oscar ENGELSTAD, Trustee in Bankruptcy of the Estate of David P. OSWALD and Nellie E. Oswald, His Wife, Bankrupts, Appellant, v. SECURITY NATIONAL BANK, a Corporation, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1032-5\">No. 7058.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1032-6\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1032-7\">April 4, 1933.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1032-9\">Before WILBUR, SAWTELLE, and MACK, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1032-10\">PER CURIAM.</author>\n<p id=\"b1032-11\">Upon stipulation of counsel, ordered appeal dismissed, without costs; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

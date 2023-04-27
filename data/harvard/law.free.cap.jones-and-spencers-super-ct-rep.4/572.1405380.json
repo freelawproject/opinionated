@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"572\" lastpage=\"572\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b580-11\">JAMES F. BROWN, Plaintiff and Appellant, <em>v. </em>JOHN COMBES <em>et al., </em>Defendants and Respondents.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b580-12\">Before Freedman, Curtis, and Van Vorst, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b580-13\"><em>Decided June </em>28, 1873.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b580-17\"><em>Goodrich &amp; Wheeler, </em>for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b580-18\"><em>Charles Whelp, </em>for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b580-19\">Opinion by Van Vorst, J. Freedman and Curtis, JJ., concurred.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b580-14\">Action to recover value of property shipped to a commission merchant.</p>\n<p id=\"AXl\">Appeal from judgment for defendant.</p>\n<p id=\"AWp\">Judgment reversed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"600\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"AzVB\" pgmap=\"612\">In re McGRATH, THOMAS</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AFk\" pgmap=\"612\">(MR 17736)</docketnumber><p data-order=\"2\" data-type=\"docketnumber\" id=\"Azv\" pgmap=\"612\">Chicago, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"A3N\" pgmap=\"612\">Order of the Court:</p> <p id=\"A_z\" pgmap=\"612(51) 613(14)\">The petition by the Administrator of the Attorney Registration and Disciplinary Commission to impose discipline on consent pursuant to Supreme Court Rule 762(b) is allowed, and respondent Thomas McGrath is suspended from the practice of law for three years. Respondent Thomas McGrath shall reimburse the Disciplinary Fund for any Client Protection payments arising from his conduct prior to the termination of the period of suspension.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

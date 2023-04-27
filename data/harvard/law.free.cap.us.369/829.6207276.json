@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"829\" lastpage=\"829\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b909-8\">No. 509,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AEK1\">Misc,</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ATX\">Anderson <em>v. </em>Kentucky.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AJ98\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AX0r\"><em>John B. Breckinridge, </em>Attorney General of Kentucky, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Adqr\">Court of Appeals of Kentucky. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"591\" lastpage=\"591\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"Axf\" pgmap=\"603\">In re BUDIN, JOHN JOSEPH</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ART\" pgmap=\"603\">(MR 17678)</docketnumber><p data-order=\"2\" data-type=\"docketnumber\" id=\"Ap\" pgmap=\"603\">Chicago, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"AR_\" pgmap=\"603\">Order of the Court:</p> <p id=\"Aiv\" pgmap=\"603\">The petition by the Administrator of the Attorney Registration and Disciplinary Commission to impose discipline on consent pursuant to Supreme Court Rule 762(b) is allowed, and respondent John Joseph Budin is censured.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

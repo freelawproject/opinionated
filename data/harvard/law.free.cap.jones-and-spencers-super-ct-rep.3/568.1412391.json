@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"568\" lastpage=\"568\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b576-3\">WILLIAM F. HEINS, Plaintiff and Appellant, <em>v. </em>CHARLES A. PEINE, Defendant and Respondent.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b576-4\">Before Monell, Sedgwick, and Van Vorst, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b576-5\"><em>Decided February </em>1, 1873.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b576-6\"><em>C. Bainbridge Smith, </em>for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b576-7\"><em>John J. Townsend, </em>for respondent.</attorneys>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b576-8\">Appeal from a judgment in favor of defendant for a return of personal property.</summary>\n<disposition data-order=\"6\" data-type=\"disposition\" id=\"b576-9\">Judgment affirmed.</disposition>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b576-10\">Opinion by Sedgwick, J. Monell and Van Vorst, JJ., concurred.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"563\" lastpage=\"563\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b571-10\">HERMAN O. ARMOUR <em>et al., </em>Plaintiffs and Appellants, <em>v. </em>THE MICHIGAN CENTRAL RAILROAD COMPANY, Defendant and Respondent.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b571-11\">Before Monell, Curtis, and Sedgwick, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b571-12\"><em>Decided June </em>29, 1872.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b571-13\">Appeal from judgment entered on report of referee, in favor of plaintiffs, on a contract of defendants as common carriers.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b571-14\"><em>Cotterrill </em>Brothers, for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b571-15\"><em>C. A. </em>Arthur, for respondent.</attorneys>\n<disposition data-order=\"6\" data-type=\"disposition\" id=\"b571-16\">Judgment affirmed.</disposition>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b571-17\">No opinion delivered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

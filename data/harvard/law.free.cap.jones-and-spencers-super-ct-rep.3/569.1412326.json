@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"569\" lastpage=\"569\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b577-8\">ALBERT B. COREY, Plaintiff, v. WALTER P. LONG, Defendant.</parties>\n<summary data-order=\"1\" data-type=\"misc\" id=\"b577-9\">Appeal from an order of Special Term, confirming report of a referee appointed to take and pass the accounts of a receiver.</summary>\n<p data-order=\"2\" data-type=\"judges\" id=\"b577-10\">Before Monell, Sedgwick, and Van Vorst, JJ.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b577-11\"><em>Decided February </em>1, 1873.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b577-12\"><em>C. W. </em>Bangs, for plaintiff\u2019s assignee.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b577-13\"><em>M. V. B. </em>Bachman, for receiver.</attorneys>\n<disposition data-order=\"6\" data-type=\"disposition\" id=\"b577-14\">Order affirmed.</disposition>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b577-15\">No opinion rendered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

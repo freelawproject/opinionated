@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"496\" lastpage=\"496\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b548-3\">William S. PETTY et al. v. H. Kenneth HUNT et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b548-4\">No. 4407.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b548-5\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b548-6\">Jan. <em>7, </em>1952.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b548-8\">H; Gordon Howard, Denver, Colo., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b548-9\">P. H. Lamphere, Horace B. Van Valkenburgh III, and Peter J. Little, all of Denver, Colo., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b548-10\">Before PHILLIPS, Chief Judge, and HUXMAN and MURRAH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b548-11\">PER CURIAM.</author>\n<p id=\"b548-12\">Appeal dismissed on motion of appellees.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

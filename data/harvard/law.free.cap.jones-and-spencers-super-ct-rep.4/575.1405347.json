@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"575\" lastpage=\"575\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b583-7\">CHARLES F. HOLTZ, Plaintiff and Appellant, <em>v. </em>HENRY G. SCHMIDT <em>et al., </em>Defendants and Respondents.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b583-8\">Before Barbour, Ch. J., Curtis and Van Vorst, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b583-9\"><em>Decided December </em>31, 1873.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b583-11\"><em>Charles Wehle, </em>for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b583-12\"><em>Charles Tracy, </em>for respondent.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b583-13\">Opinion by Barbour, Ch. J.</p>\n<p data-order=\"6\" data-type=\"judges\" id=\"b583-14\">Dissenting opinion by Curtis, J.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b583-10\">Action to recover damages for/breach of agreement.</p>\n<p id=\"AM1f\">Appeal from judgment in favor of defendant.</p>\n<p id=\"A8i\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

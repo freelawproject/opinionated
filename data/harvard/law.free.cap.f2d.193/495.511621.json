@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"495\" lastpage=\"495\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b547-4\">ALEXANDER FILM COMPANY v. FEDERAL TRADE COMMISSION.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b547-5\">No. 4212.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b547-6\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b547-7\">Oct. 25, 1951.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b547-9\">Thomas M. Burgess, Colorado Springs, Colo., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b547-10\">W. T. Kelley, Gen. Counsel, and James W. Cassedy, Asst. Gen. Counsel, Federal Trade Commission, Washington, D. C., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b547-11\">Before PHILLIPS, Chief Judge, and PICKETT, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b547-12\">PER CURIAM.</author>\n<p id=\"b547-13\">Petition to review dismissed on motion of petitioner.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

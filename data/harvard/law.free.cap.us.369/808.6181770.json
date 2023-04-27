@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"808\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b888-12\">February 27, 1962.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b888-14\">No. 1084,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A_C\">Misc.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A5y\">Moss <em>v. </em>Jones, Warden.</parties>\n<judges data-order=\"4\" data-type=\"judges\" id=\"A5Q\">Mr. Justice Douglas is of the opinion that the application for stay and the petition for certiorari should be granted.</judges>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"An3\">Application for stay of execution and petition for writ of certio-rari to the Court of Appeals of Kentucky denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

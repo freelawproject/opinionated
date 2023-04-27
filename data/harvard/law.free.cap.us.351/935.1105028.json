@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"935\" lastpage=\"935\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b679-11\">No. 207,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ACg\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Asu\">Chick <em>v. </em>Texas.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AjE\">Petitioner <em>pro se. John A. Wild, </em>Assistant Attorney General of Texas, for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZYb\">Appeal from the Court of Criminal Appeals of Texas.</p>\n<author id=\"Ao8-\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"A5t\">The appeal is dismissed and the motion for leave to file petition for writ of habeas corpus is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

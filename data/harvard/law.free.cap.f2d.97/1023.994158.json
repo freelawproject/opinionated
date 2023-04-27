@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1077-33\">YOUNG v. UNITED STATES.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1077-34\">No. 8532.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1077-35\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1077-36\">July 12, 1938.</decisiondate>\n<seealso data-order=\"4\" data-type=\"seealso\" id=\"b1077-39\">For former opinion, see 97 F.2d 200.</seealso>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1077-40\">Before FOSTER, HUTCHESON, and HOLMES, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AGd\">PER CURIAM.</author>\n<p id=\"b1077-42\">As neither of the judges who concurred in the judgment of the court in the above numbered and entitled cause is of opinion that the petition for rehearing should be granted, it is ordered that the said petition be, and the same is hereby, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

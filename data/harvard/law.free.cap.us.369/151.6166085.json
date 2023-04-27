@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"151\" lastpage=\"151\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b233-4\">HARDING <em>v. </em>HAND, WARDEN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b233-6\">No. 5,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AVr\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AHE\">Decided March 19, 1962.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b233-8\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b233-9\"><em>John Anderson, Jr., </em>Attorney General of Kansas, and <em>J. Richard Foth, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b233-10\">Per Curiam.</author>\n<p id=\"b233-11\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<judges id=\"b233-12\">Mr. Justice Whittaker took no part in the consideration or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1064-28\">NEW YORK HANDKERCHIEF MANUFACTURING COMPANY, Petitioner, v. NATIONAL LABOR RELATIONS BOARD, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1064-31\">No. 6605.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1064-32\">Circuit Court of Appeals, Seventh Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1064-33\">May 27, 1938.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1064-35\">Before SPARKS and TREANOR, Circuit Judges, and LINDLEY, District Judge.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1064-36\">PER CURIAM.</author>\n<p id=\"b1064-37\">Now come the parties by their counsel, and by agreement of counsel in open court, it is now here ordered that the petition for review in this cause be, and it is hereby, dismissed for the reason that said petition is premature.</p>\n<p id=\"b1064-38\">It is further ordered that the record in this cause be remanded to the National Labor Relations Board.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

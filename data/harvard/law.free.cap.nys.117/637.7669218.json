@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"637\" lastpage=\"637\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b669-4\">NAHE v. BAUER et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b669-5\">(Supreme Court, Appellate Division, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"All\">June 18, 1909.)</decisiondate>\n<summary data-order=\"3\" data-type=\"headnotes\" id=\"b669-6\">On motion for reargument.</summary>\n<disposition data-order=\"4\" data-type=\"disposition\" id=\"AEU\">Denied.</disposition>\n<seealso data-order=\"5\" data-type=\"seealso\" id=\"b669-7\">For former report, see 117 N. Y. Supp. 356.</seealso>\n<p data-order=\"6\" data-type=\"judges\" id=\"b669-8\">Argued before HlRSCIiBERG. P. J.. and JENKS, GAYNOR, BURR, and RICH, JJ.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b669-9\">PER CURIAM.</author>\n<p id=\"AgrE\">Motion for reargument denied, with costs, on the authority of Nahe v. Bauer (action No. 1, decided herewith) 117 N. Y. Supp. 635.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

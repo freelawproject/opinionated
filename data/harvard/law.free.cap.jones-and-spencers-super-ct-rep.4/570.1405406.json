@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"570\" lastpage=\"570\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b578-4\">MARY LUDDINGTON, <em>et </em>al., Plaintiffs and Appellants, <em>v. </em>Abraham B. MILLER, <em>et al., </em>Defendants and Respondents.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b578-5\">Before Barbour, Ch. J., Monell and Van Vorst, JJ,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b578-6\"><em>Decided May </em>3, 1873.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b578-9\"><em>A. H. </em>Dana, for the motion.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b578-10\"><em>G. W. Lord, </em>opposed.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b578-11\">Opinion by Monell, J. Barbour, Ch. J., and Van Vorst, J., concurred in the conclusion.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b578-7\">Motion to dismiss an appeal from an order made at Special Term, denying a motion for a new trial on a case.</p>\n<p id=\"b578-8\">Motion denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

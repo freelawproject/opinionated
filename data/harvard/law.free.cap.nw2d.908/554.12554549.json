@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"554\" lastpage=\"554\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  John Robert KANARY, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157438\n  <br/>\n  COA: 336174\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  March 30, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of defendant-appellant file a pro per supplement to the application for leave to appeal is GRANTED. The pro per supplement filed on March 26, 2018, is accepted for filing.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

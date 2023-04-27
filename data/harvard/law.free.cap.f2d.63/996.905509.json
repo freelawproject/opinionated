@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"996\" lastpage=\"996\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1026-24\">David BURNET, Commissioner of Internal Revenue, v. NEWBLOCK OIL COMPANY OF TEXAS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1026-25\">NO. 793.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1026-26\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AoHx\">Jan. 21, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1026-28\">C. M. Charest, General Counsel, Bureau of Internal Revenue, of Washington, D. C., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1026-29\">Erwin Bruce Hallett, of New York City, for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1026-30\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1026-31\">PER CURIAM.</author>\n<p id=\"b1026-32\">Petition for review dismissed on motion of petitioner.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

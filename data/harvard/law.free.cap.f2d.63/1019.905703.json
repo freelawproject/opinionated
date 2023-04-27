@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1049-23\">UNITED STATES of America, Appellant, v. William Doxie THOMSON, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1049-25\">No. 7112.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"ADF9\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AH6\">March 17, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1049-28\">John R. Layng, U. S. Atty., and Lewis M. Andrews, Asst. U. S. Atty., both of Los Angeles, Cal.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1049-29\">David Spaulding, of West Los Angeles, Cal., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1049-30\">Before WILBUR, SAWTELLE, and MACK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1049-31\">PER CURIAM.</author>\n<p id=\"b1049-32\">Upon stipulation of counsel for the respective parties, ordered appeal dismissed; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

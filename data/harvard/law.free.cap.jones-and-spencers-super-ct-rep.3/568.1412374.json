@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"568\" lastpage=\"569\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b576-19\">CHRISTOHPER I. BUSH, Plaintiff and Appellant, <em>v. </em>RICHARD FIELD <em>et al., </em>Defendants and Respondents.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b576-20\">Appeal from a judgment entered in favor of the defendant.</summary>\n<p data-order=\"2\" data-type=\"summary\" id=\"b577-3\"><page-number citation-index=\"1\" label=\"569\">*569</page-number>Before Monell, Sedgwick, and Van Vorst, JJ.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AiU\"><em>Decided February </em>1, 1873.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b577-4\"><em>S. C. </em>Conable, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b577-5\"><em>F. Smyth, </em>for respondents.</attorneys>\n<disposition data-order=\"6\" data-type=\"disposition\" id=\"b577-6\">Judgment reversed.</disposition>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b577-7\">Opinion by Monell, J. Sedgwick and Van Vorst, JJ., concurred.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

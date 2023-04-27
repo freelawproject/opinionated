@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE ESTATE OF Donna M. MOORE\n </parties>\n <parties id=\"p-2\">\n  Laurette M. Lemieux-Clemens, Personal Representative of the Estate of Donna M. Moore, Appellant,\n  <br/>\n  and\n  <br/>\n  Huntington National Bank, Appellee,\n  <br/>\n  v.\n  <br/>\n  Bethel Temple Church, Appellee.\n </parties>\n <docketnumber id=\"p-3\">\n  SC: 156963\n  <br/>\n  COA: 338553\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  April 3, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Court, the application for leave to appeal the October 16, 2017 order of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the question presented should be reviewed by this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

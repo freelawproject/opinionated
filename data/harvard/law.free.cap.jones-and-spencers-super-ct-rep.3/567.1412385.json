@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"567\" lastpage=\"567\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b575-14\">ADAM BROWN, Plaintiff and Appellant, v. SIGMUND P. WINDMULLER <em>et al., </em>Defendants and Respondents.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b575-15\">Before Barbour, Ch. J., Monell and Van Vorst, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AV2\"><em>Decided January </em>4, 1873.</decisiondate>\n<summary data-order=\"3\" data-type=\"misc\" id=\"b575-16\">Appeal from an order of Special Term denying motion to set aside referee\u2019s report.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b575-17\"><em>Andrew H. H. Dawson, </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b575-18\"><em>James Taylor, </em>for respondent.</attorneys>\n<disposition data-order=\"6\" data-type=\"disposition\" id=\"b575-19\">Order affirmed.</disposition>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b575-20\">No opinion rendered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

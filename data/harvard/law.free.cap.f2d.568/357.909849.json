@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"357\" lastpage=\"357\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b427-4\">Tony SMITH et al., Plaintiffs-Appellees, v. UNITED STATES of America, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b427-6\">No. 75-1609.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b427-7\">United States Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b427-9\">Feb. 6, 1978.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b427-11\">Before COLEMAN, GODBOLD and HILL, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b427-12\">BY THE COURT:</author>\n<p id=\"b427-13\">In light of the United States Supreme Court\u2019s judgment entered on December 5, 1977, - U.S. -, 98 S.Ct. 600, 54 L.Ed.2d 473 [vacating 543 F.2d 1155], the petition of taxpayers for the award of attorneys\u2019 fees is DENIED, and this cause is hereby REMANDED to the United States District Court for the Northern District of Mississippi with directions to enter judgment for the United States.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

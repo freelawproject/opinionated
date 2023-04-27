@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"402\" lastpage=\"403\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  The ALLIANCE TO END CHICKENS AS KAPOROS, et al., Appellants,\n  <br/>\n  v.\n  <br/>\n  NEW YORK CITY POLICE DEPARTMENT, et al., Respondents, et al., Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  2018-331\n </docketnumber>\n <court id=\"p-3\">\n  Court of Appeals of New York.\n </court>\n <decisiondate id=\"p-4\">\n  March 29, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Motion by Agudath Israel of America for leave to appear amicus curiae on the appeal herein granted only to the extent that the proposed brief is accepted as filed.\n </opinion>\n <p id=\"p-6\">\n  The brief must be submitted in digital format within seven days.\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   Judge Feinman took no part.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

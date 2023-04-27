@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"563\" lastpage=\"563\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b571-3\">THE HOPE MUTUAL LIFE INSURANCE COMPANY, Plaintiff and Respondent, <em>v. </em>JAMES F. SOULTER, Defendant and Appellant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b571-4\">Before Monell, Curtis and Sedgwick, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A76\"><em>Decided June </em>29, 1872.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b571-5\">Appeal from a judgment in favor of plaintiff upon a promissory note.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b571-6\"><em>F. E. </em>Dana, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b571-7\"><em>Cephas </em>Brainerd, for respondent.</attorneys>\n<disposition data-order=\"6\" data-type=\"disposition\" id=\"b571-8\">Judgment affirmed, with costs.</disposition>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b571-9\">No opinion delivered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

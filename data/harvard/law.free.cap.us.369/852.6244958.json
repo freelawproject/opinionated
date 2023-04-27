@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"852\" lastpage=\"852\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b932-7\">No. 569,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Af2t\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Apao\">Ford <em>v. </em>California et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AAQ\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ADmf\"><em>Stanley Mosk, </em>Attorney General of California, <em>Doris H. Maier, </em>Assistant Attorney General, and <em>Richard D. Lee, </em>Deputy Attorney General, for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABn\">Supreme Court of California. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

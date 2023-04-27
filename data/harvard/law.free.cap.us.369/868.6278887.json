@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"868\" lastpage=\"868\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b948-6\">No. 907,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AQ-\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AJjQ\">Ex parte Stickney.</parties>\n<judges data-order=\"3\" data-type=\"judges\" id=\"AGop\">Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Anv\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AcWd\"><em>Carl E. F. Dally </em>for the State of Texas, respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AK6J\">Court of Criminal Appeals of Texas. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

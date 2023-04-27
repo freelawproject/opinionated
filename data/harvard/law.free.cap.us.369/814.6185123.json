@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"814\" lastpage=\"814\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b894-4\">March 12, 1962.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b894-6\">No. 247,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ack\">Misc.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AryO\">Smith <em>v. </em>Oklahoma.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AD9g\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ag5\"><em>Mac Q. Williamson, </em>Attorney General of Oklahoma, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AhN\">On petition for writ of certiorari to the Court of Criminal Appeals of Oklahoma. Petition dismissed pursuant to Rule 60 of the Rules of this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

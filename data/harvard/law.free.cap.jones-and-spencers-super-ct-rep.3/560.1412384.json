@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"560\" lastpage=\"561\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b568-12\">JAMES E. WARD <em>et </em>al., Plaintiffs and Appellants, <em>v. </em>JOHN TURL <em>et </em>al., Defendants and Respondents.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b568-13\">Before Monell, Curtis, and Sedgwick, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b568-14\"><em>Decided June </em>29, 1872.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b568-15\">Appeal from a judgment dismissing complaint. .</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b569-3\"><page-number citation-index=\"1\" label=\"561\">*561</page-number><em>Joseph S. </em>Ridgway, for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b569-4\"><em>David </em>McAdam, for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b569-5\">Judgment reversed, and new trial ordered, with costs.</p>\n<p id=\"b569-6\">Opinion by Curtis, J., Monell and Sedgwick, JJ., concurring.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

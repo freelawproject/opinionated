@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1011\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1040-38\">MIAMI REAL ESTATE COMPANY, a Florida Corporation, et al., Appellants, v. Margaret Spence EASTWOOD, a Widow, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1040-39\">No. 6622.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1040-40\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A9H\">March 22, 1933.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1040-42\">Bart A. Riley, of Miami, Fla., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1041-3\"><page-number citation-index=\"1\" label=\"1011\">*1011</page-number>Charles A. Carroll and Joseph Otto, both of Miami, Fla., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"legal\" id=\"b1041-6\">t o\u2122 Before BRYAN, FOSTER, and SIBLEY, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1041-8\">PER CURIAM.</author>\n<p id=\"b1041-9\">The decree is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

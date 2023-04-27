@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b429-13\">In re Resignation of Moore.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b429-14\">[Cite as In re Resignation of Moore (1989), 45 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b429-15\">(No. 89-1397</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AHA\">Submitted August 15, 1989</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ak5\">Decided September 13, 1989.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b429-16\">The resignation of William Julius Moore as an attorney is accepted.</p>\n<judges id=\"AqX\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

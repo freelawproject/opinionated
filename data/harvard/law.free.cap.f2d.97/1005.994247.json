@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1005\" lastpage=\"1006\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1059-33\">Louis P. HYMAN, Bankrupt, v. H. M. KESSLER, Trustee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1059-34\">Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ASp8\">June 29, 1938.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b1059-36\">D. A. Sachs, Jr., of Louisville, Ky., for appellant.</attorneys>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1060-3\"><page-number citation-index=\"1\" label=\"1006\">*1006</page-number>Before BUCKS, ALLEN, and HAMILTON, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1060-4\">PER CURIAM.</author>\n<p id=\"b1060-5\">It appearing to the court that an appeal was allowed in this case on October 9, 1936, and that no further steps have been taken since that date to prosecute appeal; it is Ordered that the appeal be dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

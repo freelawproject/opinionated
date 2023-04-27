@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"814\" lastpage=\"814\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b894-7\">March 19, 1962.<footnotemark>*</footnotemark></decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b894-9\">No. 551,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A2P\">October Term, 1960.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AS2\">Ginsburg <em>v. </em>Ginsburg et al.,</parties>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b894-13\">Mr. Justice Whittaker took no part in the consideration or decision of cases in which orders were this day announced.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"ACsd\">364 U. S. 934. The motion for reconsideration of petition for rehearing is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

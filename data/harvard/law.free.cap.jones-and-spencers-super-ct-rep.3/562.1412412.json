@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"562\" lastpage=\"562\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b570-15\">MAGDALENA DOSCHER <em>et al.; </em>Plaintiffs and Respondents, <em>v. </em>JOHN J. SHAW <em>et al., </em>Defendants and Appellants.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b570-16\">Before Monell, Curtis, and Sedgwick, JJ.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A0v\"><em>Decided June </em>29, 1872.</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b570-17\">Appeal from a judgment in favor of plaintiffs upon an agreement of defendants as sureties upon a lease. <em>Sterling &lt;&amp; Walden, </em>for appellants.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b570-18\"><em>Man &amp; Parsons, </em>for respondents.</attorneys>\n<disposition data-order=\"5\" data-type=\"disposition\" id=\"b570-19\">Judgment affirmed, with costs.</disposition>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b570-20\">No opinion delivered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

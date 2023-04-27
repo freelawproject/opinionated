@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"A_d\" pgmap=\"613\">In re MUSLIN, HARVEY PAUL</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"As-\" pgmap=\"613\">(MR 17691)</docketnumber><p data-order=\"2\" data-type=\"docketnumber\" id=\"A3p\" pgmap=\"613\">Tampa, FL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"AmP\" pgmap=\"613\">Order of the Court:</p> <p id=\"As7\" pgmap=\"613\">The petition by the Administrator of the Attorney Registration and Disciplinary Commission to impose reciprocal discipline pursuant to Supreme Court Rule 763 is allowed, and respondent Harvey Paul Muslin, who has been disciplined in the State of Florida, is censured in Illinois and placed on supervised probation for not less than 24 months, subject to the terms and conditions of his Florida probation.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

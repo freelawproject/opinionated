@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"995\" lastpage=\"995\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1049-5\">Niels CHRISTENSEN, Plaintiff-Appellant, v. BRAGG-KLIESRATH CORPORATION, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1049-6\">No. 6595.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1049-7\">Circuit Court of Appeals, Seventh Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"azx-dedup-2\">June 8, 1938.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1049-10\">Before SPARKS and TREANOR, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1049-11\">PER CURIAM.</author>\n<p id=\"b1049-12\">On motion of counsel for appellee, it is ordered by this Court that this appeal be, and the same is hereby, dismissed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

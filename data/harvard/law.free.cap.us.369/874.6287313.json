@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"874\" lastpage=\"874\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b954-6\">No. 9,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ADsF\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ArcP\">Jones <em>v. </em>Adams, Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AOBK\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AT6T\"><em>C. Donald Robertson, </em>Attorney General of West Virginia, <em>Fred H. Caplan </em>and <em>George H. Mitchell, </em>Assistant Attorneys General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AuqK\">Supreme Court of Appeals of West Virginia. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

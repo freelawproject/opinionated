@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1018\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1072-37\">UNITED STATES v. NESBITT FRUIT PRODUCTS, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1072-38\">No. 8748.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1072-39\">Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A84\">July 20, 1938.</decisiondate>\n<seealso data-order=\"4\" data-type=\"seealso\" id=\"b1072-42\">For former opinion, see 96 F.2d 972.</seealso>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1072-43\">Before FOSTER, SIBLEY, and HUT-CHESON, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1073-4\"><page-number citation-index=\"1\" label=\"1019\">*1019</page-number>PER CURIAM.</author>\n<p id=\"b1073-5\">As neither of the judges who concurred in the judgment of the court in the above numbered and entitled cause is of opinion that the petition for rehearing should be granted, it is ordered that the said petition be, and the same hereby is, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
