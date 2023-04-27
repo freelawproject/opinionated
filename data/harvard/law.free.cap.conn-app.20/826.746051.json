@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"826\" lastpage=\"826\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b808-9\">Linda Kahl <em>v. </em>Robert Kahl</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AcOW\">(8207)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b808-10\">Spallone, O\u2019Connell and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b808-11\">Argued January 31</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A3G\">decision released February 8, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b808-13\"><em>I. David Marder, </em>with whom, on the brief, was <em>Irene L. Cornish, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b808-14\"><em>Kathleen D. Stingle, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b808-15\">Per Curiam.</author>\n<p id=\"AN1\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

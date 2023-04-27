@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b921-13\">WADE ROSEBORO <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A7k\">(AC 24575)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b921-14\">Lavery, C. J., and Foti and West, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b921-15\">Submitted on briefs October 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A6FW\">officially released November 16, 2004</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b922-2\"><page-number citation-index=\"1\" label=\"902\">*902</page-number>Per Curiam.</author>\n<p id=\"Attp\">The habeas court did not abuse its discretion in denying the petition for certification to appeal from the dismissal of the habeas petition.</p>\n<p id=\"b922-3\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

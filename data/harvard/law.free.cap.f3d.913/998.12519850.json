@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Billy HAMILTON, Plaintiff - Appellant/Cross-Appellee,\n  <br/>\n  v.\n  <br/>\n  NORTHFIELD INSURANCE COMPANY, Defendant - Appellee/Cross-Appellant.\n </parties>\n <attorneys id=\"p-2\">\n  Oklahoma Association for Justice, Amicus Curiae.\n </attorneys>\n <docketnumber id=\"p-3\">\n  No. 17-7049\n </docketnumber>\n <court id=\"p-4\">\n  United States Court of Appeals, Tenth Circuit.\n </court>\n <decisiondate id=\"p-5\">\n  FILED January 17, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   This matter is before us on Appellant's Petition for Rehearing En Banc (\"Petition\"). Upon careful consideration of the Petition and the amicus brief filed by the Oklahoma Association for Justice, we\n   <em>\n    sua sponte\n   </em>\n   grant panel rehearing and vacate the opinion issued December 18, 2018. Accordingly, the Petition is denied as moot, and this matter is REOPENED and ABATED pending further order of the court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

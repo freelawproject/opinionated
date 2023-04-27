@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"821\" lastpage=\"821\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b803-2\">Merrill K. Hoskins <em>v. </em>Theodore G. Hoskins</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AfLr\">(8172)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b803-3\">Dupont, C. J., Foti and La very, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b803-4\">Argued January 10-</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AHq\">decision released January 17, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b803-6\"><em>Allen A. Currier, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b803-7\"><em>Angela Saitta, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b803-8\">Per Curiam.</author>\n<p id=\"A9Oi\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

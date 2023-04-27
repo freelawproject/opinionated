@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1035-7\">WILLIAM A. FORCE &amp; CO., Inc., v. BATES MACH. CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A_V\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ANu\">October 14, 1909.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Ar4o\">No. 100.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A_l\">Appeal from the- Circuit Court of the United States for the Eastern District of New York.</summary>\n<seealso data-order=\"5\" data-type=\"seealso\" id=\"AB8V\">For opinions below, see 169 Fed. 647; 170 Fed. 446.</seealso>\n<p data-order=\"6\" data-type=\"judges\" id=\"Ahq\">Before LA COMBE, COXE, and WARD, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1035-8\">PER CURIAM.</author>\n<p id=\"AvXu\">Affirmed, without costs, by consent.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

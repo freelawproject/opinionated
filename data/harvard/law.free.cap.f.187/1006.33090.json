@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1006\" lastpage=\"1006\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1018-10\">In re JOHN H. WOODBURY DERMATOLOGICAL INSTITUTE.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AAJ\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ABck\">May 18, 1911.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AWHq\">Petition to Revise Order of the District Court of the United States for the Southern District of New York.</summary>\n<disposition data-order=\"4\" data-type=\"disposition\" id=\"A5A\">On motion to dismiss petition to revise.</disposition>\n<p data-order=\"5\" data-type=\"judges\" id=\"A2J\">Before LACOMBE, WARD, and NOYES, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1018-11\">PER CURIAM.</author>\n<p id=\"A20n\">The questions raised by motion to dismiss will .be considered when the petition to review comes on for argument. The motion for dismissal is denied without prejudice.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

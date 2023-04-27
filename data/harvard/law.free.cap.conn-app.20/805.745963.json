@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"805\" lastpage=\"805\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b787-2\">Anne Todd <em>v. </em>Edward A. Jazlowiecki</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AO2K\">(7370)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b787-3\">Dupont, Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b787-4\">Argued October 31</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ABm1\">decision released October 31, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b787-6\"><em>Stephen R. Corbeil, </em>with whom, on the brief, was <em>Paul S. Bialobrzeski, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b787-7\"><em>Douglas W. Hammond, </em>with whom, on the brief, was <em>Edmund T. Grady, Jr., </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b787-8\">Per Curiam.</author>\n<p id=\"AhId\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

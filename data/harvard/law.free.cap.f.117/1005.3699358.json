@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1005\" lastpage=\"1005\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1041-4\">DAYTON COAL &amp; IRON CO. v. NORRIS.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AA6\">(Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ARU\">May 6, 1902.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A1U\">No. 985.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AzET\">In Error.to the Circuit Court of the United States for the Eastern District of Tennessee.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ae3\">Burkett, Miller &amp; Mansfield, for plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A2j\">Williams &amp; Lancaster, Thomas &amp; Thomas, and A. P. Haggard, for defendant in error.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"Ayo7\">Before LURTON and DAY, Circuit Judges, and WANTY, District Judge.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1zE\">No opinion. Affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

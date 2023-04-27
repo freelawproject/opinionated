@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b893-2\">JOHN J. WEISS <em>v. </em>PAMELA J. WEISS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ae-\">(15259)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b893-3\">Foti, Lavery and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b893-4\">Submitted <em>on </em>briefs October 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"abx-dedup-0\">officially released <em>November 12, </em>1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b893-6\">Per Curiam.</author>\n<p id=\"AbW\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

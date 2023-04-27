@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"751\" lastpage=\"751\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"A99\">SUPREME COURT \u2014 APPELLATE TERM,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AVs\">JUNE, 1896.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"AZC\">Before Daly, P. J., McAdam and Bischoff, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Aqpn\">The Garfield National Bank, Respondent, v. George W. Kirchwey, Appellant.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A8Y\">Appeal from order of the General Term of the City Court affirming order directing defendant to make answer definite and certain.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A68L\">Hector M. Hitchmgs, for Appellant; J. J. Adams (John T Reed, of counsel), for Respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_C\">Order reversed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

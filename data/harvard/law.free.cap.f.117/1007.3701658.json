@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1007\" lastpage=\"1007\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1043-6\">TAYLOR v. DECATUR MINERAL &amp; LAND CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ABi\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-o\">October 17, 1902.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Adn\">No. 1,115.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Av3\">Appeal from the Circuit Court of the United States for the Northern District of Alabama.</summary>\n<seealso data-order=\"5\" data-type=\"seealso\" id=\"A3Y\">See 112 Fed. 449, and 115 Fed. 1022.</seealso>\n<p data-order=\"6\" data-type=\"judges\" id=\"Aib\">Before PARDEE and McCORMICK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1043-7\">PER CURIAM.</author>\n<p id=\"Apj8\">The petition for hearing herein is granted, and this case is ordered set down for hearing on regular assignment, to be heard by a full bench.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1004\" lastpage=\"1004\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1040-5\">ALFRANK v. MINNESOTA DOCK CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AZa\">(Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ArER\">June 11, 1902.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A7Y\">No. 1,067.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Aua0\">In Error to the Circuit Court of the United States-for the Northern District of Ohio.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Aj5\">J. H. McGiffert, for plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AzR\">Ford, Snyder, Henry &amp; McGraw, for defendant in error.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AAq\">Before LURTON, DAY, and SEYERENS, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AEQA\">No opinion. Affirmed, with costs, by consent of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"797\" lastpage=\"797\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b835-9\">Supreme Court \u2014 Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AVM\">July, 1899.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b835-10\">Before Freedman, P. J., MacLean and Leventritt, JJ.</p>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b835-11\">The Brock\u2019s Commercial Agency, Limited, Appellant, v. Henry W. Bean, Respondent.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A50\">Appeal from a judgment in favor of the defendant, rendered in the Municipal Court of the city of New York, sixth district, borough of Manhattan. D. M. Porter, for appellant; Henry W. Bean, for respondent. Judgment affirmed, with costs to the respondent. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

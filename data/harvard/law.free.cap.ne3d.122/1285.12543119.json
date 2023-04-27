@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1285\" lastpage=\"1285\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  HALL\n  <br/>\n  v.\n  <br/>\n  CRYSTAL CLINIC, INC.\n </parties>\n <docketnumber id=\"p-2\">\n  2019-0237\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  May 22, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   CASE ANNOUNCEMENTS\n  </strong>\n </p>\n <history id=\"p-6\">\n  APPEALS NOT ACCEPTED FOR REVIEW\n </history>\n <judges id=\"p-7\">\n  French and Stewart, JJ., dissent.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Donnelly, J., dissents and would accept the appeal on all propositions of law and hold proposition of law No. III for 2018-1233 and 2018-1479, Moore v. Mt. Carmel Health Sys.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"823\" lastpage=\"823\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b805-6\">Jean Molitierno <em>v. </em>Carmen Molitierno</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aci\">(7726)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b805-7\">Daly, O\u2019Connell and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b805-8\">Argued January 17</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ArJ\">decision released January 24, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b805-10\"><em>Mark R. Soboslai, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b805-11\"><em>James Wu, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b805-12\">Per Curiam.</author>\n<p id=\"ALEq\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

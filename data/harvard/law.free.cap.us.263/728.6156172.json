@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"728\" lastpage=\"728\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b786-5\">No. 12,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A9xo\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aoh\"><em>Ex parte: </em>In the Matter of Michael Quinn, Petitioner.</parties>\n<summary data-order=\"3\" data-type=\"summary\" id=\"ARWM\">Petition for a writ of mandamus.</summary>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AEiz\">November 19, 1923.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A0Ra\"><em>Mr. William C. Prentiss </em>for petitioner..</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Af62\">Petition dismissed, on motion of counsel for petitioner.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

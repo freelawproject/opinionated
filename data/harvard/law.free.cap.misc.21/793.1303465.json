@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"793\" lastpage=\"793\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"AU-Y\">Supreme Court, Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AJ6L\">September, 1897.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"ApO\">Before Daly, P. J.; McAdam and Bischoff, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AFW1\">Emily L. Hamilton, Respondent, v. William F. Howe et al., Appellants.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Anq9\">\u2014Appeal from judgment of the General Term of the City Court affirming a judgment in favor of plaintiff.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"As8B\">David May (Joseph Koch, of counsel), for appellant. Adelbert E. Carroll, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AD1i\">Judgment affirmed, with costs, upon argument.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

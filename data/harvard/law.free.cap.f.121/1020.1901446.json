@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1052-7\">MONTGOMERY COUNTY v. COCHRAN et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AeU9\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A9k\">April 7, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A6fV\">No. 1,205.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"As8\">In Error to the Circuit Court of the United States for the Middle District of Alabama.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"AT_T\">Before PARDEE, .MeCORMICK:, and SHELBY, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1052-8\">PER CURIAM.</author>\n<p id=\"A8o\">We find nothing in the reasons presented for a rehearing to make us doubt the correctness of the decision heretofore rendered (121 Fed. 17), and the rehearing is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

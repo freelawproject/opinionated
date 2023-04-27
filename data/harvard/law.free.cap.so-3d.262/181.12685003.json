@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"181\" lastpage=\"181\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  P.S. Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  L.J.P. &amp; W.M.S., The Alleged Incapacitated Person Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-3637\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  January 22, 2019\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   The parties' stipulation for dismissal filed January 18, 2019, is treated as a notice of voluntary dismissal and is granted. This appeal is dismissed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

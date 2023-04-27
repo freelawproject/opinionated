@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b855-2\">CAROL LEFEVRE <em>v. </em>BOARD OF EDUCATION OF THE TOWN OF KILLINGLY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A6y\">(15301)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b855-3\">Dupont, C. J., and Foti and Healey, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b855-4\">Argued December 13, 1996</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AIi\">officially released January 7, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b855-6\">Per Curiam.</author>\n<p id=\"Ac-\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

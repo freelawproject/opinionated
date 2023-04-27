@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"765\" lastpage=\"765\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Thomas BOBBITT\n  <br/>\n  v.\n  <br/>\n  NORTH CAROLINA STATE UNIVERSITY.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 601P06.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  May 3, 2007.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Thomas J. Ziko, Special Deputy Attorney General, Katherine A. Murphy, Assistant Attorney General, for NCSU.\n </attorneys>\n <attorneys id=\"p-6\">\n  Barry Nakell, for Bobbitt.\n </attorneys>\n <p id=\"p-7\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed on the 21st day of November 2006 by Defendant in this matter for discretionary review of the decision of the North Carolina Court of Appeals pursuant to G.S. 7A-31, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 3rd day of May 2007.\"\n  </p>\n  <author id=\"p-10\">\n   Justice HUDSON recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1299\" lastpage=\"1299\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  SAFA, INC.\n  <br/>\n  v.\n  <br/>\n  RELIABLE CREDIT ASSN., INC.\n </parties>\n <docketnumber id=\"p-2\">\n  2019-0376\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  May 29, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   CASE ANNOUNCEMENTS\n  </strong>\n </p>\n <history id=\"p-6\">\n  <strong>\n   APPEALS NOT ACCEPTED FOR REVIEW\n  </strong>\n </history>\n <opinion id=\"p-7\">\n  Appellant's motion to refile the notice of appeal under the proper case numbers and caption denied. Appellee's motion to dismiss denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   O'Connor, C.J., would grant appellee's motion to dismiss.\n  </author>\n  <p id=\"p-9\">\n   DeWine and Donnelly, JJ., would grant appellant's motion to refile the notice of appeal under the proper case numbers and caption.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

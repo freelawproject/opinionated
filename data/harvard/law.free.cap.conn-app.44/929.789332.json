@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"929\" lastpage=\"929\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b883-13\">YALE UNIVERSITY SCHOOL OF MEDICINE OFFICE OF PROFESSIONAL SERVICES <em>v. </em>MARY COOPER ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b883-15\">(15825)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b883-16\">Foti, Lavery and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b883-17\">Argued March 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A3I\">officially released April 8, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b883-19\">Per Curiam.</author>\n<p id=\"ALr\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b890-14\">STATE OF CONNECTICUT <em>v. </em>DONALD A. PARENTEAU</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Atj_\">(14674)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b890-15\">O\u2019Connell, Lavery and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b890-16\">Argued October 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AtRW\">officially released October 29, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b890-18\">Per Curiam.</author>\n<p id=\"ajb-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

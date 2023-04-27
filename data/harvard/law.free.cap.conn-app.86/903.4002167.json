@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b923-2\">LEROY K. HARRIS <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ahqs\">(AC 24657)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b923-3\">Dranginis, Flynn and McLachlan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b923-4\">Submitted on briefs October 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"APH\">officially released November 16, 2004</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b923-6\">Per Curiam.</author>\n<p id=\"ADI\">The habeas court did not abuse its discretion in denying the petition for certification to appeal from the dismissal of the habeas petition.</p>\n<p id=\"b923-7\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

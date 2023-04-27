@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b897-8\">CARLA STERN <em>v. </em>LUZ E. VELILLA</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ajy-dedup-2\">(14815)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b897-9\">O\u2019Connell, Heiman and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b897-10\">Argued October 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AKm\">officially released November 19, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b897-12\">Per Curiam.</author>\n<p id=\"atr-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

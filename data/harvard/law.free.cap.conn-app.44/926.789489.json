@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"926\" lastpage=\"926\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b880-8\">HOLLIS B. WILSON, SR. <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJh\">(15546)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b880-9\">Landau, Schaller and Shea, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b880-10\">Argued March 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A0A\">officially released April 8, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b880-12\">Per Curiam.</author>\n<p id=\"A3U\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

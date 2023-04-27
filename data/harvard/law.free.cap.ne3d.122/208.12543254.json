@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"208\" lastpage=\"208\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  GROUP\n </parties>\n <docketnumber id=\"p-2\">\n  1999-1152\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  May 9, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   MOTION AND PROCEDURAL RULINGS\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On appellee's motion to set execution date. Motion granted. Scott A. Group's sentence shall be carried into execution by the warden of the Southern Ohio Correctional Facility or, in his absence, by the deputy warden on Wednesday, January 10, 2024, in accordance with the statutes so provided.\n  </p>\n  <p id=\"p-7\">\n   O'CONNOR, C.J., and KENNEDY, FRENCH, FISCHER, DEWINE, DONNELLY, and STEWART, JJ., concur.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

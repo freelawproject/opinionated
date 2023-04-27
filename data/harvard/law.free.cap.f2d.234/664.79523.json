@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"664\" lastpage=\"664\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b716-25\">James A. GENTRY v. Charles R. HAGAN, Warden of the Federal Reformatory at El Reno, Oklahoma, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b716-27\">No. 5376.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b716-28\">United States Court of Appeals Tenth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b716-29\">May 24, 1956.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b716-31\">Arthur E. Ryman, Jr., Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b716-32\">Paul W. Cress, U. S. Atty., and H. Dale Cook and George Camp, Asst. U. S. Attys., Oklahoma City, Okl., for appel-lees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b716-33\">Before BRATTON, Chief Judge, and MURRAH and PICKETT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b716-34\">PER CURIAM.</author>\n<p id=\"b716-35\">Affirmed without opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

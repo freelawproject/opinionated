@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"178\" lastpage=\"178\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  C.C., Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  DEPT. OF CHILDREN &amp; FAMILIES, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-3526\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  January 09, 2019\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Because C.C. has failed to serve an initial brief as provided by this court's order of December 19, 2018, this appeal is dismissed for failure to prosecute.\n  </p>\n  <judges id=\"p-7\">\n   LaROSE, C.J., and SALARIO and ROTHSTEIN-YOUAKIM, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

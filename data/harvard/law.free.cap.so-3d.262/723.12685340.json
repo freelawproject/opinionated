@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"723\" lastpage=\"723\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  E. T., Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  DEPT. OF CHILDREN &amp; FAMILIES, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-2848\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  January 17, 2019\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Because E. T. has failed to serve an initial brief as provided by this court's order of December 14, 2018, this appeal is dismissed for failure to prosecute.\n  </p>\n  <author id=\"p-7\">\n   CASANUEVA, MORRIS, ROTHSTEIN-YOUAKIM, JJ., Concur.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

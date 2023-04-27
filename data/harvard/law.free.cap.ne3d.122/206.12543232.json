@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"206\" lastpage=\"206\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX REL. HARRIS\n  <br/>\n  v.\n  <br/>\n  PUREVAL\n </parties>\n <docketnumber id=\"p-2\">\n  2017-1583\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  May 8, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   MOTION AND PROCEDURAL RULINGS\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On appellant's \"motion for show cause order/judicial notice,\" second motion for show-cause order, and \"second motion for request of judicial notice.\" Motions denied. Appellant's motion to supplement the record granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

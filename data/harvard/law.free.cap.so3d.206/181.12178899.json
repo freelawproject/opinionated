@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"181\" lastpage=\"181\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b251-6\">2015-1788 (La. 11/15/16)</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b251-7\">STATE EX REL. Gregory JONES v. STATE of Louisiana</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AYR\">No. 2015-KH-1788</docketnumber>\n<court data-order=\"3\" data-type=\"court\" id=\"AXlq\">Supreme Court of Louisiana.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b251-10\">11/15/2016</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b251-12\">PER CURIAM:</author>\n<p id=\"b251-13\">| denied. Relator has failed to file an application for post-conviction relief which sets out specific claims of constitutional errors requiring the requested documentation for support. State ex rel. Bernard v. Cr.D.C., 94-2247, p. 1 (La. 4/28/95), 653 So.2d 1174, 1175.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

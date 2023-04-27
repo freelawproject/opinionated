@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"155\" lastpage=\"155\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b209-2\">UNITED STATES of America, Plaintiff-Appellee, v. James NORMAN, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b209-4\">No. 26205.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b209-5\">United States Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b209-6\">April 9, 1971.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b209-8\">W. C. Miller, Los Angeles, Cal., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b209-9\">Robert L. Meyer, U. S. Atty., David R. Nissen, Chief, Crim. Div., Michael J. Lightfoot, Asst. U. S. Atty., Los An-geles, Cal., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b209-10\">Before CHAMBERS, WRIGHT and TRASK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b209-11\">PER CURIAM:</author>\n<p id=\"b209-12\">The judgment of conviction is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

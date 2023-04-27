@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"707\" lastpage=\"707\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b775-6\">No. 69.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AHIn\">Merriam, Executor, <em>v. </em>U.S. District Court in and for the District of Arizona.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEpZ\">October 9, 1933.</decisiondate>\n<p data-order=\"3\" data-type=\"disposition\" id=\"AZpS\">Dismissed per stipulation of counsel.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AzKj\"><em>Mr. Charles C. Montgomery </em>for petitioner. <em>Solicitor General Biggs </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AsCK\">Petition for writ of'certiorari to the Circuit Court of Appeals for the Ninth Circuit;</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

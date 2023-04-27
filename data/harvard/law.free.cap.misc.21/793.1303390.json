@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"793\" lastpage=\"793\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"A_Q\">Supreme Court, Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AXV\">November, 1897.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"Ah1\">Before Daly, P. J., McAdam and Bischoff, JJ.</p>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"Ah9v\">George F. Perkins et al., Appellants, v. The Merchants\u2019 Lithographing Co., Respondent.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A2r8\">\u2014 Appeal from order of the General Term of the City Court, affirming order consolidating actions and extending defendant\u2019s time to serve answer.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ACJ\">Charles D. Ridgway, for appellants. Gratz Nathan, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ahfa\">Order affirmed, with costs, upon argument.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

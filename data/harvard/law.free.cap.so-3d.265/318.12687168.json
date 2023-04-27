@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"318\" lastpage=\"318\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jeffery Day RIEBER\n  <br/>\n  v.\n  <br/>\n  STATE\n </parties>\n <docketnumber id=\"p-2\">\n  CR-15-0355\n </docketnumber>\n <court id=\"p-3\">\n  Court of Criminal Appeals of Alabama.\n </court>\n <decisiondate id=\"p-4\">\n  September 1, 2017\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Brady Louis VICE, Sr.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-KK-1926\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  January 28, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE 15th JUDICIAL DISTRICT COURT OF THE PARISH OF LAFAYETTE\n  </strong>\n </p>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <judges id=\"p-7\">\n  HUGHES, J., would grant and assigns reasons.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   GENOVESE, J., would grant for reasons assigned by Justice Hughes.\n  </author>\n  <p id=\"p-9\">\n   Hughes, J., would grant the writ.\n  </p>\n  <p id=\"p-10\">\n   The judge and the prosecutor, as an officer of the court, have a duty to ensure that criminal defendants, even guilty ones, do not sit in jail after prosecution deadlines have lapsed, without notice or remedy due to the lack of notice. The defendant in this case should be afforded a bond hearing.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

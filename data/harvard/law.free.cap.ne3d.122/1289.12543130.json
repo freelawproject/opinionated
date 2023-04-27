@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1289\" lastpage=\"1289\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  A. M.\n </parties>\n <docketnumber id=\"p-2\">\n  2019-0444\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  May 29, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   CASE ANNOUNCEMENTS\n  </strong>\n </p>\n <p id=\"p-6\">\n  <strong>\n   MOTION AND PROCEDURAL RULINGS\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On motion for leave to file delayed appeal. Motion granted. Appellant shall file a memorandum in support of jurisdiction within 30 days.\n  </p>\n  <judges id=\"p-8\">\n   O'Connor, C.J., and French, J., dissent.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

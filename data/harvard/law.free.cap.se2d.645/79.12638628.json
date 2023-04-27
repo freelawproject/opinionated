@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"79\" lastpage=\"79\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  CAMPBELL\n  <br/>\n  v.\n  <br/>\n  INGRAM &amp; McLaurin.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 636A06.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  April 10, 2007.\n </decisiondate>\n <attorneys id=\"p-5\">\n  William P. Floyd, Jr., for Campbell.\n </attorneys>\n <attorneys id=\"p-6\">\n  Robert A. Hasty, Jr., Spring, TX, for McLaurin.\n </attorneys>\n <history id=\"p-7\">\n  Prior report: ___ N.C.App. ___,\n  <extracted-citation case-ids=\"12637144\" index=\"0\" url=\"https://cite.case.law/se2d/636/847/\">\n   636 S.E.2d 847\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-8\">\n  The following order has been entered on the motion filed on the 6th day of March 2007 by Defendant (Ingram) to Withdraw Appeal:\n </opinion>\n <opinion id=\"p-9\">\n  \"Motion Allowed by order of the Court in conference this the 10th day of April 2007.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-10\">\n   Justice HUDSON recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

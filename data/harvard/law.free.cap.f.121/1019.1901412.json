@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1051-11\">L. BUCKI &amp; SON LUMBER CO. v. ATLANTIC LUMBER CO. et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AOZL\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A_C\">April 7, 1903.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AsP\">No. 1,143.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ArGk\">Appeal from the Circuit Court of the United States for the Northern District of Florida.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"AvX3\">Before PARDEE, McCORMICK, and SHELBY, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1051-12\">PER CURIAM.</author>\n<p id=\"AjXC\">We find nothing in the reasons presented for a rehearing to make us doubt the correctness of the decision heretofore rendered (121 Fed. 233), and the rehearings applied for are denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

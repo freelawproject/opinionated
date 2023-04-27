@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"696\" lastpage=\"697\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b726-6\">LAWRENCE R. LUTZ et al. <em>v. </em>MARGARET H. LUTZ</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AGh\">[No. 78,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AMx\">October Term, 1936.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b726-10\">\n<em>Decided January 20th, 1937.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b727-3\"><page-number citation-index=\"1\" label=\"697\">*697</page-number>The cause was submitted on briefs to Bond, C. J., Urner, Offutt, Parke, Sloan, Mitchell, Shehan, and Johnson, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b727-4\"><em>Louis J. Jim </em>and <em>Powell Vickers, </em>for the appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AOe\"><em>Harvey C. Bickel </em>and <em>Gersh I. Moss, </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b727-5\">Urner, J.,</author>\n<p id=\"A_e\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

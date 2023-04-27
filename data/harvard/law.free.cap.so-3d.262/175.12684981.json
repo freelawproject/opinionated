@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"175\" lastpage=\"175\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  BERKLEY INSURANCE COMPANY, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  The TEMPO AT ENCORE, LP, et al., Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-4069\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  January 08, 2019\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   The appellees' motion to dismiss is granted. This appeal is dismissed as from a nonappealable nonfinal order. See Fla. R. App. P. 9.110(k).\n  </p>\n  <judges id=\"p-7\">\n   VILLANTI, BLACK, and SLEET, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b922-10\">PAUL R. GUITARD <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ai9\">(AC 24890)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b922-11\">Dranginis, Flynn and McLachlan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b922-12\">Submitted on briefs October 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AUG\">officially released November 16, 2004</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b922-14\">Per Curiam.</author>\n<p id=\"As-\">The habeas court did not abuse its discretion in denying the petition for certification to appeal from the denial of the petition for a writ of habeas corpus.</p>\n<p id=\"b922-15\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"816\" lastpage=\"817\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b798-12\">Holtzman, Wise and Shepard <em>v. </em>Roosevelt Acquisition Company, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b798-13\">(8019)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b798-14\">Borden, Spallone and O\u2019Connell, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b798-15\">Argued December 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AcC\">decision released December 28, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b799-3\"><page-number citation-index=\"1\" label=\"817\">*817</page-number><em>Timothy J. Johnston, </em>with whom, on the brief, was <em>Patricia A. Thompson, </em>for the appellant (defendant). <em>Ben A. Solnit, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b799-4\">Per Curiam.</author>\n<p id=\"AH_\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

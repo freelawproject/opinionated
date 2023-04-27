@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b864-14\">RONALD J. MARTIN <em>v. </em>LISA A. MARTIN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aud7\">(15386)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b864-15\">O\u2019Connell, Lavery and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b864-16\">Argued January 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aur\">officially released February 11, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b864-18\">Per Curiam.</author>\n<p id=\"AU8\">See <em>Bryant </em>v. <em>Bryant, </em>228 Conn. 630, 637 A.2d 1111 (1994); <em>State </em>v. <em>Curcio, </em>191 Conn. 27, 463 A.2d 566 (1983).</p>\n<p id=\"b864-19\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

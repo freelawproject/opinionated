@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"919\" lastpage=\"919\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b901-15\">MCHUGH CONSTRUCTION, INC. <em>v. </em>HAMMERMILL BUSINESS CORPORATION, INC., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AN9S\">(14600)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b901-16\">Foti, Schaller and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b901-17\">Argued October 31</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AE5R\">officially released November 26, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b901-19\">Per Curiam.</author>\n<p id=\"Aqcc\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

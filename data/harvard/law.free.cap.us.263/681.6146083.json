@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"681\" lastpage=\"681\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b739-3\">No. 15,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ARqi\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AT9\">State of Oklahoma <em>v. </em>State of Texas, United States, intervener.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AN1\">Submitted November 19, 1923.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AkG\">Decided November 26, 1923.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Aqf\"><em>Mr. Cordenio A. Severance </em>and <em>Mr.,. Edward P. Keech, Jr., </em>for petitioner. <em>Mr. Solicitor Geni eral Beck, Mr. Assistant Attorney General Riter </em>and <em>Mr: W. W. Dyar, </em>Special Assistants the Attorney General, for the United States.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aqs\">Motion for leave to file petition in intervention of Charles West in this cause denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

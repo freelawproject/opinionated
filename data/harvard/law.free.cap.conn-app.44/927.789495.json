@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"927\" lastpage=\"927\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b881-7\">LOUIS VITALE <em>v. </em>VINCENT YIK</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ANrZ\">(16120)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b881-8\">Foti, Lavery and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b881-9\">Submitted on briefs March 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AN6\">officially released April 8, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b881-11\">Per Curiam.</author>\n<p id=\"Arn\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

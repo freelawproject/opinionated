@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"918\" lastpage=\"918\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b872-7\">STATE OF CONNECTICUT <em>v. </em>MICHAEL KLINE</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A2j\">(15130)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b872-8\">Landau, Freedman and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b872-9\">Argued February 21</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Acq\">officially released March 11, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b872-11\">Per Curiam.</author>\n<p id=\"AqO\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

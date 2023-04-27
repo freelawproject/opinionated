@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"695\" lastpage=\"696\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b725-3\">BLANCHE DIXON et al. <em>v. </em>BALTIMORE AMERICAN INSURANCE COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b725-4\">[Nos. 30, 31,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A49\">October Term, 1936.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b725-9\">\n<em>Decided November 20th, 1936.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b725-12\">The causes were argued before Bond, C. J., Urner, <page-number citation-index=\"1\" label=\"696\">*696</page-number>Offutt, Parke, Sloan, Mitchell, Shehan, and Johnson, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b726-4\"><em>David Ash, </em>for the appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b726-5\"><em>J. Calvin Carney, </em>and <em>Charles G. Page, </em>for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Ai7\">Shehan, J.,</author>\n<p id=\"ADR\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

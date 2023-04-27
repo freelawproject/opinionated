@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"922\" lastpage=\"922\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b904-12\">STATE OF CONNECTICUT <em>v. </em>JUAN ROMO</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A9jd\">(14677)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b904-13\">Lavery, Schaller and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b904-14\">Argued November 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"adc-dedup-1\">officially released December 3, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b904-16\">Per Curiam.</author>\n<p id=\"A73Z\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"574\" lastpage=\"574\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b624-4\">No. \u2014, Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AqeZ\"><em>Ex parte: </em>In the matter of William A. Higgins, et al., Petitioners.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"A-Q\">Submitted April 7, 1924.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AM2\">Decided April 14, 1924.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Alt-\"><em>Mr. Mark St ear-man </em>and <em>Mr. Emanuel J. Myers </em>for petitioners. <em>Mr. Wolcott H. Pitkin </em>and <em>Mr. Samuel J. Rosensohn </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Avi\">Motion for leave to file petition for a writ of mandamus herein denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

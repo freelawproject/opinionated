@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b880-2\">VAUGHN OUTLAW <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_e\">(AC 25020)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b880-3\">Lavery, C. J., and DiPentima and Gruendel, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AgR\">Argued March 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A4p\">officially released May 3, 2005</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b880-5\">Per Curiam.</author>\n<p id=\"arx-dedup-0\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

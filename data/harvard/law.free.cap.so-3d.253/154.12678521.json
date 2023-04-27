@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"154\" lastpage=\"154\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Richard LAY\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-KH-0559\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  September 28, 2018\n </decisiondate>\n <disposition id=\"p-5\">\n  Denied. Relator has previously exhausted his right to state collateral review. See State ex rel. Lay v. State, 14-2549 (La. 11/6/15),\n  <extracted-citation case-ids=\"6768889\" index=\"0\" url=\"https://cite.case.law/so-3d/181/693/\">\n   181 So.3d 693\n  </extracted-citation>\n  .\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   WEIMER, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

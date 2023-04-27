@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1005\" lastpage=\"1005\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1041-9\">LOEB v. TRUSTEES OF COLUMBIA TP., HAMILTON COUNTY.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AFY\">(Circuit Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AeI\">May 14, 1902.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AhZF\">No. 738.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AQx\">In Error to the Circuit Court of the United States for the Southern District of Ohio.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ADv\">C. Hammond Avery, H. D. Peck, and John W. Warrington, for plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AqD-\">Louis A. Ireton and Burch &amp; Johnson, for defendant in error.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"Anl\">Before LUR-TON, DAY, and SEVERENS, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AvG\">No opinion. Dismissed on stipulation of counsel.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

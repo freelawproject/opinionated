@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"680\" lastpage=\"680\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b726-5\">VERNON NICHOLSON <em>v. </em>LOUIS KRECZMER et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b726-6\">[No. 54,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AEJ\">April Term, 1940.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b726-9\">\n<em>Decided May 23rd, 1940.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b726-12\">The cause was argued before Bond, C. J., Offutt, Parke, Sloan, Mitchell, Shehan, Johnson, and Delaplaine, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b726-13\"><em>F. Gray Goudy </em>and <em>Joel J. Hochman, </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b726-14\"><em>James J. Lindsay </em>and <em>Charles D. Harris, </em>for the appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b726-15\">Bond, C. J.,</author>\n<p id=\"AmJi\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

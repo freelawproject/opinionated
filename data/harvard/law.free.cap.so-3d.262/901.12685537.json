@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael LEDET\n  <br/>\n  v.\n  <br/>\n  LOUISIANA DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONS\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-C-1751\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  January 28, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   HUGHES, J., would grant.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

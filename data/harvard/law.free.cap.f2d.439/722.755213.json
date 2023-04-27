@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"722\" lastpage=\"722\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b776-22\">In the Matter of Eichler Corporation Marvin B. KAPELUS, Appellant, v. Stuart M. KAPLAN, Trustee, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b776-24\">No. 24405.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b776-25\">United States Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b776-26\">April 16, 1971.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b776-28\">Marvin B. Kapelus, in pro. per.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b776-29\">John T. Hansen (argued), San Francisco, Cal., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b776-30\">Before CHAMBERS and BARNES, Circuit Judges, and THOMPSON, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b776-31\">PER CURIAM:</author>\n<p id=\"b776-32\">The order of the district court confirming the findings of the referee is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

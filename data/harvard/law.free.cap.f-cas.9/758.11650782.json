@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"758\" lastpage=\"758\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b760-10\">Case No. 5,086.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b760-11\">FREEMAN v. The JANE.</parties>\n<p data-order=\"2\" data-type=\"citation\" id=\"b760-12\">[Crabbe, 178.] <footnotemark>1</footnotemark></p>\n<court data-order=\"3\" data-type=\"court\" id=\"b760-13\">District Court, E. D. Pennsylvania.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Afc1\">Sept. 8, 1837.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b760-20\">Mr. Grinnell, for libellant</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b760-21\">Mr. Shoemaker, for respondent</attorneys>\n<footnote data-order=\"7\" data-type=\"footnote\" id=\"x999-1\" label=\"1\">\n<p id=\"b760-16\"> [Reported by William H. Crabbe. Esq.]</p>\n</footnote>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"b760-22\">HOPKINSON, District Judge,</author>\n<p id=\"A2ox\">decreed for the libellant, for the whole amount of wages demanded.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

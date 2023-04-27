@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"597\" lastpage=\"597\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b625-4\">Hillsborough,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Ahk\">Dec. 1, 1903.</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b625-6\">Warren, <em>Assignee, v. </em>Kenworthy &amp; <em>a.</em></parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Av_\"><em>Joseph W. Fellows, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ad2i\"><em>John P. Bartlett, </em>for the defendants.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b625-7\">Debt, on bond. Judgment was ordered by the superior court, Young, J., upon the report of a referee, who found a breach of the condition of the bond and assessed the plaintiff\u2019s damages. To the order of judgment the defendants excepted.</p>\n<p id=\"b625-8\">\n<em>Exception overruled.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

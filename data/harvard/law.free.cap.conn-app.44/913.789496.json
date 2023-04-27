@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"913\" lastpage=\"913\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b867-12\">JOHN HERMAN SIMMECK <em>v. </em>ANN MARGARET SIMMECK</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A3Zn\">(15769)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b867-13\">O\u2019Connell, Lavery and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b867-14\">Submitted on briefs January 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AsTk\">officially released February 25, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b867-16\">Per Curiam.</author>\n<p id=\"Afv\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

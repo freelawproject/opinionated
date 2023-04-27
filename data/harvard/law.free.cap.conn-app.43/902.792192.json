@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b884-7\">JOSEPH T. VALECHKO <em>v. </em>CONNECTICUT LIGHT AND POWER COMPANY ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b884-8\">(15512)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b884-9\">Foti, Lavery and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b884-10\">Argued September 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"alc-dedup-0\">officially released October 15, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b884-12\">Per Curiam.</author>\n<p id=\"Au-\">The decision of the workers\u2019 compensation review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

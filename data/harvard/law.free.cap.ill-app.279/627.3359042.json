@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"627\" lastpage=\"627\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b661-15\" pgmap=\"661\">Charles G. Morgenroth and Marie Morgenroth, appellees, v. Midland Oil Company, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ACC\" pgmap=\"661\">Gen. No. 37,594.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AUIO\" pgmap=\"661\">McSurely, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AH6q\" pgmap=\"661\">Opinion filed February 25, 1935.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b661-17\" pgmap=\"661\">Cassels, Potter &amp; Bentley and Edward J. Rothman, for appellant; Ralph F. Potter, Leslie H. Vogel and E. Douglas Schwantes, of counsel. Bernard W. Vinissky and Julius S. Neale, for appellees.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b661-18\" pgmap=\"661\">Mr. Justice Hatchett</author> <p id=\"AMR\" pgmap=\"661\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

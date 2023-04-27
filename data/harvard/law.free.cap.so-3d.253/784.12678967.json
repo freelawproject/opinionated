@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"784\" lastpage=\"784\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  SUCCESSION OF Mary Lou THRASHER\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-C-774\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  September 28, 2018\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   WRIT OF CERTIORARI TO THE COURT OF APPEAL, THIRD CIRCUIT, PARISH OF RAPIDES\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   WEIMER, J., would grant.\n  </author>\n  <p id=\"p-8\">\n   HUGHES, J., dissents and assigns reasons.\n  </p>\n  <p id=\"p-9\">\n   Accepting demonstrably wrong expert opinion over an authentic act sworn to by a Louisiana attorney and two witnesses is a dereliction of duty by the courts.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}
