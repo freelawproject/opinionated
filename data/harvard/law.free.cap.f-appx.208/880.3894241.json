@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"880\" lastpage=\"880\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b904-7\">\n<em>This case was not selected for publication in the Federal Reporter</em>\n</p>\n<p data-order=\"1\" data-type=\"parties\" id=\"b904-8\">\n<em>Note: Pursuant to Fed. Cir. R. 47.6, this order is not citable as precedent.</em>\n</p>\n<p data-order=\"2\" data-type=\"misc\" id=\"b904-9\">\n<em>It is a public order.</em>\n</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b904-10\">Robert A. HARTNESS, Claimant-Appellee, v. R. James NICHOLSON, Secretary of Veterans Affairs, Respondent-Appellant.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"b904-13\">No. 2007-7024.</docketnumber>\n<court data-order=\"5\" data-type=\"court\" id=\"b904-14\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b904-15\">Nov. 15, 2006.</decisiondate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b904-16\">ORDER</p>\n<p id=\"b904-17\">The parties having so agreed, it is</p>\n<p id=\"b904-18\">ORDERED that the proceeding is DISMISSED under Fed. R.App. P. 42(b).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

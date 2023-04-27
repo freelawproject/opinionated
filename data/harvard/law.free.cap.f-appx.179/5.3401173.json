@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"5\" lastpage=\"6\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b31-18\">AUTO METER PRODUCTS, INC., Appellant, v. INTERNATIONAL TRADE COMMISSION, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b31-23\">No. 05-1305.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b31-24\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b31-25\">April 14, 2006.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b31-27\">Before SCHALL, Circuit Judge, CLEVENGER, Senior Circuit Judge, and GAJARSA, Circuit Judge.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b32-3\">\n<page-number citation-index=\"1\" label=\"6\">*6</page-number>\n<em>Judgment</em>\n</p>\n<author id=\"A6\">PER CURIAM.</author>\n<p id=\"b32-4\">\n<em>This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</em>\n</p>\n<p id=\"b32-5\">AFFIRMED. <em>See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

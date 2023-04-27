@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"987\" lastpage=\"987\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1015-10\">MURPHY\u2019S LTD., Appellant, v. MURPHY\u2019S BREWERY IRELAND LIMITED. Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1015-12\">No. 01-1182. Cancellation No. 25,091.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1015-14\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1015-15\">Dec. 12, 2001.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1015-17\">Before GAJARSA, Circuit Judge, PLAGER, Senior Circuit Judge, and DYK, Circuit Judge.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1015-18\">\n<em>Judgment</em>\n</p>\n<author id=\"b1015-19\">PER CURIAM.</author>\n<p id=\"b1015-20\">\n<em>This CAUSE having been heard and considered, it is ORDERED and ADJUDGED</em>\n</p>\n<p id=\"b1015-21\">AFFIRMED. <em>See </em>Fed. Cir. R.36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

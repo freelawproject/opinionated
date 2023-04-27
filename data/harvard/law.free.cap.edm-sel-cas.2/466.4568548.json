@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"466\" lastpage=\"466\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b464-4\">NEW YORK CIRCUIT.</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b464-5\">April, 1853.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b464-6\">Before Edmonds, Justice.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b464-7\">McGuckin v. Sister.</parties>\n<headnotes data-order=\"4\" data-type=\"headnotes\" id=\"b464-8\">Amendment of complaint in the amount sought to be recovered as vindic-</headnotes>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b464-9\">This was an action of slander, in which the justification pleaded entirely failed, and the plaintiff applied for leave to amend his complaint by increasing the amount laid as damages.</summary>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b464-10\"><em>The Court </em>denied the motion, saying, it had long been the practice never to allow such an amendment where vindictive damages were sought to be recovered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

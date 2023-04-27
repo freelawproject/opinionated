@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"767\" lastpage=\"767\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b809-11\">UNITED STATES of America, Plaintiff-Appellee, v. Romiro CARILLO, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b809-13\">No. 01-50098.</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b809-14\">DC No. CR 91-145-RJK.</docketnumber>\n<court data-order=\"3\" data-type=\"court\" id=\"b809-15\">United States Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b809-16\">Nov. 13, 2001.</decisiondate>\n<p data-order=\"5\" data-type=\"judges\" id=\"b809-17\">Before PREGERSON, REINHARDT, and SILVERMAN, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b809-18\">ORDER</p>\n<p id=\"b809-19\">The appeal is dismissed as moot.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

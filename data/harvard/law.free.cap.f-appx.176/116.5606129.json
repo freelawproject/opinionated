@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"116\" lastpage=\"116\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b144-10\">WCM INDUSTRIES, INC., Plaintiff-Appellant, v. PRIER PRODUCTS, INC., Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b144-13\">No. 05-1530.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b144-14\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b144-15\">April 7, 2006.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b144-17\">Before MAYER, LOURIE, and DYK, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b144-18\">Judgment</p>\n<author id=\"b144-19\">PER CURIAM:</author>\n<p id=\"b144-20\">This CAUSE having been heard and considered, it is</p>\n<p id=\"b144-21\">ORDERED and ADJUDGED:</p>\n<p id=\"AK6\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

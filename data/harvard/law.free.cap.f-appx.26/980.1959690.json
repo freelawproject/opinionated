@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"980\" lastpage=\"980\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1010-4\">ALCON LABORATORIES, INC., Plaintiff/Counterclaim Defendant-Appellee, and Surgin Surgical Instrumentation, Inc. (also known as Surgin, Inc.), Counterclaim Defendant-Appellee, v. ALLEGIANCE HEALTHCARE CORPORATION, Defendant/Counterclaimant-Appellant</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A7C\">No. 01-1418.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1010-9\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1010-10\">Feb. 13, 2002.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1010-12\">Before CLEVENGER, SCHALL, and GAJARSA, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1010-13\">Judgment</p>\n<author id=\"ALG\">PER CURIAM.</author>\n<p id=\"b1010-14\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b1010-15\">AFFIRMED. <em>See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

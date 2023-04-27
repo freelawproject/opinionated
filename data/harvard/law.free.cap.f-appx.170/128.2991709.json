@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"128\" lastpage=\"128\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b944-6\">BLACKSTONE CONSULTING, INC., Plaintiff-Appellant, v. UNITED STATES, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"agq-dedup-0\">No. 05-5128.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b944-8\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b944-9\">March 8, 2006.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b944-11\">Before MICHEL, Chief Judge, LINN and PROST, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b944-12\">Judgment</p>\n<author id=\"aqo-dedup-0\">PER CURIAM:</author>\n<p id=\"b944-13\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b944-14\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

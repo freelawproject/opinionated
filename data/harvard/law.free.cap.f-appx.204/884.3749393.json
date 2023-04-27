@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"884\" lastpage=\"885\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b912-10\">HENRY-GRIFFITTS, INC., Plaintiff-Appellant, v. ACUSHNET COMPANY (doing business as Titleist Golf), Defendant, and Roger Cleveland Golf Company, Inc., Defendant-Appellee, and Taylor Made Golf Company, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b912-17\">No. 06-1278.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b912-18\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b912-19\">Nov. 7, 2006.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b912-21\">Before LOURIE, RADER, and SCHALL, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b913-4\">\n<page-number citation-index=\"1\" label=\"885\">*885</page-number>\n<em>JUDGMENT</em>\n</p>\n<author id=\"AFq\">PER CURIAM.</author>\n<p id=\"b913-5\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b913-6\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"610\" lastpage=\"610\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b642-6\">Arthur F. OLDS, Petitioner, v. OFFICE OF PERSONNEL MANAGEMENT, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b642-8\">No. 04-3119.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b642-9\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b642-10\">Oct. 12, 2004.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b642-12\">Before LOURIE, BRYSON, and DYK, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b642-13\">\n<em>JUDGMENT</em>\n</p>\n<author id=\"AGk\">PER CURIAM.</author>\n<p id=\"b642-14\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b642-15\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

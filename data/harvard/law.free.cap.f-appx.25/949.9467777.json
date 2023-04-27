@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"949\" lastpage=\"950\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b977-15\">Billy W. JARVIS, Plaintiff-Appellant, v. UNITED STATES, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Az6\">No. 01-5029.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b977-17\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b977-18\">Dec. 7, 2001.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b977-19\">Before MAYER, Chief Judge, LOURIE and SCHALL, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b978-3\"><page-number citation-index=\"1\" label=\"950\">*950</page-number>PER CURIAM.</author>\n<p id=\"b978-4\">Billy W. Jarvis appeals the judgment of the United States Court of Federal Claims, <em>Jarvis v. United States, </em>47 Fed. Cl. 698 (2000), finding him in material breach of his informant agreement with the Internal Revenue Service. We <em>affirm </em>on the basis of the trial court\u2019s opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

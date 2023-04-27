@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"537\" lastpage=\"537\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b569-6\">Mounce A. JACKSON, Plaintiff-Appellant v. GENERAL MOTORS CORPORATION, Defendant-Appellee</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AI9\">No. 99-6490.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b569-8\">United States Court of Appeals, Sixth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b569-9\">Jan. 2, 2002.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b569-10\">Before MERRITT, WELLFORD, and SILER, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b569-11\">ORDER</p>\n<p id=\"b569-12\">The Supreme Court of Tennessee having ruled on certified questions of law presented by this Court to the Tennessee Supreme Court in this case, the case is reversed and remanded in light of the ruling by the Tennessee Supreme Court in its answer to our Court\u2019s certified questions of law.</p>\n<p id=\"b569-13\">Accordingly, it is so ORDERED.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

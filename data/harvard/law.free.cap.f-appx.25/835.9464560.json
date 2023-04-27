@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"835\" lastpage=\"835\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b863-9\">John M. BOWLING and Rayco Manufacturing, Inc., Plaintiffs-Appellants, v. GREEN MANUFACTURING, INC., Defendant-Cross Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b863-12\">No. 01-1194, 01-1211.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b863-13\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b863-14\">DECIDED: Dec. 19, 2001.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b863-16\">Before LOURIE, CLEVENGER and GAJARSA, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b863-17\">\n<em>Judgment</em>\n</p>\n<author id=\"b863-18\">PER CURIAM.</author>\n<p id=\"b863-19\">\n<em>This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</em>\n</p>\n<p id=\"b863-20\"><em>AFFIRMED. See </em>Fed. Cir. R.36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"450\" lastpage=\"450\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b825-10\">ALIRON INTERNATIONAL, INC., Plaintiff-Appellant, v. UNITED STATES, Defendant-Appellee, and COLUMBIA HEALTHCARE\u2014the Arora Group Joint Venture, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b825-14\">No. 04-5136.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b825-15\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b825-16\">June 8, 2005.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b825-18\">Before LOURIE, LINN, and PROST, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b825-3\">\n<em>JUDGMENT</em>\n</p>\n<author id=\"ACZ\">PER CURIAM.</author>\n<p id=\"b825-4\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b825-5\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1023-12\">Christopher W. GRENIER, Paul C. Bock, and Todd M. Shea, Petitioners, v. DEPARTMENT OF JUSTICE, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1023-15\">No. 05-3213.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1023-16\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1023-17\">July 14, 2006.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1023-19\">Before MICHEL, Chief Judge, RADER and SCHALL, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1023-20\">Judgment</p>\n<author id=\"b1023-21\">PER CURIAM:</author>\n<p id=\"b1023-22\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b1023-23\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
