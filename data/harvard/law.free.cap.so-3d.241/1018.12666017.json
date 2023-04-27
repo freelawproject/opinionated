@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of Louisiana</parties>\n<docketnumber id=\"p-2\">Wayne BRIGALIA, Jr.</docketnumber>\n<docketnumber id=\"p-3\">NO. 2018-KK-0434</docketnumber>\n<court id=\"p-4\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-5\">May 11, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Louisiana\n   </parties>\n   <judges id=\"p-2\">\n    Wayne BRIGALIA, Jr.\n   </judges>\n   <docketnumber id=\"p-3\">\n    NO. 2018-KK-0434\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-5\">\n    May 11, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

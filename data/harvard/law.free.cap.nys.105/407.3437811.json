@@ -1,12 +1,16 @@
 {
-    "citations": [
-	{
-            "type": "official",
-            "cite": "105 N.Y.S. 407"
-        },
-        {
-            "type": "parallel",
-            "cite": "120 App. Div. 355"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "105 N.Y.S. 407"
+    },
+    {
+      "type": "parallel",
+      "cite": "120 App. Div. 355"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"407\" lastpage=\"408\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<citation data-order=\"0\" data-type=\"citation\" id=\"b433-6\">(120 App. Dir. 355)</citation>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b433-7\">COLE v. HINCK et al.</parties>\n<court data-order=\"2\" data-type=\"court\" id=\"b433-8\">(Supreme Court, Appellate Division, First Department. ,</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AZE\">June 28, 1907.)</decisiondate>\n<headnotes data-order=\"4\" data-type=\"headnotes\" id=\"b433-9\">Mortgages\u2014Default in Interest\u2014Foreclosure\u2014Stating Proceedings.</headnotes>\n<headnotes data-order=\"5\" data-type=\"headnotes\" id=\"b433-10\">Where a mortgage provides that the whole principal shall become due after default in interest for five days, and tender of interest made after default for more than that time is refused, and the mortgagee elects to take advantage of such clause of the mortgage, the result is not a forfeiture, but maturity of the principal as stipulated, and relief to the mortgagor will not be granted, in the absence of some act of the mortgagee rendering it unconscionable for him to avail himself of it ;\u25a0 and the staying on affidavits of the action to foreclose, and cancellation of the lis pendens and summons, is unauthorized, it being necessary to present - by answer and litigate in the ordinary way any substantial defense in equity.</headnotes>\n<headnotes data-order=\"6\" data-type=\"headnotes\" id=\"b433-12\">[Ed. Note.\u2014For cases in point, see Cent. Dig. vol. 35, Mortgages, \u00a7\u00a7 1160-1163.]</headnotes>\n<summary data-order=\"7\" data-type=\"summary\" id=\"b433-14\">\u2022 Appeal from Special Term.</summary>\n<summary data-order=\"8\" data-type=\"summary\" id=\"b433-15\">Action by Julia Cole against Claus H. Hinck and others. From an order staying prosecution of the action and canceling the lis pendens and summons, plaintiff appeals.</summary>\n<disposition data-order=\"9\" data-type=\"disposition\" id=\"Ahyv\">Reversed, and motion denied.</disposition>\n<p data-order=\"10\" data-type=\"judges\" id=\"b433-16\">Argued before McLAUGHLIN, INGRAHAM, HOUGHTON, CLARKE, and LAMBERT, JJ.</p>\n<attorneys data-order=\"11\" data-type=\"attorneys\" id=\"b433-17\">J. J. KarbryrO\u2019Kennedy, for appellant.</attorneys>\n<opinion data-order=\"12\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b433-18\">LAMBERT, J.</author>\n<p id=\"AL5\">The order appealed from, and which .practically disposes of the action, is made in an. action for foreclosure of a second mortgage. This mortgage contained a cause that the whole prin<page-number citation-index=\"1\" label=\"408\">*408</page-number>cipal should become due after default in the payment of interest for five days after the same became due. It is conceded that interest became due on the 5th day of March, 1907, that it was not paid bn the day, and that it was not tendered until the 13th day of March, when it was refused, as was a like tender, with accumulated interest, on the 16th day of March. The plaintiff elected to take advantage of the clause in his mortgage, and the consequence thus produced is not deemed a forfeiture. The result is maturity of the principal debt at the time, not definitely fixed when the mortgage is made, but specifically stipulated for in that instrument; and in such case the court as a rule will not grant relief to the mortgagor from the effect of his default, when nothing is done on the part of the mortgagee to render it unconscionable for him to avail himself of it. Noyes v. Anderson, 124 N. Y. 175, 180, 26 N. E. 316, 21 Am. St. Rep. 657, and authorities there cited; Hothorn v. Louis, 52 App. Div. 218, 224, 65 N. Y. Supp. 155, and authorities there cited, affirmed 170 N. Y. 576, 62 N. E. 1096. The matter now before us is upon affidavits, upon which the learned court has stayed the plaintiff and canceled her lis pendens and her summons, thus effectually disposing of the action. We are of opinion that there is no adequate authority in law or equity for such an order, and that it should be reversed. If the defendants in the action have a substantial defense in equity, to be available, it must be presented as an issue by answer and litigated in the ordinary way.</p>\n<p id=\"b434-5\">The order appealed from should be reversed, with $10 costs and disbursements, and the motion denied, with $10 costs. All concur</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"566\" lastpage=\"566\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE<br/> v.<br/> LEWIS, Cameron J.</parties>\n<docketnumber id=\"p-2\">A159667(S066036)</docketnumber>\n<court id=\"p-3\">Supreme Court of Oregon.</court>\n<decisiondate id=\"p-4\">October 25, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Review Denied</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"566\" lastpage=\"566\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE\n    <br/>\n    v.\n    <br/>\n    LEWIS, Cameron J.\n   </parties>\n   <docketnumber id=\"p-2\">\n    A159667(S066036)\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Oregon.\n   </court>\n   <decisiondate id=\"p-4\">\n    October 25, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Review Denied\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

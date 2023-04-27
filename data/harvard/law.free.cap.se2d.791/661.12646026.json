@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"661\" lastpage=\"661\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Christy Newell, Plaintiff,<br/> v.<br/> Clyde S. Newell, III, Defendant.</parties>\n<docketnumber id=\"p-2\">No. COA15-1016</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: September 6, 2016</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED IN PART; VACATED AND REMANDED IN PART.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"661\" lastpage=\"661\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Christy Newell, Plaintiff,\n    <br/>\n    v.\n    <br/>\n    Clyde S. Newell, III, Defendant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA15-1016\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: September 6, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED IN PART; VACATED AND REMANDED IN PART.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

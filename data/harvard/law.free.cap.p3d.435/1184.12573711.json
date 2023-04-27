@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1184\" lastpage=\"1184\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">David C. JORDAN, Appellant,<br/> v.<br/> KANSAS DEPT. OF CORRECTIONS, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 119,804</docketnumber>\n<court id=\"p-3\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-4\">Opinion filed March 15, 2019.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Reversed. Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1184\" lastpage=\"1184\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    David C. JORDAN, Appellant,\n    <br/>\n    v.\n    <br/>\n    KANSAS DEPT. OF CORRECTIONS, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 119,804\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed March 15, 2019.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Reversed. Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

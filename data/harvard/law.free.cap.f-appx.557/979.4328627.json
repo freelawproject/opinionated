@@ -1,8 +1,12 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "557 F. App'x 979"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "557 F. App'x 979"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"979\" lastpage=\"979\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b836-6\">AMERICAN CONTRACTORS INDEMNITY COMPANY, Plaintiff-Appellant, v. UNITED STATES, Respondent-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ajaq\">No. 2013-5116.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AK9D\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ag-0\">March 4, 2014.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ax52\">Jefferson B. Slagle, Thompson &amp; Slagle, LLC, of John\u2019s Creek, Georgia, argued for plaintiff-appellant. On the brief was Dewitte Thompson.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b836-7\">Michael D. Austin, Trial Attorney, Commercial Litigation Branch, Civil Division, United States Department of Justice, of Washington, DC, argued for respondentappellee. With him on the brief were Stuart F. Delery, Assistant Attorney General, Bryant Snee, Acting Director, and Donald E. Kinner, Assistant Director.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b836-8\">NEWMAN, BRYSON, and MOORE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b836-9\">JUDGMENT</p>\n<author id=\"b836-10\">PER CURIAM.</author>\n<p id=\"b836-11\">This Cause having been heard and considered, it is Ordered and Adjudged:</p>\n<p id=\"b836-12\">AFFIRMED. <em>See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

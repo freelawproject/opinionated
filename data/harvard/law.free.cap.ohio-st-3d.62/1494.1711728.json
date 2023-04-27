@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1494\" lastpage=\"1494\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b858-32\">91-1044.</docketnumber>\n<parties id=\"AJtq\">Myers v. Pub. Util. Comm.</parties>\n\n<opinion><p id=\"AF6b\">Public Utilities Commission, No. 90-1315-EL-CSS. On motion to compel intervention. Motion denied.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"1494\" lastpage=\"1494\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b858-32\">91-1044.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AJtq\">Myers v. Pub. Util. Comm.</parties>\n<opinion data-order=\"2\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AF6b\">Public Utilities Commission, No. 90-1315-EL-CSS. On motion to compel intervention. Motion denied.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

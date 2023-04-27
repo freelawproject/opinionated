@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"758\" lastpage=\"758\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Roger PAYKERT, Plaintiff,<br/> v.<br/> Bobby Charles COLEMAN, Defendant.</parties>\n<docketnumber id=\"p-2\">No. COA 15-165.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Nov. 17, 2015.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>Case Reported Without Published Opinion</strong></p><p id=\"p-6\">Affirmed in part; Reversed and Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"758\" lastpage=\"758\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Roger PAYKERT, Plaintiff,\n    <br/>\n    v.\n    <br/>\n    Bobby Charles COLEMAN, Defendant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA 15-165.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Nov. 17, 2015.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      Case Reported Without Published Opinion\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Affirmed in part; Reversed and Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

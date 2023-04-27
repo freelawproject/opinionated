@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"498\" lastpage=\"498\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE COMM. REV. OF OHIO ADM.CODE CHAPTER 4901:1-10</parties>\n<docketnumber id=\"p-2\">2014-1633</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">May 9, 2018</decisiondate>\n<p id=\"p-5\">CASE ANNOUNCEMENTS</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">MERIT DECISIONS WITHOUT OPINIONS</p><p id=\"p-7\">On responses to show-cause order. Cause dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"498\" lastpage=\"498\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE COMM. REV. OF OHIO ADM.CODE CHAPTER 4901:1-10\n   </parties>\n   <docketnumber id=\"p-2\">\n    2014-1633\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    May 9, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     MERIT DECISIONS WITHOUT OPINIONS\n    </p>\n    <p id=\"p-7\">\n     On responses to show-cause order. Cause dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

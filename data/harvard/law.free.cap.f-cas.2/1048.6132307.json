@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "2 F. Cas. 1048"
-        },
-        {
-            "type": "parallel",
-            "cite": "4 Hall, Law J. 276"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 F. Cas. 1048"
+    },
+    {
+      "type": "parallel",
+      "cite": "4 Hall, Law J. 276"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"1048\" lastpage=\"1048\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<headnotes data-order=\"0\" data-type=\"headnotes\" id=\"b1050-4\">Case No. 1,123.</headnotes>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b1050-5\">BAXTER v. BIAYS.</parties>\n<p data-order=\"2\" data-type=\"citation\" id=\"b1050-6\">[Brunner, Col. Cas. 254; <footnotemark>1</footnotemark></p>\n<citation data-order=\"3\" data-type=\"citation\" id=\"A_S\">4 Law J. 276.]</citation>\n<court data-order=\"4\" data-type=\"court\" id=\"AjLW\">Circuit Court. D. Maryland.</court>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"AlV\">May Term, 1812.</decisiondate>\n<headnotes data-order=\"6\" data-type=\"headnotes\" id=\"b1050-7\">Bail\u2014Surrender op Principal.</headnotes>\n<headnotes data-order=\"7\" data-type=\"headnotes\" id=\"b1050-8\">Bail cannot surrender their principal before n judge at his chambers.</headnotes>\n<summary data-order=\"8\" data-type=\"summary\" id=\"b1050-9\">Biays was bail for one Merrihu. After the scire facias issued, and within the time allowed by the rule for a surrender of principal, Biays surrendered Merrihu before HOUSTON, District Judge, during vacation, who ordered an exoneretur to be entered.</summary>\n<opinion data-order=\"9\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1050-10\">But by</p>\n<author id=\"AOr6\">DUVAL, Circuit Justice:</author>\n<p id=\"AD0y\">There is no law authorizing a surrender before a judge at his chambers, nor is there any rule of court to that effect. It was once attempted before Judge Hanson, and refused.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

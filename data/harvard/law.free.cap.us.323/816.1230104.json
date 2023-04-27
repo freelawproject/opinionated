@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"816\" lastpage=\"816\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p id=\"b910-9\">No. \u2014.</p>\n<parties id=\"AHBe\">Curley <em>v. </em>Florida.</parties>\n<decisiondate id=\"ATHZ\">November 20, 1944.</decisiondate>\n<opinion><p>No opinion found. <a href=\"https://cite.case.law/pdf/1230104/Curley%20v.%20Florida.pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"816\" lastpage=\"816\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b910-9\">No. \u2014.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AHBe\">Curley <em>v. </em>Florida.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ATHZ\">November 20, 1944.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p>No opinion found. <a href=\"https://cite.case.law/pdf/1230104/Curley%20v.%20Florida.pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

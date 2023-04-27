@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"281\" lastpage=\"281\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Charles H. PARKER<br/> v.<br/> Kristen WOLKART, RN, MHA, President/CEO, St. Francis Medical Center</parties>\n<docketnumber id=\"p-2\">NO. 2017-CI-1556</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">January 18, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Not considered. See La.S.Ct.R. IX, \u00a7 6.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"281\" lastpage=\"281\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Charles H. PARKER\n    <br/>\n    v.\n    <br/>\n    Kristen WOLKART, RN, MHA, President/CEO, St. Francis Medical Center\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2017-CI-1556\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    January 18, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Not considered. See La.S.Ct.R. IX, \u00a7 6.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

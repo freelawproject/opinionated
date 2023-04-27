@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"384\" lastpage=\"384\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">TROUBLED ASSET SOLUTIONS, LLC, in its Capacity as Receiver for the Mortgage Exchange, Inc., Pending in Washington County Circuit Court Case Number C112822CV<br/> v.<br/> WILCHER and All Occupants</parties>\n<docketnumber id=\"p-2\">A158440(S066097)</docketnumber>\n<court id=\"p-3\">Supreme Court of Oregon.</court>\n<decisiondate id=\"p-4\">October 4, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Review Allowed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"384\" lastpage=\"384\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    TROUBLED ASSET SOLUTIONS, LLC, in its Capacity as Receiver for the Mortgage Exchange, Inc., Pending in Washington County Circuit Court Case Number C112822CV\n    <br/>\n    v.\n    <br/>\n    WILCHER and All Occupants\n   </parties>\n   <docketnumber id=\"p-2\">\n    A158440(S066097)\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Oregon.\n   </court>\n   <decisiondate id=\"p-4\">\n    October 4, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Review Allowed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

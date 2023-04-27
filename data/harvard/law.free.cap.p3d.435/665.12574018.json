@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"665\" lastpage=\"665\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Delbert Charles COBB, Appellant,<br/> v.<br/> James DZURENDA, Director of Nevada Department of Corrections ; the State of Nevada Department of Corrections; Core Civic ; Saguaro Correctional Center ; and T. Thomas, Warden, Respondents.</parties>\n<docketnumber id=\"p-2\">No. 77986</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED FEBRUARY 26, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">DISMISSED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"665\" lastpage=\"665\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Delbert Charles COBB, Appellant,\n    <br/>\n    v.\n    <br/>\n    James DZURENDA, Director of Nevada Department of Corrections ; the State of Nevada Department of Corrections; Core Civic ; Saguaro Correctional Center ; and T. Thomas, Warden, Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 77986\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED FEBRUARY 26, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

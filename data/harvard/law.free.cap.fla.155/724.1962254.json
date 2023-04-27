@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "155 Fla. 724"
-        },
-        {
-            "type": "parallel",
-            "cite": "21 So. (2nd) 211"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "155 Fla. 724"
+    },
+    {
+      "type": "parallel",
+      "cite": "21 So. (2nd) 211"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"724\" lastpage=\"726\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b748-13\">STATE OF FLORIDA, on the relation of HARDAWAY CONTRACTING COMPANY INC., a Georgia Corporation duly authorized to do business in Florida, v. J. M. LEE, as Comptroller of the State of Florida.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b748-14\">21- So. (2nd). 211</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AtP\">January Term, 1945</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b748-15\">March 13, 1945</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AZp\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b749-6\"><page-number citation-index=\"1\" label=\"725\">*725</page-number><em>Ausley, Collins &lt;&amp; Truett, </em>and <em>Robert D. Tylander,, tor </em>relator.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b749-7\"><em>J. Tom Watson, </em>Attorney General, and <em>George M. Rowell, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b749-8\">TERRELL, J.:</author>\n<p id=\"b749-9\">The Legislature of 1935 enacted Chapter 17178 imposing a license tax of $1000 on certain firms and corporations as a prerequisite to doing, business in Florida. In Lee, Comptroller v. Bigsby Electric Company, 136 Fla. 305, 186 So. 505, this Court held Chapter 17178 unconstitutional. The Legislature of 1943 enacted Chapter 22008 authorizing the Comptroller to make refund of moneys paid into the State treasury when no tax, license, or account is due or when any payment was made into the State treasury in error.</p>\n<p id=\"b749-10\">The relator having paid into the State treasury the sum of $4000 as license taxes under Chapter 17178, Acts of 1935, before it was declared invalid and considering that it was entitled to refund under Chapter 22008 brought this action in mandamus to require the Comptroller to draw his warrant to cover, such refund or to show cause why he refuses to do so. To the alternative writ, there was a return and motion to quash in which it is contended, (1) that no plain and positive duty is imposed on the Comptroller to perform the acts sought to be coerced, (2) Relator has another and more adequate remedy, (3) Relator has forfeited his right by laches, and (4) the Act sought to be coerced is not within the power of respondent to perform.</p>\n<p id=\"b749-11\">It is not denied that Relator paid the license tax to the State under Chapter 17178 which it claims should now be refunded under Chapter 22008; neither is there any question that the amount claimed was paid into the \u201ccounty school fund\u201d as provided by the former Act. We are of the view that relator\u2019s application for refund was properly and timely made and that the allegations of the alternative writ bring him within the class entitled to refund under Chapter 22008.</p>\n<p id=\"b750-4\"><page-number citation-index=\"1\" label=\"726\">*726</page-number>Chapter 22008 provides for refunds in three different categories, to\u2018-wit: (a) In case of an overpayment of any tax, license, or account due,. (b) a payment when no tax, license, or account is due, and (c) any payment made into the State treasury in error, and appropriates \u201cfrom the proper respective funds from time to time such sums as may be necessary for such refunds.\u201d Since Chapter 17178 was declared to be a nullity, relator may claim his refund under category b and c of Chapter 22008.</p>\n<p id=\"b750-5\">The \u201cCounty School Fund\u201d into which the amount sought to be recovered was paid is defined by Section 9, Article XII of the Constitution. It is not necessary to recite here the . moneys that go into this fund. It is sufficient to say that it profited very materially under Chapter 17178, that large sums pass into this fund annually through the hands of the Comptroller and that it was the purpose of the Legislature that any- refunds allowed under Chapter 22008 be made by warrant of the Comptroller drawn on the fund benefitted by the original payment, in this case the County School Fund.</p>\n<p id=\"b750-6\">So the motion for peremptory writ, is granted notwithstanding the return.</p>\n<p id=\"b750-7\">It.is so ordered.</p>\n<judges id=\"b750-8\">CHAPMAN, C. J., BUFORD and ADAMS, JJ\u201e concur. \u25a0</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

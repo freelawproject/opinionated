@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1304\" lastpage=\"1304\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Alex TALBERT<br/> v.<br/> RESTORATION HARDWARE, INC., Ozark Motor Lines, Inc.</parties>\n<docketnumber id=\"p-2\">NO. 2018-C-1102</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">October 15, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Denied on the showing made.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1304\" lastpage=\"1304\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Alex TALBERT\n    <br/>\n    v.\n    <br/>\n    RESTORATION HARDWARE, INC., Ozark Motor Lines, Inc.\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2018-C-1102\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    October 15, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Denied on the showing made.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

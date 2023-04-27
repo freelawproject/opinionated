@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"745\" lastpage=\"745\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Howard SHAPIRO; and Jenna Shapiro, Appellants,<br/> v.<br/> Glen WELT; Rhoda Welt; Lynn Welt; and Michelle Welt, Individuals, Respondents.</parties>\n<docketnumber id=\"p-2\">No. 73943</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED DECEMBER 27, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">REVERSED. VACATE. REMAND.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"745\" lastpage=\"745\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Howard SHAPIRO; and Jenna Shapiro, Appellants,\n    <br/>\n    v.\n    <br/>\n    Glen WELT; Rhoda Welt; Lynn Welt; and Michelle Welt, Individuals, Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 73943\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED DECEMBER 27, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     REVERSED. VACATE. REMAND.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

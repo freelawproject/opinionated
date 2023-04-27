@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"817\" lastpage=\"817\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p id=\"b911-14\">No. \u2014.</p>\n<parties id=\"Ar4s\">Wilson <em>v. </em>Hinman.</parties>\n<decisiondate id=\"Aqrl\">January 2, 1945.</decisiondate>\n<opinion><p>No opinion found. <a href=\"https://cite.case.law/pdf/1229397/Wilson%20v.%20Hinman.pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"817\" lastpage=\"817\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b911-14\">No. \u2014.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ar4s\">Wilson <em>v. </em>Hinman.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aqrl\">January 2, 1945.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p>No opinion found. <a href=\"https://cite.case.law/pdf/1229397/Wilson%20v.%20Hinman.pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

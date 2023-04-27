@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"633\" lastpage=\"633\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b641-7\">Cadwell, plaintiff <em>vs. </em>Goodenough <em>et al. </em>defendants.</parties>\n\n<p id=\"AYa\">(Before Moncrief, J. at special term,</p>\n<decisiondate id=\"ACC\">October \u2014, 1864.)</decisiondate>\n<opinion><p id=\"b641-8\">Assuming the court to have the power to order a bill of particulars, after the issues in a cause have been referred to a referee to hear and determine, it will not be exercised to interrupt a trial actually proceeding before him.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"633\" lastpage=\"633\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b641-7\">Cadwell, plaintiff <em>vs. </em>Goodenough <em>et al. </em>defendants.</parties>\n<p data-order=\"1\" data-type=\"summary\" id=\"AYa\">(Before Moncrief, J. at special term,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ACC\">October \u2014, 1864.)</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b641-8\">Assuming the court to have the power to order a bill of particulars, after the issues in a cause have been referred to a referee to hear and determine, it will not be exercised to interrupt a trial actually proceeding before him.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

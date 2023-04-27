@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1060\" lastpage=\"1060\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Kory Tremaine JOHNSON, Appellant<br/> v.<br/> STATE of Indiana</parties>\n<court id=\"p-2\">Supreme Court of Indiana.</court>\n<decisiondate id=\"p-3\">July 27, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">Transfer denied. All Justices concur, except Rush, C.J., and Slaughter, J., who vote to grant transfer to address the Criminal Rule 4 issue.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1060\" lastpage=\"1060\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Kory Tremaine JOHNSON, Appellant\n    <br/>\n    v.\n    <br/>\n    STATE of Indiana\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Indiana.\n   </court>\n   <decisiondate id=\"p-3\">\n    July 27, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Transfer denied. All Justices concur, except Rush, C.J., and Slaughter, J., who vote to grant transfer to address the Criminal Rule 4 issue.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

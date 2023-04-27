@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"241\" lastpage=\"241\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF J. L., a Person Alleged to have Mental Illness.</parties>\n<docketnumber id=\"p-2\">State<br/> v.<br/> J. L.</docketnumber>\n<docketnumber id=\"p-3\">A167618</docketnumber>\n<court id=\"p-4\">Court of Appeals of Oregon.</court>\n<decisiondate id=\"p-5\">May 8, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"241\" lastpage=\"241\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF J. L., a Person Alleged to have Mental Illness.\n   </parties>\n   <docketnumber id=\"p-2\">\n    State\n    <br/>\n    v.\n    <br/>\n    J. L.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    A167618\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Oregon.\n   </court>\n   <decisiondate id=\"p-5\">\n    May 8, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

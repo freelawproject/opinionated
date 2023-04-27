@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"718\" lastpage=\"718\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Willie E. TAYLOR, Jr., Appellant-Plaintiff,<br/> v.<br/> George FIELDS, et al., Appellees-Defendants.</parties>\n<docketnumber id=\"p-2\">Court of Appeals Case No. 18A-CT-2268</docketnumber>\n<court id=\"p-3\">Court of Appeals of Indiana.</court>\n<decisiondate id=\"p-4\">FILED March 26, 2019</decisiondate>\n<p id=\"p-5\"><strong><em>Unpublished Memorandum Decision</em></strong></p>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"718\" lastpage=\"718\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Willie E. TAYLOR, Jr., Appellant-Plaintiff,\n    <br/>\n    v.\n    <br/>\n    George FIELDS, et al., Appellees-Defendants.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Court of Appeals Case No. 18A-CT-2268\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Indiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED March 26, 2019\n   </decisiondate>\n   <p id=\"p-5\">\n    <strong>\n     <em>\n      Unpublished Memorandum Decision\n     </em>\n    </strong>\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

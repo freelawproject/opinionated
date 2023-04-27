@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"290\" lastpage=\"290\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Joseph LEVIRE<br/> v.<br/> CAPITAL AREA TRANSIT SYSTEM AND RELIANT TRANSPORTATION, LLC, et al.</parties>\n<docketnumber id=\"p-2\">NO. 2018-CC-1400</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">November 14, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Not considered. Not timely filed. See Louisiana Supreme Court Rule X, \u00a7 5(a).</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"290\" lastpage=\"290\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Joseph LEVIRE\n    <br/>\n    v.\n    <br/>\n    CAPITAL AREA TRANSIT SYSTEM AND RELIANT TRANSPORTATION, LLC, et al.\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2018-CC-1400\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    November 14, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Not considered. Not timely filed. See Louisiana Supreme Court Rule X, \u00a7 5(a).\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

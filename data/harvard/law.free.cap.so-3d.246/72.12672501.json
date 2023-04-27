@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"72\" lastpage=\"72\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Curtis Ray MCCARTY, Jr.<br/> v.<br/> Arthur WOOD, III</parties>\n<docketnumber id=\"p-2\">2016-CT-00928-SCT</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: May 29, 2018<br/> Closed: May 30, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">No Action Taken</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"72\" lastpage=\"72\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Curtis Ray MCCARTY, Jr.\n    <br/>\n    v.\n    <br/>\n    Arthur WOOD, III\n   </parties>\n   <docketnumber id=\"p-2\">\n    2016-CT-00928-SCT\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: May 29, 2018\n    <br/>\n    Closed: May 30, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     No Action Taken\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

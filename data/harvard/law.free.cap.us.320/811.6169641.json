@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"811\" lastpage=\"811\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b877-12\">No. 1070,</docketnumber>\n<p id=\"AEkA\">October Term, 1942.</p>\n<parties id=\"ABiq\">Guyton <em>v. </em>United States.</parties>\n<decisiondate id=\"A9H6\">October 11, 1943.</decisiondate>\n<opinion><p>No opinion found. <a href=\"https://cite.case.law/pdf/6169641/Guyton%20v.%20United%20States.pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"811\" lastpage=\"811\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b877-12\">No. 1070,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AEkA\">October Term, 1942.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ABiq\">Guyton <em>v. </em>United States.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A9H6\">October 11, 1943.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p>No opinion found. <a href=\"https://cite.case.law/pdf/6169641/Guyton%20v.%20United%20States.pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

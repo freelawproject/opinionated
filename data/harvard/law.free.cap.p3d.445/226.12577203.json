@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"226\" lastpage=\"226\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Glenn RICHARDSON, an Individual; and Gayle Richardson, an Individual, Appellants,<br/> v.<br/> Adam J. BREEDEN, Esq., Breeden &amp; Associates, PLLC; and Mandalay Corp., d/b/a Mandalay Bay Resort &amp; Casino, a Nevada Corporation, Respondents.</parties>\n<docketnumber id=\"p-2\">No. 78308</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED AUGUST 01, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"226\" lastpage=\"226\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Glenn RICHARDSON, an Individual; and Gayle Richardson, an Individual, Appellants,\n    <br/>\n    v.\n    <br/>\n    Adam J. BREEDEN, Esq., Breeden &amp; Associates, PLLC; and Mandalay Corp., d/b/a Mandalay Bay Resort &amp; Casino, a Nevada Corporation, Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 78308\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED AUGUST 01, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

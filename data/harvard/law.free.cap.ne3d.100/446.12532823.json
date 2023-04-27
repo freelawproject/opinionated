@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"446\" lastpage=\"446\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Blue Durham Properties, L.L.C.<br/> v.<br/> Krantz</parties>\n<docketnumber id=\"p-2\">2017-1684</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">June 27, 2018</decisiondate>\n<p id=\"p-5\">CASE ANNOUNCEMENTS</p>\n\n\n\n<opinion type=\"majority\"><p id=\"p-6\">RECONSIDERATION OF PRIOR DECISIONS</p><p id=\"p-7\">On amended motion for reconsideration.</p><p id=\"p-8\">Motion denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"446\" lastpage=\"446\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Blue Durham Properties, L.L.C.\n    <br/>\n    v.\n    <br/>\n    Krantz\n   </parties>\n   <docketnumber id=\"p-2\">\n    2017-1684\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    June 27, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     RECONSIDERATION OF PRIOR DECISIONS\n    </p>\n    <p id=\"p-7\">\n     On amended motion for reconsideration.\n    </p>\n    <p id=\"p-8\">\n     Motion denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"536\" lastpage=\"536\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Richard D. GUITE, Sr.<br/> v.<br/> Brian FOSTER</parties>\n\n<court id=\"p-3\">Supreme Court of Wisconsin.</court>\n<decisiondate id=\"p-4\">June 11, 2019</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-2\">2019AP156-W</p><p id=\"p-5\"><strong>CASE DISPOSITION OF PETITION TO WISCONSIN SUPREME COURT</strong></p><p id=\"p-6\">Original Petition to the Supreme Court Denied.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"536\" lastpage=\"536\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Richard D. GUITE, Sr.\n    <br/>\n    v.\n    <br/>\n    Brian FOSTER\n   </parties>\n   <court id=\"p-3\">\n    Supreme Court of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    June 11, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-2\">\n     2019AP156-W\n    </p>\n    <p id=\"p-5\">\n     <strong>\n      CASE DISPOSITION OF PETITION TO WISCONSIN SUPREME COURT\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Original Petition to the Supreme Court Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

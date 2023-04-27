@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"799\" lastpage=\"799\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">D.C.L. &amp; others<footnotemark>1</footnotemark><br/> v.<br/> N.J.H.</parties>\n<docketnumber id=\"p-2\">18-P-185</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n<decisiondate id=\"p-4\">Entered: May 13, 2019.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Order denying motion to modify 2016 order affirmed. Extension order dated July 5, 2017, affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"799\" lastpage=\"799\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    D.C.L. &amp; others\n    <footnotemark>\n     1\n    </footnotemark>\n    <br/>\n    v.\n    <br/>\n    N.J.H.\n   </parties>\n   <docketnumber id=\"p-2\">\n    18-P-185\n   </docketnumber>\n   <court id=\"p-3\">\n    Appeals Court of Massachusetts.\n   </court>\n   <decisiondate id=\"p-4\">\n    Entered: May 13, 2019.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Order denying motion to modify 2016 order affirmed. Extension order dated July 5, 2017, affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

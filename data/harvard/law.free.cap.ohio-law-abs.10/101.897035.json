@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"101\" lastpage=\"101\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<parties id=\"b101-5\">SHORT FILMS SYNDICATE v STANDARD FILM SERVICE CO</parties>\n\n<docketnumber id=\"ALP\">No. 11160.</docketnumber>\n<opinion><p id=\"b101-4\">EXPLANATORY</p><p id=\"b101-6\">Ohio Appeals, 8th Dist, Cuyahoga Co</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"101\" lastpage=\"101\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b101-5\">SHORT FILMS SYNDICATE v STANDARD FILM SERVICE CO</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ALP\">No. 11160.</docketnumber>\n<opinion data-order=\"2\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b101-4\">EXPLANATORY</p><p id=\"b101-6\">Ohio Appeals, 8th Dist, Cuyahoga Co</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

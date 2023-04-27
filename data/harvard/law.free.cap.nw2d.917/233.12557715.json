@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"233\" lastpage=\"233\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">CITY OF GREEN BAY, Plaintiff-Respondent,<br/> v.<br/> Henry DOMBROWICKI, Defendant-Appellant.</parties>\n<docketnumber id=\"p-2\">Appeal No. 2017AP606</docketnumber>\n<court id=\"p-3\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-4\">DATED AND FILED May 30, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"233\" lastpage=\"233\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    CITY OF GREEN BAY, Plaintiff-Respondent,\n    <br/>\n    v.\n    <br/>\n    Henry DOMBROWICKI, Defendant-Appellant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Appeal No. 2017AP606\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    DATED AND FILED May 30, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

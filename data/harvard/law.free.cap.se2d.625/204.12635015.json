@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"204\" lastpage=\"204\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE D.L.C.</parties>\n<docketnumber id=\"p-2\">No. COA05-357</docketnumber>\n<court id=\"p-3\">North Carolina Court of Appeals</court>\n<decisiondate id=\"p-4\">Filed February 7, 2006</decisiondate>\n<decisiondate id=\"p-5\">Certification Date February 27, 2006</decisiondate>\n<history id=\"p-6\">Appeal from Robeson (04J06).</history>\n\n<opinion type=\"majority\"><p id=\"p-7\">Case reported without published opinion. Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"204\" lastpage=\"204\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE D.L.C.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA05-357\n   </docketnumber>\n   <court id=\"p-3\">\n    North Carolina Court of Appeals\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed February 7, 2006\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date February 27, 2006\n   </decisiondate>\n   <history id=\"p-6\">\n    Appeal from Robeson (04J06).\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     Case reported without published opinion. Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

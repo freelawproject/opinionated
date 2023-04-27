@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"113\" lastpage=\"113\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MARYLAND CASUALTY CO.<br/> v.<br/> ASBESTOS CLAIMS COURT</parties>\n<docketnumber id=\"p-2\">OP 19-0051</docketnumber>\n<court id=\"p-3\">Supreme Court of Montana.</court>\n<decisiondate id=\"p-4\">February 19, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Decision without opinion or without extended opinion Stayed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"113\" lastpage=\"113\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MARYLAND CASUALTY CO.\n    <br/>\n    v.\n    <br/>\n    ASBESTOS CLAIMS COURT\n   </parties>\n   <docketnumber id=\"p-2\">\n    OP 19-0051\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Montana.\n   </court>\n   <decisiondate id=\"p-4\">\n    February 19, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Decision without opinion or without extended opinion Stayed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

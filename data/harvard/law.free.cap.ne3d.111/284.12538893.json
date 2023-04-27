@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"284\" lastpage=\"284\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">COMMONWEALTH<br/> v.<br/> Omid K. WHITE</parties>\n<court id=\"p-2\">Supreme Judicial Court of Massachusetts.</court>\n<decisiondate id=\"p-3\">September 27, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">Appellate review denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"284\" lastpage=\"284\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    COMMONWEALTH\n    <br/>\n    v.\n    <br/>\n    Omid K. WHITE\n   </parties>\n   <court id=\"p-2\">\n    Supreme Judicial Court of Massachusetts.\n   </court>\n   <decisiondate id=\"p-3\">\n    September 27, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Appellate review denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

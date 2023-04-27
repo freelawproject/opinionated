@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"756\" lastpage=\"756\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">NORTHSHORE UNIVERSITY HEALTHSYSTEM, petitioner,<br/> v.<br/> The ILLINOIS DEPARTMENT OF REVENUE et al., respondents.</parties>\n<docketnumber id=\"p-2\">No. 122279</docketnumber>\n<court id=\"p-3\">Supreme Court of Illinois.</court>\n<decisiondate id=\"p-4\">September 27, 2017</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>PETITION FOR LEAVE TO APPEAL</strong></p><p id=\"p-6\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"756\" lastpage=\"756\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    NORTHSHORE UNIVERSITY HEALTHSYSTEM, petitioner,\n    <br/>\n    v.\n    <br/>\n    The ILLINOIS DEPARTMENT OF REVENUE et al., respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 122279\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Illinois.\n   </court>\n   <decisiondate id=\"p-4\">\n    September 27, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      PETITION FOR LEAVE TO APPEAL\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

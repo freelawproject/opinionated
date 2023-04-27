@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"239\" lastpage=\"239\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">JUNCTION CITY POLICE DEPARTMENT, Appellee,<br/> v.<br/> $454,280 IN U.S. CURRENCY, More or Less and Other Seized Property, Defendant,</parties>\n<docketnumber id=\"p-2\">(Robert Henderson), Appellant.</docketnumber>\n<docketnumber id=\"p-3\">No. 118,231</docketnumber>\n<court id=\"p-4\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-5\">Opinion filed October 12, 2018.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Reversed. Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"239\" lastpage=\"239\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    JUNCTION CITY POLICE DEPARTMENT, Appellee,\n    <br/>\n    v.\n    <br/>\n    $454,280 IN U.S. CURRENCY, More or Less and Other Seized Property, Defendant,\n   </parties>\n   <docketnumber id=\"p-2\">\n    (Robert Henderson), Appellant.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    No. 118,231\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-5\">\n    Opinion filed October 12, 2018.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Reversed. Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

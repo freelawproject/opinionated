@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"731\" lastpage=\"731\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF the MENTAL COMMITMENT OF J.W.K.:</parties>\n<docketnumber id=\"p-2\">Portage County, Petitioner-Respondent,<br/> v.<br/> J.W.K., Respondent-Appellant.</docketnumber>\n<docketnumber id=\"p-3\">Appeal No. 2017AP2429</docketnumber>\n<court id=\"p-4\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-5\">April 26, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"731\" lastpage=\"731\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF the MENTAL COMMITMENT OF J.W.K.:\n   </parties>\n   <parties id=\"p-2\">\n    Portage County, Petitioner-Respondent,\n    <br/>\n    v.\n    <br/>\n    J.W.K., Respondent-Appellant.\n   </parties>\n   <docketnumber id=\"p-3\">\n    Appeal No. 2017AP2429\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Wisconsin.\n   </court>\n   <decisiondate id=\"p-5\">\n    April 26, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

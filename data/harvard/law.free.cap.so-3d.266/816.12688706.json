@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"816\" lastpage=\"816\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">CALIPER SYSTEMS, INC., Appellant/Cross-Appellee,<br/> v.<br/> DEPARTMENT OF TRANSPORTATION, Appellee<br/> and<br/> PTV America, Inc., Appellee/Cross-Appellant.</parties>\n<docketnumber id=\"p-2\">No. 1D18-2452</docketnumber>\n<court id=\"p-3\">District Court of Appeal of Florida, First District.</court>\n<decisiondate id=\"p-4\">February 21, 2019<br/> Rehearing Denied March 25, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"816\" lastpage=\"816\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    CALIPER SYSTEMS, INC., Appellant/Cross-Appellee,\n    <br/>\n    v.\n    <br/>\n    DEPARTMENT OF TRANSPORTATION, Appellee\n    <br/>\n    and\n    <br/>\n    PTV America, Inc., Appellee/Cross-Appellant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 1D18-2452\n   </docketnumber>\n   <court id=\"p-3\">\n    District Court of Appeal of Florida, First District.\n   </court>\n   <decisiondate id=\"p-4\">\n    February 21, 2019\n    <br/>\n    Rehearing Denied March 25, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"578\" lastpage=\"578\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<docketnumber id=\"p-2\">NO. 2018-BA-0882</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">June 21, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-1\">IN RE: COMMITTEE ON BAR ADMISSIONS CFN-17816</p><p id=\"p-5\">Denied. See Supreme Court Rule XVII, \u00a7 4(C). Any fees previously paid by applicant to take the February 2018 bar exam may be applied to a subsequent application. See Supreme Court Rule XVII, Appendix A.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"578\" lastpage=\"578\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <docketnumber id=\"p-2\">\n    NO. 2018-BA-0882\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    June 21, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-1\">\n     IN RE: COMMITTEE ON BAR ADMISSIONS CFN-17816\n    </p>\n    <p id=\"p-5\">\n     Denied. See Supreme Court Rule XVII, \u00a7 4(C). Any fees previously paid by applicant to take the February 2018 bar exam may be applied to a subsequent application. See Supreme Court Rule XVII, Appendix A.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

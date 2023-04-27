@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"341\" lastpage=\"341\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate id=\"b357-9\">June 20, 1963</decisiondate>\n<docketnumber id=\"b357-10\">No. 67852.</docketnumber>\n<docketnumber id=\"ARS\">Appeal 5112.</docketnumber>\n<parties id=\"Ai4F\">The Durst Mfg. Co., Inc. <em>v. </em>United States.</parties>\n<p id=\"Aa2Z\">C.D. 2332 reversed April 25, 1963. C.A.D. 820.</p>\n<opinion><p>No opinion found. <a href=\"https://cite.case.law/pdf/6626024/Durst%20Mfg.%20Co.%2C%20Inc.%20v.%20United%20States.pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"341\" lastpage=\"341\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b357-9\">June 20, 1963</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b357-10\">No. 67852.</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ARS\">Appeal 5112.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ai4F\">The Durst Mfg. Co., Inc. <em>v. </em>United States.</parties>\n<p data-order=\"4\" data-type=\"disposition\" id=\"Aa2Z\">C.D. 2332 reversed April 25, 1963. C.A.D. 820.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\"><p>No opinion found. <a href=\"https://cite.case.law/pdf/6626024/Durst%20Mfg.%20Co.%2C%20Inc.%20v.%20United%20States.pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"99\" lastpage=\"99\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">VBENX CORPORATION &amp; others<br/> v.<br/> J. Brent FINNEGAN &amp; others</parties>\n<court id=\"p-2\">Supreme Judicial Court of Massachusetts.</court>\n<decisiondate id=\"p-3\">June 6, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">Appellate review denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"99\" lastpage=\"99\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    VBENX CORPORATION &amp; others\n    <br/>\n    v.\n    <br/>\n    J. Brent FINNEGAN &amp; others\n   </parties>\n   <court id=\"p-2\">\n    Supreme Judicial Court of Massachusetts.\n   </court>\n   <decisiondate id=\"p-3\">\n    June 6, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Appellate review denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1210\" lastpage=\"1210\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Steven C. WHITE, Appellant/Petitioner(s),<br/> v.<br/> Grady C. JUDD, Sheriff of Polk County, Appellee/Respondent(s).</parties>\n<docketnumber id=\"p-2\">CASE NO.: 2D19-0818</docketnumber>\n<court id=\"p-3\">District Court of Appeal of Florida, Second District.</court>\n<decisiondate id=\"p-4\">March 11, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">FLORIDA DECISIONS WITHOUT PUBLISHED OPINIONS</p><p id=\"p-6\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1210\" lastpage=\"1210\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Steven C. WHITE, Appellant/Petitioner(s),\n    <br/>\n    v.\n    <br/>\n    Grady C. JUDD, Sheriff of Polk County, Appellee/Respondent(s).\n   </parties>\n   <docketnumber id=\"p-2\">\n    CASE NO.: 2D19-0818\n   </docketnumber>\n   <court id=\"p-3\">\n    District Court of Appeal of Florida, Second District.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 11, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     FLORIDA DECISIONS WITHOUT PUBLISHED OPINIONS\n    </p>\n    <p id=\"p-6\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

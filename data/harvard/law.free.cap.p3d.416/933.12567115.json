@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of Hawai'i, Plaintiff-Appellant,<br/> v.<br/> James WELDON, also known as James William Weldon, Defendant-Appellee</parties>\n<docketnumber id=\"p-2\">NO. CAAP-14-0001042</docketnumber>\n<court id=\"p-3\">Intermediate Court of Appeals of Hawai'i.</court>\n<decisiondate id=\"p-4\">April 25, 2018</decisiondate>\n<p id=\"p-5\"><strong>MEMORANDUM OPINION</strong></p>\n\n<opinion type=\"majority\"><p id=\"p-6\">Vacate. Remand.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Hawai'i, Plaintiff-Appellant,\n    <br/>\n    v.\n    <br/>\n    James WELDON, also known as James William Weldon, Defendant-Appellee\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. CAAP-14-0001042\n   </docketnumber>\n   <court id=\"p-3\">\n    Intermediate Court of Appeals of Hawai'i.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 25, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    <strong>\n     MEMORANDUM OPINION\n    </strong>\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Vacate. Remand.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1261\" lastpage=\"1261\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">GMAC MTGE., L.L.C.<br/> v.<br/> GIULIANO</parties>\n<docketnumber id=\"p-2\">2018-1165</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">October 24, 2018</decisiondate>\n<p id=\"p-5\">CASE ANNOUNCEMENTS</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">APPEALS NOT ACCEPTED FOR REVIEW</p><p id=\"p-7\">French, J., dissents and would accept the appeal on proposition of law No. I.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1261\" lastpage=\"1261\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    GMAC MTGE., L.L.C.\n    <br/>\n    v.\n    <br/>\n    GIULIANO\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-1165\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    October 24, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     APPEALS NOT ACCEPTED FOR REVIEW\n    </p>\n    <p id=\"p-7\">\n     French, J., dissents and would accept the appeal on proposition of law No. I.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

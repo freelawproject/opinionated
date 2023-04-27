@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"813\" lastpage=\"813\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">NEVADA COMMISSION ON ETHICS, Appellant/Cross-Respondent,<br/> v.<br/> Paul D. MCKENZIE, Councilmember, Ward 4, City of Reno, State of Nevada, Respondent/Cross-Appellant.</parties>\n<docketnumber id=\"p-2\">No. 73105</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED JULY 18, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Vacate. Remand.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"813\" lastpage=\"813\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    NEVADA COMMISSION ON ETHICS, Appellant/Cross-Respondent,\n    <br/>\n    v.\n    <br/>\n    Paul D. MCKENZIE, Councilmember, Ward 4, City of Reno, State of Nevada, Respondent/Cross-Appellant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 73105\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED JULY 18, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Vacate. Remand.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

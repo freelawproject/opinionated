@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"289\" lastpage=\"289\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">NORTHSIDE ELEVATOR, INC., Plaintiff-Appellant,<br/> v.<br/> Jeffrey Alan OSSMANN, Defendant,</parties>\n<docketnumber id=\"p-2\">Bremer Bank, N.A., Defendant-Respondent.</docketnumber>\n<docketnumber id=\"p-3\">Appeal No. 2018AP1596</docketnumber>\n<court id=\"p-4\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-5\">DATED AND FILED May 30, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Order affirmed.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"289\" lastpage=\"289\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    NORTHSIDE ELEVATOR, INC., Plaintiff-Appellant,\n    <br/>\n    v.\n    <br/>\n    Jeffrey Alan OSSMANN, Defendant,\n   </parties>\n   <docketnumber id=\"p-2\">\n    Bremer Bank, N.A., Defendant-Respondent.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    Appeal No. 2018AP1596\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Wisconsin.\n   </court>\n   <decisiondate id=\"p-5\">\n    DATED AND FILED May 30, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Order affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

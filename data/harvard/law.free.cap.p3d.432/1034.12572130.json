@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1034\" lastpage=\"1034\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Michael MUNOZ and Amy Munoz, Plaintiffs and Appellants,<br/> v.<br/> BANK OF AMERICA, N.A., Wells Fargo N.A., and its Subsidiary Wells Fargo Home Mortgage, Defendants and Appellees.</parties>\n<docketnumber id=\"p-2\">DA 18-0018</docketnumber>\n<court id=\"p-3\">Supreme Court of Montana.</court>\n<decisiondate id=\"p-4\">Submitted on Briefs: December 12, 2018<br/> Decided: January 15, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1034\" lastpage=\"1034\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Michael MUNOZ and Amy Munoz, Plaintiffs and Appellants,\n    <br/>\n    v.\n    <br/>\n    BANK OF AMERICA, N.A., Wells Fargo N.A., and its Subsidiary Wells Fargo Home Mortgage, Defendants and Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    DA 18-0018\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Montana.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted on Briefs: December 12, 2018\n    <br/>\n    Decided: January 15, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

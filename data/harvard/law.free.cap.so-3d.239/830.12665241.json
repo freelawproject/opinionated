@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"830\" lastpage=\"830\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of Louisiana<br/> v.<br/> Brandon GRAY</parties>\n<docketnumber id=\"p-2\">NO. 2018-KH-0250</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">April 16, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Writ not considered. Untimely filed pursuant to Louisiana Supreme Court Rule X \u00a7 5.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"830\" lastpage=\"830\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Louisiana\n    <br/>\n    v.\n    <br/>\n    Brandon GRAY\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2018-KH-0250\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 16, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Writ not considered. Untimely filed pursuant to Louisiana Supreme Court Rule X \u00a7 5.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Claire AMELIO and Antonio Amelio, Plaintiffs,<br/> v.<br/> REAL ESTATE BY DESIGN, LLC, Home by Design, LLC, Lisa Lynn Ellis, Colleen Bennett Ellis, Stephen Gregory Ellis, Defendants.</parties>\n<docketnumber id=\"p-2\">No. COA17-724</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: June 19, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">DISMISSED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Claire AMELIO and Antonio Amelio, Plaintiffs,\n    <br/>\n    v.\n    <br/>\n    REAL ESTATE BY DESIGN, LLC, Home by Design, LLC, Lisa Lynn Ellis, Colleen Bennett Ellis, Stephen Gregory Ellis, Defendants.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA17-724\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: June 19, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

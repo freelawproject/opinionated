@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"713\" lastpage=\"713\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">INTEREST OF K.F.</parties>\n<docketnumber id=\"p-2\">Interest of B.F.</docketnumber>\n<docketnumber id=\"p-3\">28527<br/> 28528</docketnumber>\n<court id=\"p-4\">Supreme Court of South Dakota.</court>\n<decisiondate id=\"p-5\">December 20, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed (Gusnisky).</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"713\" lastpage=\"713\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    INTEREST OF K.F.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Interest of B.F.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    28527\n    <br/>\n    28528\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of South Dakota.\n   </court>\n   <decisiondate id=\"p-5\">\n    December 20, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed (Gusnisky).\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

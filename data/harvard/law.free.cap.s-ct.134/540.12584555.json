@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"540\" lastpage=\"540\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Horace CAMPBELL, aka Squeak, aka Horry, petitioner,<br/> v.<br/> UNITED STATES.</parties>\n<docketnumber id=\"p-2\">No. 13-6618.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Nov. 4, 2013.</decisiondate>\n<p id=\"p-5\">Case below, 531 Fed.Appx. ----.</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"540\" lastpage=\"540\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Horace CAMPBELL, aka Squeak, aka Horry, petitioner,\n    <br/>\n    v.\n    <br/>\n    UNITED STATES.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 13-6618.\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of the United States\n   </court>\n   <decisiondate id=\"p-4\">\n    Nov. 4, 2013.\n   </decisiondate>\n   <history id=\"p-5\">\n    Case below, 531 Fed.Appx. ----.\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

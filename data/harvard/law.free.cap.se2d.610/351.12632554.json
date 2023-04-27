@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"351\" lastpage=\"351\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">BYRD v. BYRD</parties>\n<docketnumber id=\"p-2\">No. S04F2127</docketnumber>\n<court id=\"p-3\">Supreme Court of Georgia.</court>\n<decisiondate id=\"p-4\">March 7, 2005.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Judgment affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"351\" lastpage=\"351\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    BYRD v. BYRD\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. S04F2127\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Georgia.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 7, 2005.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Judgment affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

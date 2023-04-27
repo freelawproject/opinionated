@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"979\" lastpage=\"979\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Dongli Xia TRAYWICK<br/> v.<br/> STATE</parties>\n<docketnumber id=\"p-2\">CR-15-1113</docketnumber>\n<court id=\"p-3\">Court of Criminal Appeals of Alabama.</court>\n\n\n<opinion type=\"majority\"><p id=\"p-4\">April 21, 2017<br/> Reh. denied May 26, 2017</p><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"979\" lastpage=\"979\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Dongli Xia TRAYWICK\n    <br/>\n    v.\n    <br/>\n    STATE\n   </parties>\n   <docketnumber id=\"p-2\">\n    CR-15-1113\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Criminal Appeals of Alabama.\n   </court>\n   <decisiondate type=\"majority\">\n    <p id=\"p-4\">\n     April 21, 2017\n     <br/>\n     Reh. denied May 26, 2017\n    </p>\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </decisiondate>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

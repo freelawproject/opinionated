@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"431\" lastpage=\"431\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">21ST MORTGAGE CORPORATION, as Master Servicer for Christiana Trust, a Division of Wilmington Savings Fund Society, FSB as Trustee for Knoxville 2012 Trust<br/> v.<br/> DIETZ et al. and Preim</parties>\n<docketnumber id=\"p-2\">A165032</docketnumber>\n<court id=\"p-3\">Court of Appeals of Oregon.</court>\n<decisiondate id=\"p-4\">June 6, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"431\" lastpage=\"431\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    21ST MORTGAGE CORPORATION, as Master Servicer for Christiana Trust, a Division of Wilmington Savings Fund Society, FSB as Trustee for Knoxville 2012 Trust\n    <br/>\n    v.\n    <br/>\n    DIETZ et al. and Preim\n   </parties>\n   <docketnumber id=\"p-2\">\n    A165032\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Oregon.\n   </court>\n   <decisiondate id=\"p-4\">\n    June 6, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

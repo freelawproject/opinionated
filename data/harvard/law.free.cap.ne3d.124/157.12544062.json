@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"157\" lastpage=\"157\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">COMMONWEALTH<br/> v.<br/> Gerard E. FRANCIS.</parties>\n<docketnumber id=\"p-2\">18-P-379</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n<decisiondate id=\"p-4\">Entered: March 1, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Order allowing motion to suppress affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"157\" lastpage=\"157\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    COMMONWEALTH\n    <br/>\n    v.\n    <br/>\n    Gerard E. FRANCIS.\n   </parties>\n   <docketnumber id=\"p-2\">\n    18-P-379\n   </docketnumber>\n   <court id=\"p-3\">\n    Appeals Court of Massachusetts.\n   </court>\n   <decisiondate id=\"p-4\">\n    Entered: March 1, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Order allowing motion to suppress affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"164\" lastpage=\"164\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE<br/> v.<br/> Laymon Quendell PRICE</parties>\n<docketnumber id=\"p-2\">2017AP2349</docketnumber>\n<court id=\"p-3\">Supreme Court of Wisconsin.</court>\n<decisiondate id=\"p-4\">December 11, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition to Bypass Court of Appeals Denied</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"164\" lastpage=\"164\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE\n    <br/>\n    v.\n    <br/>\n    Laymon Quendell PRICE\n   </parties>\n   <docketnumber id=\"p-2\">\n    2017AP2349\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    December 11, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Petition to Bypass Court of Appeals Denied\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

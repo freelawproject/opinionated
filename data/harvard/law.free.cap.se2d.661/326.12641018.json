@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"326\" lastpage=\"326\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">HERMAN<br/> v.<br/> HERMAN.</parties>\n<docketnumber id=\"p-2\">No. COA07-1081.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed May 6, 2008.</decisiondate>\n<decisiondate id=\"p-5\">Certification Date May 27, 2008.</decisiondate>\n<history id=\"p-6\">Appeal from Catawba (05CVD2885).</history>\n\n<opinion type=\"majority\"><p id=\"p-7\">Case reported without published opinion. Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"326\" lastpage=\"326\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    HERMAN\n    <br/>\n    v.\n    <br/>\n    HERMAN.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA07-1081.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed May 6, 2008.\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date May 27, 2008.\n   </decisiondate>\n   <history id=\"p-6\">\n    Appeal from Catawba (05CVD2885).\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     Case reported without published opinion. Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

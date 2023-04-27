@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"643\" lastpage=\"643\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Lisa BIGGS, Individually and as Administrator, Estate of Kelwin Biggs, Plaintiffs,<br/> v.<br/> Daryl BROOKS, Nathaniel Brooks, Sr., Kyle Ollis, Individually, and Boulevard Pre-Owned, Inc., Defendants.</parties>\n<docketnumber id=\"p-2\">No. COA18-192</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: October 2, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">DISMISSED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"643\" lastpage=\"643\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Lisa BIGGS, Individually and as Administrator, Estate of Kelwin Biggs, Plaintiffs,\n    <br/>\n    v.\n    <br/>\n    Daryl BROOKS, Nathaniel Brooks, Sr., Kyle Ollis, Individually, and Boulevard Pre-Owned, Inc., Defendants.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA18-192\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: October 2, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

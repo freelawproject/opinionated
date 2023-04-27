@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"868\" lastpage=\"868\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b930-11\">No. 143,</docketnumber>\n\n<parties id=\"ADc7\">Maloyan <em>v. </em>United States Congress.</parties>\n<decisiondate id=\"A0f\">June 16, 1947.</decisiondate>\n<opinion><p id=\"A7Fo\">Misc.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"868\" lastpage=\"868\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b930-11\">No. 143,</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ADc7\">Maloyan <em>v. </em>United States Congress.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A0f\">June 16, 1947.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A7Fo\">Misc.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

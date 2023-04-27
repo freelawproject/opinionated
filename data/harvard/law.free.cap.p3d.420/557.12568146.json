@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"557\" lastpage=\"557\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">JPMORGAN CHASE BANK, N.A., a National Association ; and Mortgage Electronic Registration Systems, Inc., a foreign corporation, Appellants,<br/> v.<br/> EAGLE INVESTORS, a Nevada corporation, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 73470</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED JUNE 15, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">VACATED. REMAND.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"557\" lastpage=\"557\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    JPMORGAN CHASE BANK, N.A., a National Association ; and Mortgage Electronic Registration Systems, Inc., a foreign corporation, Appellants,\n    <br/>\n    v.\n    <br/>\n    EAGLE INVESTORS, a Nevada corporation, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 73470\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED JUNE 15, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     VACATED. REMAND.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

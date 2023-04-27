@@ -1,5 +1,9 @@
 {
   "court": {
     "name": "Supreme Court of South Carolina"
+  },
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"605\" lastpage=\"605\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the MATTER OF J. Marcus WHITLARK, Petitioner\n </parties>\n <docketnumber id=\"p-2\">\n  Appellate Case No. 2018-002129\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of South Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  December 19, 2018\n </decisiondate>\n <p id=\"p-5\">\n  ORDER\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On March 14, 2018, Petitioner was suspended from the practice of law for a period of six months. He has now filed an\n   affidavit requesting reinstatement pursuant to Rule 32, of the Rules for Lawyers Disciplinary Enforcement contained in Rule 413, SCACR.\n  </p>\n  <p id=\"p-7\">\n   The request is granted and he is hereby reinstated to the practice of law in this state.\n  </p>\n </opinion>\n</casebody>\n"
   }
 }

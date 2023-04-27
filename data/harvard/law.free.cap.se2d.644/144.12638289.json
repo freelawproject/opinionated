@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"144\" lastpage=\"144\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">LOCKE v. U.S. CAPITAL CORP.</parties>\n<docketnumber id=\"p-2\">No. S07A0240.</docketnumber>\n<court id=\"p-3\">Supreme Court of Georgia.</court>\n<decisiondate id=\"p-4\">April 24, 2007.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Judgment affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"144\" lastpage=\"144\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    LOCKE v. U.S. CAPITAL CORP.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. S07A0240.\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Georgia.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 24, 2007.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Judgment affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

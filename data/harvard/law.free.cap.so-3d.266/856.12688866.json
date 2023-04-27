@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"856\" lastpage=\"856\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Kenneth D. ARY, Appellant,<br/> v.<br/> Sabrina D. ARY, Appellee.</parties>\n<docketnumber id=\"p-2\">Case No. 5D18-878</docketnumber>\n<court id=\"p-3\">District Court of Appeal of Florida, Fifth District.</court>\n<decisiondate id=\"p-4\">Decision filed April 2, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"856\" lastpage=\"856\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Kenneth D. ARY, Appellant,\n    <br/>\n    v.\n    <br/>\n    Sabrina D. ARY, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Case No. 5D18-878\n   </docketnumber>\n   <court id=\"p-3\">\n    District Court of Appeal of Florida, Fifth District.\n   </court>\n   <decisiondate id=\"p-4\">\n    Decision filed April 2, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

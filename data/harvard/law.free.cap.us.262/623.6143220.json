@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"623\" lastpage=\"624\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b673-6\">COMMONWEALTH OF PENNSYLVANIA <em>v. </em>STATE OF WEST VIRGINIA. STATE OF OHIO <em>v. </em>STATE OF WEST VIRGINIA.</parties>\n<docketnumber id=\"b673-9\">Nos. 15 and 16,</docketnumber>\n\n<decisiondate id=\"AK5B\">Decree entered June 11, 1923.</decisiondate>\n<opinion><p id=\"AOj\">Original.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"623\" lastpage=\"624\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b673-6\">COMMONWEALTH OF PENNSYLVANIA <em>v. </em>STATE OF WEST VIRGINIA. STATE OF OHIO <em>v. </em>STATE OF WEST VIRGINIA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b673-9\">Nos. 15 and 16,</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AK5B\">Decree entered June 11, 1923.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AOj\">Original.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

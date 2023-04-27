@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"604\" lastpage=\"604\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF the Parental Rights as to C.W.D.W., a minor.</parties>\n<docketnumber id=\"p-2\">Lahtijera V. Howard, Appellant,<br/> v.<br/> State of Nevada Department of Family Services, Respondent.</docketnumber>\n<docketnumber id=\"p-3\">No. 73901</docketnumber>\n<court id=\"p-4\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-5\">FILED SEPTEMBER 28, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"604\" lastpage=\"604\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF the Parental Rights as to C.W.D.W., a minor.\n   </parties>\n   <parties id=\"p-2\">\n    Lahtijera V. Howard, Appellant,\n    <br/>\n    v.\n    <br/>\n    State of Nevada Department of Family Services, Respondent.\n   </parties>\n   <docketnumber id=\"p-3\">\n    No. 73901\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-5\">\n    FILED SEPTEMBER 28, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

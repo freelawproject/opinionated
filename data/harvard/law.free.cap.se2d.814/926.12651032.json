@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"926\" lastpage=\"926\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Susan Norcia GIUSTO, Plaintiff,<br/> v.<br/> ROBERTSON VENTURES, INC. d/b/a Servpro of Raleigh NE &amp; North Durham, and Erie Insurance Exchange, Defendants.</parties>\n<docketnumber id=\"p-2\">No. COA17-1205</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: June 19, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">DISMISSED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"926\" lastpage=\"926\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Susan Norcia GIUSTO, Plaintiff,\n    <br/>\n    v.\n    <br/>\n    ROBERTSON VENTURES, INC. d/b/a Servpro of Raleigh NE &amp; North Durham, and Erie Insurance Exchange, Defendants.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA17-1205\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: June 19, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

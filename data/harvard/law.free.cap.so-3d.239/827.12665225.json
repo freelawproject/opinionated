@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"827\" lastpage=\"827\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Martin E. REGAN, Jr.<br/> v.<br/> Assistant Attorney General, James David CALDWELL, Jr., and the Attorney General James D. \"Buddy\" Caldwell, and the office of the Attorney General, State of Louisiana</parties>\n<docketnumber id=\"p-2\">NO. 2017-C-0963</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">April 6, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"827\" lastpage=\"827\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Martin E. REGAN, Jr.\n    <br/>\n    v.\n    <br/>\n    Assistant Attorney General, James David CALDWELL, Jr., and the Attorney General James D. \"Buddy\" Caldwell, and the office of the Attorney General, State of Louisiana\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2017-C-0963\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 6, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

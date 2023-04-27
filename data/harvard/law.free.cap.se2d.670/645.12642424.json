@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"645\" lastpage=\"645\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE C.S.J.</parties>\n<docketnumber id=\"p-2\">No. COA08-631.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed November 4, 2008.</decisiondate>\n<decisiondate id=\"p-5\">Certification Date November 24, 2008.</decisiondate>\n<history id=\"p-6\">Appeal from Nash (06JA124, 06JA125, 06JA126, 06JA127).</history>\n\n<opinion type=\"majority\"><p id=\"p-7\">Case reported without published opinion. Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"645\" lastpage=\"645\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE C.S.J.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA08-631.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed November 4, 2008.\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date November 24, 2008.\n   </decisiondate>\n   <history id=\"p-6\">\n    Appeal from Nash (06JA124, 06JA125, 06JA126, 06JA127).\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     Case reported without published opinion. Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

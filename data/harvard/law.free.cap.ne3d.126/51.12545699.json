@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"51\" lastpage=\"51\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Hubert WILLIAMS, Appellant-Petitioner,<br/> v.<br/> Mark SEVIER and State of Indiana, Appellees-Respondents.</parties>\n<docketnumber id=\"p-2\">Court of Appeals Case No. 18A-MI-1905</docketnumber>\n<court id=\"p-3\">Court of Appeals of Indiana.</court>\n<decisiondate id=\"p-4\">FILED May 10, 2019</decisiondate>\n<p id=\"p-5\"><strong><em>Unpublished Memorandum Decision</em></strong></p>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"51\" lastpage=\"51\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Hubert WILLIAMS, Appellant-Petitioner,\n    <br/>\n    v.\n    <br/>\n    Mark SEVIER and State of Indiana, Appellees-Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Court of Appeals Case No. 18A-MI-1905\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Indiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED May 10, 2019\n   </decisiondate>\n   <p id=\"p-5\">\n    <strong>\n     <em>\n      Unpublished Memorandum Decision\n     </em>\n    </strong>\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

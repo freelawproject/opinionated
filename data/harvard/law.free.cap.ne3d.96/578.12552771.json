@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"578\" lastpage=\"578\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Jason ELLIS, Appellant<br/> v.<br/> KEYSTONE CONSTRUCTION CORPORATION</parties>\n<court id=\"p-2\">Supreme Court of Indiana.</court>\n<decisiondate id=\"p-3\">February 19, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">Transfer denied. Rush, C.J., Slaughter, and Goff, JJ., vote to deny transfer. Massa, J., did not participate in the decision of this matter. David, J., dissents from the denial of transfer with separate opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"578\" lastpage=\"578\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Jason ELLIS, Appellant\n    <br/>\n    v.\n    <br/>\n    KEYSTONE CONSTRUCTION CORPORATION\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Indiana.\n   </court>\n   <decisiondate id=\"p-3\">\n    February 19, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Transfer denied. Rush, C.J., Slaughter, and Goff, JJ., vote to deny transfer. Massa, J., did not participate in the decision of this matter. David, J., dissents from the denial of transfer with separate opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

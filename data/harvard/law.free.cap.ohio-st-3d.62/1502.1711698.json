@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1502\" lastpage=\"1502\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b866-4\">91-2407.</docketnumber>\n<parties id=\"Axr_\">State v. Carpenter.</parties>\n\n<judges id=\"b866-5\">Sweeney, Douglas and H. Brown, JJ., dissent.</judges>\n<opinion><p id=\"AyvG\"><em>Coshocton County, </em>No. 91-CA-19. On motion for leave to file memorandum in support instanter. Motion denied.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"1502\" lastpage=\"1502\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b866-4\">91-2407.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Axr_\">State v. Carpenter.</parties>\n<judges data-order=\"2\" data-type=\"judges\" id=\"b866-5\">Sweeney, Douglas and H. Brown, JJ., dissent.</judges>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AyvG\"><em>Coshocton County, </em>No. 91-CA-19. On motion for leave to file memorandum in support instanter. Motion denied.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

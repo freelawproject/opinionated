@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"16\" lastpage=\"16\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE EX REL. DEMATTEO<br/> v.<br/> STATE TEACHERS RETIREMENT SYS.</parties>\n<docketnumber id=\"p-2\">2018-1531</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">November 5, 2018</decisiondate>\n<p id=\"p-5\">CASE ANNOUNCEMENTS</p>\n<p id=\"p-6\">MEDIATION MATTERS</p>\n\n<opinion type=\"majority\"><p id=\"p-7\">The following case has been referred to mediation under S.Ct.Prac.R. 19.01.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"16\" lastpage=\"16\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE EX REL. DEMATTEO\n    <br/>\n    v.\n    <br/>\n    STATE TEACHERS RETIREMENT SYS.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-1531\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    November 5, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <p id=\"p-6\">\n    MEDIATION MATTERS\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     The following case has been referred to mediation under S.Ct.Prac.R. 19.01.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

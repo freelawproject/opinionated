@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "33 Ct. Cl. 501"
-        },
-        {
-            "type": "parallel",
-            "cite": "29 C. Cls. R. 62"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 Ct. Cl. 501"
+    },
+    {
+      "type": "parallel",
+      "cite": "29 C. Cls. R. 62"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"501\" lastpage=\"501\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b593-5\">JAMES S. VALK, Survivor, Etc., v. THE UNITED STATES AND THE ROGUE RIVER INDIANS.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b593-6\">[29 C. Cls. R., 62.</citation>\n<p data-order=\"2\" data-type=\"p\" id=\"Apo\">Not reported in U. S. R.]</p>\n<syllabus data-order=\"3\" data-type=\"syllabus\" id=\"b593-7\">\n<em>On the claimant\u2019s Appeal.</em>\n</syllabus>\n<syllabus data-order=\"4\" data-type=\"syllabus\" id=\"b593-8\">The facts show that the claimants at the time the depredations were committed were subjects of the King of Hanover, and entitled by. the treaty 1847 to <em>\u201cfree aceess to the tribunals of justice in their litigious affairs on the same terms which are granted by the laxo and usages of the country to the native citizens.\u2019\u2019</em></syllabus>\n<syllabus data-order=\"5\" data-type=\"syllabus\" id=\"b593-9\">The court below decides:</syllabus>\n<syllabus data-order=\"6\" data-type=\"syllabus\" id=\"b593-10\">1. In the Indian depredation act, 1891, citizenship and amity relate to the same time. Hostile Indians were not to be made liable for past deprodations by subsequently becoming <em>\u201cin amity,\u201d </em>nor wore aliens to acquire new rights by subsequently becoming citizens.</syllabus>\n<syllabus data-order=\"7\" data-type=\"syllabus\" id=\"b593-12\">2.- The omission of the term <em>\u201cinhabitants,\u201d </em>used in qn-evious acts relating to Indian depredations, was regarded as significant by the Interior Department; and its construction of the act 1885 was adopted by Congress in the act 1891. .</syllabus>\n<syllabus data-order=\"8\" data-type=\"syllabus\" id=\"b593-14\">3. A declaration to become a citizen did not make an alien a citizen within the intent of the act of 1891.</syllabus>\n<syllabus data-order=\"9\" data-type=\"syllabus\" id=\"b593-16\">4. The treaty with Hanover 1847 refers only to ordinary litigation, and does not extend to the subsequent right of litigation against the Government.</syllabus>\n<syllabus data-order=\"10\" data-type=\"syllabus\" id=\"b593-18\">5. A treaty provision assuring to aliens <em>\u201cfree access to the tribunals of justice\u201d </em>does not prevent this Government from giving subsequently special rights of action to its own citizens against itself to the exclusion of aliens.</syllabus>\n<syllabus data-order=\"11\" data-type=\"syllabus\" id=\"b593-20\">6. A treaty is evidence of amity, in connection with other facts and circumstances, but is not conclusive.</syllabus>\n<syllabus data-order=\"12\" data-type=\"syllabus\" id=\"b593-22\">7. War supersedes treaties, and makes the subjects of contending sover-eignties enemies in law.</syllabus>\n<syllabus data-order=\"13\" data-type=\"syllabus\" id=\"b593-24\"><em>8. </em>The Indian depredation act was framed in accordance with the general policy of all governments, not to pay for property destroyed in war.</syllabus>\n<decisiondate data-order=\"14\" data-type=\"decisiondate\" id=\"AHS\">October 18, 1897,</decisiondate>\n<opinion data-order=\"15\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b593-26\">The decision of the court below is affirmed</p>\n<p id=\"A0F\">without an opinion being rendered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

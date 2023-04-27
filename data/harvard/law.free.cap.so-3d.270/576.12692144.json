@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"576\" lastpage=\"577\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SUCCESSION OF Frank ANDERSON, Jr.</parties>\n<docketnumber id=\"p-2\">NO. 2019-C-0445</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">May 6, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"577\" href=\"#p577\" id=\"p577\">*577</a>Not Considered. Not timely filed. See La.S.Ct.R. X, \u00a7 5(a).</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"576\" lastpage=\"577\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    SUCCESSION OF Frank ANDERSON, Jr.\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2019-C-0445\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    May 6, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Not Considered. Not timely filed. See La.S.Ct.R. X, \u00a7 5(a).\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b911-9\">No. 33,</docketnumber>\n\n<parties id=\"A5xI\">Stephens, Administrator, <em>v. </em>United States.</parties>\n<decisiondate id=\"ASsy\">November 12, 1946.</decisiondate>\n<opinion><p id=\"A5bT\">Misc.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b911-9\">No. 33,</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A5xI\">Stephens, Administrator, <em>v. </em>United States.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ASsy\">November 12, 1946.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A5bT\">Misc.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

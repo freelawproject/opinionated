@@ -1,5 +1,9 @@
 {
   "court": {
     "name": "Supreme Court of South Carolina"
+  },
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"419\" lastpage=\"419\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the MATTER OF Daniel Edward JOHNSON, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  Appellate Case No. 2018-001711\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of South Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  September 24, 2018\n </decisiondate>\n <p id=\"p-5\">\n  ORDER\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Respondent was indicted by a Federal Grand Jury on twenty-six counts of wire fraud, mail fraud, conspiracy, and theft of federal funds. In addition, respondent was indicted by\n   a State Grand Jury on three counts of misconduct in office and embezzlement of public funds. The Office of Disciplinary Counsel asks this Court to place respondent on interim suspension pursuant to Rule 17(b) of the Rules for Lawyer Disciplinary Enforcement (RLDE) contained in Rule 413 of the South Carolina Appellate Court Rules (SCACR). Respondent acknowledges his federal and state indictments and consents to an interim suspension.\n  </p>\n  <p id=\"p-7\">\n   IT IS ORDERED that respondent's license to practice law in this state is suspended until further order of this Court.\n  </p>\n  <p id=\"p-8\">\n   <em>\n    /s/ Donald W. Beatty\n   </em>\n   , C. J.\n  </p>\n  <p id=\"p-9\">\n   FOR THE COURT\n  </p>\n </opinion>\n</casebody>\n"
   }
 }

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"513\" lastpage=\"513\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Glendale STEWART<br/> v.<br/> Richard F. RICE</parties>\n<docketnumber id=\"p-2\">2018AP434</docketnumber>\n<court id=\"p-3\">Supreme Court of Wisconsin.</court>\n<decisiondate id=\"p-4\">May 16, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>PETITION FOR REVIEW DISMISSED</strong></p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"513\" lastpage=\"513\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Glendale STEWART\n    <br/>\n    v.\n    <br/>\n    Richard F. RICE\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018AP434\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    May 16, 2018\n   </decisiondate>\n   <p type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      PETITION FOR REVIEW DISMISSED\n     </strong>\n    </p>\n   </p>\n  </casebody>\n </body>\n</html>\n"
   }
 }

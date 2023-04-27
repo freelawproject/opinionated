@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"915\" lastpage=\"916\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE<br/> v.<br/> COTTEN</parties>\n<docketnumber id=\"p-2\">2019-0520</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">June 26, 2019</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"916\" href=\"#p916\" id=\"p916\">*916</a>CASE ANNOUNCEMENTS</p><p id=\"p-6\">APPEALS NOT ACCEPTED FOR REVIEW</p><p id=\"p-7\">Appellant's request for leave denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"915\" lastpage=\"916\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE\n    <br/>\n    v.\n    <br/>\n    COTTEN\n   </parties>\n   <docketnumber id=\"p-2\">\n    2019-0520\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    June 26, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     CASE ANNOUNCEMENTS\n    </p>\n    <p id=\"p-6\">\n     APPEALS NOT ACCEPTED FOR REVIEW\n    </p>\n    <p id=\"p-7\">\n     Appellant's request for leave denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1031\" lastpage=\"1031\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the INTERESTS OF H.E. and E.E., Minor Children.</parties>\n<docketnumber id=\"p-2\">120,107<br/> 120,108</docketnumber>\n<court id=\"p-3\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-4\">Opinion filed April 5, 2019.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1031\" lastpage=\"1031\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the INTERESTS OF H.E. and E.E., Minor Children.\n   </parties>\n   <docketnumber id=\"p-2\">\n    120,107\n    <br/>\n    120,108\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed April 5, 2019.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

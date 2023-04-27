@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"342\" lastpage=\"342\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of North Carolina<br/> v.<br/> David Malcolm SYDNOR</parties>\n<docketnumber id=\"p-2\">No. COA18-589</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: May 21, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">NO ERROR.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"342\" lastpage=\"342\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of North Carolina\n    <br/>\n    v.\n    <br/>\n    David Malcolm SYDNOR\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA18-589\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: May 21, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     NO ERROR.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

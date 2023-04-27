@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"991\" lastpage=\"991\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Daniel L. MOORE and Marie Moore<br/> v.<br/> CITY OF WESTLAKE</parties>\n<docketnumber id=\"p-2\">Philmer Johnson, Jr. and Paula Johnson<br/> v.<br/> City of Westlake</docketnumber>\n<docketnumber id=\"p-3\">NO. 2018-CC-1478</docketnumber>\n<court id=\"p-4\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-5\">November 20, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"991\" lastpage=\"991\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Daniel L. MOORE and Marie Moore\n    <br/>\n    v.\n    <br/>\n    CITY OF WESTLAKE\n   </parties>\n   <parties id=\"p-2\">\n    Philmer Johnson, Jr. and Paula Johnson\n    <br/>\n    v.\n    <br/>\n    City of Westlake\n   </parties>\n   <docketnumber id=\"p-3\">\n    NO. 2018-CC-1478\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-5\">\n    November 20, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

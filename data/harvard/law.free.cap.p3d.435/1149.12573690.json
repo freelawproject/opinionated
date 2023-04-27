@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1149\" lastpage=\"1149\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of Kansas, Appellee,<br/> v.<br/> Terrance Isaiah SIMS, Appellant.</parties>\n<docketnumber id=\"p-2\">No. 114,959</docketnumber>\n<court id=\"p-3\">Supreme Court of Kansas.</court>\n<decisiondate id=\"p-4\">Opinion filed March 8, 2019.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Remand.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1149\" lastpage=\"1149\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Kansas, Appellee,\n    <br/>\n    v.\n    <br/>\n    Terrance Isaiah SIMS, Appellant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 114,959\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed March 8, 2019.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Remand.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

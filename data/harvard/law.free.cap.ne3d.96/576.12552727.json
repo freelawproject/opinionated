@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"576\" lastpage=\"576\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">T.H., Appellee<br/> v.<br/> STATE of Indiana</parties>\n<court id=\"p-2\">Supreme Court of Indiana.</court>\n<decisiondate id=\"p-3\">February 8, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">Transfer granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"576\" lastpage=\"576\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    T.H., Appellee\n    <br/>\n    v.\n    <br/>\n    STATE of Indiana\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Indiana.\n   </court>\n   <decisiondate id=\"p-3\">\n    February 8, 2018\n   </decisiondate>\n   <disposition type=\"majority\">\n    <p id=\"p-4\">\n     Transfer granted.\n    </p>\n   </disposition>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

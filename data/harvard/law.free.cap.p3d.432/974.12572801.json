@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"974\" lastpage=\"974\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of Hawai'i, Plaintiff-Appellee,<br/> v.<br/> William E. BARRIOS, Defendant-Appellant</parties>\n<docketnumber id=\"p-2\">NO. CAAP-17-0000564</docketnumber>\n<court id=\"p-3\">Intermediate Court of Appeals of Hawai'i.</court>\n<decisiondate id=\"p-4\">January 15, 2019.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>SUMMARY DISPOSITION ORDER</strong></p><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"974\" lastpage=\"974\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Hawai'i, Plaintiff-Appellee,\n    <br/>\n    v.\n    <br/>\n    William E. BARRIOS, Defendant-Appellant\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. CAAP-17-0000564\n   </docketnumber>\n   <court id=\"p-3\">\n    Intermediate Court of Appeals of Hawai'i.\n   </court>\n   <decisiondate id=\"p-4\">\n    January 15, 2019.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      SUMMARY DISPOSITION ORDER\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

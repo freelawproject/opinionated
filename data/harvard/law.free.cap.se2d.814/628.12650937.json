@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"628\" lastpage=\"628\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">ROUND BOYS, LLC, Petitioner,<br/> v.<br/> VILLAGE OF SUGAR MOUNTAIN, North Carolina, Respondent,<br/> and<br/> Sugar Mountain Ski Resort, LLC, Intervenor.</parties>\n<docketnumber id=\"p-2\">No. COA17-515</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: June 5, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"628\" lastpage=\"628\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    ROUND BOYS, LLC, Petitioner,\n    <br/>\n    v.\n    <br/>\n    VILLAGE OF SUGAR MOUNTAIN, North Carolina, Respondent,\n    <br/>\n    and\n    <br/>\n    Sugar Mountain Ski Resort, LLC, Intervenor.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA17-515\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: June 5, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

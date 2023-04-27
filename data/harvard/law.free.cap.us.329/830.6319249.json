@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"830\" lastpage=\"830\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b916-3\">No. 57,</docketnumber>\n\n<parties id=\"AqzH\">Ex parte Fletcher.</parties>\n<decisiondate id=\"A-pN\">December 9, 1946.</decisiondate>\n\n<opinion><p id=\"AWqdA\">Misc.</p><p id=\"A6-4\">The Chief Justice and Mr. Justice Rutledge took no part in the consideration or decision of this application.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"830\" lastpage=\"830\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b916-3\">No. 57,</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AqzH\">Ex parte Fletcher.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-pN\">December 9, 1946.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AWqdA\">Misc.</p><p id=\"A6-4\">The Chief Justice and Mr. Justice Rutledge took no part in the consideration or decision of this application.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

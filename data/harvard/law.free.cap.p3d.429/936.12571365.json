@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"936\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">LAS VEGAS DEVELOPMENT GROUP, LLC, Appellant,<br/> v.<br/> WELLS FARGO BANK, N.A., AS TRUSTEE on Behalf OF the HOLDERS OF THE HARBORVIEW MORTGAGE LOAN TRUST Mortgage Loan Pass-Through Certificates, Series 2006-12, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 75090</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED NOVEMBER 08, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"936\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    LAS VEGAS DEVELOPMENT GROUP, LLC, Appellant,\n    <br/>\n    v.\n    <br/>\n    WELLS FARGO BANK, N.A., AS TRUSTEE on Behalf OF the HOLDERS OF THE HARBORVIEW MORTGAGE LOAN TRUST Mortgage Loan Pass-Through Certificates, Series 2006-12, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 75090\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED NOVEMBER 08, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

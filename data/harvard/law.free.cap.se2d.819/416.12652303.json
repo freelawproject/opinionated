@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"416\" lastpage=\"416\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of North Carolina<br/> v.<br/> Daniel BARKER, Defendant.</parties>\n<docketnumber id=\"p-2\">No. COA18-178</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: October 16, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">NO ERROR.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"416\" lastpage=\"416\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of North Carolina\n    <br/>\n    v.\n    <br/>\n    Daniel BARKER, Defendant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA18-178\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: October 16, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     NO ERROR.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

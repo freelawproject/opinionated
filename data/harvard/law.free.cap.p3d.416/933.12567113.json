@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">GW, Appellant-Appellant,<br/> v.<br/> CHILD SUPPORT ENFORCEMENT AGENCY, State of Hawai'i, and CK, Appellees-Appellees</parties>\n<docketnumber id=\"p-2\">NO. CAAP-17-0000368</docketnumber>\n<court id=\"p-3\">Intermediate Court of Appeals of Hawai'i.</court>\n<decisiondate id=\"p-4\">April 27, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>SUMMARY DISPOSITION ORDER</strong></p><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    GW, Appellant-Appellant,\n    <br/>\n    v.\n    <br/>\n    CHILD SUPPORT ENFORCEMENT AGENCY, State of Hawai'i, and CK, Appellees-Appellees\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. CAAP-17-0000368\n   </docketnumber>\n   <court id=\"p-3\">\n    Intermediate Court of Appeals of Hawai'i.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 27, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      SUMMARY DISPOSITION ORDER\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

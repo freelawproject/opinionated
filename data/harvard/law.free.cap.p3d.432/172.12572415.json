@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"172\" lastpage=\"172\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SFR INVESTMENTS POOL 1, LLC, a Nevada Limited Liability Company; and Southern Highlands Community Association, Appellants,<br/> v.<br/> WELLS FARGO BANK, N.A., Respondent.</parties>\n<docketnumber id=\"p-2\">No. 70471</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED DECEMBER 13, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">REVERSED. REMAND.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"172\" lastpage=\"172\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    SFR INVESTMENTS POOL 1, LLC, a Nevada Limited Liability Company; and Southern Highlands Community Association, Appellants,\n    <br/>\n    v.\n    <br/>\n    WELLS FARGO BANK, N.A., Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 70471\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED DECEMBER 13, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     REVERSED. REMAND.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

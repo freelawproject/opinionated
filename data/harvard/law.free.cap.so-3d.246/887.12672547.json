@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"887\" lastpage=\"887\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Dalton Ray STEWART<br/> v.<br/> DYNAMIC ENVIRONMENTAL SERVICES, LLC</parties>\n<docketnumber id=\"p-2\">2017-CT-00467-COA</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: May 21, 2018<br/> Closed: June 21, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Certiorari - Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"887\" lastpage=\"887\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Dalton Ray STEWART\n    <br/>\n    v.\n    <br/>\n    DYNAMIC ENVIRONMENTAL SERVICES, LLC\n   </parties>\n   <docketnumber id=\"p-2\">\n    2017-CT-00467-COA\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: May 21, 2018\n    <br/>\n    Closed: June 21, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Certiorari - Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1057\" lastpage=\"1057\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Brandy STUTZMAN, Appellant,<br/> v.<br/> The STATE of Nevada, Respondent.</parties>\n<docketnumber id=\"p-2\">Brandy Stutzman, Appellant,<br/> v.<br/> The State of Nevada, Respondent.</docketnumber>\n<docketnumber id=\"p-3\">No. 73112<br/> No. 75054</docketnumber>\n<court id=\"p-4\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-5\">FILED MARCH 29, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1057\" lastpage=\"1057\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Brandy STUTZMAN, Appellant,\n    <br/>\n    v.\n    <br/>\n    The STATE of Nevada, Respondent.\n   </parties>\n   <parties id=\"p-2\">\n    Brandy Stutzman, Appellant,\n    <br/>\n    v.\n    <br/>\n    The State of Nevada, Respondent.\n   </parties>\n   <docketnumber id=\"p-3\">\n    No. 73112\n    <br/>\n    No. 75054\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-5\">\n    FILED MARCH 29, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

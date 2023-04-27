@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "154 Fla. 178"
-        },
-        {
-            "type": "parallel",
-            "cite": "17 So. (2nd) 125"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "154 Fla. 178"
+    },
+    {
+      "type": "parallel",
+      "cite": "17 So. (2nd) 125"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"178\" lastpage=\"179\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b202-9\">WALKER FERTILIZER COMPANY, a corporation, v. C. V. GRIFFIN, VAUGHN-GRIFFIN PACKING COMPANY, a Florida corporation, and HOWEY-IN-THE-HILLS SERVICE, INC., a corporation.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b202-10\">17 So .(2nd) 125</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aaa1\">January Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b202-11\">February 15, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A9S\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b202-13\">P. <em>G. Gorman </em>and <em>Claude L. Gray, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AHV\"><em>Maguire, Voorhis &amp; Well's, R. F. Maguire, W. H. Poe </em>and <em>G. E. Duncan, </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b203-4\"><page-number citation-index=\"1\" label=\"179\">*179</page-number>PER CURIAM:</author>\n<p id=\"b203-5\">Judgment affirmed.</p>\n<judges id=\"b203-6\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

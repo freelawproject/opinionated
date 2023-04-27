@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1270\" lastpage=\"1270\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY<br/> v.<br/> Stacy SMITH</parties>\n<docketnumber id=\"p-2\">2016-CT-00112-SCT</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: January 2, 2018<br/> Closed: March 22, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Certiorari - Granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1270\" lastpage=\"1270\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY\n    <br/>\n    v.\n    <br/>\n    Stacy SMITH\n   </parties>\n   <docketnumber id=\"p-2\">\n    2016-CT-00112-SCT\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: January 2, 2018\n    <br/>\n    Closed: March 22, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Certiorari - Granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

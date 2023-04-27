@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"181\" lastpage=\"181\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">James Earnest WATTS<br/> v.<br/> STATE of Mississippi</parties>\n<docketnumber id=\"p-2\">2018-CT-00225-COA</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: December 27, 2018<br/> Closed: March 7, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Motion Desc: Writ of Certiorari.</p><p id=\"p-6\">Certiorari - Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"181\" lastpage=\"181\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    James Earnest WATTS\n    <br/>\n    v.\n    <br/>\n    STATE of Mississippi\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-CT-00225-COA\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: December 27, 2018\n    <br/>\n    Closed: March 7, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Motion Desc: Writ of Certiorari.\n    </p>\n    <p id=\"p-6\">\n     Certiorari - Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<?xml version='1.0' encoding='utf-8'?><html><body><casebody firstpage=\"156\" lastpage=\"156\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">ALFA LAVAL U.S. HOLDING, INC.<br/> v.<br/> BLUE SAGE CAPITAL, L.P.</parties>\n<court id=\"p-2\">Court of Appeals of New York.</court>\n<decisiondate id=\"p-3\">Decided May 9, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">1st Dept: <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=168%20A.D.3d%20645\">168 AD3d 645</extracted-citation> denied</p></opinion>\n</casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<html>\n <body>\n  <casebody firstpage=\"156\" lastpage=\"156\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    ALFA LAVAL U.S. HOLDING, INC.\n    <br/>\n    v.\n    <br/>\n    BLUE SAGE CAPITAL, L.P.\n   </parties>\n   <court id=\"p-2\">\n    Court of Appeals of New York.\n   </court>\n   <decisiondate id=\"p-3\">\n    Decided May 9, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     1st Dept:\n     <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=168%20A.D.3d%20645\">\n      168 AD3d 645\n     </extracted-citation>\n     denied\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

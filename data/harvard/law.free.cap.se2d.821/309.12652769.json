@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"309\" lastpage=\"309\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Rozina WADHWANIA, M.D., Plaintiff,<br/> v.<br/> WAKE FOREST UNIVERSITY BAPTIST MEDICAL CENTER, Defendant.</parties>\n<docketnumber id=\"p-2\">No. COA18-252</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: November 20, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"309\" lastpage=\"309\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Rozina WADHWANIA, M.D., Plaintiff,\n    <br/>\n    v.\n    <br/>\n    WAKE FOREST UNIVERSITY BAPTIST MEDICAL CENTER, Defendant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA18-252\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: November 20, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

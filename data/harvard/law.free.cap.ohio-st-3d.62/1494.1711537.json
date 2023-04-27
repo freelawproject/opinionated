@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1494\" lastpage=\"1494\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<parties id=\"AChR\">State v. LaPoint.</parties>\n\n<judges id=\"b858-34\">Resnick, J., not participating.</judges>\n<opinion><p id=\"b858-33\">91-1814.</p><p id=\"AGuR\"><em>Lucas County, </em>No. L-89-362. On motion for leave to file memorandum in support instanter. Motion granted.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"1494\" lastpage=\"1494\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AChR\">State v. LaPoint.</parties>\n<judges data-order=\"1\" data-type=\"judges\" id=\"b858-34\">Resnick, J., not participating.</judges>\n<opinion data-order=\"2\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b858-33\">91-1814.</p><p id=\"AGuR\"><em>Lucas County, </em>No. L-89-362. On motion for leave to file memorandum in support instanter. Motion granted.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

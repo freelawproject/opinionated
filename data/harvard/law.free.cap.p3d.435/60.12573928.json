@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"60\" lastpage=\"60\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of Kansas, Appellee,<br/> v.<br/> Adam J. BIBLE, Appellant.</parties>\n<docketnumber id=\"p-2\">119,905<br/> 119,906<br/> 119,907</docketnumber>\n<court id=\"p-3\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-4\">Opinion filed February 22, 2019.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Submitted by the parties for summary disposition pursuant to K.S.A. 2018 Supp. 21-6820(g) and (h).</p><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"60\" lastpage=\"60\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Kansas, Appellee,\n    <br/>\n    v.\n    <br/>\n    Adam J. BIBLE, Appellant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    119,905\n    <br/>\n    119,906\n    <br/>\n    119,907\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed February 22, 2019.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Submitted by the parties for summary disposition pursuant to K.S.A. 2018 Supp. 21-6820(g) and (h).\n    </p>\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

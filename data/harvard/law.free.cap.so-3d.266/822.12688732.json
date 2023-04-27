@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"822\" lastpage=\"822\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Steven Frederick FISHEL, Appellant,<br/> v.<br/> PUBLIX SUPERMARKETS and Publix Risk Management, Appellees.</parties>\n<docketnumber id=\"p-2\">No. 1D18-3427</docketnumber>\n<court id=\"p-3\">District Court of Appeal of Florida, First District.</court>\n<decisiondate id=\"p-4\">March 25, 2019</decisiondate>\n<decisiondate id=\"p-5\">Date of Accident: May 22, 2017.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"822\" lastpage=\"822\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Steven Frederick FISHEL, Appellant,\n    <br/>\n    v.\n    <br/>\n    PUBLIX SUPERMARKETS and Publix Risk Management, Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 1D18-3427\n   </docketnumber>\n   <court id=\"p-3\">\n    District Court of Appeal of Florida, First District.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 25, 2019\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Date of Accident: May 22, 2017.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

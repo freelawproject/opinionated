@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"176\" lastpage=\"176\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Debra K. SANDS<br/> v.<br/> John R. MENARD, Jr.</parties>\n<docketnumber id=\"p-2\">2012AP2377, 2015AP870</docketnumber>\n<court id=\"p-3\">Supreme Court of Wisconsin.</court>\n<decisiondate id=\"p-4\">February 21, 2018</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>MOTION FOR RECONIDERATION</strong></p><p id=\"p-6\">Denied.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"176\" lastpage=\"176\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Debra K. SANDS\n    <br/>\n    v.\n    <br/>\n    John R. MENARD, Jr.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2012AP2377, 2015AP870\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    February 21, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      MOTION FOR RECONIDERATION\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

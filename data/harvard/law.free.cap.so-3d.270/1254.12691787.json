@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1254\" lastpage=\"1254\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Dustin Glen YOUNGBLOOD, Appellant,<br/> v.<br/> STATE of Florida, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 4D18-2859</docketnumber>\n<court id=\"p-3\">District Court of Appeal of Florida, Fourth District.</court>\n<decisiondate id=\"p-4\">[May 2, 2019]</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>FLORIDA DECISION WITHOUT PUBLISHED OPINION.</strong></p><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1254\" lastpage=\"1254\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Dustin Glen YOUNGBLOOD, Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Florida, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 4D18-2859\n   </docketnumber>\n   <court id=\"p-3\">\n    District Court of Appeal of Florida, Fourth District.\n   </court>\n   <decisiondate id=\"p-4\">\n    [May 2, 2019]\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      FLORIDA DECISION WITHOUT PUBLISHED OPINION.\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

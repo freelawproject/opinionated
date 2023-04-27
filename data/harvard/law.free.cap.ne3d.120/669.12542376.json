@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"669\" lastpage=\"669\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Shannon RICHARD, Appellant-Defendant,<br/> v.<br/> Vernon ROBINSON, Appellee-Plaintiff.</parties>\n<docketnumber id=\"p-2\">Court of Appeals Case No. 18A-SC-719</docketnumber>\n<court id=\"p-3\">Court of Appeals of Indiana.</court>\n<decisiondate id=\"p-4\">FILED January 8, 2019</decisiondate>\n<p id=\"p-5\"><strong>Unpublished Memorandum Decision</strong></p>\n\n<opinion type=\"majority\"><p id=\"p-6\">Reversed. Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"669\" lastpage=\"669\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Shannon RICHARD, Appellant-Defendant,\n    <br/>\n    v.\n    <br/>\n    Vernon ROBINSON, Appellee-Plaintiff.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Court of Appeals Case No. 18A-SC-719\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Indiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED January 8, 2019\n   </decisiondate>\n   <p id=\"p-5\">\n    <strong>\n     Unpublished Memorandum Decision\n    </strong>\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Reversed. Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

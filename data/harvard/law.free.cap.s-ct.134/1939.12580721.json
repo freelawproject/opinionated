@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1939\" lastpage=\"1940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">James Lee MARTIN, petitioner,<br/> v.<br/> MARYLAND STATE BOARD OF LAW EXAMINERS.</parties>\n<docketnumber id=\"p-2\">No. 13-973.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">April 28, 2014.</decisiondate>\n\n<p id=\"p-6\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"1940\" href=\"#p1940\" id=\"p1940\">*1940</a></p>\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition for writ of certiorari to the Court of Appeals of Maryland denied.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1939\" lastpage=\"1940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    James Lee MARTIN, petitioner,\n    <br/>\n    v.\n    <br/>\n    MARYLAND STATE BOARD OF LAW EXAMINERS.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 13-973.\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of the United States\n   </court>\n   <decisiondate id=\"p-4\">\n    April 28, 2014.\n   </decisiondate>\n   <p id=\"p-6\">\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Petition for writ of certiorari to the Court of Appeals of Maryland denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

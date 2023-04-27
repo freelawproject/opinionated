@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "33 Ct. Cl. 514"
-        },
-        {
-            "type": "parallel",
-            "cite": "31 C. Cls. R. 90"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 Ct. Cl. 514"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 C. Cls. R. 90"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"514\" lastpage=\"514\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b606-4\">THE TIDE WATER OIL COMPANY v. THE UNITED STATES.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b606-6\">[31 C. <em>Cls. </em>R., <em>90;</em></citation>\n<p data-order=\"2\" data-type=\"citation\" id=\"Amy\"><em>171 </em>U. <em>S. </em>R.]</p>\n<syllabus data-order=\"3\" data-type=\"attorneys\" id=\"b606-7\">\n<em>On the claimants\u2019 Appeal.</em>\n</syllabus>\n<syllabus data-order=\"4\" data-type=\"legal\" id=\"b606-8\">The claimants import box shooks manufactured in Canada. They come in bundles, planed, and of the required lengths and widths, <em>needing </em>only to be nailed together and trimmed, when defective in length or width, to make a box. The claimants export the boxes and demand a drawback.</syllabus>\n<syllabus data-order=\"5\" data-type=\"syllabus\" id=\"b606-9\">The court below decides:</syllabus>\n<syllabus data-order=\"6\" data-type=\"syllabus\" id=\"b606-10\">1. The Revised Statutes (\u00a7 3019) allow a drawback on <em>\u201call articles wholly manufactured of materials imported, on which duties have been paid.\u201d </em>Boxes made of shooks manufactured in Canada, planed, and of the requisite length and width, so that nothing remains to be done except nail the shooks together and trim the boxes where the shooks are defective in length or width, are not a domestic manufacture within the intent of the statute.</syllabus>\n<syllabus data-order=\"7\" data-type=\"syllabus\" id=\"b606-12\">2. The intent of the statute is that the manufacture be within the United States; that the exported article shall not have been partially manufactured elsewhere.</syllabus>\n<syllabus data-order=\"8\" data-type=\"syllabus\" id=\"b606-14\">3. The mere fastening together of imported material which was designed and shaped for that specific use abroad does not constitute a manufacture.</syllabus>\n<syllabus data-order=\"9\" data-type=\"syllabus\" id=\"b606-16\">4. Material is matter intended to be used in the creation of a mechanical structure. Manufacture is a transformation of the material used into a new and different article.</syllabus>\n<syllabus data-order=\"10\" data-type=\"syllabus\" id=\"b606-18\">5. The purpose of the statute was not to increase revenue or encourage \u2022 an exjjort trade, but to foster domestic manufactures.</syllabus>\n<syllabus data-order=\"11\" data-type=\"syllabus\" id=\"b606-20\">6. Shooks are classed by the Revised Statutes (\u00a72502) with casks, barrels, and packing boxes, and are dutiable at the same rate. If imported as boxes, the rate of duty would have been the same.</syllabus>\n<syllabus data-order=\"12\" data-type=\"syllabus\" id=\"b606-22\">7. Such a statutory classification indicates that shooks were regarded by Congress as a finished or manufactured material.</syllabus>\n<summary data-order=\"13\" data-type=\"summary\" id=\"b606-24\">The decision of the court below is affirmed on the same grounds.</summary>\n<decisiondate data-order=\"14\" data-type=\"decisiondate\" id=\"A14\">May 31, 1898.</decisiondate>\n<opinion data-order=\"15\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b606-25\">Mr. Justice JBrown</author>\n<p id=\"AKh\">delivered the opinion of the Supreme Court</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

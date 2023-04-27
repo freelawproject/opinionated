@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">COMMONWEALTH<br/> v.<br/> Soterios G. SCARMEAS.</parties>\n<docketnumber id=\"p-2\">18-P-1174</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n\n\n<opinion type=\"majority\"><p id=\"p-4\">Entered: May 21, 2019</p><p id=\"p-5\">Judgment affirmed.</p></opinion>\n</casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    COMMONWEALTH\n    <br/>\n    v.\n    <br/>\n    Soterios G. SCARMEAS.\n   </parties>\n   <docketnumber id=\"p-2\">\n    18-P-1174\n   </docketnumber>\n   <court id=\"p-3\">\n    Appeals Court of Massachusetts.\n   </court>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Entered: May 21, 2019\n    </p>\n    <p id=\"p-5\">\n     Judgment affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

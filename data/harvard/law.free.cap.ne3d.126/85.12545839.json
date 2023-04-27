@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"85\" lastpage=\"85\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<court id=\"p-2\">Supreme Judicial Court of Massachusetts.</court>\n<decisiondate id=\"p-3\">June 6, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-1\">ADOPTION OF ULRICH (and four companion cases)</p><p id=\"p-4\">Appellate review denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"85\" lastpage=\"85\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <court id=\"p-2\">\n    Supreme Judicial Court of Massachusetts.\n   </court>\n   <decisiondate id=\"p-3\">\n    June 6, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-1\">\n     ADOPTION OF ULRICH (and four companion cases)\n    </p>\n    <p id=\"p-4\">\n     Appellate review denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

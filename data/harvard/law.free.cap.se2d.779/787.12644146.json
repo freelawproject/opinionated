@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"787\" lastpage=\"787\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Thomas David BOST, Plaintiff,<br/> v.<br/> Gale Ann Christiana HELLER f/k/a Gale Ann Christiana Bost, Defendant.</parties>\n<docketnumber id=\"p-2\">No. COA15-362.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Oct. 20, 2015.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>Case Reported Without Published Opinion</strong></p><p id=\"p-6\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"787\" lastpage=\"787\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Thomas David BOST, Plaintiff,\n    <br/>\n    v.\n    <br/>\n    Gale Ann Christiana HELLER f/k/a Gale Ann Christiana Bost, Defendant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA15-362.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Oct. 20, 2015.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      Case Reported Without Published Opinion\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

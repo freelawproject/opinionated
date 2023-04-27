@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"778\" lastpage=\"778\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">CORE CASHLESS, LLC, Appellant,<br/> v.<br/> KANSAS DEPARTMENT OF LABOR, Appellee.</parties>\n<docketnumber id=\"p-2\">118,141<br/> 118,142</docketnumber>\n<court id=\"p-3\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-4\">Opinion filed July 6, 2018.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"778\" lastpage=\"778\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    CORE CASHLESS, LLC, Appellant,\n    <br/>\n    v.\n    <br/>\n    KANSAS DEPARTMENT OF LABOR, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    118,141\n    <br/>\n    118,142\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed July 6, 2018.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

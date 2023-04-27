@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1504\" lastpage=\"1504\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"A9I6\">95-2675.</docketnumber>\n<parties id=\"A-94\">Brooks. v. Brooks.</parties>\n\n\n<judges id=\"AuDz\">Moyer, C.J., and Wright, J., dissent.</judges>\n<opinion><p id=\"AHIt\"><em>Franklin County, </em>No. 95APF03-381. On motion for stay of</p><p id=\"AQqkv\">execution. Motion denied.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"1504\" lastpage=\"1504\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"A9I6\">95-2675.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A-94\">Brooks. v. Brooks.</parties>\n<judges data-order=\"2\" data-type=\"judges\" id=\"AuDz\">Moyer, C.J., and Wright, J., dissent.</judges>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AHIt\"><em>Franklin County, </em>No. 95APF03-381. On motion for stay of</p><p id=\"AQqkv\">execution. Motion denied.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

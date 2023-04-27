@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1058\" lastpage=\"1058\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<docketnumber id=\"p-2\">State<br/> v.<br/> M. R. M., Sr.</docketnumber>\n<docketnumber id=\"p-3\">A168126</docketnumber>\n<court id=\"p-4\">Court of Appeals of Oregon.</court>\n<decisiondate id=\"p-5\">April 3, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-1\">In the MATTER OF M. R. M., Sr., a Person Alleged to have Mental Illness.</p><p id=\"p-6\">Affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1058\" lastpage=\"1058\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-2\">\n    State\n    <br/>\n    v.\n    <br/>\n    M. R. M., Sr.\n   </parties>\n   <docketnumber id=\"p-3\">\n    A168126\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Oregon.\n   </court>\n   <decisiondate id=\"p-5\">\n    April 3, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-1\">\n     In the MATTER OF M. R. M., Sr., a Person Alleged to have Mental Illness.\n    </p>\n    <p id=\"p-6\">\n     Affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

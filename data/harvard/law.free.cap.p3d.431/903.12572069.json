@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Jennifer VANDONSEL-SANTOYO, Appellee,<br/> v.<br/> Juan VASQUEZ and Refugia Garcia, Appellants.</parties>\n<docketnumber id=\"p-2\">No. 118,990</docketnumber>\n<court id=\"p-3\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-4\">Opinion filed December 14, 2018.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Reversed. Remanded with directions.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Jennifer VANDONSEL-SANTOYO, Appellee,\n    <br/>\n    v.\n    <br/>\n    Juan VASQUEZ and Refugia Garcia, Appellants.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 118,990\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed December 14, 2018.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Reversed. Remanded with directions.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

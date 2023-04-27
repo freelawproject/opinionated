@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"263\" lastpage=\"263\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MATHEWSON<br/> v.<br/> MCTIGHE</parties>\n<docketnumber id=\"p-2\">OP 18-0222</docketnumber>\n<court id=\"p-3\">Supreme Court of Montana.</court>\n<decisiondate id=\"p-4\">May 15, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Decision without opinion or without extended opinion Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"263\" lastpage=\"263\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MATHEWSON\n    <br/>\n    v.\n    <br/>\n    MCTIGHE\n   </parties>\n   <docketnumber id=\"p-2\">\n    OP 18-0222\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Montana.\n   </court>\n   <decisiondate id=\"p-4\">\n    May 15, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Decision without opinion or without extended opinion Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

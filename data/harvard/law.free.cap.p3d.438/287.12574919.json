@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"287\" lastpage=\"287\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Devon FINNEY, Petitioner-Appellant,<br/> v.<br/> STATE of Hawai'i, Respondent-Appellee</parties>\n<docketnumber id=\"p-2\">NO. CAAP-17-0000344</docketnumber>\n<court id=\"p-3\">Intermediate Court of Appeals of Hawai'i.</court>\n<decisiondate id=\"p-4\">April 10, 2019.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong><em>SUMMARY DISPOSITION ORDER</em></strong></p><p id=\"p-6\">Vacate. Affirm. Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"287\" lastpage=\"287\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Devon FINNEY, Petitioner-Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Hawai'i, Respondent-Appellee\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. CAAP-17-0000344\n   </docketnumber>\n   <court id=\"p-3\">\n    Intermediate Court of Appeals of Hawai'i.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 10, 2019.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      <em>\n       SUMMARY DISPOSITION ORDER\n      </em>\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Vacate. Affirm. Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

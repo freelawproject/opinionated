@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1111\" lastpage=\"1111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the Matter of the Compensation of Lickteig, Daniel, Claimant.</parties>\n<docketnumber id=\"p-2\">LICKTEIG<br/> v.<br/> CITY OF GRESHAM</docketnumber>\n<docketnumber id=\"p-3\">A163009</docketnumber>\n<court id=\"p-4\">Court of Appeals of Oregon.</court>\n<decisiondate id=\"p-5\">April 11, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1111\" lastpage=\"1111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the Matter of the Compensation of Lickteig, Daniel, Claimant.\n   </parties>\n   <parties id=\"p-2\">\n    LICKTEIG\n    <br/>\n    v.\n    <br/>\n    CITY OF GRESHAM\n   </parties>\n   <docketnumber id=\"p-3\">\n    A163009\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Oregon.\n   </court>\n   <decisiondate id=\"p-5\">\n    April 11, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

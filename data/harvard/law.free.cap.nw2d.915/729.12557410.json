@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"729\" lastpage=\"729\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MAPLE GROVE COUNTRY CLUB INCORPORATED, Plaintiff-Appellant,</parties>\n<docketnumber id=\"p-2\">County of La Crosse, Involuntary-Plaintiff,<br/> v.<br/> MAPLE GROVE ESTATES SANITARY DISTRICT, Defendant-Respondent.</docketnumber>\n<docketnumber id=\"p-3\">Appeal No. 2016AP2296</docketnumber>\n<court id=\"p-4\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-5\">DATED AND FILED April 19, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"729\" lastpage=\"729\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MAPLE GROVE COUNTRY CLUB INCORPORATED, Plaintiff-Appellant,\n   </parties>\n   <parties id=\"p-2\">\n    County of La Crosse, Involuntary-Plaintiff,\n    <br/>\n    v.\n    <br/>\n    MAPLE GROVE ESTATES SANITARY DISTRICT, Defendant-Respondent.\n   </parties>\n   <docketnumber id=\"p-3\">\n    Appeal No. 2016AP2296\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Wisconsin.\n   </court>\n   <decisiondate id=\"p-5\">\n    DATED AND FILED April 19, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1269\" lastpage=\"1269\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Ned B. CLARK, Jr.<br/> v.<br/> Charles MCCORKLE</parties>\n<docketnumber id=\"p-2\">2016-CT-00888-COA</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: May 25, 2018<br/> Closed: August 9, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Certiorari - Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1269\" lastpage=\"1269\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Ned B. CLARK, Jr.\n    <br/>\n    v.\n    <br/>\n    Charles MCCORKLE\n   </parties>\n   <docketnumber id=\"p-2\">\n    2016-CT-00888-COA\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: May 25, 2018\n    <br/>\n    Closed: August 9, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Certiorari - Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

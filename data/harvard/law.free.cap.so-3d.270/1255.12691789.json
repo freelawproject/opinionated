@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1255\" lastpage=\"1255\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Ronald L. KEENER, Jr., Appellant,<br/> v.<br/> STATE of Florida, Appellee.</parties>\n<docketnumber id=\"p-2\">Case No. 5D19-89</docketnumber>\n<court id=\"p-3\">District Court of Appeal of Florida, Fifth District.</court>\n\n\n\n<opinion type=\"majority\"><p id=\"p-4\">Decision filed April 9, 2019<br/> Rehearing Denied May 3, 2019</p><p id=\"p-5\"><strong>FLORIDA DECISION WITHOUT PUBLISHED OPINION.</strong></p><p id=\"p-6\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1255\" lastpage=\"1255\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Ronald L. KEENER, Jr., Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Florida, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Case No. 5D19-89\n   </docketnumber>\n   <court id=\"p-3\">\n    District Court of Appeal of Florida, Fifth District.\n   </court>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Decision filed April 9, 2019\n     <br/>\n     Rehearing Denied May 3, 2019\n    </p>\n    <p id=\"p-5\">\n     <strong>\n      FLORIDA DECISION WITHOUT PUBLISHED OPINION.\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

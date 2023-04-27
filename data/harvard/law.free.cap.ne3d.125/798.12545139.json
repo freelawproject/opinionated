@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"798\" lastpage=\"798\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Adaley SAEZ<br/> v.<br/> LIBERTY MUTUAL FIRE INSURANCE COMPANY.</parties>\n<docketnumber id=\"p-2\">18-P-549</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n\n\n<opinion type=\"majority\"><p id=\"p-4\">Entered: May 6, 2019</p><p id=\"p-5\">Judgment affirmed.</p></opinion>\n</casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"798\" lastpage=\"798\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Adaley SAEZ\n    <br/>\n    v.\n    <br/>\n    LIBERTY MUTUAL FIRE INSURANCE COMPANY.\n   </parties>\n   <docketnumber id=\"p-2\">\n    18-P-549\n   </docketnumber>\n   <court id=\"p-3\">\n    Appeals Court of Massachusetts.\n   </court>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Entered: May 6, 2019\n    </p>\n    <p id=\"p-5\">\n     Judgment affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

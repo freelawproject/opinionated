@@ -8,5 +8,9 @@
       "type": "parallel",
       "cite": "8 Misc. Rep. 307"
     }
-  ]
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"728\" lastpage=\"728\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<citation data-order=\"0\" data-type=\"citation\" id=\"b748-15\">(8 Misc. Rep 307.)</citation>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b748-16\">JOHNSON v. BARG.</parties>\n<court data-order=\"2\" data-type=\"court\" id=\"b748-17\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ApV\">May 17, 1894.)</decisiondate>\n<headnotes data-order=\"4\" data-type=\"headnotes\" id=\"b748-18\">Landlord and Tenant\u2014Rent\u2014Eviction of Tenant.</headnotes>\n<headnotes data-order=\"5\" data-type=\"headnotes\" id=\"b748-19\">Eviction of a tenant is no defense to an action for rent which was due at the time of eviction.</headnotes>\n<summary data-order=\"6\" data-type=\"history\" id=\"b748-20\">Appeal from trial term.</summary>\n<summary data-order=\"7\" data-type=\"summary\" id=\"b748-21\">Action by Augusta A. Johnson against John Barg for rent, under a letting from month to month; the rent payable in advance on the 1st of each month. There was a judgment in favor of defendant, and plaintiff appeals. Reversed.</summary>\n<p data-order=\"8\" data-type=\"judges\" id=\"b748-22\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, JJ.</p>\n<attorneys data-order=\"9\" data-type=\"attorneys\" id=\"b748-23\">A. B. Carrington, for appellant.</attorneys>\n<opinion data-order=\"10\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b748-24\">PER CURIAM.</author>\n<p id=\"AKM\">Assuming that an eviction on November 20th was proved, it constituted no defense to an action for rent payable on the 1st of that month. Giles v. Comstock, 4 N. Y. 270; O\u2019Brien v. Smith (Sup.) 13 N. Y. Supp. 408; Rice v. Bliss, 66 How. Pr. 189. The judgment must therefore be reversed, and a new trial ordered, with costs to the appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

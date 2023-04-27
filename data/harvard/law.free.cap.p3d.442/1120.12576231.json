@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1120\" lastpage=\"1120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MARKSTROM<br/> v.<br/> GUARD PUBLISHING COMPANY</parties>\n<docketnumber id=\"p-2\">A163317(S066470)</docketnumber>\n<court id=\"p-3\">Supreme Court of Oregon.</court>\n<decisiondate id=\"p-4\">May 23, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Review Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1120\" lastpage=\"1120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MARKSTROM\n    <br/>\n    v.\n    <br/>\n    GUARD PUBLISHING COMPANY\n   </parties>\n   <docketnumber id=\"p-2\">\n    A163317(S066470)\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Oregon.\n   </court>\n   <decisiondate id=\"p-4\">\n    May 23, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Review Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"83\" lastpage=\"83\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE S.M.S.</parties>\n<docketnumber id=\"p-2\">No. COA06-229</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina</court>\n<decisiondate id=\"p-4\">Filed April 17, 2007</decisiondate>\n<decisiondate id=\"p-5\">Certification Date May 7, 2007</decisiondate>\n<history id=\"p-6\">Appeal from Halifax (03J52).</history>\n\n<opinion type=\"majority\"><p id=\"p-7\">Cases reported without published opinion. Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"83\" lastpage=\"83\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE S.M.S.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA06-229\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed April 17, 2007\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date May 7, 2007\n   </decisiondate>\n   <history id=\"p-6\">\n    Appeal from Halifax (03J52).\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     Cases reported without published opinion. Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

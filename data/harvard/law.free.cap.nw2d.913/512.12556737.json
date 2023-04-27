@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"512\" lastpage=\"512\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE<br/> v.<br/> Lee CHANG</parties>\n<docketnumber id=\"p-2\">2016AP2451-CR</docketnumber>\n<court id=\"p-3\">Supreme Court of Wisconsin.</court>\n<decisiondate id=\"p-4\">May 8, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>PETITION FOR REVIEW DENIED</strong></p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"512\" lastpage=\"512\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE\n    <br/>\n    v.\n    <br/>\n    Lee CHANG\n   </parties>\n   <docketnumber id=\"p-2\">\n    2016AP2451-CR\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    May 8, 2018\n   </decisiondate>\n   <p type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      PETITION FOR REVIEW DENIED\n     </strong>\n    </p>\n   </p>\n  </casebody>\n </body>\n</html>\n"
   }
 }

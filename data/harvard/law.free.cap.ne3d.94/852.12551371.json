@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"852\" lastpage=\"852\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">COMMONWEALTH<br/> v.<br/> Danny M. JIMENEZ</parties>\n<court id=\"p-2\">Supreme Judicial Court of Massachusetts.</court>\n<decisiondate id=\"p-3\">November 30, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">Appellate review denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"852\" lastpage=\"852\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    COMMONWEALTH\n    <br/>\n    v.\n    <br/>\n    Danny M. JIMENEZ\n   </parties>\n   <court id=\"p-2\">\n    Supreme Judicial Court of Massachusetts.\n   </court>\n   <decisiondate id=\"p-3\">\n    November 30, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Appellate review denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

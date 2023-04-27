@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"808\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b874-8\">No. 1064,</docketnumber>\n<p id=\"AV4\">October Term, 1942.</p>\n<parties id=\"Abbx\">Prebyl <em>v. </em>Prudential Insurance Co. et al.</parties>\n<decisiondate id=\"AxG\">October 11, 1943.</decisiondate>\n\n<opinion><p id=\"AW1i\">Mr. Justice Roberts and Mr. Justice Douglas took no part in the consideration or decision of this application.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"808\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b874-8\">No. 1064,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AV4\">October Term, 1942.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Abbx\">Prebyl <em>v. </em>Prudential Insurance Co. et al.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AxG\">October 11, 1943.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AW1i\">Mr. Justice Roberts and Mr. Justice Douglas took no part in the consideration or decision of this application.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

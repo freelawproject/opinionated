@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"452\" lastpage=\"452\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">HARRISON INVESTMENTS, INC.<br/> v.<br/> SMITH and Smith</parties>\n<docketnumber id=\"p-2\">In the Matter of the Marriage of Smith and Smith</docketnumber>\n<docketnumber id=\"p-3\">A163353<br/> A163606</docketnumber>\n<court id=\"p-4\">Court of Appeals of Oregon.</court>\n<decisiondate id=\"p-5\">October 17, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"452\" lastpage=\"452\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    HARRISON INVESTMENTS, INC.\n    <br/>\n    v.\n    <br/>\n    SMITH and Smith\n   </parties>\n   <parties id=\"p-2\">\n    In the Matter of the Marriage of Smith and Smith\n   </parties>\n   <docketnumber id=\"p-3\">\n    A163353\n    <br/>\n    A163606\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Oregon.\n   </court>\n   <decisiondate id=\"p-5\">\n    October 17, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

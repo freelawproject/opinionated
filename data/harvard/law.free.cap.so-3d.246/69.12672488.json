@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"69\" lastpage=\"69\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Trevontae JOHNSON<br/> v.<br/> STATE of Mississippi</parties>\n<docketnumber id=\"p-2\">2015-CT-00235-COA</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: January 24, 2018<br/> Closed: May 3, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Motion Desc: Petition for Writ of Certiorari of Appellant Meekco Johnson.</p><p id=\"p-6\">Certiorari - Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"69\" lastpage=\"69\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Trevontae JOHNSON\n    <br/>\n    v.\n    <br/>\n    STATE of Mississippi\n   </parties>\n   <docketnumber id=\"p-2\">\n    2015-CT-00235-COA\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: January 24, 2018\n    <br/>\n    Closed: May 3, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Motion Desc: Petition for Writ of Certiorari of Appellant Meekco Johnson.\n    </p>\n    <p id=\"p-6\">\n     Certiorari - Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"115\" lastpage=\"116\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE IN the INTEREST OF Nicho'las P. JONES<br/> v.<br/> Dannye' C. JONES, Sr. Nicol P. Miller</parties>\n<docketnumber id=\"p-2\">No. 2018-CJ-1055</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">June 28, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"116\" href=\"#p116\" id=\"p116\">*116</a>Stay denied. Writ denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"115\" lastpage=\"116\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE IN the INTEREST OF Nicho'las P. JONES\n    <br/>\n    v.\n    <br/>\n    Dannye' C. JONES, Sr. Nicol P. Miller\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 2018-CJ-1055\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    June 28, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Stay denied. Writ denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

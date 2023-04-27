@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"299\" lastpage=\"299\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Spencer BERNARD<br/> v.<br/> GLENN LEGE CONSTRUCTION CO., INC., et al.</parties>\n<docketnumber id=\"p-2\">NO. 2019-CC-0342</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">April 22, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"299\" lastpage=\"299\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Spencer BERNARD\n    <br/>\n    v.\n    <br/>\n    GLENN LEGE CONSTRUCTION CO., INC., et al.\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2019-CC-0342\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 22, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

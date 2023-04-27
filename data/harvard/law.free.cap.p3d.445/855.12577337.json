@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"855\" lastpage=\"855\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">The STATE of Nevada, Petitioner,<br/> v.<br/> JUSTICE COURT, LAS VEGAS TOWNSHIP; and the Honorable Joseph S. Sciscento, Justice of the Peace, Respondents,<br/> and<br/> Michael Paglia, Real Party in Interest.</parties>\n<docketnumber id=\"p-2\">No. 79104</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED AUGUST 06, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">DENIED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"855\" lastpage=\"855\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    The STATE of Nevada, Petitioner,\n    <br/>\n    v.\n    <br/>\n    JUSTICE COURT, LAS VEGAS TOWNSHIP; and the Honorable Joseph S. Sciscento, Justice of the Peace, Respondents,\n    <br/>\n    and\n    <br/>\n    Michael Paglia, Real Party in Interest.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 79104\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED AUGUST 06, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     DENIED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

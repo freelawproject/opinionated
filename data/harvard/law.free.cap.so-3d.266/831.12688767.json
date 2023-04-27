@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"831\" lastpage=\"831\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Randall MCCOY, Petitioner,<br/> v.<br/> STATE of Florida, Respondent.</parties>\n<docketnumber id=\"p-2\">Case No. 2D18-3419</docketnumber>\n<court id=\"p-3\">District Court of Appeal of Florida, Second District.</court>\n<decisiondate id=\"p-4\">Opinion filed February 13, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"831\" lastpage=\"831\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Randall MCCOY, Petitioner,\n    <br/>\n    v.\n    <br/>\n    STATE of Florida, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Case No. 2D18-3419\n   </docketnumber>\n   <court id=\"p-3\">\n    District Court of Appeal of Florida, Second District.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed February 13, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

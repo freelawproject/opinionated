@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1529\" lastpage=\"1529\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"AyrM\">95-1219.</docketnumber>\n<parties id=\"AQ7IN\">Columbus Bar Assn. v. Winkfield.</parties>\n\n\n<judges id=\"Akuc\">Wright, J., not participating.</judges>\n<opinion><p id=\"A6rT\">On motion for leave to file a post-oral argument</p><p id=\"AifN\">pleading. Motion granted.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"1529\" lastpage=\"1529\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"AyrM\">95-1219.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AQ7IN\">Columbus Bar Assn. v. Winkfield.</parties>\n<judges data-order=\"2\" data-type=\"judges\" id=\"Akuc\">Wright, J., not participating.</judges>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A6rT\">On motion for leave to file a post-oral argument</p><p id=\"AifN\">pleading. Motion granted.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

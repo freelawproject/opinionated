@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"441\" lastpage=\"441\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Mays<br/> v.<br/> Ed Voyles Chrysler-Plymouth, Inc.</parties>\n<docketnumber id=\"p-2\">No. S06A0691.</docketnumber>\n<court id=\"p-3\">Supreme Court of Georgia.</court>\n<decisiondate id=\"p-4\">May 8, 2006.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Judgment Affirmed Without Opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"441\" lastpage=\"441\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Mays\n    <br/>\n    v.\n    <br/>\n    Ed Voyles Chrysler-Plymouth, Inc.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. S06A0691.\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Georgia.\n   </court>\n   <decisiondate id=\"p-4\">\n    May 8, 2006.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Judgment Affirmed Without Opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

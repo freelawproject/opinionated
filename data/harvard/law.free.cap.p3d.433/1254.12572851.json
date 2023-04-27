@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1254\" lastpage=\"1254\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF W.A.F., a Child Under the Age of 18 Years.</parties>\n<docketnumber id=\"p-2\">The State of Nevada, Appellant,<br/> v.<br/> W. A. F., Respondent.</docketnumber>\n<docketnumber id=\"p-3\">No. 77527</docketnumber>\n<court id=\"p-4\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-5\">FILED JANUARY 31, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">DISMISSED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1254\" lastpage=\"1254\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF W.A.F., a Child Under the Age of 18 Years.\n   </parties>\n   <parties id=\"p-2\">\n    The State of Nevada, Appellant,\n    <br/>\n    v.\n    <br/>\n    W. A. F., Respondent.\n   </parties>\n   <docketnumber id=\"p-3\">\n    No. 77527\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-5\">\n    FILED JANUARY 31, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     DISMISSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

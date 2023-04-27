@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1043\" lastpage=\"1043\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b969-5\">No. 1007,</docketnumber>\n<p id=\"Asld\">Mise.</p>\n<parties id=\"AEsA\">Vacca <em>v. </em>Field, Men\u2019s Colony Superintendent.</parties>\n<opinion><p>No opinion found.<a href=\"https://cite.case.law/pdf/11414793/Vacca%20v.%20Field,%20393%20U.S.%201043%20(1969).pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"1043\" lastpage=\"1043\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b969-5\">No. 1007,</docketnumber>\n<p data-order=\"1\" data-type=\"summary\" id=\"Asld\">Mise.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AEsA\">Vacca <em>v. </em>Field, Men\u2019s Colony Superintendent.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p>No opinion found.<a href=\"https://cite.case.law/pdf/11414793/Vacca%20v.%20Field,%20393%20U.S.%201043%20(1969).pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"557\" lastpage=\"557\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">5312 LA QUINTA HILLS, LLC, Appellant,<br/> v.<br/> BAC HOME LOANS SERVICING, LP as successor in Interest to Countrywide Home Loans, Inc.; ReconTrust Company, NA; and Absolute Collection Services, LLC, Respondents.</parties>\n<docketnumber id=\"p-2\">No. 71069</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED JUNE 15, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirm.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"557\" lastpage=\"557\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    5312 LA QUINTA HILLS, LLC, Appellant,\n    <br/>\n    v.\n    <br/>\n    BAC HOME LOANS SERVICING, LP as successor in Interest to Countrywide Home Loans, Inc.; ReconTrust Company, NA; and Absolute Collection Services, LLC, Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 71069\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED JUNE 15, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirm.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

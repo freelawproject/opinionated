@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "126 Vt. 392"
-        },
-        {
-            "type": "parallel",
-            "cite": "233 A .2d 50"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "126 Vt. 392"
+    },
+    {
+      "type": "parallel",
+      "cite": "233 A .2d 50"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"392\" lastpage=\"393\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b420-7\">B &amp; P Rambler &amp; Sports Car Center v. Adele Dawson</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b420-8\">[233 A .2d SO]</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"b420-9\">June Term, 1967</p>\n<judges data-order=\"3\" data-type=\"judges\" id=\"b420-10\">Present; Holden, C.J., Shangraw, Barney, Smith and ICeyser, JJ.</judges>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVd\">Opinion Filed August IS, 1967</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b421-5\"><page-number citation-index=\"1\" label=\"393\">*393</page-number><em>Jose M. Monte </em>for plaintiff.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b421-6\"><em>John A. Burgess </em>for defendant.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b421-7\">Per Curiam.</author>\n<p id=\"AWJ\">The defendant has appealed from two rulings made by the trial court.</p>\n<p id=\"b421-8\">First, the defendant claims the court erroneously overruled her motion to set aside the verdict. The basis of the motion is that \u201cthe record of the court does not disclose that the jury was sworn to consider the cause prior to the time the case was submitted to the jury.\u201d</p>\n<p id=\"b421-9\">She admits in her brief that the jurors were sworn at the time of the general charge to the jury by the court. At that time the oath prescribed by 12 V.S.A. \u00a75803 was administered to the entire panel of jurors by the clerk. This oath is binding on the jurors in all civil cases tried at that term. A reading of the oath shows this to be its meaning beyond any doubt. This oath is all that the law requires and is sufficient as to civil cases.</p>\n<p id=\"b421-10\">Where a general oath is administered to jurors at the opening of the court for the trial of issues, it is not necessary that they should be sworn in each case in which they are called. 31 Am. Jur., Jury, \u00a7242; Anno LRA 1917D 400; 50 C.J.S., Juries, \u00a7294(b), note 80.</p>\n<p id=\"b421-11\">We also note that it appears defendant\u2019s right to now raise this question was waived (1) by proceeding with the trial of the cause with knowledge of the facts and (2) by an express waiver made to the trial court when the motion was heard. <em>McKinstry </em>v. <em>Collins &amp; Lowell, </em>74 Vt. 147, 162; <em>Scott </em>v. <em>Moore, </em>41 Vt. 205.</p>\n<p id=\"b421-12\">Secondly, the defendant claims error in the denial of her motion for a directed verdict made at the close of plaintiff\u2019s case. After the court denied the motion, the defendant proceeded with her defense of the action. The motion was not renewed at the close of all of the evidence.</p>\n<p id=\"b421-13\">It is the well-established law of this jurisdiction that under these circumstances the motion is waived. <em>Berry </em>v. <em>Whitney, </em>125 Vt. 383, 384, 217 A.2d 41; <em>Mattison </em>v. <em>Smalley, </em>122 Vt. 113, 116, 165 A.2d 343; <em>Kinsley </em>v. <em>Willis, </em>120 Vt. 103, 107, 132 A.2d 163.</p>\n<p id=\"b421-14\">There is no substance to defendant\u2019s appeal and it raises no questions for review by this court.</p>\n<p id=\"b421-15\">\n<em>Judgment is affirmed.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

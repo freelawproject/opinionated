@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"171\" lastpage=\"171\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">BOY SCOUTS<br/> v.<br/> 8TH JUD. DIST.</parties>\n<docketnumber id=\"p-2\">OP 17-0644</docketnumber>\n<court id=\"p-3\">Supreme Court of Montana.</court>\n<decisiondate id=\"p-4\">December 5, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Decision without opinion or without extended opinion Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"171\" lastpage=\"171\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    BOY SCOUTS\n    <br/>\n    v.\n    <br/>\n    8TH JUD. DIST.\n   </parties>\n   <docketnumber id=\"p-2\">\n    OP 17-0644\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Montana.\n   </court>\n   <decisiondate id=\"p-4\">\n    December 5, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Decision without opinion or without extended opinion Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

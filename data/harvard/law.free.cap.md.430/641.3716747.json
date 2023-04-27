@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "430 Md. 641"
-        },
-        {
-            "type": "parallel",
-            "cite": "62 A.3d 728"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "430 Md. 641"
+    },
+    {
+      "type": "parallel",
+      "cite": "62 A.3d 728"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"641\" lastpage=\"641\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<citation data-order=\"0\" data-type=\"citation\" id=\"b673-4\">62 A.Sd 728</citation>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b673-5\">Bobbi Jo and Billy G. HUNT, Sr. v. ABERDEEN PROVING GROUND FEDERAL CREDIT UNION.</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b673-8\">No. 67,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"Agy\">Sept. Term, 2012.</p>\n<court data-order=\"4\" data-type=\"court\" id=\"b673-9\">Court of Appeals of Maryland.</court>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b673-10\">March 12, 2013.</decisiondate>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b673-12\">E. Ellis Rollins, (Rollins Law group, Elkton, MD), on brief, for Petitioner.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b673-13\">Dennis W. King, (Danoff &amp; King, P.A., Towson, MD), on brief, for Respondent.</attorneys>\n<p data-order=\"8\" data-type=\"legal\" id=\"b673-14\">Argued before BELL, C.J., HARRELL, BATTAGLIA, GREENE, ADKINS, BARBERA and McDONALD, JJ.</p>\n<opinion data-order=\"9\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b673-15\">PER CURIAM</author>\n<p id=\"A97\">ORDER.</p>\n<p id=\"b673-16\">The petition for writ of certiorari in the above-entitled case having been granted and argued, it is this 12th day of March, 2013,</p>\n<p id=\"b673-17\">ORDERED, by the Court of Appeals of Maryland, a majority of the Court concurring, that the writ of certiorari be, and it is hereby, dismissed with costs, the petition having been improvidently granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"299\" lastpage=\"299\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Gregory J. PISANI ; and Gennel A. Pisani, Individually and as Trustees of the Pisani Family Trust, Appellants,<br/> v.<br/> Gerald L. WALLACE, Jr.; and Elizabeth O. Wallace, Individually, and as Husband and Wife, Respondents.</parties>\n<docketnumber id=\"p-2\">No. 74884</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED OCTOBER 23, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"299\" lastpage=\"299\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Gregory J. PISANI ; and Gennel A. Pisani, Individually and as Trustees of the Pisani Family Trust, Appellants,\n    <br/>\n    v.\n    <br/>\n    Gerald L. WALLACE, Jr.; and Elizabeth O. Wallace, Individually, and as Husband and Wife, Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 74884\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED OCTOBER 23, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

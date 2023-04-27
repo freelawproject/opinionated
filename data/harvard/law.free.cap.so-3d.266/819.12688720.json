@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"819\" lastpage=\"819\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Juan MEZA-MEDINA, Appellant,<br/> v.<br/> RAYMOND BUILDING SUPPLY, LLC and Sedgwick CMS, Appellees.</parties>\n<docketnumber id=\"p-2\">No. 1D18-3493</docketnumber>\n<court id=\"p-3\">District Court of Appeal of Florida, First District.</court>\n<decisiondate id=\"p-4\">March 15, 2019</decisiondate>\n<decisiondate id=\"p-5\">Date of Accident: March 5, 2016.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"819\" lastpage=\"819\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Juan MEZA-MEDINA, Appellant,\n    <br/>\n    v.\n    <br/>\n    RAYMOND BUILDING SUPPLY, LLC and Sedgwick CMS, Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 1D18-3493\n   </docketnumber>\n   <court id=\"p-3\">\n    District Court of Appeal of Florida, First District.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 15, 2019\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Date of Accident: March 5, 2016.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"78\" lastpage=\"78\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">HOWARD<br/> v.<br/> HCR MANORCARE, INC.</parties>\n<docketnumber id=\"p-2\">2018-0626</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">September 25, 2018</decisiondate>\n<p id=\"p-5\">CASE ANNOUNCEMENTS</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">MISCELLANEOUS DISMISSALS</p><p id=\"p-7\">On appellants' application for dismissal. Motion granted. Cause dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"78\" lastpage=\"78\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    HOWARD\n    <br/>\n    v.\n    <br/>\n    HCR MANORCARE, INC.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-0626\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    September 25, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     MISCELLANEOUS DISMISSALS\n    </p>\n    <p id=\"p-7\">\n     On appellants' application for dismissal. Motion granted. Cause dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

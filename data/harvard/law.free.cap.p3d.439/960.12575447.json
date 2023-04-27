@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF the ESTATE OF Scott BUTLER, Deceased.</parties>\n<docketnumber id=\"p-2\">Brigett Butler, Appellant,<br/> v.<br/> Christopher Bless, Respondent.</docketnumber>\n<docketnumber id=\"p-3\">No. 76464</docketnumber>\n<court id=\"p-4\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-5\">FILED MAY 1, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Dismiss. Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF the ESTATE OF Scott BUTLER, Deceased.\n   </parties>\n   <parties id=\"p-2\">\n    Brigett Butler, Appellant,\n    <br/>\n    v.\n    <br/>\n    Christopher Bless, Respondent.\n   </parties>\n   <docketnumber id=\"p-3\">\n    No. 76464\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-5\">\n    FILED MAY 1, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Dismiss. Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

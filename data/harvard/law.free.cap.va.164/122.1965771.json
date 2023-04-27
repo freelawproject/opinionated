@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"122\" lastpage=\"122\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<parties id=\"b180-5\">Joseph R. Galvin and Hammond A. Saunders v. Marie Smith.</parties>\n<decisiondate id=\"b180-7\">March 14, 1935.</decisiondate>\n<attorneys id=\"b180-10\"><em>Eastwood D. Herbert </em>and <em>Leon T. Seawell, </em>for the plaintiffs in error.</attorneys>\n<attorneys id=\"b180-11\"><em>V. H. Kellam </em>and O. <em>L. </em>Shackleford, for the defendant in error.</attorneys>\n<opinion><p id=\"b180-4\">Richmond</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"122\" lastpage=\"122\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b180-5\">Joseph R. Galvin and Hammond A. Saunders v. Marie Smith.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b180-7\">March 14, 1935.</decisiondate>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b180-10\"><em>Eastwood D. Herbert </em>and <em>Leon T. Seawell, </em>for the plaintiffs in error.</attorneys>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b180-11\"><em>V. H. Kellam </em>and O. <em>L. </em>Shackleford, for the defendant in error.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b180-4\">Richmond</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

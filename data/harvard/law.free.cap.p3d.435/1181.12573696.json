@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1181\" lastpage=\"1181\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">EXCHANGE BANK, Appellee,<br/> v.<br/> QUALITY TRUST, Defendant,</parties>\n<docketnumber id=\"p-2\">Lawrence M. Ruiz and Denna L. Ruiz, Appellants,<br/> and<br/> Granite Re, Inc., Defendant.</docketnumber>\n<docketnumber id=\"p-3\">No. 118,689</docketnumber>\n<court id=\"p-4\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-5\">Opinion filed March 8, 2019.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirm.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1181\" lastpage=\"1181\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    EXCHANGE BANK, Appellee,\n    <br/>\n    v.\n    <br/>\n    QUALITY TRUST, Defendant,\n   </parties>\n   <parties id=\"p-2\">\n    Lawrence M. Ruiz and Denna L. Ruiz, Appellants,\n    <br/>\n    and\n    <br/>\n    Granite Re, Inc., Defendant.\n   </parties>\n   <docketnumber id=\"p-3\">\n    No. 118,689\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-5\">\n    Opinion filed March 8, 2019.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirm.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

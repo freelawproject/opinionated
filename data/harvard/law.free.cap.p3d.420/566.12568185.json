@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"566\" lastpage=\"566\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<docketnumber id=\"p-2\">No. 74181</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED JUNE 19, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-1\">The BANK OF NEW YORK MELLON, f/k/a the Bank of New York, as Trustee FOR the CERTIFICATEHOLDERS OF CWALT, INC., ALTERNATIVE LOAN TRUST 2004-30CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-30CB, Appellant,<br/> v.<br/> RJRN HOLDINGS, LLC, Respondent.</p><p id=\"p-5\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"566\" lastpage=\"566\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <docketnumber id=\"p-2\">\n    No. 74181\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED JUNE 19, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-1\">\n     The BANK OF NEW YORK MELLON, f/k/a the Bank of New York, as Trustee FOR the CERTIFICATEHOLDERS OF CWALT, INC., ALTERNATIVE LOAN TRUST 2004-30CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-30CB, Appellant,\n     <br/>\n     v.\n     <br/>\n     RJRN HOLDINGS, LLC, Respondent.\n    </p>\n    <p id=\"p-5\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1506\" lastpage=\"1506\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"AIyz\">98-2054.</docketnumber>\n<parties id=\"Aq2j\">Shemo v. Mayfield Hts.</parties>\n\n<judges id=\"AjVY\">Cook, J., dissents.</judges>\n<opinion><p id=\"Akai\">Cuyahoga App. No. 73241. Reported at 84 Ohio St.3d 1468, 704 N.E.2d 577. On motion for reconsideration. Motion granted; <em>sua sponte, </em>the discretionary appeal is allowed, and the cause is consolidated with 98-2053, <em>supra.</em></p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"1506\" lastpage=\"1506\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"AIyz\">98-2054.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aq2j\">Shemo v. Mayfield Hts.</parties>\n<judges data-order=\"2\" data-type=\"judges\" id=\"AjVY\">Cook, J., dissents.</judges>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Akai\">Cuyahoga App. No. 73241. Reported at 84 Ohio St.3d 1468, 704 N.E.2d 577. On motion for reconsideration. Motion granted; <em>sua sponte, </em>the discretionary appeal is allowed, and the cause is consolidated with 98-2053, <em>supra.</em></p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

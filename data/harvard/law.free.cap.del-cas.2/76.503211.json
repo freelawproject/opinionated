@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "2 Del. Cas. 76"
-        },
-        {
-            "type": "parallel",
-            "cite": "Rodney's Notes"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Del. Cas. 76"
+    },
+    {
+      "type": "parallel",
+      "cite": "Rodney's Notes"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"76\" lastpage=\"77\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b102-13\">WILLIAM HARRISON [qui tam] v. ADAM HUNTER.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b102-14\">Court of Common Pleas. Sussex.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AC2\">May, 1797.</decisiondate>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b102-15\">\n<em>Rodneys Notes.</em>\n<footnotemark>\n<em>*</em>\n</footnotemark>\n</citation>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b102-19\"><em>Miller, Bayard </em>[for plaintiff]. <em>Wilson, Peery </em>[for defendant].</attorneys>\n<p data-order=\"5\" data-type=\"legal\" id=\"ARJ\">Simon Kollock sworn. In 1790, July or August, Adam Hunter came to my house, to me. He lived in New Castle, said he pur<page-number citation-index=\"1\" label=\"77\">*77</page-number>chased a negro boy of John W. Batson that formerly belonged to P. K., had taken him into Worster with some others to carry them home; the boy had taken his horse and escaped. He wanted me to give out I had purchased the boy of him, I refused. Some time after, I met Hunter on the road and he told me the boy was taken up at S. Kimmey\u2019s and he was going to take him home. I told had I known it before I would have liberated him. I saw him once with Negroes.</p>\n<p data-order=\"6\" data-type=\"legal\" id=\"b103-5\">P. Kollock sworn. I sold a negro boy named Moses to John W. Batson. I saw Hunter before with three Negroes. He said he was going out of the state with them.</p>\n<p data-order=\"7\" data-type=\"legal\" id=\"b103-6\">John Evans. I saw Hunter going through Dagsbury with Moses. He stopped and went in to my house. J. Batson came over and said he would give him a letter to his father to return his money for the boy. Hunter seemed agreed, and Batson told him to go down and he, Hunter, started some time after.</p>\n<p data-order=\"8\" data-type=\"legal\" id=\"b103-7\">John W. Batson sworn. I purchased this boy of P. Kollock, had him about a year, sent him down to my father. Some time after, I was at Dagsbury when Hunter and the boy was there. He asked me $20 more than he gave at first, but agreed to take what he gave, and sent Moses down to my father. I do believe Hunter got him again. This was after the writ was issued against Hunter.</p>\n<attorneys data-order=\"9\" data-type=\"attorneys\" id=\"b103-8\"><em>Miller </em>for plaintiff.</attorneys>\n<attorneys data-order=\"10\" data-type=\"attorneys\" id=\"b103-9\"><em>Wilson </em>for defendant.</attorneys>\n<p data-order=\"11\" data-type=\"legal\" id=\"AkC\">It does not appear from the evidence that the facts charged in the declaration were before the writ issued.</p>\n<attorneys data-order=\"12\" data-type=\"attorneys\" id=\"b103-10\"><em>Peery </em>for defendant.</attorneys>\n<p data-order=\"13\" data-type=\"legal\" id=\"ARGG\">A penal law is to be construed strictly.</p>\n<attorneys data-order=\"14\" data-type=\"attorneys\" id=\"b103-11\">\n<em>Miller. Bayard.</em>\n</attorneys>\n<p data-order=\"15\" data-type=\"legal\" id=\"AhL\">- Not necessary [to] prove precisely the facts laid in declaration, but the substantial parts only.</p>\n<footnote data-order=\"16\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b102-20\"> This case is also reported in <em>Wilson\u2019s Red Book, 160.</em></p>\n</footnote>\n<opinion data-order=\"17\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"b103-12\">Chief Justice.</author>\n<p id=\"AAU\">The observation that a penal statute is to be construed strictly is true. But those laws enacted for the public good are to be construed so as to prevent the mischief which they were intended to remedy.</p>\n<p id=\"b103-13\">Jury found for plaintiff, \u00a3100 and costs.</p>\n<p id=\"b103-14\">Motion in arrest of judgment on account of declaration not stating the Act properly, <em>vis, </em>that permit was granted in the county where slave resided instead of the master. Motion overruled. The declaration reciting the Act first and afterwards referring to it as aforesaid; then follows the surplusage or ambiguity which the verdict cures.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

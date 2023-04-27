@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "18 F. Cas. 1067"
-        },
-        {
-            "type": "parallel",
-            "cite": "2 Mart. N. C. 78"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 F. Cas. 1067"
+    },
+    {
+      "type": "parallel",
+      "cite": "2 Mart. N. C. 78"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"1067\" lastpage=\"1068\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<headnotes data-order=\"0\" data-type=\"headnotes\" id=\"b1069-9\">Case No. 10,701.</headnotes>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b1069-10\">PALYART v. GOULDING.</parties>\n<p data-order=\"2\" data-type=\"citation\" id=\"b1069-11\">[Brunner, Col. Cas. 2; <footnotemark><em>1</em></footnotemark></p>\n<citation data-order=\"3\" data-type=\"citation\" id=\"Aqqq\">2 Mart N. C. 78.]</citation>\n<court data-order=\"4\" data-type=\"court\" id=\"b1069-12\">Circuit Court, D. North Carolina.</court>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"A6l\">June Term, 1792.</decisiondate>\n<headnotes data-order=\"6\" data-type=\"headnotes\" id=\"b1069-13\">Partnership \u2014 Action upon Note \u2014 Against One Partner \u2014 Act op Congress.</headnotes>\n<headnotes data-order=\"7\" data-type=\"headnotes\" id=\"b1069-14\">A firm in Maryland gave its promissory note to A. signed in the name of a firm, and A. sued <page-number citation-index=\"1\" label=\"1068\">*1068</page-number>\u2022one of the partners alone, relying on the act of 1789. See 1 Rev. St. c. 31, \u00a7 89. <em>Held, </em>that he might do so. as that act did not affect the contract, but only extended the remedy.</headnotes>\n<summary data-order=\"8\" data-type=\"summary\" id=\"b1070-3\">The defendant and his two brothers carried on business as merchants in the state of Maryland, under the firm name of John \u25a0Goulding &amp; Brothers, and in the year 1791 \u2022gave the plaintiff the promissory note on which this action was brought, for a debt of the said partnership, signed John Goulding &amp; .Brothers, the style of the firm. The defendant (being the only partner in this state) was sued alone; he pleaded in abatement to the action that this contract was entered into in .the state of Maryland, and that the other partners who were living and not named \u2022ought to be made defendants. To this plea there was a general demurrer.</summary>\n<summary data-order=\"9\" data-type=\"summary\" id=\"b1070-4\">Mr. Graham, in support of the demurrer, relied wholly on the fifth section of the act of -assembly of this state (1789, 57,688).</summary>\n<summary data-order=\"10\" data-type=\"summary\" id=\"b1070-5\">Woods &amp; Martin contended that this case \u00abame within the rule of lex loci, and that to allow this act the operation insisted on for the plaintiff would substantially alter the contract</summary>\n<footnote data-order=\"11\" data-type=\"footnote\" id=\"x999-1\" label=\"1\">\n<p id=\"b1069-15\"> [Reported by Albert Brunner, Esq., and here reprinted by permission.]</p>\n</footnote>\n<opinion data-order=\"12\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"b1070-6\">But</p>\n<author id=\"A0WG\">PATTERSON, Circuit Justice,</author>\n<p id=\"Ap2q\">took a distinction between the contract and the remedy, and observed that the contract remained the same, notwithstanding this act and that the remedy only was extended.</p>\n<judges id=\"b1070-7\">And SITGREAVES, District Judge, accordante.</judges>\n<p id=\"b1070-8\">A respondeas ouster was awarded.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"299\" lastpage=\"299\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">The CARE GROUP HEART HOSPITAL, Appellant Petitioner<br/> v.<br/> Roderick J. SAWYER, M.D.</parties>\n<court id=\"p-2\">Supreme Court of Indiana.</court>\n<decisiondate id=\"p-3\">October 25, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">Transfer granted. Transfer granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"299\" lastpage=\"299\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    The CARE GROUP HEART HOSPITAL, Appellant Petitioner\n    <br/>\n    v.\n    <br/>\n    Roderick J. SAWYER, M.D.\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Indiana.\n   </court>\n   <decisiondate id=\"p-3\">\n    October 25, 2017\n   </decisiondate>\n   <disposition type=\"majority\">\n    <p id=\"p-4\">\n     Transfer granted. Transfer granted.\n    </p>\n   </disposition>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

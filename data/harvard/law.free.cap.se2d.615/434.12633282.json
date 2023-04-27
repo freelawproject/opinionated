@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"434\" lastpage=\"434\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">BLUE RIDGE HEALTH INVESTORS, LLC v. MARS SYSTEMS, INC.</parties>\n<docketnumber id=\"p-2\">No. COA04-1248.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed July 5, 2005.</decisiondate>\n<decisiondate id=\"p-5\">Certification Date July 25, 2005.</decisiondate>\n<history id=\"p-6\">Appeal from the Forsyth (04CVD964).</history>\n\n<opinion type=\"majority\"><p id=\"p-7\">Case without published opinion. Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"434\" lastpage=\"434\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    BLUE RIDGE HEALTH INVESTORS, LLC v. MARS SYSTEMS, INC.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA04-1248.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed July 5, 2005.\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date July 25, 2005.\n   </decisiondate>\n   <history id=\"p-6\">\n    Appeal from the Forsyth (04CVD964).\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     Case without published opinion. Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

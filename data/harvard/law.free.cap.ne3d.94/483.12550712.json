@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"483\" lastpage=\"483\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MATTER OF ANTONIO M., (Israel A.)</parties>\n<court id=\"p-2\">Court of Appeals of New York.</court>\n<decisiondate id=\"p-3\">Decided January 9, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-4\">(Proceeding No. 2) denied</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"483\" lastpage=\"483\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MATTER OF ANTONIO M., (Israel A.)\n   </parties>\n   <court id=\"p-2\">\n    Court of Appeals of New York.\n   </court>\n   <decisiondate id=\"p-3\">\n    Decided January 9, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     (Proceeding No. 2) denied\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

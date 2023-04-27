@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"262\" lastpage=\"262\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">BANK OF AMERICA, N.A., Successor by Merger to BAC Home Loans Servicing, LP f/k/a Countrywide Home Loans Servicing, LP, Appellant,<br/> v.<br/> SATICOY BAY LLC SERIES 716 FIESTA DEL REY, a Nevada Limited Liability Company, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 73623</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED JANUARY 17, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"262\" lastpage=\"262\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    BANK OF AMERICA, N.A., Successor by Merger to BAC Home Loans Servicing, LP f/k/a Countrywide Home Loans Servicing, LP, Appellant,\n    <br/>\n    v.\n    <br/>\n    SATICOY BAY LLC SERIES 716 FIESTA DEL REY, a Nevada Limited Liability Company, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 73623\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED JANUARY 17, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

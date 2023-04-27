@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"663\" lastpage=\"663\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">RC, Plaintiff-Appellant,<br/> v.<br/> MC, Defendant-Appellee</parties>\n<docketnumber id=\"p-2\">NO. CAAP-15-0000592</docketnumber>\n<court id=\"p-3\">Intermediate Court of Appeals of Hawai'i.</court>\n<decisiondate id=\"p-4\">January 28, 2019.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>AMENDED MEMORANDUM OPINION</strong></p><p id=\"p-6\">Vacate. Remand. Affirm.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"663\" lastpage=\"663\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    RC, Plaintiff-Appellant,\n    <br/>\n    v.\n    <br/>\n    MC, Defendant-Appellee\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. CAAP-15-0000592\n   </docketnumber>\n   <court id=\"p-3\">\n    Intermediate Court of Appeals of Hawai'i.\n   </court>\n   <decisiondate id=\"p-4\">\n    January 28, 2019.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      AMENDED MEMORANDUM OPINION\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Vacate. Remand. Affirm.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

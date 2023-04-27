@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"917\" lastpage=\"917\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">CLEAN WISCONSIN, INC.<br/> v.<br/> DNR</parties>\n<docketnumber id=\"p-2\">2018AP59</docketnumber>\n<court id=\"p-3\">Supreme Court of Wisconsin.</court>\n<decisiondate id=\"p-4\">April 9, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition By Court of Appeals to Certify Granted.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"917\" lastpage=\"917\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    CLEAN WISCONSIN, INC.\n    <br/>\n    v.\n    <br/>\n    DNR\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018AP59\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 9, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Petition By Court of Appeals to Certify Granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

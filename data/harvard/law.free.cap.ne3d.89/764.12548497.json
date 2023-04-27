@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"764\" lastpage=\"764\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Phoungeun THOUNSAVATH, respondent,<br/> v.<br/> STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY, petitioner.</parties>\n<docketnumber id=\"p-2\">No. 122558</docketnumber>\n<court id=\"p-3\">Supreme Court of Illinois.</court>\n<decisiondate id=\"p-4\">September 27, 2017</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>PETITION FOR LEAVE TO APPEAL</strong></p><p id=\"p-6\">Allowed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"764\" lastpage=\"764\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Phoungeun THOUNSAVATH, respondent,\n    <br/>\n    v.\n    <br/>\n    STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY, petitioner.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 122558\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Illinois.\n   </court>\n   <decisiondate id=\"p-4\">\n    September 27, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      PETITION FOR LEAVE TO APPEAL\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Allowed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

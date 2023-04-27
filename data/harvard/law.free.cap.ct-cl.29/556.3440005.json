@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "29 Ct. Cl. 556"
-        },
-        {
-            "type": "parallel",
-            "cite": "151 U. S. R., 362; 152 U. S. R., 384"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 Ct. Cl. 556"
+    },
+    {
+      "type": "parallel",
+      "cite": "151 U. S. R., 362; 152 U. S. R., 384"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"556\" lastpage=\"556\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b578-3\">PHILIP R. ALGER v. THE UNITED STATES.</parties>\n<p data-order=\"1\" data-type=\"p\" id=\"b578-4\">[No opinion in C. Cls.;</p>\n<citation data-order=\"2\" data-type=\"citation\" id=\"A1T\">151 U. S. R., 362; 152 U. S. R., 384.]</citation>\n<syllabus data-order=\"3\" data-type=\"syllabus\" id=\"b578-5\">\n<em>On the defendants Appeal.</em>\n</syllabus>\n<syllabus data-order=\"4\" data-type=\"syllabus\" id=\"b578-6\">Claimant was appointed cadet midshipman September 22,1876; graduated 'June 22, 3882, and promoted midshipman the same day; commissioned ensign June 26, 1884; resigned November 10,1890, and appointed professor of mathematics November 11, 1890. Claimant recovers in the court below $32.87 claimed as longevity pay due him from November 11, 1890, to November 30, inclusive.</syllabus>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b578-7\">The judgment of the court below is reversed on the ground that under the <em>Act of March 3,1883 </em>(22 Stat. L., 473), a Navy-officer who resigns one day and is appointed to a higher position the next, must have his longevity pay computed as of the lowest grade having graduated pay which he has held since he first entered the service.</summary>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b578-8\">Mr. Justice Gray</author>\n<p id=\"A1_\">delivered the opinion of the Supreme Court, January 22,1894.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

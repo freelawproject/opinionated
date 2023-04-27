@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"280\" lastpage=\"280\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Akem GRASSAREE<br/> v.<br/> STATE of Mississippi</parties>\n<docketnumber id=\"p-2\">2017-CT-01107-COA</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: January 29, 2019<br/> Closed: April 4, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Motion Desc: Petition for Writ of Certiorari.</p><p id=\"p-6\">Certiorari - Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"280\" lastpage=\"280\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Akem GRASSAREE\n    <br/>\n    v.\n    <br/>\n    STATE of Mississippi\n   </parties>\n   <docketnumber id=\"p-2\">\n    2017-CT-01107-COA\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: January 29, 2019\n    <br/>\n    Closed: April 4, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Motion Desc: Petition for Writ of Certiorari.\n    </p>\n    <p id=\"p-6\">\n     Certiorari - Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

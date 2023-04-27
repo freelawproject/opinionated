@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"322\" lastpage=\"322\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">ADAMS<br/> v.<br/> ADAMS</parties>\n<docketnumber id=\"p-2\">64542</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">January 28, 2014</decisiondate>\n\n<p id=\"p-6\">8th Jud. Dist. Ct., Gayle Nathan, D.J.</p>\n<opinion type=\"majority\"><p id=\"p-5\">Dismissed-Stipulation.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"322\" lastpage=\"322\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    ADAMS\n    <br/>\n    v.\n    <br/>\n    ADAMS\n   </parties>\n   <docketnumber id=\"p-2\">\n    64542\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    January 28, 2014\n   </decisiondate>\n   <judges id=\"p-6\">\n    8th Jud. Dist. Ct., Gayle Nathan, D.J.\n   </judges>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dismissed-Stipulation.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

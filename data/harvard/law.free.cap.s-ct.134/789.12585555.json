@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"789\" lastpage=\"789\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Chazre DAVIS, petitioner,<br/> v.<br/> FLORIDA.</parties>\n<docketnumber id=\"p-2\">No. 13-6679.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Dec. 9, 2013.</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Case below, --- So.3d ----.</p><p id=\"p-6\">Petition for writ of certiorari to the District Court of Appeal of Florida, Third District, denied.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"789\" lastpage=\"789\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Chazre DAVIS, petitioner,\n    <br/>\n    v.\n    <br/>\n    FLORIDA.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 13-6679.\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of the United States\n   </court>\n   <decisiondate id=\"p-4\">\n    Dec. 9, 2013.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Case below, --- So.3d ----.\n    </p>\n    <p id=\"p-6\">\n     Petition for writ of certiorari to the District Court of Appeal of Florida, Third District, denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

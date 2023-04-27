@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"170\" lastpage=\"170\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of Kansas, Appellant/Cross-appellee,<br/> v.<br/> Hershel A. KEMP, Appellee/Cross-appellant.</parties>\n<docketnumber id=\"p-2\">No. 115,812</docketnumber>\n<court id=\"p-3\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-4\">Opinion filed February 2, 2018.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed in part. Reversed in part. Remanded with directions.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"170\" lastpage=\"170\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Kansas, Appellant/Cross-appellee,\n    <br/>\n    v.\n    <br/>\n    Hershel A. KEMP, Appellee/Cross-appellant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 115,812\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed February 2, 2018.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed in part. Reversed in part. Remanded with directions.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

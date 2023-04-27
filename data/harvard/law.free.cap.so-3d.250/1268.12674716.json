@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1268\" lastpage=\"1268\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">James D. HAVARD<br/> v.<br/> Tanelle SUMRALL</parties>\n<docketnumber id=\"p-2\">James D. Havard<br/> v.<br/> Tanelle Sumrall</docketnumber>\n<docketnumber id=\"p-3\">2015-CT-00138-COA<br/> 2016-CT-01585-COA</docketnumber>\n<court id=\"p-4\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-5\">Filed: May 17, 2018<br/> Closed: August 9, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Certiorari - Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1268\" lastpage=\"1268\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    James D. HAVARD\n    <br/>\n    v.\n    <br/>\n    Tanelle SUMRALL\n   </parties>\n   <parties id=\"p-2\">\n    James D. Havard\n    <br/>\n    v.\n    <br/>\n    Tanelle Sumrall\n   </parties>\n   <docketnumber id=\"p-3\">\n    2015-CT-00138-COA\n    <br/>\n    2016-CT-01585-COA\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-5\">\n    Filed: May 17, 2018\n    <br/>\n    Closed: August 9, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Certiorari - Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

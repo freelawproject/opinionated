@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"723\" lastpage=\"723\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Ashley GILL, Appellant-Plaintiff,<br/> v.<br/> Thomas HAGGERTY and Cathy Haggerty, Appellee-Defendants</parties>\n<docketnumber id=\"p-2\">Court of Appeals Case No. 18A-CT-953</docketnumber>\n<court id=\"p-3\">Court of Appeals of Indiana.</court>\n<decisiondate id=\"p-4\">Filed March 28, 2019</decisiondate>\n<p id=\"p-5\"><strong><em>Unpublished Memorandum Decision</em></strong></p>\n\n<opinion type=\"majority\"><p id=\"p-6\">Reversed. Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"723\" lastpage=\"723\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Ashley GILL, Appellant-Plaintiff,\n    <br/>\n    v.\n    <br/>\n    Thomas HAGGERTY and Cathy Haggerty, Appellee-Defendants\n   </parties>\n   <docketnumber id=\"p-2\">\n    Court of Appeals Case No. 18A-CT-953\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Indiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed March 28, 2019\n   </decisiondate>\n   <p id=\"p-5\">\n    <strong>\n     <em>\n      Unpublished Memorandum Decision\n     </em>\n    </strong>\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Reversed. Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

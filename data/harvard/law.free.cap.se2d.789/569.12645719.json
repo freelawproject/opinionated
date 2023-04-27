@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"569\" lastpage=\"569\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of North Carolina<br/> v.<br/> Shannon Nicole CHAVIS.</parties>\n<docketnumber id=\"p-2\">No. COA16-222.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">June 21, 2016.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>CASE REPORTED WITHOUT PUBLISHED OPINION</strong></p><p id=\"p-6\">Reversed and Remanded.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"569\" lastpage=\"569\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of North Carolina\n    <br/>\n    v.\n    <br/>\n    Shannon Nicole CHAVIS.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA16-222.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    June 21, 2016.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      CASE REPORTED WITHOUT PUBLISHED OPINION\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Reversed and Remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

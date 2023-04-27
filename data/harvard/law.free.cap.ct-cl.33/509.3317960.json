@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "33 Ct. Cl. 509"
-        },
-        {
-            "type": "parallel",
-            "cite": "31 C. Cls. R. 422"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 Ct. Cl. 509"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 C. Cls. R. 422"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"509\" lastpage=\"509\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b601-3\">JOHN DOBSON v. THE UNITED STATES.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b601-4\">[31 C. Cls. R. 422.</citation>\n<p data-order=\"2\" data-type=\"p\" id=\"APb\">No opinion in U. S. R.]</p>\n<syllabus data-order=\"3\" data-type=\"syllabus\" id=\"b601-5\">\n<em>On the defendants\u2019 Appeal.</em>\n</syllabus>\n<syllabus data-order=\"4\" data-type=\"syllabus\" id=\"b601-6\">The contract is for tlie sale by sample of blankets to tlie Indian Office, subject to inspection by inspectors appointed by the commissioner. Some are taken at a valuation fixed by the inspectors fot less than the contract price. Some are rejected,'and the additional cost of those purchased charged to the contractor. On the trial the claimant attacks the <em>Iona fides </em>of the inspection. The decision of the court rests entirely upon the construction of the contract.</syllabus>\n<syllabus data-order=\"5\" data-type=\"syllabus\" id=\"b601-7\">The court below decides:</syllabus>\n<syllabus data-order=\"6\" data-type=\"syllabus\" id=\"b601-8\">1. Where\" a contract provides that, in case of failure to deliver rvithin the prescribed time, the defendants may'buy in the market, the provision is in the nature of a forfeiture clause, and if waived can hot be reasserted.</syllabus>\n<syllabus data-order=\"7\" data-type=\"syllabus\" id=\"b601-10\">2. Where a contract provides that if the blankets do not pass inspection the defendants may require the contractor to deliver <em>\u201cwithin five days after such rejection proper goods in the place of those rejected,\u201d </em>they can not, without notice of any kind, purchase goods in the market and charg\u2019e the difference in price to the contractor.</syllabus>\n<syllabus data-order=\"8\" data-type=\"syllabus\" id=\"b601-12\">3. Where a contract provides that if the quality of the goods offered be <em>\u201cinferior to the standard of the sample, and the necessities of the service le such as to compel\u201d </em>the commissioner to accept the goods offered, <em>\u201cthen the same may le received subject to the inspection and test of a competent inspector to determine the percentage of value less \u25a0 than the sample, and a deduction twice greater than the difference in value shall be made,\u201d </em>the power can be exercised by the defendants only when the necessities of the service be such as to compel them to accept the inferior article. If no such necessity be shown, the contract gives them no arbitrary right to take the goods at a reduced price, and the contractor retains the right to tender other goods within five days, if notified.</syllabus>\n<syllabus data-order=\"9\" data-type=\"syllabus\" id=\"b601-14\">4. Where blankets are torn and destroyed by the defendants\u2019 inspectors, and there is no provision in the contract throwing the loss upon the contractor, and it does not appear that in the custom of the trade such destruction is regarded as inevitable to a proper test, the loss must be borne by the defendants.</syllabus>\n<decisiondate data-order=\"10\" data-type=\"decisiondate\" id=\"A9U\">March 7, 1898.</decisiondate>\n<opinion data-order=\"11\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b601-16\">Tbe appeal was dismissed on motion of the defendants</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

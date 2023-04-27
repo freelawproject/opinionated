@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1044\" lastpage=\"1044\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Donald Louis WHITE, Appellant,<br/> v.<br/> The STATE of Nevada, Respondent.</parties>\n<docketnumber id=\"p-2\">Donald Louis White, Appellant,<br/> v.<br/> The State of Nevada, Respondent.</docketnumber>\n<docketnumber id=\"p-3\">No. 71929<br/> No. 73822</docketnumber>\n<court id=\"p-4\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-5\">FILED OCTOBER 09, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1044\" lastpage=\"1044\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Donald Louis WHITE, Appellant,\n    <br/>\n    v.\n    <br/>\n    The STATE of Nevada, Respondent.\n   </parties>\n   <parties id=\"p-2\">\n    Donald Louis White, Appellant,\n    <br/>\n    v.\n    <br/>\n    The State of Nevada, Respondent.\n   </parties>\n   <docketnumber id=\"p-3\">\n    No. 71929\n    <br/>\n    No. 73822\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-5\">\n    FILED OCTOBER 09, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

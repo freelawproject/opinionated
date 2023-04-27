@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"586\" lastpage=\"586\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<docketnumber id=\"p-2\">In re: Sealed Case</docketnumber>\n<docketnumber id=\"p-3\">CR-15-0762</docketnumber>\n<court id=\"p-4\">Court of Criminal Appeals of Alabama.</court>\n<decisiondate id=\"p-5\">November 8, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-1\">EX PARTE SEALED CASE</p><p id=\"p-6\">Mand. pet granted in part and denied in part.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"586\" lastpage=\"586\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-2\">\n    In re: Sealed Case\n   </parties>\n   <docketnumber id=\"p-3\">\n    CR-15-0762\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Criminal Appeals of Alabama.\n   </court>\n   <decisiondate id=\"p-5\">\n    November 8, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-1\">\n     EX PARTE SEALED CASE\n    </p>\n    <p id=\"p-6\">\n     Mand. pet granted in part and denied in part.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

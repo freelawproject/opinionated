@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"446\" lastpage=\"446\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF C. Z., a Child.</parties>\n<docketnumber id=\"p-2\">Department of Human Services and C. Z.<br/> v.<br/> A. F., aka A. K. H. et al.</docketnumber>\n<docketnumber id=\"p-3\">A167646</docketnumber>\n<court id=\"p-4\">Court of Appeals of Oregon.</court>\n<decisiondate id=\"p-5\">October 10, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"446\" lastpage=\"446\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF C. Z., a Child.\n   </parties>\n   <parties id=\"p-2\">\n    Department of Human Services and C. Z.\n    <br/>\n    v.\n    <br/>\n    A. F., aka A. K. H. et al.\n   </parties>\n   <docketnumber id=\"p-3\">\n    A167646\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Oregon.\n   </court>\n   <decisiondate id=\"p-5\">\n    October 10, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

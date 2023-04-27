@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1222\" lastpage=\"1222\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Joy P. LEONG and Stephen B. Lindsey, III, Plaintiffs-Appellants/Cross-Appellees,<br/> v.<br/> HONOLULU FORD, INC., Defendant-Appellee/Cross-Appellant</parties>\n<docketnumber id=\"p-2\">NO. CAAP-15-0000684</docketnumber>\n<court id=\"p-3\">Intermediate Court of Appeals of Hawai'i.</court>\n<decisiondate id=\"p-4\">March 28, 2019</decisiondate>\n<p id=\"p-5\"><strong>MEMORANDUM OPINION</strong></p>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1222\" lastpage=\"1222\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Joy P. LEONG and Stephen B. Lindsey, III, Plaintiffs-Appellants/Cross-Appellees,\n    <br/>\n    v.\n    <br/>\n    HONOLULU FORD, INC., Defendant-Appellee/Cross-Appellant\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. CAAP-15-0000684\n   </docketnumber>\n   <court id=\"p-3\">\n    Intermediate Court of Appeals of Hawai'i.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 28, 2019\n   </decisiondate>\n   <p id=\"p-5\">\n    <strong>\n     MEMORANDUM OPINION\n    </strong>\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

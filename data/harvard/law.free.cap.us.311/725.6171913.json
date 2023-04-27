@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"725\" lastpage=\"725\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p id=\"b789-10\">No. \u2014.</p>\n<parties id=\"AzYj\">Johnson <em>v. </em>Metropolitan Casualty Insurance Co.</parties>\n<decisiondate id=\"AT-4\">October 28, 1940.</decisiondate>\n<opinion><p>No opinion found. <a href=\"https://cite.case.law/pdf/6171913/Johnson%20v.%20Metropolitan%20Casualty%20Insurance%20Co..pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"725\" lastpage=\"725\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b789-10\">No. \u2014.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AzYj\">Johnson <em>v. </em>Metropolitan Casualty Insurance Co.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AT-4\">October 28, 1940.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p>No opinion found. <a href=\"https://cite.case.law/pdf/6171913/Johnson%20v.%20Metropolitan%20Casualty%20Insurance%20Co..pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

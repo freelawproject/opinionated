@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"651\" lastpage=\"651\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">TD Bank N.A., Plaintiff,<br/> v.<br/> Eagles Crest at Sharp Top, LLC, John W. Holdsworth and John H. Seats, Defendants.</parties>\n<docketnumber id=\"p-2\">No. COA15-807</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: August 16, 2016</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">DISMISSED in part; AFFIRMED in part.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"651\" lastpage=\"651\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    TD Bank N.A., Plaintiff,\n    <br/>\n    v.\n    <br/>\n    Eagles Crest at Sharp Top, LLC, John W. Holdsworth and John H. Seats, Defendants.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA15-807\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: August 16, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     DISMISSED in part; AFFIRMED in part.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"146\" lastpage=\"146\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">RIGSBY et al.<br/> v.<br/> POTTER, ON BEHALF OF the ESTATE OF Paul S. WIGGINS, Jr., et al. and Potter Fiduciary Services, Inc., Administrator for the Estate of Paul S. Wiggins, Jr., Robert S. Wiggins, and Patricia Wiggins Perlow</parties>\n<docketnumber id=\"p-2\">A165838</docketnumber>\n<court id=\"p-3\">Court of Appeals of Oregon.</court>\n<decisiondate id=\"p-4\">February 6, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"146\" lastpage=\"146\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    RIGSBY et al.\n    <br/>\n    v.\n    <br/>\n    POTTER, ON BEHALF OF the ESTATE OF Paul S. WIGGINS, Jr., et al. and Potter Fiduciary Services, Inc., Administrator for the Estate of Paul S. Wiggins, Jr., Robert S. Wiggins, and Patricia Wiggins Perlow\n   </parties>\n   <docketnumber id=\"p-2\">\n    A165838\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Oregon.\n   </court>\n   <decisiondate id=\"p-4\">\n    February 6, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

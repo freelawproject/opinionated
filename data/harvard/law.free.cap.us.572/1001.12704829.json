@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Edward R. LANE, petitioner,<br/> v.<br/> Steve FRANKS, in His Individual Capacity, and Susan Burrow, in Her Official Capacity as Acting President of Central Alabama Community College.</parties>\n<docketnumber id=\"p-2\">No. 13-483.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">March 10, 2014.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Motion of petitioner to dispense with printing the joint appendix granted.</p></opinion>\n</casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Edward R. LANE, petitioner,\n    <br/>\n    v.\n    <br/>\n    Steve FRANKS, in His Individual Capacity, and Susan Burrow, in Her Official Capacity as Acting President of Central Alabama Community College.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 13-483.\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of the United States\n   </court>\n   <decisiondate id=\"p-4\">\n    March 10, 2014.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Motion of petitioner to dispense with printing the joint appendix granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

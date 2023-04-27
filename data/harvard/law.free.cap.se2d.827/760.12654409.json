@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"760\" lastpage=\"760\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of North Carolina<br/> v.<br/> Joshua Iran QUEEN</parties>\n<docketnumber id=\"p-2\">No. COA18-819</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: June 4, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">NO ERROR IN PART. REVERSED IN PART.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"760\" lastpage=\"760\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of North Carolina\n    <br/>\n    v.\n    <br/>\n    Joshua Iran QUEEN\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA18-819\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: June 4, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     NO ERROR IN PART. REVERSED IN PART.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

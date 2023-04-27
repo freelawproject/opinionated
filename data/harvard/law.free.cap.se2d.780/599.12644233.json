@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"599\" lastpage=\"599\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Kevin REAVIS and Wendy Reavis, Plaintiffs,<br/> v.<br/> Benjamin David COLLINS, Renae Collins and Dean Wilson and Wanda Wilson, Defendants.</parties>\n<docketnumber id=\"p-2\">No. COA15-545.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Nov. 3, 2015.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>CASE REPORTED WITHOUT PUBLISHED OPINION</strong></p><p id=\"p-6\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"599\" lastpage=\"599\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Kevin REAVIS and Wendy Reavis, Plaintiffs,\n    <br/>\n    v.\n    <br/>\n    Benjamin David COLLINS, Renae Collins and Dean Wilson and Wanda Wilson, Defendants.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA15-545.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Nov. 3, 2015.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      CASE REPORTED WITHOUT PUBLISHED OPINION\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

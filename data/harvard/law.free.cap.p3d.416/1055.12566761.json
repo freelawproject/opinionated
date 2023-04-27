@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1055\" lastpage=\"1055\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF DISCIPLINE OF Scott M. HOLPER, Bar No. 9587.</parties>\n<docketnumber id=\"p-2\">No. 74903</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED APRIL 27, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">APPROVING. SUSPENDING.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1055\" lastpage=\"1055\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF DISCIPLINE OF Scott M. HOLPER, Bar No. 9587.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 74903\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED APRIL 27, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     APPROVING. SUSPENDING.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

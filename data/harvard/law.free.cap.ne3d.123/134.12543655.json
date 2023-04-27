@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"134\" lastpage=\"134\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Ronald KIBBEY, et al., Appellants<br/> v.<br/> FOREST RIVER, INC., et al.</parties>\n<court id=\"p-2\">Supreme Court of Indiana.</court>\n<decisiondate id=\"p-3\">February 21, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-4\">Denied.</p><p id=\"p-5\">All Justices concur, except Slaughter, J., who did not participate in the decision of this matter.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"134\" lastpage=\"134\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Ronald KIBBEY, et al., Appellants\n    <br/>\n    v.\n    <br/>\n    FOREST RIVER, INC., et al.\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Indiana.\n   </court>\n   <decisiondate id=\"p-3\">\n    February 21, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     Denied.\n    </p>\n    <p id=\"p-5\">\n     All Justices concur, except Slaughter, J., who did not participate in the decision of this matter.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

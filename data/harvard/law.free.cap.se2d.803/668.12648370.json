@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"668\" lastpage=\"668\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTERS OF: A.C., N.B., P.B., R.B., B.B., S.B.</parties>\n<docketnumber id=\"p-2\">No. COA17-181</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: August 1, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED IN PART. REVERSED IN PART. REMANDED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"668\" lastpage=\"668\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTERS OF: A.C., N.B., P.B., R.B., B.B., S.B.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA17-181\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: August 1, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED IN PART. REVERSED IN PART. REMANDED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

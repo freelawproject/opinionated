@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"556\" lastpage=\"556\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">NATIONSTAR MORTGAGE, LLC, Appellant,<br/> v.<br/> GUBERLAND LLC-SERIES 3, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 70546</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED JUNE 15, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">VACATED. REMAND.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"556\" lastpage=\"556\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    NATIONSTAR MORTGAGE, LLC, Appellant,\n    <br/>\n    v.\n    <br/>\n    GUBERLAND LLC-SERIES 3, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 70546\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED JUNE 15, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     VACATED. REMAND.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

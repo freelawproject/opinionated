@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the INTEREST OF V.A. and J.G., Children.</parties>\n<docketnumber id=\"p-2\">S.H., Petitioner,<br/> v.<br/> Department of Children and Families and Guardian Ad Litem Program, Respondents.</docketnumber>\n<docketnumber id=\"p-3\">Case No. 2D18-4386</docketnumber>\n<court id=\"p-4\">District Court of Appeal of Florida, Second District.</court>\n<decisiondate id=\"p-5\">Opinion filed February 1, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the INTEREST OF V.A. and J.G., Children.\n   </parties>\n   <parties id=\"p-2\">\n    S.H., Petitioner,\n    <br/>\n    v.\n    <br/>\n    Department of Children and Families and Guardian Ad Litem Program, Respondents.\n   </parties>\n   <docketnumber id=\"p-3\">\n    Case No. 2D18-4386\n   </docketnumber>\n   <court id=\"p-4\">\n    District Court of Appeal of Florida, Second District.\n   </court>\n   <decisiondate id=\"p-5\">\n    Opinion filed February 1, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

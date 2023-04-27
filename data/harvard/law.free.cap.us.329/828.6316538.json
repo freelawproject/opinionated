@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"828\" lastpage=\"828\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b914-10\">No. 2,</docketnumber>\n\n<parties id=\"AVTq\">Slivensky <em>v. </em>New Jersey.</parties>\n<decisiondate id=\"Avgi\">November 18, 1946.</decisiondate>\n<opinion><p id=\"A6C6\">Misc.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"828\" lastpage=\"828\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b914-10\">No. 2,</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AVTq\">Slivensky <em>v. </em>New Jersey.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Avgi\">November 18, 1946.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A6C6\">Misc.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"857\" lastpage=\"857\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Franklin J. NERO, Appellant,<br/> v.<br/> MAYAN MAINSTREET INVESTORS I, LLC and Margaret Nero A/K/A Margaret M. Nero, Appellees.</parties>\n<docketnumber id=\"p-2\">Case No. 5D18-1051</docketnumber>\n<court id=\"p-3\">District Court of Appeal of Florida, Fifth District.</court>\n<decisiondate id=\"p-4\">Decision filed January 22, 2019<br/> Rehearing Denied March 22, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"857\" lastpage=\"857\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Franklin J. NERO, Appellant,\n    <br/>\n    v.\n    <br/>\n    MAYAN MAINSTREET INVESTORS I, LLC and Margaret Nero A/K/A Margaret M. Nero, Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Case No. 5D18-1051\n   </docketnumber>\n   <court id=\"p-3\">\n    District Court of Appeal of Florida, Fifth District.\n   </court>\n   <decisiondate id=\"p-4\">\n    Decision filed January 22, 2019\n    <br/>\n    Rehearing Denied March 22, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

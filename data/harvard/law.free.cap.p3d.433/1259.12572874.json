@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1259\" lastpage=\"1259\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SUMMERLIN SPECIALISTS, INC., a Nevada Corporation; and John C. West, an Individual, Appellants,<br/> v.<br/> Wesley P. SMITH, an Individual; and as Trustee of the Smith and Otto Revocable Trust, Dated August 2, 2000, Respondents.</parties>\n<docketnumber id=\"p-2\">No. 77059</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED FEBRUARY 06, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1259\" lastpage=\"1259\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    SUMMERLIN SPECIALISTS, INC., a Nevada Corporation; and John C. West, an Individual, Appellants,\n    <br/>\n    v.\n    <br/>\n    Wesley P. SMITH, an Individual; and as Trustee of the Smith and Otto Revocable Trust, Dated August 2, 2000, Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 77059\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED FEBRUARY 06, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

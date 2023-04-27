@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1471\" lastpage=\"1471\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<parties id=\"AGT\">State ex rel. Burnett v. Barber.</parties>\n\n<judges id=\"b867-23\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n<opinion><p id=\"b867-21\">98-1946.</p><p id=\"b867-22\">In Mandamus. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"1471\" lastpage=\"1471\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AGT\">State ex rel. Burnett v. Barber.</parties>\n<judges data-order=\"1\" data-type=\"judges\" id=\"b867-23\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n<opinion data-order=\"2\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b867-21\">98-1946.</p><p id=\"b867-22\">In Mandamus. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

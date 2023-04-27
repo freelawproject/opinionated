@@ -1,5 +1,9 @@
 {
   "court": {
     "name": "Supreme Court of South Carolina"
+  },
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"583\" lastpage=\"584\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  The STATE\n  <br/>\n  v.\n  <br/>\n  Dylann S. ROOF.\n </parties>\n <docketnumber id=\"p-2\">\n  2015-06-18-01\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of South Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  June 18, 2015.\n </decisiondate>\n <p id=\"p-5\">\n  ORDER\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   IT IS ORDERED that the Honorable J.C. Nicholson, Jr., be vested with exclusive jurisdiction over any criminal charges that may be filed against Dylann S. Roof arising out or related to the killings which occurred on June 17, 2015, in the City of Charleston, Charleston County, South Carolina. Judge Nicholson shall decide all matters, both pretrial and trial, pertaining to these charges, including motions to appoint or\n   relieve counsel, and shall retain jurisdiction over these charges regardless of where he may be assigned to hold court and may schedule such hearings as may be necessary at any time\n   without regard as to whether there is a term of court scheduled.\n  </p>\n  <author id=\"p-7\">\n   /s/Jean H. Toal , C.J.\n  </author>\n  <p id=\"p-8\">\n   /s/FOR THE COURT\n  </p>\n </opinion>\n</casebody>\n"
   }
 }

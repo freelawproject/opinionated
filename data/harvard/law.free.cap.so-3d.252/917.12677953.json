@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"917\" lastpage=\"917\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">ST. BERNARD PORT, HARBOR &amp; TERMINAL DISTRICT<br/> v.<br/> VIOLET DOCK PORT, INC., LLC</parties>\n<docketnumber id=\"p-2\">St. Bernard Port, Harbor &amp; Terminal District<br/> v.<br/> Violet Dock Port, Inc., L.L.C.</docketnumber>\n<docketnumber id=\"p-3\">NO. 2018-C-0826</docketnumber>\n<court id=\"p-4\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-5\">September 21, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"917\" lastpage=\"917\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    ST. BERNARD PORT, HARBOR &amp; TERMINAL DISTRICT\n    <br/>\n    v.\n    <br/>\n    VIOLET DOCK PORT, INC., LLC\n   </parties>\n   <parties id=\"p-2\">\n    St. Bernard Port, Harbor &amp; Terminal District\n    <br/>\n    v.\n    <br/>\n    Violet Dock Port, Inc., L.L.C.\n   </parties>\n   <docketnumber id=\"p-3\">\n    NO. 2018-C-0826\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-5\">\n    September 21, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

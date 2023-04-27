@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"683\" lastpage=\"683\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">State of North Carolina<br/> v.<br/> Ian Scott Banks</parties>\n<docketnumber id=\"p-2\">No. COA16-182</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: September 20, 2016</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">NEW TRIAL.</p></opinion>\n</casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"683\" lastpage=\"683\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    State of North Carolina\n    <br/>\n    v.\n    <br/>\n    Ian Scott Banks\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA16-182\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: September 20, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     NEW TRIAL.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

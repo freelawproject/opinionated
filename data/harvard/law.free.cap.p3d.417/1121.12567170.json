@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1121\" lastpage=\"1121\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF the Parental Rights as to L.C.N., a minor.</parties>\n<docketnumber id=\"p-2\">Sean M.I., Appellant,<br/> v.<br/> Cassandra E.; and Erick E., Respondents.</docketnumber>\n<docketnumber id=\"p-3\">No. 73503</docketnumber>\n<court id=\"p-4\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-5\">FILED MAY 15, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">REVERSED. REMAND.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1121\" lastpage=\"1121\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF the Parental Rights as to L.C.N., a minor.\n   </parties>\n   <parties id=\"p-2\">\n    Sean M.I., Appellant,\n    <br/>\n    v.\n    <br/>\n    Cassandra E.; and Erick E., Respondents.\n   </parties>\n   <docketnumber id=\"p-3\">\n    No. 73503\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-5\">\n    FILED MAY 15, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     REVERSED. REMAND.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

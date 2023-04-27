@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"402\" lastpage=\"402\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE EX REL. WELTY<br/> v.<br/> WALDER</parties>\n<docketnumber id=\"p-2\">2019-0499</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">April 26, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>MEDIATION MATTER</strong></p><p id=\"p-6\">The case has been referred to mediation under S.Ct.Prac.R. 19.01.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"402\" lastpage=\"402\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE EX REL. WELTY\n    <br/>\n    v.\n    <br/>\n    WALDER\n   </parties>\n   <docketnumber id=\"p-2\">\n    2019-0499\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 26, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      MEDIATION MATTER\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     The case has been referred to mediation under S.Ct.Prac.R. 19.01.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

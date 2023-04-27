@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"262\" lastpage=\"262\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Mark Steven WAGMAN, Owner/Claimant, One (1) 2008 Lexus ES-350, VIN #JTHBJ46G882181199, LIC #783 WTP/NVWYD/NV, Appellant,<br/> v.<br/> LAS VEGAS METROPOLITAN POLICE DEPARTMENT, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 75652</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED OCTOBER 15, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"262\" lastpage=\"262\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <attorneys id=\"p-1\">\n    Mark Steven WAGMAN, Owner/Claimant, One (1) 2008 Lexus ES-350, VIN #JTHBJ46G882181199, LIC #783 WTP/NVWYD/NV, Appellant,\n    <br/>\n    v.\n    <br/>\n    LAS VEGAS METROPOLITAN POLICE DEPARTMENT, Respondent.\n   </attorneys>\n   <docketnumber id=\"p-2\">\n    No. 75652\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED OCTOBER 15, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"931\" lastpage=\"931\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE EX REL. BALLINGER<br/> v.<br/> MAYOR</parties>\n<docketnumber id=\"p-2\">2019-0556</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">July 2, 2019</decisiondate>\n<p id=\"p-5\">CASE ANNOUNCEMENTS</p>\n<p id=\"p-6\">MEDIATION MATTERS</p>\n\n<opinion type=\"majority\"><p>No opinion found.<a href=\"https://cite.case.law/ne3d/125/931/12545325/\">Click here to view source material.</a></p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"931\" lastpage=\"931\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE EX REL. BALLINGER\n    <br/>\n    v.\n    <br/>\n    MAYOR\n   </parties>\n   <docketnumber id=\"p-2\">\n    2019-0556\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    July 2, 2019\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <p id=\"p-6\">\n    MEDIATION MATTERS\n   </p>\n   <opinion type=\"majority\">\n    <p>\n     No opinion found.\n     <a href=\"https://cite.case.law/ne3d/125/931/12545325/\">\n      Click here to view source material.\n     </a>\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

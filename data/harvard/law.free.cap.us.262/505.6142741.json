@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"505\" lastpage=\"506\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b555-2\">STATE OF OKLAHOMA <em>v. </em>STATE OF TEXAS. UNITED STATES, INTERVENER.</parties>\n<docketnumber id=\"b555-5\">No. 18,</docketnumber>\n\n<decisiondate id=\"b555-6\">Order entered June 4, 1923.</decisiondate>\n<opinion><p id=\"Als\">Original.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"505\" lastpage=\"506\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b555-2\">STATE OF OKLAHOMA <em>v. </em>STATE OF TEXAS. UNITED STATES, INTERVENER.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b555-5\">No. 18,</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b555-6\">Order entered June 4, 1923.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Als\">Original.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

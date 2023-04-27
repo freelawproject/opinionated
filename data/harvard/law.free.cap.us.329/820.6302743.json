@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"820\" lastpage=\"820\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b906-6\">No. 1102,</docketnumber>\n<p id=\"ArrE\">October Term, 1945.</p>\n<parties id=\"Af8I\">Gould et al. <em>v. </em>United States.</parties>\n<decisiondate id=\"AiC_\">October 14, 1946.</decisiondate>\n<p id=\"AmyE\">328 U. S. 848.</p>\n<opinion><p>No opinion found. <a href=\"https://cite.case.law/pdf/6302743/Gould%20v.%20United%20States.pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"820\" lastpage=\"820\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b906-6\">No. 1102,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ArrE\">October Term, 1945.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Af8I\">Gould et al. <em>v. </em>United States.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AiC_\">October 14, 1946.</decisiondate>\n<p data-order=\"4\" data-type=\"otherdate\" id=\"AmyE\">328 U. S. 848.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\"><p>No opinion found. <a href=\"https://cite.case.law/pdf/6302743/Gould%20v.%20United%20States.pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

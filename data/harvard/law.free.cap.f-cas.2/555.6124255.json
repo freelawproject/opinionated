@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<headnotes id=\"b557-7\">Case No. 812.</headnotes>\n<parties id=\"b557-8\">Ex parte BALL.</parties>\n<p id=\"b557-9\">[Law, Dig. 620.]</p>\n\n<opinion><p id=\"b557-10\">[The case noted under this title in Law, Dig. 620, is the same as Ex parte Ball, Case No.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<headnotes data-order=\"0\" data-type=\"headnotes\" id=\"b557-7\">Case No. 812.</headnotes>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b557-8\">Ex parte BALL.</parties>\n<p data-order=\"2\" data-type=\"p\" id=\"b557-9\">[Law, Dig. 620.]</p>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b557-10\">[The case noted under this title in Law, Dig. 620, is the same as Ex parte Ball, Case No.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

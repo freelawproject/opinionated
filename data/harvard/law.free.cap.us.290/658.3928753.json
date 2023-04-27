@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"658\" lastpage=\"658\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b726-8\">No. 297.</docketnumber>\n<parties id=\"AV-\">Sheer Pharmacal Corp. <em>v. </em>Donner.</parties>\n<decisiondate id=\"AlV\">October 9, 1933.</decisiondate>\n\n\n<attorneys id=\"AoG\"><em>Richard A. Jones </em>for petitioner. <em>Messrs. Lynn A. Williams </em>and <em>Thomas H. Sheridan </em>for respondent.</attorneys>\n<opinion><p id=\"AAiD\">Petition for writ of certiorari to the Circuit Court of Appeals for the Eighth Circuit denied.</p><p id=\"AKKX\">\n<em>Mr.</em>\n</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"658\" lastpage=\"658\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b726-8\">No. 297.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AV-\">Sheer Pharmacal Corp. <em>v. </em>Donner.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AlV\">October 9, 1933.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AoG\"><em>Richard A. Jones </em>for petitioner. <em>Messrs. Lynn A. Williams </em>and <em>Thomas H. Sheridan </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AAiD\">Petition for writ of certiorari to the Circuit Court of Appeals for the Eighth Circuit denied.</p><p id=\"AKKX\">\n<em>Mr.</em>\n</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

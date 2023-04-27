@@ -1,8 +1,12 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "556 F. App'x 965"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "556 F. App'x 965"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"965\" lastpage=\"965\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AQDm\">COUNCIL FOR TRIBAL EMPLOYMENT RIGHTS, Plaintiff-Appellant, v. UNITED STATES, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A75\">No. 2014-5003.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AQv\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AzU\">May 14, 2014.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A9a\">Daniel S. Press, Van Ness Feldman, LLP, of Washington, DC, argued for plaintiff-appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b823-4\">Joseph E. Ashman, Trial Attorney, Commercial Litigation Branch, Civil Division, United States Department of Justice, of Washington, DC, argued for defendantappellee. With him on the brief were Stuart F. Delery, Assistant Attorney General, Bryant G. Snee, Acting Director, and Donald E. Kinner, Assistant Director.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b823-5\">LOURIE, LINN, and PROST, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b823-6\">JUDGMENT</p>\n<author id=\"b823-7\">PER CURIAM.</author>\n<p id=\"b823-8\">This Cause having been heard and considered, it is</p>\n<p id=\"b823-9\">Ordered and Adjudged:</p>\n<p id=\"b823-10\">AFFIRMED. <em>See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

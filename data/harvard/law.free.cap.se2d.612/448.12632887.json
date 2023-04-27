@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"448\" lastpage=\"448\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">DIXON v. TAYLOR.</parties>\n<docketnumber id=\"p-2\">No. COA04-781.</docketnumber>\n<court id=\"p-3\">North Carolina Court of Appeals.</court>\n<decisiondate id=\"p-4\">Filed April 5, 2005.</decisiondate>\n<decisiondate id=\"p-5\">Certification Date April 25, 2005.</decisiondate>\n<history id=\"p-6\">Appeal from Pamlico, (03CVS121).</history>\n\n<opinion type=\"majority\"><p id=\"p-7\">Case reported without published opinion. Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"448\" lastpage=\"448\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    DIXON v. TAYLOR.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA04-781.\n   </docketnumber>\n   <court id=\"p-3\">\n    North Carolina Court of Appeals.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed April 5, 2005.\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date April 25, 2005.\n   </decisiondate>\n   <history id=\"p-6\">\n    Appeal from Pamlico, (03CVS121).\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     Case reported without published opinion. Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

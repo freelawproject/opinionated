@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"28\" lastpage=\"28\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">WHITE<br/> v.<br/> BUR. OF WORKERS' COMP.</parties>\n<docketnumber id=\"p-2\">2018-1707</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">March 22, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>MISCELLANEOUS DISMISSAL</strong></p><p id=\"p-6\">On appellant's application for dismissal. Application granted. Cause dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"28\" lastpage=\"28\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    WHITE\n    <br/>\n    v.\n    <br/>\n    BUR. OF WORKERS' COMP.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-1707\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 22, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      MISCELLANEOUS DISMISSAL\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     On appellant's application for dismissal. Application granted. Cause dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

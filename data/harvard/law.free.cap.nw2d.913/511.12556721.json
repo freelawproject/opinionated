@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"511\" lastpage=\"511\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">HORN n/k/a Haub<br/> v.<br/> HORN</parties>\n<docketnumber id=\"p-2\">28233</docketnumber>\n<court id=\"p-3\">Supreme Court of South Dakota.</court>\n<decisiondate id=\"p-4\">November 30, 2017</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed. (MWD).</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"511\" lastpage=\"511\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    HORN n/k/a Haub\n    <br/>\n    v.\n    <br/>\n    HORN\n   </parties>\n   <docketnumber id=\"p-2\">\n    28233\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of South Dakota.\n   </court>\n   <decisiondate id=\"p-4\">\n    November 30, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed. (MWD).\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

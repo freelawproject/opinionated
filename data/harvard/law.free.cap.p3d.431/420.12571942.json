@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"420\" lastpage=\"420\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MASON<br/> v.<br/> BCK CORPORATION</parties>\n<docketnumber id=\"p-2\">A161175(S066194)</docketnumber>\n<court id=\"p-3\">Supreme Court of Oregon.</court>\n<decisiondate id=\"p-4\">November 27, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Review Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"420\" lastpage=\"420\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MASON\n    <br/>\n    v.\n    <br/>\n    BCK CORPORATION\n   </parties>\n   <docketnumber id=\"p-2\">\n    A161175(S066194)\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Oregon.\n   </court>\n   <decisiondate id=\"p-4\">\n    November 27, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Review Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

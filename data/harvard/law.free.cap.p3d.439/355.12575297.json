@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"355\" lastpage=\"355\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE of Kansas, Appellee,<br/> v.<br/> Keydren Daniel OLIVER, Appellant.</parties>\n<docketnumber id=\"p-2\">No. 119,443</docketnumber>\n<court id=\"p-3\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-4\">Opinion filed April 26, 2019</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Submitted by the parties for summary disposition pursuant. to K.S.A. 2018 Supp. 21-6820(g) and (h).</p><p id=\"p-6\">Affirm.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"355\" lastpage=\"355\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Kansas, Appellee,\n    <br/>\n    v.\n    <br/>\n    Keydren Daniel OLIVER, Appellant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 119,443\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed April 26, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Submitted by the parties for summary disposition pursuant. to K.S.A. 2018 Supp. 21-6820(g) and (h).\n    </p>\n    <p id=\"p-6\">\n     Affirm.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

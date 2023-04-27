@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "154 Fla. 160"
-        },
-        {
-            "type": "parallel",
-            "cite": "17 So. (2nd) 78"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "154 Fla. 160"
+    },
+    {
+      "type": "parallel",
+      "cite": "17 So. (2nd) 78"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"160\" lastpage=\"161\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b184-6\">HARRY SITAMORE v. NATHAN MAYO, as State Prison Custodian, and L. F. CHAPMAN, as Superintendent of the State Prison at Raiford, Florida.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b184-7\">17'So. (2nd) 78</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AdM\">January Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b184-8\">February 1, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"abx-dedup-0\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b184-11\"><em>M. Caraballo </em>and <em>John G. Graham, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b184-12\"><em>J. Tom Watson, </em>Attorney General, <em>Woodrow M. Melvin, </em>and <em>George M. Powell, </em>Assistant Attorneys General, for ap-pellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b184-13\">PER CURIAM:</author>\n<p id=\"b184-14\">The judgment of the circuit court, remanding the appellant to custody, is Affirmed.</p>\n<judges id=\"b184-15\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n<author id=\"b184-16\">PER CURIAM:</author>\n<p id=\"b184-17\">In response to appellant\u2019s petition for clarification of our judgment in this case, for the information of appellant and his counsel we might state that, while some members of the Court were in some doubt as to whether habeas corpus, or a bill in equity to impeach the judgments and sentences under which appellant is held in custody, for fraud in their procurement, was the appropriate remedy for appellant to have pursued in this case (See Skipper v. Schumacher, 124 Fla. 384, <page-number citation-index=\"1\" label=\"161\">*161</page-number>169 So. 58), the court, in rendering its judgment of affirmance, considered and decided the appeal on the merits. The testimony on the vital issues presented was in conflict, but there being in our opinion ample evidence to support the judgment entered by the circuit judge, who was in a better position than the members of this Court to determine the credibility of the testimony, we entered a judgment of affirmance, in accordance with our established rule governing such cases.</p>\n<p id=\"b185-5\">In so far as the petition in an informal way, asks leave of this Court to apply to the trial court for writ of error <em>Coram Nobis, </em>the petition must be denied. Our view is that such coram nobis proceedings are not available on the facts shown by this record, under the general principles governing the granting of sfich writs of error as set forth in Lamb v. State, 91 Fla. 396, 107 So. 535, and subsequent cases following that case. See also in this general connection Jarvis v. State, 115 Fla. 320, 156 So. 310.</p>\n<judges id=\"b185-6\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

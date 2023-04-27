@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"298\" lastpage=\"298\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Shawn M. WALLACE<br/> v.<br/> Richard R. WOODFORD</parties>\n<docketnumber id=\"p-2\">2016AP2359</docketnumber>\n<court id=\"p-3\">Supreme Court of Wisconsin.</court>\n<decisiondate id=\"p-4\">November 13, 2018</decisiondate>\n\n<p id=\"p-6\">Roggensack, C. J. dissents.</p>\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition for Review Denied.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"298\" lastpage=\"298\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Shawn M. WALLACE\n    <br/>\n    v.\n    <br/>\n    Richard R. WOODFORD\n   </parties>\n   <docketnumber id=\"p-2\">\n    2016AP2359\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    November 13, 2018\n   </decisiondate>\n   <opinion id=\"p-6\">\n    Roggensack, C. J. dissents.\n   </opinion>\n   <p type=\"majority\">\n    <p id=\"p-5\">\n     Petition for Review Denied.\n    </p>\n   </p>\n  </casebody>\n </body>\n</html>\n"
   }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"466\" lastpage=\"466\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<docketnumber id=\"p-2\">No. COA16-1173</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: May 16, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-1\">IN RE: Matter of Proposed Foreclosure of a Deed of Trust Executed by Sheila MCLEAN Dated June 2, 2005, and Recorded in Book 1477, Page 417 Et. Seq., of the Franklin County Registrar of Deeds.</p><p id=\"p-5\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"466\" lastpage=\"466\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <docketnumber id=\"p-2\">\n    No. COA16-1173\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: May 16, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-1\">\n     IN RE: Matter of Proposed Foreclosure of a Deed of Trust Executed by Sheila MCLEAN Dated June 2, 2005, and Recorded in Book 1477, Page 417 Et. Seq., of the Franklin County Registrar of Deeds.\n    </p>\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

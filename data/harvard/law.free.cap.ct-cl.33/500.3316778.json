@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "33 Ct. Cl. 500"
-        },
-        {
-            "type": "parallel",
-            "cite": "32 C. Cls. R. 227"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 Ct. Cl. 500"
+    },
+    {
+      "type": "parallel",
+      "cite": "32 C. Cls. R. 227"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"501\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b592-11\">MARY E. SKELLEY, Administratrix, v. THE UNITED STATES.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b592-13\">[32 C. Cls. R., 227.</citation>\n<p data-order=\"2\" data-type=\"p\" id=\"ATU\">No opinion in U. S. R.]</p>\n<syllabus data-order=\"3\" data-type=\"syllabus\" id=\"b592-14\">\n<em>On the defendants\u2019 Appeal.</em>\n</syllabus>\n<syllabus data-order=\"4\" data-type=\"syllabus\" id=\"b592-15\">The widow of a deceased letter carrier brings suit as widow to recover a balance of salary due him. The defendants plead- to the merits. After the statute of limitations will bar the bringing of a new action, she seeks to amend by setting up that she is administra-trix.</syllabus>\n<syllabus data-order=\"5\" data-type=\"syllabus\" id=\"b592-16\">The court below decides:</syllabus>\n<syllabus data-order=\"6\" data-type=\"syllabus\" id=\"b592-17\">1. The inconvenience of requiring a widow to bear the cost and expense of administration as a prerequisite to bringing a suit upon a trivial demand should not be insisted upon by the court.</syllabus>\n<syllabus data-order=\"7\" data-type=\"syllabus\" id=\"b592-19\">2. Where the defendants raise no objection to the party claimant but plead to the merits and the statute of limitations will bar a new action, the court will allow an amendment.</syllabus>\n<syllabus data-order=\"8\" data-type=\"syllabus\" id=\"b593-3\"><page-number citation-index=\"1\" label=\"501\">*501</page-number>3.It is well settled tliat a substitution of parties will be allowed where the suit was instituted in good faith by one having' some interest in the cause of action or some legal relation with the person who should have brought it, and a new suit can not be instituted by him.</syllabus>\n<decisiondate data-order=\"9\" data-type=\"decisiondate\" id=\"ADY\">October 12, 1897.</decisiondate>\n<opinion data-order=\"10\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b593-4\">The appeal was dismissed on motion of the defendants</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

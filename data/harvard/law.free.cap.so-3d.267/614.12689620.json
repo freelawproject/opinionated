@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"614\" lastpage=\"615\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Melonie Daunie COMEAUX Wife of/and Michael Jerome Comeaux<br/> v.<br/> AMERICAN HOME SHIELD CORPORATION, et al.</parties>\n<docketnumber id=\"p-2\">NO. 2019-CC-0256</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">April 8, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"615\" href=\"#p615\" id=\"p615\">*615</a>Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"614\" lastpage=\"615\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Melonie Daunie COMEAUX Wife of/and Michael Jerome Comeaux\n    <br/>\n    v.\n    <br/>\n    AMERICAN HOME SHIELD CORPORATION, et al.\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2019-CC-0256\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 8, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

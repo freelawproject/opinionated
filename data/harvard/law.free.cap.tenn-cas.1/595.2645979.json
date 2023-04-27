@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"595\" lastpage=\"595\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b615-10\">JAMES T. GLEAVES v. DAVIDSON AND WILSON CENTRAL TURNPIKE CO.</parties>\n<citation id=\"b615-11\">(S. C., 1 Leg. Rep., 156, 157, and 4 Bax., 83.</citation>\n\n\n<decisiondate id=\"Asu\">January Term, 1876.</decisiondate>\n<opinion><p id=\"Art3\">The correct name of the defendant is \u201cDavidson and Wilson County Central Turnpike Company.\u201d See acts of 1857-58, ch. 17.)</p><p id=\"b615-12\">Nashville,</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"595\" lastpage=\"595\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b615-10\">JAMES T. GLEAVES v. DAVIDSON AND WILSON CENTRAL TURNPIKE CO.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b615-11\">(S. C., 1 Leg. Rep., 156, 157, and 4 Bax., 83.</citation>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Asu\">January Term, 1876.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Art3\">The correct name of the defendant is \u201cDavidson and Wilson County Central Turnpike Company.\u201d See acts of 1857-58, ch. 17.)</p><p id=\"b615-12\">Nashville,</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

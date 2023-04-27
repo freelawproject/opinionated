@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"678\" lastpage=\"678\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b710-5\">Graham <em>v. </em>Colburn.</parties>\n\n<court id=\"b710-7\">(At Special Term,</court>\n<decisiondate id=\"A01\">February, 1857.</decisiondate>\n<p id=\"AAF\">Before Bosworth, J.)</p>\n<opinion><p id=\"b710-6\">The Judge before whom proceedings supplementary to execution, under \u00a7 292 of the Code, are pending, has no power to order a commission to be issued for the examination of witnesses residing out of the state, to talce testimony to be used on such proceedings. (Reported in 14 How. Pr. R. 52.)</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"678\" lastpage=\"678\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b710-5\">Graham <em>v. </em>Colburn.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b710-7\">(At Special Term,</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A01\">February, 1857.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AAF\">Before Bosworth, J.)</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b710-6\">The Judge before whom proceedings supplementary to execution, under \u00a7 292 of the Code, are pending, has no power to order a commission to be issued for the examination of witnesses residing out of the state, to talce testimony to be used on such proceedings. (Reported in 14 How. Pr. R. 52.)</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

@@ -1,8 +1,12 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "551 F. App'x 563"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "551 F. App'x 563"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"563\" lastpage=\"564\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b591-21\">UNITED STATES of America, Plaintiff-Appellee, v. Carmelo ROSADO-CURBELO, Defendant-Appellant. United States of America, Plaintiff-Appellee, v. Carmelo Rosado-Curbelo, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b591-27\">Nos. 13-12662, 13-12672</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"AFK\">Non-Argument Calendar.</p>\n<court data-order=\"3\" data-type=\"court\" id=\"b591-28\">United States Court of Appeals, Eleventh Circuit.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b591-29\">Jan. 23, 2014.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b591-30\">Aileen Cannon, Kathleen Mary Salyer, Wifredo A. Ferrer, Jared M. Strauss, U.S. Attorney\u2019s Office, Miami, FL, for Plaintiff-Appellee.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b592-3\"><page-number citation-index=\"1\" label=\"564\">*564</page-number>Michael Caruso, Federal Public Defender, Bonnie Phillips-Williams, Federal Public Defender\u2019s Office, Samuel J. Randall, Kenny Nachwalter, PA, Miami, FL, for Defendant-Appellant.</attorneys>\n<judges data-order=\"7\" data-type=\"judges\" id=\"b592-5\">Before PRYOR, FAY, and EDMONDSON, Circuit Judges.</judges>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b592-6\">PER CURIAM:</author>\n<p id=\"b592-7\">Carmelo Rosado-Curbelo appeals his 33-month (upward variance) sentence; and his 18-month sentence imposed following the revocation of the supervised release in two cases (although he raises no argument on appeal about his 18-month sentence). In context of the record, the district court\u2019s explanation for his 33-month sentence, though brief, was adequate; and that sentence was procedurally reasonable. <em>See United States v. Agbai, </em>497 F.3d 1226 (11th Cir.2007). The court\u2019s 33-month sentence was also substantively reasonable in the light of the record and the relevant sentencing factors identified in 18 U.S.C. \u00a7\u00a7 3553(a) and 3853(e), particularly given Rosado-Curbelo\u2019s problems with recidivism and with adhering to the terms of his supervised release.</p>\n<p id=\"b592-8\">AFFIRMED.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

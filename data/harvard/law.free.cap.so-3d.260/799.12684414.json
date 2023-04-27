@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"799\" lastpage=\"799\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Michael J. MALOUF<br/> v.<br/> Lisa EVANS</parties>\n<docketnumber id=\"p-2\">2017-CT-00374-SCT</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: October 30, 2018<br/> Closed: January 17, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Certiorari - Granted</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"799\" lastpage=\"799\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Michael J. MALOUF\n    <br/>\n    v.\n    <br/>\n    Lisa EVANS\n   </parties>\n   <docketnumber id=\"p-2\">\n    2017-CT-00374-SCT\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: October 30, 2018\n    <br/>\n    Closed: January 17, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Certiorari - Granted\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

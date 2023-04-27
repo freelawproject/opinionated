@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "29 Ct. Cl. 555"
-        },
-        {
-            "type": "parallel",
-            "cite": "151 U. S. R., 366; 152 U. S. R., 384"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 Ct. Cl. 555"
+    },
+    {
+      "type": "parallel",
+      "cite": "151 U. S. R., 366; 152 U. S. R., 384"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b577-15\">ALBERT W. STAHL v. THE UNITED STATES.</parties>\n<p data-order=\"1\" data-type=\"p\" id=\"b577-16\">[Not reported in C. Cls. R.;</p>\n<citation data-order=\"2\" data-type=\"citation\" id=\"APO\">151 U. S. R., 366; 152 U. S. R., 384.]</citation>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b577-17\">\n<em>On the claimant's Appeal.</em>\n</summary>\n<syllabus data-order=\"4\" data-type=\"syllabus\" id=\"b577-18\">Claimant entered the Naval Academy September 14, 1876, and graduated June 10, 1882; August 10, 1887, he resigned his commission as assistant engineer; August 11,1887, he was commissioned assistant naval constructor. He claims $1,000 for longevity pay as an assistant engineer in the Navy, from June 10, 1882, to August 10, 1887.</syllabus>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b577-19\">The court below finds for the claimant for the fall amount.</summary>\n<summary data-order=\"6\" data-type=\"summary\" id=\"b577-20\">The decision of the court below is reversed on the same grounds as in the case of Alger, <em>post.</em></summary>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b577-21\">Mr. Justice Gray</author>\n<p id=\"AnI\">delivered the opinion of the Supreme Court, January 22,1894.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

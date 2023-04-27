@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"130\" lastpage=\"130\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<parties id=\"b188-5\">Elizabeth K. Henkel, Executrix, etc. v. Guy R. Fisher.</parties>\n<decisiondate id=\"b188-6\">March 14, 1935.</decisiondate>\n<attorneys id=\"AO\"><em>Allen, Walsh &amp; Waddell, </em>for the appellant.</attorneys>\n<attorneys id=\"b188-8\"><em>Charles Curry, </em>for the appellee.</attorneys>\n<opinion><p id=\"b188-4\">Richmond</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"130\" lastpage=\"130\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b188-5\">Elizabeth K. Henkel, Executrix, etc. v. Guy R. Fisher.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b188-6\">March 14, 1935.</decisiondate>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"AO\"><em>Allen, Walsh &amp; Waddell, </em>for the appellant.</attorneys>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b188-8\"><em>Charles Curry, </em>for the appellee.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b188-4\">Richmond</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

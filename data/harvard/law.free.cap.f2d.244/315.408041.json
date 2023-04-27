@@ -1,8 +1,12 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "244 F.2d 315"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "244 F.2d 315"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"315\" lastpage=\"315\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b363-20\">HUMBLE OIL &amp; REFINING COMPANY, Petitioner, v. FEDERAL POWER COMMISSION, Respondent (six cases).</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b363-22\">Nos. 15936-15941.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b363-23\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b363-24\">May 17, 1957.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b363-26\">W. J. Merrill, Rex Baker, Carl Illig, Nelson Jones, Houston, Tex., Bernard A. Foster, Jr., Washington, D. C., Bernard J. Caillouet, Charles Janvier, New Orleans, La., William H. Holloway, Houston, Tex., Ross, Marsh &amp; Foster, Washington, D. C., of counsel, for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b363-27\">W. Russell Gorman and C. Louis Knight, Attys., Lambert McAllister, Asst. Gen. Counsel, Willard W. Gatchell, Gen. Counsel, Howard E. Wahrenbrock, Sol., Federal Power Commission, Washington, D. C., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b363-28\">Before BORAH, RIVES and BROWN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b363-29\">PER CURIAM.</author>\n<p id=\"b363-30\">These six cases which were consolidated for all purposes by order of Court came to be heard on petitions for review of six orders of the Federal Power Commission and were argued by counsel. Upon consideration whereof, and of the briefs filed by the parties, it is</p>\n<p id=\"b363-31\">Ordered and adjudged by this Court that the petitions for review in these cases be, and they are hereby, dismissed on the authority of Humble Oil &amp; Refining Co. v. Federal Power Commission, 5 Cir., 236 F.2d 819, certiorari denied, 352 U.S. 967, 77 S.Ct. 354, 1 L.Ed.2d 321.</p>\n<p id=\"b363-32\">Dismissed.</p>\n</opinion>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-2\" type=\"dissent\">\n<author id=\"b363-33\">BROWN, Judge,</author>\n<p id=\"AGs\">dissents for the reasons set forth at length in his dissent, Magnolia Petroleum Co. v. Federal Power Commission, 5 Cir., 236 F.2d 785 at page 793, and particularly Part II, Suspension Cases.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

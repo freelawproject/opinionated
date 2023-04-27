@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"615\" lastpage=\"615\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"b623-4\">James Watt, Jun. plaintiff and respondent, <em>vs. </em>Archibald Watt, defendant and appellant.</parties>\n\n<p id=\"b623-6\">(Before Robertson, Barbour and McCunn, JJ.)</p>\n\n<opinion><p id=\"b623-5\">An order to show cause against striking out certain allegations in the defendant\u2019s answer, consisting of a set-off and payment, in case he should fail to furnish, by a certain day, the particulars thereof, is not appealable.</p><p id=\"b623-7\">Heard May, 1864.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"615\" lastpage=\"615\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b623-4\">James Watt, Jun. plaintiff and respondent, <em>vs. </em>Archibald Watt, defendant and appellant.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b623-6\">(Before Robertson, Barbour and McCunn, JJ.)</p>\n<opinion data-order=\"2\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b623-5\">An order to show cause against striking out certain allegations in the defendant\u2019s answer, consisting of a set-off and payment, in case he should fail to furnish, by a certain day, the particulars thereof, is not appealable.</p><p id=\"b623-7\">Heard May, 1864.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

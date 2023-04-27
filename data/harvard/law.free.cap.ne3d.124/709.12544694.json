@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"709\" lastpage=\"709\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Cynthia BERGERON, personal representative,<footnotemark>1</footnotemark><br/> v.<br/> WINGATE AT NEEDHAM, INC.,<footnotemark>2</footnotemark> &amp; others.<footnotemark>3</footnotemark></parties>\n<docketnumber id=\"p-2\">18-P-1111</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n<decisiondate id=\"p-4\">Entered: April 30, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Judgment affirmed.</p></opinion>\n</casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"709\" lastpage=\"709\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Cynthia BERGERON, personal representative,\n    <footnotemark>\n     1\n    </footnotemark>\n    <br/>\n    v.\n    <br/>\n    WINGATE AT NEEDHAM, INC.,\n    <footnotemark>\n     2\n    </footnotemark>\n    &amp; others.\n    <footnotemark>\n     3\n    </footnotemark>\n   </parties>\n   <docketnumber id=\"p-2\">\n    18-P-1111\n   </docketnumber>\n   <court id=\"p-3\">\n    Appeals Court of Massachusetts.\n   </court>\n   <decisiondate id=\"p-4\">\n    Entered: April 30, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Judgment affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

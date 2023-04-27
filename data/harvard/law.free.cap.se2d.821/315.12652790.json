@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"315\" lastpage=\"315\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Cedrick WILDER, Plaintiff,<br/> v.<br/> David LITTERAL, Defendant.</parties>\n<docketnumber id=\"p-2\">No. COA17-1410</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: November 20, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">REVERSED IN PART; VACATED. REMANDED IN PART.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"315\" lastpage=\"315\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Cedrick WILDER, Plaintiff,\n    <br/>\n    v.\n    <br/>\n    David LITTERAL, Defendant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA17-1410\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: November 20, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     REVERSED IN PART; VACATED. REMANDED IN PART.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

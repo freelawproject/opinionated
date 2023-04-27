@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"289\" lastpage=\"289\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">CINCINNATI BAR ASSN.<br/> v.<br/> MOORE</parties>\n<docketnumber id=\"p-2\">2014-1737</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">August 27, 2019</decisiondate>\n<p id=\"p-5\"><strong>CASE ANNOUNCEMENTS</strong></p>\n<p id=\"p-6\"><strong>DISCIPLINARY CASES</strong></p>\n\n<opinion type=\"majority\"><p id=\"p-7\">On relator motion to unseal. Motion granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"289\" lastpage=\"289\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    CINCINNATI BAR ASSN.\n    <br/>\n    v.\n    <br/>\n    MOORE\n   </parties>\n   <docketnumber id=\"p-2\">\n    2014-1737\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    August 27, 2019\n   </decisiondate>\n   <p id=\"p-5\">\n    <strong>\n     CASE ANNOUNCEMENTS\n    </strong>\n   </p>\n   <p id=\"p-6\">\n    <strong>\n     DISCIPLINARY CASES\n    </strong>\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     On relator motion to unseal. Motion granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

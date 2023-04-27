@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"982\" lastpage=\"982\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MEMA PROPERTIES, LLC, a Nevada limited liability company, Appellant,<br/> v.<br/> SBA STEEL II, LLC, a Florida limited liability company; SBA 2012 TC Assets LLC, f/k/a TowerCo Assets LLC, a Delaware limited liability company, Respondents.</parties>\n<docketnumber id=\"p-2\">No. 71820</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED JANUARY 24, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"982\" lastpage=\"982\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MEMA PROPERTIES, LLC, a Nevada limited liability company, Appellant,\n    <br/>\n    v.\n    <br/>\n    SBA STEEL II, LLC, a Florida limited liability company; SBA 2012 TC Assets LLC, f/k/a TowerCo Assets LLC, a Delaware limited liability company, Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 71820\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED JANUARY 24, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

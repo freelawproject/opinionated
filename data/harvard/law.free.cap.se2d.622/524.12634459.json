@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"524\" lastpage=\"524\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE v. WILLIAMS.</parties>\n<docketnumber id=\"p-2\">No. COA04-1389.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed December 6, 2005.</decisiondate>\n<decisiondate id=\"p-5\">Certification Date December 27, 2005.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Case reported without published opinion. Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"524\" lastpage=\"524\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE v. WILLIAMS.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA04-1389.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed December 6, 2005.\n   </decisiondate>\n   <decisiondate id=\"p-5\">\n    Certification Date December 27, 2005.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Case reported without published opinion. Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"749\" lastpage=\"749\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n<parties id=\"b813-4\">George Condon Shackleford v. Commonwealth.</parties>\n<decisiondate id=\"AeC\">September 19, 1935.</decisiondate>\n<attorneys id=\"b813-7\"><em>W. L. Devany, Jr., </em>for the plaintiff in error.</attorneys>\n<attorneys id=\"b813-8\"><em>Abram P. Staples, Attorney-General, </em>and <em>Edwin H. Gibson, Assistant Attorney-General, </em>for the Commonwealth.</attorneys>\n<opinion><p id=\"b813-3\">Staunton</p></opinion></casebody>\n</body></html>"}}
+{
+  "casebody": {
+    "data": "<html><body><casebody firstpage=\"749\" lastpage=\"749\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b813-4\">George Condon Shackleford v. Commonwealth.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AeC\">September 19, 1935.</decisiondate>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b813-7\"><em>W. L. Devany, Jr., </em>for the plaintiff in error.</attorneys>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b813-8\"><em>Abram P. Staples, Attorney-General, </em>and <em>Edwin H. Gibson, Assistant Attorney-General, </em>for the Commonwealth.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b813-3\">Staunton</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
+  }
+}

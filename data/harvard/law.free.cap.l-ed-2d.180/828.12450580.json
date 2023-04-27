@@ -1,8 +1,12 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "180 L. Ed. 2d 828"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "180 L. Ed. 2d 828"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"828\" lastpage=\"828\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b870-21\">No. 10-10006.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Afn5\">Romano Estrada, Petitioner v. Edwin G. Buss, Secretary, Florida Department of Corrections.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b870-22\">564 U.S. 1008, 131 S. Ct. 2997,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A63\">180 L. Ed. 2d 828,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A0F3\">2011 U.S. LEXIS 4420.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b870-23\">June 13, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Accc\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"233\" lastpage=\"233\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In re the Marriage of: Herbert Raymond GLIDEWELL, Petitioner-Respondent,<br/> v.<br/> Jill Irene RILEY, f/k/a Jill Irene Gildewell, Respondent-Appellant.</parties>\n<docketnumber id=\"p-2\">Appeal No. 2017AP414</docketnumber>\n<court id=\"p-3\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-4\">DATED AND FILED May 30, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Reversed and remanded.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"233\" lastpage=\"233\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In re the Marriage of: Herbert Raymond GLIDEWELL, Petitioner-Respondent,\n    <br/>\n    v.\n    <br/>\n    Jill Irene RILEY, f/k/a Jill Irene Gildewell, Respondent-Appellant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Appeal No. 2017AP414\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    DATED AND FILED May 30, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Reversed and remanded.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

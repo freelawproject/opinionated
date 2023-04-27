@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"17\" lastpage=\"17\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE GUARDIANSHIP OF ROSENBERGER</parties>\n<docketnumber id=\"p-2\">2018-1494</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">November 6, 2018</decisiondate>\n<p id=\"p-5\">CASE ANNOUNCEMENTS</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">MISCELLANEOUS DISMISSALS</p><p id=\"p-7\">On appellant's application for dismissal. Application granted. Cause dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"17\" lastpage=\"17\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE GUARDIANSHIP OF ROSENBERGER\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-1494\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    November 6, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     MISCELLANEOUS DISMISSALS\n    </p>\n    <p id=\"p-7\">\n     On appellant's application for dismissal. Application granted. Cause dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

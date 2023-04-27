@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"159\" lastpage=\"159\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Richard MALLEY<br/> v.<br/> MASSACHUSETTS OFFICE ON DISABILITY &amp; another.<footnotemark>1</footnotemark></parties>\n<docketnumber id=\"p-2\">17-P-1413</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n<decisiondate id=\"p-4\">Entered: March 18, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Judgment affirmed.</p></opinion>\n</casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"159\" lastpage=\"159\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Richard MALLEY\n    <br/>\n    v.\n    <br/>\n    MASSACHUSETTS OFFICE ON DISABILITY &amp; another.\n    <footnotemark>\n     1\n    </footnotemark>\n   </parties>\n   <docketnumber id=\"p-2\">\n    17-P-1413\n   </docketnumber>\n   <court id=\"p-3\">\n    Appeals Court of Massachusetts.\n   </court>\n   <decisiondate id=\"p-4\">\n    Entered: March 18, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Judgment affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

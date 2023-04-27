@@ -1,8 +1,12 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "610 F.2d 785"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "610 F.2d 785"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"785\" lastpage=\"786\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b857-10\">ASG INDUSTRIES, INC., PPG Industries, Inc., Libbey-Owens-Ford Company, and C E Glass, Appellants, v. The UNITED STATES, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b857-13\">Appeal No. 79-16.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b857-14\">United States Court of Customs and Patent Appeals.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b857-15\">Nov. 29, 1979.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b858-3\"><page-number citation-index=\"1\" label=\"786\">*786</page-number>Eugene L. Stewart, Frederick L. Ikenson, Washington, D. C., attorneys of record, for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b858-4\">Barbara Allen Babcock, Asst. Atty. Gen., Washington, D. C., David M. Cohen, Director, Joseph I. Liebman, John J. Mahon, Sidney N. Weiss, New York City, for the U. S. \u2019</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b858-5\">Before MARKEY, Chief Judge, and RICH, BALDWIN, MILLER and PENN,<footnotemark>*</footnotemark> Judges.</p>\n<footnote data-order=\"7\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b858-28\"> The Honorable John G. Penn, United States District Court for the District of Columbia, sitting by designation.</p>\n</footnote>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"b858-6\">MILLER, Judge.</author>\n<p id=\"b858-7\">This is an appeal from the judgment of the United States Customs Court, 82 Cust.Ct. \u2014, C.D. 4788 (1979), which upheld the decision of the Secretary of the Treasury that float glass manufactured in Great Britain did not benefit from the payment or bestowal of a bounty or grant within the meaning of section 303 of the Tariff Act of 1930, as amended (19 U.S.C. \u00a7 1303). For the same reasons set forth in the opinion in <em>ASG Industries, Inc. v. United States, </em>610 F.2d 770, No. 79-15, decided concurrently herewith, the judgment of the Customs Court is <em>reversed </em>and the case is <em>remanded </em>for further proceedings.</p>\n<p id=\"b858-10\">MARKEY, C. J., and RICH, J., dissent.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

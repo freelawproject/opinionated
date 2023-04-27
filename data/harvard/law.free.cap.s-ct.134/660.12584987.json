@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"660\" lastpage=\"660\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Hermes Fidelina MORAZAN-ALVAREZ, petitioner,<br/> v.<br/> UNITED STATES.</parties>\n<docketnumber id=\"p-2\">No. 13-6881.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Nov. 18, 2013.</decisiondate>\n<p id=\"p-5\">Case below, 535 Fed.Appx. ----.</p>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"660\" lastpage=\"660\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Hermes Fidelina MORAZAN-ALVAREZ, petitioner,\n    <br/>\n    v.\n    <br/>\n    UNITED STATES.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 13-6881.\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of the United States\n   </court>\n   <decisiondate id=\"p-4\">\n    Nov. 18, 2013.\n   </decisiondate>\n   <history id=\"p-5\">\n    Case below, 535 Fed.Appx. ----.\n   </history>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

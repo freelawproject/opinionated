@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"812\" lastpage=\"812\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the MATTER OF the Honorable Jay T. GUNTER, Justice of the Peace, Hawthorne Township Justice Court, County of Mineral, State of Nevada.</parties>\n<docketnumber id=\"p-2\">No. 75868</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED JULY 18, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Administratively close.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"812\" lastpage=\"812\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the MATTER OF the Honorable Jay T. GUNTER, Justice of the Peace, Hawthorne Township Justice Court, County of Mineral, State of Nevada.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 75868\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED JULY 18, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Administratively close.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

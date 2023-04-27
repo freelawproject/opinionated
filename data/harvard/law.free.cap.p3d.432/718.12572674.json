@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"718\" lastpage=\"718\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SFR INVESTMENTS POOL 1, LLC, a Nevada Limited Liability Company, Appellant,<br/> v.<br/> GREEN TREE SERVICING, LLC; and Federal National Mortgage Association, d/b/a Fannie Mae, a Government Sponsored Entity, Respondents.</parties>\n<docketnumber id=\"p-2\">No. 72010</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED DECEMBER 17, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">AFFIRMED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"718\" lastpage=\"718\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    SFR INVESTMENTS POOL 1, LLC, a Nevada Limited Liability Company, Appellant,\n    <br/>\n    v.\n    <br/>\n    GREEN TREE SERVICING, LLC; and Federal National Mortgage Association, d/b/a Fannie Mae, a Government Sponsored Entity, Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 72010\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED DECEMBER 17, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b875-5\">No. 369,</docketnumber>\n<p id=\"ANiI\">October Term, 1942.</p>\n<parties id=\"AF_C\">Marconi Wireless Telegraph Co. <em>v. </em>United States.</parties>\n<decisiondate id=\"ARaF\">October 11, 1943.</decisiondate>\n<opinion><p>No opinion found. <a href=\"https://cite.case.law/pdf/6167463/Marconi%20Wireless%20Telegraph%20Co.%20v.%20United%20States.pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b875-5\">No. 369,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ANiI\">October Term, 1942.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AF_C\">Marconi Wireless Telegraph Co. <em>v. </em>United States.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ARaF\">October 11, 1943.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p>No opinion found. <a href=\"https://cite.case.law/pdf/6167463/Marconi%20Wireless%20Telegraph%20Co.%20v.%20United%20States.pdf\">Click here to view source material.</a></p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"729\" lastpage=\"729\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">LAGOON LANE, LLC, Plaintiff-Respondent,<br/> v.<br/> Paul RICE a/k/a Town Chairman, Town of West Bend, Rebecca Schuster a/k/a Town Clerk, Town of West Bend and the Town of West Bend, Defendants-Appellants.</parties>\n<docketnumber id=\"p-2\">Appeal No. 2016AP2118</docketnumber>\n<court id=\"p-3\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-4\">DATED AND FILED April 25, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"729\" lastpage=\"729\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    LAGOON LANE, LLC, Plaintiff-Respondent,\n    <br/>\n    v.\n    <br/>\n    Paul RICE a/k/a Town Chairman, Town of West Bend, Rebecca Schuster a/k/a Town Clerk, Town of West Bend and the Town of West Bend, Defendants-Appellants.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Appeal No. 2016AP2118\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    DATED AND FILED April 25, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

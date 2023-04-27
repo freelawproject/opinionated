@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the Matter of J.L.H.</parties>\n<docketnumber id=\"p-2\">No. COA15-431.</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">March 1, 2016.</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>Case Reported Without Published Opinion</strong></p><p id=\"p-6\">Affirmed in part, vacated and remanded in part.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the Matter of J.L.H.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA15-431.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 1, 2016.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      Case Reported Without Published Opinion\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Affirmed in part, vacated and remanded in part.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

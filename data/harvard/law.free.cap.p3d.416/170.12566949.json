@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"170\" lastpage=\"170\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Maria E. MASSALI and Hamid Massali, (Laurence M. Jarvis ), Appellants,<br/> v.<br/> FARMERS INSURANCE COMPANY, INC. d/b/a Farmers of Farmers Ins. Group, Appellee.</parties>\n<docketnumber id=\"p-2\">No. 117,464</docketnumber>\n<court id=\"p-3\">Court of Appeals of Kansas.</court>\n<decisiondate id=\"p-4\">Opinion filed April 13, 2018.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"170\" lastpage=\"170\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Maria E. MASSALI and Hamid Massali, (Laurence M. Jarvis ), Appellants,\n    <br/>\n    v.\n    <br/>\n    FARMERS INSURANCE COMPANY, INC. d/b/a Farmers of Farmers Ins. Group, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 117,464\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Kansas.\n   </court>\n   <decisiondate id=\"p-4\">\n    Opinion filed April 13, 2018.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "2 Del. Cas. 32"
-        },
-        {
-            "type": "parallel",
-            "cite": "Wells\u2019 Notebook, 365"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 Del. Cas. 32"
+    },
+    {
+      "type": "parallel",
+      "cite": "Wells\u2019 Notebook, 365"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"32\" lastpage=\"32\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b58-4\">ELZEY SPICER v. JOHN CONOWAY.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b58-5\">Court of Common Pleas.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIF\">April, 1808.</decisiondate>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b58-6\">\n<em>Walls\u2019 Notebook, 365.</em>\n</citation>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b58-12\"><em>Robinson </em>and <em>Bayard </em>for plaintiff. <em>Cooper </em>and <em>Vandyke </em>for defendant.</attorneys>\n<p data-order=\"5\" data-type=\"legal\" id=\"b58-13\">The plaintiff claimed to- be in possession under a warrant, survey and patent from the State. The defendant relied upon a possession manifested by many years\u2019 continued cutting of the timber.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b58-14\">Per Curiam. Booth, C. J.</author>\n<p id=\"A43\">When the State sells land, she delivers possession. Damages may be recovered beyond the trees proved on the laying down of the pretensions. In these cases, more than the value'of the property taken should be given, ottier- ' wise it would be in any man\u2019s power to force another to part with his property.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

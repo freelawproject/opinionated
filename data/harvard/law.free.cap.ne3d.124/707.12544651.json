@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"707\" lastpage=\"707\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Alan SLISKI<br/> v.<br/> BOARD OF ASSESSORS OF LINCOLN.</parties>\n<docketnumber id=\"p-2\">18-P-1180</docketnumber>\n<court id=\"p-3\">Appeals Court of Massachusetts.</court>\n<decisiondate id=\"p-4\">Entered: April 17, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Decision of the Appellate Tax Board affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"707\" lastpage=\"707\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Alan SLISKI\n    <br/>\n    v.\n    <br/>\n    BOARD OF ASSESSORS OF LINCOLN.\n   </parties>\n   <docketnumber id=\"p-2\">\n    18-P-1180\n   </docketnumber>\n   <court id=\"p-3\">\n    Appeals Court of Massachusetts.\n   </court>\n   <decisiondate id=\"p-4\">\n    Entered: April 17, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Decision of the Appellate Tax Board affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

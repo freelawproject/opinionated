@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1118\" lastpage=\"1118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">PEOPLE<br/> v.<br/> Quinton HILL</parties>\n<court id=\"p-2\">Court of Appeals of New York.</court>\n<decisiondate id=\"p-3\">denied September 14, 2018</decisiondate>\n<p id=\"p-4\">DiFiore, Ch. J.</p>\n\n<opinion type=\"majority\"><p id=\"p-5\">APPLICATIONS IN CRIMINAL CASES FOR LEAVE TO APPEAL denied</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1118\" lastpage=\"1118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    PEOPLE\n    <br/>\n    v.\n    <br/>\n    Quinton HILL\n   </parties>\n   <court id=\"p-2\">\n    Court of Appeals of New York.\n   </court>\n   <decisiondate id=\"p-3\">\n    denied September 14, 2018\n   </decisiondate>\n   <judges id=\"p-4\">\n    DiFiore, Ch. J.\n   </judges>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     APPLICATIONS IN CRIMINAL CASES FOR LEAVE TO APPEAL denied\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

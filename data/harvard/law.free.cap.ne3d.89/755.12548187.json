@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"755\" lastpage=\"755\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE MARRIAGE OF Karin M. JONES, petitioner,</parties>\n<docketnumber id=\"p-2\">Gregory K. Jones, respondent.</docketnumber>\n<docketnumber id=\"p-3\">No. 122197</docketnumber>\n<court id=\"p-4\">Supreme Court of Illinois.</court>\n<decisiondate id=\"p-5\">September 27, 2017</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-6\"><strong>PETITION FOR LEAVE TO APPEAL</strong></p><p id=\"p-7\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"755\" lastpage=\"755\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE MARRIAGE OF Karin M. JONES, petitioner,\n   </parties>\n   <attorneys id=\"p-2\">\n    Gregory K. Jones, respondent.\n   </attorneys>\n   <docketnumber id=\"p-3\">\n    No. 122197\n   </docketnumber>\n   <court id=\"p-4\">\n    Supreme Court of Illinois.\n   </court>\n   <decisiondate id=\"p-5\">\n    September 27, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     <strong>\n      PETITION FOR LEAVE TO APPEAL\n     </strong>\n    </p>\n    <p id=\"p-7\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

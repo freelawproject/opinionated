@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"808\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b874-9\">No. 1069,</docketnumber>\n<p id=\"Ay0\">October Term, 1942.</p>\n<parties id=\"Ae5U\">Kushner <em>v. </em>United States.</parties>\n<decisiondate id=\"A8qq\">October 11, 1943.</decisiondate>\n\n<opinion><p id=\"AHkd\">Mr. Justice Douglas took no part in the consideration or decision of this application.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"808\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b874-9\">No. 1069,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Ay0\">October Term, 1942.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ae5U\">Kushner <em>v. </em>United States.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A8qq\">October 11, 1943.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AHkd\">Mr. Justice Douglas took no part in the consideration or decision of this application.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

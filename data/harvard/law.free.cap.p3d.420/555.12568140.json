@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE: DISCIPLINE OF Kevin R. HANSEN, Esq., Bar No. 6336</parties>\n<docketnumber id=\"p-2\">No. 73626</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED JUNE 08, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">APPROVING CONDITIONAL GUILTY PLEA AGREEMENT.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE: DISCIPLINE OF Kevin R. HANSEN, Esq., Bar No. 6336\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 73626\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED JUNE 08, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     APPROVING CONDITIONAL GUILTY PLEA AGREEMENT.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

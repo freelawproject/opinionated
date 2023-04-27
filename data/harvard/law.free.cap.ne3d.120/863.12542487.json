@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"863\" lastpage=\"863\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">LORAIN CTY. BAR ASSN.<br/> v.<br/> COHEN</parties>\n<docketnumber id=\"p-2\">2018-1854</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">April 4, 2019</decisiondate>\n<p id=\"p-5\"><strong>DISCIPLINARY CASE</strong></p>\n\n<opinion type=\"majority\"><p id=\"p-6\">On notice of suggestion of death of respondent, Harold M. Cohen, and the parties' responses to this court's show-cause order. Cause dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"863\" lastpage=\"863\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    LORAIN CTY. BAR ASSN.\n    <br/>\n    v.\n    <br/>\n    COHEN\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-1854\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 4, 2019\n   </decisiondate>\n   <p id=\"p-5\">\n    <strong>\n     DISCIPLINARY CASE\n    </strong>\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     On notice of suggestion of death of respondent, Harold M. Cohen, and the parties' responses to this court's show-cause order. Cause dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

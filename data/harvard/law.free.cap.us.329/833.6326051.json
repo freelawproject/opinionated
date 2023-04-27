@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"833\" lastpage=\"833\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b919-10\">No. 74,</docketnumber>\n\n<parties id=\"AD0g\">Phillips <em>v. </em>Ragen, Warden.</parties>\n<decisiondate id=\"AYxh\">January 20, 1947.</decisiondate>\n<opinion><p id=\"A2Rc\">Misc.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"833\" lastpage=\"833\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b919-10\">No. 74,</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AD0g\">Phillips <em>v. </em>Ragen, Warden.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AYxh\">January 20, 1947.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"A2Rc\">Misc.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"1002\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE<br/> v.<br/> MARTIN.</parties>\n<docketnumber id=\"p-2\">2017-1463</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">March 14, 2018</decisiondate>\n<p id=\"p-5\">CASE ANNOUNCEMENTS</p>\n\n<judges id=\"p-7\">O'Connor, C.J., and French and Fischer, JJ., dissent.</judges>\n<opinion type=\"majority\"><p id=\"p-6\">APPEALS ACCEPTED FOR REVIEW</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"1002\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE\n    <br/>\n    v.\n    <br/>\n    MARTIN.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2017-1463\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 14, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <judges id=\"p-7\">\n    O'Connor, C.J., and French and Fischer, JJ., dissent.\n   </judges>\n   <p type=\"majority\">\n    <p id=\"p-6\">\n     APPEALS ACCEPTED FOR REVIEW\n    </p>\n   </p>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

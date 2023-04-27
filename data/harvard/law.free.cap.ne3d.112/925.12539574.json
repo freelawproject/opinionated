@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">DUKES<br/> v.<br/> MCCARTY</parties>\n<docketnumber id=\"p-2\">2018-1409</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">December 4, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>MISCELLANEOUS DISMISSAL</strong></p><p id=\"p-6\">Appellant has not filed a merit brief, due November 26, 2018, and therefore has failed to prosecute this cause with the requisite diligence. Cause dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    DUKES\n    <br/>\n    v.\n    <br/>\n    MCCARTY\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-1409\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    December 4, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      MISCELLANEOUS DISMISSAL\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     Appellant has not filed a merit brief, due November 26, 2018, and therefore has failed to prosecute this cause with the requisite diligence. Cause dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

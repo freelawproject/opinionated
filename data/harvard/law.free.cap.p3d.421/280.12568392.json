@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"280\" lastpage=\"280\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">FULCRUM ENTERPRISES, LLC, a Nevada Limited Liability Company, Appellant,<br/> v.<br/> MTGLQ INVESTORS, LP, a Foreign Corporation; and Cal-Western Reconveyance Corporation, a Foreign Corporation, Respondents.</parties>\n<docketnumber id=\"p-2\">No. 68732</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED MARCH 17, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">VACATED AND REMAND.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"280\" lastpage=\"280\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    FULCRUM ENTERPRISES, LLC, a Nevada Limited Liability Company, Appellant,\n    <br/>\n    v.\n    <br/>\n    MTGLQ INVESTORS, LP, a Foreign Corporation; and Cal-Western Reconveyance Corporation, a Foreign Corporation, Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 68732\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED MARCH 17, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     VACATED AND REMAND.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

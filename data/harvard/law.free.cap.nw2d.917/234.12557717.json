@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"234\" lastpage=\"234\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Lakisha K. WILBURN, Plaintiff-Appellant,<br/> v.<br/> Robert NASH and Sarita Nash, Defendants-Respondents.</parties>\n<docketnumber id=\"p-2\">Appeal No. 2017AP1716</docketnumber>\n<court id=\"p-3\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-4\">DATED AND FILED May 22, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"234\" lastpage=\"234\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Lakisha K. WILBURN, Plaintiff-Appellant,\n    <br/>\n    v.\n    <br/>\n    Robert NASH and Sarita Nash, Defendants-Respondents.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Appeal No. 2017AP1716\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    DATED AND FILED May 22, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

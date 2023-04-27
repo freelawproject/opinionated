@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"651\" lastpage=\"651\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Evan C. REINHARDT, Appellant-Respondent,<br/> v.<br/> Melissa K. BETZNER, Appellee-Petitioner.</parties>\n<docketnumber id=\"p-2\">Court of Appeals Case No. 18A-JP-2748</docketnumber>\n<court id=\"p-3\">Court of Appeals of Indiana.</court>\n<decisiondate id=\"p-4\">April 18, 2019</decisiondate>\n<p id=\"p-5\"><strong><em>Unpublished Memorandum Decision</em></strong></p>\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"651\" lastpage=\"651\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Evan C. REINHARDT, Appellant-Respondent,\n    <br/>\n    v.\n    <br/>\n    Melissa K. BETZNER, Appellee-Petitioner.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Court of Appeals Case No. 18A-JP-2748\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Indiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 18, 2019\n   </decisiondate>\n   <p id=\"p-5\">\n    <strong>\n     <em>\n      Unpublished Memorandum Decision\n     </em>\n    </strong>\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

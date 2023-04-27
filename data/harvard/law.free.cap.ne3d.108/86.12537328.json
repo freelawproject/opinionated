@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"86\" lastpage=\"86\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE POLIZZI</parties>\n<docketnumber id=\"p-2\">2018-0777</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">October 1, 2018</decisiondate>\n<p id=\"p-5\">CASE ANNOUNCEMENTS</p>\n<p id=\"p-6\">DISCIPLINARY CASES</p>\n\n<opinion type=\"majority\"><p id=\"p-7\">On respondents motion to purge contempt. Motion granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"86\" lastpage=\"86\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE POLIZZI\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-0777\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    October 1, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <p id=\"p-6\">\n    DISCIPLINARY CASES\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-7\">\n     On respondents motion to purge contempt. Motion granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

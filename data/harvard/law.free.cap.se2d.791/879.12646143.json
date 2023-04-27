@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"879\" lastpage=\"879\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In the Matter of: J.M.</parties>\n<docketnumber id=\"p-2\">A.C. and R.S-C., Petitioners,<br/> v.<br/> S.F.M. and D.N.G., Respondents.</docketnumber>\n<docketnumber id=\"p-3\">No. COA16-265</docketnumber>\n<court id=\"p-4\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-5\">Filed: October 4, 2016</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">VACATED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"879\" lastpage=\"879\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In the Matter of: J.M.\n   </parties>\n   <parties id=\"p-2\">\n    A.C. and R.S-C., Petitioners,\n    <br/>\n    v.\n    <br/>\n    S.F.M. and D.N.G., Respondents.\n   </parties>\n   <docketnumber id=\"p-3\">\n    No. COA16-265\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-5\">\n    Filed: October 4, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     VACATED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

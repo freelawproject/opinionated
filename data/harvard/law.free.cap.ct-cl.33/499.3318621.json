@@ -1,12 +1,16 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "33 Ct. Cl. 499"
-        },
-        {
-            "type": "parallel",
-            "cite": "31 C. Cls. R. 403"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 Ct. Cl. 499"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 C. Cls. R. 403"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"499\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b591-6\">THOMAS E. MILCHRIST v. THE UNITED STATES.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b591-7\">[31 C. Cls. R., 403.</citation>\n<p data-order=\"2\" data-type=\"p\" id=\"At7\">No opinion in U. S. R.]</p>\n<syllabus data-order=\"3\" data-type=\"syllabus\" id=\"b591-8\">\n<em>On the defendants\u2019 Appeal.</em>\n</syllabus>\n<syllabus data-order=\"4\" data-type=\"syllabus\" id=\"b591-9\">At the request of the Attorney-General, the district attorney in Chicago takes depositions there in cases pending in other districts. He also advises with the secretary of the World\u2019s Columbian Exposition concerning a claim against the United States. He also investigates and reports concerning other matters connected with the exposition. The Attorney-General approves his aocount <em>\u201cfor </em>$125 <em>from special compensation, district attorneys, </em>1894; 1893, $50.\u201d A counterclaim is set up for a larger amount.</syllabus>\n<syllabus data-order=\"5\" data-type=\"syllabus\" id=\"b591-10\">The court below decides:</syllabus>\n<syllabus data-order=\"6\" data-type=\"syllabus\" id=\"b591-11\">1. Service rendered by a district attorney, at the request of the Attorney-General, in attending at the taking of a deposition in a case pending in another district, comes within the sixth clause of the fee bill. (Eev. Stat., \u00a7 824.)</syllabus>\n<syllabus data-order=\"7\" data-type=\"syllabus\" id=\"b591-13\">2. If the deposition was not used, it is for the defendants to show the fact. The presumption is that such depositions were used.</syllabus>\n<syllabus data-order=\"8\" data-type=\"syllabus\" id=\"b591-15\">3. Service rendered by a district attorney, at the request of the Attorney-General, in relation to the World\u2019s Columbian Exposition at Chicago, is.service for which no compensation is provided by salary or fee, and where special compensation may be fixed by the Attorney-General.</syllabus>\n<syllabus data-order=\"9\" data-type=\"syllabus\" id=\"b591-17\">4. Where it is evident that the Government has some interest in the result of litigation in which the United States are not parties and in which the district attorney acts at the request of the Attorney-General, the service will be deemed to come' within \u00a7 299 and the attorney be entitled to assimilated fees.</syllabus>\n<syllabus data-order=\"10\" data-type=\"syllabus\" id=\"b592-3\"><page-number citation-index=\"1\" label=\"500\">*500</page-number>5. Where it does not appear what disposition was made of a case in which the district attorney appeared for the United States, the lowest assimilated fee will he allowed nnder \u00a7 824,- $10.</syllabus>\n<syllabus data-order=\"11\" data-type=\"syllabus\" id=\"b592-5\">6. All of the foregoing fees and allowances come within the provision of \u00a7 833, that a district attorney shall return to the Attorney-Gen- . eral an account <em>\u201cof all the fees and emoluments of Ills office of every name and character.\u201d </em>Whatever compensation is paid to a district attorney as such becomes a part of the fees and emoluments of the office, except the fees received for services rendered under \u00a7\u00a7 825, 827.</syllabus>\n<syllabus data-order=\"12\" data-type=\"syllabus\" id=\"b592-7\">7. The bringing of an action for compensation by a district attorney opens his accounts and enables the defendants to maintain a counterclaim. Whether this counterclaim can be reduced by allowances now made by the court in favor of the district attorney will depend upon whether he received his maximum compensation. But these are matters for adjustment in the Treasury Department nnder the decision in the Supreme Court in <em>United States </em>v. <em>Harmon </em>(147 U. S. R., 268).</syllabus>\n<syllabus data-order=\"13\" data-type=\"syllabus\" id=\"b592-9\">\u25a0 8. The acts appropriating $5,000 annually to pay district attorneys <em>\u201cspecial compensation\u201d </em>containno repealing clause, cover only aportion of the subject, and are not repugnant to the statutes prescribing duties and fixing compensation. Therefore the <em>\u201cspecial compensation\u201d </em>must be restricted to services falling within their official duties for which no compensation has been prescribed by statute. The Attorney-General can not allow special compensation for services regulated by the fee bill.</syllabus>\n<decisiondate data-order=\"14\" data-type=\"decisiondate\" id=\"Aav\">October 12, 1897.</decisiondate>\n<opinion data-order=\"15\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b592-10\">The appeal was dismissed on motion <em>of </em>the defendants</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

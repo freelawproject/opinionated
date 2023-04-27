@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"40\" lastpage=\"40\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">EX PARTE D.E.</parties>\n<docketnumber id=\"p-2\">(In re D.E. v. Russell County Department of Human Resources)</docketnumber>\n<docketnumber id=\"p-3\">2170106</docketnumber>\n<court id=\"p-4\">Court of Civil Appeals of Alabama.</court>\n<decisiondate id=\"p-5\">October 31, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-6\">Mand. pet. denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"40\" lastpage=\"40\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    EX PARTE D.E.\n   </parties>\n   <parties id=\"p-2\">\n    (In re D.E. v. Russell County Department of Human Resources)\n   </parties>\n   <docketnumber id=\"p-3\">\n    2170106\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Civil Appeals of Alabama.\n   </court>\n   <decisiondate id=\"p-5\">\n    October 31, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Mand. pet. denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"144\" lastpage=\"144\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Kenneth Wayne WHITMORE<br/> v.<br/> STATE of Louisiana</parties>\n<docketnumber id=\"p-2\">NO. 2017-KP-1767</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">September 28, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Denied; not timely filed. See La.S.Ct. Rule X, \u00a7 5(a).</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"144\" lastpage=\"144\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Kenneth Wayne WHITMORE\n    <br/>\n    v.\n    <br/>\n    STATE of Louisiana\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2017-KP-1767\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    September 28, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Denied; not timely filed. See La.S.Ct. Rule X, \u00a7 5(a).\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

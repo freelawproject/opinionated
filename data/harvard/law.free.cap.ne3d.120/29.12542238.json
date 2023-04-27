@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"29\" lastpage=\"29\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">IN RE Resignation of CHUPARKOFF</parties>\n<docketnumber id=\"p-2\">2018-1135</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">March 27, 2019</decisiondate>\n<p id=\"p-5\"><strong>DISCIPLINARY CASE</strong></p>\n\n<opinion type=\"majority\"><p id=\"p-6\">On respondent's motion to purge contempt. Motion granted.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"29\" lastpage=\"29\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    IN RE Resignation of CHUPARKOFF\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-1135\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 27, 2019\n   </decisiondate>\n   <p id=\"p-5\">\n    <strong>\n     DISCIPLINARY CASE\n    </strong>\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     On respondent's motion to purge contempt. Motion granted.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

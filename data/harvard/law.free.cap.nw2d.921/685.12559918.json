@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"685\" lastpage=\"685\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">STATE<br/> v.<br/> EAGLE</parties>\n<docketnumber id=\"p-2\">28520</docketnumber>\n<court id=\"p-3\">Supreme Court of South Dakota.</court>\n<decisiondate id=\"p-4\">October 9, 2018</decisiondate>\n<p id=\"p-5\">Dispositive Remand (M.Brown).</p>\n\n<opinion><p>No opinion found. <a href=\"https://cite.case.law/pdf/12559918/State%20v.%20Eagle.pdf\">Click here to view source material.</a></p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"685\" lastpage=\"685\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE\n    <br/>\n    v.\n    <br/>\n    EAGLE\n   </parties>\n   <docketnumber id=\"p-2\">\n    28520\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of South Dakota.\n   </court>\n   <decisiondate id=\"p-4\">\n    October 9, 2018\n   </decisiondate>\n   <attorneys id=\"p-5\">\n    Dispositive Remand (M.Brown).\n   </attorneys>\n   <opinion>\n    <p>\n     No opinion found.\n     <a href=\"https://cite.case.law/pdf/12559918/State%20v.%20Eagle.pdf\">\n      Click here to view source material.\n     </a>\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

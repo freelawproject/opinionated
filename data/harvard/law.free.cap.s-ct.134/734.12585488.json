@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"734\" lastpage=\"734\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Michael SESSA, petitioner,<br/> v.<br/> UNITED STATES.</parties>\n<docketnumber id=\"p-2\">No. 13-5942.</docketnumber>\n<court id=\"p-3\">Supreme Court of the United States</court>\n<decisiondate id=\"p-4\">Dec. 2, 2013.</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition for rehearing denied.</p><p id=\"p-6\"><strong>Justice SOTOMAYOR took no part in the consideration or decision of this petition.</strong></p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"734\" lastpage=\"734\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Michael SESSA, petitioner,\n    <br/>\n    v.\n    <br/>\n    UNITED STATES.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 13-5942.\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of the United States\n   </court>\n   <decisiondate id=\"p-4\">\n    Dec. 2, 2013.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Petition for rehearing denied.\n    </p>\n    <p id=\"p-6\">\n     <strong>\n      Justice SOTOMAYOR took no part in the consideration or decision of this petition.\n     </strong>\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

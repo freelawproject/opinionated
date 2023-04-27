@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"988\" lastpage=\"988\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Monique PYLE<br/> v.<br/> Zackary GRATE, Jeffery Grate, Hertz Corp., State Farm Mutual Automobile Ins. Co., and United Services Automobile Association</parties>\n<docketnumber id=\"p-2\">NO. 2018-CC-1465</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">November 20, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"988\" lastpage=\"988\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Monique PYLE\n    <br/>\n    v.\n    <br/>\n    Zackary GRATE, Jeffery Grate, Hertz Corp., State Farm Mutual Automobile Ins. Co., and United Services Automobile Association\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2018-CC-1465\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    November 20, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

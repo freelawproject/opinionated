@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"645\" lastpage=\"645\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">EX PARTE Derek Tyler HORTON</parties>\n<docketnumber id=\"p-2\">CR-17-0007</docketnumber>\n<court id=\"p-3\">Court of Criminal Appeals of Alabama.</court>\n<decisiondate id=\"p-4\">December 6, 2017<br/> Reh. denied December 19, 2017</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Habeas corpus pet. dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"645\" lastpage=\"645\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    EX PARTE Derek Tyler HORTON\n   </parties>\n   <docketnumber id=\"p-2\">\n    CR-17-0007\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Criminal Appeals of Alabama.\n   </court>\n   <decisiondate id=\"p-4\">\n    December 6, 2017\n    <br/>\n    Reh. denied December 19, 2017\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Habeas corpus pet. dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

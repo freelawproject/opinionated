@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"232\" lastpage=\"232\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Bryan C. ELLERBROCK and Lila M. Ellerbrock, Plaintiffs-Respondents,<br/> v.<br/> Justin M. VEESER and Janel M. Veeser, Defendants-Appellants.</parties>\n<docketnumber id=\"p-2\">Appeal No. 2016AP2182</docketnumber>\n<court id=\"p-3\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-4\">May 1, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"232\" lastpage=\"232\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Bryan C. ELLERBROCK and Lila M. Ellerbrock, Plaintiffs-Respondents,\n    <br/>\n    v.\n    <br/>\n    Justin M. VEESER and Janel M. Veeser, Defendants-Appellants.\n   </parties>\n   <docketnumber id=\"p-2\">\n    Appeal No. 2016AP2182\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    May 1, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

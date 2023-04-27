@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">WILLACY<br/> v.<br/> CLEVELAND BD. OF INCOME TAX REV.</parties>\n<docketnumber id=\"p-2\">2018-0794</docketnumber>\n<court id=\"p-3\">Supreme Court of Ohio.</court>\n<decisiondate id=\"p-4\">December 5, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>MOTION AND PROCEDURAL RULING</strong></p><p id=\"p-6\">On appellant's motion to supplement the record. Motion denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    WILLACY\n    <br/>\n    v.\n    <br/>\n    CLEVELAND BD. OF INCOME TAX REV.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-0794\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    December 5, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      MOTION AND PROCEDURAL RULING\n     </strong>\n    </p>\n    <p id=\"p-6\">\n     On appellant's motion to supplement the record. Motion denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

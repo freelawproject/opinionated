@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"261\" lastpage=\"261\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">SHARP<br/> v.<br/> 9TH JUDICIAL DISTRICT</parties>\n<docketnumber id=\"p-2\">OP 18-0170</docketnumber>\n<court id=\"p-3\">Supreme Court of Montana.</court>\n<decisiondate id=\"p-4\">April 17, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Decision without opinion or without extended opinion Deny.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"261\" lastpage=\"261\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    SHARP\n    <br/>\n    v.\n    <br/>\n    9TH JUDICIAL DISTRICT\n   </parties>\n   <docketnumber id=\"p-2\">\n    OP 18-0170\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Montana.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 17, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Decision without opinion or without extended opinion Deny.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

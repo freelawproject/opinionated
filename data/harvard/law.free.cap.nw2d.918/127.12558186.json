@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"127\" lastpage=\"127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Daniel J. OLMSTED, Plaintiff-Appellant,<br/> v.<br/> Eric W. ROSKOM, Defendant,</parties>\n<docketnumber id=\"p-2\">State Farm Mutual Insurance Co., Defendant-Respondent.</docketnumber>\n<docketnumber id=\"p-3\">Appeal No. 2017AP460</docketnumber>\n<court id=\"p-4\">Court of Appeals of Wisconsin.</court>\n<decisiondate id=\"p-5\">DATED AND FILED June 5, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-6\">Affirmed.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"127\" lastpage=\"127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Daniel J. OLMSTED, Plaintiff-Appellant,\n    <br/>\n    v.\n    <br/>\n    Eric W. ROSKOM, Defendant,\n   </parties>\n   <docketnumber id=\"p-2\">\n    State Farm Mutual Insurance Co., Defendant-Respondent.\n   </docketnumber>\n   <docketnumber id=\"p-3\">\n    Appeal No. 2017AP460\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Wisconsin.\n   </court>\n   <decisiondate id=\"p-5\">\n    DATED AND FILED June 5, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">In re the MARRIAGE OF: Jenna C. HOBART, n/k/a Jenna C. Kavanaugh, Petitioner and Appellee,<br/> and<br/> Jeffrey V. Hobart, Respondent and Appellant.</parties>\n<docketnumber id=\"p-2\">DA 17-0367</docketnumber>\n<court id=\"p-3\">Supreme Court of Montana.</court>\n<decisiondate id=\"p-4\">Submitted on Briefs: November 29, 2017<br/> Decided: January 30, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    In re the MARRIAGE OF: Jenna C. HOBART, n/k/a Jenna C. Kavanaugh, Petitioner and Appellee,\n    <br/>\n    and\n    <br/>\n    Jeffrey V. Hobart, Respondent and Appellant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    DA 17-0367\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Montana.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted on Briefs: November 29, 2017\n    <br/>\n    Decided: January 30, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

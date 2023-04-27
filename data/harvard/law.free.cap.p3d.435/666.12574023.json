@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"666\" lastpage=\"666\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">RJRN HOLDINGS, LLC, a Domestic Limited Liability Company, Appellant,<br/> v.<br/> DITECH FINANCIAL LLC, f/k/a Green Tree Servicing LLC, a Foreign Limited Liability Company, Respondent.</parties>\n<docketnumber id=\"p-2\">No. 76442</docketnumber>\n<court id=\"p-3\">Supreme Court of Nevada.</court>\n<decisiondate id=\"p-4\">FILED FEBRUARY 26, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Dismissed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"666\" lastpage=\"666\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    RJRN HOLDINGS, LLC, a Domestic Limited Liability Company, Appellant,\n    <br/>\n    v.\n    <br/>\n    DITECH FINANCIAL LLC, f/k/a Green Tree Servicing LLC, a Foreign Limited Liability Company, Respondent.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 76442\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Nevada.\n   </court>\n   <decisiondate id=\"p-4\">\n    FILED FEBRUARY 26, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Dismissed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

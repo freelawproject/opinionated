@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"585\" lastpage=\"585\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Norman Timothy Alan SOLLID, Plaintiff and Appellant,<br/> v.<br/> LSF9 MASTER PARTICIPATION TRUST and John \"Joe\" Solseng, Defendants and Appellees.</parties>\n<docketnumber id=\"p-2\">DA 18-0058</docketnumber>\n<court id=\"p-3\">Supreme Court of Montana.</court>\n<decisiondate id=\"p-4\">Submitted on Briefs: August 29, 2018<br/> Decided: September 25, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Affirmed.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"585\" lastpage=\"585\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Norman Timothy Alan SOLLID, Plaintiff and Appellant,\n    <br/>\n    v.\n    <br/>\n    LSF9 MASTER PARTICIPATION TRUST and John \"Joe\" Solseng, Defendants and Appellees.\n   </parties>\n   <docketnumber id=\"p-2\">\n    DA 18-0058\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Montana.\n   </court>\n   <decisiondate id=\"p-4\">\n    Submitted on Briefs: August 29, 2018\n    <br/>\n    Decided: September 25, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

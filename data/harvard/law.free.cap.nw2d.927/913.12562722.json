@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"913\" lastpage=\"913\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">TEAM PROPERTY MANAGEMENT LLC<br/> v.<br/> Stephanie HOUSTON</parties>\n<docketnumber id=\"p-2\">2017AP2252</docketnumber>\n<court id=\"p-3\">Supreme Court of Wisconsin.</court>\n<decisiondate id=\"p-4\">April 9, 2019</decisiondate>\n\n\n\n<opinion type=\"majority\"><p id=\"p-5\">Petition for Review Denied.</p><p id=\"p-6\">Roggensack, C. J. did not participate.</p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"913\" lastpage=\"913\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    TEAM PROPERTY MANAGEMENT LLC\n    <br/>\n    v.\n    <br/>\n    Stephanie HOUSTON\n   </parties>\n   <docketnumber id=\"p-2\">\n    2017AP2252\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 9, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Petition for Review Denied.\n    </p>\n    <p id=\"p-6\">\n     Roggensack, C. J. did not participate.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

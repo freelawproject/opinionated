@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"84\" lastpage=\"85\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Kyonne WALKER and Curtis Walker, Jr.<br/> v.<br/> ARCH INSURANCE COMPANY, Allstate Property and Casualty Insurance Company, Mid-Western Car Carriers, Inc., Timothy D. Martin and Dionne Walker</parties>\n<docketnumber id=\"p-2\">NO. 2019-CC-0104</docketnumber>\n<court id=\"p-3\">Supreme Court of Louisiana.</court>\n<decisiondate id=\"p-4\">March 18, 2019</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\"><a class=\"page-label\" data-citation-index=\"1\" data-label=\"85\" href=\"#p85\" id=\"p85\">*85</a>Denied.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"84\" lastpage=\"85\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Kyonne WALKER and Curtis Walker, Jr.\n    <br/>\n    v.\n    <br/>\n    ARCH INSURANCE COMPANY, Allstate Property and Casualty Insurance Company, Mid-Western Car Carriers, Inc., Timothy D. Martin and Dionne Walker\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2019-CC-0104\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 18, 2019\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

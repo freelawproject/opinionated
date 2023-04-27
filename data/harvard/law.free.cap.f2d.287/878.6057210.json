@@ -1,8 +1,12 @@
 {
-    "citations": [
-        {
-            "type": "official",
-            "cite": "287 F.2d 878"
-        }
-    ]
+  "citations": [
+    {
+      "type": "official",
+      "cite": "287 F.2d 878"
+    }
+  ],
+  "casebody": {
+    "data": "<casebody firstpage=\"878\" lastpage=\"878\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b932-3\">Milton J. HARRIS, Appellant, v. S. H. KRESS &amp; CO., a/k/a S. H. Kress and Company, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b932-5\">No. 18497.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b932-6\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b932-7\">March 16, 1961.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b932-12\">Burton B. Loebl, Miami Beach, Fla., William A. Stern, II., Miami, Fla., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b932-13\">Louis S. Bonsteel, Miami, Fla., Smath-ers, Thompson &amp; Dyer, Miami, Fla., of counsel, for appellee, S. H. Kress &amp; Co.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b932-14\">Before TUTTLE, Chief Judge, and RIVES and JONES, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b932-15\">PER CURIAM.</author>\n<p id=\"b932-16\">The judgment of the trial court is affirmed. The parties submitted motions for summary judgment based on an exchange of letters which the appellant contends constituted a contract engaging him as a broker at 5% commission to find a tenant for appellee\u2019s store property. We think it is clear that the correspondence amounted only to preliminary negotiations that did not ripen into a contract. This follows from the fact that appellant would be entitled to a commission only if he found a lessee who was ready, able and willing to execute a lease upon terms prescribed by appellee. The terms of such a lease were never agreed upon.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
 }

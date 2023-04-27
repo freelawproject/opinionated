@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"812\" lastpage=\"812\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b900-10\">No. 76,</docketnumber>\n\n<parties id=\"A_es\">Stizza <em>v. </em>Essex County Juvenile and Domestic Relations Court.</parties>\n<decisiondate id=\"AEPg\">January 28, 1946.</decisiondate>\n<opinion><p id=\"AcWE\">Mise.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"812\" lastpage=\"812\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b900-10\">No. 76,</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A_es\">Stizza <em>v. </em>Essex County Juvenile and Domestic Relations Court.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEPg\">January 28, 1946.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"AcWE\">Mise.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

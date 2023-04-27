@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"544\" lastpage=\"544\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Cecelia W. Peoples and Ernest J. Robinson, Jr., Plaintiffs,<br/> v.<br/> Thomas H. Tuck, Defendant.</parties>\n<docketnumber id=\"p-2\">No. COA16-293</docketnumber>\n<court id=\"p-3\">Court of Appeals of North Carolina.</court>\n<decisiondate id=\"p-4\">Filed: October 18, 2016</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">REVERSED.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"544\" lastpage=\"544\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Cecelia W. Peoples and Ernest J. Robinson, Jr., Plaintiffs,\n    <br/>\n    v.\n    <br/>\n    Thomas H. Tuck, Defendant.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. COA16-293\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of North Carolina.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: October 18, 2016\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     REVERSED.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

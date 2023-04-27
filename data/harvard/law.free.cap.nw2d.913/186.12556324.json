@@ -1,6 +1,6 @@
 {
   "casebody": {
     "status": "ok",
-    "data": "<html><body><casebody firstpage=\"186\" lastpage=\"186\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">MILWAUKEE DISTRICT COUNCIL 48<br/> v.<br/> MILWAUKEE COUNTY</parties>\n<docketnumber id=\"p-2\">2016AP1525</docketnumber>\n<court id=\"p-3\">Supreme Court of Wisconsin.</court>\n<decisiondate id=\"p-4\">March 13, 2018</decisiondate>\n\n\n<opinion type=\"majority\"><p id=\"p-5\"><strong>PETITION FOR REVIEW GRANTED</strong></p></opinion></casebody></body></html>"
+    "data": "<html>\n <body>\n  <casebody firstpage=\"186\" lastpage=\"186\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    MILWAUKEE DISTRICT COUNCIL 48\n    <br/>\n    v.\n    <br/>\n    MILWAUKEE COUNTY\n   </parties>\n   <docketnumber id=\"p-2\">\n    2016AP1525\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Wisconsin.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 13, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      PETITION FOR REVIEW GRANTED\n     </strong>\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
   }
 }

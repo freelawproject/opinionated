@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"611\" lastpage=\"611\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n\n\n\n<decisiondate id=\"AhF\">at special term, February \u2014, 1866.)</decisiondate>\n<opinion><p id=\"b619-17\">Anonymous.</p><p id=\"b619-18\">Where the evidence of adultery, in an action for a divorce, rests on the unsupported testimony of the defendant\u2019s paramour, the case will be referred back to the referee for further evidence; the testimony of the paramour being subject to the same objection as that of any other accompBce, (2 <em>Msh. on Mar, and Div. </em>8, \u00a7 644, <em>and cases cited in notes </em>2, 3 <em>and </em>6.)</p><p id=\"b619-19\">(Before Robertson, Ch. J.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"611\" lastpage=\"611\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AhF\">at special term, February \u2014, 1866.)</decisiondate>\n<opinion data-order=\"1\" data-type=\"opinion\" id=\"x999-1\"><p id=\"b619-17\">Anonymous.</p><p id=\"b619-18\">Where the evidence of adultery, in an action for a divorce, rests on the unsupported testimony of the defendant\u2019s paramour, the case will be referred back to the referee for further evidence; the testimony of the paramour being subject to the same objection as that of any other accompBce, (2 <em>Msh. on Mar, and Div. </em>8, \u00a7 644, <em>and cases cited in notes </em>2, 3 <em>and </em>6.)</p><p id=\"b619-19\">(Before Robertson, Ch. J.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

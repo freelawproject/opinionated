@@ -1,6 +1,6 @@
 {
   "casebody": {
-    "status": "ok",
-    "data": "<html><body><casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber id=\"b897-13\">Nos. 20 and 21,</docketnumber>\n\n<parties id=\"AT-z\">Lober et al. <em>v. </em>Morgan, Lewis &amp; Bockius et al.</parties>\n<decisiondate id=\"Art\">November 19, 1945.</decisiondate>\n\n<opinion><p id=\"Azkp\">Mise.</p><p id=\"A0ps\">Mr.- Justice Douglas took no part in the consideration or decision of this application.</p></opinion></casebody>\n</body></html>"
+    "data": "<html><body><casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b897-13\">Nos. 20 and 21,</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AT-z\">Lober et al. <em>v. </em>Morgan, Lewis &amp; Bockius et al.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Art\">November 19, 1945.</decisiondate>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\"><p id=\"Azkp\">Mise.</p><p id=\"A0ps\">Mr.- Justice Douglas took no part in the consideration or decision of this application.</p></opinion></casebody>\n</body></html>",
+    "status": "ok"
   }
 }

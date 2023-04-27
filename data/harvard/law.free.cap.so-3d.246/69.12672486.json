@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"69\" lastpage=\"69\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">Glen Joseph DAVIS<br/> v.<br/> STATE of Mississippi</parties>\n<docketnumber id=\"p-2\">2015-CT-01491-SCT</docketnumber>\n<court id=\"p-3\">Supreme Court of Mississippi.</court>\n<decisiondate id=\"p-4\">Filed: February 26, 2018<br/> Closed: May 10, 2018</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Certiorari-Denied</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"69\" lastpage=\"69\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Glen Joseph DAVIS\n    <br/>\n    v.\n    <br/>\n    STATE of Mississippi\n   </parties>\n   <docketnumber id=\"p-2\">\n    2015-CT-01491-SCT\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Mississippi.\n   </court>\n   <decisiondate id=\"p-4\">\n    Filed: February 26, 2018\n    <br/>\n    Closed: May 10, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Certiorari-Denied\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}

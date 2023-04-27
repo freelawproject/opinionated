@@ -1,1 +1,6 @@
-{"casebody": {"status": "ok", "data": "<html><body><casebody firstpage=\"509\" lastpage=\"509\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">GILCHRIST<br/> v.<br/> GILCHRIST.</parties>\n<docketnumber id=\"p-2\">No. S09F0077.</docketnumber>\n<court id=\"p-3\">Court of Appeals of Georgia.</court>\n<decisiondate id=\"p-4\">March 9, 2009.</decisiondate>\n\n<opinion type=\"majority\"><p id=\"p-5\">Judgment affirmed without opinion.</p></opinion>\n</casebody></body></html>"}}
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<html>\n <body>\n  <casebody firstpage=\"509\" lastpage=\"509\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    GILCHRIST\n    <br/>\n    v.\n    <br/>\n    GILCHRIST.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. S09F0077.\n   </docketnumber>\n   <court id=\"p-3\">\n    Court of Appeals of Georgia.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 9, 2009.\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Judgment affirmed without opinion.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
+  }
+}
