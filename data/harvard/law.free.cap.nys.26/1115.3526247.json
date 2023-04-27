@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1115\" lastpage=\"1115\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1135-11\">PHOENIX MANUF\u2019G CORP., Respondent, v. BARLOW, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1135-12\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AkuL\">December 15, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1135-13\">Action by the Phoenix Manufacturing Corporation against Everett D. Barlow.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1135-14\">Argued before VAN BRUNT, P. J., and O\u2019BRIEN and FOLLETT, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AbrK\">Robt. P. Barlow, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1135-15\">T. D. Kenneson, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1135-16\">No opinion. Order affirmed, with \u00a710 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

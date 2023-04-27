@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1116\" lastpage=\"1116\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1136-11\">VAN CLEEF v. BROWN.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1136-12\">(Supreme Court, General Term, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJ-u\">May 14, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1136-13\">Action by William S. Van Cleef against James J. Brown.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1136-14\">Argued before BROWN, P. J., and DYKMAN and CULLEN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1136-15\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

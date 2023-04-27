@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"119\" lastpage=\"119\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b135-11\">HUGO VAN DOVER ESTATES, INCORPORATED, RELATOR, v. JERSEY CITY ET AL., RESPONDENTS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b135-12\">Submitted October term, 1928</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AMr\">Decided January 3, 1929.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b135-14\">Before Justices Mintuen, Black and Campbell.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b135-15\">Eor the relator, <em>Aaron Gordon.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b135-16\">Eor the respondents, <em>Frank J. Reardon.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b135-17\">Peb Cubiam.</author>\n<p id=\"b135-18\">The application for the writ of <em>mandamus </em>is denied and the rule to show cause is discharged.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

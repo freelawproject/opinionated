@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1117\" lastpage=\"1117\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1137-24\">ROULSTON, Appellant, v. ROULSTON, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1137-25\">(Supreme Court, General Term, Third Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ASt\">May 8, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1137-26\">Action by Samuel L. Roulston against Arthur Roulston, as executor, etc.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"Afcv\">Argued before MAYHAM, P. J., and PUTNAM and HERRICK, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1137-27\">R. E. Waterman, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1137-28\">John C. Keeler, for respondent</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1137-29\">PER CURIAM.</author>\n<p id=\"Ayo\">Order affirmed on the opinion of the court below. 26 N. Y Supp. 667.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

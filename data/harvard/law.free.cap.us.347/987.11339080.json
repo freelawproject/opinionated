@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"987\" lastpage=\"987\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b861-6\">No. 582,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AaZ9\">No. 586,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ANmM\">No. 594,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"A__I\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"Asj_\">Misc.</p>\n<p data-order=\"5\" data-type=\"misc\" id=\"ABJO\">Misc.</p>\n<parties data-order=\"6\" data-type=\"parties\" id=\"A63y\">Steele <em>v. </em>U. S. Immigration and Naturalization Service; Sgro <em>v. </em>Skaff, Acting Superintendent, Central State Hospital of Wisconsin, et al.; and Holzworth <em>v. </em>Pettis, Superintendent, Western State Hospital of Virginia.</parties>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUbD\">Motions for leave to file petitions for writs of habeas corpus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

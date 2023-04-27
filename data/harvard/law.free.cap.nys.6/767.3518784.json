@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"767\" lastpage=\"767\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b783-14\">Tchow, Respondent, <em>v. </em>Blanchard, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b783-15\">\n<em>(Common Pleas of New York City amd County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AM8P\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AqqJ\">April 25, 1889.)</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ACV\"><em>I. H. Hurst, </em>for appellant. <em>A. Lamont, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b783-16\">Judgment reduced to $82.50, and as reduced, affirmed, without costs to \u25a0either party.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

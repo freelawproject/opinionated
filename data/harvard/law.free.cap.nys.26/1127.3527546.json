@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1127\" lastpage=\"1127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1147-4\">HAVANA JOURNAL, Appellant, v. WEED et al., Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1147-5\">(Supreme Court, General Term, Fourth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Akh\">December 8, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1147-6\">Action by the Havana Journal against Mary E. Weed and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1147-7\">Argued before HARDIN, P. J., and MARTIN and MERWIN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1147-8\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1144\" lastpage=\"1144\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1164-11\">MARSCHALL et al., Appellants, v. EISEN VINEYARD CO., Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1164-12\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-x-\">May 17, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1164-13\">Action by August Marsehall and others against the Eisen Vineyard Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1164-14\">Argued before BOOKSTAVER, BISCHOEP, and PRYOR, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1164-15\">Rose &amp; Putzel, for appellants.,</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1164-16\">Douglass &amp; Minton, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1164-17\">No opinion. Motion for leave to appeal to the court of appeals denied, with 810 costs. See 28 N. Y. Supp. 62.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b972-23\">Rosengard, Respondent, <em>v. </em>Corn <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b972-24\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aqm4\">December 19, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b972-25\">Appeal from seventh district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b972-26\">Argued before Van Hoesen, P. J., and Bookstaver, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b972-27\"><em>G. Hahn, </em>for appellants. <em>N. L. Hahn, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b972-28\">No opinion. Judgment affirmed, witli costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

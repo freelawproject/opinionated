@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1082\" lastpage=\"1082\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Dale Robin MILLER\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-KH-0810\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  August 31, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied. Relator has previously exhausted his right to state collateral review. See State ex rel. Miller v. State, 16-0878 (La. 5/19/17),\n  <extracted-citation case-ids=\"12369285,12369270\" index=\"0\" url=\"https://cite.case.law/so-3d/219/1077/\">\n   219 So.3d 1077\n  </extracted-citation>\n  .\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   GENOVESE, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"931\" lastpage=\"931\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b949-6\">Bergen, Respondent, <em>v. </em>Manhattan Ry. Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AMl2\"><em>(Supreme </em>Court, <em>General Term, First Department.</em></court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AGF\">November 7, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"Akn2\">Argued before Van Brunt, P. J., and Daniels and Barrett, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AaX\">No opinion. Judgment affirmed, with costs to respondent.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

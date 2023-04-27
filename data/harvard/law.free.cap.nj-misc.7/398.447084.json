@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"398\" lastpage=\"398\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b414-5\">MORRIS NEWELL ET AL., PARTNERS, ETC., RESPONDENTS, v. MAX KLIPPER ET AL., APPELLANTS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b414-6\">Submitted October 12, 1928</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-V\">Decided April 11, 1929.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b414-8\">Before G-ummere, Chief Justice, and Justice Parker.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b414-9\">Eor the appellants, <em>Julius J. Seiden.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b414-10\">Eor the respondents, <em>Isaac Gross.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b414-11\">Per Curiam.</author>\n<p id=\"b414-12\">This is similar in all respects except the names of the plaintiffs, to the case of Schultz &amp; Son <em>v. </em>Klipper, No. 63 of the present term. Eor the reasons given in the <em>per curiam </em>in that case, the judgment brought up in this case will be affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

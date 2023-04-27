@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"942\" lastpage=\"942\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b960-9\">Cobb, Appellant, v. Alexander, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b960-10\">\n<em>(Supreme Court, General Term, Fourth Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AAto\">February 11, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AEs\">Argued before Hardin, P. J., and Martin and Merwin, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b960-11\">No opinion. Order reversed, and attachment amended so that it shall stand for the debt of $420 only and costs; and the motion in other respects denied, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

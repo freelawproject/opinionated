@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"959\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b979-17\">Pfeiffer, Respondent, v. American Surety Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AVE\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIi\">June 28, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b979-18\">Appeal by defendant from judgment entered on verdict of jury.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b979-19\">Argued before Sedgwick, C. J., and Freedman, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b979-20\"><em>Stickney &amp; Shepard, </em>for appellant. <em>F. F. Nugent </em>and <em>Wm. H. Arnoux, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b979-21\">Per Curiam.</author>\n<p id=\"AiGq\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

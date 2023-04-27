@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"557\" lastpage=\"557\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b583-7\">Belknap,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AWK\">Dec. 3, 1925.</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b583-9\">Charles L. Pulsifer <em>&amp; a., Trustees, v. </em>Laconia.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b583-15\"><em>Thomas P. Cheney, </em>for the plaintiffs.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b583-16\"><em>Stanton Owen, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b583-17\">Peaslee, C. J.</author>\n<p id=\"AhT\">The trustees are advised that the income of the fund should be paid to the city, to be used for \u201cthe enlargement and beautifying the Public Park\u201d in which the library is located.</p>\n<p id=\"b583-19\">\n<em>Case discharged.</em>\n</p>\n<p id=\"b583-18\">All concurred.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

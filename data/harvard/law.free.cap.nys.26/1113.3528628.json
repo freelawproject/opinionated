@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1113\" lastpage=\"1113\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1133-11\">BUTLER, Appellant, v. TOWNSEND et al., Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1133-12\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AWE\">December 15, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1133-13\">Action by Annie Butler against James R. Townsend and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1133-14\">Argued before VAN BRUNT, P. J., and O\u2019BRIEN and FOLLETT, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1133-15\">Ira Leo Hamberger, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1133-16\">John A. Beall, for respondents.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1133-17\">No opinion. Order affirmed, with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

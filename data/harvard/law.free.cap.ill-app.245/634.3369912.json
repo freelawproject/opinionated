@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"634\" lastpage=\"634\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b686-15\" pgmap=\"686\">James T. DeVere, appellee, v. Bridget Rabbit, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aqx8\" pgmap=\"686\">Gen. No. 31,897.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"Ai0\" pgmap=\"686\">MeSurely, J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A26\" pgmap=\"686\">Opinion filed October 10, 1927.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b686-17\" pgmap=\"686\">Edward R. Weinstein, for appellant. George McMahon, for appellee.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b686-18\" pgmap=\"686\">Mr. Presiding Justice Matehett</author> <p id=\"A2c\" pgmap=\"686\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

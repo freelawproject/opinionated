@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"737\" lastpage=\"737\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b785-6\">Arthur <em>J. </em>SNIPES et al. v. H. Wayne FRANKLIN et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AnC\">No. 7233.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b785-9\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b785-10\">Feb. 13, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b785-12\">George M. Murphy, Clovis, N. M., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b785-13\">B. C. Hernandez and Dale Walker, Albuquerque, N. M., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b785-14\">Before MURRAH, Chief Judge, and BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b785-15\">PER CURIAM.</author>\n<p id=\"b785-16\">On joint motion of the parties, cause remanded to the district court February 13, 1963, for purposes of entering judgment pursuant to the stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

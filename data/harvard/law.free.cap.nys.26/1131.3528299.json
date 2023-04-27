@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1131\" lastpage=\"1131\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1151-12\">SCHAEFER, Respondent, v. THORNTON, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1151-13\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ArOI\">January 4, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1151-15\">Appeal from eighth district court.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1151-16\">Action by Julia 0. Schaefer against William F. Thornton.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1151-17\">Argued before DALY, C. J., and BISCHOFF and PRYOR, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1151-18\">J. F. Higgins, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1151-19\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

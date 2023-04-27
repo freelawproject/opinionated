@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1950\" lastpage=\"1950\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Phillip D. KLINE, petitioner,\n  <br/>\n  v.\n  <br/>\n  KANSAS DISCIPLINARY ADMINISTRATOR.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-1104.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  April 28, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"12416649\" index=\"0\" url=\"https://cite.case.law/kan/298/96/\">\n   298 Kan. 96\n  </extracted-citation>\n  ,\n  <extracted-citation case-ids=\"12416649\" index=\"1\" url=\"https://cite.case.law/kan/298/96/\">\n   311 P.3d 321\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Motion of Eagle Forum Education &amp; Legal Defense Fund, Inc., et al. for leave to file a brief as\n  <em>\n   amici curiae\n  </em>\n  granted. Motion of National Lawyers' Association, et al. for leave to file a brief as\n  <em>\n   amici curiae\n  </em>\n  granted. Petition for writ of certiorari to the Supreme Court of Kansas denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

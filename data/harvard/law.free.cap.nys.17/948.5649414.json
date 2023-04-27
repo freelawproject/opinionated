@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"948\" lastpage=\"948\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b968-16\">King, Respondent, <em>v. </em>Link <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b968-17\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ADkL\">December 23, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"ANO\">Appeal from third district court.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b968-18\">Action by Hugh King against George L. Link and others.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b968-19\">Argued before Bookstaver arid Bisohoff, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b968-20\"><em>F. A. Camp, </em>for appellants. <em>J. A. O\u2019Gorman, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b968-21\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

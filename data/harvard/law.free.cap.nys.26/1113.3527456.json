@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1113\" lastpage=\"1113\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1133-30\">KENNEDY v. MANHATTAN RY. CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1133-31\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AtU\">December 15, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1133-32\">Action by Hannah Kennedy, as administratrix, etc., against the Manhattan Railway Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1133-33\">Argued before VAN BRUNT, P. J\u201e and FOLLETT and PARKER, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AzXS\">David Leventritt, for plaintiff.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1133-34\">Davies &amp; Rapallo, for defendant.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1133-35\">No opinion. Motion denied, with $10 costs. See 25 N. Y. Supp. 1123.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

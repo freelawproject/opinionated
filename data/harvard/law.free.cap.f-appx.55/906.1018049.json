@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b977-5\">D.R. JOHNSON LUMBER COMPANY, Plaintiff-Appellant, v. UNITED STATES, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AnG\">No. 02-5094.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b977-7\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b977-8\">DECIDED: Feb. 7, 2003.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b977-10\">Before MAYER, Chief Judge, CLEVENGER and BRYSON, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b978-4\"><page-number citation-index=\"1\" label=\"907\">*907</page-number>Judgment</p>\n<author id=\"b978-5\">PER CURIAM.</author>\n<p id=\"b978-6\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b978-7\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

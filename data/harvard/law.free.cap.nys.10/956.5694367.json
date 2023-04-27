@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"956\" lastpage=\"956\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b976-28\">Maehado, Respondent, <em>v. </em>Bradford, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b976-29\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AAB\">June 26, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AhXT\">Appeal from eleventh district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b976-30\">Argued before Allen and Bookstaver, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b976-31\"><em>S. Baker, </em>for appellant. <em>A. Lamont, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b976-32\">Ho opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2670\" lastpage=\"2670\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jamal GRANT, petitioner,\n  <br/>\n  v.\n  <br/>\n  John CATALDO, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-9287.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  May 27, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"3729665,3727113,3729292,3722898,3725331,3731355,3724063,3720865,3721510,3719847,3722025,3725611,3731755,3717427,3718323,3724469,3718069,3732280,3717307,3724604,3722687,3732427,3732556,3727947,3717710,3714649,3721178,3729253,3731564,3715438,3723891,3726204,3721725\" index=\"0\" url=\"https://cite.case.law/nys2d/967/863/\">\n   967 N.Y.S.2d 863\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the Appellate Division, Supreme Court of New York, First Judicial Department, denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

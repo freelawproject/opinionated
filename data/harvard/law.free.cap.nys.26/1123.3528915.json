@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1123\" lastpage=\"1123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1143-11\">In re KELLOGG.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1143-12\">(Supreme Court, General Term, Third Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AoB\">December 6, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1143-13\">Application by Helen M. Kellogg for leave to Intervene, etc.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1143-14\">Argued before MAYHAM, P. J., and PUTNAM and HERRICK, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1143-15\">No opinion. Order affirmed, with 810 costs, with printing and other disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

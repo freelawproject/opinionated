@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1113\" lastpage=\"1113\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1133-28\">MITCHELL et al. v. ARCHER.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1133-29\">(Supreme Court, General Term, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AnHJ\">May 14, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1133-30\">Action by George A. Mitchell and others against Samuel Archer.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1133-31\">Argued before BROWN, P. J., and CULLEN, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1133-32\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1144\" lastpage=\"1144\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1164-4\">JOHNSON, Respondent, v. GIRDWOOD, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1164-5\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ah2\">May 17, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1164-6\">Action by Joseph W. Johnson against James Girdwood.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1164-7\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1164-8\">Jas. Dunne, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1164-9\">E. S. Clinch, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1164-10\">No opinion. Motion for reargument granted. See 28 N. Y. Supp. 151.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

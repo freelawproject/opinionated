@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"604\" lastpage=\"604\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"otherdate\" id=\"b610-5\">South Carolina</p>\n<court data-order=\"1\" data-type=\"court\" id=\"Aoo\">Chancery</court>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b610-6\">Elizabeth Smith and others, Complainants v. Hannah Smith and others, Defendants</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b610-9\">October 29. 1772.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b610-8\">It is Ordered that the Defendant Hannah Smith be admitted Guardian for the Defendants Mary and Rebecca Smith her Daughters they being Minors in their Behalf to answer the Bill in this Suit.</p>\n<author id=\"Aah\">Wm Burrows Master in Chancery</author>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

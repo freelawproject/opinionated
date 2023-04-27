@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"183\" lastpage=\"183\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b199-3\">THE STATE OF NEW JERSEY v. THOMAS A. ARCHIPLEY.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"AB8\">Submitted October term, 1928</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ADs\">Decided January 3, 1929.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b199-5\">Before Justices Mintuen, Black and Campbell.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b199-6\">Eor the state, <em>Abe J. David </em>and <em>Walter 0. Tenney.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b199-7\">Eor the defendant, <em>John W. McGeehan, Jr.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b199-8\">Pee Cubiam.</author>\n<p id=\"b199-9\">The application for the writ of <em>certiorari </em>is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"48\" lastpage=\"48\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b66-3\">HARRY HODES, PLAINTIFF-APPELLANT, v. FRANK MOONEY ET AL., DEFENDANTS-RESPONDENTS.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b66-4\">Decided December 30, 1930.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b66-7\">Before Justices Case, Daly and Donges..</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b66-8\">Eor the appellant, <em>Hodes \u00a3 </em>Hodes, <em>Herbert A. Kuvin </em>and <em>Harry Green.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b66-9\">Eor the respondents, <em>Berlin \u00a3 Berlin.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b66-10\">Per Curiam.</author>\n<p id=\"b66-11\">Since the filing of the opinion in this case it has been represented to the court that the defendant Mooney has parted with the property so that a judgment for possession will be ineffectual. Therefore, instead of entering judgment for the plaintiff in this court, the judgment is reversed and the case remanded for a new trial.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"310\" lastpage=\"310\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b328-6\">PAUL C. SCHOTTE, PROSECUTOR, v. BOARD OF COMMISSIONERS OF THE TOWN OF IRVINGTON, DEFENDANT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b328-7\">Argued January 23, 1931</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ARE\">Decided February 13, 1931.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b328-9\">Before Gummeee, Chief Justice, and Justice Campbell.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AV5\">Eor the prosecutor, <em>Edward A. &amp; William A. Schilling.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Agv\">Eor the defendant, <em>Charles H. Stewart.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b328-10\">Pee Cueiam.</author>\n<p id=\"b328-11\">A consideration of the facts presented and the arguments; of counsel made brings us to the conclusion that the application for the writ should be denied.</p>\n<p id=\"b328-12\">Such an order may be had and entered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

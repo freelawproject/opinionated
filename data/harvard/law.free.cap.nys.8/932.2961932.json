@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"932\" lastpage=\"932\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b950-27\">Furber, Appellant, v. McCarthy <em>et al., </em>Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b950-28\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Axg\">January 24, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"APZN\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b950-29\"><em>H. Joseph, </em>for appellant. <em>E. P. </em>Johnson, for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b950-30\">No opinion. Motion denied, with $10 costs. For former reports, see 4 N. Y. Supp. 274; 5 N. Y. Supp. 947; 7 N. Y. Supp. 613.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

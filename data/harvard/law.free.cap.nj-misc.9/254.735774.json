@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"254\" lastpage=\"254\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b272-5\">LILLIAN BECKER, PROSECUTRIX, v. NATHAN ROSENFELD, JUSTICE OF THE PEACE, DEFENDANT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b272-6\">Argued January 21, 1931</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Agm_\">Decided February 6, 1931.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b272-8\">Before Justices Pakkek, Campbell and Bodine.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b272-9\">Eor the prosecutrix, <em>Kass &amp; Eass.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b272-10\">Pee Ctjkiam.</author>\n<p id=\"b272-11\">The conviction was not returned with the writ.</p>\n<p id=\"b272-12\">The writ will therefore be dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

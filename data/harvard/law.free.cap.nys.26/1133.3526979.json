@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1133\" lastpage=\"1133\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1153-4\">GUTTROFF, Appellant, v. WALLACH et al., Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1153-5\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AMLG\">January 10, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1153-7\">Appeal from city court, general term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1153-8\">Action by George Guttroff against Julius Wallach and Joseph C. Wallach..</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1153-9\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"pA_8x\">No opinion. Order reversed, with costs. See 22 N. Y. Supp. 745.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

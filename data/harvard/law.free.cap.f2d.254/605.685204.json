@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"605\" lastpage=\"605\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b659-39\">Billye LEEPER, as Administratrix of the Estate of William V. Lewis, Deceased, v. MARYLAND CASUALTY COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"arz-dedup-0\">No. 5745.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b659-41\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b659-42\">Dec. 9, 1957.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b659-44\">Foliart, Hunt &amp; Shepherd, Oklahoma City, Okl., and Stevenson, Huser &amp; Huser, Holdenville, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b659-45\">Horsley, Epton &amp; Culp, Wewoka, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b659-46\">Before BRATTON, Chief Judge, and BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b659-47\">PER CURIAM.</author>\n<p id=\"b659-48\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

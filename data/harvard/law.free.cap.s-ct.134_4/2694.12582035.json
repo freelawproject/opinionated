@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2694\" lastpage=\"2694\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Gloria CURRIE, petitioner,\n  <br/>\n  v.\n  <br/>\n  Millicent WARREN, Warden.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-8496.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  May 27, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12705321,12705290,12705322,12705323,12705324,12705325,12579927,12579928,12579929,12579930,12579931,12579932\" index=\"0\" url=\"https://cite.case.law/s-ct/134/1766/\">\n   134 S.Ct. 1766\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

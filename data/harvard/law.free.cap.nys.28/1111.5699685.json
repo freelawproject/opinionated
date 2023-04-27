@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1111\" lastpage=\"1111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1131-23\">BERNSTEIN v. UPTON et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1131-24\">(Supreme Court, General Term, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AN_H\">May 14, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1131-25\">Action by Lewis Bernstein against Georgiana Upton and others, executors, etc.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1131-26\">Argued before BROWN, P. J., and DYKMAN and CULLEN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1131-27\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

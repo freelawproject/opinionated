@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"950\" lastpage=\"950\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b968-16\">Metzler, Respondent, <em>v. </em>Murray, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b968-17\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-EH\">November, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AmK\">Appeal from city court, general term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b968-18\">Argued before Larremore, C. J., and Daly and Van Hoesen, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b968-19\"><em>Jas. P. Campbell, </em>for appellant. <em>Angel &amp; Smith, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b968-20\">No opinion. Judgment affirmed with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

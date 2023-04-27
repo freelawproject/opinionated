@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"339\" lastpage=\"340\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  David ROYCE, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Susan LAPORTE, Defendant-Appellant.\n </parties>\n <parties id=\"p-2\">\n  David Royce, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Susan Laporte, Defendant-Appellant,\n  <br/>\n  and\n  <br/>\n  Marcia C. Ross, Appellee.\n </parties>\n <docketnumber id=\"p-3\">\n  SC: 158726\n  <br/>\n  158727\n  <br/>\n  SC: 158728\n  <br/>\n  COA: 337549, 340354\n  <br/>\n  COA: 339903\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  January 18, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Chief Justice, the motion for the temporary admission of out-of-state\n   attorneys Gregory F. Jacob, Samuel R. Lehman, and Reuben C. Goetzl to appear and practice in this case under MCR 8.126(A) is GRANTED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

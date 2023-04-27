@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2162\" lastpage=\"2162\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Eugene KORTE, petitioner,\n  <br/>\n  v.\n  <br/>\n  MIDLAND FINDING, LLC, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-7952.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  May 5, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12579169,12579170,12579171,12579172,12579173,12579174,12701898,12701899,12701900,12701901,12701875,12701848\" index=\"0\" url=\"https://cite.case.law/s-ct/134/1493/\">\n   134 S.Ct. 1493\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

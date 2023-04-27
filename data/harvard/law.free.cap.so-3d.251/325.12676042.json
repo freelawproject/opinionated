@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"325\" lastpage=\"325\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Randall BOOKER, Appellant,\n  <br/>\n  v.\n  <br/>\n  Stefne BOOKER, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D17-828\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed July 25, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Mary Raymond, for appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Stefne Booker, in proper person.\n </attorneys>\n <judges id=\"p-7\">\n  Before SUAREZ, FERNANDEZ, and SCALES, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n   <em>\n    Applegate v. Barnett Bank of Tallahassee\n   </em>\n   ,\n   <extracted-citation case-ids=\"9626980\" index=\"0\" url=\"https://cite.case.law/so-2d/377/1150/\">\n    377 So.2d 1150\n   </extracted-citation>\n   (Fla. 1979).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

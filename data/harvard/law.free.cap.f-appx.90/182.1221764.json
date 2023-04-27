@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"182\" lastpage=\"182\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b222-8\">Christopher L. HAMILTON, Petitioner-Appellant, v. UNITED STATES of America, Respondent-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b222-10\">No. 03-3804.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b222-11\">United States Court of Appeals, Seventh Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b222-12\">March 17, 2004.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b222-14\">Christopher L. Hamilton, Lompoc, CA, pro se.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b222-15\">Colin S. Bruce, Office of the United States Attorney, Urbana, IL, for Respondent-Appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b222-16\">Before BAUER, EASTERBROOK, and KANNE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b222-17\">The court, on its own motion, VACATES the order of March 15, 2004.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

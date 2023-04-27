@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1581\" lastpage=\"1581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the Matter of Elie S. COURY.\n </parties>\n <docketnumber id=\"p-2\">\n  No. D-2768.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  March 24, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"12701251,12701834,12701823,12701844,12701845,12701846,12579066,12579067,12579068,12579069,12579070,12579071\" index=\"0\" url=\"https://cite.case.law/s-ct/134/1375/\">\n   134 S.Ct. 1375\n  </extracted-citation>\n  .\n </history>\n <attorneys id=\"p-6\">\n  Elie S. Coury, of Danbury, Connecticut, having requested to resign as a member of the Bar of this Court, it is ordered that his name be stricken from the roll of attorneys permitted to the practice of law before this Court. The Rule to Show Cause, issued on February 24, 2014, is discharged.\n </attorneys>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

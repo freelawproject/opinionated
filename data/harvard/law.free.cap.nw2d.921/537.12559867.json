@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"537\" lastpage=\"537\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE Parole of Robert Erwin STUMPMIER\n </parties>\n <parties id=\"p-2\">\n  Monroe County Prosecuting Attorney, Appellee,\n  <br/>\n  v.\n  <br/>\n  Robert Erwin Stumpmier, Appellant.\n </parties>\n <judges id=\"p-3\">\n  Parole Board, Intervenor.\n </judges>\n <docketnumber id=\"p-4\">\n  SC: 158203\n  <br/>\n  COA: 343502\n </docketnumber>\n <court id=\"p-5\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-6\">\n  January 23, 2019\n </decisiondate>\n <p id=\"p-7\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   On order of the Court, the application for leave to appeal the June 27, 2018 order of the Court of Appeals is considered and, pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we REMAND this case to the Court of Appeals for consideration as on leave granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

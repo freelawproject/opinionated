@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1134\" lastpage=\"1134\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1154-5\">PIEPGRAS v. EDMONDS et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1154-6\">(Superior Court of New York City, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AZL7\">December 29, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1154-7\">Action by Henry Piepgras against Walter D. Edmonds and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1154-8\">.Argued before FREEDMAN and McADAM, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1154-9\">Geo. A. Black, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1154-10\">T. C. Byrnes and Geo. Gordon Battles, for respondents.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"pANEn\">PER CURIAM.</author>\n<p id=\"AsLB\">The judgment appealed from must be affirmed, with costs, on the opinion of the court below. 25 N. Y. Supp. 961.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

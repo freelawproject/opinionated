@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"958\" lastpage=\"958\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b976-9\">Dougherty et <em>al., </em>Respondents, <em>v. </em>McGuckin <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b976-10\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A14\">March 4, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b976-11\">Argued before Sedgwick, C. J., and Freedman, J.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b976-12\"><em>Daniel P. Mahoney, </em>for appellants. <em>Hector M. Hitchings, </em>for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b976-13\">Per Curiam.</author>\n<p id=\"Am1q\">The conclusions of law of the referee are supported by his findings of fact. It does not appear that any one of the findings of fact is incorrect, inasmuch as the case does not show that it contains all the testimony given on the trial. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

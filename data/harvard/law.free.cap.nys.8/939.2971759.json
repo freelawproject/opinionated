@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"939\" lastpage=\"939\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b957-11\">Thompson <em>v. </em>Fuller.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b957-12\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ACHv\">February 24, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AyD\">Argued before Learned, P. J., and Landon and Mayham, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b957-13\">No opinion. Motion to modify order denied. For former report, see <em>ante, </em>62.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

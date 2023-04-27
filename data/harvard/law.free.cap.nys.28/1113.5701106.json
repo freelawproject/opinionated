@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1113\" lastpage=\"1113\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1133-23\">MATHUSHEK PIANO MANUF\u2019G CO. v. PEARCE.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1133-24\">(Supreme Court, General Term, Second Department</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Af1\">May 14, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1133-25\">Action by the Mathushek Piano Manufacturing Company against James Pearce.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1133-26\">Argued before BROWN, P. J., and CULLEN, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1133-27\">No opinion. Order affirmed, with co\u00e1ts.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

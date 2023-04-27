@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"957\" lastpage=\"957\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b977-22\">MacFarlane, Respondent, <em>v. </em>Walter, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b977-23\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AY5U\">May 24, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b977-24\">Appeal from order directing judgment for plaintiff on demurrer as frivolous.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"Ab7\">Argued before Sedgwick, C. J., and Freedman, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b977-25\"><em>W. T, Birdsall, </em>for appellant. <em>F. E. Anderson, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b977-26\">Per Curiam.</author>\n<p id=\"AYxD\">Order affirmed, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

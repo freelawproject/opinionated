@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2333\" lastpage=\"2333\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  MAERSK DRILLING USA, INC.\n  <br/>\n  v.\n  <br/>\n  TRANSOCEAN OFFSHORE DEEPWATER DRILLING, INC.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-43 (R46-014).\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  May 21, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"5868639\" index=\"0\" url=\"https://cite.case.law/f3d/699/1340/\">\n   699 F.3d 1340\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  The petition for writ of certiorari was dismissed today pursuant to Rule 46.1 of the Rules of this Court.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

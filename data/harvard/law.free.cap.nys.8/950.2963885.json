@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"950\" lastpage=\"950\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b968-4\">McAllister, Respondent, <em>v. </em>Peck <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b968-5\">\n<em>(Common Pleas of New York, City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQS4\">November, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"ARLY\">Argued before Larremore, C. J., and Daly and Van Hoesen, JJ</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A_lC\"><em>F. M. Littlefield, </em>for appellants. <em>B. Metzger, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b968-6\">No opinion. Motion for affirmance of judgment for non-service of printed papers granted, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

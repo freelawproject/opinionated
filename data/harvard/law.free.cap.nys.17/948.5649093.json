@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"948\" lastpage=\"948\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b968-22\">Tousey, Respondent, <em>v. </em>Eschner, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b968-23\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AkFu\">December 23, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A3Gi\">Appeal from eleventh district court.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b968-24\">Action by Mary H. Tousey against Frederick Eschner.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b968-25\">Argued before Bookstaver and Bisohoff, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b968-26\"><em>R. Greenthal, </em>for appellant, if. <em>M. Ball, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b968-27\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

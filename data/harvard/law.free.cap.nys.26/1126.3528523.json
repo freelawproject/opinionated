@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1126\" lastpage=\"1126\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1146-23\">GREENWAY BREWING CO., Appellant, v. BISHOP, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1146-24\">(Supreme Court, General Term, Fourth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A4Q\">December 8, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1146-25\">Action by the Greenway Brewing Company against James L. Bishop.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"AmQ\">Argued before HARDIN, P. J., and MARTIN and MERWIN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1146-26\">No opinion. Judgment of the county court modified by striking therefrom the provision which awards a new trial, and as so modified affirmed, without costs to either party on this appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

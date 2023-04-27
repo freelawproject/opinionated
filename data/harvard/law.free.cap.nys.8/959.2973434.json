@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"959\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b977-20\">Welsh, Respondent, <em>v. </em>Metropolitan El. R. Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AAoi\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AOq\">January 6, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"b977-21\">Appeal from special term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b977-22\">Argued before Freedman and Ingraham, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b977-23\"><em>Geo. W. Van Nest, </em>for appellant. <em>Samuel B. Rodgers, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b977-24\">Per Curiam.</author>\n<p id=\"A-R\">The questions presented on this appeal are all determined by the decision in <em>Welsh </em>v. <em>Manhattan R. Co., ante, </em>492. For the reasons there stated, the judgment should be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

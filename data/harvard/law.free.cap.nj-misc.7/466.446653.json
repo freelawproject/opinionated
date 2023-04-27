@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"466\" lastpage=\"466\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b482-5\">RICHARD MINOCHIAN ET AL., PROSECUTOR, v. CITY OF PATERSON, DEFENDANT.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b482-6\">Decided May 6, 1929.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b482-8\">Before Justices Teenchard, Kalisch and Lloyd.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ATT\">Eor the prosecutor, <em>Edward F. Merrey.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b482-9\">Eor the defendant, <em>Benjamin J. Spitz.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b482-10\">Per Curiam.</author>\n<p id=\"b482-11\">The petition for a rehearing is denied.</p>\n<p id=\"b482-12\">Reported in 6 <em>N. J. Adv. R. </em>1905.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

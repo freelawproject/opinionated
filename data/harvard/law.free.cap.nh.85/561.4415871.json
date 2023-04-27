@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"561\" lastpage=\"561\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b585-12\">Cheshire,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AJ1\">May 3, 1932.</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b585-13\">State <em>v. </em>Whippet Coach (Joseph Nadeau, <em>Claimant).</em></parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b585-15\"><em>Arthur Olson, </em>solicitor, for the state.</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"b585-16\"><em>Barton &amp; Shulins, </em>for the claimant.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b585-17\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AUi\">The exception is without merit. P. L., <em>c. </em>372, ss. 7, 9.</p>\n<p id=\"b585-18\">\n<em>Exception overruled.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

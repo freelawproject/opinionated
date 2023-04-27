@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"938\" lastpage=\"939\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b812-12\">No. 408,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AxN\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AF-3\">Grammer <em>v. </em>Maryland.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AKC\"><em>Joseph Sher-</em><page-number citation-index=\"1\" label=\"939\">*939</page-number><em>bow </em>and <em>Theodore Sherbow </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_K6\"><page-number citation-index=\"1\" label=\"938\">*938</page-number>Court of Appeals of Maryland. Certiorari denied.</p>\n<attorneys id=\"AI81\"><page-number citation-index=\"1\" label=\"939\">*939</page-number><em>Edward D. E. Rollins, </em>Attorney General of Maryland, <em>Ambrose T. Hartman, </em>Assistant Attorney General, and <em>Anselm Sodaro </em>for respondent.</attorneys>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

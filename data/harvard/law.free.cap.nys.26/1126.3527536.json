@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1126\" lastpage=\"1126\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1146-27\">HAVANA JOURNAL, Appellant, v. PIKE, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1146-28\">(Supreme Court, General Term, Fourth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AZv3\">December 8, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1146-29\">Action by the Havana Journal against Sewell Pike.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1146-30\">Argued before HARDIN, P. J., and MARTIN and MERWIN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1146-31\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

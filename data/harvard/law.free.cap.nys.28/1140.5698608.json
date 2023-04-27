@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1140\" lastpage=\"1140\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1160-32\">HAYES, Appellant, v. CONSOLIDATED GASLIGHT CO. OF NEW YORK, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1160-34\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ajz\">May 9, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1160-35\">Action by Margaret Hayes, administratrix, etc., against the Consolidated Gaslight Company of New York.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1160-36\">Argued before DALY, C. J., and BISCHOFF and PRYOR, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1160-37\">Wingate &amp; Cullen, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1160-38\">Lord, Day &amp; Lord, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1160-39\">No opinion. Order affirmed, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

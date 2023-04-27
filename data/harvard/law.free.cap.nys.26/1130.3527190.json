@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1130\" lastpage=\"1130\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1150-12\">FISS et al., Respondents, v. WARREN, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1150-13\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEHd\">January 4, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1150-15\">Appeal from city court, general term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1150-16\">Action by William Piss .and John P. Dorr against Henry M. Warren.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"Aztl\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1150-17\">Strong, Hermon &amp; Matthewson, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"AMR9\">E. B. La Fetra, for respondents.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1150-18\">No opinion. Judgment affirmed, with costs. See 26 N. Y. Supp. 75.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

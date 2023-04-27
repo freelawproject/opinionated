@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"A0q\">No. 4,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Ar_\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AY6\">The United States, Complainant, <em>v. </em>The State of Michigan.</parties>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AoqC\">November 19, 1906.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"APz_\"><em>The Attorney General </em>for complainant. <em>Mr. Horace M. Oren </em>and <em>Mr. Charles A. Blair </em>for defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AyW\">Dismissed, on motion of <em>The Solicitor General </em>for the complainant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

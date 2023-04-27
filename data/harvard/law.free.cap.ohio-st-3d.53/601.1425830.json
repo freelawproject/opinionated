@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b335-3\">In re Resignation of Bray.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b335-5\">[Cite as In re Resignation of Bray (1990), 53 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b335-7\">(No. 90-1138</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AdT\">Submitted July 19, 1990</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b335-8\">Decided July 25, 1990.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b335-9\">The resignation of Edward J. Bray as an attorney is accepted.</p>\n<judges id=\"AlO\">Moyer, C. J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

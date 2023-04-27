@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"953\" lastpage=\"953\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b971-9\">Wanzor, Appellant, <em>v. </em>Wanzor, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b971-10\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AKe\">November, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"A-q\">Argued before Labbemobe, C. J., and Daly and Van Hoesen, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b971-11\"><em>B. Estes, </em>for appellant. <em>Hascall, Clarke &amp; Vanderpoel, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABYq\">No opinion. Motion to dismiss appeal granted, with costs. For former report, see 5 N. V. Supp. 957.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

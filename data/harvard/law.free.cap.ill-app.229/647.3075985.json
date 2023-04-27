@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"647\" lastpage=\"647\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b673-9\" pgmap=\"673\">Alfred Anderson and Emil Anderson, plaintiffs in error, v. J. M. Carson, defendant in error.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AYyq\" pgmap=\"673\">Gen. No. 27,482.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AW-o\" pgmap=\"673\">Thomson, P. J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ALc0\" pgmap=\"673\">Opinion filed April 11, 1923.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b673-13\" pgmap=\"673\">T. P. Grant, for plaintiffs in error. Binkley &amp; Mooney, for defendant in error.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b673-14\" pgmap=\"673\">Mr. Justice Taylor</author> <p id=\"Anx\" pgmap=\"673\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

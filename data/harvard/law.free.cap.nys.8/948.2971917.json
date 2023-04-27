@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"948\" lastpage=\"948\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b966-14\">Block, Respondent, <em>v. </em>Mutual Fire Ins. Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ARL9\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AgHV\">November, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"Am6I\">Appeal from special term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b966-15\">Argued before Larremore, C. J., and Van Hoesen and Bookstaver, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AHe\"><em>Stine </em>&amp; <em>Calman, </em>for appellant. <em>North, Ward &amp; Wagstaff, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9U\">No opinion. Ordered that the order be modified by striking out the words \u201cwhen and where,\u201d and in other respects affirmed, without costs of appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

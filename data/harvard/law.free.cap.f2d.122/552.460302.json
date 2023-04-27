@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"552\" lastpage=\"552\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b608-26\">Louis BOEHM, Appellant, v. CITY OF NEW YORK, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b608-27\">No. 372.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b608-28\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b608-29\">July 7, 1941.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b608-31\">Louis Boehm, of New York City, pro se (Samuel Zeiger, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b608-32\">William C. Chanler, Corp. Counsel, of New York City (William S. Gaud, Jr., and Leo Brown, both of New York City, of counsel), for City of New York.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b608-33\">Before L. HAND, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b608-34\">PER CURIAM.</author>\n<p id=\"b608-35\">Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1142\" lastpage=\"1142\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1162-11\">LAMBERT, Appellant, v. CARR et al., Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1162-12\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ARt9\">May 11, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1162-13\">Action by Henry A. Lambert against George W. Carr and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1162-14\">Argued before DALY, C. J., and BOOKSTAVER and PRYOR, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1162-15\">Wm. A. Abbott, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1162-16\">Cantor &amp; Van Schaiek, for respondents.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1162-17\">No opinion. Ordered that the order be reversed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

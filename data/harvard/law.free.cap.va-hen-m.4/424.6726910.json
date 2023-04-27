@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"936\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b154-20\">Cutting v. Carter et al.</parties>\n<p data-order=\"1\" data-type=\"court\" id=\"b154-21\">Spring Vacation,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ACW\">1809.</decisiondate>\n<headnotes data-order=\"3\" data-type=\"headnotes\" id=\"b154-22\">Injunction \u2014 Waste \u2014 When Denied.<footnotemark>\u2020</footnotemark> \u2014 Injunction to stay waste denied, there appearingno impediment to the action of waste at law.</headnotes>\n<footnote data-order=\"4\" data-type=\"footnote\" id=\"x999-1\" label=\"\u2020\">\n<p id=\"b154-30\"> The principal case is cited in Teass v. St. Albans, 88 W. Va. 19,17 S. E. Rep. 407. See monographic <em>note </em>on \u201cInjunctions\u201d appended to Claytor v. Anthony, 15 Gratt. 518.</p>\n</footnote>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<p id=\"b154-23\">This was a motion by Mr. Botts for an injunction to stay waste, which the Court refused, as no impediment appeared to the action of waste at law.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1146\" lastpage=\"1146\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1166-11\">TOOKER et al., Respondents, v. BOOTH, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1166-12\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ap8\">May 17, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1166-13\">Action by Joseph H. Tooker and others against Marion Booth.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1166-14\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1166-15\">No opinion. Appeal dismissed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

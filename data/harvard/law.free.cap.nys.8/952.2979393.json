@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"952\" lastpage=\"952\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b970-22\">Sire, Appellant, <em>v. </em>Merrick, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b970-23\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ARt\">November, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AAc8\">Appeal from first district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b970-24\">Argued before Larremore, C. J., and Van Hoesen, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b970-25\"><em>J. Fromme, </em>for appellant. <em>J. Callahan, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b970-26\">No opinion. Final order affirmed, with costs. For former report, see 6 N. Y. Supp. 661.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

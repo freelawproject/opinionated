@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"955\" lastpage=\"955\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b973-20\">Quin, Appellant, <em>v. </em>Winter, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b973-21\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AMG\">January 6,1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"Aq5P\">Argued before Bookstaver, P. J., and Bischoff, J.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b973-22\">No opinion. Motion for leave to appeal to court of appeals denied, with $10 costs. For former reports, see 4 N. Y. Supp. 865; 7 N. Y. Supp. 755.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

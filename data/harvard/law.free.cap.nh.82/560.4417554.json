@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"560\" lastpage=\"560\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b586-6\">Grafton,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Asqk\">June 24, 1926.</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b586-8\">Richardson <em>&amp; </em>Cameron Co., Incorporated, <em>v. </em>Herbert Lahout.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b586-14\"><em>Henry A. Dodge </em>and <em>Edgar M. Bowker, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b586-15\"><em>George W. Pike, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b586-16\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"Ap9\">By the terms of the contract the warranty was expressly limited to 400 feet of radiation, and no evidence is reported from which any extension of this warranty could be found.</p>\n<p id=\"b586-17\">\n<em>Exception overruled.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

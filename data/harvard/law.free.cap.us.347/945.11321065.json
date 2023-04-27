@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"945\" lastpage=\"945\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b819-5\">No. 355,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aqv3\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AqUC\">Herman et al. <em>v. </em>Herman et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A_m-\"><em>Bernard H. Sandler, David Schenker </em>and <em>Benjamin Schenker </em>for M. Edward Herman, petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AuUx\"><em>John C. Marbach </em>for Helen Herman, respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AxrH\">Court of Appeals of New York. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

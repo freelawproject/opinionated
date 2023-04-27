@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b776-15\">No. 322,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AQy\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ASs\">Ex parte Lincoln Electric Co.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ApUu\"><em>Casper W. Ooms, Edward A. Haight, Dugald S. McDougall, John F. Oberlin, Thomas V. Koykka </em>and <em>James R. Stewart </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aum\"><em>John T. Cahill, James A. Fowler, Jr., Richard R. Wolfe </em>and <em>Loftus E. Becker </em>for the Union Carbide &amp; Carbon Corporation.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AoO\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

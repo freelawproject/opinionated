@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1766\" lastpage=\"1766\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  John DOE, petitioner,\n  <br/>\n  v.\n  <br/>\n  Tom NEER, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-914.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  March 31, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"7088228\" index=\"0\" url=\"https://cite.case.law/sw3d/409/451/\">\n   409 S.W.3d 451\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the Court of Appeals of Missouri, Eastern District, denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

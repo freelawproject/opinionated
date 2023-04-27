@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b972-9\">Freudenthal, Respondent, v. Schenkewitz, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b972-10\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AUN5\">December 19, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AuU\">Appeal from fifth district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b972-11\">Argued before Van Hoesen, P. J,, and Bookstaver, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b972-12\"><em>H. C. Kudlich, </em>for appellant. <em>Langbein Bros. </em>&amp; <em>Langbein, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVll\">No opinion. Ordered <em>that the </em>judgment <em>be </em>affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

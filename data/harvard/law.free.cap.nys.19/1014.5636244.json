@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1034-27\">People <em>v. </em>Garner.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1034-28\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"ATqI\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AOdT\">May 12, 1892.)</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"AfG\">Argued before Bookstaver and Bischoff, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1034-29\"><em>Be Laney Ffieoll, </em>for the People. <em>Henry A. Brann, </em>for defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1034-30\">Ho opinion. Motion to vacate judgment entered on a forfeited recognizance granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

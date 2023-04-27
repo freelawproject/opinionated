@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b762-5\">No. 8,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AOdM\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ALU\">Arizona <em>v. </em>California et al.</parties>\n<seealso data-order=\"3\" data-type=\"seealso\" id=\"AU-n\">[For earlier order herein, see, <em>e. g., </em>462 U. S. 1146.]</seealso>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aq32\">Motion for comments on the proposed decrees submitted by the State parties and the Solicitor General is granted, and the parties are allowed until November 10, 1983, within which to file comments.</p>\n<judges id=\"ARiY\">Justice Marshall took no part in the consideration or decision of this order.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

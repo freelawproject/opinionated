@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"984\" lastpage=\"984\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1002-7\">THE STATE OF NEW JERSEY, EX REL. STEPHEN W. STOOTHOFF, v. JULIA B. DAVIES, DEFENDANT. THE STATE OF NEW JERSEY, EX REL. STEPHEN W. STOOTHOFF, v. LEMUEL E. DAVIES, DEFENDANT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b1002-9\">Argued October 7, 1930</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A3U\">Decided October 17, 1930.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b1002-11\">Before Justices Campbell and Bodine.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1002-12\">Por the relator, <em>Wall, Haight, Carey &amp; Hartpenoe.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1002-13\">Por the defendants, <em>Joseph F. S. Fitzpatriclc.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1002-14\">Pee Cueiam.</author>\n<p id=\"b1002-15\">The applications will be denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

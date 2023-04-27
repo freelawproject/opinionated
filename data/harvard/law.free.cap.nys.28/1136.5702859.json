@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1136\" lastpage=\"1136\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1156-19\">SMITH, Respondent, v. MILLIKEN et al., Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1156-20\">(Supreme Court, General Term, Fifth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"APRc\">March 27, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1156-21\">Action by John J. Smith against Nathan J. Milliken and Charles F. Milliken.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"Ana\">Argued before DWIGHT, P. J., and LEWIS, HAIGHT, and BRADLEY, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWM5\">No opinion. Interlocutory judgment appealed from affirmed, with costs, with leave to the defendants to withdraw demurrer, and answer over within 20 days, on payment of the costs of this appeal and of the demurrer.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

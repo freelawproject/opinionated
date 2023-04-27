@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"945\" lastpage=\"945\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b965-12\">Coster <em>et al. v. </em>Fiske.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b965-13\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A6sc\">June 6, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b965-14\">Action by Charles Coster and another against Oliver Fiske. The receiver appointed in supplementary proceedings appeals from an order denying his motion to compel the transfer of two policies of life insurance.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b965-15\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b965-16\"><em>J. Eustice </em>for appellant. <em>G. Bliss, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b965-17\">Per Curiam.</author>\n<p id=\"A6Tn\">The order appealed from should be affirmed, with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

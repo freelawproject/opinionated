@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"184\" lastpage=\"184\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b200-3\">BENDETTO SCHEPS v. SCHUYLER C. VAN CLEEF ET AL.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"ARY\">Submitted October term, 1928</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Am0\">Decided January 3, 1929.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b200-5\">Before Justices Mintuen, Black and Campbell.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b200-6\">\n<em>Contra, John E. Toolan (Schuyler C. Van Cleef pro se).</em>\n</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AnD\">Eor the applicant, <em>Thomas W. Brown.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b200-7\">Pee Cueiam.</author>\n<p id=\"b200-8\">We conclude that the reasons and grounds urged under this rule are sufficient to warrant the allowance of the writ applied for.</p>\n<p id=\"b200-9\">' The writ will therefore be allowed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

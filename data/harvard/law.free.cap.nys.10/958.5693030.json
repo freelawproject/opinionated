@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"958\" lastpage=\"958\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b978-14\">Irwin, Appellant, <em>v. </em>Brown <em>et al., </em>Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b978-15\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A0nn\">June 27, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"b978-16\">Appeal from special term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b978-17\">Action by Robert J. Irwin against Edward M. Brown and another.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b978-18\">Argued before Freedman and Truax, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b978-19\"><em>Martin </em>&amp; <em>Smith, </em>for appellant. <em>Hoffman Miller, </em>for respondents.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b978-20\">Per Curiam.</author>\n<p id=\"ALY\">The order should be affirmed, with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

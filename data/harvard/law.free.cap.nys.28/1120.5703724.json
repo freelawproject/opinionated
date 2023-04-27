@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1120\" lastpage=\"1120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1140-12\">FIRST NAT. BANK OF SYRACUSE, Respondent, v. WILCOX, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1140-13\">(Supreme Court, General Term, Fourth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AOx\">May 18, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1140-14\">Action by the First National Bank of Syracuse against Dwight Wilcox, impleaded, etc.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1140-15\">Argued before HARDIN, P. J., and MARTIN and MERWIN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1140-16\">No opinion. Order reversed, with $10 costs and disbursements, and motion denied, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

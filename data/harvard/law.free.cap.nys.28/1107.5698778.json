@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1107\" lastpage=\"1107\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1127-11\">BLISS et al. v. FOSDICK et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1127-12\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AVxI\">May 18, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1127-13\">Action by George Bliss and others against Charles B. Fosdick and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"Arhu\">Argued before O\u2019BRIEN, FOLLETT, and PARKER, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1127-14\">No opinion. Order affirmed, with $10 costs and disbursements. See 24 N. Y. Supp. 939; 27 N. Y. Supp. 1053.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

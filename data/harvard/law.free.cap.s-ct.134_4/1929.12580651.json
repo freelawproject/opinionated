@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1929\" lastpage=\"1929\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Wesley Ray ROGERS, petitioner,\n  <br/>\n  v.\n  <br/>\n  William STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-7096.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  April 21, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12586144,12586145,12700480,12700481,12700482,12700483,12700770,12700255,12586140,12586141,12586142,12586143\" index=\"0\" url=\"https://cite.case.law/s-ct/134/922/\">\n   134 S.Ct. 922\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

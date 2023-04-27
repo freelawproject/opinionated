@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"953\" lastpage=\"953\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b971-17\">Browne, Respondent, <em>v. </em>Forty-Second St., M. &amp; St. N. A. R. Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b971-18\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aa24\">December 19,1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"A1J\">Argued before Van Hoesen, P. J., and Bookstavee, J.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b971-19\"><em>W. C. Trull, </em>for appellant. <em>J. H. McCarthy, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b971-20\">No opinion. Ordered that the judgment be reversed, unless plaintiff consents to reduce to <em>$25 </em>damages, and the costs recoverable in the district court on a judgment for that amount.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

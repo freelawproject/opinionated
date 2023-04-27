@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"604\" lastpage=\"605\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"decisiondate\" id=\"b610-10\">South Carolina</p>\n<court data-order=\"1\" data-type=\"court\" id=\"ACl\">Chancery</court>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b610-11\">Elizabeth Smith and others, Complainants v. Hannah Smith and others, Defendants</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b610-13\">It is ordered on Motion of Mr. Hugh Rutledge Sollicitor for the Defendants that a Commission to take their Answer or Answers to the Complainant\u2019s Bill in this Suit do issue directed to Samuel Wragg, Job Roth-<page-number citation-index=\"1\" label=\"605\">*605</page-number>mailer, Paul Trapier, Joseph Brown and Robert Gibb impowering them or any five of them to take the same.</p>\n<decisiondate id=\"AVc\">October 29th 1772.</decisiondate>\n<author id=\"AxZl\">Wm Burrows Master in Chancery</author>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

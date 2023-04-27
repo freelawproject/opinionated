@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1118\" lastpage=\"1118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1138-20\">MOONELIS et al., Appellants, v. SMITH, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1138-21\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXi\">January 12, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1138-22\">Action by Adolph Moonelis and another against James E. Smith.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1138-23\">Argued before VAN BRUNT, P. J., and O\u2019BRIEN and PARKER, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1138-24\">Mr. Arnold, for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A-C2\">E. W. S. Johnston, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1138-25\">No opinion. Order affirmed, with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

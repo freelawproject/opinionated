@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"958\" lastpage=\"958\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b976-14\">Fitzgerald, Appellant, <em>v. </em>Fach, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b976-15\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AVTA\">January 6, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AHJ0\">Appeal from jury term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b976-16\">Action by Garret Fitzgerald as administrator against Charles Fach.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"Aqzv\">Argued before Sedgwick, C. J., and Freedman and Ingraham, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A6o\"><em>George C. Coffin, </em>for appellant. <em>Thomas F. Grady </em>and <em>Theodore Connoly, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b976-17\">Per Curiam.</author>\n<p id=\"AH2\">Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

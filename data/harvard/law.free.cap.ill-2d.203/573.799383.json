@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"573\" lastpage=\"573\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"AZr\" pgmap=\"585\">In re Abbell, Michael</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aa6\" pgmap=\"585\">(MR 18638)</docketnumber><p data-order=\"2\" data-type=\"court\" id=\"AGU\" pgmap=\"585\">Bethesda, MD</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"ArDM\" pgmap=\"585\">Order of the Court:</p> <p id=\"APm\" pgmap=\"585\">The petition by the Administrator of the Attorney Registration and Disciplinary Commission to impose reciprocal discipline pursuant to Supreme Court Rule 763 is allowed, and respondent Michael Abbell, who has been disciplined in the District of Columbia, is disbarred in Illinois.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1036-17\">Cohen, Respondent, <em>v. </em>Massey, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1036-18\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AGRj\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ayp\">June 29, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1036-19\">Appeal from seventh district court.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b1036-20\">Action by Adolph Cohen against Arthur G. Massey.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1036-21\">Argued before Bischoff and Giegerich, JJ.</p>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1036-22\"><em>X. Bronner, </em>for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1036-23\">No opinion. Judgment affirmed, by default, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

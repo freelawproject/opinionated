@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"51\" lastpage=\"51\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b67-3\">HILLSIDE BUS OWNERS\u2019 ASSOCIATION ET AL. v. BOARD OF PUBLIC UTILITY COMMISSIONERS ET AL.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b67-4\">Submitted October term, 1928</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AYT\">Decided January 3, 1929.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b67-6\">Before Justices Mint\u00fcrn, Black and Campbell.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b67-7\">'For the rule, <em>Nicholas 8. Schloeder.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b67-8\">Contra, <em>William R. Speer </em>and <em>John W. Queen.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b67-9\">Per Curiam.</author>\n<p id=\"b67-10\">We find that the writ applied for should not be allowed. 'The rule to show cause is therefore discharged.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

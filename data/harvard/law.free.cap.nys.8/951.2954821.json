@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"951\" lastpage=\"951\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b969-4\">O\u2019Connor, Respondent, v. A. C. Nellis Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b969-5\"><em>(Common Pleas of New York City and </em>County, <em>General Term.</em></court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ab5\">November, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AZM\">Appeal from first district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b969-6\">Argued before Larremore, C. J., and Van Hoesen, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b969-7\"><em>Wilmot &amp; Gage, </em>for appellant. <em>J. F. Rogers, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b969-8\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

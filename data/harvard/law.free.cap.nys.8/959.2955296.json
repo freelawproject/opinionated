@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"959\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b977-16\">Morrison, Respondent, <em>v. </em>Metropolitan El. Ry. Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Ascg\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AN6z\">March 4, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"Alh_\">Appeal from trial term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b977-17\">Action by Robert Morrison against the Metropolitan Railway Company.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"Ana\">Argued before Sedgwick, C. J., and Freedman, J.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b977-18\"><em>Davies &amp; Sapallo, </em>for appellant. <em>Calvin &amp; Break, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b977-19\">Per Curiam.</author>\n<p id=\"AzxC\">Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

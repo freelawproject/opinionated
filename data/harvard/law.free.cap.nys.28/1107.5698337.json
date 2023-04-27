@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1107\" lastpage=\"1107\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1127-20\">CARLETON et al., Appellants, v. LOMBARD AYRES &amp; CO., Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1127-21\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aac\">May 18, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1127-22\">Action by J. Osgood Carleton and another against Lombard Ayres &amp; Co.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"A3e\">Argued before VAN BRUNT, P. J., and FOLLETT and PARKER, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1127-23\">R. B. Moffert, for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1127-24\">A. B. Boardman, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1127-25\">No opinion. Judgment affirmed, with costs on opinion in same case. See 72 Hun, 254, 25 N. Y. Supp. 570.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

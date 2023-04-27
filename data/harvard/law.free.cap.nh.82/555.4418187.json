@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"555\" lastpage=\"556\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b581-8\">Rockingham,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ABZ\">Oct. 6, 1925.</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b581-9\">Frank A. Moulton <em>v. </em>Charles S. Langley.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b582-7\"><page-number citation-index=\"1\" label=\"556\">*556</page-number><em>Ernest L. Guptill </em>and <em>Bartlett &amp; Mitchell, </em>for the plaintiff.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b582-8\"><em>William H. Sleeper, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b582-9\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AhV\">The instructions given cover the matters stated in the requests.</p>\n<p id=\"b582-10\">\n<em>Exception overruled.</em>\n</p>\n<judges id=\"b582-11\">Marble, J., did not sit.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

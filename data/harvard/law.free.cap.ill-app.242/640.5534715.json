@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"640\" lastpage=\"640\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b674-5\" pgmap=\"674\">Chicago Railway Equipment Company, appellee, v. James Wilson, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_2\" pgmap=\"674\">Gen. No. 30,986.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AnG\" pgmap=\"674\">Barnes, J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AW6\" pgmap=\"674\">Opinion filed October 5, 1926.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b674-7\" pgmap=\"674\">William E. Rodriguez, for appellant; John M. Humphrey and Hamlin K. Buchman, of counsel.</attorneys><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AmqV\" pgmap=\"674\">Musgrave, Oppenheim, Price &amp; McKeever, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b674-8\" pgmap=\"674\">Mr. Presiding Justice Gridley</author> <p id=\"A2o\" pgmap=\"674\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"932\" lastpage=\"932\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b950-4\">Lutz, Respondent, <em>v. </em>Lutz, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b950-5\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AWG7\">January 10, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"ANGC\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b950-6\"><em>A. B. Clark, </em>for appellant. <em>Ernest Hall, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b950-7\">No opinion. Motion denied, upon appellant\u2019s stipulating to argue at February term and paying $10, costs of this motion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

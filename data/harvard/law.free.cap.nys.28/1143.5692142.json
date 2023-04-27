@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1143\" lastpage=\"1143\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1163-32\">JACKSON, Respondent, v. RODE, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1163-33\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AvX\">May 17, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1163-34\">Action by John Jackson against Frederick Rode.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1163-35\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1163-36\">George Hill, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1163-37\">Alderson &amp; Hinds, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1163-38\">No opinion. Motion for reargument denied, with $10 costs. See 28 N. Y. Supp. 147.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

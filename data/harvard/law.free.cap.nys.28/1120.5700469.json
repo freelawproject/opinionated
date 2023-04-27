@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1120\" lastpage=\"1120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1140-22\">In re ALLEN. GROSS, Appellant, v. TOTMAN, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1140-24\">(Supreme Court General Term, Fourth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aa9\">May 18, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1140-25\">Final accounting of Van Bur\u00e9n Gross, as sole surviving assignee of William H. Allen.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1140-26\">Argued before HARDIN, P. J., and MARTIN and MERWIN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1140-27\">No opinion. Order affirmed, with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"956\" lastpage=\"956\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b976-23\">Levy, Appellant, <em>v. </em>Kohn, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b976-24\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ai_c\">June 26, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AUCb\">Appeal from seventh district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b976-25\">Argued before Allen, P. J., and Bookstaver, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b976-26\"><em>Fromme Bros., </em>for appellant. <em>O. Cohen, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b976-27\">Ho opinion. Judgment reversed, with costs to plaintiff (appellant) to abide the event. Order of interpleader vacated, and proceedings remitted to district court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

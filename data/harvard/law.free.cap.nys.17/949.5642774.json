@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"949\" lastpage=\"949\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b969-16\">Crotty, Respondent, <em>v. </em>Jarvis, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b969-17\">\n<em>Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AKP0\">January 4, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"AKm\">Appeal from special term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b969-18\">Action by John G. Grotty against Robert S. Jarvis.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b969-19\">Argued before Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b969-20\"><em>Frederick Smyth, </em>for appellant. <em>Leavitt &lt;&amp; Eerth, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b969-21\">No opinion. Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

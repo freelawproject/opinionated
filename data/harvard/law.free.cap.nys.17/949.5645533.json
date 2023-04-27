@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"949\" lastpage=\"949\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b969-4\">Banta, Appellant, <em>v. </em>Hoggitiris, Bespondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b969-5\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AgRD\">January 4, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"AC-L\">Appeal from special term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b969-6\">Action by Nancy E. Banta against P. Hoggitiris.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b969-7\">Argued before Bookstaver, Bischoff, and Pryor, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AEA7\"><em>R. T. B. Easton, </em>for appellant. <em>A. C. Eransioli, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b969-9\">No opinion. Order reversed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

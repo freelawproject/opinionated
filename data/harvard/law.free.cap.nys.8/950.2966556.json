@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"950\" lastpage=\"950\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b968-26\">Niebuhr, Appellant, <em>v. </em>Schreyer, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b968-27\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AY0O\">November, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"AKqj\">Appeal from special term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b968-28\">Argued before Larremore, C. J., and Daly and Bookstaver, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b968-29\">No opinion. Order affirmed, with costs. For former report, see 2 N. Y. Supp. 413.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

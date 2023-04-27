@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1131\" lastpage=\"1131\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1151-29\">RAUBICHECK, Respondent v. SNEDECOR, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1151-30\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aft\">January 5, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1151-32\">Appeal from city court, general term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1151-33\">Action by Frank Raubicheck against William V. Snedecor.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1151-34\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AziZ\">Niles &amp; Johnson, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1151-35\">H. R. Squier, for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1151-36\">No opinion. Judgment affirmed, with costs. See 25 N. Y. Supp. 1145.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

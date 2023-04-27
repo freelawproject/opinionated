@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1141\" lastpage=\"1141\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1161-17\">NICKERSON, Appellant, v. NIVER, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1161-18\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AoXJ\">May 10, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1161-19\">Action by Lulah Nickerson against Norman H. Niver.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1161-20\">Argued before DALY, C. J., and BOOKSTAVER and PRYOR, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1161-21\">P. P. Stafford, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1161-22\">Boothby &amp; Warren, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1161-23\">No opinion. Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

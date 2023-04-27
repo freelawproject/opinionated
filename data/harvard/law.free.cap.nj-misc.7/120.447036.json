@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"120\" lastpage=\"120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b136-3\">JOHN SCHLENKER, Jr., ET AL., v. ABRAM L. SUSSMAN.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"AqN\">Submitted October term, 1928</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIT\">Decided January 3, 1929.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b136-5\">Before Justices Mintuen, Black and Campbell.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b136-6\">Por the applicant, <em>Samuel D. Williams.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b136-7\">\n<em>Contra, Francis A. Cordon.</em>\n</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b136-8\">Pee Cueiam.</author>\n<p id=\"b136-9\">The application for the rule is denied, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

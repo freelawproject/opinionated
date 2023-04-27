@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"944\" lastpage=\"944\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b962-7\"><em>In re </em>Youmans.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b962-8\">\n<em>(Supreme Court, General Term, Fourth Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEtW\">February 11, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b962-10\">Argued before Hardin, P. J., and Martin and Merwin, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b962-11\">Per Curiam.</author>\n<p id=\"AJdW\">Proceedings dismissed unless report of the referee be procured and filed with the clerk of Onondaga county during the next term of this court; and it is further ordered that the notice of motion and affidavit accompanying the same, and the affidavit of C. H. Bell in opposition thereto, presented at this term of the court, be transmitted to the clerk of Onondaga county.</p>\n<p id=\"b962-9\">For former report, see 6 N. Y. Supp. 946.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"120\" lastpage=\"120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b136-10\">STATE OF NEW JERSEY v. JOHN J. GALL ET AL.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"A4v\">Submitted October term, 1928</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ao1\">Decided January 3, 1929.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b136-11\">Before Justices Mintuen, Black and Campbell.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b136-12\">Por the state, <em>Abe J. David </em>and <em>Walter C. Tenney.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AxW\">Por the defendant, <em>Francis A. Cordon.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b136-13\">Pee Cueiam.</author>\n<p id=\"b136-14\">The application for the writ of <em>certiorari </em>is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

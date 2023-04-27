@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"610\" lastpage=\"610\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b664-18\">Nicholas J. MILETICH v. C. H. LOONEY, Warden, United States Penitentiary, Leavenworth, Kansas.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b664-21\">No. 5767.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b664-22\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b664-23\">March 12, 1958.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b664-25\">Jerry N. Snyder, Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b664-26\">William C. Farmer, U. S. Atty., and E. Edward Johnson, Asst. U. S. Atty., Topeka, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b664-27\">Before PICKETT, LEWIS and BREITENSTEIN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b664-28\">PER CURIAM.</author>\n<p id=\"b664-29\">Affirmed without written opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1125\" lastpage=\"1125\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1145-12\">DE FOE, Appellant, v. BALTZ, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1145-13\">(Supreme Court, General Term, Fourth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AGid\">December 8, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1145-14\">Action by Isaiah J. De Foe against Mary Baltz.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1145-15\">Argued before HARDIN, P. J., and MARTIN and MERWIN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1145-16\">No opinion. Judgment reversed, and a new trial ordered, with costs to \u2022abide the event. Held, the evidence presented a question of fact which \u2022ought to have been submitted to the jury.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

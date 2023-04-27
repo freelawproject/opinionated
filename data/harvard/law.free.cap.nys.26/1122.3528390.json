@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1122\" lastpage=\"1122\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1142-9\">ROBERGE v. WINNE et al., (two cases.)</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1142-10\">(Supreme Court, General Term, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AK3\">December 1, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1142-11\">Action by Franklin P. Roberge against Maria N. Winne and another.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"AiIx\">Argued before BARNARD, P. J., and DYKMAN and PRATT, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1142-12\">No opinion. Submissions withdrawn. See 24 N. Y. Supp. 562.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"952\" lastpage=\"952\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b970-9\">Richmond <em>et al., </em>Respondents, <em>v. </em>Darien Short Line R. Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b970-10\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AnYh\">November, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"Axs_\">Appeal from city court, general term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b970-11\">Argued before Larremore, C. J., and Van Hoesen, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b970-12\"><em>Marsten </em>Niles, for appellant. <em>A. P. W. Seaman, </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b970-13\">No opinion. Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

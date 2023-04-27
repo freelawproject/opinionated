@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1110\" lastpage=\"1110\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1130-16\">PEOPLE, Respondent, v. CODY, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1130-17\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Au8\">May 18, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AtjL\">Prosecution against Michael Cody.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1130-18\">Argued before O\u2019BRIEN, FOLLETT, and PARKER, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1130-19\">J. D. Lindsay, for the People.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1130-20\">No opinion. Conviction. Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

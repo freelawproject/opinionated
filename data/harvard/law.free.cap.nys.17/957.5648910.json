@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"957\" lastpage=\"957\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b977-10\">Randall, Respondent, <em>v. </em>Sherman <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b977-11\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Acp\">January 11, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"A-Y\">Appeal from special term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b977-12\">Action by Samuel H. Randall against Jacob A. Sherman and another. Defendants appeal from an order of reference.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b977-13\">Argued before Freedman and Gildersleeve, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b977-14\"><em>John Brooks Leavitt, </em>for appellants. <em>Samuel H. Randall, in pro. per.</em></attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b977-15\">Per Curiam.</author>\n<p id=\"AkgX\">The order should be affirmed, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

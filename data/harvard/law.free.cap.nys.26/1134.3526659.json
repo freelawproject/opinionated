@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1134\" lastpage=\"1134\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1154-19\">SAUNDERS, Appellant, v. TIMKEN, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1154-20\">(Superior Court of New York City, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aqxm\">December 29, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1154-21\">Action by Suzanna Saunders against Mary A. Timken.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1154-22\">Argued before FREEDMAN and GILDERSLEEVE, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1154-23\">V. W. Kingsley, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1154-24\">F. C. White, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1154-25\">PER CURIAM.</author>\n<p id=\"AHbm\">The order should be affirmed, with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

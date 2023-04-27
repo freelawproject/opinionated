@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1123\" lastpage=\"1123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1143-4\">PEOPLE ex rel. TAYLOR v. FORBES, Justice.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1143-5\">(Supreme Court, General Term, Fourth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Apg\">May 18, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1143-6\">Certiorari by Frederick L. Taylor against Gerrit A. Forbes, justice.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1143-7\">Argued before HARDIN, P. J., and MARTIN and MERWIN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1143-8\">PER CURIAM.</author>\n<p id=\"AYOZ\">Without determining whether, by certiorari, the proceedings are properly before this court, we have looked into the merits involved in the determination made at the Tompkins oyer and terminer, adjudging Taylor in contempt, and find no occasion to disturb the conclusion reached by that court We therefore dismiss the writ of certiorari.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

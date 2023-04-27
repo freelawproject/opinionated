@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1034-22\">McCarthy, Appellant, <em>v. </em>MacGregor, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A2Pb\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A2R\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A7MD\">May 12, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"history\" id=\"A5S\">Appeal from trial term.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b1034-23\">Action by Sylvester McCarthy against Henry MacGregor.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1034-24\">Argued before Bookstaver and Bischoff, JJ.</p>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1034-25\"><em>Mr. Johnson, </em>for appellant. <em>G. A. Sterns, </em>for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1034-26\">Ho opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1017\" lastpage=\"1017\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1037-10\">Kruse Cash Register Co., Appellant, v. Byrne, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1037-11\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AuFv\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AD_7\">June 29, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AkK\">Appeal from fourth district court.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b1037-12\">Action by the Kruse Cash Register Company against Peter J. Byrne.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"ARz\">Argued before Bischoff and Giegerich, JJ.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1037-13\">No opinion. Judgment reversed, new trial ordered, costs to appellant to abide the event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

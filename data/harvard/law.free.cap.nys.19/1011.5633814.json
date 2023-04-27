@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1011\" lastpage=\"1011\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1031-9\">Kirkland, Respondent, <em>v. </em>Dyer, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1031-10\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A-t0\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ay_\">April 27, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AJhX\">Appeal from eleventh district court.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b1031-11\">Action by Thomas Kirkland against James Dyer.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1031-12\">Argued before Bookstaver and Bischoff, Jj.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1031-13\">Ho opinion. Judgment reversed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

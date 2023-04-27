@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1123\" lastpage=\"1123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1143-6\">GORDON v. BECKER et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1143-7\">(Supreme Court, General Term, Third Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AldA\">December 6, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1143-8\">Action by John A. Gordon against Abram Becker and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1143-9\">Argued before MAYHAM, P. J., and PUTNAM and HERRICK, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1143-10\">No opinion. Motion for leave to go to the court of appeals denied, without costs. See 24 N. Y. Supp. 1018.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

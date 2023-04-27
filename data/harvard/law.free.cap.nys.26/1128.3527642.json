@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1128\" lastpage=\"1128\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1148-9\">PADDOCK, Appellant, v. GUYDER, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1148-10\">(Supreme Court, General Term, Fourth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AOv_\">December 8, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1148-11\">Action by Simon D. Paddock against Patrick Guyder.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1148-12\">Argued before HARDIN, P. J., and MARTIN and MERWIN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1148-13\">No opinion. Interlocutory judgment affirmed, with costs. See Berney v. Drexel, 33 Hun, 34; Kennagh v. McColgan, (Sup.) 4 N. Y. Supp. 230; People v. Hagadorn, 104 N. Y. 518, 10 N. E. 891; Railway Co, v. Robinson, 133 N. Y. 242, 30 N. E. 1008. See 8 N. Y. Supp. 905.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

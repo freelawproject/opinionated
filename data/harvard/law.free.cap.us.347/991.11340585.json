@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"991\" lastpage=\"991\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b865-6\">No. 530,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A0mc\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"APsJJ\">Gordy <em>v. </em>Texas.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AfV\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ag4d\"><em>John Ben Shepperd, </em>Attorney General of Texas, and <em>Rudy G. Rice </em>and <em>Robert O. Fagg, </em>Assistant Attorneys General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5v\">Court of Criminal Appeals of Texas. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

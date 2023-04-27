@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"936\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b954-19\">Crosby <em>et al., </em>Appellants, <em>v. </em>Delaware &amp; H. Canal Co., Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ANp\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEqO\">September 21, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"A0Dj\">Argued before Learned, P. J., and Landon and Putnam, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b954-20\">No opinion. Judgment affirmed, with costs. Case certified to court of appeals. For former report, see 5 N. Y. Supp. 949.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

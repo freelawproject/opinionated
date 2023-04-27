@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"629\" lastpage=\"629\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b663-3\" pgmap=\"663\">Mary Elizabeth Hurst, appellee, v. Chicago &amp; Northwestern Railway Company, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AZAX\" pgmap=\"663\">Gen. No. 30,451.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AC7k\" pgmap=\"663\">Thomson, J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A8eV\" pgmap=\"663\">Opinion filed June 23, 1926.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b663-5\" pgmap=\"663\">Nelson J. Wilcox and I. C. Belden, for appellant.</attorneys><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AR_\" pgmap=\"663\">Taylor, Miller, Dickinson &amp; Smith, for appellee; Preston Boyden, John S. Miller and Delvy T. Walton, of counsel.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b663-6\" pgmap=\"663\">Mr. Presiding Justice Taylor</author> <p id=\"Ax57\" pgmap=\"663\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

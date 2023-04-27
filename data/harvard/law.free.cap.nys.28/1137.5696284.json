@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1137\" lastpage=\"1137\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1157-11\">BURBY, Respondent, v. ROOME, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1157-12\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ASqB\">April 2, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1157-13\">Action by Sarah J. Burby against William J. Roome. Motion for reargument, 27 N. Y. Supp. 250.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1157-14\">Argued before DALY, C. J., and BISCHOFF and PRYOR. JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1157-15\">PER CURIAM.</author>\n<p id=\"AvjV\">The motion fails to comply with Rule 16 of this court Denied, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"898\" lastpage=\"898\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b914-3\">JOHN FISHER, PLAINTIFF-RESPONDENT, v. PENNSYLVANIA RAILROAD COMPANY, DEFENDANT-APPELLANT.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b914-4\">Decided October 16, 1929.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b914-6\">Before Gummere, Chief Justice, and Justices Parker and Bodine.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b914-7\">Eor the defendant-appellant, <em>Bourgeois &amp; Coulomb.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b914-8\">Eor the plaintiff-respondent, <em>Worth \u2022&amp; Worth.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b914-9\">Per Curiam.</author>\n<p id=\"b914-10\">Our examination of the testimony in this cause leads us to the conclusion that the accident was contributed to by the negligence of the plaintiff\u2019s servant.</p>\n<p id=\"b914-11\">The rule should be made absolute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

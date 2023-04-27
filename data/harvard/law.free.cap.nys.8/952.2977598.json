@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"952\" lastpage=\"952\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b970-18\">Siemens, Appellant, <em>v. </em>Baer, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b970-19\">\n<em>(Common Pleas of New York City and County. General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJiV\">November, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AWYY\">Argued before Larremore, C. J., and Daly and Van Hoesen, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b970-20\"><em>M. L. Hollister, </em>for appellant. <em>F. Baker, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b970-21\">No opinion. Motion to dismiss appeal granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

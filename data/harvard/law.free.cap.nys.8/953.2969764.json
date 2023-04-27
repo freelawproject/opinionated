@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"953\" lastpage=\"953\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b971-26\">Cowle, Appellant, <em>v. </em>Doctor, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b971-27\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AZV\">December 19, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AOz\">Appeal from first district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b971-28\">Argued before Van Hoesen, P. J., and Bookstavee, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b971-29\"><em>McEwan </em>&amp; <em>McEwan, </em>for appellant. <em>Hess </em>&amp; <em>Townsend, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmPO\">No opinion. Ordered that the judgment be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

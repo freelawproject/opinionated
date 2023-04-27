@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1124\" lastpage=\"1124\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1144-5\">SHUMWAY, Appellant, v. BELEY, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1144-6\">(Supreme Court, General Term, Fourth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ap3\">May 18, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1144-7\">Action by Anna 0. Shumway against Fred Beley.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1144-8\">Argued before HARDIN, P. J., and MARTIN and VANN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1144-9\">No opinion. Judgment of the county court reversed, with costs, and the judgment of the justice\u2019s court affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

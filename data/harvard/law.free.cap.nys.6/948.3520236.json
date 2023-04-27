@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"948\" lastpage=\"948\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b964-10\">Amy <em>v. </em>Manning, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b964-11\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A_Gn\">July 9, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b964-12\">Appeal from special term, New York county.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b964-13\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b964-14\"><em>Philip Carpenter, </em>for appellant. <em>William J. Weldon, pro se.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b964-15\">Van Brunt, P. J.</author>\n<p id=\"AYG\">The opinion in the case of <em>Tuck </em>v. <em>Manning, </em>ante, 140, disposes of the appeal in this ease. The order must be reversed, and an. order of substitution granted, without costs. All concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

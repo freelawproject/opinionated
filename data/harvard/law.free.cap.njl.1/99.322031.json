@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"99\" lastpage=\"100\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b123-9\">COXE AND NEWBOLD, EXECUTORS OF PIGEON, v. HANKINSON.</parties>\n<headnotes data-order=\"1\" data-type=\"headnotes\" id=\"b123-10\">The giving a promissory wste is not, <em>ipso facto, </em>a payment that will extinguish a contract.</headnotes>\n<summary data-order=\"2\" data-type=\"headnotes\" id=\"b123-11\">Action upon a sale of cattle for \u00bfE705. Plea, an account settled, and \u00bf\u00a346 brought into court, <em>Stockton, </em>for plaintiff.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b124-3\"><page-number citation-index=\"1\" label=\"100\">*100</page-number><em>Frelinglmysen, </em>for defendant,</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"AD6\">offered to prove that Hankinson bad given his note for the money.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b124-4\">Per Cur.</author>\n<p id=\"ABF\">A note does not, <em>ipso </em>facto, extinguish the contract.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

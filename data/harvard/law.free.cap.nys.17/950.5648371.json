@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"950\" lastpage=\"950\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b970-20\">McAuliffe, Appellant, v. Grant, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b970-21\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ac83\">January 8, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"AV-8\">Appeal from trial term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b970-22\">Action by Cornelius W. McAuliffe against Hugh J. Grant.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b970-23\">Argued before Bookstaver, Bisohoff, and Pryor, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b970-24\"><em>J. P. Kiernan, </em>for appellant. <em>Coehran </em>&lt;6 <em>Clark, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b970-25\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

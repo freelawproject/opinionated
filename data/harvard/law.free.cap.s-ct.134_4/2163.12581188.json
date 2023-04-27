@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2163\" lastpage=\"2163\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the Matter of DISBARMENT OF George M. NACHWALTER.\n </parties>\n <docketnumber id=\"p-2\">\n  No. D-2748.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  May 5, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12699521,12699522,12699523,12585486,12585487,12585488,12585489,12585490,12585491,12699859,12699861,12699862\" index=\"0\" url=\"https://cite.case.law/s-ct/134/734/\">\n   134 S.Ct. 734\n  </extracted-citation>\n  .\n </history>\n <disposition id=\"p-6\">\n  Disbarment order entered.\n </disposition>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

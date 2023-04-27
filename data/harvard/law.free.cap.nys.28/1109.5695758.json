@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1109\" lastpage=\"1109\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1129-4\">HARTINGSON, Respondent, v. FORTY-SECOND ST. &amp; M. R. CO, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1129-6\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AUL\">May 18, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1129-7\">Action by Max Hartingson against the Forty-Second Street &amp; Manhattanville Railroad Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1129-8\">Argued before O\u2019BRIEN, FOLLETT, and PARKER, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1129-9\">A. Kling, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1129-10\">J. Fromme, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1129-11\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

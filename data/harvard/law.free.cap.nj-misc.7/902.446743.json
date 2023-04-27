@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b918-5\">ESSEX AND HUDSON LAND IMPROVEMENT COMPANY, A CORPORATION, RELATOR, v. STATE HIGHWAY COMMISSION, RESPONDENT.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b918-6\">Decided October 16, 1929.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b918-8\">Before Gummeee, Chief Justice, and Justices Parker and Bodine.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b918-9\">Eor the relatoT, <em>McCarter &amp; English.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b918-10\">Eor the respondent, Edward <em>L. Katzenbach </em>and <em>Mark A. Sullivan.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b918-11\">Pee Curiam.</author>\n<p id=\"b918-12\">The facts in this case are so closely similar to those in Cooper <em>v. </em>State Highway Commission, decided July 7th, 1929, that the writ must be denied for the reasons there stated.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

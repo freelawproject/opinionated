@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b516-3\">ARTHUR M. KETSCHKE, PROSECUTOR, v. THE MAYOR AND COUNCIL OF THE BOROUGH OF WOODBRIDGE, RESPNDENTS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b516-4\">Submitted January term, 1929</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AzN\">Decided May 7, 1929.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b516-6\">Before Justices Black, Campbell and Case.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b516-7\">Por the prosecutor, <em>Wright, Vander Burgh &amp; McCarthy.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Am7\">Por the respondent, <em>Stanton T. Lawrence.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b516-8\">Per Curiam.</author>\n<p id=\"b516-9\">The prosecutor having filed and submitted no brief within the time limited by the rules of this court, nor at any time, the writ of <em>certiorari </em>is dismissed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

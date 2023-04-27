@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"944\" lastpage=\"944\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b962-17\">Bridgman <em>v. </em>Vacuum Oil Co.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b962-18\">\n<em>(Supreme Court, General Term, Fifth Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aj0D\">October 19, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AMvW\">Argued before Barker, P. J., and Dwight, J.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b962-19\">Judgment and order affirmed on the opinion of Barker, P. J., in <em>Lee </em>v. <em>Oil Co., </em>7 N. Y. Supp. 426.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

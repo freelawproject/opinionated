@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1129\" lastpage=\"1129\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1149-14\">JACOBS, Respondent v. STERN, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1149-15\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A62s\">January 2, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1149-17\">Appeal from eleventh district court</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1149-18\">Action by Maurice Jacobs against Nathan Stem.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1149-19\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1149-20\">E. A. Jacobs, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"A4X\">L. McAdam, for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3Z\">No opinion. Judgment reversed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

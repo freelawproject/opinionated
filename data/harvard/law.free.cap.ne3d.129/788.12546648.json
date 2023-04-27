@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"788\" lastpage=\"788\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Indiana, Appellant\n  <br/>\n  v.\n  <br/>\n  D.R.\n </parties>\n <court id=\"p-2\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-3\">\n  June 28, 2019\n </decisiondate>\n <opinion id=\"p-4\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-5\">\n   All Justices concur.\n  </author>\n  <p id=\"p-6\">\n   Sharpnack, Sr. J., Baker, J., Pyle, J.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

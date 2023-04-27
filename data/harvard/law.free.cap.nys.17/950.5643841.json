@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"950\" lastpage=\"950\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b970-4\">People v. Madden <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b970-5\"><em>(Common Pleas of New York City and County, General </em>Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A7j3\">January 6, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b970-6\">Motion by James F. Madden to vacate judgment entered on a forfeited recognizance.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b970-7\">Argued before Bookstaver, Bisohoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b970-8\"><em>Be Laney Niooll, </em>for the People. <em>Brochtnan &amp; Nelson, </em>for defendants.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b970-9\">No opinion. Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

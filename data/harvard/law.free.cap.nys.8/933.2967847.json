@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b951-4\">Lux, Appellant, v. Davidson, Sheriff, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b951-5\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Axo\">January 24, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"Afoo\">Argued before Van Brunt, P. J., and Brady and Bartlett, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AsQN\"><em>Samter &amp; Platzek, </em>for appellant. <em>Coohran &amp; Clark, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A57q\">Ho opinion. Application denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

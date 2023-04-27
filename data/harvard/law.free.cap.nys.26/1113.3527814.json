@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1113\" lastpage=\"1113\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1133-18\">In re GOLDBERG.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1133-19\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ANM\">December 15, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1133-20\">In the matter of E. Townsend Goldberg, an attorney.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1133-21\">Argued before O\u2019BRIEN and PARKER, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1133-22\">No opinion. Referred to Thomas P. Wickes, as referee, to take proof, and report with his opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

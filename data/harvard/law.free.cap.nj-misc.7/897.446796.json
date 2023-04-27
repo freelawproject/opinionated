@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"897\" lastpage=\"897\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b913-6\">MARY SCHOR AND JOHN SCHOR, HER HUSBAND, ET AL., PLAINTIFFS, v. ALVIN J. WILLIAMS, DEFENDANT.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b913-7\">Decided October 16, 1929.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b913-9\">Before Gumheee, Chief Justice, and Justices Paekee and Bodine.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b913-10\">Eor the defendant, <em>Wayne Dumont </em>and <em>William V. Rosenkrans.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b913-11\">Eor the plaintiffs, <em>Aaron L. Simon.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b913-12\">Pee Cueiam.</author>\n<p id=\"b913-13\">Our examination of the testimony in this case leads us to the conclusion that the accident was caused solely by the negligence of the driver of the plaintiff\u2019s car, and was not contributed to in any way by any negligence of the defendant.</p>\n<p id=\"b913-14\">The rule should be made absolute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

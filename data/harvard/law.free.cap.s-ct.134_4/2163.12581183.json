@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2163\" lastpage=\"2163\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Craig Steven BOWEN, petitioner,\n  <br/>\n  v.\n  <br/>\n  Tom GRAMIAK, Warden.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-8421\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  May 5, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12705280,12705281,12705320,12579921,12579922,12579923,12579924,12579925,12579926,12705331,12705332,12705333\" index=\"0\" url=\"https://cite.case.law/s-ct/134/1765/\">\n   134 S.Ct. 1765\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

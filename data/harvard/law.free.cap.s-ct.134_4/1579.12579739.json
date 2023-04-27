@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1579\" lastpage=\"1579\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Bonnie KELLY, petitioner,\n  <br/>\n  v.\n  <br/>\n  OMAHA HOUSING AUTHORITY, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-7602.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  March 24, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12577930,12577931,12577932,12577933,12577934,12577935,12577936,12700877,12700940,12700941,12700942,12700943,12700944,12700945\" index=\"0\" url=\"https://cite.case.law/s-ct/134/1010/\">\n   134 S.Ct. 1010\n  </extracted-citation>\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

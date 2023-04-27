@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b931-9\">Harris, Appellant, v. Pryor, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b931-10\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"ACnL\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ARt\">May 12, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AfqF\">Action by Henry G. Harris against S. Morris Pryer.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b931-11\">\u25a0 Argued before Bookstaver and Bischoff, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b931-12\"><em>W. McMichael, </em>for appellant. <em>W. W. Hewitt, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b931-13\">Ho opinion. Motion for reargument denied, with $10 costs. See 18 N. Y. Supp. 128.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

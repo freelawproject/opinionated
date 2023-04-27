@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1109\" lastpage=\"1109\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1129-25\">KING et al., Respondents, v. METROPOLITAN EL. RY. CO., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1129-26\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ae6p\">May 18, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1129-27\">Action by David I. King and others against the Metropolitan Elevated Railway Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1129-28\">Argued before VAN BRUNT, P. J., and FOLLETT and PARKER, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1129-29\">I. A. Murray, for appellant</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AYr\">A. O. Townsend, for respondents.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1129-30\">No opinion. Order affirmed, with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

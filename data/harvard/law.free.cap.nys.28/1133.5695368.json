@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1133\" lastpage=\"1133\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1153-4\">BARTLETT, Respondent, v. DOWD, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1153-5\">(Supreme Court, General Term, Fifth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AcD\">March 27, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1153-6\">Action by Daniel Bartlett against Thomas H. Dowd, as administrator, etc.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"pAV2\">Argued before DWIGHT, P. J., and LEWIS, HAIGHT, and BRADLEY,</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"pAh6\">No opinion. Motion to strike case from the calendar. Granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1112\" lastpage=\"1112\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1132-4\">DE LANQUILLETTE v. POLLOCK et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1132-5\">(Supreme Court, General Term, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AkM3\">May 14, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1132-6\">Action by Henry de Lanquillette against George W. Pollock and Edward Floyd Jones.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1132-7\">Argued before BROWN, P. J., and DYKMAN and CULLEN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1132-8\">No opinion. Order affirmed, with costs. All concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

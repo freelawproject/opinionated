@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"263\" lastpage=\"264\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b311-7\" pgmap=\"311\">Howard K. Morse, Appellant, v. Association of Arts and Industries, Appellee.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b311-8\" pgmap=\"311\">Gen. No. 41,068.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"b311-10\" pgmap=\"311\">Burke, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AFH\" pgmap=\"311\">opinion filed June 19, 1940.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AgR\" pgmap=\"311(1) 312(17)\">Burry, Johnstone, Peters &amp; Dixon, for appellant; John O. Trussell, of counsel; Wetten, Pegler &amp; Dale, for appellee.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"A9y\" pgmap=\"312\">Opinion by</p> <author id=\"Az2\" pgmap=\"312\">Presiding Justice Denis E. Sullivan.</author> <p id=\"ABk\" pgmap=\"312\">\u201cNot to be published in full.\u201d</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

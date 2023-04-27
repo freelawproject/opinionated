@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"958\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b978-28\">Peterson, Appellant, <em>v. </em>Swan, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Ae0z\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ASMv\">June 27, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AAU\">Appeal from jury term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b978-29\">Action by John Peterson against John Swan.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b978-30\">Argued before Freedman and Ingraham, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b979-2\"><page-number citation-index=\"1\" label=\"959\">*959</page-number><em>Hart &amp; Price, </em>for appellant. <em>Hill, Wing &amp; Shoudy, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b979-3\">Per Curiam.</author>\n<p id=\"AhJ5\">The judgment should be affirmed, with costs. See 53 N. Y. Super. Ct. Rep. 151.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

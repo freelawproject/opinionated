@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1109\" lastpage=\"1109\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1129-12\">HOLLY MANUF\u2019G CO., Appellant, v. VENNER, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1129-13\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A9L\">May 18, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1129-14\">Action by the Holly Manufacturing Company against Clarence H. Venner.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"AY8o\">Argued before VAN BRUNT, P. J., and FOLLETT and PARKER, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1129-15\">D. McClure, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1129-16\">B. Winthrop, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1129-17\">No opinion. Order modified by requiring defendant, as a condition of granting stay, to give bond for $2,500, and, as modified, affirmed, without costs. See 26. N. Y. Supp. 581.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

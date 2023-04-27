@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"949\" lastpage=\"949\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b969-10\">Borne, Respondent, v. Minicus, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b969-11\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Adu\">January 4, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A-dB\">Appeal from fourth district court.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b969-12\">Action by John Borne against Louis Minicus.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b969-13\">Argued before Bookstaver, Bischoff, and Pryor, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b969-14\"><em>W. R. Eeese, </em>for appellant. <em>W. F. Browne, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b969-15\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

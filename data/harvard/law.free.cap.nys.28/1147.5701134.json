@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1147\" lastpage=\"1147\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1167-14\">HOLLY et al., Respondents, v. MANHATTAN RY. CO., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A7qu\">(Superior Court of New York City, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aan\">May 7, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AW5\">Appeal from equity term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1167-15\">Action by Henry R. Holly and others against the Manhattan Railway Company.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1167-16\">Argued before SEDGWICK, C. J\u201e and FREEDMAN and McADAM, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1167-17\">Davies, Short &amp; Townsend, for appellant</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"AvN\">Cannon &amp; Atwater, for respondents.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1167-18\">PER CURIAM.</author>\n<p id=\"AP0C\">The judgment should be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

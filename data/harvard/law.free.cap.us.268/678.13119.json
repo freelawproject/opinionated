@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"678\" lastpage=\"678\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b722-9\">No. \u2014, Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AZDF\">The State of Louisiana <em>v. </em>The State of Mississippi.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"APph\">May 11, 1925.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ApqM\"><em>Messrs. Robert Ash </em>and <em>John Dale </em>for Louisiana.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKU\">No appearance for Mississippi.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

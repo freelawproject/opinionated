@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b978-5\">Hooker <em>v. </em>Terpenning.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b978-6\">\n<em>(Supreme Court, General Term, Second Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AdF2\">September 9, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"As5x\">Argued before Dykman and Pratt, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b978-7\">No opinion. Order affirmed on opinion of court below. Por former report, see <em>ante, </em>639.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

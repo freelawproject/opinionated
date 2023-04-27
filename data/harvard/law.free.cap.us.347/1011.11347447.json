@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1011\" lastpage=\"1011\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b885-9\">No. 290,</docketnumber>\n<p data-order=\"1\" data-type=\"summary\" id=\"Ami\">Mise.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Akng\">Massey <em>v. </em>Moore, Warden.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Adad\"><em>Dean Acheson </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AhJAL\"><em>John Ben Shepperd, </em>Attorney General of Texas, and <em>James N. Castleberry, Jr. </em>and <em>Rudy G. Rice, </em>Assistant Attorneys General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AEP18\">C. A. 5th Cir. Certiorari granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

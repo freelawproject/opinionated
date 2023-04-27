@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1033-10\">Grimshaw, Respondent, <em>v. </em>Woolfall <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Aaf6\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AX1\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AhPj\">May 5, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"history\" id=\"AP1X\">Appeal from trial term.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b1033-11\">Action by Robert Grimshaw against F. H. Woolfall and another.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"AZLB\">Argued before Daly, O. J., and Bischoff, J.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1033-12\">No opinion. Judgment affirmed, with costs. See 15 N. Y. Supp. 857.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

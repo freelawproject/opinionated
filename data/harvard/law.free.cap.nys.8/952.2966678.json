@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"952\" lastpage=\"952\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b970-14\">Schultze <em>et al., </em>Respondents, <em>v. </em>Exchange Printing Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b970-15\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aesk\">November, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"Ajui\">Appeal from fourth district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b970-16\">Argued before Larremore, C. J., and Van Hoesen, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b970-17\"><em>C. De Hart Brower, </em>for appellant. <em>Hudspeth &amp; Bruns, </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Abgt\">No opinion. Ordered, that the judgment be modified for the amount actually delivered, and, as modified, affirmed, without costs of appeal to either party.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1122\" lastpage=\"1122\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1142-9\">MARION, Respondent, v. TOWN OF NEWFIELD, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1142-10\">(Supreme Court, General Term, Fourth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AkAH\">May 18, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1142-11\">Action by Ezra Marion against the town of Newfield.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1142-12\">Argued before HARDIN, P. J., and MARTIN and MERWIN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1142-13\">No opinion. Judgment and order reversed on the exceptions, and a new trial ordered, with costs to abide the event. Held, that the opinion of the witness as to the \u201csafe life of a wooden bridge\u201d was improperly received. See Harley v. Manufacturing Co., 142 N. Y. 31, 36 N. E. 813, and cases cited.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

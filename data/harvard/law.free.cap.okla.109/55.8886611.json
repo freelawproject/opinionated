@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"55\" lastpage=\"55\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b71-3\">PARK NAT. BANK of SULPHUR v. DOUGLASS, Co. Treas.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b71-4\">Nos. 12559 and 12560,</docketnumber>\n<p data-order=\"2\" data-type=\"p\" id=\"AL_\">Consolidated.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ALN\">Opinion Filed March 24, 1925.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b71-7\">Young, McKenzie &amp; Haste, for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b71-8\">W. E. Fagan, for defendant in error.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b71-9\">PER CURIAM.</author>\n<p id=\"Ao-\">Upon the authority of Ellis v. Outler, 25 Okla. 469, 106 Pac. 957, this cause is reversed and remanded for a new trial on account of the failure of defendant in error to comply with Rule 7 of this court.</p>\n<p id=\"b71-10\">By the Court: It is so ordered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

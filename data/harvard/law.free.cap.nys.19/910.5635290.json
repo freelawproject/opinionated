@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b930-14\">Conover, Respondent, v. Lennon, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b930-15\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A-Fz\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AC_P\">May 6, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AVI\">Appeal from city court, general term.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b930-16\">Action by David Conover against W. F. Lennon.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"b930-17\">Argued before Bookstaver and Bisohoff, JJ.</p>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b930-18\"><em>W. H. Gardner, </em>for appellant. <em>Jas. Kearney, </em>for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b930-19\">No opinion. Judgment affirmed, with costs. See 18 N. Y. Supp. 162.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

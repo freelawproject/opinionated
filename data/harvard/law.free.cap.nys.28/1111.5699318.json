@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1111\" lastpage=\"1111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1131-18\">BARNARD v. GANTZ et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1131-19\">(Supreme Court, General Term, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ai3V\">May 14, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1131-20\">Action by John T. Barnard, as temporary administrator, etc., of Ann E. Crouse, against John F. Gantz and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1131-21\">Argued before BROWN, P. J, and DYKMAN and CULLEN. JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1131-22\">No opinion. Order affirmed, with costs. See 21 N. Y. Supp. 349; 23 N. Y. Supp. 260.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

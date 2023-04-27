@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1146\" lastpage=\"1146\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1166-24\">WATSON, Respondent, v. RUSSELL, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1166-25\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A3BL\">May 17, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1166-26\">Action by Alice Watson against John H. Russell.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1166-27\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1166-28\">Vanderpoel, Cuming &amp; Goodwin, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1166-29\">Van Duzer &amp; Taylor, for respondent</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1166-30\">No opinion. Motion for leave to appeal to the court of appeals granted. See 28 N. Y. Supp. 26.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

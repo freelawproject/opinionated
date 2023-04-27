@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"747\" lastpage=\"747\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  GRIEVANCE ADMINISTRATOR, Petitioner,\n  <br/>\n  v.\n  <br/>\n  Andrew Leo SHIRVELL, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158309\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  January 23, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Upon de novo review by the entire Court in accordance with MCR 2.003(D)(2)(b), the Court orders that respondent's motion to disqualify Justice Richard H. Bernstein from participating in the decision of this case is DENIED for the reason that respondent has not alleged facts establishing an appearance of impropriety or a serious risk of actual bias from his participation in the case. MCR 2.003(C)(1)(b).\n  </p>\n  <p id=\"p-7\">\n   Bernstein, J., did not participate in the decision on this disqualification motion.\n  </p>\n  <p id=\"p-8\">\n   Cavanagh, J., did not participate due to her prior service as a member of the Attorney Grievance Commission.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

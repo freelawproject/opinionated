@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1043-18\">Vernam <em>et al., </em>Appellants, v. Baker, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1043-19\">\n<em>(Superior Court of New York City,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aus-\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGv\">July 5, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1043-20\">Action by William S. Vernam and another against Edwin H. Baker. From an order staying the trial of this action, plaintiffs appeal.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1043-21\">Argued before Freedman, Dugro, and Gildersleeve, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1043-22\"><em>Robertson &amp; Harmon, </em>for appellants. <em>Wing, Shoudy </em>di <em>Putnam, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1043-23\">Per Curiam.</author>\n<p id=\"AfHM\">The order should be affirmed, with $10 costs, etc.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1137\" lastpage=\"1137\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1157-9\">TORREY, Respondent v. TORREY, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ANeQ\">(Supreme Court, General Term, Fifth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AH-r\">March 27, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A1ul\">Action by Owen Torrey against David Torrey.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1157-10\">Argued before DWIGHT, P. J., and LEWIS, HAIGHT, and BRADLEY, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8BG\">No opinion. Motion to strike case from the calendar, and for affirmance, granted on default, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

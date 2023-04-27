@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1118\" lastpage=\"1118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1138-26\">RAFOLOVITZ v. AMERICAN TOBACCO CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1138-27\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A4u\">January 12, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1138-28\">Action by Joseph Rafolovitz against the American Tobacco Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"Ap_\">Argued before VAN BRUNT, P. J., and O\u2019BRIEN and PARKER, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1138-29\">Charles F. Holm, for plaintiff.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A-QL\">Oudin &amp; Oakley, for defendant.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1138-30\">No opinion. Motion granted, with $10 costs. See 23 N. Y. Supp. 274; 25 N. Y. Supp. 1036.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

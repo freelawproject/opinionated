@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1132\" lastpage=\"1132\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1152-6\">HYMAN et al., Respondents, v. SCHMIDT, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1152-7\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AKod\">January 8, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"pAsT\">\u2022Action by Rose Hyman and another against Sigmund A. Schmidt.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1152-9\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1152-10\">J. C. Rosenbaum, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1152-11\">C. Meyers, for respondents.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1152-12\">No opinion. Judgment affirmed, with costs. See 19 N. Y. Supp. 215.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

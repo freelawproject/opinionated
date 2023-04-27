@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1112\" lastpage=\"1112\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1132-9\">DITMAS v. HITCHINGS et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1132-10\">(Supreme Court, General Term, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Argz\">May 14, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1132-11\">Action by Joana Ditmas against Hector M. Hitchings and another.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1132-12\">Argued before BROWN, P. J., and DYKMAN and CULLEN, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"pAGPA\">No opinion. Reargument ordered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1033-26\">Spengeman, Respondent, <em>v. </em>Alter, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1033-27\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AFk\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ArNk\">May 10, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AxoN\">Action by Amelia Spengeman against Henry Alter.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1033-28\">Argued before Bookstaver and Bischoff, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1033-29\"><em>E. P. Orell, </em>for appellant. J. <em>H. Webster, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1033-30\">No opinion. Judgment reversed, new trial ordered, costs to abide the event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

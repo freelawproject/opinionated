@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"336\" lastpage=\"336\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b392-4\">In re ROBINSON et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A1m\">No. 7715.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b392-5\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AyD\">July 14, 1941.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b392-7\">Joseph A. Keough, of Philadelphia, Pa. (Levi, Mandel &amp; Miller, of Philadelphia, Pa., on the brief), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b392-9\">Nathan I. Miller, of Philadelphia, Pa., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b392-10\">Before BIGGS, MARIS, and CLARK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b392-11\">PER CURIAM.</author>\n<p id=\"b392-12\">The decree of the District Court is affirmed upon the opinion of Judge Ganey, 40 F.Supp. 320.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

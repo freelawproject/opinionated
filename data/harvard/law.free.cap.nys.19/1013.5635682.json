@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1033-13\">Allen <em>et al., </em>Respondents, <em>v. </em>Ingersoll, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1033-14\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A8aO\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AqZk\">May 6, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"history\" id=\"Afv\">Appeal from special term.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b1033-15\">Action by Edward Allen and another against Robert H. Ingersoll.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"A1a\">Argued before Daly, C. J., and Bookstaver and Bischoff, JJ.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1033-16\">No opinion. Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

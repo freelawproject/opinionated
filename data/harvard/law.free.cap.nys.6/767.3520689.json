@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"767\" lastpage=\"767\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b783-23\">Murphy, Appellant, v. Farrell, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b783-24\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AqQ\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AiB\">April 25, 1889.)</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A1V\"><em>H. D. McBurney, </em>for appellant. <em>F. T. Fitzgerald, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_l\">Judgment reversed, new trial ordered, costs to abide the event. \u25a0</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

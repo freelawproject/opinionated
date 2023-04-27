@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1130\" lastpage=\"1130\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1150-25\">HODGE, Respondent, v. YETTA, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1150-26\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AgAL\">January 4, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1150-28\">Action by Cbarlotta Hodge against Andrew B. Yetta.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1150-29\">Argued before DALY, C. J., and BISCHOFF and PRYOR, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1150-30\">C. E. Lebarbierre, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AoZ\">I. N. Williams, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1150-31\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

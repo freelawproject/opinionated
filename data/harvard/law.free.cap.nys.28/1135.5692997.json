@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1135\" lastpage=\"1135\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1155-11\">LILLI, Appellant, v. KEPPLE, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1155-12\">(Supreme Court, General Term, Fifth Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQZ\">March 27, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AXS\">Action by Sylphina Lilli against John Kepple.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1155-13\">Argued before DWIGHT, P. J., and LEWIS, HAIGHT, and BRADLEY, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aye8\">No opinion. Judgment appealed from affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

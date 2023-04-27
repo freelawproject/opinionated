@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1033-4\">Sprague, Respondent, <em>v. </em>Sprague, Appellant, (two cases.)</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1033-5\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AtEu\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AIT-\">May 4, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Ah-9\">Appeal from city court, general term.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b1033-6\">Application of Henry L. Sprague against Dudley R. Sprague.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1033-7\">Argued before Bookstaver and Bischoff, JJ.</p>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1033-8\"><em>E. J, Tinsdale, </em>for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1033-9\">No opinion. Ordered that the appeal in each of the above cases be dismissed, with costs in each case.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

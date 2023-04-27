@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"957\" lastpage=\"957\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b977-18\">People <em>v. </em>Ott <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b977-19\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AHeD\">June 26, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"A4cU\">Argued before Allen and Bookstaver, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b977-20\"><em>L. Stickler, </em>for the people.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b977-21\">No opinion. Motion to vacate judgment entered on forfeited recognizance granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

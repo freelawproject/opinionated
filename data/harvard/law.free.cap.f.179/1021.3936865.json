@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1037-4\">SALMON et al. v. AUSTRO-AMERICAN STAVE &amp; LUMBER CO., Limited.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A0n\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aszn\">May 9, 1910.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AJv6\">In Error to the Circuit Court of the United States for the Eastern District of New York.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"AYQ\">Before LACOMBE, COXE, and NOYES, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1037-5\">PER CURIAM.</author>\n<p id=\"Afv\">The order granting supersedeas should be vacated, without prejudice to defendants applying before the expiration of the December (1909) term to the Circuit Court for opening and re-entry of the judgment or for such other relief as they may be advised.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

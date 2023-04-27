@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"668\" lastpage=\"668\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b696-5\">No. \u2014.</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A7a1\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ais\"><em>Ex parte: </em>In the Matter of Harrison Boynton, Petitioner.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Atj\">Submitted January 28, 1907.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aey\">Decided February 4, 1907.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AlV\"><em>Mr. A. B. Browne </em>for petitioner.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AWT\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AaaF\">Motion for leave to file petition for a writ of <em>habeas corpus </em>and to proceed <em>in forma pauperis </em>denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
