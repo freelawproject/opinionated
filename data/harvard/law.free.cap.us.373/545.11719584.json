@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"545\" lastpage=\"545\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b597-12\">CEPERO <em>v. </em>UNITED STATES CONGRESS et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b597-14\">No. 1024,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A5aP\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AG_\">Decided May 27, 1963.</decisiondate>\n<p data-order=\"4\" data-type=\"otherdate\" id=\"b597-16\">Reported below: \u2014 F. Supp. \u2014</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b597-17\">Per Curiam.</author>\n<p id=\"b597-18\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

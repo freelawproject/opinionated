@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"554\" lastpage=\"554\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b608-23\">Donald Ross BLAGG, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b608-25\">No. 23625.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b608-26\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b608-27\">June 7, 1967.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b608-29\">Ronald J. Gossen, Lafayette, La., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b608-30\">Edward L. Shaheen, U. S. Atty., Shreveport, La., Q. L. Stewart, Asst. U. S. Atty., Shreveport, La., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b608-31\">Before GEWIN and AINSWORTH, Circuit Judges, and LYNNE, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b608-32\">PER CURIAM:</author>\n<p id=\"b608-33\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

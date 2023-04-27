@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1050-18\">UNITED STATES ex rel. Nachman TOLMACH and Another, Relators-Appellants, v. Henry H. CURRAN, as Commissioner, etc., Respondent-Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AG-h\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AZBD\">October 10, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A1tn\">No. 22.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A30F\">Goldfogle &amp; Dorf, of New York City (Irving S. Dorf, of New York City, of counsel), for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ASs\">William Hayward, U. S. Atty., and Morris Streusand, both of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"A7T7\">Before ROGERS, HOUGH, and. MANTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1050-19\">PER CURIAM.</author>\n<p id=\"A5cP\">Appeal dismissed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

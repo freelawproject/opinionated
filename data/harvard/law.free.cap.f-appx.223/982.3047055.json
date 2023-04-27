@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"982\" lastpage=\"982\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1010-11\">WEDECO UV TECHNOLOGIES, INC., Plaintiff-Appellee, v. CALGON CARBON CORPORATION, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1010-14\">No. 2006-1547.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1010-15\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1010-16\">April 24, 2007.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1010-18\">Before NEWMAN, Circuit Judge, FRIEDMAN, Senior Circuit Judge, and LOURIE, Circuit Judge.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1010-19\">JUDGMENT</p>\n<author id=\"AA_\">PER CURIAM.</author>\n<p id=\"b1010-20\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b1010-21\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

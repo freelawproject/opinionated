@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1291\" lastpage=\"1291\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AKk\">\n<em>Monday, October 22, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AqHF\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A14S\">01-1839.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Aup\">State ex rel. Geauga Cty. Bd. of Commrs. v. Geauga Cty. Sheriff.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AWSt\">In Mandamus. This cause originated in this court on the filing of a complaint for a writ of mandamus and was considered in a manner prescribed by law. Upon consideration thereof,</p>\n<p id=\"AVUy\">IT IS ORDERED by the court that this cause be, and hereby is, dismissed.</p>\n<judges id=\"ALIy\">Moyer, C.J., Douglas, F.E. Sweeney, Cook and Lundberg Stratton, JJ., concur.</judges>\n<judges id=\"A7J\">Pfeifer, J., concurs, noting that relators should seek relief in declaratory judgment and prohibitory injunction.</judges>\n<judges id=\"AoVH\">Resnick, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

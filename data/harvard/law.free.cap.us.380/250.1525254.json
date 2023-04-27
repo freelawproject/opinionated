@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"250\" lastpage=\"250\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b318-4\">ARTHUR <em>v. </em>COLORADO.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b318-6\">No. 486,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A0m2\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGj\">Decided March 8, 1965.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b318-9\"><em>Edward C. King </em>for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b318-10\"><em>Duke W. Dunbar, </em>Attorney General of Colorado, <em>Frank E. Hickey, </em>Deputy Attorney General, and <em>John E. Bush, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b318-11\">Per Curiam.</author>\n<p id=\"b318-12\">The motion for leave to proceed in <em>forma pauperis </em>and the petition for a writ of certiorari are granted. The judgment is reversed. <em>Gideon </em>v. <em>Wainwright, </em>372 U. S. 335; <em>Pickelsimer </em>v. <em>Wainwright, </em>375 U. S. 2.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

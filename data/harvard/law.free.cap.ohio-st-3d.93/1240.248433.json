@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1240\" lastpage=\"1240\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AUjP\">\n<em>Wednesday, August 29, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AHG\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Agu\">01-1515.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AguR\">State v. Byrd.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmN7\">Hamilton App. No. C-010379.</p>\n<p id=\"A9j\">On discretionary appeal, motion for stay of execution, and motion to expedite ruling on motion for stay of execution and to expedite disposition of case.</p>\n<p id=\"A9ZK\">Discretionary appeal denied, motion for stay denied, and motion to expedite denied as moot.</p>\n<judges id=\"ADz\">Moyer, C.J., F.E. Sweeney and Pfeifer, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"304\" lastpage=\"304\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b354-4\">17765.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ao5\">Hilson <em>v. </em>The State.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b354-7\">Decided January 11, 1927.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b354-10\"><em>J. J. Harris, </em>for plaintiff in error,</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"AcS\">cited 24 <em>Ga. App. </em>319 (1) .</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A-6I\"><em>George C. Evans, solicitor, </em>contra.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b354-5\">.Broyles, C. J.</author>\n<p id=\"A_v\">Tliere ivas no evidence authorizing the defendant\u2019s conviction of the offense charged, and the refusal to grant him a new trial was error.</p>\n<p id=\"b354-6\">\n<em>Judgment reversed.</em>\n</p>\n<judges id=\"AvET\">\n<em>Luke, J., concurs. Bloodworth, J, absent on account of ilbiess.</em>\n</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

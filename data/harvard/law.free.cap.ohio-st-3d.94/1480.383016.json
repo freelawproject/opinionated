@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1480\" lastpage=\"1480\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AN2\">\n<em>Tuesday, February 26, 2002</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"AWje\">MEDIATION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AAD\">02-44.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ACBU\">State ex rel. Knop v. Indus. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_RF\">The following cases have been referred to mediation pursuant to S.Ct.Prac.R. XIV(6):</p>\n<p id=\"AWYp\">Franklin App. No. 01AP-366.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

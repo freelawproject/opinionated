@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1405\" lastpage=\"1405\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A2XX\">\n<em>Tuesday, December 18, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AX_\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A7PL1\">01-1985.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AXNk\">State v. Scott.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7f\">Mahoning App. No. 99CA324. This cause is pending before the court as a discretionary appeal and claimed appeal as of right. Upon consideration of appellant\u2019s motion for stay of court of appeals\u2019 judgment,</p>\n<p id=\"AqB\">IT IS ORDERED by the court that the motion for stay of court of appeals\u2019 judgment be, and hereby is, granted.</p>\n<judges id=\"AN8\">Pfeifer, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

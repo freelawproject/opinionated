@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1424\" lastpage=\"1424\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AVEL\">\n<em>Tuesday, January 15, 2002</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aqp\">MEDIATION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AkxN\">01-1886.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AxH4\">State ex rel. St. Clement of Ohrid Macedonian Orthodox Church v. McGough.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAm\">The following cases have been returned to the regular docket pursuant to S.Ct.Prac.R. XIV(6)(E):</p>\n<p id=\"A5E\">Lorain App. No. 01CA007787.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

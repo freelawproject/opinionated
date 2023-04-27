@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"178\" lastpage=\"178\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b198-7\">LUTFY v. STARBUCK.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b198-8\">(Supreme Court, Appellate Division, Second Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJq\">May 10, 1907.)</decisiondate>\n<summary data-order=\"3\" data-type=\"misc\" id=\"b198-9\">Appeal from Special Term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b198-10\">Action by Deeb Lutfy against Edgar D. Starbuck. From an order denying defendant\u2019s motion for a change of venue, he appeals.</summary>\n<disposition data-order=\"5\" data-type=\"disposition\" id=\"AEA\">Reversed.</disposition>\n<p data-order=\"6\" data-type=\"judges\" id=\"b198-11\">Argued before JENKS, HOOKER, GAYNOR, RICH, and MILLER, JJ.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b198-12\">PER CURIAM.</author>\n<p id=\"AF_\">Order reversed, with $10 costs and disbursements, and motion granted, with costs. See Lutfy v. Sullivan (decided herewith) 104 N. Y. Supp. 177.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

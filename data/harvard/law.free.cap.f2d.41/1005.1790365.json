@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1005\" lastpage=\"1005\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1037-23\">William T. McCONNELL v. T. B. WHITE, Warden, etc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1037-24\">No. 274.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1037-25\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aioi\">April 5, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AAq6\">S. M. Brewster, U. S. Atty., of Topeka, Kan.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1037-28\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1037-29\">PER CURIAM.</author>\n<p id=\"b1037-30\">Appeal dismissed April 5, 1930, as being without merit.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

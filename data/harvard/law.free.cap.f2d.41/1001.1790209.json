@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1033-43\">Clyde IRWIN, and Earl Bushey, Plaintiffs in Error, v. UNITED STATES of America, Defendants in Error.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1033-44\">No. 319.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1033-45\">Circuit Court of Appeals, Seeond Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AchK\">May 5, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1033-47\">J. A. McNamara, of Burlington, Vt., for plaintiffs in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1033-48\">Harry B. Amey, U. S. Atty., of Burlington, Vt.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1033-49\">Before MANTON, L. HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1033-50\">PER CURIAM.</author>\n<p id=\"b1033-51\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

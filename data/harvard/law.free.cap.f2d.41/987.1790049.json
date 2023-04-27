@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"987\" lastpage=\"987\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1019-14\">Samuel A. BACKAL v. Ernest A. POLANSKY, U. S. Referee in Bankruptcy, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1019-16\">No. 139.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1019-17\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A-EP\">Aug. 26, 1929.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1019-19\">Henry G. Gatling, of Albuquerque, N. M., for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1019-20\">Before LEWIS, COTTERAL, and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1019-21\">PER CURIAM.</author>\n<p id=\"b1019-22\">Dismissed August 26, 1929, on motion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

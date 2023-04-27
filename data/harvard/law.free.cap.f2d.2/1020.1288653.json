@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1048-24\">Mary G. POTTER, as Trustee, etc., Plaintiff-Appellee, v. Frank WALKER, Defendant-Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AYe\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AqES\">November 6, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A2B\">No. 178.</docketnumber>\n<seealso data-order=\"4\" data-type=\"seealso\" id=\"A5zv\">See, also, 1 F.(2d) 416.</seealso>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AJ_k\">Charles S. Aronstam, of New York City, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"APQv\">William Lesser, of New York City, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AMT\">Before HOUGH and MANTON, Circuit Judges, and LEARNED HAND, District Judge.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1048-25\">PER CURIAM.</author>\n<p id=\"AAuo\">Decree (2 F.[2d] 774) affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

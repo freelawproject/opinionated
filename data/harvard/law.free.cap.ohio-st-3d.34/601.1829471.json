@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b83-17\">Stark County Bar Association <em>v. </em>Ross.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b83-18\">[Cite as Stark Cty. Bar Assn. <em>v. </em>Ross (1987), 34 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b83-19\">(D.D. No. 87-9</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A-V\">Decided December 16, 1987.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b83-20\">On Certified Report by the Board of Commissioners on Grievances and Discipline of the Bar.</p>\n<judges id=\"b83-21\">William J. Ross is publicly reprimanded.</judges>\n<judges id=\"ADD\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

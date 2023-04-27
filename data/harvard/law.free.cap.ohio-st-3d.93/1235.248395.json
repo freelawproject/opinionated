@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1235\" lastpage=\"1235\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Ab\">\n<em>Friday, August 10, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ATg\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A_a\">01-443.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AAY\">Ohio River Pipe Line, LLC v. Henley.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ajh\">Fairfield App. No. 00CA16. This cause is pending before the court as an appeal from the Court of Appeals for Fairfield County. Upon consideration of appellants\u2019 motion to stay briefing schedule pending jurisdictional determination in Supreme Court case No. 01-1304, <em>Ohio River Pipe Line, LLC v. Betty Jean Cluff Guthiel et al.,</em></p>\n<p id=\"AcG\">IT IS ORDERED by this court that the motion to stay briefing schedule be, and hereby is, granted pending further order of this court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

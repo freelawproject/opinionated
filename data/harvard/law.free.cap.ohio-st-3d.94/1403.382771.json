@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1403\" lastpage=\"1403\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Ac8p\">\n<em>Thursday, December 13, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"AsUv\">MEDIATION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AxzK\">99-570.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AOz\">DeRolph v. State.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Azec\">Perry C.P. No. 22043. This cause is pending before the court upon the granting of a motion for reconsideration.</p>\n<p id=\"ACD\">IT IS ORDERED by the court, <em>sua sponte, </em>that Howard S. Bellman be appointed as master commissioner in this matter.</p>\n<judges id=\"AZx\">Resnick, F.E. Sweeney and Cook, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

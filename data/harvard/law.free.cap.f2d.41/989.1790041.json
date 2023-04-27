@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"989\" lastpage=\"989\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1021-45\">Tom BRYAN and H. C. Knowles v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1021-46\">No. 153.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1021-47\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Amdl\">Aug. 26, 1929.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1021-49\">Erank Lee, U. S. Atty., of Muskogee, Okl., for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1021-50\">Before LEWIS, COTTERAL, and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1021-51\">PER CURIAM.</author>\n<p id=\"b1021-52\">Dismissed August 26,1929, on motion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

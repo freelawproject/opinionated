@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"259\" lastpage=\"259\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PEOPLE of the State of Michigan, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  John Lee CARTER, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 156509\n  <br/>\n  COA: 331332\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  March 5, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   By order of February 20, 2018, the application for leave to appeal the August 10, 2017 judgment of the Court of Appeals was held in abeyance pending the decision in\n   <em>\n    People v. Straughter\n   </em>\n   (Docket No. 156198). The appellant having now moved to amend his application to withdraw the issue under consideration in\n   <em>\n    Straughter,\n   </em>\n   that motion is GRANTED, and the application is DENIED, because we are not persuaded that the remaining questions presented should be reviewed by this Court. The motion for a\n   <em>\n    Franks\n   </em>\n   hearing is DENIED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

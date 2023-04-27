@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"603\" lastpage=\"603\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b239-3\">In re Resignation of Brockmeier.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b239-4\">[Cite as In re Resignation of Brockmeier (1990), 51 Ohio St. 3d 603.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b239-5\">(No. 90-745</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Aox\">Submitted May 8, 1990</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A4r\">Decided May 16, 1990.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b239-6\">The resignation of Frederick Brockmeier IV as an attorney is accepted.</p>\n<judges id=\"AVc\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

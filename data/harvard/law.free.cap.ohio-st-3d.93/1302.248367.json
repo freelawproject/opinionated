@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1302\" lastpage=\"1303\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AfA\">\n<em>Thursday, November 1, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A4CB\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Ad__\">01-948.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AJ_F\">Vandalia-Butler City School Dist. Bd. of Edn. v. Montgomery Cty. Bd. of Revision.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A29\">Board of Tax Appeals, No. 98-M-1013. This cause is pending before the court as an appeal from the Board of Tax Appeals.</p>\n<p id=\"ArxN\"><page-number citation-index=\"1\" label=\"1303\">*1303</page-number>IT IS ORDERED by the court, <em>sua sponte, </em>that this cause be consolidated with Supreme Court case No. 01-949, <em>Vandaliar-Butler City School Dist. Bd. ofEdn. v. Montgomery Cty. Bd. of Revision et al., </em>for oral argument and decision.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"545\" lastpage=\"545\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b553-3\">No. 3253.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AKs\">Venable &amp; Heyman <em>v. </em>Chavous,</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"AW0h\">November Term, 1893.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AEAG\">December 5, 1893,</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AnHD\"><em>J. J. Brown, </em>for the motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AhR\">J. <em>L. Tobin, </em>contra.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ajyv\">This was an order</p>\n<author id=\"Aps\">per curiam;</author>\n<p id=\"A6W\">of refusing to reinstate an appeal dismissed by the clerk under Rules 1 and 2, \u201cneither unavoidable causes for the default of the appellant nor mistake or inadvertence having been shown.\u201d-</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

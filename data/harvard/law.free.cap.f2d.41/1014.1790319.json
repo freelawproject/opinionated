@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1046-26\">C. C. SKINNER v. T. B. WHITE, Warden, etc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A1Wm\">No. 273.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1046-27\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AIJ\">April 5, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1046-29\">N. E. Synder, of Kansas City, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1046-30\">S. M. Brewster, U. S. Atty., of Topeka, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1046-31\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1046-32\">PER CURIAM.</author>\n<p id=\"b1046-33\">Appeal dismissed April 5, 1930, as being without merit.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

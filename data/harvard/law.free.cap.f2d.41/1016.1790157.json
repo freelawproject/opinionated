@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1048-8\">Edwin A. THOMPSON, by His Guardian Ad Litem, Willard S. Thompson, v. TELLURIDE POWER COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1048-9\">No. 5.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1048-10\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A7VM\">June 2, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1048-12\">King <em>&amp; </em>King, of Salt Lake City, Utah, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1048-13\">H. R. Waldo, of Salt Lake City, Utah, and Ered R.. Wright, of Denver, Colo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1048-14\">Before LEWIS, COTTERAL, and MeDERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1048-15\">PER CURIAM.</author>\n<p id=\"b1048-16\">Appeal dismissed June 2, 1930, on motion of appellee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

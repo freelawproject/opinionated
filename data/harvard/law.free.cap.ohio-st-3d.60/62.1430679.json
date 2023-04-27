@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"62\" lastpage=\"62\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b104-3\">The State of Ohio, Appellant, <em>v. </em>Seibers, Appellee.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b104-4\">[Cite as State <em>v. </em>Seibers (1991), 60 Ohio St. 3d 62.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b104-6\">(No. 90-2486 \u2014</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A3p\">Submitted May 6, 1991 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ah\">Decided May 29, 1991.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b104-8\">This cause is reversed on authority of <em>State </em>v. <em>McGlone </em>(1991), 59 Ohio St. 3d 122, 570 N.E. 2d 1115, and <em>State </em>v. <em>Cleary </em>(1986), 22 Ohio St. 3d 198, 22 OBR 351, 490 N.E. 2d 574.</p>\n<judges id=\"Aq4\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

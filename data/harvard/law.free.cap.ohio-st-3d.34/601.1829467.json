@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b83-4\">In re Resignation of Galan.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b83-5\">[Cite as In re Resignation of Galan (1987), 34 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Al\">(D.R. No. 87-7</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AeM\">Decided December 2, 1987.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b83-6\">The resignation of Gregory J. Galan as an attorney is accepted.</p>\n<judges id=\"b83-7\">Moyer, C.J., Sweeney, Locher,</judges>\n<judges id=\"b83-8\">Holmes, Douglas, Wright and H.</judges>\n<judges id=\"b83-9\">Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

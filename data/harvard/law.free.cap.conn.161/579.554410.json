@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"579\" lastpage=\"579\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b595-4\">Ludmil Chotkowski <em>v. </em>Manafort Brothers, Inc., et al.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b595-6\">House, C. .1., Cotter, Thim, Shapiro and Loiselle, Js.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b595-7\">Argued November 5</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A61\">decided November 5, 1971</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b595-9\"><em>Alan A. Green </em>and <em>John F. Harvey, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b595-10\"><em>Harry N. Jachaway, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b595-11\">[No written opinion was issued for this appeal since it was dismissed as moot from the bench.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1046-13\">Paul E. LOWENTHAL, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ACB\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AS0n\">November 21, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A3Bh\">No. 64.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AYrJ\">Harold Lee, of New York City, for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AJMq\">William Hayward, U. S. Atty., of New York City, and Elmer H. Lemon, Asst. U. S. Atty., of Middletown, N. Y.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"Au4T\">Before HOUGH and MAN-TON, Circuit Judges, and LEARNED HAND, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1046-14\">PER CURIAM.</author>\n<p id=\"Ai9J\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

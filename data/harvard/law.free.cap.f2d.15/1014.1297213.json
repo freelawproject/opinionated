@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1042-29\">In the Matter of Herman N. LANDAU, Bankrupt; George Feinberg, Petitioner.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1042-30\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AM_Q\">November 12, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1042-31\">No. 97.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1042-33\">B. B. Greller, of New York City, for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1042-34\">Harold Remington, of New York City, for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1042-35\">Before HOUGH, HAND, and MACK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1042-36\">PER CURIAM.</author>\n<p id=\"ADZf\">Order affirmed in open co\u00fart.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"989\" lastpage=\"989\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1021-25\">BOUKER CONTRACTING COMPANY, Libelant-Appellee, v. TAYLOR DREDGING COMPANY, Respondent-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1021-26\">No. 376.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1021-27\">Circuit Court of Appeals, Second Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AXZ5\">June 16, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AoC\">Park, Mattison &amp; Lynch, of New York City (Henry E. Mattison, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1021-30\">Eoley <em>&amp; </em>Martin, of New York City (James A. Martin, of New York City, of counsel), for libelant.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1021-31\">Before MANTON, AUGUSTUS N-HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1021-32\">PER CURIAM.</author>\n<p id=\"b1021-33\">Orders affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1\" lastpage=\"2\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Nathaniel BRYANT and Joseph L. Gillespie\n  <br/>\n  v.\n  <br/>\n  Charles Wilbur BRYANT and Carl Bryant\n </parties>\n <docketnumber id=\"p-2\">\n  No. 74P17\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  March 14, 2017.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Nathaniel Bryant, for Bryant, Nathaniel.\n </attorneys>\n <attorneys id=\"p-6\">\n  Joseph L. Gillespie, for Gillespie, Joseph L.\n </attorneys>\n <attorneys id=\"p-7\">\n  Paul S. Messick, Jr., Attorney at Law, for Bryant, Charles Wilbur, et al\n </attorneys>\n <p id=\"p-8\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   Upon consideration of the petition filed by Plaintiff (Nathaniel Bryant) on the 13th of March 2017 for Writ of Supersedeas of the judgment of the Court of Appeals, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-10\">\n   \"Denied by order of the Court in conference, this the 14th of March 2017.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

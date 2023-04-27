@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"955\" lastpage=\"955\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b1005-27\">New York Common Pleas</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AMA\">General Term.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1005-28\">Filed November 2, 1891.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b1005-29\">Bernard Mahon, Resp\u2019t, <em>v. </em>Anna M. Guilfoyle, App\u2019lt.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1005-30\">Motion to dismiss appeal for failure to serve printed papers.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1005-31\">Motion granted, unless appellant serve printed papers on or about the 13th day of November, 1891.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

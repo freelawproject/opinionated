@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1255\" lastpage=\"1255\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AEQB\">\n<em>Thursday, September 13, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AYf\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AiM\">01-871.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"APu\">State v. Ahmed.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Avq\">Belmont App. No. 99CR192. This cause is pending before the court as a death penalty appeal from the Court of Common Pleas of Belmont County. Upon consideration of appellee\u2019s motion for extension of time to transmit the record,</p>\n<p id=\"A--\">IT IS ORDERED by the court that the motion for extension of time to transmit the record be, and hereby is, granted, and the record is due twenty days from the date of this entry. No further extensions will be granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

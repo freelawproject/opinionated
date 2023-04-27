@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1012\" lastpage=\"1012\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1040-7\">In the Matter of Ruth HAMILTON, Bankrupt; Samuel H. Draisin, Petitioner-Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1040-9\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b1040-10\">November 1, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1040-11\">No. 51.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1040-14\">May &amp; Jacobson, of .New York City, for petitioner and appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1040-15\">George O. Arkin, of New York City, opposed.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1040-16\">Before HOUGH, MANTON, and MACK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1040-17\">PER CURIAM.</author>\n<p id=\"AIp\">Appeal dismissed, and, under petition to revise, order affirmed, with one bill of costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

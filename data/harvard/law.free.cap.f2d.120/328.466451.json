@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"328\" lastpage=\"328\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b384-4\">William METCALF, Jr., Appellee, v. PITTSBURGH ATHLETIC CO., Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b384-5\">No. 7656.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b384-6\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Af_\">April 29, 1941.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b384-8\">John M. Reed, of Pittsburgh, Pa., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b384-9\">Ella Graubart and Patterson, Crawford, Arensberg &amp; Dunn, all of Pittsburgh, Pa., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b384-10\">Before BIGGS, CLARK, and GOODRICH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b384-11\">PER CURIAM.</author>\n<p id=\"b384-12\">The judgment of the court below, 39 F.Supp. 115, is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

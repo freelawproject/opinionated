@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"997\" lastpage=\"997\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1029-43\">George Elmo GILLIES, by His Guardian Ad Litem, George B. Gillies, v. TELLURIDE POWER COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1029-44\">No. 4.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1029-45\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AUFq\">June 2, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1029-47\">King &amp; King, of Salt Lake City, Utah, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1029-48\">H. R. Waldo, of Salt Lake City, Utah, and Fred R. Wright, of Denver, Colo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1029-49\">Before LEWIS, COTTERAL, and Mc-DERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1029-50\">PER CURIAM.</author>\n<p id=\"b1029-51\">Appeal dismissed June 2, 1930, on motion of appellee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

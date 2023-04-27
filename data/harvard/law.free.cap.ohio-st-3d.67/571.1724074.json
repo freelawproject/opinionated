@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"571\" lastpage=\"571\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b733-11\">The State of Ohio, Appellee, <em>v. </em>Thom, Appellant.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b733-12\">[Cite as <em>State v. Thom </em>(1993), 67 Ohio St.3d 571.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b733-14\">(No. 93-307</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AfPA\">Submitted September 28, 1993</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AQtp\">Decided November 10, 1993.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b733-15\"><em>Richard A. Kahler, </em>for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b733-16\">The motion to certify the record is allowed and the cause is affirmed on authority of <em>State v. Yoder </em>(1993), 66 Ohio St.3d 515, 613 N.E.2d 626.</p>\n<judges id=\"b733-17\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

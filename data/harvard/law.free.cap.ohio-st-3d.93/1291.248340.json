@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1291\" lastpage=\"1291\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Alpq\">\n<em>Wednesday, October 24, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AsE\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AvU\">01-1539.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ADpb\">State ex rel. Untied v. Hoffman.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATo\">In Mandamus. On motion to consolidate case with 01-1501, <em>State ex rel. Untied v. Hoffman, </em>and on motion to dismiss. Motion to consolidate denied and motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"AMkC\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

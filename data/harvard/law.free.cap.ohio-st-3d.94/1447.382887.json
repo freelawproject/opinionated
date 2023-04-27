@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1447\" lastpage=\"1447\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AXP-\">\n<em>Friday, February 1, 2002</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"An5W\">DISCIPLINARY DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AlRO\">02-65.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AlRd\">Disciplinary Counsel v. Baumgartner.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUrL\">Upon consideration of relator\u2019s motion for leave to file a reply to respondent\u2019s memorandum opposing motion for interim remedial suspension,</p>\n<p id=\"AVr\">IT IS ORDERED by the court that the motion be, and hereby is, denied.</p>\n<judges id=\"ArD\">Lundbekg Stratton, J., dissents.</judges>\n<judges id=\"AfKR\">Resnick, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

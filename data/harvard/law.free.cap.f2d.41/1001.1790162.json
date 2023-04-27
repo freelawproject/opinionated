@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1033-22\">Leonard D. INGRAM et al. v. W. T. WISDOM et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1033-23\">No. 151.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1033-24\">Circuit Court of Appeals, Tenth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Apf0\">Aug. 26, 1929.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1033-28\">Charles A. Chandler, of Muskogee, Okl., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1033-29\">Bower Broaddus, of Muskogee, Okl., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1033-30\">Before LEWIS, COTTERAL, and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1033-31\">PER CURIAM.</author>\n<p id=\"b1033-32\">Dismissed August 26, 1929, on motion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

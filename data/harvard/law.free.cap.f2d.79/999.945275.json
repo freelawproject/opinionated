@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AKy\">Leonard D. INGRAM v. Philip A. LEWIS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AFl\">No. 1321.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"ANp\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Agg\">Aug. 19, 1935.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aqv\">Charles A. Chandler, of Muskogee, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AVM\">R. E. Stewart, of Muskogee, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AJD\">Before Lewis and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A8BR\">PER CURIAM,</author>\n<p id=\"A5C\">Appeal dismissed, on stipulation,</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

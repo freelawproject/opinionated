@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1204\" lastpage=\"1204\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b782-4\">In re Resignation of Luginbuhl.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b782-5\">[Cite as <em>In re Resignation of Luginbuhl </em>(1993), 67 Ohio St.3d 1204.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ApJD\">(No. 93-1024</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AB6\">Submitted June 1, 1993</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Abo\">Decided June 2, 1993.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b782-6\">The resignation of Randall Jay Luginbuhl of Columbus, Ohio, as an attorney, Registration No. 0022841, is accepted.</p>\n<judges id=\"b782-7\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

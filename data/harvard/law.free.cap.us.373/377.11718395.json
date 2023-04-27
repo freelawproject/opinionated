@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"377\" lastpage=\"377\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b429-12\">DREXEL <em>v. </em>OHIO PARDON AND PAROLE COMMISSION.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b429-14\">No. 975,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A2N9\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Arp\">Decided May 20, 1963.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b429-15\">Per Curiam.</author>\n<p id=\"b429-16\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

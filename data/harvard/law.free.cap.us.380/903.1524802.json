@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b779-12\">No. 702,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ASyb\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A5v\">Smith <em>v. </em>United States Court of Appeals for the Ninth Circuit et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ARF4\"><em>Lyndol L. Young </em>for petitioner. <em>Milo V. Olson, William K. Woodburn </em>and <em>Edward D. Neuhoff </em>for respondent Cord.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A97\">Motion for leave to file petition for writ of mandamus and/or prohibition denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

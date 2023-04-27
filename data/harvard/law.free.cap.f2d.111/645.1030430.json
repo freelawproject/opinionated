@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"645\" lastpage=\"645\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b705-12\">The FREELAND PROCESS COMPANY v. COMMISSIONER OF INTERNAL REVENUE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b705-13\">No. 2101.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b705-31\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b705-32\">April 12, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b705-34\">J. E. Hart, of Tulsa, Okl., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b705-35\">J. P. Wenchel, Chief Counsel, Bureau of Internal Revenue, of Washington, D. C., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b705-36\">Before PHILLIPS, BRATTON, and WILLIAMS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b705-37\">PER CURIAM.</author>\n<p id=\"b705-38\">Petition dismissed on motion of petitioner.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1313\" lastpage=\"1313\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"ATqC\">\n<em>Friday, November 9, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Aunk\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Ad2\">01-1931.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AhJT\">State ex rel. Harson Invest. v. Montgomery Cty. Bd. of Elections.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqVq\">Montgomery App. No. 19015. This cause is pending before the court as an appeal from the Court of Appeals for Montgomery County. Upon the passage of the November 6, 2001 election,</p>\n<p id=\"APqX\">IT IS ORDERED by the court, <em>sua sponte, </em>that this cause be, and hereby is dismissed based on mootness.</p>\n<judges id=\"ALZ\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"261\" lastpage=\"262\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  2 CROOKED CREEK, LLC, Plaintiff/Counterdefendant-Appellant,\n  <br/>\n  v.\n  <br/>\n  Jim L. FRYE and Shoreline Development Co., Inc., Defendants/Counterplaintiffs-Appellees.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158101\n  <br/>\n  COA: 341274\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  March 5, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Court, the application for leave to appeal the June 4, 2018 order\n   of the Court of Appeals is considered and, pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we REMAND this case to the Court of Appeals for consideration as on leave granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

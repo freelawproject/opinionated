@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"970\" lastpage=\"970\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b846-5\">No. 948,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AXv1\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AN35\">Weissenborn <em>v. </em>Jones et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A8d6\"><em>Lewis M. Kanner </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABD1\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

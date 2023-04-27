@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"548\" lastpage=\"548\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b604-3\">PAUL S. GALLENA, PROSECUTOR, v. I. GRANT SCOTT, CLERK IN CHANCERY, DEFENDANT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b604-4\">Submitted May 4, 1948</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Az4H\">Decided September 9, 1948.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b604-6\">Before Justices Donges and Colie.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b604-7\">For the prosecutor, <em>George Pellettieri.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b604-8\">For the defendant, <em>Walter D. Van Riper </em>and <em>Joseph Lanigan.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b604-9\">Per Curiam.</author>\n<p id=\"b604-10\">The judges being equally divided on the question of whether or not a writ of <em>certiorari </em>should issue, the application must fall.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

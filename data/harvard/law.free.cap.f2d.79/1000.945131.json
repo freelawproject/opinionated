@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1046-21\">George W. JOHNSON, Appellant, v. PENNSYLVANIA RAILROAD COMPANY, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1046-22\">No. 81.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1046-23\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1046-24\">Nov. <em>4, </em>1935.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1046-26\">Jacob Klein, of New York City (Charles D. Lewis, of New York City, of counsel), for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1046-27\">Burlingham, Veeder, Clark <em>&amp; </em>Hupper, of New York City (Ray Rood Allen, of New York City, of counsel), for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AEQP\">Before L. HAND, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Azb\">PER CURIAM.</author>\n<p id=\"AsWn\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"481\" lastpage=\"482\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jane DOE, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  BISHOP FOLEY CATHOLIC HIGH SCHOOL, Reverend Gerard J. LeBoeuf, Joanne Molnar, Nancy Hager, Archdiocese of Detroit, his Eminence Adam Joseph Maida, Sister Mary Gehringer, and Roes 1 - 50, Defendants-Appellees,\n  <br/>\n  and\n  <br/>\n  Richard Fischer, Defendant.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157921\n  <br/>\n  COA: 336795\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  August 8, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of defendants-appellees to file a surreply is GRANTED. The surreply submitted on August 1, 2018, is accepted for filing.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

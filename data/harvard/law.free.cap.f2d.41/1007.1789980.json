@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1007\" lastpage=\"1007\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1039-23\">W. H. MERCHANT et al. v. Ada FRITZ et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A2OL\">No. 168.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1039-24\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AJoC\">Jan. 14, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1039-27\">J. O. Seth, of Santa F6, N. M., for appellants.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1039-28\">Before LEWIS and McDERMOTT, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1039-29\">PER CURIAM.</author>\n<p id=\"b1039-30\">Dismissed January 14, 1930, on stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

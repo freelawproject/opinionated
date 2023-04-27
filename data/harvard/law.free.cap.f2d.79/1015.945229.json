@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1061-15\">UNITED STATES of America v. William Garfield JOHNSON.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1061-16\">No. 7998.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1061-17\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1061-18\">Oct. 14, 1935.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1061-20\">Carl C. Donaugh, U. S. Atty., and Edwin D. Hicks, Asst. U. S. Ally., both, of Portland, Or.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1061-21\">Chas. W. Erskine, of Portland, Or., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"legal\" id=\"b1061-22\">' Before WILBUR, MATHEWS, and HANEY, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1061-23\">PER CURIAM.</author>\n<p id=\"b1061-24\">Upon stipulation of counsel for respective parties, ordered, appeal dismissed; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

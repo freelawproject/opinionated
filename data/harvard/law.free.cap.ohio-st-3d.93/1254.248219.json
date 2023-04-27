@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1254\" lastpage=\"1254\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AtL\">\n<em>Tuesday, September 11, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"Auo\">MISCELLANEOUS DOCKET</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AKon\"><em>In re </em>Extension of Filing Deadline.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ANg_\">It appearing to the court that access to the Supreme Court Clerk\u2019s Office was inhibited on September, 11, 2001,</p>\n<p id=\"ARK\">IT IS ORDERED by the court, <em>sua sponte, </em>that documents due to he filed in the Supreme Court by the deadline of September 11, 2001, may be accepted for filing on September 12, 2001.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

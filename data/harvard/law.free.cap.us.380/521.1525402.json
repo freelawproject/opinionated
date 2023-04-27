@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"521\" lastpage=\"521\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b589-11\">BROWN <em>v. </em>CALIFORNIA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b589-13\">No. 194,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A7TD\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AHa\">Decided April 26, 1965.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b589-15\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b589-16\"><em>Thomas C. Lynch, </em>Attorney General of California, <em>William E. James, </em>Assistant Attorney General, and <em>Lawrence R. Tapper, </em>Deputy Attorney General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b589-17\">Per Curiam.</author>\n<p id=\"b589-18\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

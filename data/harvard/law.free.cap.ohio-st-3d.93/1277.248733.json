@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1277\" lastpage=\"1277\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A2O\">\n<em>Monday, October 8, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"ASs\">DISCIPLINARY DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Avd6\">01-1179.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ApK8\">Cleveland Bar Assn. v. Reed.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AaF\">Upon consideration of respondent\u2019s motion to strike relator\u2019s answer,</p>\n<p id=\"AU5u\">IT IS ORDERED by the court that the motion be, and hereby is, denied.</p>\n<judges id=\"AsXg\">Douglas, J., would grant only regarding striking pages 1-6.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

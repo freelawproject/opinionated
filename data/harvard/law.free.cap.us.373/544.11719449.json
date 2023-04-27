@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"544\" lastpage=\"544\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b596-12\">CEPERO <em>v. </em>UNITED STATES.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b596-14\">No. 1227,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AfP\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AYI2\">Decided May 27, 1963.</decisiondate>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b596-16\">Reported below: - F. Supp. -.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b596-17\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b596-18\"><em>Solicitor General Cox </em>for the United States.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b596-19\">Per Curiam.</author>\n<p id=\"b596-20\">The motion to dismiss is granted and the appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

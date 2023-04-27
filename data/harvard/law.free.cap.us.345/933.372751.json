@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b769-5\">No.-, Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ATuv\">Mississippi <em>v. </em>Louisiana.</parties>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"AIL\"><em>J. P. Coleman, </em>Attorney General of Mississippi, and <em>G. H. Brandon </em>for complainant.</attorneys>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATdP\">A rule is ordered to issue returnable within forty days, requiring the defendant to show cause why leave to file the bill of complaint should not be granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

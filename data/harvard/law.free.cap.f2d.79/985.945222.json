@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"985\" lastpage=\"985\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1031-4\">Carl G. CHRISTOFFERS v. Charles Francis COPE, Bankrupt.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1031-5\">No. 1249.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1031-6\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1031-7\">July 6, 1935.</decisiondate>\n<seealso data-order=\"4\" data-type=\"seealso\" id=\"b1031-8\">For opinion below, see 8 F.Supp. 778, 961.</seealso>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1031-10\">Twitchell, Clark &amp; Burkhardt, of Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1031-11\">Albert Dakin, of Longmont, Colo., for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"b1031-12\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1031-13\">PER CURIAM.</author>\n<p id=\"b1031-14\">Appeal dismissed, on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

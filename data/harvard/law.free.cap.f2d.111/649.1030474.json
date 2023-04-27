@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"649\" lastpage=\"649\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b709-26\">UNITED STATES of America v. Joseph Fred DREW.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b709-27\">No. 2091.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b709-28\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b709-29\">March 28, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b709-31\">Everett M. Grantham, U. S. Atty., of Santa Fe, N. M., for appellant.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b709-32\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b709-33\">PER CURIAM.</author>\n<p id=\"b709-34\">Appeal dismissed on motion of appellant</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b175-10\">In re Resignation of Fister.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b175-11\">[Cite as In re Resignation of Fister (1987), 33 Ohio St. 3d 601.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b175-12\">(D.R. No. 87-6</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A49\">Decided October 21, 1987.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b175-13\">The resignation of William E. Fister from the practice of law in the state of Ohio is accepted.</p>\n<judges id=\"ASR\">Moyer, C.J., Sweeney, Locher, Holmes, Douglas, Wright and H. Brown, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

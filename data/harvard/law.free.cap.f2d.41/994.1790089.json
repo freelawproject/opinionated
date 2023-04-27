@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"994\" lastpage=\"995\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1026-45\">Richard DRIGGERS v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1026-46\">No. 99.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1026-47\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ANiB\">June 2, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1026-49\">Ray &amp; Thomas, of Lawton, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1027-3\"><page-number citation-index=\"1\" label=\"995\">*995</page-number>Roy St. Lewis, U. S. Atty., of Oklahoma City, Okl.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1027-4\">Before LEWIS, COTTERAL, and Mc-DERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1027-7\">PER CURIAM.</author>\n<p id=\"b1027-8\">Appeal dismissed June 2, 1930, on motion of appellee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

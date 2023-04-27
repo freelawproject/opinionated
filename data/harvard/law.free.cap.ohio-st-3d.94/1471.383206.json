@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1471\" lastpage=\"1471\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AG7\">\n<em>Thursday, February 14, 2002</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"A4d\">MEDIATION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AEs1\">01-2224.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AsTM\">State ex rel. Lusk v. Indus. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_dg\">The following cases have been referred to mediation pursuant to S.Ct.Prac.R. XIV(6):</p>\n<p id=\"ALr9\">Franklin App. No. 00AP-1450.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

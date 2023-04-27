@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1008\" lastpage=\"1008\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1040-31\">MOSQUITO GOLD MINES, Inc., v. W. A. ELLIS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1040-33\">No. 182.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1040-34\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1040-35\">Nov. 18, 1929.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1040-37\">John R. Smith, of Denver, Colo., for appellant.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1040-38\">Before' LEWIS, Circuit Judge, and SYMES, District Judge.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1040-39\">PER CURIAM.</author>\n<p id=\"b1040-40\">Appeal dismissed November 18, 1929, on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

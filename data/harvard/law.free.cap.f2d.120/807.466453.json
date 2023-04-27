@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"807\" lastpage=\"807\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b863-13\">In the Matter of Joseph L. BYER, Bankrupt, Charles De La Vergne, Trustee, etc., Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b863-14\">No. 354.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b863-15\">Oireuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b863-16\">June 10, 1941.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b863-18\">Francis Martocci, of Kingston, N. Y., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b863-19\">Morris Rosenblum, of Saugerties, N. Y., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b863-20\">Before SWAN, CLARK, and FRANK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b863-21\">PER CURIAM.</author>\n<p id=\"b863-22\">Order affirmed in open court</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

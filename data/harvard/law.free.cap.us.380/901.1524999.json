@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b777-2\">March 1, 1965.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b777-4\">No. 18,</docketnumber>\n<p data-order=\"2\" data-type=\"docketnumber\" id=\"A99\">Original.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AsOg\">Illinois <em>v. </em>Missouri.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ald5\"><em>William G. Clark, </em>Attorney General of Illinois, <em>Richard A. Michael, </em>Assistant Attorney General, and <em>Terence F. MacCarthy, </em>Special Assistant Attorney General, for plaintiff! <em>Norman H. Anderson, </em>Attorney General of Missouri, and <em>J. Gordon Siddens </em>and <em>Howard L. McFadden, </em>Assistant Attorneys General, for defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAJ\">State of Illinois directed to file reply to response within 30 days.</p>\n<p id=\"AHDg\">[For earlier order herein, see 379 U. S. 952.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

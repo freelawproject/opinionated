@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"482\" lastpage=\"482\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Keagan FARRIS, BY AND THROUGH his Next Friend, James FARRIS, Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  John H. MCKAIG, II, Defendant-Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 158015\n  <br/>\n  COA: 337366\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  August 8, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion to substitute \"ELIZABETH ELLEN MCKAIG, Personal Representative of the Estate of JOHN H. MCKAIG, II\" as the defendant-appellee in all further proceedings before this Court is GRANTED.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

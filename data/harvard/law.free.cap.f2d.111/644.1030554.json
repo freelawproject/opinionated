@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"644\" lastpage=\"644\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b704-14\">CITY OF NEW YORK, Appellee, v. CORN-KELLY CORPORATION, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b704-15\">No. 282.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b704-16\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"aju-dedup-0\">March 25, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b704-18\">No one appearing for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b704-19\">Edward J. McGratty, Jr., of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b704-20\">Before L. HAND, CHASE, and CLARK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b704-21\">PER CURIAM.</author>\n<p id=\"b704-22\">Order, 32 F.Supp. 572, affirmed on opinion below.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1277\" lastpage=\"1277\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AIh\">\n<em>Tuesday, October 9, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AiVS\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A80r\">01-1752.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AjED\">State ex rel. N. Olmsted v. Cuyahoga Cty. Bd. of Elections.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Agq5\">In Mandamus. This cause originated in this court on the filing of a complaint for a writ of mandamus regarding an expedited election matter. Upon consideration of relator\u2019s motion for a temporary restraining order,</p>\n<p id=\"AX9\">IT IS ORDERED by the court that the motion be, and hereby is, granted, and that the respondent be enjoined from issuing absentee ballots to registered voters in the city of North Olmsted until this cause is resolved.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

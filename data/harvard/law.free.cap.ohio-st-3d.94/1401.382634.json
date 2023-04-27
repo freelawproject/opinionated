@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1401\" lastpage=\"1401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AmhC\">\n<em>Tuesday, December 11, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"AtRZ\">MEDIATION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Azcd\">01-1886.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AIdk\">State ex rel. St. Clement of Ohrid Macedonian Orthodox Church v. McGough.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYdF\">The following cases have been referred to mediation pursuant to S.Ct.Prac.R. XIV(6):</p>\n<p id=\"AN1i\">Lorain App. No. 01CA007787.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"990\" lastpage=\"990\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1022-13\">H. Brown CANYON et al. v. L. B. BROMFIELD, as Receiver of the Globe National Bank of Denver.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1022-15\">No. 28.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1022-16\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1022-17\">June 8, 1929.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1022-19\">Wilbur F. Denious, Hudson Moore, and G. Dexter Blount, all of Denver, Colo., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1022-20\">Ralph Hartzell, of Denver, Colo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1022-21\">Before LEWIS, Circuit Judge, and STMES, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1022-22\">PER CURIAM.</author>\n<p id=\"b1022-23\">Appeal dismissed June 8, 1929, per stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

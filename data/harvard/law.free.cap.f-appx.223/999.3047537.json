@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1027-25\">Felix L. SORKIN, Plaintiff-Appellant, v. AMSYSCO, INC., Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Azb7\">No. 2006-1519.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1027-27\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1027-28\">May 11, 2007.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1028-3\"><page-number citation-index=\"1\" label=\"1000\">*1000</page-number>Before MAYER, Circuit Judge, CLEVENGER, Senior Circuit Judge and BRYSON, Circuit Judge.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1028-4\">Judgment</p>\n<author id=\"b1028-5\">PER CURIAM:</author>\n<p id=\"b1028-6\">This CAUSE having been heard and considered, it is</p>\n<p id=\"b1028-7\">ORDERED and ADJUDGED:</p>\n<p id=\"Aq8j\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

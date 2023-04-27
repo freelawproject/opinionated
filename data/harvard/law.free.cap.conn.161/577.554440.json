@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"577\" lastpage=\"578\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b593-7\">John Sproha et al. <em>v. </em>Clinton Planning Commission et al.</parties>\n<p data-order=\"1\" data-type=\"judges\" id=\"b593-8\">House, C. J., Cotter, Thim, Shapiro and Loiselle, Js.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AEd\">Argued October 13</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGt\">decided November 2, 1971</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b593-10\"><em>David B. Greenberg, </em>for the appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b593-11\"><em>John T. Gummishey, Jr., </em>for the appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b594-4\"><page-number citation-index=\"1\" label=\"578\">*578</page-number>Pee Cueiam.</author>\n<p id=\"A2e\">We find no merit to this appeal from a decision of the Clinton planning commission. The decision of the trial court is affirmed for the reasons stated in its memorandum of decision.</p>\n<p id=\"b594-5\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

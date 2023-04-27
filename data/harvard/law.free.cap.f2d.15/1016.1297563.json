@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1044-8\">W. E. NESMITH, Plaintiff in Error, v. WAR FINANCE CORPORATION, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1044-9\">(Circuit Court of Appeals, Fourth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A1L\">November 24, 1926.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b1044-10\">No. 2559.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1044-12\">Phillip H. Arrowsmith, of Florence, S. C., for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1044-13\">William M. Shand, of Columbia, S. C. (Bcnet, Shand &amp; McGowan, of Columbia, S. C., on the brief), for defendant in error.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1044-14\">Before WADDILL, ROSE, and PARKER, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1044-15\">PER CURIAM.</author>\n<p id=\"AIZ_\">We find no error in the rulings below. Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

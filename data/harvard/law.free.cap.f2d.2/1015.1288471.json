@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1015\" lastpage=\"1015\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1043-7\">Jack N. CASAVIS, Plaintiff in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A4Oc\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AjD\">October 14, 1924.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AxF\">No. 52.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AN1\">Stephen B. Vreeland and Furman, Thayer &amp; Vreeland, all of New York City, for plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ADEn\">William Hayward, U. S. Atty., of New York City (Elmer H. Lemon, Sp. Asst. U. S. Atty., of Middleton, N. Y., of counsel), for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AfLW\">Before ROGERS, HOUGH and MANTON, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1043-8\">PER CURIAM.</author>\n<p id=\"AmaN\">Writ of error dismissed in open court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

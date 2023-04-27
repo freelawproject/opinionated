@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1444\" lastpage=\"1444\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AjuR\">\n<em>Tuesday, January 29, 2002</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"ApI3\">RECONSIDERATION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A1p\">01-2025.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Abmx\">Brewer v. Gansheimer.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYBO\">Ashtabula App. No. 2001-A-0045. Reported at 94 Ohio St.3d 1422, 760 N.E.2d 832. IT IS ORDERED by the court that the motion for reconsideration in this case be, and hereby is, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

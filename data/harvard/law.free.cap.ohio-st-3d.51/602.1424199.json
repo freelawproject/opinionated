@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"602\" lastpage=\"602\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b238-14\">In re Resignation of Berger.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b238-15\">[Cite as In re Resignation of Berger (1990), 51 Ohio St. 3d 602.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b238-16\">(No. 90-594</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AdQ\">Submitted April 17, 1990</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AWP\">Decided May 2, 1990.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b238-17\">The resignation of Peter S. Berger as an attorney is accepted.</p>\n<judges id=\"AF_\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

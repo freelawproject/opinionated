@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"608\" lastpage=\"608\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b206-18\">In re Resignation of Barkan.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b206-19\">[Cite as In re Resignation of Barkan (1991), 60 Ohio St. 3d 608.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b206-20\">(No. 91-816 \u2014</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A4L\">Submitted May 14, 1991 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AlCi\">Decided May 22, 1991.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b206-21\">The resignation of Yale A. Barkan as an attorney is accepted.</p>\n<judges id=\"AEY\">Moyer, C.J., Sweeney, Holmes, Douglas, Wright, H. Brown and Resnick, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

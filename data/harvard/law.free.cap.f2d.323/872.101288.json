@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"872\" lastpage=\"872\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b922-18\">Isaac WEBER, Appellant v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b922-20\">No. 17463.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b922-21\">United States Court of Appeals Eighth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b922-22\">Oct. 8, 1963.</decisiondate>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b922-24\">Isaac Weber, pro se.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b922-25\">Richard D. FitzGibbon, Jr., U. S. Atty., Clayton, Mo., for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b922-26\">PER CURIAM.</author>\n<p id=\"b922-27\">Appeal docketed and dismissed for want of prosecution on motion of appel-lee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

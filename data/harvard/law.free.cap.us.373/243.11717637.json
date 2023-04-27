@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"243\" lastpage=\"243\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b295-13\">CLARK <em>v. </em>PENNSYLVANIA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AN-\">No. 689,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ayus\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Arb\">Decided May 13, 1963.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b295-16\">Per Curiam.</author>\n<p id=\"b295-17\">The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

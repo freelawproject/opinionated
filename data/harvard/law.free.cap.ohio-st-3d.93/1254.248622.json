@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1254\" lastpage=\"1254\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A7TM\">\n<em>Monday, September 10, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AOMi\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AIq\">01-1518.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AkRn\">State v. Gapen.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AN6O\">Montgomery C.P. No. 2000CR02945. This cause is pending before the court as a death penalty appeal from the Court of Common Pleas of Montgomery County. Upon consideration of appellant\u2019s motion for stay of execution,</p>\n<p id=\"AKr\">IT IS ORDERED by the court that the motion for stay of execution be, and hereby is, granted pending disposition of this appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

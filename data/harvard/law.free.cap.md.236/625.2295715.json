@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"625\" lastpage=\"625\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b643-5\">CLARK <em>v. </em>WARDEN OF THE MARYLAND PENITENTIARY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b643-6\">[App. No. 42,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AaX\">September Term, 1964.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b643-7\">\n<em>Decided October 21, 1964.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b643-10\">Before Henderson, C. J., and Prescott, Marbury, Sybert and Oppenheimer, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b643-11\">Per Curiam.</author>\n<p id=\"b643-12\">Application for leave to appeal from a denial of post conviction relief is denied for the reasons set forth in the opinion of Judge McLaughlin in the court below, and upon the authority of <em>Wright v. State, </em>222 Md. 242, 247.</p>\n<p id=\"b643-13\">\n<em>Application denied.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

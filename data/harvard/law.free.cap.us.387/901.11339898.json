@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b623-8\">No. 1521,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AQYk\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Abc\">Thomas <em>v. </em>Supreme Court of California et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A8Aa\">Petitioner <em>pro se. Thomas C. Lynch, </em>Attorney General of California, <em>William E. James, </em>Assistant Attorney General, and <em>Norman H. Kokolow, </em>Deputy Attorney General, for respondents.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1P\">Motion for leave to file petition for writ of mandamus and/or prohibition denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

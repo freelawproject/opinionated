@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"545\" lastpage=\"545\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b553-4\">No. 3254.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AJC\">Holmes <em>v. </em>Boston &amp; Port Royal Lumber Company,</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"Auv\">November Term, 1893.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ALn\">December 5, 1893.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOL4\">This was an order, on motion, dismissing an appeal for want of prosecution, the appellant failing to appear on the call of the cause on the docket.</p>\n<author id=\"AhU\">Per curiam,</author>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

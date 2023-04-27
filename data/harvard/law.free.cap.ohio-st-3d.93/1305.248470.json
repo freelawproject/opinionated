@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1305\" lastpage=\"1305\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Agin\">\n<em>Friday, November 2, 2001</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AzX\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AQEB\">01-1940.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AOU\">State ex rel. Bartone v. Montgomery Cty. Bd. of Elections.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7G\">Montgomery App. No. 19055. This cause is pending before the court as an appeal from the Court of Appeals for Montgomery County. Upon consideration of appellant\u2019s motion to impound ballots and/or seal and/or not to certify election results pending disposition of this appeal,</p>\n<p id=\"AZrU\">IT IS ORDERED by the court that motion be, and hereby is, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

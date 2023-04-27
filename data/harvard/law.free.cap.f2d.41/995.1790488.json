@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"995\" lastpage=\"995\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1027-10\">Ed DUFEK v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AL3\">No. 166.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1027-11\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AEO\">Jan. 14, 1930.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1027-13\">Mathers &amp; Mathers, of Oklahoma City, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1027-14\">Roy St. Lewis, U. S. Atty., of Oklahoma City, Okl.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1027-15\">Before LEWIS and McDERMOTT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1027-16\">PER CURIAM.</author>\n<p id=\"b1027-17\">Dismissed' January 14, 1930, on stipular tion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"644\" lastpage=\"645\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b704-43\">The DENVER &amp; RIO GRANDE WESTERN RAILROAD COMPANY, Debtor, v. Wilson McCARTHY and Henry Swan, as Trustees, etc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b704-44\">No. 2062.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b704-45\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AE2\">April 5, 1940.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b705-3\"><page-number citation-index=\"1\" label=\"645\">*645</page-number>Hodges, Vidal &amp; Goree, of Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b705-4\">Charles D. Bromley, of Denver, Colo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b705-5\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b705-6\">PER CURIAM.</author>\n<p id=\"b705-7\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1204\" lastpage=\"1204\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b782-8\">In re Resignation of Damiani.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b782-9\">[Cite as <em>In re Resignation of Damiani </em>(1993), 67 Ohio St.3d 1204.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AQ7I\">(No. 93-1296</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AR13\">Submitted July 8, 1993</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AYL\">Decided July 9, 1993.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b782-10\">The resignation of Richard A. Damiani of Cleveland, Ohio, as an attorney, Registration No. 0011988, is accepted.</p>\n<judges id=\"b782-11\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick,'F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

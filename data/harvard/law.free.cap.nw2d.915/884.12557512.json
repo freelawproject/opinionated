@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"884\" lastpage=\"885\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Joshua ZACKS, Plaintiff,\n  <br/>\n  v.\n  <br/>\n  Jeff ZACKS, d/b/a Unlimited Installations Services, Defendant,\n  <br/>\n  and\n  <br/>\n  1101 Washington, LLC, Defendant/Cross-Plaintiff-Appellant,\n  <br/>\n  v.\n  <br/>\n  Total Outdoor Corporation, Defendant/Cross-Defendant-Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  SC: 157770\n  <br/>\n  COA: 342274\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-4\">\n  August 22, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   On order of the Chief Justice, the motion of defendant Jeff Zacks to file an\n   answer to the application for leave to appeal is GRANTED. The answer submitted on August 20, 2018, is accepted for filing.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"328\" lastpage=\"328\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b384-27\">Charles H. SACHS, Plaintiff-Appellee, v. STANLEY COMPANY OF AMERICA, Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b384-29\">No. 7647.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b384-30\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b384-31\">April 22, 1941.</decisiondate>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b384-32\">Rehearing Denied May 19; 1941.</otherdate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b384-34\">Robert W. Kirkman, of Newark, N. J., for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b384-35\">I. Arthur Weiss, of Paterson, N. J., for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"b384-36\">Before BIGGS, MARIS, and GOODRICH, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b384-37\">PER CURIAM.</author>\n<p id=\"b384-38\">The judgment of the court below is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

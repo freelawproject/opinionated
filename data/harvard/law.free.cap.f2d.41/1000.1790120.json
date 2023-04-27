@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1032-24\">HI-PRESSURE SALES CO., Inc., a Corporation, Appellant, v. ALEMITE MANUFACTURING CORPORATION, a Corporation, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1032-27\">No. 6110.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1032-28\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1032-29\">June 20, 1930.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1032-30\">Before RUDKIN, DIETRICH, and WILBUR, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1032-31\">PER CURIAM.</author>\n<p id=\"b1032-32\">Pursuant to motion of appellee, it is ordered that the appeal in the above cause be, and hereby is, dismissed for the failure of the appellant to print record and file brief as required by Rules 23 and 24.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

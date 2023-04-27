@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"808\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b874-3\">No. 4,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AEDF\">No. 5,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AsvP\">October Term, 1942.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"ACT\">October Term, 1942.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"A89s\">United States <em>v. </em>Johnson; and United States <em>v. </em>Sommers et al.</parties>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"AaoD\">October 11, 1943.</decisiondate>\n<judges data-order=\"6\" data-type=\"judges\" id=\"AlWx\">Mr. Justice Murpht, Mr. Justice Jackson, and Mr. Justice Rutledge took no part in the consideration or decision of these applications.</judges>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A73V\">319 U. S. 503.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

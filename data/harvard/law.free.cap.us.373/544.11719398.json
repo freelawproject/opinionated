@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"544\" lastpage=\"544\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b596-3\">SMITH <em>v. </em>KANSAS et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b596-5\">No. 966,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AT3\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AiX\">Decided May 27, 1963.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b596-8\">Appellant <em>pro se.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b596-9\"><em>William M. Ferguson, </em>Attorney General of Kansas, and <em>J. Richard Foth </em>and <em>Park McGee, </em>Assistant Attorneys General, for appellees.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Ad7\">Per Curiam.</author>\n<p id=\"b596-11\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

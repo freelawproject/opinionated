@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"46\" lastpage=\"46\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b102-6\">DONNA EDWARDS, APPLICANT, v. MAYOR AND COUNCIL OF THE BOROUGH OF MOONACHIE, RESPONDENT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b102-7\">Argued January 21, 1948</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ALR\">Decided March 29, 1948.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b102-9\">Before Case, Chiee Justice, and Justice Bueling.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A6c\">For the applicant, <em>Leo Rosenblum </em>and <em>Sebastian Gaeta.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b102-11\">For the respondent, <em>Chandless, Weller, Kramer &amp; Frank (Ralph W. Chandless).</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b102-12\">Per Curiam.</author>\n<p id=\"b102-13\">The application presents debatable questions of law. A writ may be presented for <em>'allocatur.</em></p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

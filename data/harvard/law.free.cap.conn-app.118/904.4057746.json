@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b912-2\">BARRY YOUNG <em>v. </em>ADMINISTRATOR, UNEMPLOYMENT COMPENSATION ACT, ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b912-3\">(AC 30940)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b912-4\">Harper, Robinson and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b912-5\">Argued November 19</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AoZZ\">officially released December 15, 2009</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b912-7\">Per Curiam.</author>\n<p id=\"Aa8\">Practice Book \u00a7 22-4 provides a mechanism for the correction of a board\u2019s factual findings. The plaintiffs failure to file a timely motion to correct prevented the trial court from reviewing facts found by the board, and it is bound by them. See <em>JSF Promotions, Inc. </em>v. <em>Administrator, Unemployment Compensation Act, </em>265 Conn. 413, 422, 828 A.2d 609 (2003).</p>\n<p id=\"b912-8\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

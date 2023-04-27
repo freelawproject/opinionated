@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"556\" lastpage=\"556\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b610-4\">Larry GILBERT, Trastee in Bankruptcy, for Siskin of Miami, Inc., Bankrupt, Appellant, v. MILLS FACTORS CORPORATION, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b610-6\">No. 23896.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b610-7\">United States Court of Appeals Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b610-8\">June 9, 1967.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b610-10\">Robert R. Frank, Richard B. Marx, and Frank &amp; Strelkow, Miami Beach, Fla., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b610-11\">Herbert S. Shapiro, Murray B. Weil, Jr., Shapiro, Fried &amp; Weil, Miami Beach, Fla., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b610-12\">Before TUTTLE, Chief Judge, and THORNBERRY and GODBOLD, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b610-13\">PER CURIAM:</author>\n<p id=\"b610-14\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
