@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b944-30\">No. 10-1049.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AfBI\">John Larson and Robert Pfaff, Petitioners v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b944-31\">564 U.S. 1046, 131 S. Ct. 3059,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AWgv\">180 L. Ed. 2d 902,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ak59\">2011 U.S. LEXIS 4922.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b944-32\">June 27, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOLF\">Petition for writ of cer-tiorari to the United States Court of <page-number citation-index=\"1\" label=\"903\">*903</page-number>Appeals for the Second Circuit denied.</p>\n<judges id=\"A8OJ\">Justice Sotomayor took no part in the consideration or decision of this petition.</judges>\n<p id=\"ACVF\">Same case below, 407 Fed. Appx. 506.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

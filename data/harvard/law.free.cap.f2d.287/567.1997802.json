@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"567\" lastpage=\"567\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b621-36\">STERLING OIL COMPANY OF OKLAHOMA, INC., and Australian-American Oil Company, Pty., Ltd., v. CORDILLERA MINING COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"arq-dedup-1\">No. 6434.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b621-38\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b621-39\">Sept. 12, 1960.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b621-41\">Gordon F. Rainey, Oklahoma City, Okl., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b621-42\">R. C. Jopling, Jr., Oklahoma City, Okl., John L. Hauer, and William II. Tinsley, Dallas, Tex., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b621-43\">Before MURRAH, Chief Judge, and BRATTON and PICKETT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b621-44\">PER CURIAM.</author>\n<p id=\"b621-45\">Appeal dismissed pursuant to stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

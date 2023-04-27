@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1214\" lastpage=\"1214\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Aqu2\">GOODFELLOW vs. COMMON COUNCIL (Detroit),</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ACk\">No. 14432;</docketnumber>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b486-6\">102 M., 343.</citation>\n<p data-order=\"3\" data-type=\"p\" id=\"AzS\">(Certiorari to Wayne.)</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b486-7\">To compel respondent to proceed to a hearing upon charges preferred against relator as a member of the Board of Fire Commissioners.</p>\n<p id=\"b486-8\">The circuit judge denied the application.</p>\n<p id=\"b486-9\">Affirmed November 1, 1894, on the ground that the indefinite action of the council is equivalent to a dismissal-of the charges.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

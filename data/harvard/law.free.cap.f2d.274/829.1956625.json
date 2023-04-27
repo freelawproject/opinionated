@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"829\" lastpage=\"829\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b921-4\">Harry GLIMP v. Charles BROSCH, Jr., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b921-7\">No. 6173.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b921-8\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b921-10\">Nov. 18,1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b921-12\">Harry D. Moreland, Tulsa, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b921-13\">Ungerman, Grabel, Ungerman, Leiter &amp; Unruh, Charles A. Whitebook and John T. Gibson, Tulsa, Okl., and Jack B. Sellers, Drumright, Okl., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b921-14\">Before MURRAH, Chief Judge, BREITENSTEIN, Circuit Judge, and CHRISTENSON, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b921-15\">PER CURIAM.</author>\n<p id=\"b921-16\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

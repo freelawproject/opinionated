@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"845\" lastpage=\"845\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b887-24\">No. 10-1044.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"avi-dedup-0\">Ed Strickland, et al., Petitioners v. City of Seattle, Washington.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b887-25\">564 U.S. 1019, 131 S. Ct. 3025,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A0S4\">180 L. Ed. 2d 845,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AY65\">2011 U.S. LEXIS 4602.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b887-26\">June 20, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aaka\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b887-27\">Same case below, 394 Fed. Appx. 407.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

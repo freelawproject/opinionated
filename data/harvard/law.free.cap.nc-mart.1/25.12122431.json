@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"25\" lastpage=\"25\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b33-18\">Edenton,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"ARiA\"><em>-Term </em>1791,</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b33-25\">ARMISTEAD versus ABBALSON.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b33-26\">THE plaintiff declared on a covenant to deliver tar and other articles to a certain amount; the defendant pleaded that he was always ready: the plaintiff could not prove a demand and refusal or neglect, and was nonsuited.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

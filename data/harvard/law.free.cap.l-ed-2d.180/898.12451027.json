@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"898\" lastpage=\"898\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"ArPI\">No. 10-10385.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AVv1\">James Bean, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"Aq5s\">564 U.S. 1043, 131 S. Ct. 3075,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AHYu\">180 L. Ed. 2d 898,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ADIu\">2011 U.S. LEXIS 4880.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"A1Zy\">June 27, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AZCr\">Petition for writ of cer-tiorari to the Appellate Court of Illinois, Fifth District, denied.</p>\n<p id=\"A64g\">Same case below, 402 Ill. App. 3d 1211, 376 Ill. Dec. 797, 1 N.E.3d 130.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

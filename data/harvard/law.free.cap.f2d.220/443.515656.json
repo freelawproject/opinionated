@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"443\" lastpage=\"443\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b495-4\">Olan D. FISHER, a Veteran, v. SKELLY OIL COMPANY, a Corporation.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A0W\">No. 4935.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b495-6\">United States Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b495-7\">March 17, 1955.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b495-9\">William C. Farmer, U. S. Atty., Wichita, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b495-10\">Gayle M. Pickens, and Horace S. Smith, Tulsa, Okl., and William F. Piel-.sticker, Wichita, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b495-11\">Before PHILLIPS, Chief Judge, and MURRAH, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b495-12\">PER CURIAM.</author>\n<p id=\"b495-13\">Dismissed pursuant to stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

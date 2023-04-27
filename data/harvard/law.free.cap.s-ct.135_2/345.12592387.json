@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"345\" lastpage=\"345\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  C.L. \"Butch\" OTTER, Governor of Idaho, et al., applicants,\n  <br/>\n  v.\n  <br/>\n  Susan LATTA, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14A374.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 8, 2014.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   UPON FURTHER CONSIDERATION of the application of counsel for the applicants,\n  </p>\n  <p id=\"p-7\">\n   IT IS ORDERED that the portion of the order issued on this date entering a stay of the mandate of the United States Court of Appeals for the Ninth Circuit in case No. 12-17668 is hereby vacated. The stay entered with respect to the Ninth Circuit's mandate in case Nos. 14-35420 &amp; 14-35421, shall remain in effect pending further order of the undersigned or of the Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

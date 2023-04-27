@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"25\" lastpage=\"25\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b33-27\">Edenton,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"Akr7\">-Term, <em>17</em>91.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b33-28\">EMSLEY <em>versus </em>LEE.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b33-29\">THIS was a suit on a promissory note, to pay \u00a3. 100 sterling, according <em>to the course of exchange. </em>The court said this case is not different from bonds for Virginia money, or Whitmill Hill\u2019s case and others, and charged the jury to find the exchange at 77, 7-9.</p>\n<p id=\"A4L\">N. B. The jury found, however, the real exchange.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

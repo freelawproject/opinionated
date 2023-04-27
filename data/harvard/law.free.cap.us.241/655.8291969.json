@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"655\" lastpage=\"655\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b721-3\">No.-. Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A7j9\"><em>Ex parte: </em>In the Matter of Elbert R. Robinson, Petitioner.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AuS\">Submitted May 22, 1916.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AWIR\">Decided June 5, 1916.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AevG\"><em>Mr. Richard E. Westbrooks </em>for the petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFCB\">Motion for leave to file an amended petition denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

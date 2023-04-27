@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"432\" lastpage=\"432\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b480-32\">George Winfred BENNINGFIELD v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b480-34\">No. 6227.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b480-35\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b480-36\">June 3, 1960.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b480-38\">Donald G. Brotzman, U. S. Atty., and Robert S. Wham, Asst. U. S. Atty., Denver, Colo., for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b480-39\">Before MURRAH, Chief Judge, and BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b480-40\">PER CURIAM.</author>\n<p id=\"b480-41\">Appeal dismissed for failure of appellant diligently to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

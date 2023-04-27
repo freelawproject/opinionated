@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"570\" lastpage=\"570\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b624-42\">James V. FARMER v. Tracy A. HAND, Warden, Kansas State Penitentiary, Lansing, Kansas.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b624-44\">No. 6444.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b624-45\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b624-46\">Nov. 21, 1960.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b624-48\">Carl H. Seeliger, Jr., Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b624-49\">John Anderson, Jr., Atty. Gen., Charles N. Henson, Jr., Asst. Atty. Gen., and J. Richard Foth, Asst. Atty. Gen., State of Kansas, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b624-50\">Before MURRAH, Chief Judge, and BRATTON and PICKETT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b624-51\">PER CURIAM.</author>\n<p id=\"b624-52\">Affirmed without written opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

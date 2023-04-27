@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"826\" lastpage=\"826\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b918-17\">Joe LONDON v. Robert RAINS, Acting Warden, Oklahoma State Penitentiary.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b918-22\">No. 6139.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b918-23\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b918-24\">Sept. 12, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b918-34\">Arthur J. Kane, Jr., Denver, Colo., and Morris G. Gray, Okmulgee, Okl,, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b918-35\">Mac Q. Williamson, Atty. Gen., of Oklahoma, and Mr. Owen J. Watts, Asst. Atty. Gen., of Oklahoma, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b918-36\">Before BRATTON, LEWIS and BREITENSTEIN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b918-37\">PER CURIAM.</author>\n<p id=\"b918-38\">Affirmed without written opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"355\" lastpage=\"355\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b387-3\">Mytheville.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b387-4\">Virginia Stationery Company v. Ocean Accident and Guarantee Corporation, Ltd.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b387-5\">June 17, 1926.</decisiondate>\n<p data-order=\"3\" data-type=\"summary\" id=\"b387-9\">The opinion states the case.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b387-10\"><em>S. L. Sinnott, </em>for the plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b387-11\"><em>B. H. Talley </em>and <em>Jas. H, Price, </em>for\u2019the defendant in error.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b387-12\">Per Curiam.</author>\n<p id=\"b387-13\">Because there is no statement of the facts or of the evidence authenticated by the trial judge, either by certificate or bill of exception, the writ of error which has been allowed in this case is dismissed as improvidently awarded.</p>\n<p id=\"b387-14\">\n<em>Writ dismissed.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

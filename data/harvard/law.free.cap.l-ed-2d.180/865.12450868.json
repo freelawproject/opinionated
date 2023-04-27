@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"865\" lastpage=\"865\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b907-23\">No. 10-10133.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"afzm-dedup-0\">Shawntrail J. Lee, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b907-24\">564 U.S. 1030, 131 S. Ct. 3036,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AupI\">180 L. Ed. 2d 865,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Az23\">2011 U.S. LEXIS 4595.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b907-25\">June 20, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARnD\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n<judges id=\"AtBO\">Justice Kagan took no part in the consideration or decision of this petition.</judges>\n<p id=\"ApM2\">Same case below, 631 F.3d 1343.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"4\" lastpage=\"4\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ADN\">STATE OF MONTANA, Plaintiff, vs. ROBERT GEORGE COVIL, Defendant.</parties>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AX-U\">DECISION</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Ajs\">No. 773</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A8z\">DATED this 12th day of May, 1982.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADY\">The application of the above-named defendant for a review of the sentence of 5 years for theft imposed on November 3,1981, was fully heard and after a careful consideration of the entire matter it is decided that:</p>\n<p id=\"Aq7A\">The Defendant wishes to withdraw his petition for Sentence Review. The petition will be considered no further by the Sentence Review Division.</p>\n<p id=\"A2T\">SENTENCE REVIEW DIVISION</p>\n<judges id=\"A6A\">Leonard Langen, Chairman; Joseph Gary, James Salansky</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

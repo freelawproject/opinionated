@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1193\" lastpage=\"1193\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AFEQ\">CLARK vs. BOARD OF EDUCATION (Detroit),</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AUq2\">No. 16213;</docketnumber>\n<citation data-order=\"2\" data-type=\"citation\" id=\"Ab_6\">4 D. L. N., 141; 71 N. W., 177.</citation>\n<p data-order=\"3\" data-type=\"p\" id=\"ATqS\">(Certiorari to Wayne.)</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b480-5\">To compel the recognition of relator as a member of the respondent board, in a case where relator had sent his resignation to the mayor, who declined to accept it.</p>\n<p id=\"b480-6\">The circuit judge granted the writ. Affirmed May 11, 1897, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"346\" lastpage=\"346\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b350-8\"><em>Circuit Court of the United </em>States.</p>\n<court data-order=\"1\" data-type=\"court\" id=\"b350-9\">Raleigh,</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AfkR\">June Term, 1805.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b350-10\"><em>Dunlop &amp; Co. </em>vs. <em>West, the Marshal.</em></parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b350-11\">\u2018jpER Curiam.</author>\n<p id=\"AFLN\">If the Sheriff or Marshal seizes property in execution, and neglects to se\u00edl\u00edt, and is sued for his neglect, the plaintiff shall recover damages, to the amount of what the property would have produced, had he sold it.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

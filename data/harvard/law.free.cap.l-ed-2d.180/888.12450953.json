@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b930-18\">No. 10-1185.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Atqj\">Jack W. Ligon, Petitioner v. Raymond L. LaHood, Secretary of Transportation.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b930-19\">564 U.S. 1038, 131 S. Ct. 3063,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A0cJ\">180 L. Ed. 2d 888,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ArbN-\">2011 U.S. LEXIS 4885.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b930-20\">June 27, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOQ7\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b930-21\">Same case below, 614 F.3d 150.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

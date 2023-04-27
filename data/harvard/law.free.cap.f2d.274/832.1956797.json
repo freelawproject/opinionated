@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"832\" lastpage=\"832\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b924-38\">James H. PHILLIPS v. STATE OF KANSAS et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b924-40\">No. 6252.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b924-41\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b924-42\">Jan. 6, 1960.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b924-44\">James H. Skinner, Jr., Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b924-45\">John Anderson, Jr., Atty. Gen., of State of Kansas, and J. Richard Foth, Asst. Atty. Gen., of State of Kansas, for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b924-46\">Before MURRAH, Chief Judge, LEWIS, Circuit Judge, and WALLACE, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b924-47\">PER CURIAM.</author>\n<p id=\"b924-48\">Affirmed without written opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

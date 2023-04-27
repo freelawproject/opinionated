@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1011\" lastpage=\"1011\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b939-7\">No. 108,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"ANas\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AX-\">Nebraska <em>v. </em>Wyoming et al.</parties>\n<seealso data-order=\"3\" data-type=\"seealso\" id=\"AldG\">[For earlier order herein, see 479 U. S. 1051.]</seealso>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVHN\">Motion of Wyoming for leave to file a counterclaim granted. Answers to the counterclaim may be filed within 60 days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1288\" lastpage=\"1291\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A-8S\">BEECHER vs. DETROIT,</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AgpO\">No. 15619;</docketnumber>\n<citation data-order=\"2\" data-type=\"citation\" id=\"AjYK\">3 D. L. N., 450; 68 N. W., 237.</citation>\n<p data-order=\"3\" data-type=\"p\" id=\"Ai61\">(Certiorari to Wayne.)</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b510-13\">To compel the City of Detroit to modify an assessment.</p>\n<p id=\"b511-2\"><page-number citation-index=\"1\" label=\"1291\">*1291</page-number>The Circuit Court refused the writ. Affirmed July 28, 1896, with costs.</p>\n<p id=\"b511-3\">Held, that an obligation to pay rent under a lease, by the terms of which the rent fluctuates on revaluation at intervals, is not an unconditional debt within Sec. 9, Act No. 206, Laws of 1895.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

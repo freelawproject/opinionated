@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"4\" lastpage=\"5\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AqBa\">STATE OF MONTANA, Plaintiff, vs. MARK RAY FRITZ, Defendant.</parties>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ASQ\">DECISION</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Ah3\">No. DC-82-043</docketnumber>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AoZ\">The application of the above-named defendant for a review of the sentence of 5 years for theft imposed on March 24,1982, was fully heard and after a careful consideration of the entire matter it is decided that:</p>\n<decisiondate id=\"AES\"><page-number citation-index=\"1\" label=\"5\">*5</page-number>DATED this 13th day of May, 1982.</decisiondate>\n<p id=\"A3F\">The Defendant wishes to withdraw his petition for Sentence Review. The petition will be considered no further by the Sentence Review Division.</p>\n<p id=\"A6U\">SENTENCE REVIEW DIVISION</p>\n<judges id=\"AUV\">Leonard Langen, Chairman; Joseph Gary, James Wheelis</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

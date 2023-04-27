@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"650\" lastpage=\"650\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b716-4\">No.-. Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AXG\"><em>Ex parte: </em>In the Matter of James J. Griffin and Gordon M. Peacock, Petitioners.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"APF\">Submitted April 10, 1916.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AE6\">Decided April 17, 1916.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AUZs\"><em>Mr. Arthur E. Dowell </em>for the petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AsK\">Motion for leave to file petition for a writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

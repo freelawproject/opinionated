@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1003\" lastpage=\"1003\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b963-8\">No. 94,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AvY\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AAQ\">South Carolina <em>v. </em>Baker, Secretary of the Treasury.</parties>\n<seealso data-order=\"3\" data-type=\"seealso\" id=\"AKU\">[For earlier decision herein, see, <em>e. g., </em>485 U. S. 505.]</seealso>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AW9o\">Request of the Honorable Matthew J. Jasen to be discharged as Special Master granted, and he is hereby discharged.</p>\n<judges id=\"ARQv\">Justice Kennedy took no part in the consideration or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

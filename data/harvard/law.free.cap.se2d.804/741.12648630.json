@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"741\" lastpage=\"741\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Eddricco Li'shaun BROWN\n  <br/>\n  v.\n  <br/>\n  STATE of North Carolina\n </parties>\n <docketnumber id=\"p-2\">\n  No. 345P17\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  October 16, 2017\n </decisiondate>\n <attorneys id=\"p-5\">\n  Eddricco Brown, for Brown, Eddrico Li'shaun.\n </attorneys>\n <attorneys id=\"p-6\">\n  Kimberly N. Callahan, Assistant Attorney General, Robert S. Banks, District Attorney, for State of North Carolina\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the application filed by Petitioner on the 16th of October 2017 in this matter for Writ of Habeas Corpus, the following order was entered and is hereby certified to the Superior Court, Mitchell County:\n  </p>\n  <p id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 16th of October 2017.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

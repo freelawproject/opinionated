@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"913\" lastpage=\"913\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b955-3\">No. 10-6865.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A08T\">Miguel Angel Aguilar, Petitioner v. Virginia.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b955-4\">564 U.S. 1053, 131 S. Ct. 3089,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AdrE\">180 L. Ed. 2d 913,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A25\">2011 U.S. LEXIS 5015.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b955-5\">June 28, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"An3V\">Petition for writ of cer-tiorari to the Supreme Court of Virginia denied.</p>\n<p id=\"b955-6\">Same case below, 280 Va. 322, 699 S.E.2d 215.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"611\" lastpage=\"611\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"1\" data-type=\"parties\" id=\"b637-12\" pgmap=\"637\">John A. Logan Warren, appellee, v. Judd Van Sickle et al., appellants.</parties><p data-order=\"0\" data-type=\"\" id=\"b637-11\" pgmap=\"637\">Second District.</p><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ASTp\" pgmap=\"637\">Gen. No. 8,283.</docketnumber><otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Ams\" pgmap=\"637\">Heard in this court at the October term, 1930.</otherdate><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AnN\" pgmap=\"637\">Opinion filed February 18, 1932.</decisiondate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b637-14\" pgmap=\"637\">Welsh &amp; Welsh, for appellants. Knight, Swenson &amp; Penny and Gus S. Brown, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b637-15\" pgmap=\"637\">Mr. Presiding Justice Jett</author> <p id=\"AeU\" pgmap=\"637\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

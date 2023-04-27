@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"194\" lastpage=\"194\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jordain Michael BRASSEAUX\n  <br/>\n  v.\n  <br/>\n  MONCLA MARINE OPERATIONS, LLC, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2019-CC-0477\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 20, 2019\n </decisiondate>\n <history id=\"p-5\">\n  ON WRIT OF CERTIORARI, TO THE COURT OF APPEAL, FIRST CIRCUIT, PARISH OF ST. MARY\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM\n  </author>\n  <p id=\"p-7\">\n   Granted. The district court did not err in finding there were genuine issues of material fact precluding summary judgment. Accordingly, the judgment of the court of appeal is reversed, and the judgment of the district court denying defendants' motion for summary judgment is reinstated. The case is remanded to the district court for further proceedings.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

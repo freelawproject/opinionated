@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"608\" lastpage=\"608\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b660-4\">Merle MOORE v. FISH ENGINEERING CORPORATION.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b660-6\">No. 4946.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b660-7\">United States Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b660-8\">Nov. 2, 1954.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b660-10\">Payne H. Ratner, Payne H. Ratner, Jr., and Keith Eales, Wichita, Kan., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b660-11\">Robert C. Foulston, and Malcolm Miller, Wichita, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b660-12\">Before PHILLIPS, Chief Judge, and KNOUS, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b660-13\">PER CURIAM.</author>\n<p id=\"b660-14\">Appeal dismissed pursuant to stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

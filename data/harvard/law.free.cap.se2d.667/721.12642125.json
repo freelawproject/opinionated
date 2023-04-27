@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"721\" lastpage=\"721\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Gregory ROBINSON, Jr.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 250P08.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 26, 2008.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Daniel P. O'Brien, Assistant Attorney General, C. Colon Willoughby, Jr., District Attorney, for State of NC.\n </attorneys>\n <p id=\"p-6\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Having reviewed petitioner's materials in the above captioned petition (COAPO8-190) on 26 August 2008, the Court\n   <em>\n    ex mero motu\n   </em>\n   directs the state to file a response in this matter. The state shall have thirty (30) days from the date of entry of this order to file and serve its response.\n  </p>\n  <p id=\"p-8\">\n   By order of the Court in Conference, this 26th day of August, 2008.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

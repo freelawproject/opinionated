@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"118\" lastpage=\"118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Caresses PERIQUE\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-KK-0981\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  July 20, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Rehearing denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   JOHNSON, C.J., would grant rehearing.\n  </author>\n  <p id=\"p-7\">\n   GENOVESE, J., would grant the rehearing, citing Arizona v. Gant,\n   <extracted-citation case-ids=\"3653882\" index=\"0\" url=\"https://cite.case.law/us/556/332/\">\n    556 U.S. 332\n   </extracted-citation>\n   (2009).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

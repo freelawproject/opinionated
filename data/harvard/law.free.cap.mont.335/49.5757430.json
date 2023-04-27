@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"49\" lastpage=\"49\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AN9\">STATE OF MONTANA, Plaintiff, vs. ERNEST GEORGE GALLAGHER, Defendant,</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AEA-\">CAUSE No. DC-02-41</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"A5oz\">Nunc Pro Tunc Order to Correct Cause Number</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ai3\">DATED this 14th day of June, 2006.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADG\">The Cause Number on the May 5, 2006 Decision of the Sentence Review Division and on the June 8,2006 Amended Judgment and Commitment was incorrectly listed as DC-04-144.</p>\n<p id=\"ANH\">NOW, THEREFORE, IT IS ORDERED that the Cause Number on the May 5, 2006 Decision of the Sentence Review Division and on the June 8, 2006 Amended Judgment and Commitment, are hereby amended to reflect the actual Cause Number of DC-02-41.</p>\n<judges id=\"AO_2\">Chairperson, Hon. John W. Whelan</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

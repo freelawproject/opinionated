@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"225\" lastpage=\"228\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A9b\">HURST (Pros. Atty.) vs. WARNER (J. of P.),</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AV31\">No. 13974,</docketnumber>\n<citation data-order=\"2\" data-type=\"citation\" id=\"A3qu\">102 M., 238.</citation>\n<p data-order=\"3\" data-type=\"court\" id=\"Ae6\">(Certiorari to Chippewa.)</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b140-13\">To compel respondent to issue a warrant .for the violation of a rule adopted by the State Board of Health under Act No. 17, <page-number citation-index=\"1\" label=\"228\">*228</page-number>Laws of 1893, relative to the disinfection of baggage coming from infected localities.</p>\n<p id=\"b141-3\">Denied September 27, 1894.</p>\n<p id=\"b141-4\">Held, that the rule was not warranted by the statute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

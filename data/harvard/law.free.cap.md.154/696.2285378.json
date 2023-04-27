@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"696\" lastpage=\"696\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b720-3\">HAROLD E. GRIEST <em>v. </em>MARY KELLY GRIEST.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b720-4\">[No. 87,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ap2W\">October Term, 1927.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b720-7\"><em>Decided February </em>2nd, <em>1928.</em></decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b720-10\">The cause was argued before Bond, C. <em>J., </em>Pattison, Ubneb, Adkins, Oeeutt, Digges, Pabke, and Sloan, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b720-11\"><em>Frederick Lee </em>Cobourn, for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b720-12\"><em>Robert H. </em>Archer, for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b720-13\">Adkins, J.,</author>\n<p id=\"AhU\">delivered the opinion of the Court, affirming the decree, with costs to the appellee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

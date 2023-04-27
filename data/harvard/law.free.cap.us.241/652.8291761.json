@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"652\" lastpage=\"653\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b718-6\">No.-. Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A0xd\"><em>Ex parte: </em>In the Matter of Elbert R. Robinson, Petitioner.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"Aus\">Submitted April 28, <page-number citation-index=\"1\" label=\"653\">*653</page-number>1916.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AKAX\">Decided May 8, 1916.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ASEd\"><em>Mr. George W. Ellis </em>for the petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AI_Q\">Motion for leave to file petition denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

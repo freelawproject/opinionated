@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b930-22\">No. 10-1299.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ADzv\">Josephine S. Miller, Petitioner v. Praxair, Inc., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b930-23\">564 U.S. 1038, 131 S. Ct. 3067,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"abcf-dedup-0\">180 L. Ed. 2d 888,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AGtc\">2011 U.S. LEXIS 4890.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b930-24\">June 27, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACHx\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<p id=\"b930-25\">Same case below, 408 Fed. Appx. 408.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

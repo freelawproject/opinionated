@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"256\" lastpage=\"256\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b298-14\">No. 10-10120.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A-L5\">Harry Smith, Jr., Petitioner v. Harold W. Clarke, Director, Virginia Department of Corrections.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b298-15\">563 U.S. 1038, 131 S. Ct. 2972,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AgP4\">180 L. Ed. 2d 256,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ah9_\">2011 U.S. LEXIS 4337.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b298-16\">June 6, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AuRg\">Petition for writ of certio-rari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b298-3\">Same case below, 406 Fed. Appx. 701.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

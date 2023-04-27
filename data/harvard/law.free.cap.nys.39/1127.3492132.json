@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1127\" lastpage=\"1127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1151-7\">LINCOLN NAT. BANK OF NEW YORK, Respondent, v. KIRK et al., Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Ah1O\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AW9\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AXNK\">May 23, 1896.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AQOZ\">Action by the Lincoln National Bank of the City of New York against Harford B. Kirk and others.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AAS\">G. P. Smith, for appellants. Dittcnhoefcr. Gerber &amp; James, for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1151-8\">McCARTHY, j.</author>\n<p id=\"AUC\">We think the court properly directed a verdict for the plaintiff, and the evidence warranted it. Stillman v. Northrup, 109 N. Y. 473, 17 N. E. 379; Baldwin v. Doying, 114 N. Y. 457, 21 N. E. 1007. Judgment affirmed, with costs. All concur.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

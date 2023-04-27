@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"483\" lastpage=\"483\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  George E. BURDICK\n  <br/>\n  v.\n  <br/>\n  Mary Kate BURDICK.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 556P07.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  January 24, 2008.\n </decisiondate>\n <attorneys id=\"p-5\">\n  George E. Burdick, Pro Se, for Burdick.\n </attorneys>\n <attorneys id=\"p-6\">\n  Lloyd C. Smith, Jr., Windsor, for Mary Kate Burdick.\n </attorneys>\n <p id=\"p-7\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Plaintiff on the 16th day of November 2007 in this matter for a writ of certiorari to review the order of the North Carolina Court of Appeals, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-9\">\n   \"Dismissed by order of the Court in conference, this the 24th day of January 2008.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

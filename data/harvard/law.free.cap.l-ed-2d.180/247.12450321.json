@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"247\" lastpage=\"247\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b289-3\">No. 10-1232.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"atq-dedup-1\">Analytical Diagnostic Labs, Inc., Petitioner v. Betty Kusel, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b289-4\">563 U.S. 1033, 131 S. Ct. 2970,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aqe-dedup-0\">180 L. Ed. 2d 247,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AzKP\">2011 U.S. LEXIS 4320.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b289-5\">June 6, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ack-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<p id=\"b289-6\">Same case below, 626 F.3d 135.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

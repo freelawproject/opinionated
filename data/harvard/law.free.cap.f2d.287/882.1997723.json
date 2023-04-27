@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"882\" lastpage=\"882\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b936-15\">Franklin O\u2019Neal BUTLER, alias Wilbur Carl Sweeten, v. Clarence O. HURT, Sheriff of Pittsburg County, Oklahoma.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b936-17\">No. 6576.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b936-18\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b936-19\">Jan. 6, 1961.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b936-21\">Robert M. Kelly, Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b936-22\">Owen J. Watts, Asst. Atty. Gen., State of Oklahoma, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b936-23\">Before MURRAH, Chief Judge, and BRATTON and BREITENSTEIN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b936-24\">PER CURIAM.</author>\n<p id=\"b936-25\">Dismissed on ground appeal was moot.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

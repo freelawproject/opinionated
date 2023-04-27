@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"443\" lastpage=\"443\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b495-15\">Ellis NASIF v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b495-17\">No. 5087.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b495-18\">United States Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b495-19\">March 17, 1955.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b495-23\">No appearance for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b495-24\">Frank D. McSherry, U. S. Atty., and Harry G. Fender, Asst. U. S. Atty., Muskogee, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b495-25\">Before PHILLIPS, Chief Judge, and MURRAH, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b495-26\">PER CURIAM.</author>\n<p id=\"b495-27\">Dismissed on court\u2019s own motion for failure of appellant diligently to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

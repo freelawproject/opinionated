@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"520\" lastpage=\"520\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b522-9\">Ellen M. Sargent, Petitioner for Annulment of Marriage.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b522-10\">Hancock County.</court>\n<p data-order=\"2\" data-type=\"headnotes\" id=\"A1P\">Reported to the Law Court.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Att\">Under date of December 16, 1910,</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A5c\"><em>Jonathan P. Gilley, </em>for petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AM_S\">a per curiam rescript was issued which reads as follows: \"Upon the motion of the petitioner\u2019s counsel in this case, it is ordered that the report be discharged and the case remanded for further hearing in the court below.\u201d</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"111\" lastpage=\"111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Edward MOZIE, Petitioner,\n  <br/>\n  v.\n  <br/>\n  The STATE of Florida, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D15-0434\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed March 6, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Edward Mozie, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Ashley Moody, Attorney General, for respondent, the State of Florida.\n </attorneys>\n <judges id=\"p-7\">\n  Before SALTER, LINDSEY, and MILLER, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   MILLER, J.\n  </author>\n  <p id=\"p-9\">\n   Upon review of the petition for writ of habeas corpus, it is ordered that said petition is dismissed.\n   <em>\n    See\n   </em>\n   <em>\n    Baker v. State\n   </em>\n   ,\n   <extracted-citation case-ids=\"9194876\" index=\"0\" url=\"https://cite.case.law/so-2d/878/1236/\">\n    878 So.2d 1236\n   </extracted-citation>\n   (Fla. 2004).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

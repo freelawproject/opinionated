@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"21\" lastpage=\"21\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b45-7\">Roy Chumbley v. The State.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b45-8\">No. 20485.</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ale\">Delivered May 3, 1939.</decisiondate>\n<p data-order=\"3\" data-type=\"summary\" id=\"b45-12\">The opinion states the case.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b45-13\"><em>Ed Hoover, Jr., </em>of Canadian, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b45-14\"><em>Lloyd W. Davidson, </em>State\u2019s Attorney, of Austin, for the State.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AJ\">GRAVES, Judge.</author>\n<p id=\"b45-15\">The same facts are herein alleged as were presented in our No. 20484, Manuel Herring, opinion this day handed down, and the same proceedings were had herein as set forth in our No. 20484, (page 20 <em>of </em>this volume) and for the same reasons as therein set forth this cause is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

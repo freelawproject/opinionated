@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"475\" lastpage=\"475\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  MARICOPA COUNTY, ARIZONA, et al., applicants,\n  <br/>\n  v.\n  <br/>\n  Angel LOPEZ-VALENZUELA, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14A493.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Nov. 7, 2014.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   UPON CONSIDERATION of the application of counsel for the applicants,\n  </p>\n  <p id=\"p-7\">\n   IT IS ORDERED that the issuance of the mandate of the United Court of Appeals for the Ninth Circuit in case No. 11-16487, is hereby stayed pending receipt of a response, due on or before Monday, November 10, 2014, by noon ET, and further order of the undersigned or of the Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

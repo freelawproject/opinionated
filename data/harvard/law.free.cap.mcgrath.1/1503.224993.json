@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1503\" lastpage=\"1503\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Af4\">COFFIN vs. BOARD OF EDUCATION (Detroit),</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A3JV\">No. 16357,</docketnumber>\n<citation data-order=\"2\" data-type=\"citation\" id=\"AVLa\">4 D. L. N., 609.</citation>\n<p data-order=\"3\" data-type=\"p\" id=\"Ak7\">(Certiorari to Wayne.)</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b583-12\">To compel respondent to pay relator\u2019s salary as teacher.</p>\n<p id=\"b583-13\">The circuit judge granted the writ. Reversed and writ denied September 14, 1897.</p>\n<p id=\"b583-14\">Held, that where a contract of employment entered into between a teacher and a board of education had been terminated by the board, mandamus will not lie to review the action of the board and compel payment of salary under such contract.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

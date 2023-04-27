@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"233\" lastpage=\"233\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b275-14\">No. 10-10066.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"akb-dedup-1\">Quantrell M. Kelson, Petitioner v. Louisiana.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b275-15\">563 U.S. 1026, 131 S. Ct. 2941,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A4e2\">180 L. Ed. 2d 233,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A7k\">2011 U.S. LEXIS 4098.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b275-16\">May 31, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Afs\">Petition for writ of certiorari to the Court of Appeal of Louisiana, Fourth Circuit, denied.</p>\n<p id=\"b275-17\">Same case below, 40 So. 3d 1194.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

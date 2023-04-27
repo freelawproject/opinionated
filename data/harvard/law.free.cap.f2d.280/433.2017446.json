@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"433\" lastpage=\"433\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"3\" data-type=\"parties\" id=\"b481-31\">TIDEWATER OIL COMPANY v. Dennis F. WALLER.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"b481-33\">No. 6409.</docketnumber>\n<court data-order=\"5\" data-type=\"court\" id=\"b481-34\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b481-35\">June 25, 1960.</decisiondate>\n<attorneys data-order=\"0\" data-type=\"attorneys\" id=\"b481-6\">Covington &amp; Gibbon, Tulsa, Okl., for appellant.</attorneys>\n<attorneys data-order=\"1\" data-type=\"attorneys\" id=\"b481-7\">Floyd L. Walker, Tulsa, Okl., for ap-pellee.</attorneys>\n<p data-order=\"2\" data-type=\"judges\" id=\"b481-8\">Before MURRAH, Chief Judge, and PHILLIPS, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b481-13\">PER CURIAM.</author>\n<p id=\"b481-14\">Appeal dismissed on motion of appel-lee, on the ground that the order appealed from was an order granting a motion for a new trial and was not a final and appealable order.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

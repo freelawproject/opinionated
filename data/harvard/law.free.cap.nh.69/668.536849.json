@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"668\" lastpage=\"668\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b696-4\">Carroll,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ASN\">Dec., 1897.</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b696-5\">Conway Savings Bank <em>v. </em>Dow <em>&amp; a.</em></parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A8p\"><em>John C. L. Wood, </em>for the plaintiffs.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AEj\"><em>Worcester, Gafney \u00a3 Snow </em>and <em>John B. Nash, </em>for the defendants.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b696-6\">Chase, J.</author>\n<p id=\"AyV\">The question reserved is decided in <em>Conway Savings Bank </em>v. <em>Dow, ante, p. </em>228.</p>\n<p id=\"b696-7\">\n<em>Case discharged.</em>\n</p>\n<judges id=\"b696-8\">Clark, J;, did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

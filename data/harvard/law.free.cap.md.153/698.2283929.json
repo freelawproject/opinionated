@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"698\" lastpage=\"698\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b722-3\">WILLIAM F. BAKER et al. <em>v. </em>ROBERT S. WIMBROW et al.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b722-8\">\n<em>Decided April 30th, 1927.</em>\n</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b722-11\">The cause was submitted on briefs to Bond, C. J., Patti-son, Ubneb, Adkins, Oeeutt, Digges, Pabke, and Sloan, JJ.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b722-12\"><em>Johnson &amp; Johnson, </em>for the appellants.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b722-13\"><em>F. Leonard Waides, Owrroll E. Bounds, </em>and <em>Woodcock &amp; Webb, </em>for the appellees.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b722-14\">Bond, C. J.,</author>\n<p id=\"ANr\">delivered the opinion of the Court, dismissing the appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

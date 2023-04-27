@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"434\" lastpage=\"434\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b482-3\">Helen M. ANDERSON and William M. Anderson v. HUDSPETH PINE, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b482-5\">No. 6373.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b482-6\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b482-7\">June 4, 1960.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b482-9\">Martin P. Miller, Robert E. McLean, Marjorie W. McLean and Patricia W. Wotkyns, Denver, Colo., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AiG\">\u25a0 Wormwood, O\u2019Dell &amp; Wolvington, Denver, Colo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b482-10\">Before BRATTON, PICKETT and LEWIS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b482-11\">PER CURIAM. '</author>\n<p id=\"b482-12\">Appeal dismissed on motion of appel-lee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

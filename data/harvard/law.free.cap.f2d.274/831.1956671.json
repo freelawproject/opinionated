@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"831\" lastpage=\"831\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b923-25\">NATIONAL FIDELITY LIFE INSURANCE COMPANY v. James B. HENDERSON.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b923-27\">No. 6248.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b923-30\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b923-31\">Dec. 5, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b923-33\">Doerner, Stuart, Moreland, Campbell &amp; Saunders, Tulsa, Okl., and Morrison, Hecker, Buck &amp; Cozad, Kansas City, Mo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b923-34\">Brown, Brown and Brown, McAlester, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b923-35\">Before MURRAH, Chief Judge, and BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b923-13\">PER CURIAM.</author>\n<p id=\"b923-14\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

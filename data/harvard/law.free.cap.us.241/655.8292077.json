@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"655\" lastpage=\"656\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b721-7\">No.-. Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ALzG\"><em>Ex parte: </em>In the Matter of Watts, Watts &amp; Co., Ltd., Petitioner.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"A6C\">Submitted June 5, <page-number citation-index=\"1\" label=\"656\">*656</page-number>1916.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Agnn\">Decided June 12, 1916.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aq-c\"><em>Mr. J. Parker Kirlin, Mr. John M. Woolsey </em>and <em>Mr. Mark W. Maclay, Jr., </em>for petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"An7\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

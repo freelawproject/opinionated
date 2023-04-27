@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"532\" lastpage=\"532\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"AsiB\">No.-. Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A54\"><em>Ex parte: </em>In the Matter of Charles W. Coon, Petitioner.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"An2\">Submitted October 8, 1918.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AF0\">Decided October 21, 1918.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ABM8\">\n<em>Mr. Charles W. Coon pro se.</em>\n</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAA\">Motion for leave to file petition for writ of <em>habeas corpus </em>d\u00e9nied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"697\" lastpage=\"697\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b721-4\">MABELLE RAWSON HIRONS <em>v. </em>JULIAN B. HUBBELL.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b721-9\">\n<em>Decided July 8th, 1897.</em>\n</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b721-12\">The cause was argued before Bond, O. J., Pattison, Urner, Adkins, Oeetjtt, Digges, Parke, and Sloan, JJ.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b721-13\"><em>Edgar Allan Poe, </em>with whom were <em>Bartlett, Poe &amp; Olaggett </em>on the brief, for the appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b721-14\"><em>Robert Peter, Jr., </em>and <em>Albert M. Bouic, </em>for the appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b721-15\">Sloan, J.,</author>\n<p id=\"AsD\">delivered the opinion of the Court, affirming the order dismissing the petition.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

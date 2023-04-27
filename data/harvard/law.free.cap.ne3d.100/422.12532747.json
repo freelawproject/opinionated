@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"422\" lastpage=\"422\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Miracle\n  <br/>\n  v.\n  <br/>\n  Dept. of Veterans' Servs.\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0562\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  June 20, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <history id=\"p-6\">\n  APPEALS ACCEPTED FOR REVIEW\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   O'Donnell, J., would accept the cause on proposition of law No. I only.\n  </author>\n  <p id=\"p-8\">\n   Kennedy and DeGenaro, JJ., dissent.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"883\" lastpage=\"884\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b937-39\">UNITED STATES of America, v. John Randolph HOPKINS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b937-41\">No. 6625.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b937-42\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b937-43\">Feb. 13, 1961.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b937-45\">James A. Borland, U. S. Atty., and J. G. Ryan, Asst. U. S. Atty., Albuquerque, N. M., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b938-3\"><page-number citation-index=\"1\" label=\"884\">*884</page-number>Garland &amp; Martin, Las Cruces, N. M., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b938-4\">Before MURRAH, Chief Judge, and BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b938-5\">PER CURIAM.</author>\n<p id=\"b938-6\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

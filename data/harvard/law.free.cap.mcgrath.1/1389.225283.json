@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1389\" lastpage=\"1389\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A4NB\">CITY OF MUSKEGON vs. SODERBERG (Co. Treas.),</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ab3\">No. 15968;</docketnumber>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b545-5\">3 D. L. N., 766; 69 N. W., 1116.</citation>\n<p data-order=\"3\" data-type=\"court\" id=\"AHo\">(Certiorari to Muskegon.)</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b545-6\">To compel payment over to the city treasurer of certain delinquent real estate taxes collected by respondent.</p>\n<p id=\"b545-7\">The circuit judge granted the writ.</p>\n<p id=\"b545-8\">Affirmed February 2, 1897, rvith costs.</p>\n<p id=\"b545-9\">The respondent claimed the right to offset the amount due the county for delinquent personal taxes, for which respondent had issued his warrant to the city treasurer to collect.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

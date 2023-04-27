@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"646\" lastpage=\"646\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  SENIOR RIDE CONNECTION, f/k/a ITNCharleston Trident, Appellant,\n  <br/>\n  v.\n  <br/>\n  ITNAMERICA, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  Appellate Case No. 2017-000024\n </docketnumber>\n <court id=\"p-3\">\n  Court of Appeals of South Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  September 8, 2017\n </decisiondate>\n <p id=\"p-5\">\n  ORDER\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   It appears to the satisfaction of the Court that the above case has been fully and finally settled by agreement between the parties. Accordingly, this matter is dismissed. The remittitur will be sent as provided by Rule 221(b) of the South Carolina Appellate Court Rules.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"569\" lastpage=\"569\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b623-17\">Severt H. REITHER v. Raymond HOUGH, Trustee in Bankruptcy.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b623-19\">No. 6303.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b623-20\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b623-21\">Nov. 3, 1960.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b623-22\">Appeal from the United States District Court for the District of Colorado. No attorney for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b623-23\">Frederick P. Cranston and L. James Arthur, Denver, Colo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b623-24\">Before MURRAH, Chief Judge, and BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b623-25\">PER CURIAM.</author>\n<p id=\"b623-26\">Appeal dismissed on joint motion of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"700\" lastpage=\"700\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b724-3\">ARTHUR SWANN <em>v. </em>STATE OF MARYLAND.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b724-6\">\n<em>Decided July 8th, 1927.</em>\n</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b724-9\">The cause was argued before Bond, O. <em>J., </em>Pattison, Adkins, Okfutt, Pabke, and Sloan, JJ.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b724-10\"><em>Milton Dashiell, </em>with whom was <em>George L. Fornoff </em>on the Jarief, for the appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b724-11\"><em>John Huhner Rice, Assistant Attorney General, </em>with whom were <em>Thomas H. Robinson, Attorney General, </em>and <em>Ferdinand C. Cooksey, State\u2019s Attorney for Charles County, </em>on the brief, for the State.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b724-12\">Bond, C. J.,</author>\n<p id=\"ApeK\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

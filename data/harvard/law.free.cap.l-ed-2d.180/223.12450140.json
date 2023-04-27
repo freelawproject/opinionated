@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"223\" lastpage=\"223\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b265-2\">No. 09-1232.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a1g-dedup-0\">California State Republican Legislator Intervenors, et al., Appellants v. Marciano Plata, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b265-3\">563 U.S. 1018, 131 S. Ct. 2929,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Amd\">180 L. Ed. 2d 223,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A-O\">2011 U.S. LEXIS 4043.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b265-4\">May 31, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AH7\">Appeal from the United States District Courts for the Eastern District and the Northern District of California. The Court affirmed the judgment below in Brown v. Plata, 563 U.S. 493, 131 S. Ct. 1910, 179 L. Ed. 2d 969 (2011). Therefore, the appeal is dismissed.</p>\n<p id=\"b265-5\">Same case below, 922 F. Supp. 2d 882.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

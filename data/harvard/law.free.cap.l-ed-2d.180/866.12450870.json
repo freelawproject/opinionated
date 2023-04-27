@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"866\" lastpage=\"866\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b908-7\">No. 10-10515.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"arub-dedup-0\">John F. Reap, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b908-8\">564 U.S. 1030, 131 S. Ct. 3040,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Az_X\">180 L. Ed. 2d 866,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AfNul\">2011 U.S. LEXIS 4714.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b908-9\">June 20, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AYM_\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"AMGs\">Justice Sotomayor took no part in the consideration or decision of this petition.</judges>\n<p id=\"b908-10\">Same case below, 391 Fed. Appx. 99.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

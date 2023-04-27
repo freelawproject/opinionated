@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"227\" lastpage=\"227\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b269-14\">No. 10-1328.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AMT\">S. P. Davis, Sr., et al., Petitioners v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b269-15\">563 U.S. 1022, 131 S. Ct. 2943,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ahs-dedup-0\">180 L. Ed. 2d 227,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"as5-dedup-0\">2011 U.S. LEXIS 4148.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b269-16\">May 31, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUx\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"AXcc\">Same case below, 402 Fed. Appx. 915.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

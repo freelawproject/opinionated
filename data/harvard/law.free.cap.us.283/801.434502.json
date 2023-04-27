@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b863-6\">No. \u2014, original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AI7\">Washington <em>v. </em>Oregon.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AqVC\">Submitted May 4, 1931.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AbD\">Decided May 18, 1931.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AiVi\"><em>Messrs. John H. Dunbar, </em>Attorney General of Washington, and <em>John C. Hurspool, </em>Assistant Attorney General, for complainant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ARrh\">No appearance for defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlGC\">The motion for leave to file bill of complaint herein is granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

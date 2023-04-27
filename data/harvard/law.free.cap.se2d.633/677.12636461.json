@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"677\" lastpage=\"677\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Tinya CHERNEY\n  <br/>\n  v.\n  <br/>\n  NORTH CAROLINA ZOOLOGICAL PARK.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 606A04-2.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  June 29, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Michael W. Clark, Joe Thomas Knott, III, Raleigh, for Tinya Cherney.\n </attorneys>\n <attorneys id=\"p-6\">\n  William H. Borden, Assistant Attorney General, for N.C. Zoological Park.\n </attorneys>\n <p id=\"p-7\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Plaintiff on the 8th day of May 2006 in this matter for a writ of mandamus, the following order was entered and is hereby certified to the NC Industrial Commission:\n  </p>\n  <p id=\"p-9\">\n   \"Allowed by order of the Court in Conference this the 29th day of June 2006.\"\n  </p>\n  <judges id=\"p-10\">\n   Justices NEWBY and TIMMONS-GOODSON recused.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

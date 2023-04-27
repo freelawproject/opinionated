@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"773\" lastpage=\"773\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael A. McNEIL, petitioner,\n  <br/>\n  v.\n  <br/>\n  Sarah P. McNEIL.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-10683.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 8, 2014.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Motion of petitioner for reconsideration of order denying leave to proceed\n   <em>\n    in forma pauperis\n   </em>\n   denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

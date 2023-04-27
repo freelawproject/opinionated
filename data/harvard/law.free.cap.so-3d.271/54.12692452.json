@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"54\" lastpage=\"54\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Wallace C. JONES, Jr., Appellant,\n  <br/>\n  v.\n  <br/>\n  The STATE of Florida, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D18-2578\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed January 23, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Wallace C. Jones, Jr., in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Ashley Brooke Moody, Attorney General, for appellee.\n </attorneys>\n <judges id=\"p-7\">\n  Before EMAS, C.J., and SALTER and FERNANDEZ, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Pursuant to Rule 9.141(b), Florida Rules of Appellate Procedure, we treat Wallace Jones' petition for writ of certiorari as an appeal taken from an order summarily denying his motion for postconviction relief under Rule 3.850, Florida Rules of Criminal Procedure. Finding no error in the trial court's determination, we affirm.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

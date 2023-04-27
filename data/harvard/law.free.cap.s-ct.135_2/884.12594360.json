@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"884\" lastpage=\"884\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Clyde REED, et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  TOWN OF GILBERT, ARIZONA, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-502.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 15, 2014.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Motion of the Solicitor General for leave to participate in oral argument as\n   <em>\n    amicus curiae\n   </em>\n   and for divided argument granted.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

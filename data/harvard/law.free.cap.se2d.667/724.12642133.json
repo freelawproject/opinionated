@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"724\" lastpage=\"724\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  CRAIG\n  <br/>\n  v.\n  <br/>\n  BOARD OF EDUCATION.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 484PA07.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  October 1, 2008.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Bruce Robinson, Wilmington, Burton Craige, Raleigh, for Craig.\n </attorneys>\n <attorneys id=\"p-6\">\n  David A. Nash, Wilmington, for Board of Education.\n </attorneys>\n <attorneys id=\"p-7\">\n  Barbara B. Weyher, T. Carlton Younger, III, Raleigh, Allison Schafer, Legal Counsel, for NC School Boards Asso.\n </attorneys>\n <opinion id=\"p-8\">\n  The following order has been entered on the motion filed on the 23rd day of September 2008 by Police Benevolent Assoc. for leave to file Amicus Curiae Brief:\n </opinion>\n <opinion id=\"p-9\">\n  \"Motion Denied. By order of the Court in conference this the 1st day of October 2008.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-10\">\n   Justice EDMUNDS recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

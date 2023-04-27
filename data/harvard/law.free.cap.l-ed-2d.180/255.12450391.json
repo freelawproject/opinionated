@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"255\" lastpage=\"255\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b297-22\">No. 10-10022.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ayu-dedup-0\">George Benton, Petitioner v. Raymond Booker, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b297-23\">563 U.S. 1038, 131 S. Ct. 2971,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A2jJ\">180 L. Ed. 2d 255,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A3Lo\">2011 U.S. LEXIS 4303.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b297-24\">June 6, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aeb-dedup-1\">Petition for writ of certio-rari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n<p id=\"b297-25\">Same case below, 403 Fed. Appx. 984.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

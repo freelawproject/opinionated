@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"335\" lastpage=\"336\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b339-5\">\n<em>Court of Conference,</em>\n</p>\n<court data-order=\"1\" data-type=\"court\" id=\"b339-6\">Raleigh,</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIR\">December Term, 1804.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"ArAL\"><em>Churchill and Lamotte </em>vs. <em>Howard.</em></parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b339-7\">fpHE question here was, whether the defendant, who was \u2022*- executor, could plead judgments obtained against him since <page-number citation-index=\"1\" label=\"336\">*336</page-number>tbe last continuance : and the court now decided that the defendant must plead at first the true state of his assets ; otherwise he might delay the plaintiffs until after a bond debt become payable \u2014 then suff ;r judgment in that, and bar the present plaintiff by pleading a judgment upon a debt not due till long alter the commencement of the present suit.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

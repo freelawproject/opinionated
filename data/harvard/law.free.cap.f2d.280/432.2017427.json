@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"432\" lastpage=\"432\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"3\" data-type=\"parties\" id=\"b480-25\">John E. BURKE v. Robert RAINES, Warden, Oklahoma State Penitentiary.</parties>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"b480-27\">No. 6350.</docketnumber>\n<court data-order=\"5\" data-type=\"court\" id=\"b480-28\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b480-29\">June 1, 1960.</decisiondate>\n<attorneys data-order=\"0\" data-type=\"attorneys\" id=\"b480-7\">Kerwin H. Fulton, Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"1\" data-type=\"attorneys\" id=\"b480-8\">Mac Q. Williamson, Atty. Gen., of Oklahoma, and Owen J. Watts, Asst. Atty. Gen., of Oklahoma, for appellee.</attorneys>\n<p data-order=\"2\" data-type=\"judges\" id=\"b480-9\">Before BRATTON, PICKETT and LEWIS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b480-10\">PER CURIAM.</author>\n<p id=\"b480-11\">Affirmed without written opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

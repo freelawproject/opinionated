@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"830\" lastpage=\"830\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b872-9\">No. 10-10166.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ah7-dedup-0\">Basil W. Akbar, Petitioner v. Anthony J. Padula, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b872-10\">564 U.S. 1009, 131 S. Ct. 3001,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"apa-dedup-1\">180 L. Ed. 2d 830,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AclP\">2011 U.S. LEXIS 4400,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b872-11\">June 13, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2_B\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b872-12\">Same case below, 404 Fed. Appx. 733.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

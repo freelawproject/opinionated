@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1262\" lastpage=\"1262\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX REL. HOBART\n  <br/>\n  v.\n  <br/>\n  INDUS. COMM.\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1241\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  October 25, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Pursuant to R.C. 2710.06(B)(1), the court has been notified that the parties in this case have reached a settlement. The case is returned to the regular docket under S.Ct.Prac.R. 19.01. Within 60 days, appellant shall file an application for dismissal or file a merit brief in accordance with Supreme Court Rules of Practice. This case will be dismissed for want of prosecution if an application for dismissal or merit brief is not filed within 60 days.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

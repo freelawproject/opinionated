@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1093\" lastpage=\"1093\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Willard BRYANT, Appellant,\n  <br/>\n  v.\n  <br/>\n  The STATE of Florida, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D19-114\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed February 13, 2019\n  <br/>\n  Rehearing Denied March 25, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Willard Bryant, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Ashley Moody, Attorney General, for appellee.\n </attorneys>\n <judges id=\"p-7\">\n  Before FERNANDEZ, LOGUE and SCALES, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n   <em>\n    See\n   </em>\n   <em>\n    Franklin v. State\n   </em>\n   ,\n   <extracted-citation case-ids=\"12682731\" index=\"0\" url=\"https://cite.case.law/so-3d/258/1239/\">\n    258 So.3d 1239\n   </extracted-citation>\n   (Fla. 2018).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

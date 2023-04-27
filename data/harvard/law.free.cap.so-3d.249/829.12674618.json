@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"829\" lastpage=\"829\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Billy Joseph NORTH\n  <br/>\n  v.\n  <br/>\n  Melinda DOUCET and Jon Gegenheimer, in His Official Capacity as Clerk of Court for the Parish of Jefferson, State of Louisiana\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-C-1294\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  August 3, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   GUIDRY, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

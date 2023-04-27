@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"856\" lastpage=\"856\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b898-15\">No. 10-10094.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AKS3\">Anthony Bell, Petitioner v. Louisiana.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b898-16\">564 U.S. 1025, 131 S. Ct. 3035,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AHyv\">180 L. Ed. 2d 856,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AmAt\">2011 U.S. LEXIS 4690.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b898-17\">June 20, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AeqX\">Petition for writ of cer-tiorari to the Supreme Court of Louisiana denied.</p>\n<p id=\"b898-18\">Same case below, 53 So. 3d 437.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

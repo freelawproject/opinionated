@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"622\" lastpage=\"622\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A_Ac\">MESSENGER vs. TEAGAN (Justice of the Peace),</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Auzl\">No. 14960,</docketnumber>\n<citation data-order=\"2\" data-type=\"citation\" id=\"Ai32\">106 M., 654.</citation>\n<p data-order=\"3\" data-type=\"p\" id=\"Azno\">Certiorari to Wayne.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b281-7\">To compel respondent to issue a summons, under Act No. 460, Local Acts 1895, where the amount, the recovery of which is sought, exceeds $300.</p>\n<p id=\"b281-8\">The circuit judge denied the writ, holding the act unconstitutional.</p>\n<p id=\"b281-9\">Reversed and writ granted October 8, 1895, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"568\" lastpage=\"568\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b622-39\">LANE-MORSE LUMBER COMPANY, Inc., a corporation, v. UNITED STATES FIDELITY AND GUARANTY COMPANY, a corporation.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b622-41\">No. 6492.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b622-42\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b622-43\">Nov. 3, 1960.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b622-45\">Edwin Langley, Muskogee, Okl., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b622-46\">Fite &amp; Robinson, Muskogee, Okl., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b622-47\">Before MURRAH, Chief Judge, and\u2019 BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b622-48\">PER CURIAM.</author>\n<p id=\"b622-49\">Appeal dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

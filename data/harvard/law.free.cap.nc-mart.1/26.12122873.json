@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"26\" lastpage=\"26\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b34-4\">Edenton,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"ApD\">\n<em>\u2014 Term, 17\u2014.</em>\n</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ALi\">CHARLTON\u2019s EXECUTORS <em>versus </em>LAWRY's EXECUTORS.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b34-6\">ASSUMPSIT, on an account for fees as an attorney. <em>Iredell </em>for plaintiff moved to prove the account by testator's books under the book debt act<footnotemark>*</footnotemark>; which the court objected, as the record of the business done would be better evidence; but on hearing Iredell contra, who argued on the hardship of the case and a reason suggested by <em>Johnston, </em>that the record would not always be the best evidence in such case, because the attorney might enter his appearance without being employed, the court allowed the books to be given in evidence, the sum being under \u00a3, 30.</p>\n<footnote label=\"*\">\n<p id=\"Ag\"><em> </em>1756, 6, 171.</p>\n</footnote>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

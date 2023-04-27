@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"235\" lastpage=\"235\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b277-28\">No. 10-10242.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"amq-dedup-0\">Luis Nava, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b277-29\">563 U.S. 1027, 131 S. Ct. 2945,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"apn-dedup-0\">180 L. Ed. 2d 235,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A5RB\">2011 U.S. LEXIS 4175.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b277-30\">May 31, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8Uz\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b277-31\">Same case below, 624 F.3d 226.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

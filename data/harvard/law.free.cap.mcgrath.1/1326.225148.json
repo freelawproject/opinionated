@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1326\" lastpage=\"1326\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AM3\">BOARD OF SUPERVISORS (Bay) vs. BOARD OF SUPERVISORS (Arenac),</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AYLK\">No. 15669,</docketnumber>\n<citation data-order=\"2\" data-type=\"citation\" id=\"AsNL\">3 D. L. N., 601.</citation>\n<p data-order=\"3\" data-type=\"p\" id=\"AXD\">(Certiorari to Bay.)</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b521-5\">To compel respondent to raise by tax amounts apportioned to Bay County for State taxes, and which were paid by that county, but which should have, been paid by Arenac.</p>\n<p id=\"b521-6\">The circuit judge denied the writ. Affirmed December 9, 1896, with costs.</p>\n<p id=\"b521-7\">Field, that where money has been paid by one county to the use of another, mandamus will not lie.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

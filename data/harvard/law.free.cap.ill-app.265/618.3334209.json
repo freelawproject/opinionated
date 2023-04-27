@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"618\" lastpage=\"618\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"1\" data-type=\"parties\" id=\"b644-11\" pgmap=\"644\">Henry Nicklas, Jr., plaintiff in error, v. J. O. McCormick et al., defendants in error.</parties><p data-order=\"0\" data-type=\"\" id=\"b644-10\" pgmap=\"644\">Fourth District.</p><otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AHi\" pgmap=\"644\">Heard in this court at the October term, 1931.</otherdate><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aqn2\" pgmap=\"644\">Opinion filed February 1, 1932.</decisiondate><otherdate data-order=\"4\" data-type=\"otherdate\" id=\"Acy\" pgmap=\"644\">Rehearing denied March 4, 1932.</otherdate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b644-13\" pgmap=\"644\">Henry Nicklas, pro se. P. K. Johnson, for defendants in error.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b644-14\" pgmap=\"644\">Mr. Presiding Justice Barry</author> <p id=\"Arv\" pgmap=\"644\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

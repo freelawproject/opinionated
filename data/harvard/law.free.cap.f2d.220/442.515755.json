@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"442\" lastpage=\"442\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b494-15\">Nancy N. R. BROWN, Guardian of Paul Jacob Brown, Incompetent, v. David L. MacFARLANE et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b494-17\">No. 5066.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b494-18\">United States Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b494-19\">Jan. 7, 1955.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b494-21\">Donald L. Randolph, Kansas City, Mo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b494-22\">Harold R. Fatzer, Atty. Gen., State of Kansas, for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b494-23\">Before PHILLIPS, Chief Judge, and MURRAH and PICKETT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b494-24\">PER CURIAM.</author>\n<p id=\"b494-25\">Docketed and dismissed on motion of appellees, for failure of appellant diligently to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

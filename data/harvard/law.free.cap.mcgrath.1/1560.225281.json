@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1560\" lastpage=\"1560\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AJVB\">TUCKER vs. COMMON COUNCIL (Grand Rapids),</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AchS\">No. 14555,</docketnumber>\n<citation data-order=\"2\" data-type=\"citation\" id=\"AUHg\">104 M., 621.</citation>\n<p data-order=\"3\" data-type=\"p\" id=\"AhO\">(Certiorari to Kent.)</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b603-3\">To compel respondent to allow relator\u2019s claim for the board of certain witnesses for the people in a criminal case. The circuit judge allowed the writ.</p>\n<p id=\"b603-4\">Reversed April 16, 1895, with costs.</p>\n<p id=\"b603-5\">Held, that the board of police commissioners has no power to contract for the board of a witness for the people while waiting to testify.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

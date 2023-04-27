@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"434\" lastpage=\"434\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b482-14\">UNITED STATES FIRE INSURANCE COMPANY, a corporation, et al. v. ALBANY HOTEL, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b482-16\">No. 6441.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b482-17\">United States Court of Appeals \u2022Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b482-18\">July 14, 1960.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b482-20\">W. Robert Ward, Denver, Colo., for appellants.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b482-21\">Charles J. Beise, and George C. Keely, Denver, Colo., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b482-22\">Before MURRAH, Chief Judge, and BREITENSTEIN, Circuit Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b482-23\">PER CURIAM.</author>\n<p id=\"b482-24\">Appeal dismissed on motion of appellants.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"568\" lastpage=\"568\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b622-4\">Walter E. MORSE v. WARDEN, UNITED STATES PENITENTIARY, LEAVENWORTH, KANSAS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ano-dedup-0\">No. 6400.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b622-6\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b622-7\">Sept. 19, 1960.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b622-9\">No attorney for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b622-10\">Wilbur G. Leonard, U. S. Atty., Topeka, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b622-11\">Before MURRAH, Chief Judge, and BRATTON and PICKETT, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b622-12\">PER CURIAM.</author>\n<p id=\"b622-13\">Affirmed <em>without written </em>opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

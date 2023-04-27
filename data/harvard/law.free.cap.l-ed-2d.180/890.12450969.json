@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"890\" lastpage=\"890\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b932-24\">No. 10-7013.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ag3i\">Michael A. Littlejohn, Petitioner v. Wisconsin.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b932-25\">564 U.S. 1039, 131 S. Ct. 3056,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"a1oy-dedup-0\">180 L. Ed. 2d 890,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ayba-dedup-0\">2011 U.S. LEXIS 4904.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b932-26\">June 27, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ax6F\">Petition for writ of cer-tiorari to the Supreme Court of Wisconsin denied.</p>\n<p id=\"b932-27\">Same case below, 327 Wis. 2d 107, 786 N.W.2d 123.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

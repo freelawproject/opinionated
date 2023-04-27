@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"822\" lastpage=\"822\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b874-4\">John BURDEN, Appellant, v. UNITED STATES of America, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b874-6\">No. 15047.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b874-7\">United States Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b874-8\">Feb. 4, 1955.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b874-10\">John Burden, in pro. per.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b874-11\">Richard C. Baldwin, Asst. U. S. Atty., New Orleans, La., George R. Blue, U. S. Atty., New Orleans, La., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b874-12\">Before HOLMES and BORAH, Circuit Judges, and DAWKINS, District Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b874-13\">PER CURIAM.</author>\n<p id=\"b874-14\">The judgment appealed from is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"699\" lastpage=\"699\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b727-3\">AMERICAN STORES COMPANY <em>v. </em>EDWIN J. ELMORE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b727-4\">[No. 59,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AsR\">October Term, 1933.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b727-7\">\n<em>Decided December 7th, 1933.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b727-10\">The cause was argued before Bond, C. J., Pattison, Ubner, Adkins, Dictaras, Parke, and Sloan, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b727-11\"><em>Cr. Randolph Aiken, </em>submitting on brief, for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b727-12\"><em>Richard H. Stevenson, </em>with whom was <em>Edwin Webster Wells </em>on the brief, for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b727-13\">The opinion was delivered</p>\n<author id=\"AlE\">\n<em>per Curiam.</em>\n</author>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"200\" lastpage=\"200\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Francis WINCHESTER\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-KH-1804\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 20, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied. Applicant has previously exhausted his right to state collateral review and fails to show that any exception permits his successive filing. See State ex rel. Winchester v. State, 18-0005 (La. 11/05/18),\n  <extracted-citation case-ids=\"12679990,12679991\" index=\"0\" url=\"https://cite.case.law/so-3d/255/1037/\">\n   255 So.3d 1037\n  </extracted-citation>\n  .\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   WEIMER, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}
