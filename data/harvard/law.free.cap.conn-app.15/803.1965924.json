@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b781-2\">Peter Driscoll <em>v. </em>Town of Winchester</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AoO\">(6103)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b781-3\">Borden, Daly and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b781-4\">Submitted on briefs May 9\u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AYR\">decision released May 19, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b781-6\"><em>Robert Nastri, Jr., </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b781-7\"><em>Richard A. Wallace </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b781-8\">Per Curiam.</author>\n<p id=\"AZS\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

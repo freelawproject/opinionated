@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"817\" lastpage=\"817\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b769-2\">Walter Edwards <em>v. </em>Clayton Sizer et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b769-3\">(6069)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b769-4\">Dupont, C. J., Spallone and O\u2019Connell, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b769-5\">Submitted on briefs May 3 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZia\">decision released May 18, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b769-7\"><em>Gilbert Shasha </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b769-8\"><em>Hyman Wilensky </em>and <em>Myron Bell </em>filed a brief for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b769-9\">Per Curiam.</author>\n<p id=\"AMl\">Our review of the record in this case fails to substantiate the plaintiff\u2019s averment of error.</p>\n<p id=\"b769-10\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

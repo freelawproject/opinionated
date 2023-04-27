@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"804\" lastpage=\"804\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b742-10\">Jose Diaz <em>v. </em>Warden, State Prison</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A3ug\">(8461)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b742-11\">Norcott, Foti and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b742-12\">Argued June 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AyE\">decision released June 13, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b742-14\"><em>Benjamin F. Cardinez, </em>for the appellant (petitioner).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b742-15\"><em>James M. RAlls, </em>deputy assistant state\u2019s attorney, with whom, on the brief, was <em>Kevin McMahon, </em>assistant state\u2019s attorney, for the appellee (respondent).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b742-16\">Per Curiam.</author>\n<p id=\"A9h\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

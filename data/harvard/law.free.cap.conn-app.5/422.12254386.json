@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"422\" lastpage=\"422\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b438-6\">Connecticut Student Loan Foundation <em>v. </em>Arthur Romano</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AmT\">(3492)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b438-8\">Dupont, C. J., Hull and Hammer, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b438-9\">Submitted on briefs September 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"APf\">decision released October 22, 1985</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b438-11\"><em>Victor P. Fasano </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b438-12\"><em>Robert F. Ludgin </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b438-13\">Per Curiam.</author>\n<p id=\"A0n\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

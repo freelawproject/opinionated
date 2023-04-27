@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b911-12\">PAUL LUSH <em>v. </em>DENISE LUSH</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"at2-dedup-0\">(AC 16893)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b911-13\">Foti, Lavery and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b911-14\">Argued February 17</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZn\">officially released March 10, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b911-16\">Per Curiam.</author>\n<p id=\"auv-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b885-12\">COMMAND ELECTRIC, INC. <em>v. </em>249 PEARL STREET ASSOCIATES ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b885-13\">(14370)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b885-14\">Foti, Lavery and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b885-15\">Argued October 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"agm-dedup-0\">decision released October 24, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b886-3\"><page-number citation-index=\"1\" label=\"912\">*912</page-number><em>Thomas J. Farrell, </em>for the appellant (defendant Stathis Manousos).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b886-4\"><em>George M. Purtill, </em>with whom was <em>R. Richard Croce, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b886-5\">PER CURIAM.</author>\n<p id=\"AWz\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"948\" lastpage=\"948\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b926-5\">STATE OF CONNECTICUT <em>v. </em>JERMAINE PRINCE</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AA8\">(14697)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b926-6\">Foti, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b926-7\">Argued February 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Au93\">decision released March 26, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b926-9\"><em>Leonard M. Crone, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b926-10\"><em>Paul J. Ferencek, </em>assistant state\u2019s attorney, with whom, on the brief, were <em>Frank S. Maco, </em>state\u2019s attorney, and <em>Andrew M. Wittstein, </em>supervisory assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b926-11\">PER CURIAM.</author>\n<p id=\"aeu-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

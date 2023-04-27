@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"821\" lastpage=\"821\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b773-2\">Middletown Associates <em>v. </em>Mirage 2000, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b773-3\">(6150)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b773-4\">Borden, Daly and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b773-5\">Argued May 9 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"An3\">decision released May 18, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b773-7\"><em>Samuel B. Feldman, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b773-8\"><em>Patricia Kilkenny, </em>with whom, on the brief, was <em>Edward Doernberger, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b773-9\">Per Curiam.</author>\n<p id=\"ATR\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

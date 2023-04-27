@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b920-12\">STATE OF CONNECTICUT <em>v. </em>GENA MARIE HARTZELL</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A3y\">(AC 21506)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b920-13\">Dranginis, Bishop and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b920-14\">Argued February 21</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Azh\">officially released March 19, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b920-16\">Per Curiam.</author>\n<p id=\"AfKD\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

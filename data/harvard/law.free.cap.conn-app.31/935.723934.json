@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"935\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b915-12\">State of Connecticut <em>v. </em>Walter Smith</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_I\">(11509)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b915-13\">Daly, O\u2019Connell and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b915-14\">Submitted on briefs June 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ado-dedup-1\">decision released July 6, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b916-3\"><page-number citation-index=\"1\" label=\"936\">*936</page-number><em>Dante R. Gallucci, </em>special public defender, filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b916-4\"><em>Frederick W. Fawcett, </em>assistant state\u2019s attorney, filed a brief for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b916-5\">Per Curiam.</author>\n<p id=\"AtQ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

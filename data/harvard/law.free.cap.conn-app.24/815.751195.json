@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"815\" lastpage=\"815\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b803-2\">Stephen A. Wise <em>v. </em>William Cruz</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AY8L\">(9365)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b803-3\">Spallone, Noecott and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b803-4\">Argued February 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AIVO\">decision released March 5, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b803-6\"><em>Stephen A. Wise, </em>pro se, the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b803-7\"><em>William Cruz, </em>pro se, the appellee (defendant), filed a brief.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b803-8\">Per Curiam.</author>\n<p id=\"AB3y\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

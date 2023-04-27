@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"819\" lastpage=\"820\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b771-10\">Carol Mericle et al. <em>v. </em>Peter Young et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b771-11\">(6037)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b771-12\">Borden, Daly and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b771-13\">Argued May 10 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AXL\">decision released May 18, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b772-4\"><page-number citation-index=\"1\" label=\"820\">*820</page-number><em>Max F. Brunswick, </em>for the appellants (named defendant et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b772-5\"><em>Peter Blasini, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b772-6\">Per Curiam.</author>\n<p id=\"A0J\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

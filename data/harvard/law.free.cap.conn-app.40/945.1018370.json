@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"945\" lastpage=\"946\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b923-13\">RONALD L. GASKA v. KAREN V. COSTELLO ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b923-14\">(14434)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b923-15\">O\u2019Connell, Lavery and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b923-16\">Submitted on briefs February 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"asx-dedup-1\">decision released March 26, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b924-3\"><page-number citation-index=\"1\" label=\"946\">*946</page-number><em>Gilbert Shasha </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b924-4\"><em>Christopher F. Wanat </em>filed a brief for the appel-lees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b924-5\">PER CURIAM.</author>\n<p id=\"A1f\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

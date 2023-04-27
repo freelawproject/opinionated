@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b890-12\">JAMES CORNEAU <em>v. </em>COMMISSIONER OF MOTOR VEHICLES</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ajf-dedup-0\">(AC 20040)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b890-13\">Schaller, Dranginis and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b890-14\">Argued April 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ae1V\">officially released May 22, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b890-16\">Per Curiam.</author>\n<p id=\"Aed1\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

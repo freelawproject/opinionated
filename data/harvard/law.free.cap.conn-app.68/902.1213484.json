@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b914-13\">DOUGLAS BETHEA <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aei\">(AC 21891)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b914-14\">Schaller, Flynn and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b914-15\">Submitted on briefs January 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ADZ\">officially released February 12, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b914-17\">Per Curiam.</author>\n<p id=\"Aqz\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

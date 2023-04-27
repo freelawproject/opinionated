@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"815\" lastpage=\"815\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b761-2\">Victor Luciani <em>v. </em>Jeanne Marie Dana et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b761-3\">(3229)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b761-4\">Borden, Daly and Bieluch, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b761-5\">Argued January 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aoc\">decision released January 9, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b761-7\"><em>Chester J. Bukowski, Jr., </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b761-8\"><em>Edward R. Karazin, Jr., </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b761-9\">Per Curiam.</author>\n<p id=\"Aum\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b893-14\">LORRAINE MIKOLINSKI <em>v. </em>VALLEY VIEW JOINT VENTURE ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b893-15\">(AC 18804)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b893-16\">Lavery, Landau and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b893-17\">Argued October 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AQP\">officially released November 30, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b893-19\">Per Curiam.</author>\n<p id=\"AOn\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

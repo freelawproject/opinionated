@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b878-13\">JAMES W. CAHILL <em>v. </em>ESSEX SAVINGS BANK</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ADI\">(AC 16588)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b878-14\">Landau, Schaller and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b878-15\">Argued September 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A0W\">officially released October 7, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b878-17\">Per Curiam.</author>\n<p id=\"Al4\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

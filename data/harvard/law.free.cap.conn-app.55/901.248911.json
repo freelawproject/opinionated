@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b841-7\">JEFFREY J. DONTIGNEY <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AUQK\">(AC 19175)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b841-8\">Foti, Lavery and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b841-9\">Argued September 13</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ApE\">officially released November 2, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b841-11\">Per Curiam.</author>\n<p id=\"AhW\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

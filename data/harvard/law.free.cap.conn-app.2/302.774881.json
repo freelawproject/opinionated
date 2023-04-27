@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"302\" lastpage=\"302\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b316-7\">Vincent A. Esposito <em>v. </em>Eleanor Cohen et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b316-8\">(2396)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b316-9\">Dannehy, CP.J., Dupont and Borden, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b316-10\">Argued May 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A57\">decision released July 17, 1984</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b316-12\"><em>Joseph F. SJcelley, Jr., </em>with whom, on the brief, was <em>Peter Dorsey, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b316-13\"><em>David M. Reilly, </em>with whom <em>was Anthony J. L\u00f3sala, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b316-14\">Per Curiam.</author>\n<p id=\"AWnQ\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

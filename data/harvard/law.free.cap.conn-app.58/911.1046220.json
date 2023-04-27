@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b861-7\">GARY N. POLYVIOU ET AL. <em>v. </em>MARIA J. NOLASCO ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b861-8\">(AC 20008)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b861-9\">Lavery, C. J., and Mihalakos and Zarella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b861-10\">Submitted on briefs June 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Abj\">officially released July 18, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b861-12\">Per Curiam.</author>\n<p id=\"Adk\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

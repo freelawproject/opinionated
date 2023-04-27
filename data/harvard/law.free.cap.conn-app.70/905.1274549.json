@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b899-8\">IN RE MARY R. <footnotemark>*</footnotemark></parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b899-9\">(AC 21626)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b899-10\">Schaller, Mihalakos and Peters, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b899-11\">Argued May 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ANZ\">officially released June 18, 2002</decisiondate>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b899-18\"> In accordance with the spirit and intent of General Statutes \u00a7 46b-142 (b) and Practice Book \u00a7 79-3, the names of the parties involved in this appeal are not disclosed. The records and papers of this case shall be open for inspection only to persons having a proper interest therein and upon order of the Appellate Court.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"b899-13\">Per Curiam.</author>\n<p id=\"A_1W\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

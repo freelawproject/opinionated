@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"918\" lastpage=\"918\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b890-2\">Federal Deposit Insurance Company, Receiver of New Connecticut Bank and Trust Company, N.A. <em>v. </em>George Lussier et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b890-3\">(13285)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b890-4\">Landau, Schaller and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b890-5\">Argued October 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AgaY\">decision released November 15, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b890-7\"><em>Dale C. Roberson, </em>with whom was <em>John Callahan, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b890-8\"><em>John S. Haverstock, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b890-9\">Per Curiam.</author>\n<p id=\"A_6\">The judgment is affirmed and the case is remanded for the purpose of setting a new sale date.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b916-8\">STATE OF CONNECTICUT <em>v. </em>WAYNE SMITH</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AtCt\">(AC 17142)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b916-9\">Lavery, Schaller and Sullivan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b916-10\">Argued March 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"adc-dedup-1\">officially released March 24, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b916-12\">Per Curiam.</author>\n<p id=\"Amx2\">See <em>Michigan Dept. of State Police </em>v. <em>Sitz, </em>496 U.S. 444, 110 S. Ct. 2481, 110 L. Ed. 2d 412 (1990); <em>State </em>v. <em>Boisvert, </em>40 Conn. App. 420, 671 A.2d 834, cert. denied, 237 Conn. 903, 674 A.2d 1332 (1996).</p>\n<p id=\"b916-13\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

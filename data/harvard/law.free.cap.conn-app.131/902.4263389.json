@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b884-2\">VANESSA G. VARGAS <em>v. </em>FRANCISCO A. SPIGNOLIO</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A-l\">(AC 32326)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b884-3\">Bear, Espinosa and SchaUer, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b884-4\">Argued September 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AoE\">officially released September 27, 2011</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b884-6\">Per Curiam.</author>\n<p id=\"AY2S\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b894-9\">K. W. Dolmar Broadcasting Company et al. <em>v. </em>Paul Matar</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Arie\">(11670)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b894-10\">Foti, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b894-11\">Argued September 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AjA\">decision released October 19, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b894-13\"><em>Paul Matar, </em>pro se, the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b894-14\"><em>Joseph P. Sec\u00f3la, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b894-15\">Per Curiam.</author>\n<p id=\"Anmp\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

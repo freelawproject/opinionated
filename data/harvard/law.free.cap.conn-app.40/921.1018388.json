@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"921\" lastpage=\"922\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b899-10\">JOYCE LATKA <em>v. </em>RAYMOND F. LATKA</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ALHU\">(14393)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b899-11\">Dupont, C. J., and Lavery and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b899-12\">Submitted on briefs January 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A7_\">decision released February 13, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b900-2\"><page-number citation-index=\"1\" label=\"922\">*922</page-number><em>Thomas C. C. Sargent </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b900-3\"><em>Richard G. Kent </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b900-4\">PER CURIAM.</author>\n<p id=\"ACay\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

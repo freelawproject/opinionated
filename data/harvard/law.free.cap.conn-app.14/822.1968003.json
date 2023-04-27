@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"822\" lastpage=\"822\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b774-10\">J. M. Rosa Construction Company, Inc. <em>v. </em>The Connecticut Water Company</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aag\">(5864)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b774-12\">Borden, Daly and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b774-13\">Argued May 11 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Arsq\">decision released May 19, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b774-15\"><em>James N. Royster, </em>with whom, on the brief, was <em>Steven B. Kaplan, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b774-16\"><em>John Crosskey, </em>with whom, on the brief, was <em>Stefan Underhill, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b774-17\">Per Curiam.</author>\n<p id=\"AGYj\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

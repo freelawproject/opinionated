@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"921\" lastpage=\"921\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b925-2\">Joseph Watley <em>v. </em>Allstate Insurance Company</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b925-3\">(13586)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b925-4\">Lavery, Schaller and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b925-5\">Argued June 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVT\">decision released July 4, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b925-7\"><em>Peter H. Lyga, </em>with whom was <em>Patricia M. Lyga, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b925-8\"><em>Constance L. Epstein, </em>with whom, on the brief, was <em>Jack G. Steigelfest, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b925-9\">Per Curiam.</author>\n<p id=\"A4q\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

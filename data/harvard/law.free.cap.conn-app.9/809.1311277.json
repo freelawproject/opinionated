@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b755-2\">Theodore L. Couden <em>v. </em>Frank R. Infante</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AqK\">(4581)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b755-3\">Dupont, C. J., Borden and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b755-4\">Submitted on briefs December 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ay1\">decision released December 9, 1986</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b755-6\"><em>Alvin M. Murray </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b755-7\"><em>LeRoy Jones </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b755-8\">Per Curiam.</author>\n<p id=\"ACbk\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

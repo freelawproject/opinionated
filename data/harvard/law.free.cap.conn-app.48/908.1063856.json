@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b918-7\">WILLIAM VERCH <em>v. </em>DELAPHINE E. HATCH ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ACqH\">(AC 17207)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b918-8\">Lavery, Schaller and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b918-9\">Submitted on briefs March 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AbQS\">officially released March 31, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b918-11\">Per Curiam.</author>\n<p id=\"AWrx\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

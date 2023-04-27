@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"935\" lastpage=\"935\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b927-2\">Anthony G. Apicella et al. <em>v. </em>Connecticut Attorneys Title Insurance Company</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A4q7\">(13505)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b927-3\">Dupont, C. J., and Lavery and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b927-4\">Argued April 19</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AOP\">decision released May 16, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b927-6\"><em>Lori Weleh-Rubin, </em>with whom <em>was Douglas Apicella, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b927-7\"><em>Craig A. Fontaine, </em>with whom was <em>Paul T. Edwards, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b927-8\">Per Curiam.</author>\n<p id=\"A5K\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

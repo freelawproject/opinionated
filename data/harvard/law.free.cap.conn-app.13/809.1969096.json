@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"747\" lastpage=\"747\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b761-4\">Ralph J. Dalusio <em>v. </em>Patricia M. Dalusio</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Atc\">(5564)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b761-5\">Borden, O\u2019Connell and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b761-6\">Argued January 5 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ahc\">decision released January 12, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b761-8\"><em>Joseph Glass, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b761-9\"><em>Carol A. Brown, </em>with whom, on the brief, was <em>William P. Tuccio, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b761-10\">Per Curiam.</author>\n<p id=\"AIZ\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

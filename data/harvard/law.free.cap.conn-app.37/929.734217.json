@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"929\" lastpage=\"929\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b921-2\">Terry J. Dembek et al. <em>v. </em>Preston L. Epps et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b921-3\">(13355)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b921-4\">Dupont, C. J., and Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b921-5\">Argued March 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AQ8\">decision released May 2, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b921-7\"><em>Laurence V. Parnoff, for </em>the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b921-8\"><em>Gary A. Cicchiello, </em>with whom was <em>Steven K. San-born, </em>law student intern, for the appellee (named plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b921-9\">Per Curiam.</author>\n<p id=\"ATY\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

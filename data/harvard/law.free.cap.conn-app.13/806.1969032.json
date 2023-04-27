@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"744\" lastpage=\"744\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b758-2\">Walter Doll, Jr., et al. <em>v. </em>Warren L. Prelesnik et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b758-3\">(5633)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b758-4\">Spallone, O\u2019Connell and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b758-5\">Argued December 17 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ABq0\">decision released December 22, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b758-7\"><em>David A. Golas, for the </em>appellant (defendant J. L. Swensson, Jr.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b758-8\"><em>Stephen C. Barron, </em>for the appellees (named defendant et al.).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b758-9\">Per Curiam.</author>\n<p id=\"A2H\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

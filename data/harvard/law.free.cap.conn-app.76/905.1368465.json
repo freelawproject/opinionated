@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b861-17\">STATE OF CONNECTICUT <em>v. </em>KAREN PETROSKY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AVZk\">(AC 22256)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b861-18\">Lavery, C. J., and Foti and Peters, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b861-19\">Argued March 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A0N\">officially released April 15, 2003</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b862-2\"><page-number citation-index=\"1\" label=\"906\">*906</page-number>Per Curiam.</author>\n<p id=\"AYQ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

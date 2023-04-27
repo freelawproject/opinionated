@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"814\" lastpage=\"814\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b802-9\">Glen T. Oxton <em>v. </em>Deborah A. Cowan</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AcPT\">(8982)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b802-10\">Dupont, C. J., O\u2019Connell and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b802-11\">Argued February 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AfgT3\">decision released February 26, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b802-13\"><em>Mary Ellen Wynn, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b802-14\"><em>Philip R. McKnight, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b802-15\">Per Curiam.</author>\n<p id=\"AXi\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

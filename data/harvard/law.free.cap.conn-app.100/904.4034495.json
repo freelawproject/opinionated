@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b896-18\">MARTHA HUNDLEY <em>v. </em>BERT COPPOTELLI</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A5p\">(AC 27745)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b896-19\">Harper, Lavine and West, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b896-20\">Submitted on briefs March 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AsF\">officially released April 17, 2007</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b896-22\">Per Curiam.</author>\n<p id=\"AW03\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b874-17\">EDWARD BACCASH <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aaqm\">(AC 26830)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b874-18\">Schaller, Rogers and West, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b874-19\">Argued January 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AJ3\">officially released January 30, 2007</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b875-3\"><page-number citation-index=\"1\" label=\"903\">*903</page-number>Per Curiam.</author>\n<p id=\"AN9\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

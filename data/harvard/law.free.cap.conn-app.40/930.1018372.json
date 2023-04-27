@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"930\" lastpage=\"931\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b908-11\">CRISTWOOD CONTRACTING, INC. <em>v. </em>CHRISTINE BADERA ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b908-12\">(14666)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b908-13\">O\u2019Connell, Lavery and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b908-14\">Submitted on briefs February 13</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AM_\">decision released March 5, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b909-3\"><page-number citation-index=\"1\" label=\"931\">*931</page-number><em>Leslee B. Hill </em>and <em>Robert A. Ziegler </em>filed a brief for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b909-4\"><em>Lawrence G. Rosenthal </em>filed a brief for the appel-lee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b909-5\">PER CURIAM.</author>\n<p id=\"A8s\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

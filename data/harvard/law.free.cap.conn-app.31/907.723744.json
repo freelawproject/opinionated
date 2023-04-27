@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b887-10\">Marie-France Silver <em>v. </em>Jeffrey Silver</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AdnX\">(11611)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b887-11\">O\u2019Connell, Landau and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b887-12\">Argued April 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"anr-dedup-0\">decision released April 20, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b887-14\"><em>Charles M. McCaghey, </em>with whom was <em>Susan J. Krernbs, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b887-15\"><em>Joseph T. O\u2019Connor, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b887-16\">Per Curiam.</author>\n<p id=\"AG9\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

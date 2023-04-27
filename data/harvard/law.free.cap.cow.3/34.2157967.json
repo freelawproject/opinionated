@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"34\" lastpage=\"34\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b30-13\">Jansen, administrator of Jansen, <em>against </em>Tappen.</parties>\n<headnotes data-order=\"1\" data-type=\"headnotes\" id=\"b30-14\">An affidavit \u00edbr a reference should state that issue is joined.</headnotes>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"AqA\">E. Williams, fop the defendant,</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"As4\">moved for a reference in , . this cause,</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AdN\">E. <em>Cozoen, </em>contra,</attorneys>\n<p data-order=\"5\" data-type=\"legal\" id=\"AEZ\">objected that it did not appear from the affidavit on which the motion was founded, that issue had been joined in the cause ; and, for this reason,</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b30-17\">Motion denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"918\" lastpage=\"918\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b928-2\">HECTOR SOTO <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AXVL\">(AC 16881)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b928-3\">Foti, Lavery and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b928-4\">Argued April 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AgKt\">officially released May 19, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b928-6\">Per Curiam.</author>\n<p id=\"A4Dl\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

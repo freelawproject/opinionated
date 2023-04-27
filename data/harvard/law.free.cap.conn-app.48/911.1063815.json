@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b921-2\">THOMAS J. WALCZYK <em>v. </em>BARBERINO REALTY AND DEVELOPMENT CORPORATION ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b921-3\">(AC 17055)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b921-4\">Foti, Hennessy and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b921-5\">Submitted on briefs March 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A0Qb\">officially released March 31, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b921-7\">Per Curiam.</author>\n<p id=\"ALUz\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"913\" lastpage=\"913\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b921-7\">KENNA D. BROWN <em>v. </em>WILLIAM B. BROWN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"als-dedup-1\">(14653)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b921-8\">Landau, Heiman and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b921-9\">Submitted on briefs May 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aql-dedup-1\">officially released June 4, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b921-11\">Per Curiam.</author>\n<p id=\"Afb0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

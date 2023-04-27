@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"928\" lastpage=\"928\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b906-7\">PETER STROUCH <em>v. </em>CDI CORPORATION-NORTHEAST</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"afu-dedup-1\">(14256)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b906-8\">O\u2019Connell, Landau and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b906-9\">Argued January 19</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A3mx\">decision released February 13, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b906-11\"><em>Michael E. Wolf, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b906-12\"><em>Albert Zakarian, </em>with whom, on the brief, was <em>Barbara A. Petitjean, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b906-13\">PER CURIAM.</author>\n<p id=\"ARqr\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b903-2\">MICHAEL KUNDERT <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_he\">(AC 19644)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b903-3\">Foti, Landau and Zarella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b903-4\">Submitted on briefs January 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AgZS\">officially released February 15, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b903-6\">Per Curiam.</author>\n<p id=\"A4GM\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

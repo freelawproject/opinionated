@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"744\" lastpage=\"745\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b758-10\">Elihu Club, Inc. <em>v. </em>Board of Tax Review of the City of New Haven</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AIP\">(5534)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b758-11\">Spallone, Bieluch and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b758-12\">Argued December 16 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Au7\">decision released December 22, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b759-3\"><page-number citation-index=\"1\" label=\"745\">*745</page-number><em>Francis G. Pennarola, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b759-4\"><em>MartinS. Echter, </em>deputy corporation counsel, for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b759-5\">Per Curiam.</author>\n<p id=\"Ar-x\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b908-2\">ALLEN CONSTRUCTION, INC. <em>v. </em>BARBARA CABANILLA ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b908-3\">(AC 28103)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b908-4\">McLachlan, Harper and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b908-5\">Argued March 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A_P\">officially released April 22, 2008</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b908-7\">Per Curiam.</author>\n<p id=\"AGc\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

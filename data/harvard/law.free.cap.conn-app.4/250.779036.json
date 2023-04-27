@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"250\" lastpage=\"250\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b266-7\">Carl J. Caputo <em>v. </em>Alexander O\u2019Bryant</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AQ7\">(3200)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b266-8\">Dupont, C.P.J., Borden and Cioffi, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b266-9\">Argued May 17</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AQp\">decision released June 18, 1985</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b266-11\"><em>Alexander O'Bryant, </em>pro se, the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b266-12\"><em>Peter L. Tru\u00e9bner </em>and <em>George A. Reilly </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b266-13\">Per Curiam.</author>\n<p id=\"AFB\">We have carefully reviewed the claims of error of the defendant in this case and find them to be without merit.</p>\n<p id=\"b266-14\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

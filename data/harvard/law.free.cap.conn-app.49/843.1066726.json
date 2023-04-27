@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"843\" lastpage=\"843\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b865-12\">MYRNA LABOW <em>v. </em>RONALD LABOW</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AjFa\">(AC 16981)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b865-13\">O\u2019Connell, C. J., and Foti and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b865-14\">Argued May 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AYlf\">officially released June 30, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b865-16\">Per Curiam.</author>\n<p id=\"Avt\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

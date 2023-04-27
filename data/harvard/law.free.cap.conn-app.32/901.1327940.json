@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b889-9\">American National Bank <em>v. </em>William T. Shea et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b889-10\">(12267)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b889-11\">Lavery, Landau and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b889-12\">Argued September 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ado-dedup-0\">decision released October 5, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b889-14\"><em>Michael T. Landino, </em>for the appellants (named defendant et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b889-15\"><em>Francis P. Barberio, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b889-16\">Per Curiam.</author>\n<p id=\"at8-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

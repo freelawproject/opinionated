@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b914-6\">Bradford J. May <em>v. </em>Jill Sherber et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b914-7\">(12694)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b914-8\">O\u2019Connell, Foti and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b914-9\">Argued April 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A5v\">decision released May 17, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b914-11\"><em>James E. Swaine, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b914-12\"><em>Matthew G. Conway, </em>for the appellee (defendant Phoenix Landing Condominium Association, Inc.).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b914-13\">Per Curiam.</author>\n<p id=\"Akc\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

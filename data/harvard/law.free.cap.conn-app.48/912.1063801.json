@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b922-12\">JANICE A. GERROW <em>v. </em>ELLINGTON DRYWALL, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"akg-dedup-1\">(AC 17217)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b922-13\">Landau, Schaller and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b922-14\">Argued March 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AFjx\">officially released April 14, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b922-16\">Per Curiam.</author>\n<p id=\"Abk6\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

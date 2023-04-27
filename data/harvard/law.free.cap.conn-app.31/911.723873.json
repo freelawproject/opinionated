@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b891-9\">Michelle Tortora et al. <em>v. </em>Jean-Yves Wood et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b891-10\">(11121)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b891-11\">Daly, O\u2019Connell and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b891-12\">Argued April 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"abb-dedup-2\">decision released April 27, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b891-14\"><em>Steven A. Ouelette, </em>with whom, on the brief, was <em>Thomas M. Murtha, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b891-15\"><em>Maureen E. Norris, </em>with whom, on the brief, was <em>Robert S. Kolesnik, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b891-16\">Per Curiam.</author>\n<p id=\"aok-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

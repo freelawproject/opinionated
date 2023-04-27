@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"916\" lastpage=\"916\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b890-2\">ROBERT W. SPEED, JR. <em>v. </em>EILEEN Q. SPEED</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"a-u-dedup-0\">(13390)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b890-3\">O\u2019Connell, Landau and Herman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b890-4\">Argued October 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AyFc\">decision released November 21, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b890-6\"><em>William J. Nulsen, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b890-7\"><em>HaldanE. Connor, Jr., </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b890-8\">PER CURIAM.</author>\n<p id=\"alf-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

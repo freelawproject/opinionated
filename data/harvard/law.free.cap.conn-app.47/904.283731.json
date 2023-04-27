@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b880-9\">STATE OF CONNECTICUT <em>v. </em>KEITH BRASWELL</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ait\">(AC 15025)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b880-10\">Spear, Dupont and Healey, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b880-11\">Argued September 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AIq\">officially released October 7, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b880-13\">Per Curiam.</author>\n<p id=\"AdR\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

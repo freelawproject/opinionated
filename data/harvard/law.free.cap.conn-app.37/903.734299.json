@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b895-5\">Cynthia Besade <em>v. </em>Interstate Security Services et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b895-6\">(13395)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b895-7\">O\u2019Connell, Schaller and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b895-8\">Argued February 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A_X\">decision released March 7, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b895-10\"><em>Richard S. Bartlett, </em>for the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b895-11\"><em>Matthew Shafner, </em>with whom, on the brief, was <em>Mark W. Oberlatz, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b895-12\">Per Curiam.</author>\n<p id=\"Ayv\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

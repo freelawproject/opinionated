@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b895-6\">Sportique Motors, Inc. <em>v. </em>Ronald Netter et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b895-7\">(11174)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b895-8\">O\u2019Connell, Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b895-9\">Argued April 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A-o\">decision released May 18, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b895-11\"><em>Laurence P. Nadel, </em>for the appellant-appellee (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b895-12\"><em>James A. Miller, Jr., </em>for the appellee-appellant (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b895-13\">Per Curiam.</author>\n<p id=\"aho-dedup-1\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

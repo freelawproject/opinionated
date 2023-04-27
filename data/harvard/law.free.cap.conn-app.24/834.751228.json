@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"834\" lastpage=\"835\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b822-8\">John McKechnie et al. <em>v. </em>Frank Vandever et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b822-9\">(9442)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b822-10\">Spallone, O\u2019Connell and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b822-11\">Argued April 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ADe\">decision released May 21, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b823-3\"><page-number citation-index=\"1\" label=\"835\">*835</page-number><em>Charles A. Sherwood, </em>for the appellants-appellees (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b823-4\"><em>WillaB. Perlmutter, </em>with whom was <em>Gary P. Sklaver, </em>for the appellee-appellant (defendant Union Trust Company).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b823-5\">Per Curiam.</author>\n<p id=\"AZ3v\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

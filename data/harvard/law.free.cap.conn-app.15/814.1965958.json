@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"814\" lastpage=\"814\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b792-2\">James DePalma <em>v. </em>Joan DePalma</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ASO\">(6126)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b792-3\">Dupont, C. J., Borden and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b792-4\">Submitted on briefs June 10\u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ayc\">decision released June 23, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b792-6\"><em>George Ganim, Jr., </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b792-7\"><em>Elaine Gordon </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b792-8\">Per Curiam.</author>\n<p id=\"AOO\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

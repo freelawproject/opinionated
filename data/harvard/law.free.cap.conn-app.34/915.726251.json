@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b917-4\">State of Connecticut <em>v. </em>Michael M. Morin</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AQg\">(12631)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b917-5\">Lavery, Heiman and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b917-6\">Argued April 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AmyW\">decision released May 24, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b917-8\"><em>Frederick W. Odell, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b917-9\"><em>David J. Sheldon, </em>deputy assistant state\u2019s attorney, with whom, on the brief, were <em>Patricia A. Swords, </em>state\u2019s attorney, and <em>Richard Colangelo, </em>for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b917-10\">Per Curiam.</author>\n<p id=\"AiG\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

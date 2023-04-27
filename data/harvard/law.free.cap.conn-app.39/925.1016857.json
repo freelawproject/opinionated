@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b899-6\">SHAWMUT BANK CONNECTICUT, N.A. <em>v. </em>FRANK D. GIVEN ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b899-7\">(14337)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b899-8\">Dupont, C. J., and Lavery and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b899-9\">Submitted on briefs November 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AHOO\">decision released November 28, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b899-11\"><em>Joseph Chiarelli </em>filed a brief for the appellants (named defendant et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b899-12\"><em>Linda Clifford Hadley </em>filed a brief for the appellee (substitute plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b899-13\">PER CURIAM.</author>\n<p id=\"amg-dedup-1\">The judgment is affirmed and the case is remanded for the purpose of setting new law days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

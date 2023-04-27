@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b912-2\">LINDA J. SLACK <em>v. </em>RAYMOND B. SLACK</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AZk\">(AC 20686)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b912-3\">Landau, Mihalakos and Pellegrino, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b912-4\">Submitted on briefs December 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"a1m-dedup-0\">officially released December 26, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b912-6\">Per Curiam.</author>\n<p id=\"AWD\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

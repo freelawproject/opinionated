@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"807\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b773-10\">Frederick J. Zivic <em>v. </em>Kay Brooke</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AkR\">(5658)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b773-11\">Daly, Bieluch and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b773-12\">Argued February 16 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AXC_\">decision released February 24, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b774-3\"><page-number citation-index=\"1\" label=\"808\">*808</page-number><em>Larry R. Levine, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b774-4\"><em>Michael J. Auger, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b774-5\">Per Curiam.</author>\n<p id=\"AOx\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

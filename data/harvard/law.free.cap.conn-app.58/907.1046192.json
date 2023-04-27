@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b857-2\">SHANTA PHILLIPS <em>v. </em>BIRCH REALTY, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b857-3\">(AC 19030)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b857-4\">Lavery, C. J., and Schaller and Mihalakos, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b857-5\">Argued May 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ArsJ\">officially released June 27, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b857-7\">Per Curiam.</author>\n<p id=\"AdO\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

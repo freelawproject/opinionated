@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b897-11\">Anton E. Nemeth <em>v. </em>Gun Rack, Ltd., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b897-12\">(11802)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b897-13\">O\u2019Connell, Lavery and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b897-14\">Argued November 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AsMu\">decision released November 23, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b898-2\"><page-number citation-index=\"1\" label=\"910\">*910</page-number><em>James H. Lee, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b898-3\"><em>Michael T. Wade, </em>with whom, on the brief, was <em>F. Timothy McNamara, </em>for the appellee (defendant Robert M. Carroll).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b898-4\">Per Curiam.</author>\n<p id=\"A2n\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

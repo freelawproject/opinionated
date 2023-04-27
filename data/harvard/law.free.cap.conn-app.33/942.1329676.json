@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"942\" lastpage=\"943\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b930-10\">Joan M. Honegger et al. <em>v. </em>Lisa L. Platt</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AH-\">(12423)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b930-11\">O\u2019Connell, Freedman and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b930-12\">Argued February 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Anr\">decision released March 22, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b931-2\"><page-number citation-index=\"1\" label=\"943\">*943</page-number><em>James A. Mulhall, Jr., </em>with whom was <em>Kevin T. Nixon, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b931-3\"><em>Raymond J. Plouffe, Jr., </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b931-4\">Per Curiam.</author>\n<p id=\"AMr\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

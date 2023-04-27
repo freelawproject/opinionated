@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b862-7\">JULIA H. MCCONNON <em>v. </em>JAMES R. MCCONNON</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A5Io\">(AC 19300)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b862-8\">Landau, Schaller and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b862-9\">Submitted on briefs June 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AiRp\">officially released July 18, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b862-11\">Per Curiam.</author>\n<p id=\"aag-dedup-1\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

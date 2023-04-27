@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"748\" lastpage=\"748\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b762-6\">Board of Education of the City of New Haven <em>v. </em>Board of Mediation and Arbitration et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b762-7\">(5371)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b762-8\">Spallone, Daly and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b762-9\">Argued January 21 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AuX\">decision released January 26, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b762-11\"><em>Barbara J. Collins, </em>with whom, on the brief, were <em>J. William Gagne, Jr., </em>and <em>Kevin A. Fusco, </em>for the appellant (defendant AFSCME, Council 4, Local 287).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b762-12\"><em>Lubbie Harper, Jr., </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b762-13\">Per Curiam.</author>\n<p id=\"A4qx\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

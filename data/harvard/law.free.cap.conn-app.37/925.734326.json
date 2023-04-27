@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b917-2\">Country Lumber, Inc. <em>v. </em>New Haven Savings Bank et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b917-3\">(13410)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b917-4\">O\u2019Connell, Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b917-5\">Argued March 21</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ae0t\">decision released April 25, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b917-7\"><em>Walter A. DeAndrade, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b917-8\"><em>David A. Bali, </em>for the appellee (named defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b917-9\">Per Curiam.</author>\n<p id=\"AxJ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

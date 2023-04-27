@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"942\" lastpage=\"942\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b914-4\">Donald B. Gates <em>v. </em>City of Hartford et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b914-5\">(13530)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b914-6\">Dupont, C. J., and O\u2019Connell and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b914-7\">Submitted on briefs December 9, 1994</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ALM\">decision released January 3, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b914-9\"><em>Lawrence S. Dressier, Howard A. Lawrence </em>and <em>W. Paul Flynn </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b914-10\"><em>Michael E. Satti </em>and <em>Ann M. Siczewicz </em>filed a brief for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b914-11\">Per Curiam.</author>\n<p id=\"Agh\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b882-7\">OCWEN FEDERAL BANK, F.S.B. <em>v. </em>ANDREW THACKER ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b882-8\">(AC 26509)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b882-9\">DiPentima, Gruendel and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b882-10\">Submitted on briefs March 31 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"APA\">officially released April 25, 2006</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b882-12\">Per Curiam.</author>\n<p id=\"A2E\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

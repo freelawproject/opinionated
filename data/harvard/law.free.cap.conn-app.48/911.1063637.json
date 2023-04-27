@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b921-13\">MARY J. SCRIVANI <em>v. </em>PETER SCRIVANI</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJn\">(AC 17149)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b921-14\">Foti, Landau and Sullivan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b921-15\">Submitted on briefs March 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ap8-dedup-0\">officially released April 14, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b921-17\">Per Curiam.</author>\n<p id=\"AsD1\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

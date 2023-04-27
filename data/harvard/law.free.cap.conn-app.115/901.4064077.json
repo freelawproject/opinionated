@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Azj\">KENNETH BOVE <em>v. </em>HOWARD W. BOVE ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AjRu\">(AC 29751)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"AuI\">Beach, Robinson and Mihalakos, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AMO\">Argued May 19</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AUX\">officially released June 16, 2009</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Ap-\">Per Curiam.</author>\n<p id=\"AKy\">The judgment is affirmed and the case is remanded to the trial court with direction to set a new sale date.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

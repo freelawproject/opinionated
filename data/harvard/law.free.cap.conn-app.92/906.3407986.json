@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b900-14\">DONALD F. HECKER <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ANvo\">(AC 25448)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b900-15\">Lavery, C. J., and Dranginis and Harper, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b900-16\">Submitted on briefs December 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ASc\">officially released December 27, 2005</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b900-18\">Per Curiam.</author>\n<p id=\"A95h\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

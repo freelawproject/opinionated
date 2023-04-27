@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"845\" lastpage=\"845\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b867-7\">AMICA MUTUAL INSURANCE COMPANY <em>v. </em>WILLIAM JACOMINI</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A3l5\">(AC 17347)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b867-8\">Lavery, Sullivan and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b867-9\">Argued May 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A3g\">officially released June 30, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b867-11\">Per Curiam.</author>\n<p id=\"A2bq\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

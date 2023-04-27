@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"914\" lastpage=\"914\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b890-7\">STATE OF CONNECTICUT <em>v. </em>ERROL DUNKLEY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AU7r\">(AC 15387)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b890-8\">Lavery, Spear and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b890-9\">Argued October 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Akv\">officially released November 18, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b890-11\">Per Curiam.</author>\n<p id=\"AJW\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

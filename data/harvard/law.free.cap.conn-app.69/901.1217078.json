@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"883\" lastpage=\"883\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b903-2\">IN RE DANIEL S.<footnotemark>*</footnotemark></parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b903-3\">(AC 22230)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b903-4\">Lavery, C. J., and Foti and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b903-5\">Argued March 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AoLz\">officially released April 16, 2002</decisiondate>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b903-18\"> In accordance with the spirit and intent of General Statutes \u00a7 46b-142 (b) and Practice Book \u00a7 79-3, the names of the parties involved in this appeal are not disclosed. The records and papers of this case shall be open for inspection only to persons having a proper interest therein and upon order of the Appellate Court.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"b903-7\">Per Curiam.</author>\n<p id=\"A0PV\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

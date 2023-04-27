@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"509\" lastpage=\"509\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b525-5\">DiChello Distributors, Inc. <em>v. </em>Connecticut Fork Lift, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b525-6\">(2908)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b525-7\">Hull, Spallone and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b525-8\">Argued March 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AcR\">decision released April 16, 1985</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b525-10\"><em>Simon Sumberg, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b525-11\"><em>Susan S. Chambers, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b525-12\">Per Curiam:.</author>\n<p id=\"Art\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

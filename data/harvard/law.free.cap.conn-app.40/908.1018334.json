@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b886-2\">CHARLOTTE J. CUFFEE <em>v. </em>EASTERN MEDICAL SUPPLY COMPANY, INC., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b886-3\">(14090)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b886-4\">Landau, Heiman and SchaUer, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b886-5\">Argued December 7, 1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AXq-\">decision released January 9, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b886-7\"><em>Robert G. Golger, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b886-8\"><em>Edward P. Brady III, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b886-9\">PER CURIAM.</author>\n<p id=\"AUbq\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

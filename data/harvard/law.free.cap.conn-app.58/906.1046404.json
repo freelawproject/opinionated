@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b856-2\">BEN GYADU <em>v. </em>D\u2019ADDARIO INDUSTRIES, INC., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b856-4\">(AC 19844)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b856-5\">Foti, Landau and Zarella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b856-6\">Submitted on briefs May 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AST\">officially released June 6, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b856-8\">Per Curiam.</author>\n<p id=\"ANfQ\">The decision by the workers\u2019 compensation review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

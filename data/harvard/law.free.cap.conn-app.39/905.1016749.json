@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b879-13\">BRAUNSTEIN AND TODISCO, P.C. <em>v. </em>BERNARD BOSSOM ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b879-14\">(13268)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b879-15\">O\u2019Connell, Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b879-16\">Argued September 19</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aay-dedup-0\">decision released October 10, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b880-2\"><page-number citation-index=\"1\" label=\"906\">*906</page-number><em>David M. Reilly, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A3T\"><em>Howard K. Levine, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"abv-dedup-1\">PER CURIAM.</author>\n<p id=\"ALIm\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

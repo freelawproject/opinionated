@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"927\" lastpage=\"927\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b919-6\">August J. Loehr, Jr. <em>v. </em>FRI Land Equities, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b919-7\">(13952)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b919-8\">Dupont, C. J., and Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b919-9\">Argued March 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AQmu\">decision released May 2, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b919-11\"><em>Arthur P. Meisler, </em>for the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b919-12\"><em>Steven M. Ford, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b919-13\">Per Curiam.</author>\n<p id=\"AFu\">The judgment is affirmed and the case is remanded for the purpose of setting new law days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"86\" lastpage=\"86\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b100-7\">Carol Gravelin <em>v. </em>Frank Gravelin</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AaI\">(2834)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b100-8\">Borden, Daly and Satter, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b100-9\">Argued April 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aq-\">decision released May 21, 1985</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b100-11\"><em>Daniel V. Presnick, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b100-12\"><em>Jarvis H. White, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b100-13\">Per Curiam.</author>\n<p id=\"Aq9\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"940\" lastpage=\"940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b916-11\">CYNTHIA L. BENSON <em>v. </em>WALTER A. BENSON</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A5Qo\">(AC 17182)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b916-12\">O\u2019Connell, C. J., and Foti and Sullivan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b916-13\">Submitted on briefs January 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A-u7\">officially released February 24, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b916-15\">Per Curiam.</author>\n<p id=\"A-X\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

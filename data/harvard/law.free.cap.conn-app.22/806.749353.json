@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"806\" lastpage=\"806\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b744-6\">Harry L. Swift <em>v. </em>Maria A. Swift</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AtYq\">(8650)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b744-7\">O\u2019Connell, Foti and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b744-8\">Argued June 12</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZIh\">decision released June 20, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b744-10\"><em>Bruce S. Beck, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b744-11\"><em>Kevin M. O\u2019Brien, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b744-12\">Per Curiam.</author>\n<p id=\"ARa\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

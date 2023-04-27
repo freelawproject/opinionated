@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b906-6\">Maurice Hansen et al. <em>v. </em>City of New Haven et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b906-7\">(13380)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b906-8\">Dupont, C. J., and Schaller and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b906-9\">Argued April 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AivC\">decision released May 23, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b906-11\"><em>Frank P. Cannatelli, </em>for the appellants-appellees (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b906-12\"><em>Steven L. Sanalot, </em>assistant corporation counsel, with whom, on the brief was <em>Aileen M. Bell, </em>former deputy corporation counsel, for the appellees-appellants (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b906-13\">Per Curiam.</author>\n<p id=\"ATCh\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

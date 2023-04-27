@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"808\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b794-2\">Claire B. Pohl <em>v. </em>Clarke C. Pohl</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AYqy\">(9618)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b794-3\">Daly, Landau and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b794-4\">Argued June 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AR3r\">decision released July 2, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b794-6\"><em>Thomas M. Shanley, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b794-7\"><em>Alan R. Spirer, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b794-8\">Per Curiam.</author>\n<p id=\"AiCb\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

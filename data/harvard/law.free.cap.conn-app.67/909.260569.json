@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b871-8\">FLOYD WILLIAMS <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ab9\">(AC 21334)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b871-9\">Lavery, C. J., and Foti and O\u2019Connell, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b871-10\">Submitted on briefs December 13, 2001</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVD\">officially released January 15, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b871-12\">Per Curiam.</author>\n<p id=\"AfM7\">The trial court did not abuse its discretion in denying the petition for certification to appeal.</p>\n<p id=\"b871-13\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

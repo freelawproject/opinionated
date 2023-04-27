@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b880-2\">CTB Meriden Properties, Inc. <em>v. </em>Catherine S. Zygmont et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b880-4\">(13128)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b880-5\">O\u2019Connell, Foti and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b880-6\">Argued September 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ARRW\">decision released October 11, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b880-8\"><em>F. Woodward Lewis, Jr., </em>for the appellants (named defendant et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b880-9\"><em>Thomas A. Kaelin, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b880-10\">Per Curiam.</author>\n<p id=\"AlK4\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

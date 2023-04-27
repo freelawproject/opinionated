@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"917\" lastpage=\"918\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b897-13\">Robert Durrschmidt <em>v. </em>Peter Loux et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AXNQ\">(11708)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b897-14\">Lavery, Heiman and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b897-15\">Argued May 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AeQ\">decision released May 25, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b898-3\"><page-number citation-index=\"1\" label=\"918\">*918</page-number><em>Anne Kelly Zovas, </em>for the appellant (Field View Farm Transportation, Inc.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b898-4\"><em>Ralph C. Crozier, </em>with whom, on the brief, was <em>Raymond A. Desautels III, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b898-5\">Per Curiam.</author>\n<p id=\"ApJ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b874-6\">Farmers and Mechanics Bank <em>v. </em>John T. O\u2019Reilly et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b874-8\">(12905)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b874-9\">Dupont, C. J., and Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b874-10\">Argued September 13</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ATq\">decision released October 4, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b874-12\"><em>John T. O'Reilly, </em>pro se, the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b874-13\"><em>Theodore V. Raczka, </em>with whom, on the brief, was <em>Nancy Bazan, </em>legal intern, for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b874-14\">Per Curiam.</author>\n<p id=\"AiE\">The judgment is affirmed and the case is remanded for the purpose of setting new law days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

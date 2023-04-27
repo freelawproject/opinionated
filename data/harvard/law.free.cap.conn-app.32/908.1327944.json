@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b896-4\">Donald F. Harris et al. <em>v. </em>City of Hartford</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A9h\">(12031)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b896-5\">Dupont, C. J., Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b896-6\">Submitted on briefs September 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ap9\">decision released October 19, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b896-8\"><em>Donald F. Harris, </em>pro se, and <em>Lisa M. Harris, </em>pro se, the appellants (plaintiffs), filed a brief.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b896-9\"><em>Joseph M. Lugo </em>and <em>Helen Apostolidis, </em>assistant corporation counsel, filed a brief for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b896-10\">Per Curiam.</author>\n<p id=\"AB-2\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

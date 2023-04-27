@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b893-12\">EDWARD A. JAZLOWIECKI <em>v. </em>GLENN LAUZIER</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Apa\">(AC 26374)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b893-13\">Bishop, McLachlan and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b893-14\">Submitted on briefs February 23</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AWn\">officially released March 21, 2006</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b893-16\">Per Curiam.</author>\n<p id=\"ASa\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

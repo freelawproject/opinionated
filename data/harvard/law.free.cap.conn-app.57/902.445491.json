@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b838-13\">JOSEPH GAYMON <em>v. </em>STATE OF CONNECTICUT</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ayh\">(AC 19220)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b838-14\">O\u2019Connell, C. J., and Mihalakos and Zarella, Js.<footnotemark>*</footnotemark></p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b838-15\">Argued January 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A86\">officially released April 18, 2000</decisiondate>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b838-18\"> The listing of judges reflects their seniority status on this court as of the date of oral argument.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"b838-17\">Per Curiam.</author>\n<p id=\"AmXM\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

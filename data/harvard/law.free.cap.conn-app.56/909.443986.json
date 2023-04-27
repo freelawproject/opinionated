@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b901-13\">KNUTSON MORTGAGE CORPORATION <em>v. </em>MIHALY J. SALATA ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b901-14\">(AC 19732)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b901-15\">Lavery, Schailer and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b901-16\">Submitted on briefs January 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AaK\">officially released February 15, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b902-2\"><page-number citation-index=\"1\" label=\"910\">*910</page-number>Per Curiam.</author>\n<p id=\"AdtK\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

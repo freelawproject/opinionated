@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b911-5\">Linda A. Tomasiello <em>v. </em>Francis P. Tomasiello</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b911-6\">(13243)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b911-7\">Dupont, C. J., and Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b911-8\">Argued May 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A0Y\">decision released May 30, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b911-10\"><em>Alan Solomon, </em>with whom, on the brief, was <em>James M. S. Ullman, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b911-11\"><em>Shirley V. Hoogstra, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b911-12\">Per Curiam.</author>\n<p id=\"anz-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

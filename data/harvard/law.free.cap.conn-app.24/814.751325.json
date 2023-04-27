@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"814\" lastpage=\"814\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b802-2\">Joseph Echevarria <em>v. </em>David Hennes</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A6b\">(9117)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b802-3\">Dupont, C. J., Daly and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b802-4\">Argued February 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AUzL\">decision released February 26, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b802-6\"><em>Martin M. Looney, </em>with whom, on the brief, was <em>John A. Keyes, </em>for the appellant-appellee (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b802-7\"><em>Mark G. Ouellette, </em>for the appellee-appellant (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b802-8\">Per Curiam.</author>\n<p id=\"AVt\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

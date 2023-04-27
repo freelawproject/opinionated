@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b856-15\">WILLIAM F. BENNETT <em>v. </em>JOHN H. LINDSAY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AHp\">(AC 19364)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b856-16\">Hennessy, Pellegrino and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b856-17\">Argued May 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aq7-dedup-0\">officially released June 27, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b856-19\">Per Curiam.</author>\n<p id=\"Ay5\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

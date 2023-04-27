@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"926\" lastpage=\"926\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b902-12\">JOHN CONSOLI <em>v. </em>CYNTHIA CONSOLI</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aqc\">(AC 16811)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b902-13\">Lavery, Spear and Healey, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b902-14\">Argued December 9, 1997</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AXSq\">officially released January 6, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b902-16\">Per Curiam.</author>\n<p id=\"Ap-\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

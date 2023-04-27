@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b916-2\">VICTOR CIVIE ET AL. <em>v. </em>OAK LANE COUNTRY CLUB, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b916-3\">(AC 20094)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b916-4\">Mihalakos, Pellegrino and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b916-5\">Argued December 15, 2000</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Apg\">officially released January 9, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b916-7\">Per Curiam.</author>\n<p id=\"Av1\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

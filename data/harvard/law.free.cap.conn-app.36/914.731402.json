@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"914\" lastpage=\"914\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b886-2\">Dorothy Rolla <em>v. </em>Barbara Murray</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ACr\">(12353)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b886-3\">Dupont, C. J., and Lavery and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b886-4\">Argued September 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ANO\">decision released October 18, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b886-6\"><em>Barbara Murray, </em>pro se, the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b886-7\"><em>Glen A. Canner, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b886-8\">Per Curiam.</author>\n<p id=\"ASGl\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

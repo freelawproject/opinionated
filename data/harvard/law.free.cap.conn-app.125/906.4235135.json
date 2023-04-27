@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b860-2\">PATRIOT NATIONAL BANK <em>v. </em>SCOTT J. SILVER ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b860-3\">(AC 31485)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b860-4\">Harper, Lavine and Bear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b860-5\">Argued December 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AU6\">officially released December 28, 2010</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b860-7\">Per Curiam.</author>\n<p id=\"ArD\">The judgment is affirmed and the case is remanded for the purpose of setting a new sale date.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

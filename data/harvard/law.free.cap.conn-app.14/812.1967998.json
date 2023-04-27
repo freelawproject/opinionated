@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"812\" lastpage=\"812\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b764-5\">Francis Vigneri <em>v. </em>Deborah L. Zura et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b764-6\">(5452)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b764-7\">Daly, O\u2019Connell and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b764-8\">Submitted on briefs April 14 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Axb\">decision released April 21, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b764-10\"><em>Robert E. Johnson, Jr., </em>filed a brief for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b764-11\"><em>Richard S. Cramer </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b764-12\">Per Curiam.</author>\n<p id=\"A_gM\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

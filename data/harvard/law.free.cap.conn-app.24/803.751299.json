@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b791-2\">John Jones et al. <em>v. </em>Slater Road Associates</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b791-3\">(9189)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b791-4\">Daly, Poti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b791-5\">Argued January 8</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A9n\">decision released January 22, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b791-7\"><em>Richard F. Tolisano, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b791-8\"><em>Craig S. Sampson, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b791-9\">Per Curiam.</author>\n<p id=\"Aym-\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

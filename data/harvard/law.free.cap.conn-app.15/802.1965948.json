@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"802\" lastpage=\"802\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b780-5\">Gilbert Marbe <em>v. </em>Robert W. Worley, Jr., et al., Executors (Estate of Fay Marbe)</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b780-6\">(6502)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b780-7\">Dupont, C. J., Stoughton and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b780-8\">Submitted on briefs May 16\u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Am1\">decision released May 19, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b780-10\"><em>Gilbert Marbe, </em>pro se, the appellant (plaintiff), filed a brief.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b780-11\"><em>Kurt W. Hansson </em>and <em>Robert P. Dolian </em>filed a brief for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b780-12\">Per Curiam.</author>\n<p id=\"Ama\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

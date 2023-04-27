@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"828\" lastpage=\"828\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b816-2\">Paragon Mortgage Company <em>v. </em>E. Douglas Grissette</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A8aP\">(9496)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b816-3\">O\u2019Connell, Norcott and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b816-4\">Argued March 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A98\">decision released April 23, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b816-6\"><em>E. Douglas Grissette, </em>pro se, the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b816-7\"><em>Alan P. Rosenberg, </em>with whom, on the brief, was <em>Donald G. Rosenberg, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b816-8\">Per Curiam.</author>\n<p id=\"A5bX\">The judgment is affirmed and the case is remanded with direction to set new law days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

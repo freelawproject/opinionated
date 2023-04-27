@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b842-13\">JOSE HERNANDEZ, ADMINISTRATOR (ESTATE OF EFREN TORRES) <em>v. </em>ERNEST NEWTON</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aug-dedup-0\">(AC 18873)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b842-14\">Foti, Lavery and Vertefeuille, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b842-15\">Submitted on briefs September 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A07S\">officially released November 2, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b842-17\">Per Curiam.</author>\n<p id=\"AH5-\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

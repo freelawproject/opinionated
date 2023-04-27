@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"887\" lastpage=\"887\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b907-14\">OLEG SOKOLOV <em>v. </em>TREX MEDICAL CORPORATION, LORAD DIVISION, ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b907-15\">(AC 21200)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b907-16\">Spear, Dranginis and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b907-17\">Argued April 23</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ag0N\">officially released May 14, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b907-19\">Per Curiam.</author>\n<p id=\"Aerr\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

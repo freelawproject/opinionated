@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b860-7\">MARIO SEGOVIA <em>v. </em>SUSAN SEGOVIA</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ast\">(AC 28173)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b860-8\">Flynn, C. J., and Lavine and West, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b860-9\">Argued October 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVPy\">officially released December 11, 2007</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b860-11\">Per Curiam.</author>\n<p id=\"APR\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

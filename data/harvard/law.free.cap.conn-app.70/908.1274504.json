@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b902-7\">COSTAS GEORGACOPOULOS <em>v. </em>KEN MARINO SALES AND SERVICE, LTD.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b902-8\">(AC 22429)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b902-9\">Foti, Flynn and Bishop, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b902-10\">Submitted on briefs June 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A27\">officially released July 2, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b902-12\">Per Curiam.</author>\n<p id=\"A7m\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

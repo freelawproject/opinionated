@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"916\" lastpage=\"916\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b896-2\">State of Connecticut <em>v. </em>Silverio Alberron</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ARI\">(11518)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b896-3\">Daly, O\u2019Connell and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b896-4\">Argued April 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aq8\">decision released May 18, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b896-6\"><em>Miles Gerety, </em>assistant public d\u00e9fender, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b896-7\"><em>Richard F. Jacobson, </em>assistant state\u2019s attorney, with whom, on the brief, were <em>Donald A. Browne, </em>state\u2019s attorney, and <em>John Smriga, </em>for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b896-8\">Per Curiam.</author>\n<p id=\"AlW\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

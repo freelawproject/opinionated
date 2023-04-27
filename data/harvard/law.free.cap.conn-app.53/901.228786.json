@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b901-2\">MATTHEW A. CAPOZZIELLO <em>v. </em>COMMISSIONER OF MOTOR VEHICLES</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AQiA\">(AC 18621)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b901-3\">Lavery, Schaller and Sullivan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b901-4\">Submitted on briefs April 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"a3d-dedup-0\">officially released May 4, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b901-6\">Per Curiam. The</p>\n<p id=\"Aicq\">judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

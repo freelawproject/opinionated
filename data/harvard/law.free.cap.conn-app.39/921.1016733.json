@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"921\" lastpage=\"921\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b895-6\">DENNIS J. FANNERON ET AL. <em>v. </em>DAVID L. BAIRD ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b895-8\">(13854)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b895-9\">Lavery, Schaller and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b895-10\">Argued November 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZR\">decision released November 28, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b895-12\"><em>Leslie Byelas, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b895-13\"><em>Arthur C. Laske III, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b895-14\">PER CURIAM.</author>\n<p id=\"AKc\">This case is controlled by Practice Book \u00a7 441.</p>\n<p id=\"b895-15\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

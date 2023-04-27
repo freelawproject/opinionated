@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"922\" lastpage=\"922\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b894-4\">Dime Savings Bank of Wallingford <em>v. </em>David J. Vumback et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b894-6\">(12800)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b894-7\">O\u2019Connell, Lavery and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b894-8\">Argued November 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AT9\">decision released November 22, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b894-10\"><em>David J. Vumback, </em>pro se, the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b894-11\"><em>Craig B. Henrici, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b894-12\">Per Curiam.</author>\n<p id=\"Auk\">The judgment is affirmed and the case is remanded for the purpose of setting a new sale date.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

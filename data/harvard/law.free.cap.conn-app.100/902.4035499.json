@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b894-2\">JOHN GRASSO <em>v. </em>BEVERLY PIACENTINI</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Axtl\">(AC 27048)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b894-3\">Gruendel, Lavine and West, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b894-4\">Argued February 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AvQ\">officially released March 27, 2007</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b894-6\">Per Curiam.</author>\n<p id=\"AHqQ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

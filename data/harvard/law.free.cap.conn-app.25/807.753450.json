@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"807\" lastpage=\"807\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b793-2\">Nova Electronics, Inc. <em>v. </em>Mark S. Fortier et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b793-3\">(9754)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b793-4\">Dupont, C. J., Foti and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b793-5\">Argued May 31</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Akb\">decision released June 25, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b793-7\"><em>John H. Hanks, </em>with whom, on the brief, was <em>Richard W. Tome, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b793-8\"><em>Patrick W. Boatman, </em>with whom, on the brief, was <em>Martha R. Rainey, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b793-9\">Per Curiam.</author>\n<p id=\"Abl\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

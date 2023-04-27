@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b857-2\">ALBERT E. WEISS, JR., ET AL. <em>v. </em>MARGARET M. WEISS ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b857-3\">(AC 22720)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b857-4\">Laveiy, C. J., and Foti and West, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b857-5\">Argued February 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Afi\">officially released April 8, 2003</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b857-7\">Per Curiam.</author>\n<p id=\"AhQ\">There is no standing.</p>\n<p id=\"b857-8\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

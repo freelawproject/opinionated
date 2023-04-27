@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b873-12\">GEORGE GALBERTH <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"axx-dedup-0\">(AC 26755)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b873-13\">Schaller, Harper and Lavine, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b873-14\">Argued December 11, 2006</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AUqG\">officially released January 2, 2007</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b873-16\">Per Curiam.</author>\n<p id=\"AWhr\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

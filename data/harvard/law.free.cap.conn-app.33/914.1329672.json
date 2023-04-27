@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"914\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b902-10\">Anne Perzanowski <em>v. </em>Ann Just</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aqo\">(12478)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b902-11\">O\u2019Connell, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b902-12\">Argued November 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aov\">decision released November 30, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b903-2\"><page-number citation-index=\"1\" label=\"915\">*915</page-number><em>Theodore J. Wurz, </em>with whom, on the brief, was <em>Mary-Lynn Krusz, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b903-3\"><em>Robert B. Levine, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AMT\">Per Curiam.</author>\n<p id=\"Ag62\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

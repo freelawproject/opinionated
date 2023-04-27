@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"810\" lastpage=\"810\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b756-7\">Ford Sheet Metal Co., Inc. <em>v. </em>Mechanical Service, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b756-8\">(3812)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b756-9\">Hull, Daly and Bieluch, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b756-10\">Argued December 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AbG\">decision released December 16, 1986</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b756-12\"><em>David M. Reilly, </em>for the appellant-appellee (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b756-13\"><em>Pat Labbadia III, </em>with whom, on the brief, was <em>Robert S. Touger, </em>for the appellee-appellant (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b756-14\">Per Curiam.</author>\n<p id=\"Ao8\">There is no error on the named defendant\u2019s appeal; there is no error on the plaintiff\u2019s cross appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

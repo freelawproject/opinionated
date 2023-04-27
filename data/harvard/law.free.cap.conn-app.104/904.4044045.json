@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b862-9\">GLORIA PALMIERI <em>v. </em>METCALF\u2019S DRUG STORE, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AM8g\">(AC 28285)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b862-10\">Flynn, C. J., and McLachlan and Gruendel, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b862-11\">Argued November 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ARj\">officially released December 11, 2007</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b862-13\">Per Curiam.</author>\n<p id=\"A95\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

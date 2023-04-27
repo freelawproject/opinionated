@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"924\" lastpage=\"924\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b900-17\">ROGER ROY <em>v. </em>GENERAL DYNAMICS CORPORATION, ELECTRIC BOAT DIVISION, ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b900-18\">(AC 17118)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b900-19\">Foti, Spear and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b900-20\">Submitted on briefs December 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AK5R\">officially released December 23, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b900-22\">Per Curiam.</author>\n<p id=\"A3Z\">The decision of the workers\u2019 compensation review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

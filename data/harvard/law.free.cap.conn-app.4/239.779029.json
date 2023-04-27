@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"239\" lastpage=\"240\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b255-9\">Frank Hastings <em>v. </em>Richard Cromie</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A5z\">(3428)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b255-10\">Hull, Spallone and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b255-11\">Argued May 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A5l\">decision released June 11, 1985</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b256-4\"><page-number citation-index=\"1\" label=\"240\">*240</page-number><em>Edward Morelli, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AdF\"><em>Constance L. Epstein, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b256-5\">Per Curiam.</author>\n<p id=\"A_x\">A thorough review of the record, transcripts and briefs fails to disclose any basis to support the plaintiffs claims of error.</p>\n<p id=\"b256-6\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b861-7\">DAVID R. GLADSTONE <em>v. </em>CITY OF STAMFORD ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AYB\">(AC 31911)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b861-8\">Harper, Beach and Alvord, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b861-9\">Submitted on briefs December 7, 2010</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"APZ\">officially released January 4, 2011</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b861-11\">Per Curiam.</author>\n<p id=\"ARX5\">The decision of the workers\u2019 compensa-</p>\n<p id=\"ADh\">tion review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

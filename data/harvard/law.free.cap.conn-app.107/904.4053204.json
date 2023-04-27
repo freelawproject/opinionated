@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b908-8\">CECELIA LEBBY <em>v. </em>CITY OF NEW BRITAIN ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ar3\">(AC 29079)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b908-9\">Flynn, C. J., and DiPentima and Harper, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b908-10\">Submitted on briefs March 31</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AkA\">officially released April 29, 2008</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b908-12\">Per Curiam.</author>\n<p id=\"A_0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"193\" lastpage=\"194\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b205-7\">Avis Rent A Car System, Inc. <em>v. </em>North American Van Lines, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b205-8\">(4395)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b205-9\">Dupont, C. J., Hull and Borden, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b205-10\">Argued April 8 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Az4e\">decision released April 29, 1986</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b206-4\"><page-number citation-index=\"1\" label=\"194\">*194</page-number><em>Philip R. Shiff, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b206-5\"><em>Robert W. Lotty, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b206-6\">Per Curiam.</author>\n<p id=\"A_E\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

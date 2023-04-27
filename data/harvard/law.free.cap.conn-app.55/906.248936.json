@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b846-7\">EMANUEL SBONA <em>v. </em>CITY OF MIDDLETOWN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aaz-dedup-0\">(AC 18404)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b846-8\">Foti, Landau and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b846-9\">Argued October 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Asm6\">officially released November 23, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b846-11\">Per Curiam.</author>\n<p id=\"Ah8\">The decision of the workers\u2019 compensation review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b913-2\">Virgil B. Baldi et al. <em>v. </em>Harry Novick et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AgEA\">(12026)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b913-4\">O\u2019Connell, Landau and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b913-5\">Argued June 8</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Al5\">decision released June 29, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b913-7\"><em>Harry Novick, </em>pro se, the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b913-8\"><em>Howard C. Kaplan, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b913-9\">Per Curiam.</author>\n<p id=\"A-12\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

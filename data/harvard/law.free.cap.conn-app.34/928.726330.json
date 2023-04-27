@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"928\" lastpage=\"928\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b930-2\">Maria Gutierrez et al. <em>v. </em>Elise Nugent et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b930-3\">(12451)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b930-4\">Foti, Lavery and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b930-5\">Argued May 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A3R\">decision released June 14, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b930-7\"><em>Melvin J. Silverman, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b930-8\"><em>Thomas G. Cotter, </em>with whom, on the brief, was <em>Edward V. Walsh, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b930-9\">Per Curiam.</author>\n<p id=\"A1vB\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

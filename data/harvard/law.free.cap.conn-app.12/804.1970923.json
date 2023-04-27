@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"804\" lastpage=\"805\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b732-10\">Douglas Barnes <em>v. </em>Northeast Utilities et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b732-11\">(5778)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b732-12\">Dupont, C. J., Spallone and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b732-13\">Submitted on briefs September 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Avq\">decision released September 30, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b733-2\"><page-number citation-index=\"1\" label=\"805\">*805</page-number><em>Gilbert Shasha </em>and <em>David M. Fabricant </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b733-3\"><em>Anthony M. Fitzgerald </em>and <em>Maureen Danehy Cox </em>filed a brief for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b733-4\">Per Curiam.</author>\n<p id=\"Azlm\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

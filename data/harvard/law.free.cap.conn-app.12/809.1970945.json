@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b737-10\">Ann M. Lorusso <em>v. </em>Ronald J. Nemeyer</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ASr\">(4922)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b737-11\">Borden, Daly and O\u2019Connell, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b737-12\">Argued October 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Azk\">decision released October 15, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b737-14\"><em>Richard P. Weinstein, </em>with whom, on the brief, were <em>Kerry M. Wisser and Michael A. Pepper, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b737-15\"><em>Ira B. Grudberg, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b737-16\">Per Curiam.</author>\n<p id=\"AvM\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

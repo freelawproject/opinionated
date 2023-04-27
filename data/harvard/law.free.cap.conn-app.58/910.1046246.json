@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b860-8\">ROY SMITH <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AmjE\">(AC 19248)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b860-9\">Foti, Hennessy and Pellegrino, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b860-10\">Submitted on briefs June 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AJn\">officially released July 11, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b860-12\">Per Curiam.</author>\n<p id=\"AN4\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b903-7\">BEATRICE MARTONE-ROSATO <em>v. </em>PHYLLIS GUARDIANO-NEIZWANGER ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b903-8\">(AC 21799)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b903-9\">Flynn, Bishop and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b903-10\">Argued June 12</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Auo\">officially released July 2, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b903-12\">Per Curiam.</author>\n<p id=\"A6g\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

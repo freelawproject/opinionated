@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b852-8\">HERBERT PRIOLEAU <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AXs-\">(AC 18930)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b852-9\">Lavery, C. J., and Foti and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b852-10\">Argued May 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZr\">officially released May 30, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b852-12\">Per Curiam.</author>\n<p id=\"ajg-dedup-0\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

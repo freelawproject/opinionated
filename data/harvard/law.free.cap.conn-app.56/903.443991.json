@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b895-12\">STATE OF CONNECTICUT <em>v. </em>JOSEPH EDWARDS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A3c\">(AC 18565)</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ACCD\">(AC 18566)</docketnumber>\n<p data-order=\"3\" data-type=\"judges\" id=\"b895-14\">Spear, Mihalakos and Freedman, Js.</p>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b895-15\">Argued December 6</otherdate>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"A453\">officially released December 28, 1999</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b895-17\">Per Curiam.</author>\n<p id=\"Avq\">The judgments are affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

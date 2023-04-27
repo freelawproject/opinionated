@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"820\" lastpage=\"820\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b772-7\">Gena Tannoia <em>v. </em>Blue Ribbons Enterprises, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b772-8\">(6305)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b772-9\">Borden, Daly and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b772-10\">Submitted on briefs May 9 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AxmL\">decision released May 19, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b772-12\"><em>Frank J. Mongillo, Jr., </em>filed a brief for the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b772-13\"><em>James M. O\u2019Connor </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b772-14\">Per Curiam.</author>\n<p id=\"A3F\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

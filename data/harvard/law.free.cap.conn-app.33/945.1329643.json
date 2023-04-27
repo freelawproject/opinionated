@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"945\" lastpage=\"945\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b933-2\">Elizabeth Gallagher, Executrix (Estate of Thomas Gallagher) <em>v. </em>J. William Burns, Commissioner of Transportation et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b933-3\">(12315)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b933-4\">Foti, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b933-5\">Argued February 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AgJ\">decision released March 22, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b933-7\"><em>Steven P. Kulas, </em>with whom, on the brief, was <em>Prescott W. May, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b933-8\"><em>Edward P. Brady III, </em>for the appellee (named defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b933-9\">Per Curiam.</author>\n<p id=\"A6V\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

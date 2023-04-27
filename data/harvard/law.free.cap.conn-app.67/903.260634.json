@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b865-2\">VICTOR MERCIER <em>v. </em>DEPARTMENT OF MOTOR VEHICLES</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AZq\">(AC 21034)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b865-3\">Lavery, C. J., and Schaller and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b865-4\">Submitted on briefs November 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AUH\">officially released November 27, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b865-6\">Per Curiam.</author>\n<p id=\"Ac0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

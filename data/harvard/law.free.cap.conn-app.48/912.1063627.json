@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b922-2\">CITY OF STAMFORD <em>v. </em>LJUBICA RADULOVIC ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aya-dedup-2\">(AC 16672)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b922-3\">Spear, Hennessy and Sullivan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b922-4\">Argued March 19</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AJV\">officially released April 14, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b922-6\">. Per Curiam.</author>\n<p id=\"AnEg\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"926\" lastpage=\"927\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b900-9\">JOHN E. KRAFT <em>v. </em>LORRAINE A. KRAFT</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aos-dedup-1\">(14233)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b900-10\">Foti, Landau and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b900-11\">Submitted on briefs November 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZqt\">decision released November 28, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b901-2\"><page-number citation-index=\"1\" label=\"927\">*927</page-number><em>Linda M. Guliuzza </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b901-3\"><em>Thomas B. Lynch </em>filed a brief for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b901-4\">PER CURIAM.</author>\n<p id=\"ayq-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

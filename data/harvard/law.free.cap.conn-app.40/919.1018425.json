@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"919\" lastpage=\"920\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b897-11\">CHRISTINE B. O\u2019SULLIVAN <em>v. </em>JERRYL MANISCALCO</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b897-12\">(14722)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b897-13\">O\u2019Connell, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b897-14\">Submitted on briefs January 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ALM\">decision released January 30, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b898-3\"><page-number citation-index=\"1\" label=\"920\">*920</page-number><em>Robert H. Boynton </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b898-4\"><em>Edward Kanowitz </em>and <em>Christine B. O\u2019Sullivan </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b898-5\">PER CURIAM.</author>\n<p id=\"AOI\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"917\" lastpage=\"918\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b905-12\">Comfed Savings Bank <em>v. </em>Skender Shehu et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b905-13\">(12243)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b905-14\">Dupont, C. J., Heiman and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b905-15\">Argued December 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AG4q\">decision released December 21, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b906-3\"><page-number citation-index=\"1\" label=\"918\">*918</page-number><em>William F. Gallagher, </em>with whom, on the brief, was <em>William R. Bowles, </em>for the appellants (named defendant et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b906-4\"><em>Ann R. Stravalle-Schmidt, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b906-5\">Per Curiam.</author>\n<p id=\"AV85\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

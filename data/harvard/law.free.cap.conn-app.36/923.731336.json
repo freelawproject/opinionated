@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"923\" lastpage=\"923\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b895-6\">Fairfield First Bank and Trust Company <em>v. </em>Spiro Armenis et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b895-7\">(13015)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b895-8\">Lavery, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b895-9\">Submitted on briefs November 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ApE\">decision released November 22, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b895-11\"><em>Ridgely W. Brown </em>filed a brief for the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b895-12\"><em>Thomas B. Pursell </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b895-13\">Per Curiam.</author>\n<p id=\"AUfW\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

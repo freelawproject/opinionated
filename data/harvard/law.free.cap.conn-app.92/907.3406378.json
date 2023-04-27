@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b901-13\">GREGG A. MARCHAND <em>v. </em>COMMISSIONER OF MOTOR VEHICLES</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AvI\">(AC 26425)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b901-14\">Bishop, McLachlan and Gruendel, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b901-15\">Submitted on briefs December 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aaa\">officially released December 27, 2005</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b901-17\">Per Curiam.</author>\n<p id=\"AP8\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

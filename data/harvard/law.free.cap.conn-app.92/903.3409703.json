@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b897-8\">SILAS HARRIS <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A0jz\">(AC 24717)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b897-9\">Dranginis, Gruendel and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b897-10\">Argued September 19</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Acv\">officially released November 1, 2005</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b897-12\">Per Curiam.</author>\n<p id=\"A0e\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

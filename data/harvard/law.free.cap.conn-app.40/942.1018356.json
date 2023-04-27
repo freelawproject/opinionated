@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"942\" lastpage=\"943\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b920-13\">ANNETTE THOMAS <em>v. </em>WALKER S. THOMAS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"arv-dedup-1\">(14369)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b920-14\">Dupont, C. J., and Lavery and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b920-15\">Argued February 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"a1l-dedup-0\">decision released March 26, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b921-3\"><page-number citation-index=\"1\" label=\"943\">*943</page-number><em>WalkerS. Thomas, </em>pro se, the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b921-4\"><em>Sean Orion LeBas, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b921-5\">PER CURIAM.</author>\n<p id=\"anr-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

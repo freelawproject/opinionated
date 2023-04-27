@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b881-14\">MICHAEL PLANETA <em>v. </em>BAHAMA BOBS HARTFORD, INC., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b881-15\">(AC 16086)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b881-16\">O\u2019Connell, C. J., and Spear and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b881-17\">Submitted on briefs September 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AIb3\">officially released October 21, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b881-19\">Per Curiam.</author>\n<p id=\"Az-O\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

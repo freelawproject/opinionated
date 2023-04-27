@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"812\" lastpage=\"812\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b790-2\">Erio Godinez <em>v. </em>Hartford Square Associates</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b790-3\">(5971)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b790-4\">Dupont, C. J., Borden and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b790-5\">Argued June 7\u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AXnJ\">decision released June 24, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b790-7\"><em>Jeffrey J. Mirman, </em>with whom, on the brief, was <em>Bianca D. Mackey, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b790-8\"><em>Andrew J. O\u2019Keefe, </em>with whom was <em>Maureen Sullivan Dinnan, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b790-9\">Per Curiam.</author>\n<p id=\"AZG8\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

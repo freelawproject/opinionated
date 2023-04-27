@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b907-2\">Town of Thomaston <em>v. </em>Edward F. Gebelein, Jr.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b907-3\">(13106)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b907-4\">O\u2019Connell, Laveey and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b907-5\">Argued April 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Am2\">decision released May 23, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b907-7\"><em>Edward F. Gebelein, Jr., </em>pro se, the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b907-8\"><em>Michael D. Rybak, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b907-9\">Per Curiam.</author>\n<p id=\"AWJq\">The judgment is affirmed and the case is remanded to the trial court for further proceedings.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

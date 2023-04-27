@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"729\" lastpage=\"730\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b747-4\">BROOKS-CALLAWAY COMPANY v. THE UNITED STATES</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b747-6\">[No. 44809]</docketnumber>\n<p data-order=\"2\" data-type=\"court\" id=\"b747-7\"><em>[Ante, </em>p. 689 ;</p>\n<citation data-order=\"3\" data-type=\"citation\" id=\"Axd\">318 U. S. 120]</citation>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b748-9\"><page-number citation-index=\"1\" label=\"730\">*730</page-number>Mr. Justice Murphy</author>\n<p id=\"AfeW\">delivered the opinion of the Supreme Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"962\" lastpage=\"962\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b934-6\">Mortgage Properties Corporation <em>v. </em>David Wagner et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b934-8\">(13765)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b934-9\">Dupont, C. J., and Lavery and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b934-10\">Argued January 13</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AK8\">decision released February 14, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b934-12\"><em>David R. Wagner, </em>pro se, the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b934-13\"><em>Paul A. De Genaro, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b934-14\">Per Curiam.</author>\n<p id=\"ApRU\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

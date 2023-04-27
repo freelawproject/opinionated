@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b895-2\">ANDREW S. RAJCOK <em>v. </em>STOP AND SHOP COMPANIES, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b895-3\">(AC 23356)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b895-4\">Lavery, C. J., and Foti and Flynn, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b895-5\">Submitted on briefs May 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AQ8\">officially released June 10, 2003</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b895-7\">Per Curiam.</author>\n<p id=\"AJ0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b910-17\">LOIS VERTUCCI ET AL. <em>v. </em>DAVID LINDSAY ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b910-18\">(14630)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b910-19\">O\u2019Connell, Lavery and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b910-20\">Submitted on briefs March 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AkpB\">officially released April 23, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b910-21\">Per Curiam.</author>\n<p id=\"AyYM\">This appeal is controlled by <em>Sanzone </em>v. <em>Board of Police </em>Commissioners, 219 Conn. 179, 592 A.2d 912 (1991), and <em>Cook </em>v. <em>Turner, </em>219 Conn. 641, 593 A.2d 504 (1991).</p>\n<p id=\"b910-22\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

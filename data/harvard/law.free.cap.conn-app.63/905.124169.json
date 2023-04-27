@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b889-9\">STATE OF CONNECTICUT <em>v. </em>DONNA M. LEWIS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AVpl\">(AC 20387)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b889-10\">Foti, Spear and Freedman, Js.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AVag\">officially released May 22, 2001</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b889-13\">Per Curiam.</author>\n<p id=\"Aed\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

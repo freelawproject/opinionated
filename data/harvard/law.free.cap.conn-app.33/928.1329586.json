@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"928\" lastpage=\"928\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b916-2\">United Electric Supply Company, Inc. <em>v. </em>E. I. Constructors, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b916-4\">(12174)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b916-5\">O\u2019Connell, Heiman and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b916-6\">Submitted on briefs January 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ASm\">decision released January 25, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b916-8\"><em>Bernard Green </em>and <em>Joel Z. Green </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b916-9\"><em>Eugene C. Cushman </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b916-10\">Per Curiam.</author>\n<p id=\"Aki6\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

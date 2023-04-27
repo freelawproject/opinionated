@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b904-2\">WILLIAM COTTER ET AL. <em>v. </em>ALLSTATE INSURANCE COMPANY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AKY\">(AC 18914)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b904-3\">Schaller, Spear and Mihalakos, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b904-4\">Argued February 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AbGm\">officially released March 14, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b904-6\">Per Curiam.</author>\n<p id=\"AuYP\">The claims of the plaintiffs are controlled by <em>Doyle </em>v. <em>Metropolitan Property &amp; Casualty Ins. Co., </em>252 Conn. 79, 743 A.2d 156 (1998).</p>\n<p id=\"b904-7\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

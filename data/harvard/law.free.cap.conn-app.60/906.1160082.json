@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b914-13\">KLM INDUSTRIES, INC. <em>v. </em>PATRICK J. BERKERY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A6_r\">(AC 20221)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b914-14\">Lavery, C. J., and Foti and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b914-15\">Submitted on briefs September 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aop-dedup-1\">officially released October 31, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b914-17\">Per Curiam.</author>\n<p id=\"afi-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

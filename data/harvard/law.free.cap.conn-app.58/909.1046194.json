@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b859-7\">THOMAS GRAHAM <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aq7D\">(AC 18296)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b859-8\">Foti, Hennessy and Pellegrino, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b859-9\">Submitted on briefs June 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AxNv\">officially released July 11, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b859-11\">Per Curiam.</author>\n<p id=\"ACP0\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

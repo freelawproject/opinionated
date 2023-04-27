@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b932-14\">NANCY LEWIS <em>v. </em>EARL BONHOTEL</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A5O-\">(AC 24479)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b932-15\">Lavery, C. J., and Schaller and McLachlan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b932-16\">Submitted on briefs April 2 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A0v\">officially released April 27, 2004</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b932-18\">Per Curiam.</author>\n<p id=\"AiR\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

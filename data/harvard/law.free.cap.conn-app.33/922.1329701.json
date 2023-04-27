@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"922\" lastpage=\"922\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b910-2\">Roger A. Thorpe <em>v. </em>Ducci Electrical Contractors, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b910-3\">(12183)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b910-4\">La very, Landau and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b910-5\">Argued December 9, 1993</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AxL\">decision released January 4, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b910-7\"><em>Roger A. Thorpe, </em>pro se, the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b910-8\"><em>Mark E. Blakeman, </em>for the appellee (named defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b910-9\">Per Curiam.</author>\n<p id=\"AZL\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

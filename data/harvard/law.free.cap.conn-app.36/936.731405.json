@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"936\" lastpage=\"937\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b908-12\">Citicorp Mortgage, Inc. <em>v. </em>James H. Hairston et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b908-13\">(13173)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b908-14\">O\u2019Connell, Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b908-15\">Argued December 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aev\">decision released December 27, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b909-3\"><page-number citation-index=\"1\" label=\"937\">*937</page-number><em>Daniel P. Kulakofsky, </em>for the appellants (named defendant et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b909-4\"><em>William K. Eisenman, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b909-5\">Per Curiam.</author>\n<p id=\"AS-\">The judgment is affirmed and the case is remanded for the purpose of setting new law days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

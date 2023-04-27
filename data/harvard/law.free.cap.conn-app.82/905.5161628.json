@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b933-2\">VICTOR GAGLIARDI <em>v. </em>EAGLE GROUP, INC., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"axl-dedup-1\">(AC 24030)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b933-3\">Foti, Dranginis and West, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b933-4\">Submitted on briefs April 2 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A5fz\">officially released April 27, 2004</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b933-6\">Per Curiam.</author>\n<p id=\"A_V\">The decision of the workers\u2019 compensation review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

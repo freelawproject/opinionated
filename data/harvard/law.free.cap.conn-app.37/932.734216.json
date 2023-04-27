@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"932\" lastpage=\"932\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b924-2\">State of Connecticut <em>v. </em>Bernard Gipson</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ac1\">(13553)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b924-3\">Landau, Spear and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b924-4\">Argued April 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Av_D\">decision released May 16, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b924-6\"><em>Susan Brown, </em>assistant public defender, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b924-7\"><em>JoAnneSulik, </em>deputy assistant state\u2019s attorney, with whom, on the brief, were <em>James E. Thomas, </em>state\u2019s attorney, and <em>Rosita M. Creamer, </em>assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b924-8\">Per Curiam.</author>\n<p id=\"AjC\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b890-10\">Myrtle C. Mignosa <em>v. </em>Dominick Mignosa</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A3xs\">(11349)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b890-11\">Foti, Lavery and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b890-12\">Argued January 12 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ah6\">decision released February 2, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b891-3\"><page-number citation-index=\"1\" label=\"905\">*905</page-number><em>Harold J. Geragosian, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b891-4\"><em>Timothy Sheehan, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b891-5\">Per Curiam.</author>\n<p id=\"Aqm\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

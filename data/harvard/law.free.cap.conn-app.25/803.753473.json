@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b789-6\">Edna Masarjian <em>v. </em>Albert Masarjian</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AD_\">(9805)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b789-7\">Spallone, Landau and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b789-8\">Argued June 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AmR\">decision released June 25, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b789-10\"><em>Raymond T. Connor, </em>with whom, on the brief, was <em>Christopher T. Godialis, </em>certified legal intern, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b789-11\"><em>Dianne M. Andersen, </em>with whom, on the brief, was <em>Melissa A. Granel, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b789-12\">Per Curiam.</author>\n<p id=\"ATf\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

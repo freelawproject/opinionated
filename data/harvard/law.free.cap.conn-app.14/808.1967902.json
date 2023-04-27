@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"808\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b760-2\">Stanley V. Tucker <em>v. </em>Mechanics Savings Bank et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b760-3\">(5994)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b760-4\">Dupont, C. J., Borden and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b760-5\">Submitted on briefs March 17 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AS\">decision released March 30, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b760-7\"><em>Stanley V. Tucker, </em>pro se, the appellant (plaintiff), filed a brief.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b760-8\"><em>Joseph V. Meaney, Jr., and Laura Gold Becker </em>filed a brief for the appellee (named defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b760-9\">Per Curiam.</author>\n<p id=\"A5yV\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

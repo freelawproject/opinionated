@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b847-7\">BEVERLY DURHAM <em>v. </em>OSCAR DURHAM</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"a7c-dedup-0\">(AC 19579)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b847-8\">O\u2019Connell, C. J., and Spear and Mihalakos, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b847-9\">Submitted on briefs November 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZc\">officially released November 23, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b847-11\">Per Curiam.</author>\n<p id=\"ahi-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

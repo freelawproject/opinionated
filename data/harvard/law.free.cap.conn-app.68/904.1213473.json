@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b916-2\">CHRISTOPHER SHUCKRA <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"APi2\">(AC 21583)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b916-3\">Lavery, C. J., and Mihalakos and Bishop, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b916-4\">Submitted on briefs January 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AO-\">officially released February 19, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b916-6\">Per Curiam.</author>\n<p id=\"AFJ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

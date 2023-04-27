@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b884-3\">AMITY BANK <em>v. </em>GEORGE J. SCARVELES ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b884-4\">(11173)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b884-5\">O\u2019Connell, Landau and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b884-6\">Argued September 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ahk-dedup-0\">decision released October 24, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b884-8\"><em>Max F. Brunswick, </em>for the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b884-9\"><em>Thomas E. Crosby, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b884-10\">PER CURIAM.</author>\n<p id=\"ahd-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"919\" lastpage=\"919\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b921-10\">Stanley Kulenski <em>v. </em>Atlas Moving and Storage Company, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b921-11\">(12966)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b921-12\">Landau, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b921-13\">Argued May 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ATo\">decision released May 24, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b921-15\"><em>Ronald F. Bozelko, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b921-16\"><em>Hanon W. Russell, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b921-17\">Per Curiam.</author>\n<p id=\"AeP\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

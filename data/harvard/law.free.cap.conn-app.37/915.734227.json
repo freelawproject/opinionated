@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b907-5\">State of Connecticut <em>v. </em>Eric J. Yerkes</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aa5\">(13778)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b907-6\">Dupont, C. J., and Landau and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b907-7\">Argued February 21</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AYu\">decision released April 4, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b907-9\"><em>Bruce A. Sturman, </em>public defender, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b907-10\"><em>JohnP. Gravalec-Pannone, </em>assistant state\u2019s attorney, with whom, on the brief, was <em>C. Robert Satti, Sr., </em>state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b907-11\">Per Curiam.</author>\n<p id=\"Agq\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

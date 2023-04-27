@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b888-7\">STEPHEN J. LANDA <em>v. </em>DEPARTMENT OF MOTOR VEHICLES</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"agg-dedup-1\">(AC 20685)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b888-8\">Foti, Schaller and Flynn, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b888-9\">Submitted on briefs April 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AhX\">officially released May 8, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b888-11\">Per Curiam.</author>\n<p id=\"Aj6\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"920\" lastpage=\"920\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b906-8\">Adam Gaski <em>v. </em>Gaski Realty, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b906-9\">(11336)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b906-10\">Heiman, Freedman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b906-11\">Argued February 23 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AJy\">decision released March 16, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b906-13\"><em>Steven W. Varney, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b906-14\"><em>Constance L. Epstein,\u25a0 </em>with whom, on the brief, were <em>John Stephen Papa, Michael McDonnell, Ruth A. Tower </em>and <em>Bryan Meccariello, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b906-15\">Per Curiam.</author>\n<p id=\"Aat\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

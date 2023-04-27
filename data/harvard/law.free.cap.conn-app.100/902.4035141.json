@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b894-7\">DAMON SCOTT <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AKP\">(AC 27138)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b894-8\">Bishop, Harper and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b894-9\">Argued March 13</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AiCC\">officially released March 27, 2007</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b894-11\">Per Curiam.</author>\n<p id=\"AVu\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

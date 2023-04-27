@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"931\" lastpage=\"932\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b911-13\">Allan Cleveland <em>v. </em>Suburban Subaru, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"akl-dedup-0\">(11887)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b911-14\">O\u2019Connell, Lavery and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b911-15\">Argued June 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A73\">decision released July 29, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b912-3\"><page-number citation-index=\"1\" label=\"932\">*932</page-number><em>Bruce D. Tyler, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b912-4\"><em>James C. Mulholland, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b912-5\">Per Curiam.</author>\n<p id=\"Aq90\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"802\" lastpage=\"802\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b754-4\">Advanced Services, Inc., et al. <em>v. </em>Daniel C. Wright, Jr., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b754-6\">(5763)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b754-7\">Spallone, Daly and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b754-8\">Submitted on briefs March 10 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aqo\">decision released March 25, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b754-10\"><em>John E. Dowling </em>filed a brief for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b754-11\"><em>Herbert F. Rosenberg </em>and <em>Michael P. Ronan </em>filed a brief for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b754-12\">Per Curiam.</author>\n<p id=\"AyF\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

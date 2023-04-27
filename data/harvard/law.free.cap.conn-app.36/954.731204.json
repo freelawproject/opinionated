@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b926-2\">United States Fidelity and Guaranty Company, Inc. <em>v. </em>Custom Pools by L.A. Socci, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b926-3\">(13123)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b926-4\">Foti, Lavery and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b926-5\">Submitted on briefs January 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AT7_\">decision released January 31, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b926-7\"><em>John V. Bologna </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b926-8\"><em>Joseph A. Maker </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b926-9\">Per Curiam.</author>\n<p id=\"Aza\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

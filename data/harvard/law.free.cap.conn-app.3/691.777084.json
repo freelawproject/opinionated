@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"691\" lastpage=\"691\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b707-7\">Lightway Realty, Inc. <em>v. </em>Nicotra-Wieler Investment Management, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b707-8\">(3301)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b707-9\">Dupont, C.P.J., Hull and Borden, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b707-10\">Argued April 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A0Wa\">decision released May 7, 1985</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b707-12\"><em>StephenB. Alderman, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b707-13\"><em>Lawrence W. Iannotti, </em>with whom was <em>Charles W. Llewellyn, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b707-14\">Per Curiam.</author>\n<p id=\"ASj1\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

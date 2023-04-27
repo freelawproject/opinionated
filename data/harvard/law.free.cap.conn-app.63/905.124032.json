@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b889-3\">IN RE JORDAN G.<footnotemark>*</footnotemark></parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b889-4\">(AC 21082)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b889-5\">Lavery, C. J., and Dranginis and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b889-6\">Argued April 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AMyi\">officially released May 22, 2001</decisiondate>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b889-19\"> In accordance with the spirit and intent of General Statutes \u00a7 46b-142 (b) and Practice Book \u00a7 79-3, the names of the parties involved in this appeal are not disclosed. The records and papers of this case shall be open for inspection only to persons having a proper interest therein and upon order of the Appellate Court.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"b889-8\">Per Curiam.</author>\n<p id=\"am3-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

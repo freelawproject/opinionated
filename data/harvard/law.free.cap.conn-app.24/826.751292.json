@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"826\" lastpage=\"826\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b814-6\">Barbara Schrader <em>v. </em>United Service Automobile Association</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AO5R\">(9497)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b814-7\">Nokcott, Heiman and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b814-8\">Argued March 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A6xH\">decision released April 16, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b814-10\"><em>Mary-Margaret Dalton, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b814-11\"><em>Earl F. Dewey II, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b814-12\">Per Curiam.</author>\n<p id=\"AdD\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b888-10\">City of Danbury <em>v. </em>Jorman M. Hovi, Trustee</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Abm\">(11396)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b888-11\">O\u2019Connell, Foti and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b888-12\">Argued January 5 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AAu\">decision released January 26, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b888-14\"><em>Jorman M. Hovi, </em>pro se, the appellant (respondent).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b888-15\"><em>Richard R. Talbot, </em>for the appellee (petitioner).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b888-16\">Per Curiam.</author>\n<p id=\"A-N\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

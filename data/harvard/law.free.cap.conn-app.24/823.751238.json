@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"823\" lastpage=\"823\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b811-2\">State of Connecticut v. Bernard Bewry</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ata4\">(9145)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b811-3\">Spallone, Daly and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b811-4\">Argued March 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A39\">decision released April 9, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b811-6\"><em>Kenneth W. Simon, </em>assistant public defender, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b811-7\"><em>Mary H. Lesser, </em>assistant state\u2019s attorney, with whom, on the brief, were <em>JohnM. Bailey, </em>state\u2019s attorney, and <em>James E. Thomas, </em>assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b811-8\">Per Curiam.</author>\n<p id=\"A32\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

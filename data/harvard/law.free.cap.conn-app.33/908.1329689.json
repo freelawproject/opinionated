@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b896-2\">Patricia Angiolillo et al. <em>v. </em>Wilma Corris et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b896-3\">(11772)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b896-4\">Dupont, C. J., Foti and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b896-5\">Argued October 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AkBV\">decision released November 23, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b896-7\"><em>James H. Lee, </em>for the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b896-8\"><em>Wilfred J. Rodie, Jr., </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b896-9\">Per Curiam.</author>\n<p id=\"ATQ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

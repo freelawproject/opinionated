@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"811\" lastpage=\"811\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b789-2\">Guiseppina Juliano et al. <em>v. </em>Patricia Kapish et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A-jv\">(6035)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b789-4\">Stoughton, Norcott and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b789-5\">Argued June 1\u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AJZ\">decision released June 3, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b789-7\"><em>Daniel V. Presnick, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b789-8\"><em>Louise C. LaMontagne, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b789-9\">Per Curiam.</author>\n<p id=\"AQp\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

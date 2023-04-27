@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"808\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b786-6\">Town of East Windsor <em>v. </em>Edwin Thrall et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b786-7\">(6485)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b786-8\">Borden, Norcott and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b786-9\">Argued June 1\u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ADK\">decision released June 3, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b786-11\"><em>Edwin Thrall, </em>pro se, and <em>Olive Thrall, </em>pro se, the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b786-12\"><em>Thomas W. Fahey, Jr., </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b786-13\">Per Curiam.</author>\n<p id=\"Ajtz\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

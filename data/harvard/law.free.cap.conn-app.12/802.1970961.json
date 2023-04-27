@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"802\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b730-11\">Harry Paris <em>v. </em>Connecticut Transit Company</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b730-12\">(5596)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b730-13\">Dupont, C. J., Spallone and Bieluch, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b730-14\">Submitted on briefs September 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A6d\">decision released September 22, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b731-3\"><page-number citation-index=\"1\" label=\"803\">*803</page-number><em>Gary Greene </em>and <em>Robert M. Fitzgerald, </em>certified legal intern, filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b731-4\"><em>OwenP. Eagan </em>filed a brief for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b731-5\">Per Curiam.</author>\n<p id=\"AJi\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

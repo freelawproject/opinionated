@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b888-12\">STATE OF CONNECTICUT <em>v. </em>GEORGE HAWKINS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AAZ\">(AC 16337)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b888-13\">O\u2019Connell, C. J., and Landau and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b888-14\">Argued October 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ajf\">officially released November 18, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b888-16\">Per Curiam.</author>\n<p id=\"Aph\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

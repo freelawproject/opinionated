@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"928\" lastpage=\"928\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b908-5\">Susan L. Mende <em>v. </em>Frank L. Collins, Jr.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b908-6\">(10557)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b908-7\">O\u2019Connell, La very and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b908-8\">Argued June 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Arg\">decision released June 29, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b908-10\"><em>Jeremiah J. Morytko, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b908-11\"><em>Joseph A. Broder, </em>for the appellee (defendant).</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b908-12\"><em>Michael A. Blanchard, </em>for the minor child.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b908-13\">Per Curiam.</author>\n<p id=\"axl-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

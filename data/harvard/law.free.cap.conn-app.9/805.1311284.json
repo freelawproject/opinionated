@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"805\" lastpage=\"805\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b751-2\">John DePino v. Unger\u2019s Floor Covering, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b751-3\">(4128)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b751-4\">Borden, Daly and Bieluch, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b751-5\">Argued October 17</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Avd4\">decision released October 21, 1986</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b751-7\"><em>John DePino, </em>pro se, the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b751-8\"><em>Richard F. Connors, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b751-9\">Per Curiam.</author>\n<p id=\"A6d\">We have carefully reviewed the record and the plaintiff\u2019s claims in this matter and find them to be without merit.</p>\n<p id=\"b751-10\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

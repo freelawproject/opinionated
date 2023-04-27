@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b839-2\">TOWN OF NEW MILFORD <em>v. </em>WILFRED J. MEGIN II</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A0Q\">(AC 19824)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b839-3\">Lavery, C. J., and Spear and Pellegrino, Js.<footnotemark>*</footnotemark></p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b839-4\">Submitted on briefs March 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ah5\">officially released April 18, 2000</decisiondate>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b839-17\">The listing of judges reflects their seniority status on this court as of the date of oral argument.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"b839-6\">Per Curiam.</author>\n<p id=\"AjT7\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

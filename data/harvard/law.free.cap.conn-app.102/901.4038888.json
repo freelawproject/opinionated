@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b897-2\">JAMES DILLARD <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AqQK\">(AC 27422)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b897-3\">Flynn, C. J., and Gmendel and Harper, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"APq\">Argued April 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AaOb\">officially released June 26, 2007</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b897-5\">Per Curiam.</author>\n<p id=\"AnF8\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

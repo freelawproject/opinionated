@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"812\" lastpage=\"812\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b758-2\">Creative Home Builders, Inc. <em>v. </em>James S. Noga et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b758-4\">(4952)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b758-5\">Hull, Daly and Bieluch, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b758-6\">Submitted on briefs December 12</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AXO\">released December 16, 1986</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b758-8\"><em>Charles C. Greenwald </em>filed a brief for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b758-9\"><em>Thomas M. Kablik </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b758-10\">Per Curiam.</author>\n<p id=\"AqRq\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

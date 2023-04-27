@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b898-2\">HERMA STRIBULA <em>v. </em>JOZEF KUBACKA ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"APpy\">(AC 19306)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b898-3\">O\u2019Connell, C. J., and Foti and Healey, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b898-4\">Submitted on briefs December 15, 1999</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AjJ7\">officially released January 18, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b898-6\">Per Curiam.</author>\n<p id=\"A7qX\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"938\" lastpage=\"938\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b910-2\">Anthony Fucci <em>v. </em>Mildred A. Rudnick et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b910-3\">(13469)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b910-4\">Landau, Heiman and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b910-5\">Submitted on briefs December 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVu\">decision released December 27, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b910-7\"><em>Anthony Fucci, </em>pro se, the appellant (plaintiff) filed a brief.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b910-8\"><em>David J. Robertson </em>filed a brief for the appellee (defendant W. R. Grieger Company).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b910-9\">Per Curiam.</author>\n<p id=\"Ads\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

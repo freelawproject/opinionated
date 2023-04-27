@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"930\" lastpage=\"930\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b932-5\">Patricia Krafick <em>v. </em>John H. Krafick</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AGo3\">(12717)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b932-6\">O\u2019Connell, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b932-7\">Argued June 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ACi\">decision released June 28, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b932-9\"><em>David S. Maclay, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b932-10\"><em>Daniel P. Weiner, </em>with whom, on the brief, <em>was Dan M. Schacht, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b932-11\">Per Curiam.</author>\n<p id=\"A0Fo\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

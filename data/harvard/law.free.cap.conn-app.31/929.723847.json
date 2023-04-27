@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"929\" lastpage=\"929\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b909-6\">Jill Rosa et al. <em>v. </em>Dworkin Chevrolet, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b909-7\">(12013)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b909-8\">O\u2019Connell, Heiman and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b909-9\">Argued June 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ad5-dedup-0\">decision released June 29, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b909-11\"><em>Paul J. Yamin, </em>for the appellant (named plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b909-12\"><em>JoanKeating-McKeon, </em>with whom, on the brief, was <em>Leslie S. Anavim, </em>for the appellee (named defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b909-13\">Per Curiam.</author>\n<p id=\"act-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

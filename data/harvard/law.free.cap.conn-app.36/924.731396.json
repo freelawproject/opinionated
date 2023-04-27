@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"924\" lastpage=\"924\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b896-2\">Yolanda Gianfranciso <em>v. </em>A and P Tea Company</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b896-3\">(13275)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b896-4\">Lavery, Heiman and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b896-5\">Submitted on briefs November 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aqm0\">decision released November 22, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b896-7\"><em>Victor M. Ferrante </em>and <em>Edward L. Cleary </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b896-8\"><em>James T. Baldwin </em>filed a brief for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b896-9\">Per Curiam.</author>\n<p id=\"ApI\">The decision of the workers\u2019 compensation review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

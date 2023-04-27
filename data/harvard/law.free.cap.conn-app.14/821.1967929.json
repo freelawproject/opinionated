@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"821\" lastpage=\"821\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b773-10\">Linus Sanstrom, Jr., et al. <em>v. </em>Hugh Strickland et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b773-12\">(6423)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b773-13\">Dupont, C. J., Daly and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b773-14\">Argued May 11 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ASb\">decision released May 19, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b773-16\"><em>Jule A. Crawford, </em>with whom was <em>Michael F. Dowley, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b773-17\"><em>Charles M. Rice, Jr., </em>with whom was <em>Wesley W. Horton, for </em>the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b773-18\">Per Curiam.</author>\n<p id=\"Aad\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

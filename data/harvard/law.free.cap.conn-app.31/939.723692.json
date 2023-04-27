@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"939\" lastpage=\"940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b919-13\">Mary H. Lewis <em>v. </em>William C. Lewis</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"asq-dedup-0\">(11751)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b919-14\">Dupont, C. J., Daly and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b919-15\">Submitted on briefs June 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ate-dedup-1\">decision released July 6, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b920-3\"><page-number citation-index=\"1\" label=\"940\">*940</page-number><em>Debora L. Grover </em>and <em>Sharon Wicks Dornfeld </em>filed a brief for the appellant (defendant).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b920-4\">Per Curiam.</author>\n<p id=\"AskF\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

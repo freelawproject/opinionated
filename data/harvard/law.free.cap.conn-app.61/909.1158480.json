@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b919-8\">STATE OF CONNECTICUT v. ANTHONY MONTEFUSCO</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AF0Q\">(AC 19584)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b919-9\">Lavery, C. J., and Landau and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b919-10\">Argued January 16</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AF2\">officially released February 6, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b919-12\">Per Curiam.</author>\n<p id=\"AoBV\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

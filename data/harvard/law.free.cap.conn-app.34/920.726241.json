@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"920\" lastpage=\"920\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b922-2\">Stanley Troski et al. <em>v. </em>Stop and Shop Holdings, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b922-3\">(12967)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b922-4\">O\u2019Connell, Lavery and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b922-5\">Argued May 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A-SI\">decision released May 24, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b922-7\"><em>Charles K. Thompson, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b922-8\"><em>Gerard McEnery, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b922-9\">Per Curiam:.</author>\n<p id=\"Azo\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

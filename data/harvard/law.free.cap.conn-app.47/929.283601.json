@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"929\" lastpage=\"929\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b905-9\">DENA WEST <em>v. </em>KEITH E. WORTZ</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b905-10\">(AC 16297)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b905-11\">O\u2019Connell, C. J., and Lavery and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b905-12\">Argued December 11, 1997</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ath\">officially released January 6, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b905-14\">Per Curiam.</author>\n<p id=\"ASQq\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

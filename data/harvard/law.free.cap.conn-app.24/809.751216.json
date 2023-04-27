@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b797-2\">Anthony Sabellico et al. <em>v. </em>Planning and Zoning Commission of the Town of Wallingford et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b797-3\">(9068)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b797-4\">Norcott, Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b797-5\">Argued January 16</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AaJK\">decision released February 5, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b797-7\"><em>James F. McCann, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b797-8\"><em>Janis M. Small, </em>town attorney, for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b797-9\">Per Curiam.</author>\n<p id=\"AqW\">Certification improvidently granted.</p>\n<p id=\"b797-10\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

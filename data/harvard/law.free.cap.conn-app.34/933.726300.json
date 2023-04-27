@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b935-2\">Deborah Sheiman <em>v. </em>Stuart M. Sheiman</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AH0\">(12418)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b935-3\">Foti, Lavery and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b935-4\">Argued June 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ACf\">decision released June 28, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b935-6\"><em>Wesley W. Horton, </em>with whom were <em>Joy K. Fausey, </em>law clerk, and, on the brief, <em>Susan M. Cormier, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b935-7\"><em>Stuart M. Sheiman, </em>pro se, the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b935-8\">Per Curiam.</author>\n<p id=\"Ave\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

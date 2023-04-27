@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b883-2\">Elizabeth Beninato <em>v. </em>Specialty Framing, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b883-3\">(12914)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b883-4\">Landau, Schaller and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b883-5\">Submitted on briefs September 23</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ASZl\">decision released October 11, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b883-7\"><em>Stephen P. Bertucio </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b883-8\"><em>James L. Pomeranz </em>filed a brief for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b883-9\">Per Curiam.</author>\n<p id=\"A2e\">The decision of the compensation review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

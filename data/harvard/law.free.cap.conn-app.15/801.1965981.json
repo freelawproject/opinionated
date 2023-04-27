@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b779-2\">David W. Benvenuti et al. <em>v. </em>Edward T. Lynch, Sr., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b779-4\">(5939)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b779-5\">Spallone, Stoughton and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b779-6\">Argued May 19\u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Al_\">decision released May 24, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b779-8\"><em>Dennis G. Ciccarillo, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b779-9\"><em>Edward B. O\u2019Connell, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b779-10\">Per Curiam.</author>\n<p id=\"AD_\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

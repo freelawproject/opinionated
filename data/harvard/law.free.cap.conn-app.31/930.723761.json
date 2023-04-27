@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"930\" lastpage=\"931\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b910-11\">Prudential Home Mortgage Company, Inc. <em>v. </em>Hans G. Reichardt et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b910-13\">(11982)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b910-14\">Daly, Foti and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b910-15\">Submitted on briefs June 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A_zb\">decision released June 29, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b911-3\"><page-number citation-index=\"1\" label=\"931\">*931</page-number><em>Hans G. Reichardt, </em>pro se, and <em>Doreen L. Reichardt, </em>pro se, the appellants (named defendant et al.) submitted a brief.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b911-4\"><em>Neil A. Lippman </em>submitted a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b911-5\">Per Curiam.</author>\n<p id=\"AaC\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

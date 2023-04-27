@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b884-2\">LISA D. EGAN <em>v. </em>PAUL B. EGAN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AfH\">(AC 25859)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b884-3\">Flynn, C. J., and DiPentima and Mihalakos, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b884-4\">Argued May 2 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A9C\">officially released May 23, 2006</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b884-6\">Per Curiam.</author>\n<p id=\"AZl\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

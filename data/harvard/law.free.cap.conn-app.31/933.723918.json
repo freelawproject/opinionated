@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"933\" lastpage=\"933\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b913-10\">Francis Martinelli <em>v. </em>Marsha Martinelli</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aro-dedup-0\">(11441)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b913-11\">Dupont, C. J., O\u2019Connell and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b913-12\">Argued June 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"adc-dedup-0\">decision released June 29, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b913-14\"><em>Arnold M. Potash, </em>with whom, on the brief, was <em>Jeffrey D. Ginzberg, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b913-15\"><em>Paul J. Yamin, </em>with whom, on the brief, was <em>Joseph P. Yamin, </em>law student intern, for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b913-16\">Per Curiam.</author>\n<p id=\"AOTV\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

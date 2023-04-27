@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"913\" lastpage=\"913\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b923-2\">STATE OF CONNECTICUT <em>v. </em>JOHN JOHNSON</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"avr-dedup-1\">(AC 16098)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b923-3\">O\u2019Connell, C. X, and Schaller and Healey, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b923-4\">Argued March 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AOWs\">officially released April 14, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b923-6\">Per Curiam.</author>\n<p id=\"AyH\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

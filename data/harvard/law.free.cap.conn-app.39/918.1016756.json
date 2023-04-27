@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"918\" lastpage=\"918\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b892-6\">GERALD A. FRANCESE SEAFOOD COMPANY <em>v. </em>LUND\u2019S FISHERIES, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b892-8\">(13994)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b892-9\">Lavery, Landau and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b892-10\">Argued October 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ase-dedup-0\">decision released November 21, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b892-12\"><em>Ronald F. Ochsner, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b892-13\"><em>John C. Wirzbieki, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b892-14\">PER CURIAM.</author>\n<p id=\"AMz\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

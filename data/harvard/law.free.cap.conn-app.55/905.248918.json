@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b845-12\">JOSEPH A. GIBSON III <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AW5\">(AC 19159)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b845-13\">Lavery, Hennessy and Vertefeuille, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b845-14\">Argued October 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aog5\">officially released November 23, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b845-15\">Per Curiam.</author>\n<p id=\"ARe3\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b925-2\">DAVID W. CUMMINGS <em>v. </em>TWIN TOOL MANUFACTURING COMPANY ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"avr-dedup-2\">(AC 17517)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b925-3\">Foti, Schaller and Sullivan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b925-4\">Argued April 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ax4d\">officially released April 28, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b925-6\">Per Curiam.</author>\n<p id=\"ARi6\">The decision of the workers\u2019 compensation review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

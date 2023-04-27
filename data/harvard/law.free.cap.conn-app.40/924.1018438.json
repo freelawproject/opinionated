@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"924\" lastpage=\"924\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b902-2\">CITY OF TORRINGTON <em>v. </em>LOCAL 1303-32, COUNCIL 4, AFSCME, AFL-CIO</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AiY\">(14947)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b902-3\">Foti, Landau and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b902-4\">Submitted on briefs January 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AEf\">decision released February 13, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b902-6\"><em>J. William Gagne, Jr., </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b902-7\"><em>Victor M. Muschell </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b902-8\">PER CURIAM.</author>\n<p id=\"AaK\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

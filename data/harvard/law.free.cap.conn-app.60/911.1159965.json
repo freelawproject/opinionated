@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b919-2\">RAMON SANCHEZ <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aueq\">(AC 18999)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b919-3\">Lavery, C. J., and Landau and Pellegrino, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b919-4\">Submitted on briefs October 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ABr3\">officially released November 21, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b919-6\">Per Curiam.</author>\n<p id=\"aon-dedup-2\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

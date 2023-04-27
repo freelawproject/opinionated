@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b891-6\">Susan B. Adams <em>v. </em>Daniel A. Adams</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Acn\">(11741)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b891-7\">Lavery, Freedman and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b891-8\">Argued September 21</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aom\">decision released October 12, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b891-10\"><em>A. A. Washton, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b891-11\"><em>Raymond L. Baribault, Jr., </em>with whom was <em>Drzislav Coric, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b891-12\">Per Curiam.</author>\n<p id=\"AEq\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

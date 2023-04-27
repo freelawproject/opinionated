@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"913\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b890-11\">CORNEL CALINESCU <em>v. </em>CFD ASSOCIATES ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b890-12\">(14773)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b890-13\">Dupont, C. J., and Lavery and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b890-14\">Submitted on briefs December 14,1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ang-dedup-1\">decision released January 23, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b891-2\"><page-number citation-index=\"1\" label=\"913\">*913</page-number><em>Brian S. Karpe </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b891-3\"><em>David W. Schoolcraft </em>filed a brief for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b891-4\">PER CURIAM.</author>\n<p id=\"alq-dedup-1\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

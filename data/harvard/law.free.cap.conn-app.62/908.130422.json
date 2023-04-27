@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b870-8\">ROCCO J. TIROZZI, EXECUTOR (ESTATE OF STEPHEN G. TIROZZI) <em>v. </em>COLONIAL PENN INSURANCE COMPANY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AY0\">(AC 20713)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b870-9\">Schaller, Mihalakos and O\u2019Connell, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b870-10\">Argued March 23</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AgG\">officially released April 17, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b870-12\">Per Curiam.</author>\n<p id=\"AQ9\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

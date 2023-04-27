@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"916\" lastpage=\"916\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b924-17\">STATE OF CONNECTICUT <em>v. </em>JOSEPH WIXTED</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"agny-dedup-0\">(14585)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b924-18\">Landau, Heiman and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b924-19\">Argued May 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ard-dedup-0\">officially released June 18, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b924-21\">Per Curiam.</author>\n<p id=\"AA8m\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

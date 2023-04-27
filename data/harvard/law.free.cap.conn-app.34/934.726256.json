@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"934\" lastpage=\"934\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b936-4\">John J. Wynne <em>v. </em>Sharon A. Wynne</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A-6q\">(12126)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b936-5\">Laveky, Heiman and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b936-6\">Argued June 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"An-\">decision released June 28, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b936-8\"><em>Sharon A. Wynne, </em>pro se, the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b936-9\"><em>Louis Kiefer, </em>for the appellee (plaintiff).</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b936-10\"><em>Stacy A. Welch, </em>for the minor children.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b936-11\">Per Curiam.</author>\n<p id=\"Ayzd\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b864-2\">STATE OF CONNECTICUT <em>v. </em>STEPHEN FREEMAN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Arv\">(AC 20326)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b864-3\">Lavery, C. J., and Flynn and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b864-4\">Argued October 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AzW\">officially released November 27, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b864-6\">Per Curiam.</author>\n<p id=\"ANX\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"916\" lastpage=\"916\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b924-2\">LYELL B. DAMPEER <em>v. </em>JANE D. DAMPEER</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AlXL\">(14887)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b924-3\">O\u2019Connell, Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b924-4\">Argued May 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AhUo\">officially released June 18, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b924-6\">Per Curiam.</author>\n<p id=\"AAlM\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

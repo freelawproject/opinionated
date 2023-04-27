@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b915-7\">ARTHUR SCIORTINO ET AL. <em>v. </em>TOWN OF TRUMBULL</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ANJy\">(AC 20327)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b915-8\">Landau, Schaller and Hermessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b915-9\">Argued December 12, 2000</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aeb-dedup-1\">officially released January 9, 2001</decisiondate>\n<p data-order=\"5\" data-type=\"attorneys\" id=\"b915-10\">Plaintiffs appeal from the Superior Court in the judicial district of Fairfield, <em>Nadeau, J.</em></p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b915-11\">Per Curiam.</author>\n<p id=\"aal-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

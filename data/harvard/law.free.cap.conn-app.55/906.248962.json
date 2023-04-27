@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b846-12\">CHRISTINA TRUDEAU <em>v. </em>WILLIAM A. TRUDEAU, JR.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"akf-dedup-1\">(AC 19494)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b846-13\">Landau, Schaller and Vertefeuille, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b846-14\">Submitted on briefs November 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AnUt\">officially released November 23, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b846-16\">Per Curiam.</author>\n<p id=\"ahu-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

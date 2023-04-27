@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"827\" lastpage=\"827\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b815-2\">Christopher Clarke <em>v. </em>Roberta N. Clarke</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AoJ\">(9300)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b815-3\">O\u2019Connell, Foti and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b815-4\">Argued March 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A1F\">decision released April 16, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b815-6\"><em>Warren P. Joblin, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b815-7\"><em>Victoria die Toledo, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b815-8\">Per Curiam.</author>\n<p id=\"AP4\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

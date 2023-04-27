@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b781-9\">Patrick E. Hughes <em>v. </em>Alice F. Hughes</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A5M\">(5872)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b781-10\">O\u2019Connell, Stoughton and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b781-11\">Argued May 18\u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AcM\">decision released May 24, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b781-13\"><em>Reuben S. Midler, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b781-14\"><em>Dianne M. Andersen, </em>with whom, on the brief, was <em>Melissa A. Grauel, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b781-15\">Per Curiam.</author>\n<p id=\"Aus\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

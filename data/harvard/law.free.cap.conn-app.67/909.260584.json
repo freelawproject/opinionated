@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b871-2\">STATE OF CONNECTICUT <em>v. </em>EDWIN ADAMES</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Adqt\">(AC 21072)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b871-3\">Lavery, C. J., and Foti and O\u2019Connell, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b871-4\">Argued December 10, 2001</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Axu\">officially released January 15, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b871-6\">Per Curiam.</author>\n<p id=\"Amv0\">This case is controlled by <em>State </em>v. <em>Davis, </em>190 Conn. 327, 461 A.2d 947, cert. denied, 464 U.S. 938, 104 S. Ct. 350, 78 L. Ed. 2d 315 (1983).</p>\n<p id=\"b871-7\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

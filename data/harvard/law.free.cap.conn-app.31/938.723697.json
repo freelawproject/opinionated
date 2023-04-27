@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"938\" lastpage=\"939\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b918-9\">Martin Rosenfeld et al. <em>v. </em>Daniel McCann</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AqjF\">(11820)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b918-10\">Foti, Freedman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b918-11\">Argued June 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AaCL\">decision released July 6, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b919-2\"><page-number citation-index=\"1\" label=\"939\">*939</page-number><em>Martin Rosenfeld, </em>pro se, the appellant (plaintiff). <em>Bruce D. Tyler, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b919-3\">Per Curiam.</author>\n<p id=\"Amjf\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

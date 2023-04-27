@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"802\" lastpage=\"802\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b788-6\">William Oppenheimer <em>v. </em>Catherine Stolle</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AI8\">(9689)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b788-7\">Daly, O\u2019Connell and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b788-8\">Argued June 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AYF\">decision released June 25, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b788-10\"><em>Sperry A. DeCew, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b788-11\"><em>David J. McDonald, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b788-12\">Per Curiam.</author>\n<p id=\"AAe\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

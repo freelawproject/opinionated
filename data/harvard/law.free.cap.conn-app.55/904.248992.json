@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b844-7\">COUNTRY LUMBER, INC. <em>v. </em>RICCI CORPORATION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"a_x-dedup-0\">(AC 18610)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b844-8\">O\u2019Connell, C. J., and Landau and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b844-9\">Argued September 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aep-dedup-1\">officially released November 9, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b844-11\">Per Curiam.</author>\n<p id=\"Ak_\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

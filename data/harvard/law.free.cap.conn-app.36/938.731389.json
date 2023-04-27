@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"938\" lastpage=\"939\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b910-10\">Agnes-Sue Associates et al. <em>v. </em>Nicholas L. Cerino</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Azyk\">(13038)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b910-12\">Foti, Lavery and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b910-13\">Argued December 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ABL\">decision released December 27, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b911-2\"><page-number citation-index=\"1\" label=\"939\">*939</page-number><em>Richard L. Albrecht, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A4Yr\"><em>James G. Green, Jr., </em>with whom was <em>Thomas J. Rechen, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b911-3\">Per Curiam.</author>\n<p id=\"AUg\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

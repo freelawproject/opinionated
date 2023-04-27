@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"765\" lastpage=\"765\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b803-15\">PHILADELPHIA AND READING CORP. AND SOUTHERN CARBON CORP. v. THE UNITED STATES</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b803-17\">No. 592-77</docketnumber>\n<p data-order=\"2\" data-type=\"citation\" id=\"b803-18\">[221 Ct. Cl. 148,</p>\n<citation data-order=\"3\" data-type=\"citation\" id=\"A0f\">602 F. 2d 338]</citation>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b803-19\">On October 10, 1980 the court entered judgment for plaintiffs, plus interest according to law, as follows:</p>\n<p id=\"b803-4\">Year Income Tax Interest Total</p>\n<p id=\"AlF\">$102,246 $ 80,281.05 $182,527.05 H* CD <em>Ox </em>00</p>\n<p id=\"Aft\">319,655 118,336.67 437.991.67 !-* CD Or CD</p>\n<p id=\"AZR\">620,518.72</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b826-7\">CHARLES D. GIANETTI <em>v. </em>THOMAS FISCHETTI</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ak4\">(AC 21066)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b826-8\">Foti, Schaller and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b826-9\">Argued June 5 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ArN\">officially released July 3, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b826-11\">Per Curiam.</author>\n<p id=\"AAYE\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

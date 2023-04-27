@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"935\" lastpage=\"935\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b907-2\">Bank of Hartford, Inc. <em>v. </em>Harriet T. Parker</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ARC\">(13229)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b907-3\">Foti, Schaller and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b907-4\">Argued December 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ai7b\">decision released December 20, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b907-6\"><em>Harriet T. Parker, </em>pro se, the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b907-7\"><em>Scott F. Lewis, </em>with whom, on the brief, were <em>Mona E. Hermand </em>and <em>Arthur M. Lewis, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b907-8\">Per Curiam.</author>\n<p id=\"AcQ\">The judgment is affirmed and the case</p>\n<p id=\"AgT\">is remanded for the purpose of setting new law days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

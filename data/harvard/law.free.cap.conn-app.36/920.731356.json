@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"920\" lastpage=\"920\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b892-4\">State of Connecticut <em>v. </em>Vahig A. Vartanian</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A1M\">(12753)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b892-5\">Schaller, Spear and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b892-6\">Argued October 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AXFI\">decision released November 22, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b892-8\"><em>G. Russell Stewart III, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b892-9\"><em>Leah Hawley, </em>assistant state\u2019s attorney, with whom, on the brief, were <em>C. Robert Satti, Sr., </em>state\u2019s attorney, and <em>Stephen Carney, </em>deputy assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b892-10\">Per Curiam.</author>\n<p id=\"AuV\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b895-10\">Canh Tran Nguyen <em>v. </em>Huu Nguyen</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A46\">(11707)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b895-11\">Dupont, C. J., O\u2019Connell and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b895-12\">Argued November 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AC8\">decision released November 23, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b895-14\"><em>Marci J. Silverman, </em>with whom were <em>Richard G. Kent </em>and, on the brief, <em>Jocelyn L. Birnbaum, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b895-15\"><em>Annacarina DelMastro, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b895-16\">PER Curiam.</author>\n<p id=\"AQX\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

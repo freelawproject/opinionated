@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b886-13\">STATE OF CONNECTICUT <em>v. </em>ARTHUR BRANNEN, JR.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Amt\">(AC 15945)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b886-14\">O\u2019Connell, C. J., and Spear and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b886-15\">Argued October 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A8d7\">officially released October 28, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b886-17\">Per Curiam.</author>\n<p id=\"AYqr\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

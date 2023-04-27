@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"923\" lastpage=\"923\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b901-6\">WINDSOR HOUSE ASSOCIATION NO. 1 <em>v. </em>NICHOLAS D. TUCCI ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b901-7\">(14918)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b901-8\">Foti, Landau and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b901-9\">Submitted on briefs January 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"a6g-dedup-0\">decision released February 13, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b901-11\"><em>Douglas J. Lewis </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b901-12\"><em>Vincent D. Flaherty </em>filed a brief for the appellees (named defendant et al.).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b901-13\">PER CURIAM.</author>\n<p id=\"ah9-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"807\" lastpage=\"807\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b793-10\">Martin L. Hammer <em>v. </em>Ronnie S. Hammer</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A9j\">(8922)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b793-11\">O\u2019Connell, Noecott and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b793-12\">Argued June 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A93\">decision released June 25, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b793-14\"><em>Ronnie S. Hammer, </em>pro se, the appellant (defendant) with whom, on the brief, was <em>Marylouise S. Black.</em></attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b793-15\"><em>Martin L. Hammer, </em>pro se, the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b793-16\">Per Curiam.</author>\n<p id=\"A5zV\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

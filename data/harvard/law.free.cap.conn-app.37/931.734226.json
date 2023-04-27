@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"931\" lastpage=\"931\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b923-4\">Centerbank <em>v. </em>Lewis Associates II et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b923-5\">(13742)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b923-6\">O\u2019Connell, Heiman and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b923-7\">Argued March 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AKVq\">decision released May 2, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b923-9\"><em>Robert G. Oliver, </em>with whom, on the brief, was <em>Carolyn P. Gould, </em>for the appellant (defendant Robert N. Williams).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b923-10\"><em>Edward J. Kelleher, </em>with whom, on the brief, was <em>Robert L. Cavanaugh, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b923-11\">Per Curiam.</author>\n<p id=\"AVF\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

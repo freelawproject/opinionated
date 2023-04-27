@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b875-4\">LAURA A. GAVIGAN ET AL. <em>v. </em>COMMISSIONER OF REVENUE SERVICES</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A4r\">(AC 27404)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b875-5\">Bishop, Harper and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b875-6\">Argued January 4 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aq7-dedup-0\">officially released January 30, 2007</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b875-8\">Per Curiam.</author>\n<p id=\"A5J\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

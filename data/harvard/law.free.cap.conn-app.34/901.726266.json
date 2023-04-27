@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b903-2\">New Connecticut Bank and Trust Company, N.A. <em>v. </em>20 Sisson Street Associates et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b903-3\">(12798)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b903-4\">Foti, La very and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b903-5\">Argued March 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Agt\">decision released April 12, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b903-7\"><em>Daniel Del Grosso, Richard Del Russo </em>and <em>Salvatore Malespini, </em>pro se, the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b903-8\"><em>Susan Birke Fiedler, </em>with whom, on the brief, was <em>Donald E. Frechette, </em>for the appellee (substitute plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b903-9\">Per Curiam.</author>\n<p id=\"A1Tg\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

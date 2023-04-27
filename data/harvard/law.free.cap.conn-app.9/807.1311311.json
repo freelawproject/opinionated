@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"807\" lastpage=\"807\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b753-2\">Hawie Manufacturing Company <em>v. </em>J. Robert Poulter et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b753-4\">(3536)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b753-5\">Dupont, C. J., Borden and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b753-6\">Argued December 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AKU\">decision released December 9, 1986</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b753-8\"><em>Kevin J. Maher, </em>with whom, on the brief, was <em>Scott Wilson Williams, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b753-9\"><em>Margaret M. Hayes, </em>for the appellee (named defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b753-10\">Per Curiam.</author>\n<p id=\"A_d\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b912-7\">STATE OF CONNECTICUT <em>v. </em>WILFRED L. HART, SR.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b912-8\">(14901)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b912-9\">Foti, Heiman and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b912-10\">Argued March 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AUh-\">officially released April 30, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b912-11\">Per Curiam.</author>\n<p id=\"AKdQ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

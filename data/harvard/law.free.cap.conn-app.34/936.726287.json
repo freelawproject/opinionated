@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"936\" lastpage=\"937\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b938-11\">Jeanette Delphia <em>v. </em>Michael Delphia</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Am4\">(12981)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b938-12\">Foti, Lavery and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b938-13\">Argued June 13</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AMl\">decision released June 28, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b939-3\"><page-number citation-index=\"1\" label=\"937\">*937</page-number><em>John W. Callahan, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b939-4\"><em>Joseph R. Crispino, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b939-5\">Per Curiam.</author>\n<p id=\"Adqk\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

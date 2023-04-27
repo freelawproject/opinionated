@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b860-2\">YALE-NEW HAVEN HOSPITAL, INC. <em>v. </em>SUSAN SANDERS ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b860-3\">(AC 19999)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b860-4\">Foti, Hennessy and Pellegrino, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b860-5\">Submitted on briefs June 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"amb-dedup-1\">officially released July 11, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b860-7\">Per Curiam.</author>\n<p id=\"aj_-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

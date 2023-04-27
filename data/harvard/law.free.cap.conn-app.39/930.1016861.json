@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"930\" lastpage=\"930\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b904-2\">RICHARD R. RATCLIFFE <em>v. </em>HELEN E. RATCLIFFE</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b904-3\">(14386)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b904-4\">O\u2019Connell, Spear and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b904-5\">Submitted on briefs November 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A2o\">decision released December 5, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b904-7\"><em>Eugene P. Falco </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b904-8\"><em>Richard R. Ratcliffie, </em>pro se, the appellee (plaintiff), filed a brief.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b904-9\">PER CURIAM.</author>\n<p id=\"AV7\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

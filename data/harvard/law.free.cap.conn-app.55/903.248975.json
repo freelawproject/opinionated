@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b843-12\">NATIONAL WESTMINSTER BANK <em>v. </em>PETER J. GOULD ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b843-13\">(AC 18842)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b843-14\">Foil, Schaller and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b843-15\">Argued September 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AyW\">officially released November 9, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b843-17\">Per Curiam.</author>\n<p id=\"abr-dedup-0\">The judgment is affirmed and the case is remanded for the purpose of setting a new sale date.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

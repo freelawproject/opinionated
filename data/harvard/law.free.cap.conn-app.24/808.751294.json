@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"808\" lastpage=\"808\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b796-6\">State of Connecticut <em>v. </em>Lueke Cooper</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJWp\">(8476)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b796-7\">Daly, Nokcott and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b796-8\">Argued January 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ATD\">decision released February 5, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b796-10\"><em>Thomas C. C. Sargent, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b796-11\"><em>RichardF. Jacobson, </em>assistant state\u2019s attorney, with whom, on the brief, were <em>Donald A. Browne, </em>state\u2019s attorney, and <em>Stephen J. Sedensky, </em>assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b796-12\">Per Curiam.</author>\n<p id=\"Af9\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

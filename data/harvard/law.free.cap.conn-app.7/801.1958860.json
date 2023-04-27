@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"802\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b767-9\">State of Connecticut <em>v. </em>George Earl Smith</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b767-10\">(4272)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b767-11\">Dupont, C. J., Hull and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b767-12\">Argued May 1 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ao0\">decided May 1, 1986</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b768-2\"><page-number citation-index=\"1\" label=\"802\">*802</page-number><em>Paul D. Eschuk, </em>deputy assistant public defender, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b768-3\"><em>Raymond J. Doyle, Jr., </em>assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b768-4\">Per Curiam.</author>\n<p id=\"ACvh\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

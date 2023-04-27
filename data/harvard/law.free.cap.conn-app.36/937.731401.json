@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"937\" lastpage=\"937\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b909-6\">Patricia C. Peterson <em>v. </em>The Hartford Courant et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b909-7\">(13142)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b909-8\">Landau, Heiman and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b909-9\">Submitted on briefs December 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AmD\">decision released December 27, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b909-11\"><em>Rene D. Crawford </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b909-12\"><em>Kevin D. O\u2019Leary </em>and <em>William H. Narwold </em>filed a brief for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b909-13\">Per Curiam.</author>\n<p id=\"AE0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

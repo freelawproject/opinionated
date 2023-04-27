@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"506\" lastpage=\"506\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b522-6\">Schneider Hardware Company <em>v. </em>Solar Processes, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b522-7\">(2226)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b522-8\">Dupont, C.P.J., Hull and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b522-9\">Submitted on briefs January 16</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Af7\">decision released April 9, 1985</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b522-11\"><em>Frederick J. Mia\u00f1o </em>filed a brief for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b522-12\"><em>William C. Kollman II </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b522-13\">Per Curiam.</author>\n<p id=\"Ahy\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

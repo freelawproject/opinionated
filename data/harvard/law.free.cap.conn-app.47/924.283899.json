@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"924\" lastpage=\"924\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b900-2\">MARINA LUSSIER <em>v. </em>PHILLIP LUSSIER</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"At0S\">(AC 16759)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b900-3\">Landau, SchaUer and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b900-4\">Submitted on briefs December 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Afh\">officially released December 23, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b900-6\">Per Curiam.</author>\n<p id=\"Aoas\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

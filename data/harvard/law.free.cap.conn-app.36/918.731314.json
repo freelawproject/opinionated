@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"918\" lastpage=\"919\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b890-10\">John F. Ashton <em>v. </em>Heinke P. Ashton</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AjU\">(12308)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b890-11\">Foti, Lavery and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b890-12\">Argued October 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AIJ\">decision released November 15, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b891-3\"><page-number citation-index=\"1\" label=\"919\">*919</page-number><em>Abraham I. Gordon </em>and <em>Ronald D. </em>Japha, with whom, on the brief, was <em>Richards. Scalo, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b891-4\"><em>Mark F. Katz, </em>with whom, on the brief, was <em>Gordon Erickson, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b891-5\">Per Curiam.</author>\n<p id=\"AZk\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

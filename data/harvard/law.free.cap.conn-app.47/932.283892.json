@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"932\" lastpage=\"932\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b908-2\">NORMA CARROLL <em>v. </em>MANCHESTER MEMORIAL HOSPITAL</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ACqq\">(AC 15772)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b908-3\">Lavery, Schaller and Sullivan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b908-4\">Argued January 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aad\">officially released February 3, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b908-6\">Per Curiam.</author>\n<p id=\"A-t\">This case is controlled by <em>Childs </em>v. <em>Bainer, </em>235 Conn. 107, 663 A.2d 398 (1995).</p>\n<p id=\"b908-7\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

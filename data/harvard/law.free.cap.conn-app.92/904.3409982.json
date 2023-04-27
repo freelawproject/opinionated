@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b898-2\">CHASE MANHATTAN MORTGAGE CORPORATION <em>v. </em>MANUEL MACHADO ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b898-4\">(AC 25914)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b898-5\">Dranginis, Gruendel and Harper, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b898-6\">Argued October 17</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AXKz\">officially released November 1, 2005</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b898-8\">Per Curiam.</author>\n<p id=\"A6sM\">The judgment is affirmed and the case is remanded for the purpose of setting a new sale date and issuing any incidental orders in furtherance of that sale.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

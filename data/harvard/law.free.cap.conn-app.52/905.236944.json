@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b859-7\">WETHERSFORD CONDOMINIUM ASSOCIATION, INC. <em>v. </em>JOHN B. DERAY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ADxW\">(AC 18834)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b859-8\">Lavery, Schaller and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b859-9\">Argued March 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"air-dedup-0\">officially released April 20, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b859-11\">Per Curiam.</author>\n<p id=\"AZ7P\">The judgment is affirmed and the case is remanded for the purpose of setting new law days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

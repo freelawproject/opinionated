@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b883-2\">SAWGRASS IND. CORPORATION ET AL. <em>v. </em>LAURA Z. SCHWARTZ</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Arl\">(AC 32387)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b883-3\">Robinson, Espinosa and Bishop, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b883-4\">Submitted on briefs September 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ANY6\">officially released September 27, 2011</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b883-6\">Per Curiam.</author>\n<p id=\"ALDK\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

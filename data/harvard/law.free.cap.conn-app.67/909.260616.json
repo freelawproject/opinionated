@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b871-14\">BRUCE E. WOODS <em>v. </em>SONSECHORAY WOODS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A4W\">(AC 21634)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b871-15\">Lavery, C. J., and Foti and O\u2019Connell, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b871-16\">Submitted on briefs December 13, 2001</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AU4\">officially released January 15, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b871-18\">Per Curiam.</author>\n<p id=\"ATb\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

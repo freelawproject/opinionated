@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b918-8\">ALEXANDER S. LANGER <em>v. </em>NATHAN\u2019S PAWN SHOP ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b918-9\">(AC 21942)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b918-10\">Schaller, Flynn and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b918-11\">Submitted on briefs January 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AU3\">officially released February 19, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b918-13\">Per Curiam.</author>\n<p id=\"A0h\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

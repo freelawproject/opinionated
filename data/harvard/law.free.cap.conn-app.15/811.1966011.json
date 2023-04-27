@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"811\" lastpage=\"811\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b789-10\">Pamela L. Waldron <em>v. </em>Frederick C. Waldron</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b789-11\">(6195)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b789-12\">O\u2019Connell, Norcott and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b789-13\">Argued June 3\u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AIe\">decision released June 10, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b789-15\"><em>Daniel W. Moger, Jr., </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b789-16\"><em>John D. Paul, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b789-17\">Per Curiam.</author>\n<p id=\"Aho\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

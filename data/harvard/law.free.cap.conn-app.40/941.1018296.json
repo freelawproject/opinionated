@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"941\" lastpage=\"941\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b919-2\">PAUL VAZZANO <em>v. </em>ROCCO FABRIZIO</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"a5m-dedup-0\">(14563)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b919-3\">Lavery, Schaller and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b919-4\">Argued February 21</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AOPN\">decision released March 12, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b919-6\"><em>Laurence V. Pamoff, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b919-7\"><em>Ronald D. Japha, </em>with whom, on the brief, were <em>Richard S. Scalo and Abraham I. Gordon, </em>for the appel-lee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b919-8\">PER CURIAM.</author>\n<p id=\"ast-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

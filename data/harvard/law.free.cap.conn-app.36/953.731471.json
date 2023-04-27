@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"953\" lastpage=\"953\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b925-7\">C. J. Mozzochi <em>v. </em>William Rogers et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b925-8\">(13119)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b925-9\">Dupont, C. J., and O\u2019Connell and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b925-10\">Argued January 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AuH\">decision released January 31, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b925-12\"><em>C. J. Mozzochi, </em>pro se, the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b925-13\"><em>Mark R. Kravitz, </em>with whom was <em>Eric Neff, </em>for the appellees (defendant Victor Perpetua et al.).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b925-14\">Per Curiam.</author>\n<p id=\"AvW\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

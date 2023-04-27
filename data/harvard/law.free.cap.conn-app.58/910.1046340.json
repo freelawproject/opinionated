@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b860-13\">MARK P. MELLY <em>v. </em>COMMISSIONER OF MOTOR VEHICLES</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aoj-dedup-1\">(AC 19662)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b860-14\">Lavery, C. J., and Mihalakos and Zarella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b860-15\">Submitted on briefs June 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"acm-dedup-0\">officially released July 11, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b860-17\">Per Curiam.</author>\n<p id=\"ado-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b826-17\">ROBERT ROBBINS, EXECUTOR (ESTATE OF JOAN ROBBINS) <em>v. </em>CHARLES N. LEACH, JR., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AxG\">(AC 20310)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b826-18\">Spear, Mihalakos and Flynn, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b826-19\">Argued June 7 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AKTG\">officially released July 3, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b827-2\"><page-number citation-index=\"1\" label=\"903\">*903</page-number>Per Curiam.</author>\n<p id=\"AbQ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

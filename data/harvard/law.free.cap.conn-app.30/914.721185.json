@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"914\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b900-9\">Nicolaos Giotopulos <em>v. </em>Elaine Giotopulos</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A2Mk\">(11387)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b900-10\">Landau, Heiman and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b900-11\">Argued February 10 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A_n\">decision released March 2, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b901-3\"><page-number citation-index=\"1\" label=\"915\">*915</page-number><em>Nicolaos Giotopuios, </em>pro se, the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ARN\"><em>Barbara Binford, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b901-4\">Per Curiam.</author>\n<p id=\"ALN\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

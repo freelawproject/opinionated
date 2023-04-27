@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"926\" lastpage=\"927\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b904-11\">SHEILA M. GLEIFERT ET AL. <em>v. </em>JULIE A. PALACKO</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b904-12\">(14177)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b904-13\">Foti, Landau and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b904-14\">Argued January 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"a6z-dedup-0\">decision released February 13, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b905-3\"><page-number citation-index=\"1\" label=\"927\">*927</page-number><em>Linda Clough, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b905-4\"><em>A. Jeffrey Somers, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A52\">PER CURIAM.</author>\n<p id=\"ATR\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

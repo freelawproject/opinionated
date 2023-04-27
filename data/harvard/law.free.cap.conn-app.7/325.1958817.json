@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"325\" lastpage=\"326\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b337-9\">Elizabeth Salerno <em>v. </em>G. Bruce Munro</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AEZ\">(3654)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b337-10\">Dupont, C. J., Borden and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b337-11\">Argued April 10 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A7\">decision released May 13, 1986</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b338-5\"><page-number citation-index=\"1\" label=\"326\">*326</page-number><em>Mark J. DeGennaro, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b338-6\"><em>David J. Peska, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b338-7\">Per Curiam.</author>\n<p id=\"AiL\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

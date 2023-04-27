@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"927\" lastpage=\"927\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b905-5\">CAPITOL IDEA ET AL. <em>v. </em>GERALD SCIARRA</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"a8h-dedup-0\">(14274)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b905-6\">Foti, Landau and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b905-7\">Argued January 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"a3p-dedup-0\">decision released February 13, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b905-9\"><em>Steven H. Meyer, </em>with whom, on the brief, was <em>R. Bartley Halloran, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b905-10\"><em>Louis B. Blumenfeld, </em>with whom, on the brief, was <em>Eileen Mohan Flaherty, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b905-11\">PER CURIAM.</author>\n<p id=\"afg-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

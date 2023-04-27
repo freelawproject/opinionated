@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"239\" lastpage=\"239\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b253-5\">Leon Zalewski <em>v. </em>Josephine M. Menard</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b253-6\">(2276)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b253-7\">Hull, Dupont and Borden, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b253-8\">Argued January 10</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AJt\">decision released January 31, 1984</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b253-10\"><em>George S. Linardos, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b253-11\"><em>Robert A. Teitenberg, </em>filed a brief for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b253-12\">Per Curiam.</author>\n<p id=\"Axt\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"940\" lastpage=\"940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b920-5\">First Constitution Bank <em>v. </em>Thomas J. Pulito et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b920-6\">(11557)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b920-7\">Daly, O\u2019Connell and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b920-8\">Argued June 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A_u\">decision released July 6, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b920-10\"><em>Bernard Pellegrino, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b920-11\"><em>Andrew D. Cretella, </em>for the appellee (defendant Anthony C. Testo).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b920-12\">Per Curiam.</author>\n<p id=\"aaq-dedup-1\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

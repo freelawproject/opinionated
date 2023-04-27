@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"697\" lastpage=\"697\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b713-2\">City of Stamford v. Local 2657, Council 4, AFSCME</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AtN\">(4354)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b713-3\">Dupont, C. J., Hull and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b713-4\">Argued June 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aqfv\">decided July 8, 1986</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b713-6\"><em>Deborah M. Steeves, </em>assistant corporation counsel, with whom, on the brief, was <em>Jay H. Sandak, </em>corporation counsel, for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b713-7\"><em>J. William Gagne, Jr., </em>with whom, on the brief, was <em>Barbara J. Collins, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b713-8\">Per Curiam.</author>\n<p id=\"APU\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

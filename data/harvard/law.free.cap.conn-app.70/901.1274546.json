@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b895-8\">DEAN CERUTTI <em>v. </em>ISS CLEANING SERVICES GROUP, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b895-9\">(AC 21747)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b895-10\">Lavery, C. J., and Flynn and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b895-11\">Argued April 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A2_\">officially released May 28, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b895-13\">Per Curiam.</author>\n<p id=\"AkqV\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

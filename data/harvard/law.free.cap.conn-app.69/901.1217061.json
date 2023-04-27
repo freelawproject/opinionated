@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"883\" lastpage=\"883\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b903-13\">STATE OF CONNECTICUT <em>v. </em>ANTONIO LOZADA</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AC3\">(AC 21864)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b903-14\">Lavery, C. J., and Schaller and Flynn, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b903-15\">Argued March 21</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AGl\">officially released April 16, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b903-17\">Per Curiam.</author>\n<p id=\"A5x\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

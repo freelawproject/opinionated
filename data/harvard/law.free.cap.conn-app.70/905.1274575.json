@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b899-14\">STATE OF CONNECTICUT <em>v. </em>VALENCE HAYNES</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ADk\">(AC 21929)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b899-15\">Flynn, Bishop and McDonald, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b899-16\">Argued May 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ay1\">officially released June 18, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b900-2\"><page-number citation-index=\"1\" label=\"906\">*906</page-number>Per Curiam.</author>\n<p id=\"A32\">This case is controlled by <em>State </em>v. <em>Patterson, </em>236 Conn. 561, 674 A.2d 416 (1996).</p>\n<p id=\"b900-3\">The judgments are affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

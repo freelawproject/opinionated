@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b867-7\">GENEVIEVE S. CLUKEY <em>v. </em>THOMAS F. CLUKEY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Afl\">(AC 20329)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b867-8\">Lavery, C. J., and Foti and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b867-9\">Argued March 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AO5\">officially released March 27, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b867-11\">Per Curiam.</author>\n<p id=\"AA4\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

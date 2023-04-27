@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b877-7\">MELISSA B. BONEBO <em>v. </em>MICHAEL BONEBO</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ash\">(AC 24343)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b877-8\">Bishop, West and DiPentima, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b877-9\">Submitted on briefs June 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AOe\">officially released June 29, 2004</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b877-11\">Per Curiam.</author>\n<p id=\"AXa\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

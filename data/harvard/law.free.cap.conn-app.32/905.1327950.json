@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b893-6\">Charter Oak Federal Credit Union <em>v. </em>Daniel J. Del Grosso et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b893-8\">(12263)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b893-9\">Lavery, Freedman and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b893-10\">Argued September 21</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A8u\">decision released October 12, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b893-12\"><em>Daniel Del Grosso, </em>pro se, the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b893-13\"><em>Charles J. Irving, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b893-14\">Per Curiam.</author>\n<p id=\"A5v\">We have carefully reviewed the issues raised by the named defendant and find them to be without merit.</p>\n<p id=\"b893-15\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

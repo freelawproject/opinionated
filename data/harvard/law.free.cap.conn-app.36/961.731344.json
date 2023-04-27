@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"961\" lastpage=\"962\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b933-10\">Town of Weston et al. <em>v. </em>Barry L. Reade et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b933-11\">(13673)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b933-12\">Dupont, C. J., and Lavery and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b933-13\">Argued January 13</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AnK\">decision released February 14, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b934-3\"><page-number citation-index=\"1\" label=\"962\">*962</page-number><em>David S. Grossman, </em>for the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b934-4\"><em>Christopher J. Jarboe, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b934-5\">Per Curiam.</author>\n<p id=\"AlI\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

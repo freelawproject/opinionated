@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"831\" lastpage=\"831\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b819-2\">Anita Cecere et al. <em>v. </em>Hi-Tech Forming Systems, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b819-3\">(9628)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b819-4\">Spallone, Heiman and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b819-5\">Argued April 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AIMi\">decision released May 14, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b819-7\"><em>Otto P. Witt, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b819-8\"><em>David Tilles, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b819-9\">Per Curiam.</author>\n<p id=\"AOW\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

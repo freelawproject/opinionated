@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"433\" lastpage=\"433\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b449-5\">Belle Camperland, Inc. <em>v. </em>Terrance J. Rock et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b449-7\">(3335)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b449-8\">Spallone, Daly and Bieluch, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b449-9\">Argued October 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A8Bv\">decision released October 29, 1985</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b449-11\"><em>Joseph P. Fasi </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b449-12\"><em>Neil F. Murphy, Jr., </em>for the appellee (defendant Rock Brothers Tires, Inc.).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b449-13\">Per Curiam.</author>\n<p id=\"AIp\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

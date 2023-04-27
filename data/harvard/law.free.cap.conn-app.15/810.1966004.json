@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"810\" lastpage=\"810\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b788-5\">State of Connecticut <em>v. </em>William Freytag</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Akh9\">(6352)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b788-6\">Stoughton, Norcott and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b788-7\">Argued May 19\u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ADj\">decision released May 24, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b788-9\"><em>Timothy Brignole, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b788-10\"><em>Leon F. Dalbec, Jr., </em>deputy assistant state\u2019s attorney, with whom, on the brief, was <em>Samuel Sferrazza, </em>assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b788-11\">Per Curiam.</author>\n<p id=\"AnY\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

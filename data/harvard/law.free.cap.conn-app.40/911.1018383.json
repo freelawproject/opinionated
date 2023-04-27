@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b889-2\">BANK OF BOSTON CONNECTICUT <em>v. </em>EDWARD E. CIARLEGLIO ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b889-4\">(14440)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b889-5\">Lavery, Spear and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b889-6\">Submitted on briefs November 6, 1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AsIa\">decision released January 23, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b889-8\"><em>Laurence V. Pamoff </em>filed a brief for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b889-9\"><em>Ann H. Rubin </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b889-10\">PER CURIAM.</author>\n<p id=\"aok-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

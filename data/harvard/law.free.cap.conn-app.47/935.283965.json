@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"935\" lastpage=\"935\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b911-7\">CITY OF WATERBURY <em>v. </em>EILEEN HOSIER</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AYJn\">(AC 17047)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b911-8\">O\u2019Connell, C. J., and Landau and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b911-9\">Argued January 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A-U\">officially released February 10, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b911-11\">Per Curiam.</author>\n<p id=\"AY6D\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

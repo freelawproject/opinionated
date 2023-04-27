@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"199\" lastpage=\"199\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b215-8\">Anthony Conte <em>v. </em>Donald Bertola</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AeK\">(3174)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b215-9\">Dupont, C.P.J., Hull and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b215-10\">Argued May 10\u2014decision</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ap\">released June 4, 1985</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b215-12\"><em>William J. Varese, </em>with whom, on the brief, was <em>James N. Olayos, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b215-13\"><em>Daniel D. McDonald, </em>with whom, on the brief, was <em>Michael T. Dolan, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b215-14\">Per Curiam.</author>\n<p id=\"A4d\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

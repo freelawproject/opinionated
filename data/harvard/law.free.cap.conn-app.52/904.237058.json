@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b858-2\">LEONARD UDOLF <em>v. </em>METROPOLITAN PROPERTY AND CASUALTY INSURANCE COMPANY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Asrg\">(AC 18346)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b858-3\">Lavery, Hennessy and Sullivan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b858-4\">Submitted on briefs March 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"apa-dedup-1\">officially released March 23, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b858-6\">Per Curiam.</author>\n<p id=\"Aq_r\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

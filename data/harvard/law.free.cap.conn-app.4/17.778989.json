@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"17\" lastpage=\"17\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b31-7\">Julia S. Macri et al. <em>v. </em>Susan Ingraham et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b31-8\">(3243)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b31-9\">Dupont, C.P.J., Hull and Spallone, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b31-10\">Argued April 10\u2014decision</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AOM\">released May 14, 1985</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b31-12\"><em>George R. Maori, </em>with whom, on the brief, was <em>Julia S. Maori, </em>pro se, the appellants (plaintiffs).</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b31-13\">Per Curiam.</author>\n<p id=\"A9\">Judgment was rendered for the plaintiffs. They were awarded nominal damages of one dollar, not having introduced any evidence as to damages. They were also awarded costs and a permanent injunction.</p>\n<p id=\"b31-14\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

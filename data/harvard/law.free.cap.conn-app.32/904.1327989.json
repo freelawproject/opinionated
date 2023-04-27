@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b892-2\">Centerbank <em>v. </em>Fairway Estates II et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b892-3\">(12190)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b892-4\">Lavery, Freedman and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b892-5\">Argued September 21</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"amh-dedup-1\">decision released October 12, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b892-7\"><em>Richard P. Weinstein, </em>with whom, on the brief, was <em>Jennifer C. Jaff </em>for the appellants (named defendant et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b892-8\"><em>Thomas A. Kaelin, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b892-9\">Per Curiam.</author>\n<p id=\"APbi\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

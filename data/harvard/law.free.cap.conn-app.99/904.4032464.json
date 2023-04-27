@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b876-12\">RAYMOND HAYLES <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aby-dedup-1\">(AC 26934)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b876-13\">Schaller, McLachlan and Gruendel, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b876-14\">Argued January 12</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aft-dedup-1\">officially released February 20, 2007</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b876-16\">Per Curiam.</author>\n<p id=\"Apk\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

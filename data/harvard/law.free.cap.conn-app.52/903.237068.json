@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b857-7\">EDWARD T. HANLON <em>v. </em>RON FRIEDMAN ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AAvz\">(AC 18197)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b857-8\">O\u2019Connell, C. J., and Lavery and Sullivan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b857-9\">Argued February 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ail-dedup-1\">officially released March 23, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b857-11\">Per Curiam.</author>\n<p id=\"A-m\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

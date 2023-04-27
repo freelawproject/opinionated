@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"805\" lastpage=\"806\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b743-9\">Louis Goldberg et al. <em>v. </em>Howard A. Fromson et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b743-10\">(8408)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b743-11\">Spallone, O\u2019Connell and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b743-12\">Argued June 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZO\">decision released June 22, 1990</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b744-3\"><page-number citation-index=\"1\" label=\"806\">*806</page-number><em>Michael P. Foley, Jr., </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b744-4\"><em>Glen A. Canner, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b744-5\">Per Curiam.</author>\n<p id=\"Aun\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

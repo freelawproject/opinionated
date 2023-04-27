@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"929\" lastpage=\"929\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b931-2\">Pearl-Main Investment Company <em>v. </em>Homecrest Builders and Remodelers, Inc., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"At2\">(12590)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b931-3\">Laveky, Freedman and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b931-4\">Argued May 31</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AGI\">decision released June 28, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b931-6\"><em>Max F. Brunswick, </em>for the appellant (defendant Anthony A. Fappiano).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b931-7\"><em>Edwin L. Doemberger, </em>with whom, on the brief, was <em>William C. Eustace, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b931-8\">Per Curiam.</author>\n<p id=\"Apf8\">The judgment is affirmed and the case is remanded for the purpose of setting new law days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

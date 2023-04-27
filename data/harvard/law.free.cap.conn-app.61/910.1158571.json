@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b920-7\">DANIEL CLARK <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AZLB\">(AC 20459)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b920-8\">Lavery, C. J., and Mihalakos and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b920-9\">Argued January 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aoy-dedup-1\">officially released February 13, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b920-11\">Per Curiam.</author>\n<p id=\"ayr-dedup-2\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

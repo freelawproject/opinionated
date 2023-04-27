@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"830\" lastpage=\"830\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b818-10\">Marianne Lippmann <em>v. </em>Walter Lippmann</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AVe\">(9387)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b818-11\">Spallone, Daly and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b818-12\">Argued April 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A95\">decision released May 14, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b818-14\"><em>Robert M. Davidson, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b818-15\"><em>Arnold Orlovitz, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b818-16\">Per Curiam.</author>\n<p id=\"APNK\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

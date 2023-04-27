@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b869-13\">CECELIO S. DELEON <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AOi5\">(AC 18474)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b869-14\">Lavery, Hennessy and Kulawiz, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b869-15\">Argued December 15, 1998</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ABiM\">officially released January 12, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b869-17\">Per Curiam.</author>\n<p id=\"ANCD\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

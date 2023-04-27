@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b859-2\">DIANE GROSSI <em>v. </em>CITY OF NEW HAVEN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A37\">(AC 31619)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b859-3\">Lavine, Beach and Alvord, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b859-4\">Argued December 13</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AWv\">officially released December 28, 2010</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b859-6\">Per Curiam.</author>\n<p id=\"AQjq\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

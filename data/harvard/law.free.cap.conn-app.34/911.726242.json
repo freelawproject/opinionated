@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b913-2\">State of Connecticut <em>v. </em>William T. Evans</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AWn\">(12547)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b913-3\">Foti, Landau and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b913-4\">Argued April 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AiJ4\">decision released May 17, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b913-6\"><em>Beth A. Hogan, </em>with whom, on the brief, was <em>Peter Scillieri, </em>assistant public defender, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b913-7\"><em>Kevin T. Kane, </em>assistant state\u2019s attorney, with whom, on the brief, was <em>C. Robert Satti, Sr., </em>state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b913-8\">Per Curiam.</author>\n<p id=\"ATTc\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

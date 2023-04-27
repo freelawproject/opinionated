@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"923\" lastpage=\"924\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b915-12\">Alan Waterman <em>v. </em>Marilyn Waterman</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A2C\">(13789)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b915-13\">Lavery, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b915-14\">Submitted on briefs March 17</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AgU\">decision released April 25, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b916-3\"><page-number citation-index=\"1\" label=\"924\">*924</page-number><em>Mark J. DeGennaro </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b916-4\"><em>Barry C. Knott </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b916-5\">Per Curiam.</author>\n<p id=\"ATc\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"328\" lastpage=\"328\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b342-7\">First Connecticut Credit Union <em>v. </em>Ronald Butler et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b342-8\">(2004)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b342-9\">Testo, Hull and Borden, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b342-10\">Argued February 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AOZ\">decision released March 6, 1984</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b342-12\"><em>Daniel V. Presnick, </em>for the appellant (defendant Rosetta McPherson).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b342-13\"><em>David E. Kamins, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b342-14\">Per Curiam.</author>\n<p id=\"A8d5\">In accordance with the stipulation of the parties at oral argument, the judgment is set aside and the case is remanded to the judicial district of New Haven for further proceedings.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b797-11\">Daniel Adams <em>v. </em>Maria Adams</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AZp\">(9033)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b797-12\">Daly, Norcott and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b797-13\">Argued January 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ATFa\">decision released February 5, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b797-15\"><em>Judith A. Busch, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b797-16\"><em>Jeffrey D. Ginzberg, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b797-17\">Per Curiam.</author>\n<p id=\"A1mQ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

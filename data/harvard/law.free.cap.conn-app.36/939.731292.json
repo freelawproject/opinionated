@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"939\" lastpage=\"939\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b911-4\">State of Connecticut <em>v. </em>Percell Blakeney</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ALdK\">(12187)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b911-5\">Foti, Hennessy and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b911-6\">Argued December 12, 1994</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ApD\">decision released January 3, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b911-8\"><em>Percell Blakeney, </em>pro se, the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b911-9\"><em>James M. Ralls, </em>assistant state\u2019s attorney, with whom, on the brief, were <em>Michael Dearington, </em>state\u2019s attorney, and <em>David Strollo, </em>assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b911-10\">Per Curiam.</author>\n<p id=\"AeHz\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

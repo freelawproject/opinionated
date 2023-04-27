@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b883-6\">CITICORP MORTGAGE, INC. <em>v. </em>BEVERLY P. HENDRYX ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b883-7\">(14823)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b883-8\">Foti, Lavery and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b883-9\">Argued December 5, 1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"adb-dedup-0\">decision released January 9, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b883-11\"><em>Mark S. Steier, </em>for the appellants (named defendant et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b883-12\"><em>William K. Eisenman, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b883-13\">PER CURIAM.</author>\n<p id=\"aof-dedup-2\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

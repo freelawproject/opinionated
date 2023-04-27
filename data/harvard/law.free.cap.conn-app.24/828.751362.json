@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"828\" lastpage=\"829\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b816-9\">Philip C. Ferraro <em>v. </em>Rocco T. Lauretti et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b816-10\">(9546)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b816-11\">O\u2019Connell, Norcott and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b816-12\">Argued March 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AhN\">decision released April 23, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b817-2\"><page-number citation-index=\"1\" label=\"829\">*829</page-number><em>Edward W. Gasser, </em>with whom, on the brief, was <em>Joseph F. Skelley, Jr., </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b817-3\"><em>Peter Rustin, </em>with whom, on the brief, was <em>Craig S. Taschner, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b817-4\">Per Curiam.</author>\n<p id=\"ATA\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

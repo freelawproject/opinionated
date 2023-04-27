@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b903-4\">LORIANNA HUTCHINS <em>v. </em>WEATHERVANE CONDOMINIUM ASSOCIATION, INC., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b903-5\">(14425)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b903-6\">Landau, Schaller and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b903-7\">Argued January 16</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AP77\">decision released February 13, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b903-9\"><em>Timothy Brignole, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b903-10\"><em>Maureen Sullivan Dinnan, </em>with whom, on the brief, <em>was Andrew J. O\u2019Keefe, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b903-11\">PER CURIAM.</author>\n<p id=\"Atv\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

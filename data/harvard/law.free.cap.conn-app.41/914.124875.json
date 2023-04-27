@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"914\" lastpage=\"914\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b922-15\">CONNECTICUT CAR RENTAL, INC. <em>v. </em>EMBASSY LIMOUSINES, INC., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b922-16\">(14277)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b922-17\">O\u2019Connell, Lavery and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b922-18\">Submitted on briefs May 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AD46\">officially released June 4, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b922-20\">Per Curiam.</author>\n<p id=\"A6r2\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

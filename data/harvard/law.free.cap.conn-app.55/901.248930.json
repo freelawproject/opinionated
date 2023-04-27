@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b841-12\">TOWN OF WINDHAM <em>v. </em>ROGER L. LECLAIR ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AKqp\">(AC 19139)</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"avz-dedup-0\">(AC 19140)</docketnumber>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ASD9\">(AC 19142)</docketnumber>\n<p data-order=\"4\" data-type=\"judges\" id=\"b841-15\">O\u2019Connell, C. J., and Schaller and Hennessy, Js.</p>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b841-16\">Argued September 21</otherdate>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"AgE\">officially released November 2, 1999</decisiondate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b841-18\">Per Curiam.</author>\n<p id=\"alz-dedup-1\">The judgments are affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

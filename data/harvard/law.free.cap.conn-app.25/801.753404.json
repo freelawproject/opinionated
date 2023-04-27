@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b787-2\">State of Connecticut <em>v. </em>Wilson Ortiz</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AuU\">(8932)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b787-3\">Daly, Landau and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b787-4\">Argued May 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AYOj\">decision released June 25, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b787-6\"><em>Thomas Ullmann, </em>assistant public defender, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b787-7\"><em>Timothy J. Sugrue, </em>assistant state\u2019s attorney, with whom, on the brief, were <em>Michael Dearington, </em>state\u2019s attorney, and <em>John Waddock, </em>assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b787-8\">Per Curiam.</author>\n<p id=\"Al9\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

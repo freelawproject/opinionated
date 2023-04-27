@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b913-7\">JOSEPH K. MIMMS <em>v. </em>DARIEN CAPITAL MANAGEMENT, INC., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b913-8\">(AC 16769)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b913-9\">Landau, Schaller and Sullivan, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b913-10\">Argued February 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AgUc\">officially released March 10, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b913-12\">Per Curiam.</author>\n<p id=\"A6dO\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

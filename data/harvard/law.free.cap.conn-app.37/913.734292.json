@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"913\" lastpage=\"913\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b905-2\">First Federal Bank, FSB <em>v. </em>Richard G. Kastens et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b905-3\">(13768)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b905-4\">Dupont, C. J., and Lavery and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b905-5\">Submitted on briefs February 16</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A8l3\">decision released April 4, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b905-7\"><em>Richard Kastens, </em>pro se, the appellant (named defendant), filed a brief.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b905-8\"><em>Robert G. Golger </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b905-9\">Per Curiam.</author>\n<p id=\"A1W\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

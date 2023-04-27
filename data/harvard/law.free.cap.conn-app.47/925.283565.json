@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b901-12\">ANDREW J. BOBKOWICZ <em>v. </em>LUNN INDUSTRIES, INC., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b901-13\">(AC 16069)</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b901-14\">(AC 16165)</docketnumber>\n<p data-order=\"3\" data-type=\"judges\" id=\"b901-15\">O\u2019Connell, C. J., and Foti and Hennessy, Js.</p>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b901-16\">Argued December 2</otherdate>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"AelL\">officially released December 23, 1997</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b901-18\">Per Curiam.</author>\n<p id=\"ANE7\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

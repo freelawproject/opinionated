@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b871-12\">CARL J. LIANO <em>v. </em>CITY OF BRIDGEPORT</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AfeZ\">(AC 18034)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b871-13\">Spear, Sullivan and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b871-14\">Argued January 19</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AO1m\">officially released February 2, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b871-16\">Per Curiam.</author>\n<p id=\"AL0D\">The decision of the workers\u2019 compensation review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

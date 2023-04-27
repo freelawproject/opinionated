@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"928\" lastpage=\"929\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b900-13\">Shelly Benedetto <em>v. </em>Pitney Bowes, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ASJJ\">(13657)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b900-14\">O\u2019Connell, Foti and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b900-15\">Submitted on briefs November 3</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Azmk\">decision released November 29, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b901-3\"><page-number citation-index=\"1\" label=\"929\">*929</page-number><em>Leonard M. Crone </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b901-4\"><em>Scott B. Clendaniel </em>filed a brief for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b901-5\">Per Curiam.</author>\n<p id=\"AlZ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

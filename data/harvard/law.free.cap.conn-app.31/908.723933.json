@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b888-2\">Stahl\u2019s Corner Associates <em>v. </em>William Korolyshun et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b888-4\">(11453)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b888-5\">Foti, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b888-6\">Argued March 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Am0_\">decision released April 20, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b888-8\"><em>John B. Oestreicher, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b888-9\"><em>James E. Sheehy, </em>for the appellee (named defendant).</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b888-10\"><em>Kevin W. Conon, </em>for the appellee (defendant Carmen Sicilia).</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b888-11\">Per Curiam.</author>\n<p id=\"a2k-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

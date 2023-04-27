@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b909-2\">WILLIAM ASKEW <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AG0\">(AC 27090)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b909-3\">Flynn, C. J., and McLachlan and Graendel, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b909-4\">Argued December 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ArK\">officially released December 26, 2006</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b909-6\">Per Curiam.</author>\n<p id=\"AGF5\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b904-9\">Ann Schuld <em>v. </em>William J. Schuld</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ANX\">(12196)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b904-10\">O\u2019Connell, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b904-11\">Argued March 22</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AW1\">decision released April 12, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b905-3\"><page-number citation-index=\"1\" label=\"903\">*903</page-number><em>George R. Temple, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b905-4\"><em>Edward R. Giacci, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b905-5\">Per Curiam.</author>\n<p id=\"A5WP\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

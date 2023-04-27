@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b902-13\">CARLOS MALDONADO <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJ0\">(AC 22287)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b902-14\">Schaller, Mihalakos and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b902-15\">Argued June 12</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Anhc\">officially released July 2, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b902-17\">Per Curiam.</author>\n<p id=\"ANq\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

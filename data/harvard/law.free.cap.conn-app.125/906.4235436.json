@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"906\" lastpage=\"906\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b860-13\">BARBARA SMITH <em>v. </em>DAVID M. SMITH</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A4O\">(AC 30955)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b860-14\">DiPentima, C. J., and Bear and Peters, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b860-15\">Argued December 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ABC\">officially released December 28, 2010</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b860-17\">Per Curiam.</author>\n<p id=\"Amc\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

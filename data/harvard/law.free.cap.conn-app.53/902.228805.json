@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b902-10\">STATE OF CONNECTICUT <em>v. </em>JULIO CUEVAS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"and-dedup-0\">(AC 17749)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b902-11\">Schaller, Hennessy and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b902-12\">Argued April 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AFDA\">officially released May 4, 1999</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b902-14\">Per Curiam.</author>\n<p id=\"A-yC\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

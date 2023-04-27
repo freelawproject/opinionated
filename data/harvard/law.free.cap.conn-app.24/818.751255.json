@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"818\" lastpage=\"818\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b806-2\">Morris Silverstein\u2019s Appeal from Probate</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ait\">(9398)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b806-3\">O\u2019Connell, Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b806-4\">Argued February 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AcF\">decision released March 5, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b806-6\"><em>Morris Silverstein, </em>pro se, the appellant (named plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b806-7\"><em>David C. Rappe, </em>for the appellee (defendant Dorothy Mitchell).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b806-8\">Per Curiam.</author>\n<p id=\"AzMd\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

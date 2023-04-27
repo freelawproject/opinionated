@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"914\" lastpage=\"914\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b902-2\">Connecticut National Bank et al. <em>v. </em>Paul E. Harrigan et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b902-3\">(12362)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b902-4\">Lavery, Freedman and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b902-5\">Argued November 8</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ACe\">decision released November 30, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b902-7\"><em>Robert W. Storm, </em>with whom, on the brief, <em>was Ralph L. Larson, </em>for the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b902-8\"><em>Lynne R. Dzilenski, </em>with whom, on the brief, was <em>George E. Hill, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b902-9\">Per Curiam.</author>\n<p id=\"Ao6\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

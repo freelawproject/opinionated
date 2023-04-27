@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b907-2\">NANCY WEINSTEIN <em>v. </em>LUKE A. WEINSTEIN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"APM\">(AC 28236)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b907-3\">Bishop, Graendel and Beach, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b907-4\">Argued March 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AtS6\">officially released April 22, 2008</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b907-6\">Per Curiam.</author>\n<p id=\"As6\">The appeal is dismissed as moot.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

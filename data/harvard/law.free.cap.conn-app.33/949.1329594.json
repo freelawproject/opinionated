@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"949\" lastpage=\"949\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b937-9\">New England Bank and Trust Company <em>v. </em>Emile B. Ouellette et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b937-11\">(12470)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b937-12\">Lavery, Freedman and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b937-13\">Submitted on briefs February 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AEAf\">decision released March 22, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b937-15\"><em>John H. Parks </em>filed a brief for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b937-16\"><em>Edward Pontacoloni </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b937-17\">Per Curiam.</author>\n<p id=\"AXaK\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b898-4\">People\u2019s Bank <em>v. </em>Severina Pandora et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b898-5\">(11989)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b898-6\">O\u2019Connell, Foti and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b898-7\">Argued October 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A9g\">decision released October 26, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b898-9\"><em>Laurence V. Parnoff, </em>with whom, on the brief, was <em>Kathryn L. Braun, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b898-10\"><em>Thomas V. Battaglia, Jr., </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b898-11\">Per Curiam.</author>\n<p id=\"aj0-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

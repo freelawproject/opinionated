@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"939\" lastpage=\"939\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b915-7\">PAUL PANNONE <em>v. </em>GILMAN DUBE</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ac1\">(AC 17021)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b915-8\">Schaller, Spear and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b915-9\">Submitted on briefs January 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AW8\">officially released February 24, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b915-11\">Per Curiam.</author>\n<p id=\"A26\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

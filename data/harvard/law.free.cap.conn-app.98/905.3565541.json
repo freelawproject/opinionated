@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b907-7\">STATE OF CONNECTICUT <em>v. </em>BENNIE GRAY, JR.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ADd\">(AC 26734)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b907-8\">Schaller, Harper and Peters, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b907-9\">Argued October 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ArVG\">officially released November 14, 2006</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b907-11\">Per Curiam.</author>\n<p id=\"AQaX\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

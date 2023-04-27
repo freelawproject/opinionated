@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b923-7\">RANDALL IVERS <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ASd\">(AC 21672)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b923-8\">Mihalakos, Dranginis and Flynn, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b923-9\">Submitted <em>on </em>briefs February 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AuRU\">officially released April 2, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b923-11\">Per Curiam.</author>\n<p id=\"Afe\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

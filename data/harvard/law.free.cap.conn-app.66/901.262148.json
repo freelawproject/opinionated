@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b911-17\">MITCHELL HENDERSON <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AVk\">(AC 20807)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b911-18\">Foti, Landau and Dranginis, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b911-19\">Argued September 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A-U\">officially released November 6, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b911-21\">Per Curiam.</author>\n<p id=\"AOff\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

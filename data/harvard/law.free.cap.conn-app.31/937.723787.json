@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"937\" lastpage=\"937\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b917-2\">Barbara Bourassa <em>v. </em>Richard Bourassa</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A0z\">(11549)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b917-3\">La very, Landau and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b917-4\">Argued April 29</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A72X\">decision released July 6, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b917-6\"><em>Michael A. D \u2019Amico, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b917-7\"><em>John B. Merola, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b917-8\">Per Curiam.</author>\n<p id=\"A_Xr\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

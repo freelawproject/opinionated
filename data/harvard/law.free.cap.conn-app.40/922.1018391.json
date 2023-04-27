@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"922\" lastpage=\"922\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b900-5\">FRANCES P. SYKAS <em>v. </em>MARK J. SYKAS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AmX\">(13401)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b900-6\">Dupont, C. J., and Lavery and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b900-7\">Argued January 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVC-\">decision released February 13, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b900-9\"><em>Carlo Forzani, </em>with whom, on the brief, <em>were Arnold H. Klau </em>and <em>Donald J. Cantor, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b900-10\"><em>Karen S. Gersten, </em>with whom, on the brief, was <em>Aaron L. Gersten, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b900-11\">PER CURIAM.</author>\n<p id=\"An7h\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

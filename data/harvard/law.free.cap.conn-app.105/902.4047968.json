@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b906-2\">EFRAIN HERNANDEZ <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AAed\">(AC 28056)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b906-3\">Flynn, C. J., and Gruendel and Robinson, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b906-4\">Submitted on briefs January 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aa8q\">officially released February 5, 2008</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b906-6\">Per Curiam.</author>\n<p id=\"AI4W\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

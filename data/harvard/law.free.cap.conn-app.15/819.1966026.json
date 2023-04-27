@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"819\" lastpage=\"819\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b797-4\">State of Connecticut <em>v. </em>James T. Stone</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ARi\">(6565)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b797-5\">Daly, Stoughton and O\u2019Connell, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b797-6\">Argued June 16\u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AcGm\">decision released June 24, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b797-8\"><em>Richard W. Gifford, </em>with whom was <em>Paul B. Groobert, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b797-9\"><em>Leon F. Dalbec, Jr., </em>deputy assistant state\u2019s attorney, with whom, on the brief, was <em>T.R. Paulding, </em>assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b797-10\">Per Curiam.</author>\n<p id=\"AD4E\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

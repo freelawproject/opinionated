@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"929\" lastpage=\"929\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b901-6\">CTB Realty Services, Inc. <em>v. </em>Geoffrey Foston et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b901-7\">(13492)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b901-8\">Heiman, Speak and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b901-9\">Submitted on briefs December 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AUD\">decision released December 20, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b901-11\"><em>Geoffrey Foston, </em>pro se, the appellant (named defendant), filed a brief.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b901-12\"><em>Joseph E. Faughnan </em>and <em>Peter G. Kruzynski </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b901-13\">Per Curiam.</author>\n<p id=\"Aaoz\">The judgment is affirmed and the case is remanded to the trial court for the purpose of setting new law days.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

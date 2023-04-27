@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"827\" lastpage=\"827\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b815-9\">Ideal Forging Corporation <em>v. </em>Pye and Hogan Machine Company, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b815-10\">(9292)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b815-11\">Daly, Lavery and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b815-12\">Argued March 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ADi2\">decision released April 16, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b815-14\"><em>John J. Carta, Jr., </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b815-15\"><em>Robert A. Izzo, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b815-16\">Per Curiam.</author>\n<p id=\"AqFj\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

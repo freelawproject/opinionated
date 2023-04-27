@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"914\" lastpage=\"914\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b892-6\">SAMUEL MALBAURN ET AL. <em>v. </em>ALBERT E. WEISS, JR.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b892-8\">(14340)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b892-9\">Schaller, Spear and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b892-10\">Submitted on briefs December 14, 1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aco-dedup-0\">decision released January 23, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b892-12\"><em>AlbertE. Weiss, Jr., </em>pro se, the appellant (defendant), filed a brief.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b892-13\"><em>Robert B. Young </em>filed a brief for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b892-14\">PER CURIAM.</author>\n<p id=\"AL9\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

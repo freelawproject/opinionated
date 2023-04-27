@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b877-2\">STATE OF CONNECTICUT <em>v. </em>PAUL MARCHITTO</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A9Vr\">(AC 16558)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b877-3\">O\u2019Connell, C. X, and Spear and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b877-4\">Argued September 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AdB4\">officially released October 7, 1997</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b877-6\">Per Curiam.</author>\n<p id=\"AJu\">This case is controlled by <em>State </em>v. <em>Elliott, </em>177 Conn. 1, 411 A.2d 3 (1979), and <em>State </em>v. <em>Vas, </em>44 Conn. App. 70, 687 A.2d 1295, cert. denied, 240 Conn. 910, 689 A.2d 474 (1997).</p>\n<p id=\"b877-7\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

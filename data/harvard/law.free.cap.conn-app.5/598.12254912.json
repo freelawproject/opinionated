@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"598\" lastpage=\"598\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b614-6\">Peter Borgwald <em>v. </em>Herman\u2019s Pants Pockets, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b614-7\">(3735)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b614-8\">Dupont, C. J., Borden and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b614-9\">Argued November 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AWR\">decision released December 17, 1985</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b614-11\"><em>Hugh I. Manke, </em>with whom, on the brief, was <em>David A. Reif </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b614-12\"><em>Steven G. Mednick, </em>with whom, on the brief, was <em>Peter F. Culver, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b614-13\">Per Curiam.</author>\n<p id=\"A1a\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

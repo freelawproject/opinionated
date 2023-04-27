@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"930\" lastpage=\"930\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b908-4\">SOUTHERN NEW ENGLAND TELEVISION SERVICE COMPANY, INC., ET AL. <em>v. </em>HARTFORD FIRE INSURANCE COMPANY</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AFIV\">(13982)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b908-5\">Dupont, C. J., and Foti and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b908-6\">Argued January 24</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"asd-dedup-0\">decision released March 5, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b908-8\"><em>Benjamin Ancona, Jr., </em>with whom was <em>Jane Ancona, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b908-9\"><em>Stuart G. Blackburn, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b908-10\">PER CURIAM.</author>\n<p id=\"abg-dedup-1\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

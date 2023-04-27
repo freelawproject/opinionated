@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b737-2\">Jeffrey Anderson <em>v. </em>John J. Connole et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b737-3\">(5681)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b737-4\">Borden, Spallone and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b737-5\">Submitted on briefs September 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AzG\">decision released October 15, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b737-7\"><em>Albert S. Bill, Jr., </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b737-8\"><em>Andrew J. O\u2019Keefe </em>and <em>Maureen Sullivan Dinnan </em>filed a brief for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b737-9\">Per Curiam.</author>\n<p id=\"ANUl\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

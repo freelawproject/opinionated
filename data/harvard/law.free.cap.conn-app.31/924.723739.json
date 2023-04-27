@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"924\" lastpage=\"924\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b904-2\">Stephen N. Sorak <em>v. </em>Muslim M. Mustafa</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ahr\">(11395)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b904-3\">O\u2019Connell, Foti and Landau, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b904-4\">Argued May 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"azf-dedup-0\">decision released June 8, 1993</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b904-6\"><em>Ruth A. Tower, </em>with whom, on the brief, were <em>Michael L. McDonnell </em>and <em>Thomas Celia, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b904-7\"><em>Michael T. Dolan, </em>with whom, on the brief, was <em>James E. O\u2019Donnell, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b904-8\">Per Curiam.</author>\n<p id=\"a-v-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

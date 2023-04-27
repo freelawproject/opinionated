@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b893-12\">KEN A. LATHROP <em>v. </em>JACK E. BURSON ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AG4\">(AC 27379)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b893-13\">McLachlan, Lavine and Peters, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b893-14\">Argued February 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Axpv\">officially released March 27, 2007</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b893-16\">Per Curiam.</author>\n<p id=\"AJQ\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

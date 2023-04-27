@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"936\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b928-7\">Raul Vega <em>v. </em>Department of Liquor Control</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b928-8\">(13377)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b928-9\">Dupont, C. J., and Laveky and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b928-10\">Argued April 19</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Av2\">decision released May 16, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b928-12\"><em>Brian Thomas Walsh, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b928-13\"><em>Sharon M. Hartley, </em>assistant attorney general, with whom, on the brief, was <em>Richard Blumenthal, </em>attorney general, for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b928-14\">Per Curiam.</author>\n<p id=\"A1bj\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

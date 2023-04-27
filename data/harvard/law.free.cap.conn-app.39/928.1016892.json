@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"928\" lastpage=\"928\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b902-6\">JOHANNA GERARDE <em>v. </em>ROCCO GERARDE</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aae-dedup-1\">(13526)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b902-7\">Foti, Landau and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b902-8\">Submitted on briefs November 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aia-dedup-0\">decision released November 28, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b902-10\"><em>David P. Mester </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b902-11\"><em>Lisa A. Faccadio </em>and <em>Christine S. Dorsey </em>filed a brief for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b902-12\">PER CURIAM.</author>\n<p id=\"aaz-dedup-1\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"919\" lastpage=\"920\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b911-6\">Stephen Ceslik <em>v. </em>Lauren Winer</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Amz_\">(12317)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b911-7\">Landa0, Hennessy and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b911-8\">Argued March 16</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AcP\">decision released April 18, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b912-2\"><page-number citation-index=\"1\" label=\"920\">*920</page-number><em>Stephen Ceslik, </em>pro se, the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Adq0\"><em>Gary A. Mastronardi, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b912-3\">Per Curiam.</author>\n<p id=\"Am60\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

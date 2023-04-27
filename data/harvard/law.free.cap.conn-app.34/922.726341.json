@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"922\" lastpage=\"922\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b924-6\">High Street Associates <em>v. </em>William J. Zisk</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ATk5\">(12482)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b924-7\">Foti, Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b924-8\">Argued May 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZ_\">decision released May 31, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b924-10\"><em>Paul Gozzi, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b924-11\"><em>Jennifer L. Berkenstock, </em>with whom was <em>Joseph E. Milardo, Jr., </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b924-12\">Per Curiam.</author>\n<p id=\"AOT\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

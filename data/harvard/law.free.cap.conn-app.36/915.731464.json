@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b887-4\">Lynne Farrish-Leduc et al. <em>v. </em>John Charles Dunagan</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJm\">(12823)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b887-6\">O\u2019Connell, Heiman and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b887-7\">Argued September 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ADGW\">decision released October 18, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b887-9\"><em>David M. Sheridan, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b887-10\"><em>Thomas J. O\u2019Neill, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b887-11\">Per Curiam.</author>\n<p id=\"AiK\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b911-8\">PATRICIA ZUPPE MYERS <em>v. </em>KENNETH ROY MYERS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AEvx\">(AC 20287)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b911-9\">Landau, Spear and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b911-10\">Submitted on briefs September 15</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AK1Y\">officially released October 24, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b911-12\">Per Curiam.</author>\n<p id=\"ato-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

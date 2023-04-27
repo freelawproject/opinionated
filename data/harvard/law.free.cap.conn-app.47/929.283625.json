@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"929\" lastpage=\"929\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b905-15\">STATE OF CONNECTICUT <em>v. </em>DEON WALKER</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ASg\">(AC 15725)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b905-16\">Landau, Spear and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b905-17\">Argued December 15, 1997</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A34\">officially released January 6, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b905-19\">Per Curiam.</author>\n<p id=\"AFIc\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

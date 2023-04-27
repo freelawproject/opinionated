@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"916\" lastpage=\"916\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b890-9\">LOYOLA ACADEMY <em>v. </em>KELLY ENERGY SYSTEMS, INC.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b890-10\">(14024)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b890-11\">Landau, Schaller and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b890-12\">Argued October 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A4qN\">decision released November 21, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b890-14\"><em>Colin D. Johnson, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b890-15\"><em>William L. Stevens, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b890-16\">PER CURIAM.</author>\n<p id=\"AC6\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

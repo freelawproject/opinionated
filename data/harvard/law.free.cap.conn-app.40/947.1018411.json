@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"947\" lastpage=\"947\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b925-2\">JOSEPH BRUNO ET AL. <em>v. </em>CNG REALTY CORPORATION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"afe-dedup-2\">(14114)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b925-3\">Dupont, C. J., and Foti and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b925-4\">Argued February 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AuUX\">decision released March 26, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b925-6\"><em>Joseph P. Quinn, Jr., </em>with whom, on the brief, were <em>James F. Aspell </em>and <em>John J. Quinn, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b925-7\"><em>Thomas A. Kyzivat, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b925-8\">PER CURIAM.</author>\n<p id=\"AkHK\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

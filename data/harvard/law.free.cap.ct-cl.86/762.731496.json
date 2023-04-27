@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"762\" lastpage=\"763\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b790-5\">MABEL S. ANDREWS, EXECUTRIX OF THE ESTATE OF MATTHEW ANDREWS, DECEASED, v. THE UNITED STATES</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b790-6\">[No. 43181.</docketnumber>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A1_\">Decided February 8, 1937,</decisiondate>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b790-7\"><em>[Reversed </em>January 3, 1938.</otherdate>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A-AX\">84 C. Cls. 460]</citation>\n<citation data-order=\"5\" data-type=\"citation\" id=\"AeF\">302 U. S., 517]</citation>\n<otherdate data-order=\"6\" data-type=\"otherdate\" id=\"b790-8\">[Petition dismissed April 4, 1938,</otherdate>\n<p data-order=\"7\" data-type=\"otherdate\" id=\"AfE\">ante, p. 754]</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b791-6\"><page-number citation-index=\"1\" label=\"763\">*763</page-number>Mr. Justice Roberts</author>\n<p id=\"AkT\">delivered the opinion of the Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

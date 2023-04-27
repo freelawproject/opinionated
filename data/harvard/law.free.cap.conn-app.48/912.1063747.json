@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b922-7\">PAUL S. MOYNIHAN <em>v. </em>ESTATE OF JOHN MOYNIHAN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"axk-dedup-0\">(AC 17034)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b922-8\">O\u2019Connell, C. J., and Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b922-9\">Argued March 23</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AK8y\">officially released April 14, 1998</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b922-11\">Per Curiam.</author>\n<p id=\"Ag9\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

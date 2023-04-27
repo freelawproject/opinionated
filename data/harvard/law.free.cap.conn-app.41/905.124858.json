@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b913-2\">SHULI GRAHAM <em>v. </em>DENNIS J. GRAHAM</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ay1T\">(13578)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b913-3\">O\u2019Connell, Landau and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ArY5\">Argued April 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ajb-dedup-0\">officially released April 30, 1996</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b913-4\">Per Curiam.</author>\n<p id=\"AeU-\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

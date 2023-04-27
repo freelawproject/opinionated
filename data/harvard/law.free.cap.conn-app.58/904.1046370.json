@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b854-8\">GARY E. TALLMAN <em>v. </em>ADY SAI-KUEN TONG ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ac6\">(AC 19737)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b854-9\">Schaller, Hennessy and Mihalakos, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b854-10\">Submitted on briefs May 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AaJd\">officially released June 6, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b854-12\">Per Curiam.</author>\n<p id=\"ASqX\">The judgment is affirmed and the case is remanded for the purpose of setting a new sale date.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

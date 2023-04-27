@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b875-12\">CRISTINA L. CARLUCCI <em>v. </em>WALTER KOPP, EXECUTOR (ESTATE OF GERDA E. KOPP)</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ak9\">(AC 23695)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b875-13\">Dranginis, West and Dupont, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b875-14\">Argued April 19</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AkJ\">officially released May 18, 2004</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b875-16\">Per Curiam.</author>\n<p id=\"AJh\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

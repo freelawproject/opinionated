@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b904-10\">Angel Colon <em>v. </em>Savin Brothers, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b904-11\">(13759)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b904-12\">O\u2019Connell, Foti and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b904-13\">Submitted on briefs February 17</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Abjn\">decision released April 4, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b904-15\"><em>Brian W. Prucher </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b904-16\"><em>James L. Pomeranz </em>filed a brief for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b904-17\">Per Curiam.</author>\n<p id=\"APuc\">The decision of the workers\u2019 compensation review board is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

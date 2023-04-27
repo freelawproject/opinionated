@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b869-8\">WILFREDO M. RAMOS <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A69\">(AC 21012)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b869-9\">Dranginis, Flynn and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b869-10\">Argued December 13, 2001</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Afq\">officially released January 15, 2002</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b869-12\">Per Curiam.</author>\n<p id=\"Az2\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

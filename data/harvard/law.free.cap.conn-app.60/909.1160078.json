@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b917-2\">STATE OF CONNECTICUT <em>v. </em>GEORGE WHITEHOUSE</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Au8\">(AC 19470)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b917-3\">Foti, Spear and Pellegrino, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b917-4\">Argued October 16</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"agp-dedup-0\">officially released November 7, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b917-6\">Per Curiam.</author>\n<p id=\"A9qt\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"949\" lastpage=\"949\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b937-2\">Lorraine Benton <em>v. </em>John B. Benton</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A7X\">(12356)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b937-3\">Lavery, Freedman and Cretella, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b937-4\">Submitted on briefs February 28</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ann\">decision released March 22, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b937-6\"><em>Frank P. Cannatelli </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b937-7\"><em>Thomas C. Healey </em>and <em>Leo Vine </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b937-8\">Per Curiam.</author>\n<p id=\"AHM\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

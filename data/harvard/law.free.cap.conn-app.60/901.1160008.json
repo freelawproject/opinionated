@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b909-7\">NEW MILFORD SAVINGS BANK <em>v. </em>JOHN D. MULVILLE, JR., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b909-8\">(AC 19964)</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ADJY\">(AC 19966)</docketnumber>\n<p data-order=\"3\" data-type=\"judges\" id=\"b909-10\">Spear, Zarella and Hennessy, Js.</p>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b909-11\">Submitted on briefs September 15</otherdate>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"Ak2I\">officially released October 24, 2000</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b909-13\">Per Curiam.</author>\n<p id=\"ASl4\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

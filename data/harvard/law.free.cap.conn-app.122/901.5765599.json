@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b865-12\">CITIBANK (SOUTH DAKOTA) N.A. <em>v. </em>RICHARD M. FARINA</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AlL5\">(AC 31635)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b865-13\">DiPentima, C. J., and Bear and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b865-14\">Argued June 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aib-dedup-0\">officially released June 29, 2010</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b865-16\">Per Curiam.</author>\n<p id=\"AyGm\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

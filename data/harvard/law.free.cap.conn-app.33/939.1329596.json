@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"939\" lastpage=\"940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b927-7\">Frank X. Lo Sacco <em>v. </em>Post Newsweek Stations, Connecticut, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b927-8\">(12188)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b927-9\">Foti, Landau and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b927-10\">Argued February 17</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AlC9\">decision released March 8, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b927-12\"><em>Frank X. Lo Sacco, </em>pro se, the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b928-2\"><page-number citation-index=\"1\" label=\"940\">*940</page-number><em>James Sicilian, </em>with whom was <em>Barbara A. Petitjean, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b928-3\">Per Curiam.</author>\n<p id=\"Aig\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

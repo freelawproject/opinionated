@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"920\" lastpage=\"920\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b908-2\">Seymour Framson <em>v. </em>Frank Riccio</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AjZ\">(11822)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b908-3\">Dupont, C. J., Lavery and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b908-4\">Argued December 10, 1993</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A2d\">decision released January 4, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b908-6\"><em>Francis J. Ficarra, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b908-7\"><em>Cathy S. Kohut, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b908-8\">Per Curiam.</author>\n<p id=\"Arv\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

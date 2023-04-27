@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b881-6\">Erik Nielsen et al. <em>v. </em>John Rooney et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b881-7\">(12809)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b881-8\">Foti, Landau and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b881-9\">Argued September 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ACA7\">decision released October 11, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b881-11\"><em>Jan A. Marcus, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b881-12\"><em>Robert C. Shenfeld, </em>with whom, on the brief, was <em>Christopher S. Rooney, </em>pro hac vice, for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b881-13\">Per Curiam.</author>\n<p id=\"ACU\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"945\" lastpage=\"945\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b923-6\">HELEN D. LEGNOS <em>v. </em>PETER J. LEGNOS</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"alq-dedup-2\">(14339)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b923-7\">Lavery, Landau and Ileiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b923-8\">Argued February 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Agq\">decision released March 26, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b923-10\"><em>William W. Fisher, Jr., </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b923-11\"><em>William E. McCoy, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b923-12\">PER CURIAM.</author>\n<p id=\"amh-dedup-1\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

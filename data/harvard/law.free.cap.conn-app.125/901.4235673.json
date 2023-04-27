@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b855-2\">FRANCIS BORRELLI <em>v. </em>COMMISSIONER OF CORRECTION</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AVyB\">(AC 31431)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b855-3\">Bishop, Lavine and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b855-4\">Argued October 26</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVG\">officially released November 16, 2010</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b855-6\">Per Curiam.</author>\n<p id=\"AP5E\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

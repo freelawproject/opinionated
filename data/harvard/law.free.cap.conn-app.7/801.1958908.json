@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b767-2\">Chester J. Richmond <em>v. </em>Julia A. Richmond</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A8W\">(3560)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b767-3\">Dupont, C. J., Hull and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b767-4\">Argued April 29 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AOW\">decided April 29, 1986</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b767-6\"><em>Peter W. Botella, </em>with whom, on the brief, was A. A. <em>Washton, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b767-7\"><em>Mary E. Holzworth, </em>with whom were <em>Kathleen B. Gravalec, </em>and, on the brief, <em>Francis J. Foley III, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b767-8\">Per Curiam.</author>\n<p id=\"AD7\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

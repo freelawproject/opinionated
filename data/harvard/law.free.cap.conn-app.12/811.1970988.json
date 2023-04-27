@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"811\" lastpage=\"811\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b739-9\">William Miller et al. <em>v. </em>John G. Kalivas et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b739-10\">(5286)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b739-11\">Borden, Bieluch and O\u2019Connell, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b739-12\">Argued November 10</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AnW\">decision released November 17, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b739-14\"><em>Andre L. Nagy, </em>with whom, on the brief, was <em>James J. Hooghuis, </em>legal intern, for the appellant (defendant John Kalivas).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b739-15\"><em>Judith Dixon, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b739-16\">Per Curiam.</author>\n<p id=\"AJN\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

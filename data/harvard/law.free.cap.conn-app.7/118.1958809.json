@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"118\" lastpage=\"118\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b130-7\">State of Connecticut <em>v. </em>Christopher Taft</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AZq\">(3468)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b130-8\">Hull, Spallone and Bieluch, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b130-9\">Argued April 3 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A63\">decision released April 22, 1986</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b130-11\"><em>John R. Williams, </em>with whom, on the brief, was <em>Bruce A. Sturman, </em>public defender, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b130-12\"><em>James G. Clark, </em>deputy assistant state\u2019s attorney, with whom, on the brief, was <em>Mary Galvin, </em>assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b130-13\">Per Curiam.</author>\n<p id=\"A_\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

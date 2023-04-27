@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"904\" lastpage=\"904\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b906-15\">MICHAEL CASTEEL <em>v. </em>JOANNE CASTEEL</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A3Q\">(AC 26593)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b906-16\">Harper, Rogers and Berdon, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b906-17\">Argued October 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AqA-\">officially released November 14, 2006</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b906-19\">Per Curiam.</author>\n<p id=\"A8Y\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b910-9\">Napoleon St. Cyr <em>v. </em>Jack Lockshier et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b910-10\">(12659)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b910-11\">Dupont, C. J., Landau and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b910-12\">Argued April 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Abp1\">decision released May 3, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b910-14\"><em>Napoleon St. Cyr, </em>pro se, the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b910-15\"><em>John T. Boehanis, </em>with whom, on the brief, was <em>Thomas J. Weihing, </em>for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b910-16\">Per Curiam.</author>\n<p id=\"AZvN\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

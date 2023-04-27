@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"928\" lastpage=\"928\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b920-9\">Richard J. Medlock, Sr. <em>v. </em>Cora L. Medlock</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A2Y\">(13405)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b920-10\">O\u2019Connell, Landau and Spear, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b920-11\">Argued March 23</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A7s\">decision released May 2, 1995</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b920-13\"><em>Linda P. Dunphy, </em>with whom, on the brief, was <em>John C. Kucej, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b920-14\"><em>Wilson J. Trombley, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b920-15\">Per Curiam.</author>\n<p id=\"ADt\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

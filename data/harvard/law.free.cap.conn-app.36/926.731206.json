@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"926\" lastpage=\"926\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b898-2\">State of Connecticut <em>v. </em>Antonio D. Farinha</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ahly\">(12956)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b898-3\">Dupont, C. J., and Heiman and Schaller, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b898-4\">Argued November 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Acu\">decision released November 29, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b898-6\"><em>Michael R. Hasse, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b898-7\"><em>Lawrence J. Tytla, </em>assistant state\u2019s attorney, with whom, on the brief, was <em>C. Robert Satti, Sr., </em>state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b898-8\">Per Curiam.</author>\n<p id=\"A6b\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

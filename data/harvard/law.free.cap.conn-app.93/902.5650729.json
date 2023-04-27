@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b880-2\">LINC CREDIT, LLC <em>v. </em>EUGENE AXELROD ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A_4\">(AC 26258)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b880-3\">Schaller, Flynn and Harper, Js.<footnotemark>*</footnotemark></p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b880-4\">Submitted on briefs January 12</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"a1i-dedup-0\">officially released February 14, 2006</decisiondate>\n<footnote data-order=\"5\" data-type=\"footnote\" id=\"x999-1\" label=\"*\">\n<p id=\"b880-7\"> The listing of judges reflects their seniority status on this court as of the date of oral argument or the date the appeal was submitted on the briefs.</p>\n</footnote>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"b880-6\">Per Curiam.</author>\n<p id=\"ajm-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

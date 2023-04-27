@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b893-8\">OLWEN M. FALKENSTEIN <em>v. </em>MICHAEL FALKENSTEIN</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AxXC\">(AC 20143)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b893-9\">Schaller, Spear and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b893-10\">Argued May 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aog7\">officially released June 5, 2001</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b893-12\">Per Curiam.</author>\n<p id=\"AbO\">The judgments are affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

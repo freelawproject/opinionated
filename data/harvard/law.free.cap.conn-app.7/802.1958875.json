@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"802\" lastpage=\"802\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b768-5\">Vilmos Havasi <em>v. </em>Danbury Recreation Company et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b768-6\">(4572)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b768-7\">Borden, Spallone and Bieluch, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b768-8\">Argued May 7 \u2014</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AdX\">decided May 7, 1986</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b768-10\"><em>Gerald Hecht, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b768-11\"><em>Ted D. Backer, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b768-12\">Per Curiam.</author>\n<p id=\"As2\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

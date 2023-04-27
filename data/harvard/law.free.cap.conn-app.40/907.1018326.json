@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"907\" lastpage=\"907\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b885-6\">RITA PACHECO <em>v. </em>HOUSING AUTHORITY OF THE CITY OF WILLIMANTIC ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b885-7\">(13918)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b885-8\">Heiman, Spear and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b885-9\">Argued December 4, 1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AQJ\">decision released January 9, 1996</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b885-11\"><em>Gary R. Atkinson, </em>with whom, on the brief, was <em>Anthony J. Palermino, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b885-12\"><em>Jeffrey F. Gostyla, </em>with whom, on the brief, was <em>Edward T. Lynch, Jr., </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b885-13\">PER CURIAM.</author>\n<p id=\"arv-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

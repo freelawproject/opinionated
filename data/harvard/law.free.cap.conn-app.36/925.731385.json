@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"925\" lastpage=\"925\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b897-6\">Garret Bush III et al. <em>v. </em>Water Pollution Control Authority of the Town of Waterford et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b897-7\">(12534)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b897-8\">Heiman, Schaller and Hennessy, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b897-9\">Argued November 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A3M\">decision released November 29, 1994</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b897-11\"><em>Conrad Ost Seifert, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b897-12\"><em>Lois J. Lawrence, </em>for the appellee (named defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b897-13\">Per Curiam.</author>\n<p id=\"ARo\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"806\" lastpage=\"806\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b794-10\">Sandra J. Raynor <em>v. </em>Rupert Mallach et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b794-11\">(8296)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b794-12\">Daly, O\u2019Connell and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b794-13\">Argued January 14</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ACm-\">decision released January 29, 1991</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b794-15\"><em>John W. Pickard, </em>with whom, on the brief, was <em>Maureen E. Donahue, </em>for the appellants (named defendant et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b794-16\"><em>Catherine G. Roraback, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b794-17\">Per Curiam.</author>\n<p id=\"AS4\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

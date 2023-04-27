@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"902\" lastpage=\"902\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b884-12\">MYRNA LABOW <em>v. </em>RONALD LABOW</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A9H\">(AC 27401)</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b884-13\">(AC 29214)</docketnumber>\n<p data-order=\"3\" data-type=\"judges\" id=\"b884-14\">Bishop, DiPentima and Pellegrino, Js.</p>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b884-15\">Argued March 19</otherdate>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"adp-dedup-1\">officially released April 14, 2009</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b884-17\">Per Curiam.</author>\n<p id=\"A1sY\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

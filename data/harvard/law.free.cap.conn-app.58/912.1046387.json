@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"912\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b862-12\">DONALD C. MAHONEY v. BAHAMA BOB\u2019S HARTFORD, INC., ET AL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b862-13\">(AC 17226)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b862-14\">Lavery, C. J., and Landau and Mihalakos, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b862-15\">Argued June 8</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ADp\">officially released July 18, 2000</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b862-17\">Per Curiam.</author>\n<p id=\"AlES\">The stay of the bankruptcy court was vacated on March 21, 2000.</p>\n<p id=\"b862-18\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
