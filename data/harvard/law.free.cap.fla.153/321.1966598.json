@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"321\" lastpage=\"321\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b345-4\">BROWARD COUNTY KENNEL CLUB, INC., a corporation, v. STATE OF FLORIDA, upon the relation of MARY A. PETTIT, BARBARA ROBERTS and FLORENCE STRONG.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"A2s\">14 So. (2nd) 569</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Afh\">June Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGJ\">July 16, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AoT\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Al8\"><em>C. H. Landefeld, Jr., </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ASh\"><em>Rowland W. Granat, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Aq6E\">PER CURIAM:</author>\n<p id=\"ABq\">The record in this case having been duly considered and finding no reversible error the judgment is affirmed.</p>\n<judges id=\"AXh\">BUFORD, C. J., TERRELL, CHAPMAN and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"282\" lastpage=\"282\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b372-14\">McDANIEL <em>v. </em>CALIFORNIA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b372-16\">No. 283,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ar_\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ApU\">Decided January 12, 1959.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b372-18\">Per Curiam.</author>\n<p id=\"b372-19\">The appeal is dismissed for want of a substantial federal question.</p>\n<judges id=\"b372-20\">Mr. Justice Frankfurter took no part in the consideration or decision of this case.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

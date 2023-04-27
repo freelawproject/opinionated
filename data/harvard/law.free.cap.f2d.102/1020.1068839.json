@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1084-17\">The UNITED STATES of America ex rel. James MICHAEL, Petitioner-Appellant, v. Joseph E. RAGEN, Warden, Illinois State Penitentiary, Respondent-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1084-18\">No. 6690.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1084-19\">Circuit Court of Appeals, Seventh Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AmxZ\">Aug. 30, 1938.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1084-21\">Before SPARKS and MAJOR, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1084-22\">PER CURIAM.</author>\n<p id=\"b1084-23\">On motion of counsel for appellee, it is now here ordered and adjudged that this appeal be, and the same is hereby, dismissed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

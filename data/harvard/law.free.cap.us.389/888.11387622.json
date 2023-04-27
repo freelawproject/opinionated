@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"889\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b784-9\">No. 118,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aay4\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A29s\">Tucker <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A5t5\"><em>Thomas M. Collins </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A27Q\"><em>Solicitor General Marshall, Assistant Attorney General </em><page-number citation-index=\"1\" label=\"889\">*889</page-number><em>Vinson </em>and <em>Philip R. Monahan </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0ve\"><page-number citation-index=\"1\" label=\"888\">*888</page-number>C. A. 8th Cir. Certiorari denied.</p>\n<judges id=\"AWIG\">Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n<judges id=\"AaU\">Mr. Justice Marshall took no part in the consideration or decision of this petition.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

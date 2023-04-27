@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1111\" lastpage=\"1111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1037-5\">No. 1240,</docketnumber>\n<p data-order=\"1\" data-type=\"summary\" id=\"AoSz\">Mise.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AuQT\">Durso et al. <em>v. </em>Illinois.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AByN\"><em>John J. Crown </em>for petitioner Durso.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVSI\">Sup. Ct. Ill. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

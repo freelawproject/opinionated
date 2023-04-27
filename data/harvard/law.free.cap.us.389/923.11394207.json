@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"923\" lastpage=\"923\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b819-6\">No. 301,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A-es\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AJ-I\">Bailey <em>v. </em>DeQuevedo.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A-5B\"><em>Peter O. Clauss </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ay1b\"><em>Solicitor General Marshall, Acting Assistant Attorney General Eardley, John C. Eldridge </em>and <em>Robert V. Zener </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Al1u\">C. A. 3d Cir. Certiorari denied.</p>\n<judges id=\"AdXK\">. Mr. Justice Douglas is of the opinion that certiorari should be granted.</judges>\n<judges id=\"AppM\">Mr. Justice Marshall took no part in the consideration or decision of this petition.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

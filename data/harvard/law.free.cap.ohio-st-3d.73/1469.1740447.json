@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1469\" lastpage=\"1469\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b939-9\">\n<em>Wednesday, September 27, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b939-10\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b939-11\">93-1708.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A2Rc\">State v. Kinley.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AOIg\">\n<em>Clarke County,</em>\n</court>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"ANr\">No. 2826.</docketnumber>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXqb\">On motion for stay. Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"744\" lastpage=\"744\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b768-3\">DAN W. STEWART v. DR. JAMES L. ESTES</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"A3xq\">15 So. (2nd) 679</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"ALB\">June Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AHV\">November 30, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A4t_\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b768-7\"><em>Bryan &amp; Bryan, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b768-8\"><em>W. Frank Hobbs, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b768-9\">PER CURIAM:</author>\n<p id=\"b768-10\">The judgment appealed from herein is affirmed on authority of Hill v. Broughton, 146 Fla. 505, 1 So. (2nd) 610.</p>\n<p id=\"ArDq\">Affirmed.</p>\n<judges id=\"b768-11\">BUFORD, C. J., TERRELL, CHAPMAN and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

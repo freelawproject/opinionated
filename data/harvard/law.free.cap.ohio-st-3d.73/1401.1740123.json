@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1401\" lastpage=\"1401\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b871-4\">\n<em>Monday, July 17, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b871-5\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b871-6\">95-922.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AAN\">Cincinnati Bell Tel. Co. v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmR\">In Mandamus and Prohibition.</p>\n<p id=\"b871-7\">On motion for leave to intervene by Time Warner Communications of Ohio, L.P. and Time Warner AXS. Motion granted.</p>\n<p id=\"b871-8\">On motion for leave to intervene by MCI Metro Access Transmission Services, Inc. Motion denied.</p>\n<judges id=\"b871-9\">Moyer, C.J., and Pfeifer, J., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

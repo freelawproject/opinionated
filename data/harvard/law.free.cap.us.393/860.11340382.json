@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"860\" lastpage=\"860\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b786-8\">No. 25,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AWVz\">No. 26,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AlZL\">No. 27,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"AP_\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"AfE\">Misc.</p>\n<p data-order=\"5\" data-type=\"misc\" id=\"A8dy\">Misc.</p>\n<parties data-order=\"6\" data-type=\"parties\" id=\"AR1o\">Napier <em>v. </em>United States; Cowart <em>v. </em>United States; and Skipper <em>v. </em>United States.</parties>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"Aaa_\"><em>Solicitor General Griswold, Assistant Attorney General Vinson, </em>and <em>Beatrice Rosenberg </em>for the United States.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AA8\">C. A. 5th</p>\n<p id=\"Ajc\">Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

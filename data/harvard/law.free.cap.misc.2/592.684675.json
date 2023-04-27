@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"592\" lastpage=\"592\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b632-7\">(New York Common Pleas</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AOR\">General Term,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AZEb\">February, 1893.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b632-8\">H. Bischoff, Jr., P. J., and Pryor, J.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"b632-9\">Catherine Kern, Respondent, <em>v. </em>Phillipina.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A2Kc\">Klein, Appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AE0\">W. H. Geiger, for respondent.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"ASq\">A. G. Vanderpool, for appellant.</attorneys>\n<summary data-order=\"8\" data-type=\"summary\" id=\"A4o\">Appeal from judgment of the 'Sixth District Court, Hon. S. Lachmah, J.</summary>\n<opinion data-order=\"9\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aey\">Judgment reversed, new trial ordered, costs to the appellants to abide the event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

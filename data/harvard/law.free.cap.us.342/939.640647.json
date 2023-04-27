@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"939\" lastpage=\"939\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b817-4\">No. 35,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AvhJ\">Misc.</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Am7E\">No. 49,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"AJVm\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AHOv\">Geach <em>v. </em>Illinois; and Smith <em>v. </em>Illinois.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ADyY\">Petitioners <em>pro se.</em></attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Aekt\"><em>Ivan A. Elliott, </em>Attorney General of Illinois, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ArhL\">\n<em>Per Curiam:</em>\n</author>\n<p id=\"AlP2\">The petitions for writs of certiorari are granted. The judgments are vacated and the cases are remanded to the Illinois Supreme Court for further proceedings. <em>Jennings </em>v. <em>Illinois, </em>342 U. S. 104..</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

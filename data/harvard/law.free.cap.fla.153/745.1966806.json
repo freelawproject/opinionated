@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"745\" lastpage=\"745\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b769-9\">LAYMAN ALLEN BURLISON v. JOHNNIE PARTIN BURLISON</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b769-10\">15 So. (2nd) 767</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AOF\">Jane Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b769-11\">December 3, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"An68\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b769-13\"><em>E. K. Mcllrath, </em>or appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b769-14\"><em>Nathan Schevitz, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b769-15\">PER CURIAM:</author>\n<p id=\"b769-16\">Affirmed.</p>\n<judges id=\"b769-17\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

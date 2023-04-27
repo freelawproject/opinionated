@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"496\" lastpage=\"496\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b520-3\">IN RE: TRUST ESTATE OF EMILY ROEDIGER WHARTON; ERNEST BERGER, Trustee, and A. W. BRUBAKER, Attorney, v. BABARA GERMANN, Creditor, and DOROTHY MEYER, CLARENCE C. PERPALL, ONA PERPALL, HAROLD PERPALL, EMILIE PERPALL CHICHESTER, and NELLIE O. S. FINNIE, beneficiaries.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b520-4\">18 So. (2nd) 166</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"APqL\">January Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b520-5\">May 26, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Ath\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b520-7\">A. W. Brubaker, for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b520-8\"><em>Robert W. Patton, </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b520-9\">PER CURIAM;</author>\n<p id=\"b520-10\">Affirmed.</p>\n<judges id=\"b520-11\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

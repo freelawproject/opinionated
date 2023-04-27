@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"153\" lastpage=\"153\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b263-13\">IN RE EPSTEIN et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b263-16\">No. 649,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A0Zs\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AiS\">Decided November 13, 1967.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b263-18\"><em>Wesley R. Asinof </em>on the motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b263-19\"><em>Arthur K. Bolton, </em>Attorney General of Georgia, and <em>Harold N. Hill, Jr., </em>Assistant Attorney General, for Maddox, Governor of Georgia, et al., in opposition.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b263-20\">Per Curiam.</author>\n<p id=\"b263-21\">The motion for leave to file a petition for writ of mandamus is denied. See <em>Schackman </em>v. <em>Arnebergh, </em>387 U. S. 427.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

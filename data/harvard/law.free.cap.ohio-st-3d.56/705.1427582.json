@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"705\" lastpage=\"705\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AZz\">Wednesday, December 12, 1990</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Akt\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AxBk\">90-2409.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AUTQ\">In re Jane Doe</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AFC\">2. <em>Cuyahoga County, </em>No. 60842. This cause is pending before the court on the filing of a motion for an order directing the Court of Appeals for Cuyahoga County to certify its record and as a claimed appeal as of right from said court. Upon consideration thereof, IT IS ORDERED by the court, <em>sua oponte, </em>that this cause be, and the same is hereby, dismissed as moot because the abortion sought by appellant has occurred, effective December 11, 1990.</p>\n<judges id=\"AYU\">Moyer, C.J., Sweeney, Holmes, Wright, H. Brown and Resnick, JJ., concur.</judges>\n<judges id=\"AVO\">Douglas, J., dissents, would hear the cause and not dismiss it as moot.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

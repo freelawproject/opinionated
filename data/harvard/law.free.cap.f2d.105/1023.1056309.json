@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"Ai2I\">UNITED STATES of America v. James A. WILLIAMS and Williams &amp; Cornelius.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AlIR\">No. 9261.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"Aqfk\">Circuit Court of Appeals, Ninth Circuit</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AuQ\">Aug 16, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ALU\">Sam M. Driver, U. S. Atty., of Spokane, \u25a0^Ya^gh</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AbET\"><em>~ </em>.. r c 1 Wash., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AG8\">Before DENMAN, MATHEWS, and STEPHENS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A9q-\">PER CURIAM.</author>\n<p id=\"ALI\">Upon stipulation of counsel for respective parties, ordered appeal herein dismissed that a judgment of dismissal be filed and entered accordingly, and that the mandate of this court in this cause issue forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

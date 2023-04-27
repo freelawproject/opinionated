@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b793-11\">No. 42.</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b793-12\">No. 310.</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b793-13\">No. 348.</docketnumber>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b793-14\">No. 89,</docketnumber>\n<p data-order=\"4\" data-type=\"misc\" id=\"AXpm\">Misc.</p>\n<parties data-order=\"5\" data-type=\"parties\" id=\"ADqD\">Brack <em>v. </em>Gross, Watson <em>v. </em>Suddoth, Ellis <em>v. </em>Girard Trust Co., Trustee, In re Sprague,</parties>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AoHa\"><em>ante, </em>p. 813;</p>\n<p id=\"AFQd\"><em>ante, </em>p. 885;</p>\n<p id=\"ALD\"><em>ante, </em>p. 870; and</p>\n<p id=\"Ay58\"><em>ante, </em>p. 840. Petitions for rehearing denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"214\" lastpage=\"214\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b288-13\">WATTS <em>v. </em>MARYLAND.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AfL\">No. 1267,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ae7\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aqa\">Decided March 10, 1969.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b288-16\">Per Curiam.</author>\n<p id=\"b288-17\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

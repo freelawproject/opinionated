@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"909\" lastpage=\"909\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b805-5\">October 23, 1967.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b805-7\">No. 31,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AYeg\">Orig.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"At8s\">Utah <em>v. </em>United States.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"As3R\"><em>L. M. McBride, Frank A. Wollaeger, Myer Feldman </em>and <em>Martin Jacobs </em>on the motion.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ag_B\">Motion of Morton International, Inc., for leave to intervene and file an answer is referred to the Special Master.</p>\n<judges id=\"AftX\">Mr. Justice Marshall took no part in the consideration or decision of this motion.</judges>\n<p id=\"AUGM\">[For earlier orders herein, see 387 U. S. 902, 388 U. S. 902.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

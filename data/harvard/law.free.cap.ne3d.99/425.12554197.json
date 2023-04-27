@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"425\" lastpage=\"425\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State\n  <br/>\n  v.\n  <br/>\n  Gilbert\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0461\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  June 6, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On review of an order certifying a conflict. The court determines that a conflict exists. Sua sponte, cause held for the decision in 2017-1703, State v. Dangler, and briefing schedule stayed.\n  </p>\n  <p id=\"p-8\">\n   Kennedy, French, and DeWine, JJ., dissent in part and would determine that a conflict exists and order the parties to proceed pursuant to S.Ct.Prac.R. 8.03.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

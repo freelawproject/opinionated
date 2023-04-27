@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"919\" lastpage=\"919\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b857-5\">No. 5,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AFo3\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AYhM\">Burns <em>v. </em>Ohio.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AjxC\">Petitioner <em>pro se. C. Watson Hover </em>for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5DR\">Motion for leave to proceed <em>in forma pauperis </em>and petition for writ of cer-tiorari to the Supreme Court of Ohio granted.</p>\n<judges id=\"AbGC\">Mr. Justice Stewart took no part in the consideration or decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

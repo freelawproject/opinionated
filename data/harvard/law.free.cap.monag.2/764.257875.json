@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"764\" lastpage=\"764\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b798-7\">Commonwealth <em>v. </em>Myers.</parties>\n<syllabus data-order=\"1\" data-type=\"headnotes\" id=\"b798-8\">A hearing on an application to be admitted to bail will not be granted by the supreme court until a copy of the record, bills of exceptions and assignments of error, are filed in the court.</syllabus>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AI5Y\">Jan. 19, 1890.</decisiondate>\n<p data-order=\"3\" data-type=\"otherdate\" id=\"pA1V\">Jan. 19, 1890.</p>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Aq2K\">Application of James Edward Myers to be admitted to bail, pending an appeal from the O. &amp; T. Co. Before a full bench.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b798-10\">Per Curiam,</author>\n<p id=\"ACeq\">The application for a hearing upon this motion is denied, with leave, however, to renew the motion when we are furnished with a copy of the record, bills of exceptions and assignments of error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

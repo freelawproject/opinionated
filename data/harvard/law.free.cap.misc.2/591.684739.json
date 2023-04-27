@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"591\" lastpage=\"591\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b631-2\">(New York Common Pleas</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"A6N\">General Term,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AigF\">January, 1893.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b631-3\">Bookstaver, P. J., Bischoff and Pryor, JJ.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"b631-4\">American Artistic Gold Stamping Co. <em>v. </em>The Glens Falls Ins. Co.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Arl4\">Thos. Brennan, for plaintiff.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AJW\">Thos. M. Wyatt, for defendant.</attorneys>\n<summary data-order=\"7\" data-type=\"summary\" id=\"Arb\">Motion for leave to appeal to the Court of Appeals.</summary>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_X\">Motion denied, with ten dollars costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"882\" lastpage=\"883\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b778-11\">No. 135,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AgX9\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ANKS\">Hilbrich <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AMGh\"><em>George L. Sawnders, Jr., </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AUfx\"><em>Solicitor General Marshall, Assistant Attor</em><page-number citation-index=\"1\" label=\"883\">*883</page-number><em>ney General Vinson </em>and <em>Beatrice Rosenberg </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AW3U\"><page-number citation-index=\"1\" label=\"882\">*882</page-number>C. A. 7th Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

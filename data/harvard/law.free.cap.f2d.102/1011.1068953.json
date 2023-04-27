@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1011\" lastpage=\"1011\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"aec-dedup-2\">The PRUDENTIAL INSURANCE COMPANY OF AMERICA et al., Plaintiff-Defendants-Appellees, v. William HOGAN et al., Defendants-Appellants.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Az0\">No. 6715.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AgbR\">Circuit Court of Appeals, Seventh Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AdtQ\">Oct. 20, 1938.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"aps-dedup-2\">Before SPARKS, MAJOR and TREANOR, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Ag_Z\">PER CURIAM.</author>\n<p id=\"AJFE\">On application of counsel for appellants, counsel for appellees the Hight State Bank and the Prudential Insurance Company of America consenting thereto, it is ordered adjudged and decreed by this court that this appeal be, and the same is hereby, dismissed, with costs.</p>\n<p id=\"atf-dedup-1\">It is further ordered that the mandate of this court in this cause be issued forth-</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

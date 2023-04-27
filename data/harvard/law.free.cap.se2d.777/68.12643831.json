@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"68\" lastpage=\"69\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  TUNSTALL\n  <br/>\n  v.\n  <br/>\n  Frank W. BALLANCE, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 323A92-10.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Sept. 24, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Charles Alonzo Tunstall, Lumberton, for Tunstall, Charles Alonzo.\n </attorneys>\n <attorneys id=\"p-6\">\n  Derrick Mertz, Assistant Attorney General, for State of N.C.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   The following order has been entered on the motion filed on the 14th of August 2015 by Petitioner to Appoint Counsel:\n  </p>\n  <blockquote id=\"p-9\">\n   \"Motion Dismissed as moot by order of the Court in conference, this the 24th of September 2015.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

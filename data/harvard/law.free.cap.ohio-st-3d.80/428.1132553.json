@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"428\" lastpage=\"428\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b572-4\">Blessing, Appellant, <em>v. </em>Blessing, Appellee.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b572-5\">[Cite as <em>Blessing v. Blessing </em>(1997), 80 Ohio St.3d 428.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b572-7\">(No. 97-422</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AHT\">Submitted December 3, 1997</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ADv\">Decided December 31, 1997.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b572-8\">\n<em>Charles W. Blessing, pro se.</em>\n</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b572-9\">The judgment of the court of appeals is affirmed on the authority of <em>Pauly v. Pauly </em>(1997), 80 Ohio St.3d 386, 686 N.E.2d 1108.</p>\n<judges id=\"b572-10\">Moyer, C.J., Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n<judges id=\"b572-11\">Douglas, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"45\" lastpage=\"45\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Sandra P. GANDY, petitioner,\n  <br/>\n  v.\n  <br/>\n  J. Harrell REID, Sheriff, Hamilton County, Florida.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-9950.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 30, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"12696968,12697020,12696954,12696955,12696956,12696957\" index=\"0\" url=\"https://cite.case.law/s-ct/133/2809/\">\n   133 S.Ct. 2809\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

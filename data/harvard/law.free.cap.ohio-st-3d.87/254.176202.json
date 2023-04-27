@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"254\" lastpage=\"254\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b368-4\">The State of Ohio, Appellant, <em>v. </em>Esmond, Appellee.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b368-5\">[Cite as <em>State v. Esmond </em>(1999), 87 Ohio St.3d 254.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b368-7\">(No. 98-2477</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Azy\">Submitted November 3, 1999</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A25y\">Decided December 1, 1999.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b368-8\"><em>Julia R. Bates, </em>Lucas County Prosecuting Attorney, and <em>Eric A. Baum, </em>Assistant Prosecuting Attorney, for appellant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b368-9\">The judgment of the court of appeals is affirmed on the authority of <em>State v. Conyers </em>(1999), 87 Ohio St.3d 246, 719 N.E.2d 535.</p>\n<judges id=\"b368-10\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"991\" lastpage=\"991\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1019-4\">AMARILLO OIL COMPANY v. COMMISSIONER OF INTERNAL REVENUE.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1019-5\">No. 1204.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1019-6\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AW40\">Dec. 31, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1019-8\">H. B. McCawley, of Washington, D. C., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1019-9\">Robert H. Jackson, Asst. Gen. Counsel, Bureau of Internal Revenue, of Washington, D. C., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1019-10\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1019-11\">PER CURIAM.</author>\n<p id=\"b1019-12\">Petition for review dismissed for failure to prosecute.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

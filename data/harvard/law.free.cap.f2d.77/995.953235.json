@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"995\" lastpage=\"995\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1023-9\">COMMISSIONER OF INTERNAL REVENUE v. FARMERS LIFE INSURANCE COMPANY.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1023-11\">No. 971.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1023-12\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1023-13\">May 13, 1935.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1023-15\">Robert H. Jackson, Asst. Gen. Counsel, Bureau of Internal Revenue, of Washington, D. C., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1023-16\">Thomas Watters, Jr., of Des Moines, Iowa, for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1023-17\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1023-18\">PER CURIAM.</author>\n<p id=\"b1023-19\">Decision of United States Board of Tax Appeals reversed, and cause remanded, with instructions, on stipulation.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"347\" lastpage=\"347\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b371-4\">REGINA PERRY v. M. L. MERSHON and MARIE MERSHON, his wife.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b371-5\">17 So. (2nd) 552</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"A5Y\">January Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b371-6\">April 14, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AjHc\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b371-8\"><em>Morrow &amp; Mayes </em>and <em>L. J. Cushman, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A5h\"><em>McKay, Dixon &amp; DeJarnette, </em>for appellees.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b371-9\">PER CURIAM:</author>\n<p id=\"b371-10\">From a consideration of the whole record, we find no reversible error, hence the judgment appealed from is affirmed.</p>\n<judges id=\"b371-11\">BUFORD, C. J., TERRELL, CHAPMAN and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

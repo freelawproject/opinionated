@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1025\" lastpage=\"1025\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b1051-15\">May 12, 1969.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1051-17\">No. 5,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AQ80\">Misc.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A-Nt\">Sanchez <em>v. </em>California.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A29T\"><em>Charles F. Prael </em>for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Anqz\"><em>Thomas C. Lynch, </em>Attorney General of California, and <em>Edward P. O\u2019Brien </em>and <em>Karl S. Mayer, </em>Deputy Attorneys General, for respondent.</attorneys>\n<seealso data-order=\"6\" data-type=\"seealso\" id=\"Ahs\">[For earlier order herein, see 389 U. S. 999.]</seealso>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7Oq\">Sup. Ct. Cal. Petition for writ of certiorari dismissed pursuant to Rule 60 of the Rules of this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

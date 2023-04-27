@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"807\" lastpage=\"807\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b703-7\">No. 156,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AOB8\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ad5\">Kennedy <em>v. </em>Commandant, United States Disciplinary Barracks, Fort Leavenworth.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AnO\"><em>Solicitor General </em>Marshall, <em>Assistant Attorney General Vinson </em>and <em>Beatrice Rosenberg </em>for respondent in opposition.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApD\">Motion for leave to file petition for writ of habeas corpus and other relief denied.</p>\n<judges id=\"Aola\">Mr. Justice Marshall took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

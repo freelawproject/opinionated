@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1046-11\">No. 1704,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AmtZ\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AWqy\">Gilchrist <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AR69\"><em>H. Elliot Wales </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AYTR\"><em>Solicitor General Griswold, Assistant Attorney General Wilson, </em>and <em>Philip R. Monahan </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Azds\">C. A.</p>\n<p id=\"Ar_\">2d Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

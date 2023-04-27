@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"532\" lastpage=\"532\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b658-12\">BUSH <em>v. </em>UNITED STATES.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b658-14\">No. 857,</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"A17\">Mise.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AOc\">Decided February 24, 1969.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b658-16\"><em>Solicitor General Griswold, Assistant Attorney General Vinson, </em>and <em>Jerome M. Feit </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b658-17\">Per Curiam.</author>\n<p id=\"b658-18\">The motion to dismiss is granted and the appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

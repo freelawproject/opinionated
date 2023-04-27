@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b784-7\">No. 77,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A4H1\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aqkf\">Hansen <em>v. </em>Burke, Warden.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AdnR\">C. A. 7th Cir. Certiorari denied.</p>\n<judges id=\"AeHx\">Mr. Justice Stewart would grant certiorari, vacate the judgment, and remand the case to the District Court for consideration of petitioner's claims in light of <em>Klopfer </em>v. <em>North Carolina, </em>386 U. S. 213.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

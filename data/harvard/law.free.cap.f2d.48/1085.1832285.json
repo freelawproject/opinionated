@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1085\" lastpage=\"1085\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1109-20\">UNITED STATES of America, Appellee, v. Edward MANG, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Au4\">No. 382.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1109-21\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A-PJ\">April 20, 1931.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1109-23\">William B. Mahoney, of Buffalo, N. Y., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1109-24\">Richard H. Templeton, U. S. Atty., of Buffalo, N. Y. (Justin C. Morgan, Asst. U. S. Atty., of Buffalo, N. Y., of counsel), for the United States.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1109-25\">Before L. HAND, SWAN, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1109-26\">PER CURIAM.</author>\n<p id=\"b1109-27\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

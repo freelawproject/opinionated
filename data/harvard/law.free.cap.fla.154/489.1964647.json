@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"489\" lastpage=\"489\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b513-5\">LONNIE YATES v. BARKLEY GAUSE, Sheriff of Jackson County, Florida.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b513-6\">18 So. (2nd) 166</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"ASo\">January Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b513-7\">May 19, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"aoq-dedup-0\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b513-9\"><em>B. L. Solomon, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b513-10\"><em>J. Tom Watson, </em>Attorney General, and <em>John G. Wynn, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b513-11\">PER CURIAM:</author>\n<p id=\"b513-12\">Affirmed.</p>\n<judges id=\"b513-13\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

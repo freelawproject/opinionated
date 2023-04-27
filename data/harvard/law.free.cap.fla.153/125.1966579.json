@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"125\" lastpage=\"125\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b149-7\">WILLIAM P. JORDAN v. CHARLIE MAE JORDAN</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b149-8\">13 So. (2nd) 817</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AGp\">January Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b149-9\">June 4, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A_\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b149-11\"><em>W. H. Wolfe </em>and <em>J. E. Satterfield, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b149-12\"><em>PoThiTl &amp; </em>Simmons_, for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b149-13\">PER CURIAM:</author>\n<p id=\"b149-14\">This cause being here on appeal, the decree appealed from is affirmed.</p>\n<p id=\"b149-15\">It is so ordered.</p>\n<judges id=\"b149-16\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

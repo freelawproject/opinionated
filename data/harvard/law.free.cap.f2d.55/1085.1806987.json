@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1085\" lastpage=\"1086\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1109-47\">UNITED STATES of America v. Caroline VANN et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1109-48\">No. 591.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1109-49\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ATd\">Dec. 21, 1931.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1110-3\"><page-number citation-index=\"1\" label=\"1086\">*1086</page-number>A. E. Williams, Asst. U. S. Atty., of Tulsa, OH.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1110-4\">Wilkerson <em>&amp; </em>Brown, of Pryor, OH., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1110-5\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1110-6\">PEE CURIAM.</author>\n<p id=\"b1110-7\">Appeal dismissed, on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

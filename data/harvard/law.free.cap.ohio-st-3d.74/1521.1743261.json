@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1521\" lastpage=\"1521\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Aqh1\">\n<em>Wednesday, February 14, 1996</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AN9u\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AAqf\">95-2198.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AlRI\">State ex rel. Palich v. James.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ai1f\">In Mandamus. On motion for order to show cause. <em>Sua sponte, </em>motion denied and cause dismissed.</p>\n<judges id=\"A5K-\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n<judges id=\"ALNF\">Wright and Cook, JJ., dissent and would order briefing on fees.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

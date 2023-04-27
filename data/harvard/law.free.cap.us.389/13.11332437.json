@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"13\" lastpage=\"13\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b123-4\">TROUTT <em>v. </em>CARL K. WILSON CO. et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b123-6\">No. 57,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Aq6q\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A_W\">Decided October 9, 1967.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b123-8\"><em>Thomas F. </em>Turley, <em>Jr., </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b123-9\"><em>W. L. Moore </em>and <em>W. D. Dodson </em>for appellee Burson, Commissioner of Employment Security for the State of Tennessee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b123-10\">Per Curiam.</author>\n<p id=\"b123-11\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

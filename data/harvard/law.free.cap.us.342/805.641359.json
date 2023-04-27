@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"805\" lastpage=\"806\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b683-10\">No. 71,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AS88\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AbG\">Ex parte Cogdell et al.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Avn\">Motion for leave to file petition for writ of mandamus granted. A <page-number citation-index=\"1\" label=\"806\">*806</page-number>rule is ordered.to issue, returnable within thirty days, requiring the respondents to show cause why the petition for writ of mandamus should not be granted.</p>\n<attorneys id=\"AI6\"><em>George E. C. Hayes, James M. Nabrit, Jr. </em>and <em>George M. Johnson </em>for petitioners.</attorneys>\n<attorneys id=\"APaq\"><em>Vernon E. West, Chester H. Gray </em>and <em>Milton H. Korman </em>for McGuire et al., respondents.</attorneys>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

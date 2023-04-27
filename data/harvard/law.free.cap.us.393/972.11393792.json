@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"972\" lastpage=\"972\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b898-12\">December 9, 1968.</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b898-14\">No. -.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"A4aE\">Granello, aka Burns <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A5Qb\"><em>Irving Anolik </em>for applicant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AKVQ\"><em>Solicitor General Griswold </em>for the United States in opposition.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AT8-\">C. A. 2d Cir. Application for bail presented to Mr. Justice Harlan, and by him referred to the Court, denied.</p>\n<judges id=\"AAMg\">Mr. Justice Brennan and Mr. Justice Marshall took no part in the consideration or decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

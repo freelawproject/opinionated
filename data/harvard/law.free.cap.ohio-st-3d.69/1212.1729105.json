@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1212\" lastpage=\"1213\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b902-3\">Cleveland Bar Association <em>v. </em>Bosco.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b902-4\">[Cite as <em>Cleveland Bar Assn. v. Bosco </em>(1994), 69 Ohio St.3d 1212.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A-rX\">(No. 93-1331</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AsT\">Submitted and decided May 24, 1994.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b903-5\"><page-number citation-index=\"1\" label=\"1213\">*1213</page-number>For earlier case, see <em>Cleveland Bar Assn. v. Bosco </em>(1993), 67 Ohio St.3d 459, 619 N.E.2d 1023.</p>\n<judges id=\"b903-6\">Moyer C.J., AW. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

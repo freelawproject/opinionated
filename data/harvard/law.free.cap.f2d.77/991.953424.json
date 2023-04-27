@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"991\" lastpage=\"991\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1019-26\">William A. BARBER, Petitioner, v. COMMISSIONER OF INTERNAL REVENUE, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1019-27\">No. 178.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1019-28\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AQr\">June 10, 1935.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1019-30\">William H. Matthews, Jr., of New York City, for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1019-31\">Frank J. Wideman, Asst. Atty. Gen., and Sewall Key and Berryman Green, Sp. Assts. to Atty. Gen., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1019-32\">Before L. HAND, AUGUSTUS N, HAND, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1019-33\">PER CURIAM.</author>\n<p id=\"b1019-34\">Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

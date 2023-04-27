@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"234\" lastpage=\"234\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b258-9\">WEST COAST FRUIT COMPANY, a corporation, v. ROBERT P. THORNTON, et al.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b258-10\">17 So. (2nd) 124</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"A9i\">January Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b258-11\">March 3, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AHL\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b258-13\"><em>H. L. Thompson </em>and <em>Erie B. Askew, </em>for petitioner.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b258-14\"><em>Wm. C. McLean, </em>for respondents,</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b258-15\">PER CURIAM:</author>\n<p id=\"b258-16\">Certiorari denied.</p>\n<judges id=\"b258-17\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

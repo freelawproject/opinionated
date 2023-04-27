@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"930\" lastpage=\"930\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b856-9\">November 12, 1968.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b856-11\">No. 132,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A7Rq\">October Term, 1965.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A2fi\">Holt et al. <em>v. </em>Kirby et al.,</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AuLo\"><em>Robert L. Bobrick </em>on the motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AGaQ\"><em>John E. Tobin </em>and <em>Benjamin Vinar </em>for Kirby et al., and <em>Mark F. Hughes </em>and <em>Vincent R. Fitzpatrick </em>for Alleghany Corp., in opposition.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A46\">384 U. S. 28, 967. Motion of Morris Smith et al. to recall and amend judgment in this case denied.</p>\n<judges id=\"A6vnl\">Mr. Justice Fortas and Mr. Justice Marshall took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

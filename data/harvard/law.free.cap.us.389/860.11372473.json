@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"860\" lastpage=\"860\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b756-8\">No. 11,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A099\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AcVF\">Jones et al. <em>v. </em>Georgia.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ad7L\"><em>Aaron Kravitch </em>for petitioners.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A2T\"><em>Andrew J. Ryan, Jr., </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AklrT\">Sup. Ct. Ga. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"19\" lastpage=\"19\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b145-11\">TYRRELL <em>v. </em>CROUSE, WARDEN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b145-13\">No. 59,</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"Ac\">Mise.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AX\">Decided October 14, 1968.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b145-15\"><em>Robert C. Londerholm, </em>Attorney General of Kansas, and <em>J. Richard Foth </em>and <em>Jon K. Sargent, </em>Assistant Attorneys General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b145-16\">Per Curiam.</author>\n<p id=\"b145-17\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for a writ of certiorari are granted. In accordance with the concession by the respondent the judgment is reversed. <em>Peyton </em>v. <em>Rowe, </em>391 U. S. 54.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

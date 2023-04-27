@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"861\" lastpage=\"861\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b757-4\">No. 22,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A3bW\">No. 23,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AMMG\">Misc.</p>\n<p data-order=\"3\" data-type=\"misc\" id=\"AdJh\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"Aia\">Clark <em>v. </em>Louisiana; and Howard <em>v. </em>Louisiana.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AiqH\"><em>Guy Johnson </em>for petitioner in No. 22, Mise.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A4Tz\"><em>Jack P. F. Gremillion, </em>Attorney General of Louisiana, <em>William P. Schuler, </em>Assistant Attorney General, and <em>Jim Garrison </em>for respondent in both cases.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AAPS\">Sup. Ct. La. Certiorari denied.</p>\n<p id=\"ADa5\">Reported below: 249 La. 1061, 193 So. 2d 246.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

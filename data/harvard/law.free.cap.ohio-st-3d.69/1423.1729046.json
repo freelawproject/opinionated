@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1423\" lastpage=\"1423\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b937-8\">MOTION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b937-9\">92-2605.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Apa\">Marks v. Univ. of Cincinnati.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A008\"><em>Hamilton County, </em>No. C-910908. On motion to waive collection of court costs. Motion granted.</p>\n<judges id=\"b937-10\">Douglas, J., would waive the collection only of Supreme Court costs.</judges>\n<judges id=\"b937-11\">Moyer, C.J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

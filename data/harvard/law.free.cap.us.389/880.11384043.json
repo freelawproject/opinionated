@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"880\" lastpage=\"880\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b776-5\">No. 32,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aybi\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Asm\">Williams <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AYS\"><em>John Powers Crowley </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AE4\"><em>Solicitor General Marshall, Assistant Attorney General Vinson, Beatrice Rosenberg </em>and <em>Jerome M. Feit </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnrV\">C. A. 7th Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"998\" lastpage=\"998\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1026-29\">HAHN BROTHERS FIREPROOF WAREHOUSES, Inc., Petitioner, v. COMMISSIONER OF INTERNAL REVENUE, Respondent.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1026-30\">No. 414.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1026-31\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AiHc\">June 17, 1935.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1026-34\">Llewellyn A. Luce, of Washington, D. C., for petitioner.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1026-35\">Frank J. Wideman, Asst. Atty. Gen., and Sewall Key and L. W. Post, Sp. Assts. to Atty. Gen., for respondent.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1026-36\">Before MANTON, SWAN, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1026-37\">PER CURIAM.</author>\n<p id=\"b1026-38\">Decision affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

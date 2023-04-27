@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"951\" lastpage=\"951\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b829-7\">No. 319,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A-b\">Misc.</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b829-8\">No. 320,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"A39V\">Misc.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AeYn\">Bircham <em>v. </em>Buchanan, Warden, et al.; and Bircham <em>v. </em>Kentucky.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AmPV\"><em>William M. Burkhalter </em>and <em>Rodes K. Myers </em>for petitioner.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ajpl\">Petitions for writs of certiorari to the Court of Appeals of Kentucky dismissed on motions of counsel for petitioner.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

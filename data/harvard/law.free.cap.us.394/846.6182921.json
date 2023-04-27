@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"846\" lastpage=\"846\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b920-10\">RHODES <em>v. </em>KANSAS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b920-12\">No. 877,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AnC\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AKp\">Decided May 5, 1969.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b920-14\"><em>Kent Frizzell, </em>Attorney General of Kansas, and <em>E. G. Collister, Jr., </em>Deputy Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b920-15\">Per Curiam.</author>\n<p id=\"b920-16\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the District Court of Sedgwick County, Kansas, for further consideration in light of <em>Smith </em>v. <em>Hooey, </em>393 U. S. 374.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

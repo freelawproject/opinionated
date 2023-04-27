@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"874\" lastpage=\"874\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b752-3\">No. 123,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Auq9\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aq_N\">McMurrin <em>v. </em>Texas.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A-68\"><em>Thos. H. Dent </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ao83\"><em>Price Daniel, </em>Attorney General of Texas, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARk\">Court of Criminal Appeals of Texas. Certiorari denied.</p>\n<judges id=\"AACA\">Mr. Justice Douglas is of the opinion certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

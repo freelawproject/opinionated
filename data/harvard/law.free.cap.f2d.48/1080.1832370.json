@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1080\" lastpage=\"1081\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1104-44\">Leonard S. PUSEY and Joseph F. Kelly, Appellant, v. Jerry CLIFFORD and Lee Baylis, Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1104-45\">No. 6432.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1104-46\">Circuit Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AnX\">April 7, 1931.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1104-48\">Before RUDKIN, WILBUR, and SAWTELLE, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1105-3\"><page-number citation-index=\"1\" label=\"1081\">*1081</page-number>PER CURIAM.</author>\n<p id=\"b1105-4\">Pursuant to motion of appellees, ordered appeal dismissed for failure of appellants to file record and docket cause; mandate forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

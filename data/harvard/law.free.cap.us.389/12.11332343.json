@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"12\" lastpage=\"12\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b122-12\">PHILLIPS <em>v. </em>INDIANA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b122-14\">No. 288,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AqX7\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Au\">Decided October 9, 1967.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b122-16\"><em>William C. Erbecker </em>for appellant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b122-17\">Per Curiam.</author>\n<p id=\"b122-18\">The appeal is dismissed for want of a substantial federal question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"35\" lastpage=\"35\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b145-3\">The State of Ohio, Appellee, <em>v. </em>Burton, Appellant.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b145-4\">[Cite as <em>State v. Burton </em>(1995), 73 Ohio St.3d 35.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b145-6\">(No. 94-1648</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A3sx\">Submitted April 24, 1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AKY\">Decided August 9, 1995.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b145-10\">\n<em>Kevin Burton, pro se.</em>\n</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b145-11\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"APc\">We affirm the judgment of the court of appeals for the reasons stated in its judgment entry.</p>\n<p id=\"b145-12\">\n<em>Judgment affirmed.</em>\n</p>\n<judges id=\"b145-13\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

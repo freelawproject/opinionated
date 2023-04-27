@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1064-16\">W. J. IMLACH, Appellant, v. Carl RUBENSTEIN, Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1064-17\">Circuit Court of Appeals, Ninth Circuit</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AgSm\">July 19, 1937.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b1064-19\">Walter H. Hodge, of Cordova, Alaska, and S. H. Kelleran, of Seattle, Wash., for appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1064-20\">Thomas M. Donohoe, of Cordova, Alaska, for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1064-21\">Before DENMAN, STEPHENS, and HEALY, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1064-22\">PER CURIAM.</author>\n<p id=\"b1064-23\">Upon stipulation of counsel for respective parties, and motion of appellant, ordered appeal dismissed, that a judgment of dismissal be filed and -entered accordingly, and the mandate of this court issue forthwith.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

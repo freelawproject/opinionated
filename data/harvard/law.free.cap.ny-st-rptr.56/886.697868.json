@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"886\" lastpage=\"886\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b932-12\">Philo T. Ruggles v. Francis X. Stafford <em>et al.,</em></parties>\n<p data-order=\"1\" data-type=\"court\" id=\"AFQ4\">(two cases.)</p>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b932-13\"><em>Thos. 8pratt, </em>for pl\u2019ff ; <em>N.J. Waterbury, </em>for def\u2019ts.</attorneys>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b932-14\">No opinion Motion denied.</p>\n<p id=\"b932-15\">See 51 St. Rep. 937.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

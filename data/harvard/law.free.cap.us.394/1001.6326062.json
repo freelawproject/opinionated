@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1027-8\">No. 724,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AVSu\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Adi\">Clark <em>v. </em>Maryland.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AQiq\"><em>Robert Gordon King </em>and <em>Louis Peregoff </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AkTc\"><em>Francis B. Burch, </em>Attorney General of Maryland, and <em>William E. Brannan, </em>Assistant Attorney General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADN\">Ct. Sp. App. Md. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

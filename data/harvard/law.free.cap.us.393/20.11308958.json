@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"20\" lastpage=\"20\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b146-4\">BLABON <em>v. </em>NELSON, WARDEN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b146-6\">No. 3,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A99\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AmL\">Decided October 14, 1968.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b146-8\"><em>Thomas C. Lynch, </em>Attorney General of California, and <em>Edward P. O\u2019Brien </em>and <em>Deraid E. Oranberg, </em>Deputy Attorneys General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b146-9\">Per Curiam.</author>\n<p id=\"b146-10\">The motion for leave to proceed <em>in forma pauperis </em>and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Appeals for further consideration in the light of <em>In re Bevill, </em>68 Cal. 2d 854, 442 P. 2d 679.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

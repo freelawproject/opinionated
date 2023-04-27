@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1038-9\">Jacob CRON, Plaintiff in Error (Defendant Below), v. Eda GROTJAN, as Administratrix of the Goods, Chattels, and Credits of the Estate of Charles Grotjan, deceased, Defendant in Error (Plaintiff Below).</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AZVY\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A3Z3\">February 16, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ABtm\">No. 195.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aqzq\">Robert H. Carlton, for plaintiff in error. Humphrey J. Lynch, of New York City, for defendant in error.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"AvjF\">Before ROGERS, HOUGH, and MANTON, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1038-10\">PER CURIAM.</author>\n<p id=\"AmNI\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

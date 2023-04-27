@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1008\" lastpage=\"1008\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b934-8\">January 10, 1969.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b934-10\">No. 1159,</docketnumber>\n<p data-order=\"2\" data-type=\"summary\" id=\"APRM\">Mise.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Ac1J\">Smalls <em>v. </em>Ives, Highway Commissioner of Connecticut.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A4Qq\"><em>Bernard D. Fischman </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AvIZ\"><em>Robert K. Killian, </em>Attorney General of Connecticut, and <em>Jack Rubin </em>and <em>Clement J. Kichuk, </em>Assistant Attorneys General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Adfl\">Appeal from D. C. Conn. Appeal dismissed pursuant to Rule 60 of the Rules of this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

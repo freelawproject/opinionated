@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"853\" lastpage=\"853\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b867-2\">DAWALT v. COMMONWEALTH</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Akb\">(Decided January 14, 1930.)</decisiondate>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b867-4\">F. A. \u00a1Harrison for movant.</attorneys>\n<p data-order=\"3\" data-type=\"court\" id=\"b867-5\">Commonwealth.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b867-6\">J. W. Cammack, Attorney General, and Douglas C. Vest for the</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b867-7\">PER CURIAM.</author>\n<p id=\"Acc\">Judgment of conviction for violation of the prohibition law, imposing a fine of $100 and 30 days in jail.</p>\n<p id=\"b867-8\">Appeal denied. Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

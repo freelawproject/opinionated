@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"9\" lastpage=\"10\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b253-13\">The State of Ohio, Appellee, <em>v. </em>Elkins, Appellant.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b253-14\">[Cite as <em>State v. Elkins </em>(1995), 74 Ohio St.3d 9.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b254-5\"><page-number citation-index=\"1\" label=\"10\">*10</page-number>(No. 94-2086</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AvS\">Submitted July 26, 1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AnK\">Decided October 25, 1995.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b254-8\">\n<em>Ronald Dale Elkins, pro se.</em>\n</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b254-9\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AOz\">We affirm the decision of the court of appeals for the reasons stated in its opinion.</p>\n<p id=\"b254-10\">\n<em>Judgment affirmed.</em>\n</p>\n<judges id=\"b254-11\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

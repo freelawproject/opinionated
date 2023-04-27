@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1209\" lastpage=\"1209\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b865-4\">In re Resignation of Sanders.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b865-5\">[Cite as <em>In re Resignation of Sanders </em>(1995), 73 Ohio St.3d 1209.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Aixi\">(No. 95-1395</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A2ls\">Submitted July 26, 1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AOe5\">Decided July 27, 1995.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b865-7\">The resignation as an attorney of Daniel Joseph Sanders of Toledo, Ohio, Attorney Registration No. 0008953, is accepted.</p>\n<judges id=\"b865-8\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

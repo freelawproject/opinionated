@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1048-37\">Pardon C. RICKEY, as Receiver of the First National Bank of Mechanicville, N. Y., Plaintiff-Appellant, v. NEW YORK STATE NATIONAL BANK, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AU9\">No. 387.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1048-38\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AZNB\">April 30, 1934.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1048-40\">William T. Moore, of Mechanicvilie, N. Y., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1048-41\">Whalen, MeNamee, Creble &amp; Nichols, of Albany, N. Y., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1048-42\">Before MANTON, SWAN, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1048-43\">PER CURIAM.</author>\n<p id=\"b1048-44\">Judgment (\u2014 F. Supp. \u2014) affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

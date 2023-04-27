@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"646\" lastpage=\"646\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b736-5\">RISER <em>v. </em>WARDEN, CALIFORNIA STATE PRISON.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b736-7\">No. 331,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Alul\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AZE\">Decided February 24, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b736-10\"><em>George T. Davis </em>for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b736-11\"><em>Stanley Mosk, </em>Attorney General of California, <em>Clarence A. Linn, </em>Chief Assistant Attorney General, and <em>Arlo E. Smith, </em>Deputy Attorney General, for appellee.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b736-12\">Per Curiam.</author>\n<p id=\"b736-13\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

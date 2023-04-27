@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1430\" lastpage=\"1430\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b900-12\"><em>Monday, August </em>7, <em>1995</em></decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b900-13\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b900-14\">95-1552.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A78d\">State v. Webb.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"Aq8W\">\n<em>Belmont County,</em>\n</court>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"AkD\">No. 92-B-65.</docketnumber>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AB8t\">This cause is pending before the court as a discretionary appeal and as a claimed appeal of right. Upon consideration of appellant\u2019s motion for stay.</p>\n<p id=\"b900-15\">IT IS ORDERED by the court that the motion for stay be, and hereby is, denied, effective August 4, 1995.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

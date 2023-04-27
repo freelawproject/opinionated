@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"34\" lastpage=\"34\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Naga PILLA, petitioner,\n  <br/>\n  v.\n  <br/>\n  Eric H. HOLDER, Jr., Attorney General.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-1260.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 12, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"4179209,12698507,12698540,12698541,12698581,12698519,12698520\" index=\"0\" url=\"https://cite.case.law/s-ct/133/2834/\">\n   133 S.Ct. 2834\n  </extracted-citation>\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

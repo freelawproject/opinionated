@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"524\" lastpage=\"524\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b548-7\">ODEL JOHNSON and wife EVELYN JOHNSON, v. ERNEST ROBINSON.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b548-8\">18 So. (2nd) 477</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"At1\">June Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b548-9\">June 20, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"act-dedup-0\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b548-11\"><em>Jackson A. Cargill, </em>for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b548-12\"><em>Radebaugh &amp; Whittle, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b548-13\">PER CURIAM:</author>\n<p id=\"b548-14\">Affirmed.</p>\n<judges id=\"b548-15\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

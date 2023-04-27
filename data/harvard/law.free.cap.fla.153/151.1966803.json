@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"151\" lastpage=\"151\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b175-4\">INTERNATIONAL PAPER COMPANY, a corporation, v. CHRISTOPHER COLUMBUS BROWN.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b175-5\">14 So. (2nd) 172</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"ACD\">June Term,. 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AXn\">June 11, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Av\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b175-7\"><em>Thomas Sale, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b175-8\"><em>William K. Whitfield </em>and <em>J. Lewis </em>Hall, for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b175-9\">PER CURIAM:</author>\n<p id=\"b175-10\">From an examination of the entire record we find no reversible error and the judgment appealed from is affirmed.</p>\n<judges id=\"b175-11\">BUFORD, C. J., TERRELL, CHAPMAN and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

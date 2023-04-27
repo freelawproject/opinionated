@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1469\" lastpage=\"1469\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b939-19\">\n<em>Thursday, September 28, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b939-20\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b939-21\">90-338.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AvL-\">State v. Richey.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AZa3\">\n<em>Putnam County,</em>\n</court>\n<docketnumber data-order=\"5\" data-type=\"docketnumber\" id=\"AzKj\">No. 12-87-2.</docketnumber>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Azqv\">On motion to clarify court order entered April 14, 1994, or to continue stay and extension for filing post-conviction petition. Motion to clarify or to continue stay denied.</p>\n<judges id=\"b939-22\">Resnick, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

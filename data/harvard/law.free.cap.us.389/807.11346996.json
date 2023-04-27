@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"807\" lastpage=\"807\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b703-8\">No. 221,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AElh\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AHqe\">Utica Mutual Insurance Co. <em>v. </em>United States District Court for the Northern District of New York et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AWHS\"><em>Charles J. Barnhill </em>on the motion.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AHgq\"><em>Solicitor General Marshall, Arnold Ordman, Dominick L. Manoli </em>and <em>Norton J. Come </em>for National Labor Relations Board in opposition.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATQ\">Motion for leave to file petition for writ of mandamus denied.</p>\n<judges id=\"AsMy\">Mr. Justice Marshall took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

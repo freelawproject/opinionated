@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1447\" lastpage=\"1447\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b805-19\">\n<em>Monday, November 22, 1999</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b805-20\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b805-21\">99-1860.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AjA\">Bristow v. Crawford Cty. Court of Common Pleas.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b805-22\">In Prohibition. This cause originated in this court on the filing of a complaint for writ of prohibition. Upon consideration of the answer of respondent,</p>\n<p id=\"b805-23\">IT IS ORDERED by the court that this cause be, and hereby is, dismissed.</p>\n<judges id=\"b805-24\">Moyer, C.J., Douglas, Resnick, Cooic and Lundberg Stratton, JJ., concur.</judges>\n<judges id=\"b805-25\">F.E. Sweeney and Pfeifer, JJ., would deny the writ.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

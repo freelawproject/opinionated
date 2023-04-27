@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"993\" lastpage=\"993\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1057-14\">Catherine KELLY, Appellant, v. Louis E. RIECK, Trustee of VEELOCK MFG. CO., et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1057-17\">No. 6885.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1057-18\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1057-19\">Jan. 11, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1057-21\">James R. Wilson, William J. Wilson, and William F. Zinger, all of Philadelphia, Pa., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1057-22\">Frank J. Bowden, of Philadelphia, Pa., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1057-23\">Before BIGGS, MARIS, and CLARK, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1057-31\">PER CURIAM.</author>\n<p id=\"b1057-32\">Order affirmed upon the opinion of Judge Dickinson, In re Veelock Mfg. Co., <em>26 </em>F.Supp. 110.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A3WX\">Sally WEINSTEIN, Appellant, v. SIEMENS &amp; HALSKE AKTIENGESELLSCHAFT and Siemens-Schuckertwerke Aktiengesellschaft, Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AHI\">No. 391.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AlG\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AeN\">June 30, 1939.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AK2\">Abraham L- Pomerantz, of New York CltA for aPPellant-</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AWRx\">Cravath, de Gersdorff, Swaine &amp; Wood, 0f New York City (Eugene E. Ford, of New York City, of counsel), for appellees,</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AjK\">Before L. PIAND, CHASE, and CLARK, Circuit Judges,</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AWx\">PER CURIAM.</author>\n<p id=\"AJa2\">Affirmed on opinion below, 26 F.Supp. 410.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

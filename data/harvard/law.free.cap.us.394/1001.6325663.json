@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"AGf_\">No. 7,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Ak0H\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AriI\">Gardner <em>v. </em>California.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ai9D\"><em>Thomas C. Lynch, </em>Attorney General of California, <em>William E. James, </em>Assistant Attorney General, and <em>Jack K. Weber, </em>Deputy Attorney General, for respondent.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADkj\">Super. Ct. Cal., County of San Luis Obispo. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

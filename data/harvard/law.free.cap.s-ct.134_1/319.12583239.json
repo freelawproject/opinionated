@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"319\" lastpage=\"319\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Timothy Joseph WHALEN, petitioner,\n  <br/>\n  v.\n  <br/>\n  MONTANA.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-5622.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 7, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"3758200\" index=\"0\" url=\"https://cite.case.law/mont/368/354/\">\n   368 Mont. 354\n  </extracted-citation>\n  ,\n  <extracted-citation case-ids=\"3758200\" index=\"1\" url=\"https://cite.case.law/mont/368/354/\">\n   295 P.3d 1055\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the Supreme Court of Montana denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

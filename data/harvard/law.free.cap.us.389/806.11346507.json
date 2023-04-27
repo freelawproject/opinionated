@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"806\" lastpage=\"806\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b702-8\">No. 241,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AMz0\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AVG\">Nevada Tax Commission <em>v. </em>Thompson, U. S. District Judge, et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A_v\"><em>Harvey Dickerson, </em>Attorney General of Nevada, for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AfE\"><em>Solicitor General Marshall, Assistant Attorney General Rogovin </em>and <em>Harold C. Wilkenjeld </em>for respondent Thompson et al.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A-X9\">C. A. 9th Cir. and D. C. Nev. Motion for leave to file petition for writ of certiorari denied.</p>\n<judges id=\"AyfT\">Mr. Justice Marshall took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

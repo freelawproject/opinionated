@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1013\" lastpage=\"1013\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1067-16\">In the Matter of Tobias MINCER, Bankrupt. Mathilda HESS, Appellant, v. Tobias MINCER, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1067-18\">No. 416.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1067-19\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1067-20\">June 7, 1937.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1067-22\">Joseph B. Kaufman, of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1067-23\">Gilbert S. Rosenthal, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1067-24\">Before MANTON, L. HAND, and AUGUSTUS N. HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1067-25\">PER CURIAM.</author>\n<p id=\"b1067-26\">Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

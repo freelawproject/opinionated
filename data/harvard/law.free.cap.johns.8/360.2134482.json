@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"360\" lastpage=\"360\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b368-7\">Chapman <em>against </em>Raymond.</parties>\n<headnotes data-order=\"2\" data-type=\"headnotes\" id=\"b368-9\">Service of a notice in vacation of a motion to be made in term, on the <em>agent </em>of the attorney in <em>Utica, </em>is suffi.dent.</headnotes>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b368-8\">NOTICE of a motion to be made at this term, was served in the vacation, on the agent of the plaintiff\u2019s attorney in <em>Utica..</em></summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b368-11\">\n<em>E. Williams</em>\n</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"A73\">objected that the service ought to have been on the agent of the attorney in <em>Albany.</em></p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b368-12\">Parker,</attorneys>\n<p data-order=\"6\" data-type=\"attorneys\" id=\"AAt2\">for the motion.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b368-13\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AoRe\">The notice is sufficient.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b829-11\">October 16, 1968.</decisiondate>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b829-15\">No. 889,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b829-13\">No. -. Mise.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A0Wi\">Cavagnaro <em>v. </em>Clark, Attorney General, et al.; and Paulekas <em>v. </em>Clark, Attorney General, et al.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AmW_\"><em>Norman Leonard </em>for applicant in each case.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AyMG\"><em>Solicitor General Griswold </em>for respondents in both cases.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ajmn\">Applications for stays, made to Mr. Justice Douglas, were submitted by him to the Court and denied by it.</p>\n<judges id=\"AQhM\">Mr. Justice Douglas, Mr. Justice Harlan, and Mr. Justice Stewart would grant the stays.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

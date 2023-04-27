@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b929-5\">No. 744,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Ar1Y\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ADG\">Green et al. <em>v. </em>United States District Court for the Southern District of Indiana et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AM87\"><em>William C. Erbecker </em>for petitioners.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AU9\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

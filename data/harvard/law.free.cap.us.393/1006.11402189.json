@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1006\" lastpage=\"1006\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b932-13\">No. 898,</docketnumber>\n<p data-order=\"1\" data-type=\"summary\" id=\"AMHD\">Mise.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AUZ_\">Henley <em>v. </em>Ohio.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AtaG\"><em>Louis A. Ginocchio </em>and <em>Thomas Stueve </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"APWq\"><em>Melvin G. Rueger, Calvin W. Prem, </em>and <em>Leonard Kirschner </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ACc3\">Sup. Ct. Ohio. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

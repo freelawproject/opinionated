@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"65\" lastpage=\"65\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Adam Jarmal HODGE.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 182A15-2.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  Sept. 24, 2015.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Steven Armstrong, Assistant Attorney General, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-6\">\n  Adam Jarmal Flodge, for Flodge, Adam Jarmal.\n </attorneys>\n <attorneys id=\"p-7\">\n  Ronald L. Moore, District Attorney, for State of North Carolina.\n </attorneys>\n <p id=\"p-8\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   Upon consideration of the petition filed by Defendant on the 8th of September 2015 in this matter for a writ of mandamus, the following order was entered and is hereby certified to the Superior Court, Buncombe County:\n  </p>\n  <blockquote id=\"p-10\">\n   \"Dismissed by order of the Court in conference, this the 24th of September 2015.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

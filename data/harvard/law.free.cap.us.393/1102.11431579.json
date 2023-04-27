@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1102\" lastpage=\"1102\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1028-10\">No. 1098,</docketnumber>\n<p data-order=\"1\" data-type=\"summary\" id=\"AB3v\">Mise.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ax26\">Taylor <em>v. </em>Alabama.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Att7\"><em>Fred Blanton, Jr., </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ATJG\"><em>MacDonald Gallion, </em>Attorney General of Alabama, and <em>David W. Clark </em>and <em>Walter S. Turner, </em>Assistant Attorneys General, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Avr7\">Sup. Ct. Ala. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1411\" lastpage=\"1412\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b881-42\">MOTION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b881-43\">94-726.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AX6\">Heiner v. Moretuzzo.</parties>\n<court data-order=\"3\" data-type=\"court\" id=\"AV2\">\n<em>Summit County,</em>\n</court>\n<docketnumber data-order=\"4\" data-type=\"docketnumber\" id=\"Ay_\">No. 16312.</docketnumber>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVFT\">On motion to file statement of additional authorities. Motion denied.</p>\n<judges id=\"b882-4\"><page-number citation-index=\"1\" label=\"1412\">*1412</page-number>Pfeifer, J., dissents.</judges>\n<judges id=\"b882-5\">Cook, J., not participating.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

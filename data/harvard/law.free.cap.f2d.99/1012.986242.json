@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1012\" lastpage=\"1012\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"A0I\">James Anderson PLOTNER v. Louise Strother SIMS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AHe\">No. 1715.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AfvJ\">Circuit Court of Appeals, Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGM\">Oct. 10, 1938.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A7K\">Tom W. Campbell, of Little Rock, Ark., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AfQ\">V. E. Mclnnis, of Oklahoma City, Old., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AAhj\">Before LEWIS and PHILLIPS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Azn\">PER CURIAM.</author>\n<p id=\"Ake8\">Appeal dismissed with prejudice, on motion of appellant at appellant\u2019s costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

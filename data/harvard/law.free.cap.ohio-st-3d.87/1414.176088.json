@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1414\" lastpage=\"1414\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b772-4\">\n<em>Friday, October 8, 1999</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b772-5\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b772-6\">99-1722.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AdMU\">State ex rel. Valore v. Summit Cty. Bd. of Elections.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b772-7\">In Mandamus. Writ denied consistent with the opinion to follow.</p>\n<judges id=\"b772-8\">Moyer, C.J., F.E. Sweeney, Cook and Lundberg Stratton, JJ., concur based on laches.</judges>\n<judges id=\"A-d\">Douglas, J., concurs based on no abuse of discretion.</judges>\n<judges id=\"b772-9\">Resnick, J., concurs.</judges>\n<judges id=\"b772-10\">Pfeifer, J., dissents and would grant the writ.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

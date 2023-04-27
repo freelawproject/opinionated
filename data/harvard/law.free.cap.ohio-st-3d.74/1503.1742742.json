@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1503\" lastpage=\"1503\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"AFS\">MOTION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ad9q\">95-2643.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AaYH\">State v. Hodges.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AEvC\"><em>Seneca County, </em>No. 13-95-16. On motion for stay of execution and request for bail. Motion granted and bail set at $10,000.</p>\n<judges id=\"AGzo\">Moyer, C.J., Douglas, Wright, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n<judges id=\"AbtI\">Resnick, J., dissents.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"323\" lastpage=\"323\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b397-3\">CAMPBELL <em>v. </em>WASHINGTON STATE BAR ASSN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b397-5\">No. 1324,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Am\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aqm\">Decided March 24, 1969.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b397-7\">Per Curiam.</author>\n<p id=\"b397-8\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

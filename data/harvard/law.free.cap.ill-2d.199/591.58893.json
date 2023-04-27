@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"591\" lastpage=\"591\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b603-9\" pgmap=\"603\">In re NOTT, David Russell</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AIs\" pgmap=\"603\">(MR 18082)</docketnumber><p data-order=\"2\" data-type=\"docketnumber\" id=\"b603-10\" pgmap=\"603\">Beloit, WI</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b603-13\" pgmap=\"603\">Order of the Court:</p> <p id=\"b603-14\" pgmap=\"603\">The motion by David Russell Nott for transfer to disability inactive status pursuant to Supreme Court Rule 758 is allowed, and David Russell Nott is transferred to disability inactive status until further order of the Court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

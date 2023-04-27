@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1435\" lastpage=\"1435\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b949-12\">\n<em>Wednesday, May 18, 1994</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"A029\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AI9\">94-252.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AThq\">State ex rel. Flora v. Gaughan.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A59G\">In Mandamus. On motion to dismiss. Motion to dismiss sustained. Cause dismissed.</p>\n<judges id=\"b949-15\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

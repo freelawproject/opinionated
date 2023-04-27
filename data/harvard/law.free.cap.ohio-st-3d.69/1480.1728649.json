@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1480\" lastpage=\"1480\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b994-13\">\n<em>Wednesday, July 6, 1994</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b994-14\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b994-15\">94-49.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AC-\">State v. Moore.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ApvJ\"><em>Franklin County, </em>No. 91AP-1256. Judgment affirmed.</p>\n<judges id=\"b994-16\">Moyer, C.J., AW. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

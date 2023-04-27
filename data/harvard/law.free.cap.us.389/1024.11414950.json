@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1024\" lastpage=\"1024\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b920-13\">No. 751,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AqZ8\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AI4F\">Singleton <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Ap93\"><em>Harvey Erickson </em>for peti-tion\u00e9r.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AnTO\"><em>Acting Solicitor General Spritzer, Assistant Attorney General Vinson, Beatrice Rosenberg </em>and <em>Robert G. May sack </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"As8G\">C. A. 9th Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

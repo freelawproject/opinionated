@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1222\" lastpage=\"1222\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b912-3\">Office of Disciplinary Counsel <em>v. </em>Levin.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b912-4\">[Cite as <em>Disciplinary Counsel v. Levin </em>(1994), 69 Ohio St.3d 1222.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ABp9\">(No. DD 87-3</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AJC\">Submitted June 15, 1994</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Azj\">Decided June 20, 1994.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b912-11\">For earlier case, see <em>Disciplinary Counsel v. Levin </em>(1988), 35 Ohio St.3d 4, 517 N.E.2d 892.</p>\n<judges id=\"b912-12\">Moyer, C.J., A.W. Sweeney, Douglas, Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

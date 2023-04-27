@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"751\" lastpage=\"751\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b775-11\">PARMELE PHARMACAL CO., Plaintiff-Appellant, v. Louis I. WEINER, Trading as the Tablax Co., Defendant-Appellee.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b775-12\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b775-13\">January 19, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b775-14\">No. 145.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b775-16\">Prindle, Wright, Neal &amp; Bean, of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b775-17\">Walter H. Pumphrey, of New York City, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b775-18\">Before ROGERS, HOUGH, and HAND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b775-19\">PER CURIAM.</author>\n<p id=\"At4D\">Decree 5 F.(2d) 750, affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

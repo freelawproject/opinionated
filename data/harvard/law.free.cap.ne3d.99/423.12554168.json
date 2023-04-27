@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"423\" lastpage=\"423\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Hill\n  <br/>\n  v.\n  <br/>\n  Navarre\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0334\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  June 5, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MOTION AND PROCEDURAL RULINGS\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   In Mandamus. On relator's motion for leave to amend complaint. Motion denied as moot.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

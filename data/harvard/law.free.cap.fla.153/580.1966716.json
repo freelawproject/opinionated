@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"580\" lastpage=\"581\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b604-8\">WALTER GILL v. T. N. CARLTON</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b604-9\">15 So. (2nd) 258</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AK-\">June Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b604-10\">October 12, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AXEC\">Division B</court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b604-11\">Rehearing Denied November 23, 1943</otherdate>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b605-4\"><page-number citation-index=\"1\" label=\"581\">*581</page-number><em>M. A. Rosin, </em>for petitioner.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b605-5\">W. <em>W. Whitehurst, </em>for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b605-6\">PER CURIAM:</p>\n<p id=\"b605-7\">Petition for certiorari denied.</p>\n<judges id=\"b605-8\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"592\" lastpage=\"593\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b604-12\" pgmap=\"604\">In re SMITH, George James William</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AGEO\" pgmap=\"604\">M.R. 18123)</docketnumber><p data-order=\"2\" data-type=\"docketnumber\" id=\"b604-13\" pgmap=\"604\">Chicago, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b605-5\" pgmap=\"605\">Order of the Court:</p> <p id=\"b605-6\" pgmap=\"605\">The motion by George James William Smith to strike his name from the roll of attorneys licensed to practice law in Illinois pursuant to Supreme Court Rule 762(a) is allowed, effective immediately.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

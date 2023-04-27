@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"143\" lastpage=\"143\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b159-3\">Hart <em>against </em>Storey.</parties>\n<headnotes data-order=\"1\" data-type=\"headnotes\" id=\"pAnD\">The insolvency of the de. fendant is a, sufficient excuse for not proceeding to trial pursuant to a notice, and tile plaintiff may discontinue without costs.</headnotes>\n<summary data-order=\"2\" data-type=\"summary\" id=\"AH3\">RIKER moved for judgment as in case of a nonsuit against the plaintiff, for not proceeding to trial at the last sittings in the city of <em>New-Tork, </em>pursuant to the notice given in this cause.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AR9\"><em>Emott </em>contra,</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"AXs\">read an aEdavit, stating the insolvency of the defendant, xvho had been discharged under the insolvent act.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"Aik\">\n<em>Per curiam.</em>\n</author>\n<p id=\"Aru\">The plaintiff may discontinue without costs.</p>\n<p id=\"AFV\">Rule refused.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

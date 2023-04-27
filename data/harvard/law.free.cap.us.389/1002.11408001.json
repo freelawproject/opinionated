@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1002\" lastpage=\"1002\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b898-6\">No. 386,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Avy\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ACFZ\">Sims <em>v. </em>Gardner, Secretary of Health, Education, and Welfare.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"Arx5\"><em>H. H. Gearinger </em>on the motion.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AuRV\">C. A. 6th Cir. Motion to consolidate this case with <em>Hopkins </em>v. <em>Gardner, Secretary of Health, Education, and Welfare, </em>No. 276 (see <em>ante, </em>p. 811), denied.</p>\n<judges id=\"AuJd\">Mr. Justice Marshall took no part in the consideration or decision of this motion.</judges>\n<p id=\"ALMW\">[For earlier order herein, see <em>ante, </em>p. 804.]</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"873\" lastpage=\"873\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Iowa, Plaintiff-Appellee,\n  <br/>\n  v.\n  <br/>\n  Sean Michael HILLIARD, Defendant-Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 17-1336\n </docketnumber>\n <court id=\"p-3\">\n  Court of Appeals of Iowa.\n </court>\n <decisiondate id=\"p-4\">\n  Filed October 10, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"872\" lastpage=\"873\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"A4PX\">No. <em>120.</em></docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Agd\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ARq1\">Turpin <em>v. </em>Warden of the Green Haven Prison.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A7ZC\"><em>Henry </em><page-number citation-index=\"1\" label=\"873\">*873</page-number><em>K. Chapyian </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMfS\"><page-number citation-index=\"1\" label=\"872\">*872</page-number>C. A. 2d Cir. Certiorari denied.</p>\n<attorneys id=\"ATrd\"><page-number citation-index=\"1\" label=\"873\">*873</page-number><em>Nathaniel L. Goldstein, </em>Attorney General of New York, <em>Wendell P. Brown, </em>Solicitor General, and <em>Herman N. Harcourt </em>and <em>Raymond B. Madden, </em>Assistant Attorneys General, for respondent.</attorneys>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

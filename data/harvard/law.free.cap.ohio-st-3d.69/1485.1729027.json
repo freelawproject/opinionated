@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1485\" lastpage=\"1485\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b999-4\">\n<em>Friday, July 1, 1994</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b999-5\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b999-6\">93-1588.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AxI\">Schulte v. Schulte.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AeB\"><em>Wood Cmmty, </em>No. 91WD075. On motion for an order to trial court to hold hearing on visitation. Motion denied.</p>\n</opinion>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-2\" type=\"dissent\">\n<author id=\"b999-7\">Douglas, J.,</author>\n<p id=\"Ag3X\">dissents and would remand this cause to the trial court to establish a summer visitation schedule.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

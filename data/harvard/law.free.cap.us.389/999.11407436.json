@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b895-5\">December 11, 1967.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b895-7\">No. 624,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AAmkB\">Misc.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Aqkc\">Stotts <em>v. </em>United States.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Axfp\"><em>Solicitor General Griswold, Assistant Attorney General Vinson </em>and <em>Beatrice Rosenberg </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AkIo\">C. A. 10th Cir. Petition for writ of certiorari dismissed pursuant to Rule 60 of the Rules of this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

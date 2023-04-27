@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"215\" lastpage=\"215\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b239-4\">JAMES T. FLEMING v. MAX B. JONES</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b239-5\">17 So. (2nd) 123</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"Au2\">January Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AIz\">February 29, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A2O\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b239-8\"><em>J. T. Fleming, </em>in proper person, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b239-9\"><em>Charles I. Campbell, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b239-10\">PER CURIAM:</author>\n<p id=\"b239-11\">Affirmed.</p>\n<p id=\"b239-12\">It is so ordered.</p>\n<judges id=\"b239-13\">BUFORD, C. J., TERRELL, CHAPMAN and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

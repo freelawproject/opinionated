@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"712\" lastpage=\"712\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"AgO7\">MOTION DOCKET</p>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ACG\">87-1614.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AB-s\">State v. Benner.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQh\"><em>Summit County, </em>No. 12664. On motion for stay. Stay granted.</p>\n<judges id=\"AZi_\">Holmes and Resnick, JJ., would deny the stay and set an execution date.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

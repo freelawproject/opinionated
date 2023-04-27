@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"553\" lastpage=\"553\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b577-4\">FRANK JONES v. STATE OF FLORIDA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b577-5\">15 So. (2nd) 199</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AHu\">June Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b577-6\">October 8, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AuUc\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b577-8\"><em>Zach H. Douglas, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b577-9\">J. <em>Tom Watson, </em>Attorney General, <em>John C. Wynn, </em>Assistant Attorney General, and <em>Bourke Floyd, </em>Special Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b577-10\">PER CURIAM:</author>\n<p id=\"b577-11\">Affirmed.</p>\n<judges id=\"b577-12\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

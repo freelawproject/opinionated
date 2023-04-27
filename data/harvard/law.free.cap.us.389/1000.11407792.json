@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1000\" lastpage=\"1000\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b896-6\">No. 773,</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AoPt\">No. 779,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Ax-C\">No. 835,</docketnumber>\n<p data-order=\"3\" data-type=\"misc\" id=\"ACmT\">Misc.</p>\n<p data-order=\"4\" data-type=\"misc\" id=\"AhZ3\">Misc.</p>\n<p data-order=\"5\" data-type=\"misc\" id=\"ASfL\">Misc.</p>\n<parties data-order=\"6\" data-type=\"parties\" id=\"A1tq\">Walton <em>v. </em>Nelson, Warden; Deuel <em>v. </em>Girard, Youth Camp Superintendent; and Steele <em>v. </em>Nelson, Warden, et al.</parties>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AtfY\">Motions for leave to file petitions for writs of habeas corpus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

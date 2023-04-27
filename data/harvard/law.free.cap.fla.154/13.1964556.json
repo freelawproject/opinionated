@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"13\" lastpage=\"13\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b37-8\">JOHN W. DARR v. ELIZABETH W. DARR</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b37-9\">16 So. (2nd) 293</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AX\">January Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b37-10\">January 18, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Ao\">Special Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b37-12\"><em>Nat L. Williams, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b37-13\"><em>W. O. Bozeman, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b37-14\">PER CURIAM:</author>\n<p id=\"b37-15\">Affirmed.</p>\n<judges id=\"b37-16\">BUFORD, C. J., BROWN, CHAPMAN, and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

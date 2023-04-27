@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1054-21\">VICTORIA PAPER MILLS COMPANY, Appellant, v. Guy T. HELVERING, Commissioner of Internal Revenue, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1054-22\">No. 318.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1054-23\">Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AD7\">May 11, 1936.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1054-25\">Robert J. Heberle, of New York City, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1054-26\">Robert H. Jackson, Asst. Atty. Gen., and Sewall Key and F. E. Youngman, Sp. Assts. to Atty. Gen., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1054-27\">Before L. HAND, SWAN, and CHASE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1054-28\">PER CURIAM.</author>\n<p id=\"b1054-29\">Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

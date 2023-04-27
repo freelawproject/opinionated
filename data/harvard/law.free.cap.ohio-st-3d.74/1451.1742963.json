@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1451\" lastpage=\"1451\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"ALAo\">\n<em>Thursday, November 9, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"AYBe\">DISCIPLINARY DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AH7e\">95-2215.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Adog\">In re Atkin.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQL\">Pursuant to the provisions of Gov.Bar R. V(5)(A)(3), Sanford I. Atkin of Cleveland, Ohio, Attorney Registration No. 0020746, is indefinitely suspended from the practice of law in the state of Ohio.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

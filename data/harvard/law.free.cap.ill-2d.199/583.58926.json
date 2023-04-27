@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"583\" lastpage=\"583\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"AUB\" pgmap=\"595\">In re ANDERSON, Colette C.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A1q\" pgmap=\"595\">(MR 18107)</docketnumber><p data-order=\"2\" data-type=\"docketnumber\" id=\"b595-5\" pgmap=\"595\">Elgin, EL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b595-8\" pgmap=\"595\">Order of the Court:</p> <p id=\"b595-9\" pgmap=\"595\">The motion by Colette C. Anderson for transfer to disability inactive status pursuant to Supreme Court Rule 758 is allowed, and Colette C. Anderson is transferred to disability inactive status until further order of the Court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

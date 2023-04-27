@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b783-7\">No. 113,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A46H\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AlHh\">Touhy <em>v. </em>Illinois.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ANN\"><em>Robert B. Johnstone </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ammy\"><em>Ivan A. Elliott, </em>Attorney General of Illinois, for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1x0\">Supreme Court of Illinois. Certiorari denied.</p>\n<judges id=\"ASUx\">Mr. Justice Clark took no part in the consideration or decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

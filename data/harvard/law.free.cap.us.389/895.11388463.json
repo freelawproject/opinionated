@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"895\" lastpage=\"895\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b791-5\">No. 529,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aq-G\">Misc.</p>\n<parties data-order=\"2\" data-type=\"attorneys\" id=\"AsMj\">Truesdale <em>v. </em>Chief Judge, U. S. District Court.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A1jR\"><em>Clement Theodore Cooper </em>on the motion.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AX9Z\"><em>Acting Solicitor General Spritzer </em>filed a memorandum in opposition.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"As35\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

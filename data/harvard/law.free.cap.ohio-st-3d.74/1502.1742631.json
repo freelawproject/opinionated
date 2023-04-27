@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1502\" lastpage=\"1502\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AL51\">\n<em>Thursday, January 18, 1996</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Am60\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AFoz\">96-88.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AgWe\">Kallstrom v. Insley.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A92L\">In Mandamus. This cause originated in this court on the filing of a complaint for a writ of mandamus. Upon consideration of relators\u2019 motion for temporary restraining order,</p>\n<p id=\"AaG\">IT IS ORDERED by the court, <em>sua sponte, </em>effective January 17, 1996, that this cause be, and hereby is, dismissed.</p>\n<judges id=\"AbHL\">Moyer, C.J., Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n<judges id=\"Aula\">Douglas, J., dissents and would grant a temporary restraining order.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

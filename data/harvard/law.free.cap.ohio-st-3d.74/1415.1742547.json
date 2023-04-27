@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1415\" lastpage=\"1415\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AVF\">\n<em>Wednesday, October 18, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AJh\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AtfS\">94-2181.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A7N\">State ex rel. Linndale v. Teske.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AI7m\">In Mandamus. <em>Sua sponte, </em>cause dismissed because an action for declaratory judgment is here an adequate remedy at law.</p>\n<judges id=\"AKEG\">Moyer, C.J., Douglas, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n<judges id=\"AoS\">Wright and Resnick, JJ., dissent and would grant the writ.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

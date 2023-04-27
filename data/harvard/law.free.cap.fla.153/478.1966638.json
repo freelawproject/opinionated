@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"478\" lastpage=\"478\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b502-9\">NORMAN McQUAGGE and DOCK SAPP v. STATE OF FLORIDA</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b502-10\">14 So. (2nd) 904</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"ANV\">June Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b502-11\">September 17, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Alb\">Division B</court>\n<otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b502-12\">Rehearing Denied October 6, 1943</otherdate>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b502-14\"><em>C. M. Cox, </em>for appellants.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b502-15\"><em>J. Tom Watson, </em>Attorney General, and <em>Woodrow M. Melvin, </em>Assistant Attorney General, for appellee.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b502-16\">PER CURIAM:</author>\n<p id=\"b502-17\">Judgment Affirmed.</p>\n<judges id=\"b502-18\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

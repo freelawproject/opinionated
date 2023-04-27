@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"810\" lastpage=\"810\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b736-12\">October 11, 1968.</decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"b736-14\">No. \u2014.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AaH\">Sullivan et al. <em>v. </em>Cushman et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AGF\"><em>Moses M. Falk </em>on the motion.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ai-H\"><em>Solicitor General Griswold </em>for respondents in opposition.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqS\">D. C. Mass. Motion for stay, referred to the Court, denied. Mr. Justice Douglas would grant the stay.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

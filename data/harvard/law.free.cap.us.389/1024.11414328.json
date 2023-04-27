@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1024\" lastpage=\"1024\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b920-4\">No. 685,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"Am1e\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ASc-\">Patskanick et vir <em>v. </em>National Labor Relations Board et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ApMU\"><em>Acting Solicitor General Spritzer, Arnold Ordman, Dominick L. Manoli </em>and <em>Norton J. Come </em>for respondent National Labor Relations Board.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_WG\">C. A. 2d Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

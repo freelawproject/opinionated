@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"30\" lastpage=\"30\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AN3H\">September 17, 1958.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AuCW\">No. 87,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A_LR\">October Term, 1958.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AFNL\">Allen N. Spooner &amp; Sons, Inc., et al. <em>v. </em>Port of New York Authority.</parties>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Ah1V\"><em>Martin J. McHugh </em>was on the stipulation for petitioners. With him on the petition was <em>Thomas F. Daly. John M. Aherne </em>was on the stipulation for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0vg\">On petition for writ of certiorari to the United States Court of Appeals for the Second Circuit. Dismissed per stipulation pursuant to Rule 60 of the Rules of this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

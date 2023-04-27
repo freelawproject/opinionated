@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"141\" lastpage=\"141\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AP9\">Steinbach and others <em>against </em>Hallett.</parties>\n<headnotes data-order=\"1\" data-type=\"headnotes\" id=\"pAxZ\">Where it appears that the defendant was in prison, and notoriously a bankrupt, the court will not give judgment as in case of nonsuit for not proceeding to trial, according to notice, nor will they oblige the plaintiff to stipulate.</headnotes>\n<summary data-order=\"2\" data-type=\"summary\" id=\"Aey\">RIGGS for the defendant, moved for judgment as in case of a nonsuit against the plaintiff, for not proceeding to trial at the last sittings in the city of <em>New-Tork, </em>pursuant to notice given.</summary>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AE8\">Radcliff, for the plaintiff,</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"AaaQ\">read an affidavit stating that the defendant was in prison, and notoriously a bankrupt.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A8ql\"><em>Per </em>Curiam.</author>\n<p id=\"AP4\">The plaintiff need not stipulate.</p>\n<p id=\"AzD\">Rule refused.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

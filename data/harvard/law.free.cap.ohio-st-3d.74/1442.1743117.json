@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1442\" lastpage=\"1442\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Az8m\">\n<em>Wednesday, November 1, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ARoZ\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ABS\">95-1448.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AkrP\">State ex rel. Kopina v. O\u2019Donnell.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ASD\"><em>Cuyahoga County, </em>No. 68908. <em>Sua sponte, </em>cause dismissed as moot.</p>\n<judges id=\"AtZ\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

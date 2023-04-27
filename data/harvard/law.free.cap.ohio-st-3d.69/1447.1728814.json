@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1447\" lastpage=\"1447\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b961-4\">\n<em>Thursday, May 26, 1994</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AKfv\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b961-6\">93-1708.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A52\">State v. Kinley.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APbd\"><em>Clark County, </em>No. 2826. On request for extension of time. Request granted to June 6, 1994.</p>\n<judges id=\"b961-7\">A.W. Sweeney, Resnick and Pfeifer, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"611\" lastpage=\"611\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b635-9\">IRA S. JONES v. BEN GILLER</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b635-10\">15 So. (2nd) 326</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AvU\">' June Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b635-11\">October 22, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Acx\">Division A</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b635-13\"><em>Boone &amp; Boone </em>and <em>David B. Newsom, </em>for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AE6k\"><em>McKay, Dixon &amp; DeJarnette </em>and <em>Louis Heiman, </em>for appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b635-14\">PER CURIAM:</author>\n<p id=\"b635-15\">From a consideration of this record, we find no error and the judgment appealed from is affirmed.</p>\n<judges id=\"b635-16\">BUFORD, C. J., TERRELL, CHAPMAN and ADAMS, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

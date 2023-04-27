@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"870\" lastpage=\"871\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b808-10\">October 27, 1958.</decisiondate>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b808-13\">No. 415,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AKG9\">October Term, 1957.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AEHN\">County of Marin et al. <em>v. </em>United States et al.,</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7C\">356 U. S. 412. The motion to allow and tax costs is granted to the extent of <page-number citation-index=\"1\" label=\"871\">*871</page-number>three-fifths of such costs which are hereby taxed against appellees exclusive of the United States and the Interstate Commerce Commission.</p>\n<attorneys id=\"A2au\"><em>Spurgeon Avakian </em>for appellants. <em>Allan P. Matthew </em>for the Golden Gate Transit Lines et al., appellees.</attorneys>\n<judges id=\"Al9n\">Mr. Justice Stewart took no part in the consideration or decision of this motion.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

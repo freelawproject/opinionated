@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"128\" lastpage=\"128\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b254-4\">CROSS et al. <em>v. </em>COURT OF APPEAL OF CALIFORNIA, FIRST APPELLATE DISTRICT, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AbG\">No. 533,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"Ani\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AqT\">Decided November 12, 1968.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b254-7\">Per Curiam.</author>\n<p id=\"b254-8\">The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

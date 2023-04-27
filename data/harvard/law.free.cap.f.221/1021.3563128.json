@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1035-5\">GARRISON et al. v. GREENLEAF JOHNSON LUMBER CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AIbd\">(Circuit Court of Appeals, Fourth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Alx\">September 8, 1914.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ARf\">No. 1239.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AMi\">Cross-Appeals from the District Court o\u00ed the United States for the District of Virginia, at Norfolk.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"ADO\">Before PRITCHARD and WOODS, Circuit Judges, and DAYTON, District Judge.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1035-6\">PER CURIAM.</author>\n<p id=\"AJt\">Decree of District Court reversed. 215 Fed. 576, 131 C. C. A. 644. Appeal to the Supreme Court allowed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

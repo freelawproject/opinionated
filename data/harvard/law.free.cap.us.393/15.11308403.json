@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"15\" lastpage=\"15\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b141-12\">BUTLER <em>v. </em>BRIERLEY, CORRECTIONAL SUPERINTENDENT.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b141-14\">No. 197,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"A72\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ahf\">Decided October 14, 1968.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b141-16\"><em>Stephen J. McEwen, Jr., </em>and <em>Vram Nedurian, Jr., </em>for appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b141-17\">Per Curiam.</author>\n<p id=\"b141-18\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

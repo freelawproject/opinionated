@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"332\" lastpage=\"332\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b356-3\">JAMES P. FRANZEN and CHARLES HIME, v. MYRTLE BUCK-HOLTZ, a single woman.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b356-23\">17 So. (2nd) 520</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"A-V\">January Term, 1944</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A8kK\">March 31, 1944</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"A_U\">Special Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b356-5\"><em>W. G. Kemp </em>and <em>Redfearn &lt;&amp; Ferrell, </em>for petitioners.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b356-6\"><em>L. J. Cushman, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b356-7\">PER CURIAM:</author>\n<p id=\"b356-8\">Certiorari denied.</p>\n<judges id=\"b356-9\">BUFORD, C. J., BROWN, CHAPMAN and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1474\" lastpage=\"1474\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"Avsr\">\n<em>Monday, December 11, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AMn4\">MOTION DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A74j\">95-2411.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Aqgc\">State ex rel. Debbe-Martin v. Spees.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Axsf\">In Mandamus. <em>Sua sponte, </em>alternative writ granted.</p>\n<judges id=\"AKFd\">F.E. Sweeney, Pfeifer and Cook, JJ., dissent and would dismiss the cause.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1120\" lastpage=\"1120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1046-9\">No. 1080,</docketnumber>\n<p data-order=\"1\" data-type=\"summary\" id=\"Amof\">Mise.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AmA6\">Robinson <em>v. </em>United States.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AetT\"><em>Frederic A. Johnson </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A_Km\"><em>Solicitor General Griswold, Acting Assistant Attorney General Kossack, Beatrice Rosenberg, </em>and <em>Edward Fenig </em>for the United States.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgrA\">C. A. 2d Cir. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

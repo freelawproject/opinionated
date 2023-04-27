@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"996\" lastpage=\"996\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b892-8\">No. 123,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A3P4\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AAXL\">Reese <em>v. </em>Louisiana.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AqVy\"><em>Sam J. D\u2019Amico </em>for petitioner.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AZ-M\"><em>Jack P. F. Gremillion, </em>Attorney General of Louisiana, and <em>Ralph L. Roy </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A27S\">Sup. Ct. La. Certiorari denied.</p>\n<judges id=\"AvqT\">Mr. Justice Douglas, Mr. Justice Fortas and Mr. Justice Marshall are of the opinion that certiorari should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

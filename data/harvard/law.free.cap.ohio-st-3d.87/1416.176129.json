@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1416\" lastpage=\"1416\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b774-4\">\n<em>Wednesday, October 20,1999</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b774-5\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b774-6\">99-1488.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AGf\">Elijah v. Ohio Adult Parole Auth.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b774-7\">In Habeas Corpus. On petition for writ of habeas corpus by Richard T. Elijah.</p>\n<p id=\"b774-8\"><em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"b774-9\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

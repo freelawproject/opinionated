@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b927-2\">March 10, 1969.</decisiondate>\n<p data-order=\"1\" data-type=\"misc\" id=\"b927-4\">No. \u2014.</p>\n<p data-order=\"2\" data-type=\"misc\" id=\"A4Qq\">Misc.</p>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"b927-5\">No. 1637,</docketnumber>\n<parties data-order=\"4\" data-type=\"parties\" id=\"ARf\">Kaplysh et al. <em>v. </em>Hershey et al.; and Schwartz <em>v. </em>Local Board No. 23 et al.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AMhF\"><em>Ralph Rudd </em>for applicants Kaplysh et al.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A7I\"><em>Solicitor General Griswold </em>for respondents in each case in opposition.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADv\">C. A. 6th Cir. Applications for stays of induction presented to Mr. Justice Stewart, and by him referred to the Court, denied.</p>\n<judges id=\"ADU\">Mr. Justice Douglas is of the opinion that the stays should be granted.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

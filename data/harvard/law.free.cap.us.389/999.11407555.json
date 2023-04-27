@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"999\" lastpage=\"999\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b895-9\">No. 796,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"APRX\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AcEH\">Moore <em>v. </em>California et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A3Yz\"><em>DeWitt F. Blase </em>for petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHWk\">Super. Ct. Cal., County of Ventura. Petition for writ of cer-tiorari dismissed pursuant to Rule 60 of the Rules of this Court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

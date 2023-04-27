@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"421\" lastpage=\"421\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b445-4\">E. E. WEST ESTATE, INC., a corporation, et al., v. COLUMBIA CASUALTY COMPANY, a corporation.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b445-5\">14 So. (2nd) 723</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"ANZm\">June Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b445-6\">July 20, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"AhPZ\">En Banc</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b445-8\"><em>Fred S. Rizk, </em>for petitioner.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b445-9\"><em>J. T. </em>G. <em>Crawford </em>and <em>Crawford &amp; May, </em>for respondents.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A8UQ\">PER CURIAM:</author>\n<p id=\"b445-10\">Petition for writ of certiorari denied.</p>\n<judges id=\"b445-11\">BUFORD, C. J., TERRELL, BROWN, CHAPMAN and SEBRING, JJ., concur.</judges>\n<judges id=\"b445-12\">THOMAS and ADAMS, JJ., dissent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

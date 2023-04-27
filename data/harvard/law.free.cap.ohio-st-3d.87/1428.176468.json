@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1428\" lastpage=\"1428\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b786-14\">\n<em>Wednesday, October 27, 1999</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b786-15\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b786-16\">99-881.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"A8c\">Wellman v. Pub. Util. Comm.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b786-17\">Public Utilities Commission, No. 98-516-TP-CSS. <em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"b786-18\">Moyer, C.J., Douglas, Resnick, F.E. Sweeney, Ppeiper, Cook and Lundberg Stratton, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1451\" lastpage=\"1451\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"A2m\">\n<em>Wednesday, November 8, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"At0Y\">DISCRETIONARY APPEALS ALLOWED</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AtRn\">95-650.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AOE\">Kulch v. Structural Fibers, Inc.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AU9M\"><em>Geauga County, </em>No. 93-G-1824. On motion to dissolve/lift stay and on motion to strike. Motion to dissolve/lift stay granted; <em>sua sponte, </em>discretionary appeal allowed.</p>\n<judges id=\"AC0\">Moyer, C.J., and Cook, J., dissent.</judges>\n<judges id=\"AeYM\">Wright, J., would hold this cause for the decision in 95-100, <em>Trader v. People Working Cooperatively, Inc., </em>Hamilton County, No. C-930716.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

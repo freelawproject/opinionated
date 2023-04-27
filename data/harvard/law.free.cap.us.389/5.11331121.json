@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"5\" lastpage=\"5\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b115-15\">KELLY <em>v. </em>LANE, WARDEN.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b115-17\">No. 256,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AuK_\">Misc.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ad\">Decided October 9, 1967.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b115-19\">Per Curiam.</author>\n<p id=\"b115-20\">The appeal is dismissed for want of jurisdiction.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"311\" lastpage=\"311\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Lemuel Session WHITESIDE, petitioner,\n  <br/>\n  v.\n  <br/>\n  ARKANSAS.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-5562.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 7, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Case below, --- S.W.3d ----.\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the Supreme Court of Arkansas denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

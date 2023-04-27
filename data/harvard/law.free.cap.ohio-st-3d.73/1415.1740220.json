@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1415\" lastpage=\"1415\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b885-9\">\n<em>Thursday, July 20, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b885-10\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b885-11\">95-1350.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Afc\">State ex rel. Ohio Edn. Assn. v. Taft.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AjYx\">In Mandamus and Prohibition. On motion for</p>\n<p id=\"AqY_\">issuance of peremptory writs or, in the alternative, for expedited proceedings. <em>Sua sponte, </em>cause dismissed.</p>\n<judges id=\"b885-12\">Moyer, C.J., Wright, Resnick and Cook, JJ., concur.</judges>\n<judges id=\"b885-13\">Douglas, J., would deny the writs with opinion.</judges>\n<judges id=\"b885-14\">F.E. Sweeney and Pfeifer, JJ., dissent and would grant an alternative writ, expedite the briefing schedule, and set this cause for oral argument.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

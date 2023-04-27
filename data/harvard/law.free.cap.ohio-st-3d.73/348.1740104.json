@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"348\" lastpage=\"348\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b458-4\">The State of Ohio, Appellee, <em>v. </em>White, Appellant.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b458-5\">[Cite as <em>State v. White </em>(1995), 73 Ohio St.3d 348.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b458-7\">(No. 95-429</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"APk\">Submitted May 9, 1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AOF\">Decided August 23, 1995.)</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b458-11\">\n<em>Michael T. White, pro se.</em>\n</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b458-12\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"A3m\">We affirm the judgment of the court of appeals for the reasons stated in its opinion.</p>\n<p id=\"b458-13\">\n<em>Judgment affirmed.</em>\n</p>\n<judges id=\"b458-14\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

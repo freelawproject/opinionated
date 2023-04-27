@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1206\" lastpage=\"1206\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b942-4\">In re Resignation of Weinberger.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b942-5\">[Cite as <em>In re Resignation of Weinberger </em>(1995), 74 Ohio St.3d 1206.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AQq\">(No. 95-1851</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"A5f\">Submitted September 27, 1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AXR\">Decided September 28, 1995.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b942-7\">The resignation as an attorney of Barrett N. Weinberger of Cincinnati, Ohio, Attorney Registration No. 0043744, is accepted.</p>\n<judges id=\"b942-8\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

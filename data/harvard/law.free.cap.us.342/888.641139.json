@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b766-7\">No. 32,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A2IM\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aqp3\">Hamilton <em>v. </em>Virginia.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"A2Qk\">Petitioner <em>pro se.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AZnL\"><em>J. Lindsay Almond, Jr., </em>Attorney General of Virginia, for respondent. -</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4t\">Supreme Court of Appeals of Virginia. Certiorari denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

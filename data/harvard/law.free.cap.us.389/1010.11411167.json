@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1010\" lastpage=\"1010\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b906-11\">No. 564.</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AmWl\">No. 168,</docketnumber>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"Aupt\">No. 452,</docketnumber>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A_sH\">No. 577,</docketnumber>\n<parties data-order=\"4\" data-type=\"parties\" id=\"AK9H\">Gearey <em>v. </em>United States, Elliott, Administrator <em>v. </em>Sierzenga et al., Gilday <em>v. </em>Massachusetts, Jones <em>v. </em>Reagan, Governor of California, et al.,</parties>\n<p data-order=\"5\" data-type=\"misc\" id=\"A53\">Misc.</p>\n<p data-order=\"6\" data-type=\"misc\" id=\"APsU\">Misc.</p>\n<p data-order=\"7\" data-type=\"misc\" id=\"A0nv\">Misc.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AnTB\"><em>ante, </em>p. 959;</p>\n<p id=\"AVG5\"><em>ante, </em>p. 910;</p>\n<p id=\"A67o\"><em>ante, </em>p. 916; and</p>\n<p id=\"APjc\"><em>ante, </em>p. 894. Petitions for rehearing denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

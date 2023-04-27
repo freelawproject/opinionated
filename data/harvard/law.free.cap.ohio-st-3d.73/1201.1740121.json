@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1201\" lastpage=\"1202\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"AP8-\">Dayton Bar Association <em>v. </em>Gross.</parties>\n<p data-order=\"1\" data-type=\"citation\" id=\"b857-4\">[Cite as <em>Dayton Bar </em>Asm <em>v. Gross </em>(1995), 73 Ohio St.3d 1201.]</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"AOef\">(No. 91-1251</docketnumber>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AMUc\">Submitted June 21, 1995</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AT_\">Decided June 22, 1995.)</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b858-4\"><page-number citation-index=\"1\" label=\"1202\">*1202</page-number>For earlier case, see <em>Dayton Bar Assn. v. Gross </em>(1991), 62 Ohio St.3d 224, 581 N.E.2d 520.</p>\n<judges id=\"b858-5\">Moyer, C.J., Wright, Resnick, F.E. Sweeney and Pfeifer, JJ., concur.</judges>\n<judges id=\"Apy\">Douglas and Cook, JJ., would require petitioner to submit an agreement with his sister as a condition of his reinstatement.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

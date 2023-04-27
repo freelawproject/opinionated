@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1014\" lastpage=\"1014\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1072-27\">Stanley Johnson ZUFALL, Appellee, v. UNITED STATES of America, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1072-28\">No. 7516.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1072-29\">Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aa8F\">Jan. 23, 1941.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b1072-36\">Thomas E. Walsh, of Washington, D. C.,. for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1072-37\">Edward J. McGinness, of McKeesport,. Pa., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b1072-38\">Before MARIS, JONES, and GOODRICH, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1072-39\">PER CURIAM.</author>\n<p id=\"b1072-40\">The judgment of the District Court is affirmed for the reasons set forth in the opinion of Judge McVicar, 36 F.Supp. 999..</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

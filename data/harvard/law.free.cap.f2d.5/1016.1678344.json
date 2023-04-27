@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1040-26\">Louis LAVINE et al., Plaintiffs in Error, v. UNITED STATES, Defendant in Error.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AZsh\">(Circuit Court of Appeals, Third Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"azx-dedup-0\">May 2, 1925.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ahq-dedup-1\">No. 3187.</docketnumber>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AlF-\">John Rellstab, Judge. J.. Irving Davidson, of Trenton, N. J., for plaintiffs in error.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"alh-dedup-0\">Before BUFFINGTON, WOOL-LEY, and DAVIS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1040-27\">PER CURIAM.</author>\n<p id=\"AmjH\">No principle of law is involved in this case. The two assignments of error question th'e court\u2019s sustaining objections-to two questions asked in cross examination. There was no error in the court\u2019s ruling, and-we therefore affirm the judgment below.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"379\" lastpage=\"379\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b403-5\">MAE LOUISE BENSON, also known as May Louise Benson, an unmarried woman and a free dealer, v. ALICE E. BENSON.</parties>\n<citation data-order=\"1\" data-type=\"citation\" id=\"b403-6\">13 So. (2nd) 442</citation>\n<p data-order=\"2\" data-type=\"misc\" id=\"AUu\">June Term, 1943</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ALL\">July 2, 1943</decisiondate>\n<court data-order=\"4\" data-type=\"court\" id=\"Aiv\">Division B</court>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Aoq\"><em>Dunn &amp; Wilson, </em>for petitioner.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A84C\"><em>H. H. Taylor, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AIv\">PER CURIAM:</author>\n<p id=\"A8dG\">Petition for writ of certiorari denied.</p>\n<judges id=\"Aal\">BUFORD, C. J., BROWN, THOMAS and SEBRING, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

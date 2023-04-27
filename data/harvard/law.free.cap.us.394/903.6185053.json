@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"903\" lastpage=\"903\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b929-6\">No. 1413,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"AC5\">Misc.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AM1d\">Skolnick et al. <em>v. </em>Mayor of Chicago et al.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AM_V\"><em>Raymond F. Simon, Marvin E. Aspen, </em>and <em>Edmund Hatfield </em>for respondents Mayor of Chicago et al.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aq3c\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

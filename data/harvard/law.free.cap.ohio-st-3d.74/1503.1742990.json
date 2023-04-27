@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1503\" lastpage=\"1503\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"AGYZ\">\n<em>Friday, January 19, 1996</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AbcB\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A-Yj\">96-86.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AuWT\">Hasan v. Cartolano.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7i\">In Mandamus and Prohibition. This cause originated in this court on the filing of a complaint for writs of mandamus and prohibition. Upon consideration thereof,</p>\n<p id=\"AZ5O\">IT IS ORDERED by the court, <em>sua sponte, </em>that this cause be, and hereby is, dismissed.</p>\n<judges id=\"Al0Z\">Moyer, C.J., Douglas, Wright, Resnick, F.E. Sweeney, Pfeifer and Cook, JJ., concur.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

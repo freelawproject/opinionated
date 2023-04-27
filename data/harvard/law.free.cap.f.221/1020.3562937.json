@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1034-9\">CHESAPEAKE <em>&amp; </em>O. R. CO. v. PROFFITT.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AlGn\">(Circuit Court of Appeals, Fourth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ACx\">October 12, 1914.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"A0I\">No. 1247.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Ab0\">In Error to the District Court of the United States for the District of Virginia, at Richmond.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"ABF\">BeforePRITCHARD and WOODS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1034-10\">PER CURIAM.</author>\n<p id=\"An3k\">Judgment of District Court affirmed. 218 Fed. 23, 134 C. C. A. 37. Order allowing writ of error to Supreme Court filed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

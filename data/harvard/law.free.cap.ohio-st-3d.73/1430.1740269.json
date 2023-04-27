@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1430\" lastpage=\"1430\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b900-3\">\n<em>Thursday, August 3, 1995</em>\n</decisiondate>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b900-4\">MERIT DOCKET</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b900-5\">95-741.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"AVg\">State ex rel. Mayville v. Shoemaker.</parties>\n<court data-order=\"4\" data-type=\"court\" id=\"AVJ\">\n<em>Franklin County.</em>\n</court>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"APq\">Appeal from the Court of Appeals for Franklin County, No. 94APD09-1398. On motion to dismiss. The judgment of the court of appeals is affirmed, and we note that this cause is moot.</p>\n<judges id=\"b900-6\">Moyer, C.J., Douglas, Wright, Resnick and F.E. Sweeney, JJ., concur.</judges>\n<judges id=\"b900-7\">Pfeifer, J., would affirm on Proposition of Law No. I only.</judges>\n<judges id=\"b900-8\">Cook, J., would grant the motion to dismiss.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
