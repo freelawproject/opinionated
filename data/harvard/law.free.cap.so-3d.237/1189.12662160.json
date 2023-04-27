@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1189\" lastpage=\"1189\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Anne TROY\n  <br/>\n  v.\n  <br/>\n  Dr. Scott SULLIVAN and Fairway Medical Center aka Fairway Medical Surgical Center\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2017-CC-2141\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  February 23, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   CLARK, J., would grant.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

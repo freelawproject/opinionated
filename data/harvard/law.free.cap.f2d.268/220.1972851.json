@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"220\" lastpage=\"220\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b278-8\">Joe Starr GULLAHORN, Jr., v. UNITED STATES of America.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b278-10\">No. 6052.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b278-11\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b278-12\">March 27, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b278-14\">James A. Borland, U. S. Atty., and Ruth C. Streeter, Asst. U. S. Atty., Albuquerque, N. M., for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b278-15\">Before BRATTON, Chief Judge, PICKETT, Circuit Judge, and KNOUS, District Judge.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b278-16\">PER CURIAM.</author>\n<p id=\"b278-17\">Affirmed without written opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

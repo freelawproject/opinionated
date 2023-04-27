@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b858-2\">O\u2019Connell, Flaherty, Attmore and Forsyth <em>v. </em>Nelson Gilyanna</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AQRf\">(10491)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b858-4\">Foti, Landau and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b858-5\">Argued March 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AU42\">decision released April 14, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b858-7\"><em>Nelson Gilyanna, </em>pro se, the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b858-8\"><em>Beverly Johns, </em>with whom, on the brief, was <em>Stephen J. Sinatro, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b858-9\">Per Curiam.</author>\n<p id=\"Aitq\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

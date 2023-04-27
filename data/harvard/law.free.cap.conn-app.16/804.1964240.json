@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"804\" lastpage=\"804\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b738-5\">Nutmeg Concrete, Inc. <em>v. </em>James E. Dwyer, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b738-6\">(6367)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b738-7\">Borden, Norcott and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b738-8\">Submitted on briefs September 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AX\">decision released October 11, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b738-10\"><em>John M. Zullo </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b738-11\"><em>Robert E. Grant </em>filed a brief for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b738-12\">Per Curiam.</author>\n<p id=\"AU6\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

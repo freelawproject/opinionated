@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"477\" lastpage=\"477\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b505-7\">Merrimack, )</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ACG\">Dec. 1, 1936.</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b505-8\">Judge of Probate <em>v. </em>John F. Daly.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b505-10\"><em>Demond, Woodworth, Sulloway, Piper &amp; Jones (Mr. Piper </em>orally), for the heirs.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b505-11\"><em>John F. Daly </em>(of Massachusetts), furnished no brief for the administrator.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b505-12\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"A-L\">The case is wrongly entitled. It should be in the name of the administrator as the appelant against the decedent\u2019s heirs as the appelees.</p>\n<p id=\"b505-13\">The exception presents no question of law.</p>\n<p id=\"b505-15\">\n<em>Exception overruled.</em>\n</p>\n<judges id=\"b505-14\">Page, J., was absent.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

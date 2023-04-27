@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1029\" lastpage=\"1029\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1085-3\">Robert Clinton SATTERFIELD, Appellant, v. Otto C. BOLES, Warden of the West Virginia State Penitentiary, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1085-5\">No. 11689.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b1085-6\">United States Court of Appeals Fourth Circuit.</court>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b1085-7\">Argued March <em>4, </em>1969.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b1085-8\">Decided March <em>7, </em>1969.</decisiondate>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1085-12\">Before HAYNSWORTH, Chief Judge, and CRAVEN and BUTZNER, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1085-13\">PER CURIAM:</author>\n<p id=\"b1085-14\">Denial of habeas corpus is affirmed for the reasons stated in the opinion of the District Judge, 297 F.Supp. 609.</p>\n<p id=\"b1085-15\">Affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

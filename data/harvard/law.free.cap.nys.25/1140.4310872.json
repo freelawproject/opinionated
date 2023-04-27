@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1140\" lastpage=\"1140\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1172-11\">STEINAM, Appellant, v. BELL, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1172-12\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AqCC\">November 6, 1893.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1172-14\">Action by Edward S. Steinam against George H. Bell.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1172-15\">Argued before BISCHOFF and GIEGERICH, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1172-16\">PER CURIAM.</author>\n<p id=\"Avds\">Notice of argument herein not having been served, the appellant, in default of an appearance for the respondent, was in no position to move the hearing. This appeal must therefore stand over until the next general term to be held for the hearing of appeals from the district courts.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

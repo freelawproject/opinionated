@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"921\" lastpage=\"922\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b871-10\">Gary Pipkin <em>v. </em>Madeleine Winans et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b871-11\">(10544)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b871-12\">Norcott, Freedman and Maloney, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b871-13\">Argued May 12</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A4j\">decision released June 2, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b872-3\"><page-number citation-index=\"1\" label=\"922\">*922</page-number><em>JohnR. McLain, </em>for the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b872-4\"><em>William E. McCoy, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b872-5\">Per Curiam.</author>\n<p id=\"Ai8S\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

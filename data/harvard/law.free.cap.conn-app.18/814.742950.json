@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"814\" lastpage=\"814\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b774-2\">Frank Sponzo et al. <em>v. </em>Zoning Board of Appeals of the Town of Bloomfield</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aaa-dedup-0\">(7263)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b774-3\">Spallone, Daly and Jacobson, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b774-4\">Argued April 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ajr-dedup-0\">decision released April 12, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b774-6\"><em>Dan E. LaBelle, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b774-7\"><em>Bessye W. Bennett, </em>deputy town attorney, for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b774-8\">Per Curiam.</author>\n<p id=\"Aaq3\">In this matter, the petition for certification to appeal was improvidently granted.</p>\n<p id=\"b774-9\">The appeal is dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

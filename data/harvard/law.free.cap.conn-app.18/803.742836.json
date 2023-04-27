@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b763-2\">Philip A. Cammarano et al. <em>v. </em>Westchester Fire Insurance Company</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A2N\">(7205)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b763-3\">Dupont, C. J., Stoughton and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b763-4\">Argued March 7</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AGGl\">decision released March 15, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b763-6\"><em>Donald A. Mitchell, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b763-7\"><em>Ralph F. Scofield, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b763-8\">Per Curiam.</author>\n<p id=\"AD3q\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

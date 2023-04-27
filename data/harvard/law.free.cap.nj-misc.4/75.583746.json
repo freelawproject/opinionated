@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"75\" lastpage=\"75\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b91-3\">STATE BOARD OF MEDICAL EXAMINERS OF NEW JERSEY, PLAINTIFF-APPELLEE, v. GEORGE H. COLEMAN, DEFENDANT-APPELLANT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b91-4\">Submitted October 16, 1925</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ap3\">Decided February 1, 1926.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b91-6\">Before Justices Parker, Minturn and Black.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b91-7\">Eor the plaintiff-appellee, <em>Grover G. Richman.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b91-8\">Eor the defendant-appellant, <em>Nathan Hale Berger.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b91-9\">Per Curiam.</author>\n<p id=\"b91-10\">This case is substantially identical with State Board <em>v. </em>Maza, No. 443, of the present term, and for the reasons stated in that case, the appeal will he dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

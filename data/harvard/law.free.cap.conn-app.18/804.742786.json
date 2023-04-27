@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"804\" lastpage=\"804\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b764-9\">Mathew Chmura <em>v. </em>A. Gervasio Construction Company, Inc.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b764-10\">(7102)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b764-11\">Spallone, O\u2019Connell and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b764-12\">Argued March 16</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Afnd\">decision released March 22, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b764-14\"><em>Homer G. Scoville, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b764-15\"><em>John K. Harris, Jr., </em>for the appellee (plaintiff). .</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b764-16\">Per Curiam.</author>\n<p id=\"AP3\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

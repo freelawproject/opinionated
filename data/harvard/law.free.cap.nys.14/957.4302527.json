@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"957\" lastpage=\"957\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b993-19\">Vincent, Respondent, <em>v. </em>Vincent, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b993-20\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aiqu\">March 6, 1891.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AEb\">Argued before Daly, C. J., and Allen and Bischoff, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b993-21\"><em>W. M. Olcott, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b993-22\">No opinion. Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

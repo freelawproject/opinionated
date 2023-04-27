@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"948\" lastpage=\"948\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b964-7\"><em>In re </em>Voorhis\u2019 Will.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b964-8\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AE67\">March 29, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"ARd7\">Motion to dismiss for failure to prosecute appeal.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b964-9\">Argued before Van Brunt, P. J., and Bartlett, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ALqm\">PTo opinion. Motion denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

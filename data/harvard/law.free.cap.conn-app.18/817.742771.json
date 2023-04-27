@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"817\" lastpage=\"817\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b777-2\">Medija Redzepi <em>v. </em>Tair Redzepi</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ABg\">(7144)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b777-3\">Borden, Stoughton and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b777-4\">Argued April 18</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ARqQ\">decision released April 26, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b777-6\"><em>Paul J. Yamin, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b777-7\"><em>Prescott W. May, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b777-8\">Per Curiam.</author>\n<p id=\"amz-dedup-0\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

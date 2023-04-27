@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b990-11\">Steinhardt <em>et al., </em>Respondents, v. Klaber, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b990-12\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Akyq\">February 26, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AyF\">Appeal from eleventh district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b990-13\">Argued before Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b990-14\"><em>I. Offenbach, </em>for appellant. <em>A. Lamont, </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b990-15\">Ho opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

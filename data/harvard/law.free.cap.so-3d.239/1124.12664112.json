@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1124\" lastpage=\"1124\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  EX PARTE Randall Timothy DOWNS\n </parties>\n <docketnumber id=\"p-2\">\n  1160129 (CR-15-0471)\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Alabama.\n </court>\n <decisiondate id=\"p-4\">\n  December 9, 2016\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Cert. denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

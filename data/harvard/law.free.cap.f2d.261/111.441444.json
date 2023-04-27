@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"111\" lastpage=\"111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b167-29\">Berlin Acey ODOM v. Nevell KERR, Sheriff of Muskogee County, Muskogee, Oklahoma, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b167-31\">No. 5941.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b167-32\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b167-33\">Sept. 5, 1958.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b167-35\">Nicholas Makris, Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b167-36\">Joe Cannon, Jess Leeds and Sam Caldwell, Muskogee, Okl., for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b167-37\">Before MURRAH, PICKETT and BREITENSTEIN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b167-38\">PER CURIAM.</author>\n<p id=\"b167-39\">Affirmed without written opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

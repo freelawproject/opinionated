@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1193\" lastpage=\"1193\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Lamondre Markes TUCKER\n </parties>\n <parties id=\"p-2\">\n  State of Louisiana\n  <br/>\n  v.\n  <br/>\n  Alicia Ann Tucker\n </parties>\n <docketnumber id=\"p-3\">\n  NO. 2015-K-1517 VS\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-5\">\n  March 9, 2018\n </decisiondate>\n <opinion id=\"p-6\">\n  Not considered. Not timely filed. See La.S.Ct. Rule X, \u00a7 5.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   CRICHTON, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

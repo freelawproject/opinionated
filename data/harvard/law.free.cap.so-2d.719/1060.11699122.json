@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1060\" lastpage=\"1060\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1172-6\">Ernest Griffin OBY v. Alton W. LUEDTKE and Elmer Litchfield, Sheriff of East Baton Rouge Parish.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AFV\">No. 98-C-1273.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"AZ7R\">Supreme Court of Louisiana.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A_1l\">June 26, 1998.</decisiondate>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b1172-12\">Prior report: La.App., \u2014 So.2d-.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1172-13\">In re Luedtke, Alton W.; \u2014 Defendant(s); applying for writ of certiorari and/or review; Parish of East Baton Rouge, 19th Judicial District Court, Div. \u201cC\u201d, No. 395,970; to the Court of Appeal, First Circuit, No. CA97 0330.</p>\n<p id=\"b1172-14\">Denied.</p>\n<judges id=\"b1172-15\">JOHNSON, J., not on panel.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

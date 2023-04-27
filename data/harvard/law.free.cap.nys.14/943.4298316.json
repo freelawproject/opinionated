@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"943\" lastpage=\"943\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b979-7\">Greene <em>et al., </em>Respondents, <em>v. </em>Walton <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b979-8\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AP0\">February 18, 1891.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AGdz\">Argued before Learned, P. J., and Landon and Matham, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b979-9\">No opinion. Motion to go to court of appeals denied. See 13 N. Y. Supp. 147.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

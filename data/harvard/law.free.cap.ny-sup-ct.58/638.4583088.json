@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"638\" lastpage=\"638\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b678-30\">First Department,</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AXJ\">January Term, 1889.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b678-31\">Decisions handed down January 9, 1889.</decisiondate>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b678-32\">Stephen M. Chester, Respondent, v. Francis H. Jumel and others, Appellants.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8m\">Motion to strike printed copies of appeal case from files of court granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

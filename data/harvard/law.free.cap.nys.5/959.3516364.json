@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"959\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b975-23\">Jukes <em>v. </em>Eno.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b975-24\">\n<em>(Superior Court of New York City,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AvKX\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AnuO\">May 6, 1889.)</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"AWh\">Argued before Sedgwick, C. J., and Freedman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b975-25\">No opinion. Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

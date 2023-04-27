@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"806\" lastpage=\"807\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b738-13\">Michael J. Hines et al. <em>v. </em>Nicholas Puglio</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AEJj\">(5528)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b738-14\">Borden, Daly and Bieluch, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b738-15\">Argued June 10</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AuX\">decision released June 12, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b739-3\"><page-number citation-index=\"1\" label=\"807\">*807</page-number><em>Linda R. Stark, </em>with whom <em>was Anthony T. Varone, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b739-4\"><em>Frederick S. Ury, </em>with whom, on the brief, was <em>Jessica L. Braus, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b739-5\">Per Curiam.</author>\n<p id=\"A7a\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"807\" lastpage=\"807\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b741-2\">Ann V. Foote <em>v. </em>Stephen L. Foote</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AGN\">(6382)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b741-3\">Spallone, Norcott and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b741-4\">Submitted on briefs September 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AYs\">decision released October 11, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b741-6\"><em>Paul L. Bollo </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b741-7\"><em>Sheldon A. Rosenbaum </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b741-8\">Per Curiam.</author>\n<p id=\"AdsQ\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

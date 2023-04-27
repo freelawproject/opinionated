@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"620\" lastpage=\"620\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b648-18\" pgmap=\"648\">Violet Erby, appellee, v. Thomas M. Whitson, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AKc\" pgmap=\"648\">Gen. No. 37,473.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"APG\" pgmap=\"648\">O\u2019Connor, P. J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AM0l\" pgmap=\"648\">Opinion filed November 5, 1934.</decisiondate><otherdate data-order=\"4\" data-type=\"otherdate\" id=\"AtQZ\" pgmap=\"648\">Rehearing denied November 19, 1934.</otherdate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b648-20\" pgmap=\"648\">Earl J. Walker, for appellant. Gurdon Williams, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b648-21\" pgmap=\"648\">Mr. Justice Matehett</author> <p id=\"A8K\" pgmap=\"648\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

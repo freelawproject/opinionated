@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1147\" lastpage=\"1147\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1179-19\">BERTUCH, Appellant, v. DOWER, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1179-20\">(City Court of Brooklyn, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A7v\">November 27, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1179-21\">Action by Geraldine B. Bertuch against Andrew J. Dower.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1179-22\">Argued before CLEMENT and VAN WYCIC, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1179-23\">Charles E. Burke, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1179-24\">Hirseh &amp; Rasquin, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1179-25\">PER CURIAM.</author>\n<p id=\"AGi\">The order appealed from should be modified by striking out the words \u201cexact\u201d and \u201cprecise.\u201d The appellant is entitled to the disbursements of this appeal, to be taxed by the clerk.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

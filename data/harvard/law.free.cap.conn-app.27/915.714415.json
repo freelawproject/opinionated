@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"916\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b865-13\">Liberty Bank <em>v. </em>Louis J. Soboleski et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AkzO\">(10629)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b865-14\">Foti, Lavery and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b865-15\">Argued May 4</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ae8\">decision released May 19, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b866-3\"><page-number citation-index=\"1\" label=\"916\">*916</page-number><em>Frank C. White, Jr., </em>for the appellant (named defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b866-4\"><em>I. Milton Widem, </em>with whom, on the brief, was <em>Gerald B. Goldberg, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b866-5\">Per Curiam.</author>\n<p id=\"aso-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"922\" lastpage=\"922\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b958-8\">John D. WATTS, Plaintiff-Cross Appellant, v. XL SYSTEMS, INC. (also known as XL Systems, LP), Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b958-11\">Nos. 02-1139, 02-1140.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b958-12\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b958-13\">DECIDED: March 6, 2003.</decisiondate>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"AHC\">Rehearing Denied April 3, 2003.</otherdate>\n<p data-order=\"5\" data-type=\"judges\" id=\"b958-15\">Before NEWMAN, GAJARSA, and LINN, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b958-16\">JUDGMENT</p>\n<author id=\"b958-17\">PER CURIAM.</author>\n<p id=\"b958-18\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED: <em>AFFIRMED. See </em>Fed. Cir. R. 36</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

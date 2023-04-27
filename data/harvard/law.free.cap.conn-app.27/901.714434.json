@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b851-10\">Thomas P. Roman <em>v. </em>Mary J. Roman</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"As_\">(10476)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b851-11\">Daly, Norcott and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b851-12\">Argued February 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ajj-dedup-0\">decision released March 10, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b851-14\"><em>David P. Ball, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b851-15\"><em>James Ryan Mulvey, </em>with whom, on the brief, was <em>Mark Korotash, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b851-16\">Per Curiam.</author>\n<p id=\"AV_1\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

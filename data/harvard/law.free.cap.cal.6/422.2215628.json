@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"422\" lastpage=\"422\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b434-7\">Richards <em>v. </em>McMillan <em>et al.</em></parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b434-8\">An appeal does not lie from an order refusing an injunction.</summary>\n<summary data-order=\"2\" data-type=\"summary\" id=\"b434-9\">Appeal from the District Court of the Twelfth Judicial District.</summary>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b434-10\">This was an appeal taken from the order refusing to grant an injunction in the foregoing ease.</summary>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b434-11\"><em>John Reynolds </em>for Appellant.</p>\n<p data-order=\"5\" data-type=\"attorneys\" id=\"b434-12\"><em>Williams, Shafter &amp; Park </em>for Respondents.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AMO\">The opinion of the Court was delivered by Mr. Justice Heydenfeldt.</author>\n<p id=\"A_U\">Mr. Justice Terry concurred.</p>\n<p id=\"b434-14\">An appeal does not lie from an order refusing an injunction. Appeal dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

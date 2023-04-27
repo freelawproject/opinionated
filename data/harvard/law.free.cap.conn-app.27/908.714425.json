@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"908\" lastpage=\"908\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b858-10\">New Connecticut Bank and Trust Company, N.A. <em>v. </em>Millington Green Land Associates et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b858-12\">(10571)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b858-13\">Foti, Lavery and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b858-14\">Argued March 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"amf-dedup-1\">decision released April 14, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b858-16\"><em>Richard F. Paladino, </em>for the appellants (defendants Donald Bergeron et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b858-17\"><em>David S. Hoopes, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b858-18\">Per Curiam.</author>\n<p id=\"AW3X\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

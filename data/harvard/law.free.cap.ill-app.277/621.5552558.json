@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"621\" lastpage=\"621\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b649-12\" pgmap=\"649\">Margaret Colton, appellee, v. Reinhold Nelson, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AdV\" pgmap=\"649\">Gen. No. 37,515.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AXd\" pgmap=\"649\">O\u2019Connor, P. J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AxA\" pgmap=\"649\">Opinion filed November 5, 1934.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b649-15\" pgmap=\"649\">John A. Bloomingston, for appellant. Wright &amp; Kamin, for appellee; Alfred Kamin, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b649-16\" pgmap=\"649\">Mr. Justice Matchett</author> <p id=\"ALp9\" pgmap=\"649\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

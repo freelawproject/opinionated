@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"958\" lastpage=\"958\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b994-4\">Boyer, Respondent, <em>v. </em>Ritter, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b994-5\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AMBY\">March 9, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A1u\">Appeal from city court, general term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b994-6\">Argued before Daly, C. J., and Bisohoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b994-7\"><em>J. G. Ritter, </em>for appellant. <em>Rabe &amp; Keller, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b994-8\">No opinion. Judgment affirmed, with costs. See 13 N. Y. Supp. 574.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

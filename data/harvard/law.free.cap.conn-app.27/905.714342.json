@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b855-2\">North American Investment Corporation <em>v. </em>James A. Pabilonia et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b855-4\">(10328)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b855-5\">Foti, Lavery and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b855-6\">Argued February 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Axs\">decision released March 17, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b855-8\"><em>James J. Devine, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b855-9\"><em>Gary D. Lavigne, </em>with whom was <em>Leslee B. Ives, </em>legal intern, for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b855-10\">Per Curiam.</author>\n<p id=\"ao6-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

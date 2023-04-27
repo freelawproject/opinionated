@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"809\" lastpage=\"809\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b769-6\">Lewis C. Maruzo et al. <em>v. </em>Falls Mills Associates, Ltd.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b769-7\">(6963)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b769-8\">Spallone, O\u2019Connell and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b769-9\">Argued March 17</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AWSr\">decision released March 23, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b769-11\"><em>John C. Driscoll, </em>with whom, on the brief, was <em>William N. Sebastian, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b769-12\"><em>F. Herbert Gruendel, </em>with whom, on the brief, was <em>Charles McPhedran, </em>law student intern, for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b769-13\">Per Curiam.</author>\n<p id=\"Adn8\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

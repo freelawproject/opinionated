@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"502\" lastpage=\"502\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b538-6\">CROSSROADS SYSTEMS, (TEXAS), INC., Plaintiff-Appellee, v. CHAPARRAL NETWORK STORAGE, INC., Defendant-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b538-9\">No. 02-1158.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b538-10\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b538-11\">Feb. 12, 2003.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b538-13\">Before NEWMAN, SCHALL, and DYK, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b538-14\">JUDGMENT</p>\n<author id=\"b538-15\">PER CURIAM.</author>\n<p id=\"b538-16\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED: <em>AFFIRMED. See </em>Fed. Cir. R. 36</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

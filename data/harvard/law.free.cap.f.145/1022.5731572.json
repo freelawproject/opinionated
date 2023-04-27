@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1034-7\">HIRSCH et al. v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Aa3\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AhlR\">April 9, 1906.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Am4\">No. 211 (3725).</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AaP\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<seealso data-order=\"5\" data-type=\"seealso\" id=\"AkU\">For decision below, see 141 Fed. 380.</seealso>\n<p data-order=\"6\" data-type=\"judges\" id=\"Ajb\">Before WALLACE, LACOMBE, and TOWNSEND, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1034-8\">PER CURIAM.</author>\n<p id=\"Aq7\">Affirmed on consent in open court</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

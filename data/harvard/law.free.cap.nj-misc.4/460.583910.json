@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"460\" lastpage=\"460\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b476-3\">JACK RUBENSTEIN, PROSECUTOR, v. GEORGE P. NIMMO, SHERIFF. CLARENCE MILLER, PROSECUTOR, v. GEORGE P. NIMMO, SHERIFF.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b476-7\">Argued April 20, 1926</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQT\">Decided May 8, 1926.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b476-9\">Before Justice Parker.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b476-10\">I conclude that on the face of the papers before me, these men are not legally charged with a criminal offense; they will, accordingly, be discharged and the bail exonerated.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

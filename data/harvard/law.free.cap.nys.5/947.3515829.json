@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"947\" lastpage=\"947\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b963-11\">Clapp <em>v. </em>Clapp. <em>In re </em>Rand, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b963-13\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQt\">March 29, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"headnotes\" id=\"AjgM\">Motion for reargument. See 1 N. V. Supp. 919.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b963-14\">Argued before Brady and Daniels, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b963-15\"><em>\u2022Charles P. Crosby, </em>for appellant. <em>Augustus C. Brown, </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Api\">No opinion. Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

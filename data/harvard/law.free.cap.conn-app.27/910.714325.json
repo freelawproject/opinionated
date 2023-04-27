@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"910\" lastpage=\"910\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b860-2\">Elaine M. Torello <em>v. </em>Mutual of Omaha Insurance Company</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"au2-dedup-0\">(10614)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b860-3\">Foti, Landau and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b860-4\">Argued March 27</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A_8\">decision released April 14, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b860-6\"><em>William J. Nulsen, </em>with whom, on the brief, was <em>James F. Cirillo, Jr., </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b860-7\"><em>Deborah L. Bradley, </em>with whom, on the brief, was <em>John W. Lemega, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b860-8\">Per Curiam.</author>\n<p id=\"A2qq\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"621\" lastpage=\"621\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b649-17\" pgmap=\"649\">Jewell Newman, appellee, v. Reinhold Nelson, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AnM\" pgmap=\"649\">Gen. No. 37,516.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AJj4\" pgmap=\"649\">O\u2019Connor, P. J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AJIb\" pgmap=\"649\">Opinion filed November 5, 1934.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b649-20\" pgmap=\"649\">John A. Bloomingston, for appellant. Wright &amp; Kamin, for appellee; Alfred Kamin, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b649-21\" pgmap=\"649\">Mr. Justice Matchett</author> <p id=\"At8t\" pgmap=\"649\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

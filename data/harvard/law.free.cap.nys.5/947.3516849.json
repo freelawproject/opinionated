@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"947\" lastpage=\"947\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b963-21\">Furber, Appellant, <em>v. </em>McCarthy, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b963-22\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXC\">March 29, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AGBP\">Motion to dismiss for failure to prosecute appeal.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b963-23\">Argued before Van Brunt, P. J., and Bartlett, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b963-24\"><em>H. Joseph, </em>for appellant. <em>E. P. Johnson, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b963-25\">No opinion. Motion denied, on appellants\u2019 paying $10, costs of motion, \u25a0and stipulating to argue at next term of the court. See 4 N. Y. Supp. 274.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

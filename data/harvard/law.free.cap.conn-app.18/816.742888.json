@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"816\" lastpage=\"816\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b776-2\">State of Connecticut <em>v. </em>David Sanchez</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Abls\">(6961)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b776-3\">Spallone, Daly and Jacobson, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b776-4\">Argued April 5</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AJ2\">decision released April 12, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b776-6\"><em>Donald, Dakers, </em>public defender, for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b776-7\"><em>Timothy J. Sugrue, </em>deputy assistant state\u2019s attorney, with whom, on the brief, were <em>Michael Dearington, </em>state\u2019s attorney, and <em>John Waddock, </em>assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b776-8\">Per Curiam.</author>\n<p id=\"AJm\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

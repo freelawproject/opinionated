@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"915\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b865-4\">Lincoln Savings Bank, FSB <em>v. </em>770 Boston Post Road, Guilford, Limited Partnership et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b865-6\">(10695)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b865-7\">Daly, Norcott and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b865-8\">Argued May 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aho-dedup-0\">decision released May 19, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b865-10\"><em>Roy H. Scharf </em>for the appellants (defendant James D. Hennessey et al.).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b865-11\"><em>Peter S. Gummo, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b865-12\">Per Curiam.</author>\n<p id=\"A9n\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"312\" lastpage=\"312\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b348-8\">Hauser <em>v. </em>Metropolitan El. Ry. Co. <em>et al. </em>Becker <em>v. </em>Same. Hchus <em>v. </em>Same.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b348-9\"><em>(Superior Court of New York City, General </em>Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AGj\">May 4, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"b348-10\">Appeal from special term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b348-11\">Argued before Sedgwick, C. J., and McAdam, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b348-12\"><em>Julien T. Davies </em>and J. <em>C. Thomson, </em>for appellants. <em>Charles Gibson Bennett, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b348-13\">Per Curiam.</p>\n<p id=\"AEzJ\">The judgment in these cases are severally affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

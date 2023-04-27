@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"820\" lastpage=\"821\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b780-6\">Evelyn Pliska et al. <em>v. </em>Arietta Tsolakis</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"APD-\">(7187)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b780-7\">Borden, Stoughton and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b780-8\">Argued April 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AA62\">decision released May 2, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b781-2\"><page-number citation-index=\"1\" label=\"821\">*821</page-number><em>Stacy A. Welch, </em>with whom, on the brief, was <em>Charles G. Karanian, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b781-3\"><em>Nicholas E. DeNigris, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"aks-dedup-0\">Per Curiam.</author>\n<p id=\"Avn\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

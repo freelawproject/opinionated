@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"958\" lastpage=\"958\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b994-29\">Sterry, Respondent, <em>v. </em>New York El. R. Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b994-30\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ablg\">March 12, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A_f\">Appeal from judgment on report of referee.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b994-31\">Argued before Daly, C. J., and Bisohoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b994-32\"><em>Davies &amp; Rapallo, </em>for appellant. <em>J. A. Weekes, Jr., </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b994-33\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"221\" lastpage=\"221\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b279-27\">William BINDER v. C. H. LOONEY, Warden, United States Penitentiary, Leavenworth, Kansas.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"aqo-dedup-0\">No. 6086.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b279-29\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b279-30\">May 26, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b279-32\">Wilbur G. Leonard, U. S. Atty., E. Edward Johnson, Asst. U. S. Atty., Topeka, Kan., Milton P. Beach, Asst. U. S. Atty., Kansas City, Kan., and George E. Peabody, Asst. U. S. Atty., Wichita, Kan., for appellee.</attorneys>\n<p data-order=\"5\" data-type=\"judges\" id=\"b279-33\">Before BRATTON, Chief Judge, and PHILLIPS and LEWIS, Circuit Judges.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b279-34\">PER CURIAM.</author>\n<p id=\"b279-35\">Affirmed without written opinion, on the ground that the appeal is without merit.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

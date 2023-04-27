@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"947\" lastpage=\"947\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b963-16\">Dean <em>et al., </em>Respondents, <em>v. </em>Driggs, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b963-17\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJhJ\">March 29, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A5rr\">Motion to dismiss for failure to prosecute appeal.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b963-18\">Argued before Van Brunt, P. J., and Bartlett, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b963-19\"><em>J ohn Berry, </em>for appellant. <em>Blandy &amp; Hatch, </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b963-20\">No opinion. Motion denied, upon defendant\u2019s stipulating to argue appeal \u25a0at next term of court and paying $10, costs of this motion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

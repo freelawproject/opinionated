@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b359-4\">*Hall, at suit of, Cumberland Bank.</parties>\n<attorneys data-order=\"1\" data-type=\"attorneys\" id=\"b359-5\">JEFFERS, for defendant,</attorneys>\n<p data-order=\"2\" data-type=\"legal\" id=\"A83\">read an affidavit, that the Venue, <footnotemark>(a)</footnotemark> cause of action arose in <em>Salem; </em>and thereupon moved that the venue be changed from <em>Cumberland </em>to <em>Salem.</em></p>\n<footnote data-order=\"3\" data-type=\"footnote\" id=\"x999-1\" label=\"(a)\">\n<p id=\"b359-16\"><em>\u0430) Abrams vs. Wood, 1 South. 30. Kerr vs. The </em>Bank, <em>&amp;c., 1 South. 363. Ward vs. Holmes, 2 Hal. 171. Bell vs. Morris Canal, 3 Gr. 63.</em></p>\n</footnote>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-2\" type=\"majority\">\n<author id=\"b359-6\">Court.</author>\n<p id=\"Ax-\">It is not matter of course, to change the venue, when the cause of action arose in another county. Additional facts must be shewn.</p>\n<p id=\"b359-7\">Rule refused.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

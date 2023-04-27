@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"314\" lastpage=\"314\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b330-3\">AARON RIPS, PROSECUTOR, v. ABRAHAM LEVITAN ET AL., RESPONDENTS.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AMk\">Decided March <em>11, </em>1926.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b330-7\">Before Justices Teenchard, Katzenbach and Lloyd.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b330-8\">For the prosecutor, <em>G. Earl Brugler.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b330-9\">For the respondents, <em>Abraham Levitan.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b330-10\">Per Curiam.</author>\n<p id=\"b330-11\">We see no reason to modify our judgment.</p>\n<p id=\"b330-12\">We think the costs should abide the event of the new trial. Both motions are accordingly denied.</p>\n<p id=\"b330-13\">No costs on these motions.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

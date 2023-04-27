@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"806\" lastpage=\"806\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b740-6\">Barbara Sherwood <em>v. </em>Paul J. Sherwood</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AcK\">(6503)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b740-7\">Spallone, Daly and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b740-8\">Submitted on briefs September 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A_A\">decision released October 11, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b740-10\"><em>I. David Marder </em>filed a brief for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b740-11\"><em>Richard Goodman </em>filed a brief for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b740-12\">Per Curiam.</author>\n<p id=\"A7H\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

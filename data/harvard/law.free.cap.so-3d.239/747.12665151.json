@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"747\" lastpage=\"747\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Gregory AZOR, Appellant/Petitioner(s)\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee/Respondent(s)\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 4D16-4053\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Fourth District.\n </court>\n <decisiondate id=\"p-4\">\n  February 01, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   ORDERED that appellant's January 26, 2018 motion for extension of time is granted and appellant shall serve the reply brief on or before March 2, 2018. In addition, if the reply brief is served after the time provided for in this order, it may be stricken; further,\n  </p>\n  <p id=\"p-7\">\n   ORDERED that the opinion and mandate issued in this case are withdrawn.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

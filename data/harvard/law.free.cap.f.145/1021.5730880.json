@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1033-7\">BUEHNE STEEL WOOL CO. v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AFQ\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Abt\">March 16, 1906).</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AAE\">No. 191 (3924).</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AJq\">Appeal from the Circuit Court of the United States for the Southern District of Now York.</summary>\n<seealso data-order=\"5\" data-type=\"seealso\" id=\"AM5\">E'er decision below, see 140 Fed. 772.</seealso>\n<p data-order=\"6\" data-type=\"judges\" id=\"Arm\">Before WALLACE, LACQMBE, and TOWNSEND, Circuit .Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1033-8\">PER CURIAM.</author>\n<p id=\"ADoa\">Affirmed in open court, on consent.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

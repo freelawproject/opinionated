@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b735-2\">Karl Paul Vossbrinck <em>v. </em>Town of Monroe et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b735-3\">(6100)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b735-4\">Spallone, Norcott and Foti, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b735-5\">Submitted on briefs September 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"ABo\">decision released October 11, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b735-7\"><em>Karl Paul Vossbrinck, </em>pro se, the appellant (plaintiff), filed a brief.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b735-8\"><em>Christopher J. Lynch </em>filed a brief for the appellees (defendants).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b735-9\">Per Curiam.</author>\n<p id=\"AhW\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

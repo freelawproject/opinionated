@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"957\" lastpage=\"957\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b993-9\">McCann, Appellant, <em>v. </em>Sixth Ave. R. Co., Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b993-10\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AK4\">March 4, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"Ay14\">Appeal from special term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b993-11\">Argued before Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b993-12\"><em>J. A. O\u2019Gorman, </em>for appellant. <em>D. M. Porter, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b993-13\">No opinion. Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

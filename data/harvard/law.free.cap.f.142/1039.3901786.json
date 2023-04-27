@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1039\" lastpage=\"1039\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1073-5\">UNITED STATES v. HARVEY &amp; OUTERBRIDGE.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A0m\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aap\">January 30, 1906.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AzX\">No. 115 (3,522).</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Ayx7\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<seealso data-order=\"5\" data-type=\"seealso\" id=\"Abp\">For decision below, see 137 Fed. 816, reversing a decision of the Board of United States General Appraisers.</seealso>\n<p data-order=\"6\" data-type=\"judges\" id=\"ArO\">Before TOWNSEND and COXE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1073-6\">PER CURIAM.</author>\n<p id=\"A9z\">Reversed in open court on consent</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

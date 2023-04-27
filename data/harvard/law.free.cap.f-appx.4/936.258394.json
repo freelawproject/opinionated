@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"936\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b858-4\">MELROSE ASSOCIATES, L.P., Plaintiff-Appellant, v. UNITED STATES, Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A53\">No. 00-5022.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b858-6\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b858-14\">Feb. 12, 2001.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b858-8\">Before LOURIE, CLEVENGER, and LINN, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b858-15\">\n<em>JUDGMENT</em>\n</p>\n<author id=\"b858-9\">PER CURIAM.</author>\n<p id=\"b858-10\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b858-11\"><em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

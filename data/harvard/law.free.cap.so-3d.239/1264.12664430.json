@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1264\" lastpage=\"1264\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Curtis FEIMSTER, Appellant,\n  <br/>\n  v.\n  <br/>\n  The STATE of Florida, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D18-168\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed March 7, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Curtis Feimster, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Pamela Jo Bondi, Attorney General, for appellee.\n </attorneys>\n <judges id=\"p-7\">\n  Before EMAS, FERNANDEZ and LUCK, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n   <em>\n    See\n   </em>\n   \u00a7 782.04(2), Fla. Stat. (1982) (providing that second-degree murder is a first-degree felony punishable by a term of years not exceeding life imprisonment).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

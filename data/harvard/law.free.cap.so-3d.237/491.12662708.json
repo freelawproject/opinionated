@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"491\" lastpage=\"491\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  LOUISIANA BOARD OF ETHICS\n  <br/>\n  v.\n  <br/>\n  Susan THEALL\n </parties>\n <parties id=\"p-2\">\n  Louisiana Board of Ethics\n  <br/>\n  v.\n  <br/>\n  Burton Zaunbrecher\n </parties>\n <docketnumber id=\"p-3\">\n  2017-CC-2015\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-5\">\n  February 9, 2018\n </decisiondate>\n <history id=\"p-6\">\n  <strong>\n   ON WRIT OF CERTIORARI TO THE COURT OF APPEAL, FIRST CIRCUIT, PARISH OF EAST BATON ROUGE\n  </strong>\n </history>\n <disposition id=\"p-7\">\n  Writ denied.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Hughes, J., dissents.\n  </author>\n  <p id=\"p-9\">\n   I respectfully dissent and would grant the writ. The alleged violation here was not \"contained in a report\" and is subject to a three year prescriptive period.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

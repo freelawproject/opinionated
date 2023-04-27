@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"959\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b975-4\">Fitzgerald <em>v. </em>Equitable Reserve Fund Life Ass\u2019n.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b975-5\">\n<em>(Common Pleas of New York, City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AcZ0\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AgzK\">June 27, 1889.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b975-6\">For opinion on appeal, see <em>ante, </em>837.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b975-7\">Per Curiam.</author>\n<p id=\"AQsb\">The application for leave to appeal to the court1 of appeals must be denied. We do not entertain any doubt of the correctness of the decision of the general term sought to be reviewed, and it appears to us from the affidavit submitted that an appeal would be a hardship to the respondent.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

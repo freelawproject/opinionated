@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"217\" lastpage=\"217\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b275-28\">George LAVENDER v. Ralph M. ROUNDS.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b275-30\">No. 6122.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b275-31\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b275-32\">March 13, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b275-34\">Moise, Sutin &amp; Jones, Albuquerque, N. M., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b275-35\">Foulston, Siefkin, Schoeppel, Bartlett &amp; Powers, Wichita, Kan., and Rodey, Dickason, Sloan, Akin &amp; Robb, Albuquerque, N. M., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b275-36\">Before BRATTON, Chief Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b275-37\">PER CURIAM.</author>\n<p id=\"b275-38\">Dismissed pursuant to stipulation of the parties.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

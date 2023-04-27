@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"605\" lastpage=\"605\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b665-10\" pgmap=\"665\">Catherine Rogal, appellee, v. Anthony Forschner, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A20\" pgmap=\"665\">Gen. No. 30,390.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"AH9\" pgmap=\"665\">Taylor, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"pAJ_6\" pgmap=\"665\">Opinion filed March 10, 1926.</decisiondate><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b665-13\" pgmap=\"665\">Burt A. Crowe, for appellant; Roy A. Nutt, of counsel. Abraham Lepine, for appellee; George C. Bliss, of counsel.</attorneys> <opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b665-14\" pgmap=\"665\">Mr. Presiding Justice</author> <p id=\"AJaB\" pgmap=\"665\">Thomson delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

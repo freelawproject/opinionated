@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"821\" lastpage=\"821\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b781-4\">John P. Moffett, Jr. <em>v. </em>J. William Burns, Commissioner of Transportation</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ahn-dedup-0\">(7525)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b781-5\">Dupont, C. J., Stoughton and Norcott, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b781-6\">Argued May 9</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Akp\">decision released May 17, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b781-8\"><em>James K. Smith, </em>with whom, on the brief, was <em>Robert J. Guendelsberger, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b781-9\"><em>Louis B. Blumenfeld, </em>with whom was <em>Joseph A. LaBella </em>and, on the brief, <em>Richard A. Ferris, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b781-10\">Per Curiam.</author>\n<p id=\"A6v\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"955\" lastpage=\"955\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b971-7\">Horn, Respondent, <em>v. </em>Prior <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b971-8\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AEGQ\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"ArJ_\">January 11, 1889.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AZ6\">Appeal from Hinth district court. .</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b971-9\">Argued before Larrehore, O. J., and Allen and Bookstaver, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"A_t\"><em>Charles W. Dayton </em>and <em>William King Hall, </em>for appellants. <em>David B. Ogden, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b971-10\">Order reversed, with costs, and restitution of the $750 rent paid ordered.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

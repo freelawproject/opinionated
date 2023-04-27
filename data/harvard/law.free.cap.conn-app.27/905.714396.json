@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b855-11\">Linda Ebrahimi <em>v. </em>Mohammed Ebrahimi</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AaQT\">(9623)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b855-12\">Norcott, Landau and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b855-13\">Argued February 25</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AghS\">decision released March 17, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b855-15\"><em>Robert P. Cardone, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b855-16\"><em>Helen C. Bruno, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b855-17\">Per Curiam.</author>\n<p id=\"adl-dedup-2\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

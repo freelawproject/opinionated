@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1175\" lastpage=\"1175\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Joshua THOMPSON\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-KK-119\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  March 9, 2018\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE 21st JUDICIAL DISTRICT COURT FOR THE PARISH OF TANGIPAHOA\n  </strong>\n </p>\n <disposition id=\"p-6\">\n  Writ Denied.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   Hughes, J., additionally concurs as the writ was premature.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

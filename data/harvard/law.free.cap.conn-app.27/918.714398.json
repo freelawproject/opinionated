@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"918\" lastpage=\"918\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b868-6\">Denise Travisano <em>v. </em>City of New Haven et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b868-7\">(10377)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b868-8\">Daly, Lavery and Freedman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b868-9\">Argued May 11</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A8C\">decision released June 2, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b868-11\"><em>Judith A. Sarathy, </em>assistant corporation counsel, for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b868-12\"><em>Mary Beattie Schairer, </em>with whom, on the brief, was <em>Steven J. Errante, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b868-13\">Per Curiam.</author>\n<p id=\"azd-dedup-2\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

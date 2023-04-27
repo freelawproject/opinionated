@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"567\" lastpage=\"567\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b655-7\">No. 1159.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A77d\">Guti\u00e9rrez et al., Plaintiffs and Appellants, <em>v. </em>Foix et al., Defendants and Respondents.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Axb_\">Decided June 2, 1914.</decisiondate>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"AbP\"><em>Mr. Antonio J. Amadeo </em>for the appellants. <em>Mr. Francisco Gonzales </em>for the respondents.</attorneys>\n<p data-order=\"4\" data-type=\"legal\" id=\"ANmX\">Motion sustained.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Arab\">Appeal from the District Court of Humacao in a case of intervention in ownership of real property. Motion by the appellants for leave to withdraw the appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

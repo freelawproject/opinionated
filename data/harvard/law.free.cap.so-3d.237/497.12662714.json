@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"497\" lastpage=\"497\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX REL. Dennis Donyel THOMAS\n  <br/>\n  v.\n  <br/>\n  STATE of Louisiana\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2017-KH-0975\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  March 2, 2018\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE FIRST JUDICIAL, DISTRICT COURT, PARISH OF CADDO\n  </strong>\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM:\n  </author>\n  <p id=\"p-7\">\n   Writ granted. The district court's ruling of September 9, 2016, dismissing relator's application for post-conviction relief on procedural grounds is reversed, and the matter is remanded to the district court for consideration of the merits of relator's claims pertaining to ineffective assistance and the subornation of perjury. La.C.Cr.P. arts. 929, 930. If the district court orders an evidentiary hearing, it shall appoint counsel. La.C.Cr.P. art. 930.7(C).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

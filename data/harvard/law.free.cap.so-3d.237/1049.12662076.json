@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1049\" lastpage=\"1049\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Oliver AGUERO, VI, Appellant,\n  <br/>\n  v.\n  <br/>\n  DEPARTMENT OF FINANCIAL SERVICES, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D17-0171\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed November 29, 2017\n  <br/>\n  Rehearing Denied January 4, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Oliver Aguero, VI, in proper person.\n </attorneys>\n <attorneys id=\"p-6\">\n  Matthew R. Daley, Assistant General Counsel (Tallahassee), for appellee.\n </attorneys>\n <judges id=\"p-7\">\n  Before SUAREZ, LAGOA and SCALES, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Upon review of Appellant's initial brief, we find no preliminary basis for reversal has been demonstrated. We, therefore, summarily affirm the order on appeal. See Fla. R. App. 9.315(a).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

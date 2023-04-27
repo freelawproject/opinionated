@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"803\" lastpage=\"803\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b763-9\">State of Connecticut <em>v. </em>Richard Edge</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AJ6\">(7354)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b763-10\">Borden, Daly and Jacobson, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b763-11\">Argued March 1</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A-e\">decision released March 15, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b763-13\"><em>Nicholas P. Cardwell, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b763-14\"><em>Vincent J. Dooley, </em>deputy assistant state\u2019s attorney, with whom, on the brief, were <em>Michael Dearington, </em>state\u2019s attorney, and <em>Cecelia Wiederhold, </em>deputy assistant state\u2019s attorney, for the appellee (state).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b763-15\">Per Curiam.</author>\n<p id=\"ajc-dedup-0\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

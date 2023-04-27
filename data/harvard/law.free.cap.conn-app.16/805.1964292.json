@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"805\" lastpage=\"806\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b739-11\">Fred Baker <em>v. </em>Helene Baker</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"An-\">(6589)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b739-12\">Spallone, Daly and Stoughton, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b739-13\">Submitted on briefs September 20</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AOJB\">decision released October 11, 1988</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b740-3\"><page-number citation-index=\"1\" label=\"806\">*806</page-number><em>John P. Febbroriello </em>filed a brief for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b740-4\"><em>Robert M. Shields, Jr., </em>and <em>Wesley W. Horton </em>filed a brief for the appellant (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b740-5\">Per Curiam.</author>\n<p id=\"Avv\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

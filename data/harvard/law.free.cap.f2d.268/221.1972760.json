@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"221\" lastpage=\"221\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b279-15\">HAWKEYE-SECURITY INSURANCE COMPANY v. INDEMNITY INSURANCE COMPANY OF NORTH AMERICA.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b279-17\">No. 6092.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b279-18\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b279-19\">May 29, 1959.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b279-21\">Forrest C. O\u2019Dell, Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b279-22\">James L. Treece, Denver, Colo., for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b279-23\">Before BRATTON, Chief Judge, and HUXMAN and LEWIS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b279-24\">PER CURIAM.</author>\n<p id=\"b279-25\">Affirmed without written opinion. See also 10 Cir., 260 F.2d 361.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

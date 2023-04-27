@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"541\" lastpage=\"541\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b567-5\">No. \u2014,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"ARD\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AD7g\"><em>Ex parte: </em>In the Matter of Smokeless Fuel Company, Petitioner.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"Auhg\">Submitted April 6, 1908.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AQ0\">Decided April 13, 1908.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A3_A\"><em>Mr. Alexander H.Sands, Mr. William L. Boyall </em>and <em>Mr. George Bryan </em>for petitioner. .</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABM\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

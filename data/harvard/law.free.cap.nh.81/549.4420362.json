@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"549\" lastpage=\"549\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"otherdate\" id=\"b575-6\">Rockingham, )</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"ApI\">Nov. <em>5, 1924.</em></decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b575-7\">State <em>v. </em>Joseph Haselton.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b575-9\"><em>Jeremy R. Waldron, </em>solicitor, for the state.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b575-10\"><em>John L. Mitchell, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b575-11\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AOx\">The case is governed by <em>State </em>v. <em>Gendron, </em>80 N. H. 394. The defendant is guilty of a second offence.</p>\n<p id=\"b575-12\">\n<em>Case discharged.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b976-4\">Lenner <em>v. </em>Westen.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b976-5\">\n<em>(Superior Court of New York City,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"ApdC\">\n<em>General Term,</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AhN\">May 6, 1889.)</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"AH\">Argued before Sedgwick, O. J., and Freedman, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b976-6\">\u00a3To opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

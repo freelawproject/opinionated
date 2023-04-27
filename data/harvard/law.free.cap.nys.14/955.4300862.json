@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"955\" lastpage=\"955\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b991-4\">Schlimper, Appellant, <em>v. </em>Herrman, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b991-5\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ak_i\">February 27, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AxE9\">Appeal from third district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b991-6\">Argued before Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b991-7\"><em>H. J. Hindes, </em>for appellant. <em>Howe &amp; Hummel, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b991-8\">No opinion. J-udgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

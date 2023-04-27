@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"811\" lastpage=\"811\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b743-7\">Nancy M. Green <em>v. </em>Russell M. Green</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AMP5\">(5022)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b743-8\">Borden, Spallone and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b743-9\">Argued June 12</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AX-F\">decision released June 19, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b743-11\"><em>Donald R. Beebe, </em>for the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b743-12\"><em>Lloyd L. Langhammer, </em>with whom, on the brief, was <em>Jeffrey W. Hill, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b743-13\">Per Curiam.</author>\n<p id=\"A0iJ\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

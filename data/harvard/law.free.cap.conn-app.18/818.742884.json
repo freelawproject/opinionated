@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"818\" lastpage=\"819\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b778-6\">Alexanderina Clarke <em>v. </em>Bridgeport Roman Catholic Diocesan Corporation</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"afd-dedup-0\">(7080)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b778-7\">Borden, Spallone and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b778-8\">Argued May 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"aqb-dedup-0\">decision released May 9, 1989</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b779-3\"><page-number citation-index=\"1\" label=\"819\">*819</page-number><em>John T. Bochanis, </em>with whom, on the brief, was <em>Thomas J. Weihing, </em>for the appellant (plaintiff).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b779-4\"><em>Michael T. Ryan, </em>with whom was <em>Steven P. Kulas, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b779-5\">Per Curiam.</author>\n<p id=\"Ano\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

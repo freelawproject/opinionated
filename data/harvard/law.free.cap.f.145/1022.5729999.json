@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1022\" lastpage=\"1022\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1034-11\">The KNICKERBOCKER.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AEf\">(Circuit Court of Appeals, Second Circuit</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A1P\">May 24, 1906.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AZv\">No. 265.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ASpI\">Appeal from the District Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AtM\">Peter S. Carter, for appellant. Amos Van Etten, for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"AoBl\">Before LACOMBE, TOWNSEND, and COXE, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A-Y\">PER CURIAM.</author>\n<p id=\"AEZ\">Decree affirmed with costs on opinion of District Judge (138 Fed. 148).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

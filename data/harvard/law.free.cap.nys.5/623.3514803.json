@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"623\" lastpage=\"623\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b639-7\">Thebaud <em>et al. v. </em>Great Western Ins. Co.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b639-8\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AOhM\">May 24, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b639-9\">Appeal from circuit court, New York county.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b639-10\">Argued before Van Brunt, P. J., and Brady and Bartlett, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b639-11\">P. <em>M. Butler, </em>for appellant. <em>Ha/rrington Putnam, </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b639-12\">Van Brunt, P. J.</author>\n<p id=\"ASK\">Judgment reversed, and new trial ordered, with costs to the appellant to abide event, on opinion in <em>Thebaud </em>v. <em>Insurance Co., ante, </em>619.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

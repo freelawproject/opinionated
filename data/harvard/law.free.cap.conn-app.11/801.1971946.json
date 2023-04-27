@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"801\" lastpage=\"801\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b733-2\">Alan E. Green et al. <em>v. </em>Charles DeWeise et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b733-3\">(5327)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b733-4\">Dupont, C. J., Borden and Daly, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b733-5\">Argued May 6</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A68X\">decision released May 11, 1987</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b733-7\"><em>James T. Flaherty, </em>for the appellants (defendants).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b733-8\"><em>Joseph A. Moniz, </em>with whom, on the brief, were <em>George M. Purtill </em>and <em>Steven M. Greenspan, </em>for the appellees (plaintiffs).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b733-9\">Per Curiam:.</author>\n<p id=\"APo6\">There is no error.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

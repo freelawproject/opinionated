@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"297\" lastpage=\"297\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael Edward BL\u00c4KE\n  <br/>\n  v.\n  <br/>\n  Alicia DiMarco BLAKE\n </parties>\n <parties id=\"p-2\">\n  Alicia Victoria DiMarco Blake\n  <br/>\n  v.\n  <br/>\n  Michael Edward Blake\n </parties>\n <parties id=\"p-3\">\n  Michael Edward Blake\n  <br/>\n  v.\n  <br/>\n  Alicia DiMarco Blake\n </parties>\n <parties id=\"p-4\">\n  Michael Edward Blake\n  <br/>\n  v.\n  <br/>\n  Alicia DiMarco Blake\n </parties>\n <docketnumber id=\"p-5\">\n  NO. 2017-C-2057\n </docketnumber>\n <court id=\"p-6\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-7\">\n  March 23, 2018\n </decisiondate>\n <opinion id=\"p-8\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   JOHNSON, C.J., would grant.\n  </author>\n  <p id=\"p-10\">\n   HUGHES, J., would grant.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"959\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b975-20\">Ferry <em>v. </em>Manhattan Ry. Co.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b975-21\">\n<em>(Superior Court of New York City,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"ADBu\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A61\">May 6, 1889.)</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"A82K\">Argued before Freedman and O\u2019Gorman, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b975-22\">No opinion. Judgment and order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

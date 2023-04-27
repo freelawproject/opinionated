@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"250\" lastpage=\"250\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  HOWES\n  <br/>\n  v.\n  <br/>\n  HOCKNEY.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 353P05-4.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  January 26, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Grady L. Balentine, Jr., Assistant Attorney General, for C. Preston Cornelius.\n </attorneys>\n <attorneys id=\"p-6\">\n  Clarence Preston Cornelius, Pro Se.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 12th day of August 2005 by Plaintiff for \"Appeal In Forma Pauperis to Dismiss With Prejudice Order of 11th Day of July 2005 &amp; All of Judge Griffin Orders for Constructive Fraud and Disallow Attorney Fees:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Dismissed by order of the Court in conference this the 26th day of January 2006.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Justice EDMUNDS recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

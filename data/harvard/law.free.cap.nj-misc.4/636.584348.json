@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"636\" lastpage=\"636\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b652-5\">PAUL B. SCARF, PLAINTIFF, v. LUDWIG FANTON AND HENRY WOLF, CO-PARTNERS, TRADING AS FANTON &amp; WOLF, DEFENDANTS.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b652-6\">Decided July 9, 1926.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"Axa\">Before Justice Kalisch, at chambers.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b652-9\">For the motion, <em>Lionel P. Kristeller.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b652-10\">\n<em>Contra, William B. Stites.</em>\n</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b652-11\">Pee Ctjbiam.</author>\n<p id=\"b652-12\">The .plaintiff\u2019s action is for rent. The defendant sets up a counter-claim for unliquidated damages. The ease is controlled by <em>Kelly </em>v. <em>Faitoute Iron and Steel Co., </em>87 <em>N. J. L. </em>567; <em>Jenkins </em>v. <em>Schneidman, 4 N. J. Adv. R. </em>1005. The plaintiff\u2019s motion to strike out the counter-claim is allowed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"914\" lastpage=\"915\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b864-11\">Anthony Bimonte et al. <em>v. </em>Water Pollution Control Authority of the City of New Haven</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AW-\">(10554)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b864-12\">Daly, Landau and Heiman, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b864-13\">Argued April 30</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AP2\">decision released May 19, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b865-2\"><page-number citation-index=\"1\" label=\"915\">*915</page-number><em>Richard M. Franchi, </em>for the appellants (plaintiffs).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"aub-dedup-0\"><em>Barry J. Waters, </em>with whom, on the brief, was <em>Gregory C. Davis, </em>for the appellee (defendant).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b865-3\">Per Curiam.</author>\n<p id=\"AZL\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

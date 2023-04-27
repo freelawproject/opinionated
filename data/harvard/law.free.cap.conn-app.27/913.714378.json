@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"913\" lastpage=\"913\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b863-9\">Jacqueline M. Wanta <em>v. </em>Robert J. Wanta</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Ab4\">(10300)</docketnumber>\n<p data-order=\"2\" data-type=\"judges\" id=\"b863-10\">Daly, Foti and Lavery, Js.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b863-11\">Argued April 2</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AWD6\">decision released April 21, 1992</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b863-13\"><em>Robert J. Wanta, </em>pro se, the appellant (defendant).</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b863-14\"><em>Roberta S. Friedman, </em>for the appellee (plaintiff).</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b863-15\">Per Curiam.</author>\n<p id=\"aji-dedup-0\">The judgment is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
