@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"956\" lastpage=\"956\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b980-4\">Eckhart, Appellant, <em>v. </em>Devine, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b980-5\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ADaj\">May 5, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AjaP\">Appeal from eighth district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b980-6\">Argued before Larremore, C. J., and Bookstaver, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b980-7\"><em>M. K. McCarten, </em>for appellant. <em>Thompson, Ackley &amp; Kauffmann, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b980-8\">No opinion. Ordered that the judgment be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

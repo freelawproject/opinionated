@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"409\" lastpage=\"409\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  HARTMAN\n </parties>\n <docketnumber id=\"p-2\">\n  2019-0184\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  May 1, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   APPEAL ACCEPTED FOR REVIEW\n  </strong>\n </history>\n <opinion id=\"p-6\">\n  Cause accepted on proposition of law No. I.\n </opinion>\n <opinion id=\"p-7\">\n  KENNEDY, FRENCH, and SADLER, JJ., would accept the cause on both propositions of law.\n </opinion>\n <judges id=\"p-8\">\n  O'CONNOR, C.J., and DEWINE and DONNELLY, JJ., dissent.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   LISA L. SADLER, J., of the Tenth District Court of Appeals sitting for STEWART, J.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

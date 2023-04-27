@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"955\" lastpage=\"955\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b979-13\">Algie, Appellant, <em>v. </em>Larned <em>et al., </em>Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b979-14\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A8o_\">March 3, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b979-15\">Argued before Larrbmore, C. J., and Daly and Bischoff, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b979-16\"><em>Larned &amp; Warren, </em>for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b979-17\">Per Curiam.</author>\n<p id=\"A7Ll\">Motion by respondents to dismiss appeal, taken from the judgment and order denying motion for a new trial, for the failure to prosecute appeal with diligence, and for his failure to make and serve his case on appeal. Granted, with costs, and $10 costs of motion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

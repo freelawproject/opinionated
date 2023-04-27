@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"3\" lastpage=\"3\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b15-8\">Anonymous.</parties>\n<headnotes data-order=\"1\" data-type=\"headnotes\" id=\"b15-9\">A certiorari to remove an indictment may be granted by a judge of the Supreme Court at chambers.</headnotes>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b15-10\">\n<em>H. Stockton</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"A_r\">stated that he wished to obtain a certiorari -to remove an indictment, but was not prepared to move for it at this time, and wished to know if it could be granted by a judge at chambers.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b15-11\">*The Chief Justice</author>\n<p id=\"Aq\">said the certiorari could be [*3 allowed by a judge at chambers. Such had been the construction given to the act; and the court had no doubt it was the proper construction.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

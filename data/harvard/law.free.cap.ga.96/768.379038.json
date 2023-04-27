@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"768\" lastpage=\"768\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b784-4\">Eady <em>v. </em>Blanton <em>et al.</em></parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b784-6\">April 15, 1895.</decisiondate>\n<p data-order=\"2\" data-type=\"headnotes\" id=\"ANm\">Brought forward from the last term.</p>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b784-7\">Petition for injunction. Before Judge Hunt. Spalding county. December 22, 1894.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b784-8\">Patterson &amp; Kimbrough, for plaintiff.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b784-9\">Robert T. Daniel, for defendants.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b784-5\">Simmons, C. J.</author>\n<p id=\"A-G\">Irrespective of other questions involved, the evidence being conflicting as to the alleged insolvency of the defendant, this court is unable to say there was an abuse of discretion by the trial judge in refusing to grant the injunction.</p>\n<p id=\"ABa\">\n<em>JudgmeYit affirmed.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"944\" lastpage=\"944\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b980-25\">Smith, Appellant, <em>v. </em>Pelott, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b980-26\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AZr\">March 15, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"Ai8I\">Action by James M. Smith, as executor of John Giles, deceased, against Frank Pelott.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b980-27\">Argued before Mayham, P. J., and Putnam and Herrick, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b980-28\">Ho opinion. Motion for reargument of appeal from order granted. For decision on appeal, see 15 N. Y. Supp. 972, <em>mem. </em>See, also, 16 N. Y. Supp. 631; 18 N. Y. Supp. 301.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

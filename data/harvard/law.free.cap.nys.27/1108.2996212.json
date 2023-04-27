@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1108\" lastpage=\"1108\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1136-27\">CROW et al., Appellants, v. COFFIN et al., Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1136-28\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AUNY\">March 16, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1136-29\">Action by Moses R. Crow and another against William E. Coffin and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"A-R\">Argued before VAN BRUNT, P. X, and FOLLETT and PARKER, JX</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ANol\">No opinion. Motion granted, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

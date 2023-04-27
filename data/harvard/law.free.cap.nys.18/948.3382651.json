@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"948\" lastpage=\"948\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b984-6\">United States Electric Light &amp; Power Co., Appellant, <em>v. </em>Rimoldi, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b984-8\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"ABsv\"><em>General </em>Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AqFi\">February 24, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ATdc\">Appeal from second district court.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b984-9\">Action by the United States Electric Light &amp; Power Company against Jo. seph Rimoldi.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"b984-10\">Argued before Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b984-11\"><em>Cravath &amp; Harding, </em>for appellant. <em>8. P. &amp; J. MoL. Hash, </em>for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQXq\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

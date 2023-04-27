@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"942\" lastpage=\"942\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b978-4\">Haskins <em>v. </em>Stewart <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b978-5\">\n<em>(Supreme Court, General Term, Second Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AvbX\">December, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"At9X\">Action by Mary Haskins as administratrix of her husband, Reuben Haskins, deceased, against James Stewart and George Stewart.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b978-6\">Argued before Barnard, P. J., and Pratt, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b978-7\">Ho opinion. Judgment affirmed, with costs, on opinion by Barnard, P. J., on former appeal. 10 N. Y. Supp. 833. See, also, 11 N. Y. Supp. 942, <em>mem.</em></p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

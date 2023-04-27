@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1127\" lastpage=\"1127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1155-23\">STEARN, Appellant, v. HESDORFER, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1155-24\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A7XS\">March 5, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1155-26\">Action by Bertha Stearn against Louis Hesdorfer.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1155-27\">Argued before DALY, C. J., and BISOHOPP and PRYOR, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1155-28\">Hayman &amp; Rosenthal, for appellant</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AYB\">M. A. Kurscheedt, for respondent</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1155-29\">No opinion. Motion to affirm judgment for nonservice of'printed papers on appeal denied, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

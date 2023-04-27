@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"804\" lastpage=\"804\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b820-3\">MORRIS BURG ET AL., PROSECUTORS, v. BOARD OF ADJUSTMENT OF THE CITY OF PASSAIC ET AL., RESPONDENTS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b820-4\">Submitted May term, 1928</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aho\">Decided July 27, 1928.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b820-6\">Before Justices Minturn, Black and Campbell.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b820-7\">For the prosecutors, <em>Andrew J. </em>Foulds, <em>Jr.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b820-8\">For the respondents, <em>Joseph J. Weinberger.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b820-9\">Per Curiam.</author>\n<p id=\"b820-10\">The judgment and proceedings under review are affirmed and the writ of <em>certiorari </em>dismissed under authority of <em>Bellofatto et al. </em>v. Montclair, 6 <em>N. J. Mis. R. </em>512.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

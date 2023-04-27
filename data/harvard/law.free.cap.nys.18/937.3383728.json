@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"937\" lastpage=\"937\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b973-11\"><em>In re </em>Mayor, Etc., of City of New York. <em>In re </em>Riverside Park.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b973-13\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AdM\">March 31, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AeLj\">Application by the corporation counsel on behalf of the mayor, etc., in the matter of the Riverside Park.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b973-14\">Argued before Van Brunt, P. J., and O\u2019Brien and Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b973-15\">No opinion. Motion granted, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

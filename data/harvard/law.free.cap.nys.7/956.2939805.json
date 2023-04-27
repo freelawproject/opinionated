@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"956\" lastpage=\"956\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b980-4\">Fleming, Respondent, <em>v. </em>Everard, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b980-5\"><em>(Common Pleas of New York City and County, General </em>Term.'</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ai0k\">May 16, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AvC\">Argued before Larremore, C. J., and Allen and Bookstaver, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b980-6\"><em>D. M. Newburger, </em>for appellant. <em>L. J. Conlan, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AvT\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

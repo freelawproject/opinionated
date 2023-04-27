@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"945\" lastpage=\"945\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b969-21\">Hubbard <em>et al. v. </em>Hay <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b969-22\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQV7\">May 23, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b969-23\">Argued before Van Brunt, P. J., and Brady and. Daniels, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b969-24\">No opinion. Motion granted upon appellants\u2019 paying $10 term fees, and $10 costs of motion, and stipulating to serve cause in\u00b080 days, and to argue appeal in October.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

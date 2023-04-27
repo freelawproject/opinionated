@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"955\" lastpage=\"955\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b979-27\">Dunn <em>et al., </em>Respondents, <em>v. </em>Genovese, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b979-28\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AGA\">May 5, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"AnTF\">Appeal from special term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b979-29\">Argued before Larrbmore, C. J., and Bookstaver, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b979-30\"><em>I. D. Egbert, </em>for appellant. <em>W. M. Powell, </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b979-31\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

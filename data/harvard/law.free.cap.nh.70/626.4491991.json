@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"626\" lastpage=\"627\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b654-15\">Carroll,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Apb\">June, 1900.</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b654-17\">McGill, <em>Adm\u2019x, v. </em>Maine and New Hampshire Granite Co.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b654-18\">Petition, for a new trial on the ground of accident, mistake, or misfortune. Subject to exception, the petition was dismissed because its allegations were not sustained.</p>\n<p id=\"b654-19\">\n<em>Exception overruled.</em>\n</p>\n<attorneys id=\"Agp\"><page-number citation-index=\"1\" label=\"627\">*627</page-number><em>Josiah S. Soils </em>and <em>Bred B. </em>Osgood, for the plaintiff.</attorneys>\n<attorneys id=\"AnaW\"><em>John B. Nash </em>and <em>Walter B. S. Sill, </em>for the defendants.</attorneys>\n<judges id=\"b655-4\">Pabsons, J., did not sit: the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"711\" lastpage=\"711\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"Ap7I\">No. 18,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AqO0\">Original:</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AobX\">State of Oklahoma <em>v. </em>State of Texas.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AMiE\">Submitted January 22, 1923.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AgEY\">Decided January 29, 1923.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ARJ\"><em>Mr. Charles West </em>for claimants.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ATza\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"ArkR\">Application of Red River Syndicate, claimants, \u2022 for a modification of the opinion delivered in this cause on May 1, 1922, 258 U. S. 574, is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"658\" lastpage=\"658\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b700-4\">New York Common Pleas</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"Aiv\">General Term,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Asm\">November, 1895.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b700-6\">Before Daly, Ch. J., Bischoff and Pryor, JJ.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"b700-7\">Charles E. Orvis v. William H. Curtiss.</parties>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A9xO\">Taylor &amp; Parker, for motion. H. G-. Harris, opposed.-</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ANLi\">Motion for leave to appeal, to the Court of Appeals granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

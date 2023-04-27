@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1007\" lastpage=\"1007\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1019-6\">ROYAL UNION MUT. LIFE INS. CO. v. WYNN et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A8d\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AbM\">March 28, 1911.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"Aq_W\">No. 2,094.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AUL\">Appeal from Circuit Court of the United States for the Northern District of Georgia. Henry R. Goetehius, for appellant. William A. Wimbish and Edgar Watkins, for appellees.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"AhLP\">Before PARDEE and SHELBY, Circuit Judges, and TOULMIN, District Judge.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1019-7\">PER CURIAM.</author>\n<p id=\"Atsh\">As we find no reversible error in this record, the judgment of the Circuit Court (177 Fed. 289) is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

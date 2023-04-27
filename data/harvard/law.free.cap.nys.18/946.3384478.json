@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"946\" lastpage=\"946\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b982-14\">Goodman, Appellant, v. Lighthouse, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b982-15\">\n<em>(Supreme Court, General Term, Fifth Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A8IG\">April 13, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b982-16\">Action by Louis Goodman against John C. Lighthouse.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b982-17\">Argued before Dwight, P. J., and Macomber and Lewis, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b982-18\">No opinion. Order granting a new trial appealed from affirmed, with costs of this appeal to the respondent to abide the event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

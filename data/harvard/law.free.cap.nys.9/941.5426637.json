@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"941\" lastpage=\"941\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b965-17\">People <em>v. </em>New York, N. H. &amp; H. R. Co.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b965-18\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ACIM\">March 14, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"ADQ0\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b965-19\"><em>Chas. F. Tabor, </em>Atty. Gen., for the People. <em>Page </em>&amp; <em>Taft, </em>for defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_CR\">No opinion. Motion granted. See 5 N. Y. Supp. 945, 8 N. Y. Supp. 672.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

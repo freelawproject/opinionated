@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"555\" lastpage=\"555\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b583-7\">Cheshire, )</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b583-8\">Dec. 3, 1929. )</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b583-9\">Arthur Olsen, <em>Trustee, v. </em>William Dinagan <em>&amp; a.</em></parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b583-11\">\n<em>Petitioner, pro se.</em>\n</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b583-12\">\n<em>Per Curiam.</em>\n</author>\n<p id=\"AX6\">The petitioner is instructed that the divorce did not terminate the trust, and that it continues while the divorced wife lives unless the son predeceases her.</p>\n<p id=\"b583-13\">\n<em>Case discharged.</em>\n</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

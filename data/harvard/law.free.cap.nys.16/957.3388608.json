@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"957\" lastpage=\"957\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b993-12\">Cromwell, Respondent, <em>v. </em>Black, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b993-13\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AlZ\">December 10, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AmA\">Action by William Nelson Cromwell, as assignee, against William F. Black. From order denying defendant\u2019s motion for a further bill of particulars, defendant appeals.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b993-14\">Argued before Sedgwick, C. J., and Freedman and Dugro, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b993-15\"><em>E. D. Hawkins, </em>for appellant. <em>W. J. Curtis, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b993-16\">Per Curiam.</author>\n<p id=\"Arn\">The order should be affirmed, with $10 costs and disbursements.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

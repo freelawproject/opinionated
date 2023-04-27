@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"128\" lastpage=\"128\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael WILLIAMS, Appellant\n  <br/>\n  v.\n  <br/>\n  ALLEN COUNTY SUPERIOR AND CIRCUIT COURT, et al.\n </parties>\n <court id=\"p-2\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-3\">\n  January 24, 2019\n </decisiondate>\n <disposition id=\"p-4\">\n  Transfer Denied.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-5\">\n   All Justices concur.\n  </author>\n  <p id=\"p-6\">\n   Shepard, Sr. J., Kirsch, J., May, J.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"256\" lastpage=\"256\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b292-11\">Haywood v. Van Cott <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b292-12\">\n<em>(Superior Court of New York City,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AMl\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AkX\">December 14, 1891.)</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ARE\">No opinion. Appeal dismissed, with costs, as per order filed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"947\" lastpage=\"947\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b983-12\">Stevens, Respondent, <em>v. </em>American Fire Ins. Co. <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b983-13\">\n<em>(Supreme Court, General Term, Fifth Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ABoD\">April 13, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b983-14\">Action, by Holmes B. Stevens against the American Fire Insurance Company and another.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b983-15\">Argued before Dwight, P. .T., and Macomber and Lewis, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b983-16\">No opinion. Interlocutory judgment appealed from affirmed, with costs, with leave to answer within 20 days on payment of costs of the demurrer and of this appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

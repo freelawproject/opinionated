@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"943\" lastpage=\"943\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b967-6\">Sistare <em>et al. v. </em>Olcott, Receiver.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b967-7\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AJy\">March 28, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AvrB\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AR5\"><em>Davidson &amp; Fischer, </em>for plaintiffs. <em>Shearman &amp; Sterling, </em>for defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AHeQ\">No opinion. Motion denied. See 5 N. Y. Supp. 114.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

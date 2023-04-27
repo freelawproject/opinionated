@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"706\" lastpage=\"707\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b722-8\">PERCY LIPMAN, PROSECUTOR, v. BOARD OF EDUCATION OF THE CITY OF BAYONNE, DEFENDANT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b722-9\">Argued January term, 1928</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AZXJ\">Decided July 2, 1928.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b723-3\"><page-number citation-index=\"1\" label=\"707\">*707</page-number>Before Justices Parker, Minturn and Campbell.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b723-4\">For the prosecutor, <em>Brenner &amp; Kresch.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b723-5\">For the defendant, <em>Benny &amp; Cruden.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b723-6\">Per Curiam.</author>\n<p id=\"b723-7\">Eor the reason stated in the opinion filed in number 295, this term, involving substantially the same question, the writ in this case will be dismissed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

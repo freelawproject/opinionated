@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b984-11\"><em>In re </em>Department of Public Parks. <em>In re </em>Rhines <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b984-13\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AVS\">December 2, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"Adn\">Motion to confirm report of commissioners of estimates.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b984-14\">Argued before Van Brunt, P. J\u201e and Barrett and Cullen, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b984-15\">Per Curiam.</author>\n<p id=\"A7dM\">We cannot direct payment of these bills without proof of their necessity and reasonableness.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"959\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b987-10\">Levy, Respondent, <em>v. </em>Krakowski <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b987-11\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ALr\">December 18, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b987-12\">Appeal from fifth district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b987-13\">Argued before Bookstaver and Bischoff, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b987-14\"><em>G. C. Eldridge, </em>for appellants. <em>J. Fennell, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b987-15\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"942\" lastpage=\"942\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b970-21\">Kene, Respondent, v. Bergholz, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b970-22\">\n<em>(Supreme Court, General Term, Second Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIfX\">December 10, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A5p\">Appeal from circuit court, Westchester county.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b970-23\">Argued before Dykman and Pratt, J J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b970-24\"><em>J. M. Ferguson, </em>for appellant. <em>Isaac N. Mills, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b970-25\">Pratt, J.</author>\n<p id=\"AP_7\">There is nothing involved in this case but a question of fact, which was fairly submitted to the jury, and is settled by their verdict. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

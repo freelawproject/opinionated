@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1125\" lastpage=\"1125\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1153-20\">ROTHMAN, Respondent, v. PRUDENTIAL INS. CO., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1153-21\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AOy\">February 28, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1153-23\">Appeal from ninth district court</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1153-24\">Action by Max Rothman against the Prudential Insurance Company.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"AKL\">Argued before BISCHOFF and GIEGERICH, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1153-25\">W. O. Campbell, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1153-26\">J. L. Weinberg, for respondent</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1os\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

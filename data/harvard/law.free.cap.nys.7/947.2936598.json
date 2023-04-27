@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"947\" lastpage=\"947\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b971-18\"><em>In re </em>Mayor, Etc., of New York. <em>In re </em>Ellis.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AHUM\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ald\">May 24, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AKnK\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABqZ\">See memorandum <em>per curiam.</em></p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

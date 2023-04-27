@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"235\" lastpage=\"235\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Nancy SNYDER\n  <br/>\n  v.\n  <br/>\n  Maxine DUNCAN, Jean Wilson, and Paul Buchanan.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 382P08.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  December 11, 2008.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Stephen L. Snyder, for Nancy Snyder.\n </attorneys>\n <attorneys id=\"p-6\">\n  Lloyd Hise, Jr., Spruce Pine, for Duncan &amp; Wilson.\n </attorneys>\n <attorneys id=\"p-7\">\n  Gerald McKinney, Greensboro, for Buchanan.\n </attorneys>\n <p id=\"p-8\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   Upon consideration of the conditional petition filed on the 22nd day of August 2008 by Defendant (Buchanan) in this matter for discretionary review of the decision of the North Carolina Court of Appeals pursuant to G.S. 7A-31, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-10\">\n   \"Dismissed as moot by order of the Court in conference, this the 11th day of December 2008.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

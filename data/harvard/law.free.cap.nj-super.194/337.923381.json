@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"337\" lastpage=\"337\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b369-4\">BEN JONES, PLAINTIFF-APPELLANT, v. DWIGHT MITCHELL, DEFENDANT-RESPONDENT.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b369-5\">Superior Court of New Jersey Appellate Division</court>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b369-6\">Argued January 30, 1984</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AGE\">Decided February 6, 1984.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b369-7\">Before Judges ARD, GREENBERG and TRAUTWEIN.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b369-9\"><em>Arthur Penn </em>argued the cause for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b369-10\"><em>Joseph G. Dooley, Jr., </em>argued the cause for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b369-11\">PER CURIAM.</author>\n<p id=\"b369-12\">The judgment is affirmed substantially for the reasons expressed in the opinion of Judge Marzulli, reported at 194 <em>N.J.Super. </em>387 (Law Div.1984).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

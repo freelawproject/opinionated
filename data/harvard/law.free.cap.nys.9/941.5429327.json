@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"941\" lastpage=\"941\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b965-20\">People <em>ex rel. </em>McQuien, Appellant, v. Theatrical Mechanical Ass\u2019n, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b965-22\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AGQZ\">March 14, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AqJQ\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b965-23\"><em>Smith Tuttle, </em>for appellant. <em>Howe &amp; Hummel, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b965-24\">No opinion. Motion will not be considered under this order to show cause. See 8 N. Y. Supp. 675.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

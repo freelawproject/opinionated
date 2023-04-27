@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1129\" lastpage=\"1129\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1157-10\">GOEBEL, Respondent, v. GOEBEL, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1157-11\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ajo\">March 8, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"b1157-13\">Appeal from trial term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1157-14\">Action by John Charles Goebel against Isabella G. Goebel.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1157-15\">Argued before DALY, O. J., and PRYOR and GIEGERIOH, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1157-16\">J. D. Townsend, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1157-17\">J. J. Chapman, for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1157-18\">No opinion. Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

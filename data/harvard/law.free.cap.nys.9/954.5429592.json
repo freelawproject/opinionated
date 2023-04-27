@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b978-21\">Tinsley <em>et al., </em>Respondents, <em>v. </em>Weidinger, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b978-22\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AZr8\">April 7, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"A8zq\">Argued beforeLarremore, C. J., and Daly and Bischoff, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b978-23\"><em>Johnston &amp; Johnston, </em>for appellant. <em>Billings &amp; Cardozo, </em>for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AUj\">No opinion. Motion for leave to appeal to the court of appeals granted. See 7 N. Y. Supp. 260; 8 N. Y. Supp. 476.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

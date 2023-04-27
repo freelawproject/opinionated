@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"354\" lastpage=\"354\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b368-7\">ELIABETH OLLEMAR, PROSECUTOR, v. TOWN OF IRVINGTON, IN THE COUNTY OF ESSEX, RESPONDENT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b368-8\">Argued May 6, 1930</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ae5\">Decided May 7, 1930.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b368-10\">Before Justices Parker, Campbell and Bodine.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b368-11\">Eor the plaintiff, <em>Reed &amp; Reynolds.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b368-12\">Eor the defendant, <em>Charles E. Stewart.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b368-13\">Per Curiam.</author>\n<p id=\"b368-14\">Our examination of the facts and argument presented lead us to the conclusion that the application for the writ of <em>certiorari </em>should be denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

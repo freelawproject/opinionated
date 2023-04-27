@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b990-15\">Schapierer, Respondent, <em>v. </em>Third Ave. R. Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b990-16\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AlE\">November 5, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AVts\">Appeal from city court, general term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"pAI3T\">Action by Jacob Schapierer against the Third Avenue Railroad Company-</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b990-17\">Argued before Bookstaver and Bischoff, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b990-18\"><em>L. &amp; J. Hoadley, </em>for appellant. <em>S. D. Levy, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b990-19\">Ho opinion. Appeal dismissed, without costs to either party. See 14 N. Y. Supp. 921.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

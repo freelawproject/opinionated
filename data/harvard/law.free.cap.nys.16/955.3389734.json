@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"955\" lastpage=\"955\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b991-25\">Mahon, Respondent, <em>v. </em>Guilfoyle, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b991-26\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-_L\">November 2, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b991-27\">Action by Bernard Mahon against Anna M. Guilfoyle. Plaintiff moves to dismiss defendant\u2019s appeal for failure to serve printed papers.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b991-28\">Argued before Daly, C. J., and Bischoff, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b991-29\"><em>Griffen &amp; Prosser, </em>for appellant. <em>L. L. Kellogg, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b991-30\">No opinion. Motion granted, unless appellant serve printed papers on or-about the 13th day of November, 1891.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

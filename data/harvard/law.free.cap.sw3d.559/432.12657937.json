@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"432\" lastpage=\"432\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Missouri, Respondent,\n  <br/>\n  v.\n  <br/>\n  Jeremy Todd O'DELL, Appellant.\n </parties>\n <docketnumber id=\"p-2\">\n  WD 80944\n </docketnumber>\n <court id=\"p-3\">\n  Missouri Court of Appeals, Western District.\n </court>\n <decisiondate id=\"p-4\">\n  ORDER FILED: October 30, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Attorneys: Jeffrey Eastman, Gladstone, MO Counsel for Appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Attorneys: Richard Starnes, Jefferson City, MO Counsel for Respondent.\n </attorneys>\n <judges id=\"p-7\">\n  Before Division Two: Alok Ahuja, P.J., Thomas H. Newton, and Mark D. Pfeiffer, JJ.\n </judges>\n <p id=\"p-8\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Per Curiam:\n  </author>\n  <p id=\"p-10\">\n   Mr. Jeremy Todd O'Dell appeals the conviction by a Clay County jury of driving while intoxicated. \u00a7 577.010. The trial court sentenced Mr. O'Dell as an aggravated offender to four years of imprisonment in the Missouri Department of Corrections. We affirm. Rule 30.25(b).\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

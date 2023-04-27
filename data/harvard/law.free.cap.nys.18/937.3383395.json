@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"937\" lastpage=\"937\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b973-6\">Martin, Respondent, v. Manhattan Ry. Co. <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b973-7\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A4K\">March 31, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b973-8\">Action by Benajah M. Martin against the Manhattan Railway Company and another.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b973-9\">Argued before Van Brunt, P. J., and O\u2019Brien and Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b973-10\">No opinion. Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

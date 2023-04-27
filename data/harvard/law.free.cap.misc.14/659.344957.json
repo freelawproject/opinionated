@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"659\" lastpage=\"659\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b701-2\">New York Common Pleas</court>\n<p data-order=\"1\" data-type=\"misc\" id=\"AGx\">Additional General Term,</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A1K\">December, 1895.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b701-3\">Before Bookstaver and Bischoff, JJ.</p>\n<parties data-order=\"4\" data-type=\"parties\" id=\"b701-4\">Thomas Brady et al., Respondents, v. Michael E. Duffy, Appellant.</parties>\n<summary data-order=\"5\" data-type=\"summary\" id=\"Aq6\">Appeal from a judgment of the Seventh District i Court.</summary>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ARFT\">Robert J. Mahon, for respondents. M. E. Duffy, for appellant.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AtN\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

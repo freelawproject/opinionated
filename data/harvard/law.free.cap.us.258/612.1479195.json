@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"612\" lastpage=\"612\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b658-4\">'No. \u2014, Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aep\">John Doe, Demise of the Commonwealth of Massachusetts, <em>v. </em>City of Rochester; and Commonwealth of Massachusetts <em>v. </em>Eugene Van Voorhis et al., Commissioners of Appraisal.</parties>\n<p data-order=\"2\" data-type=\"misc\" id=\"AGS\">No. \u2014, Original.</p>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AM-\">Argued April 24, 1922.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Aqjl\">Decided April 24, 1922.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AtO6\"><em>Mr. E. H. Abbott, Jr., </em>for plaintiffs. <em>Mr. Eugene Van Voorhis </em>for Van Voorhis et al.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVEt\">Motions for leave to file declarations herein denied, without prejudice to filing of motions for leave to file bills in equity for the same purpose.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

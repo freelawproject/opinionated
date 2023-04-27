@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"946\" lastpage=\"946\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b982-25\">Lyon, Respondent, <em>v. </em>Ricker, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ASXx\">\n<em>(Supreme Court, General Term, Fifth Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AiQ\">April 13, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AqL1\">Action by Lemuel Lyon against Henry P. Ricker.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b982-26\">Argued before Dwight, P. J\u201e and Macomber and Lewis, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b982-27\">No opinion. Judgment appealed from affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"738\" lastpage=\"738\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b754-3\">EDITH MONACO, BY NEXT FRIEND, ET AL., PLAINTIFFS, v. ABRAHAM KIRSCHNER ET AL., DEFENDANTS.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b754-4\">Decided July 10, 1928.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"AG_\">Before Justices Mixture, Black and Campbell.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b754-6\">For the plaintiff, <em>Palmer &amp; Cooper.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b754-7\">For the defendants, McDermott, <em>Enright &amp; Carpenter.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"A8q\">Per Curiam.</author>\n<p id=\"b754-8\">The motion in the above-entitled cause to vacate the service of the summons upon the defendant, after due consideration by the court, is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

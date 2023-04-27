@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1123\" lastpage=\"1123\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1151-19\">REYNOLDS, Appellant, v. PATTEN, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1151-20\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aotu2\">February 5, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1151-22\">Appeal from city court.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1151-23\">Action by Martin Reynolds against Thomas Patten, impleaded, etc.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"Aubc\">Argued before DALY, C. J., and BISCHOFF, and PRYOR, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1151-24\">Johnston &amp; Johnston, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1151-25\">Deyo, Dun &amp; Baurdorf, for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1151-26\">No opinion. Motion for reargument granted. See 25 N. Y. Supp. 100.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

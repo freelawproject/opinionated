@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"783\" lastpage=\"783\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b799-9\">Matthews <em>v. </em>Willoughby.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"Abl\">May 15, 1895.</decisiondate>\n<p data-order=\"2\" data-type=\"headnotes\" id=\"ANu\">Brought forward from the last term.</p>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b799-11\">Bill in equity. Before Judge McWhorter. Madison superior court. March term, 1894.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b799-12\">D. W. Meadow and B. J. Moseley, for plaintiff in error</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b799-10\">Simmons, C. J.</author>\n<p id=\"ATo\">The determination of this case depended entirely upon whether the jury believed the witnesses for the plaintiff or the witnesses for the defendant. They having believed the former, and there being no error of law alleged, the case falls within the general rule that a verdict supported by evidence and approved by the trial judge will not be disturbed. <em>Judgment affirmed.</em></p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

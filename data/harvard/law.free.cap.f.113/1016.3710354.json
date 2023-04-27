@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1016\" lastpage=\"1016\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1028-6\">BENZIGER et al. v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AXy\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AS6a\">February 7, 1902.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AJX\">No. 12.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AnKR\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"A69P\">W. Wickham Smith, for appellants.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ARz\">Chas. D. Baker, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"A29d\">Before WALLACE, LACOMBE, and SHIPMAN, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1028-7\">PER CURIAM.</author>\n<p id=\"A91\">Affirmed on opinion of court below. 107 Fed. 257.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

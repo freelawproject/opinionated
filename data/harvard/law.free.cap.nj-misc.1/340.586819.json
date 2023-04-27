@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"340\" lastpage=\"340\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b352-5\">TIFFANY &amp; COMPANY, A BODY CORPORATE, DEFENDANT, v. MARYON ANDREWS D\u2019ERLANGER, PROSECUTOR.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b352-7\">Decided June 12, 1923.</decisiondate>\n<p data-order=\"2\" data-type=\"summary\" id=\"b352-9\">Argued by consent before Minturn, J.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b352-10\">For the prosecutor, <em>George W. McCarter.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b352-11\">For the defendant, <em>Wall, Haight, Carey </em>&amp; <em>Hartpence.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b352-12\">My examination of the record, and my consideration of the arguments and briefs of counsel, have led me to concur in the views expressed by Judge Newman in his opinion filed in this cause in the Circuit.</p>\n<p id=\"b352-13\">The judgment under review will thereupon be affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

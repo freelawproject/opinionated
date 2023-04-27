@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1127\" lastpage=\"1127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1155-30\">STEVENS et al., Appellants, v. ANDREAS, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1155-31\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A2K\">March 5, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1155-33\">Appeal from judgment on report of referee.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1155-34\">Action by Frank A. Stevens and another against Maria W. Andreas;</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1155-35\">Argued before DALY, C. J., and BISOHOPP and PRYOR, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1155-36\">J. Larkin, for appellants.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1155-37\">Morse &amp; Wensley, for respondent</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1155-38\">No opinion. Motion to dismiss appeal for nonservice of printed- papers-granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"956\" lastpage=\"956\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b980-13\">Huber <em>et al., </em>Appellants, <em>v. </em>Ryan <em>et al., </em>Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Azs1\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AFYU\">May 16, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AeYp\">Argued before Larremore, C. J., and Allen and Bookstaver, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A4Z7\"><em>Donald McLean, </em>for appellants. <em>J. F. McIntyre, </em>for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AQE9\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

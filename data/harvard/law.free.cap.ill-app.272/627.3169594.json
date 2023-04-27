@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"627\" lastpage=\"628\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b657-18\" pgmap=\"657\">Max Oswald, appellee, v. Mary Courtney, trading as M. Courtney and Sons, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AmH\" pgmap=\"657\">Gen. No. 36,897.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"A40\" pgmap=\"658\">McSurely, J., dissenting.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AqbR\" pgmap=\"658\">Opinion filed December 11, 1933.</decisiondate><otherdate data-order=\"4\" data-type=\"otherdate\" id=\"A8Z\" pgmap=\"658\">Rehearing denied December 27, 1933.</otherdate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b658-4\" pgmap=\"658\">John A. Bloomingston, for appellant. Joseph D. Ryan and Louis P. Miller, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b658-5\" pgmap=\"658\">Mr. Justice O\u2019Connor</author> <p id=\"AXSz\" pgmap=\"658\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

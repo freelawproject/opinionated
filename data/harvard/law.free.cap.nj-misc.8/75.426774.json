@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"75\" lastpage=\"75\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b89-3\">ANNA ZIEFERT, PLAINTIFF v. WILLIAM E. McGEE, DEFENDANTS.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b89-4\">Decided January 14, 1930.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b89-6\">Before Gummere, Chief Justice, and Justices Kaliscii and Campbell.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b89-7\">For the rule, <em>Alexander Simpson.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b89-8\">\n<em>Contra, Joseph Couli.</em>\n</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b89-9\">Per Curiam.</author>\n<p id=\"b89-10\">Plaintiff was struck and severely injured by an automobile of the defendant.</p>\n<p id=\"b89-11\">She has a verdict of $500 which she asks us to set aside as inadequate.</p>\n<p id=\"b89-12\">We find it to be clearly inadequate, and the rule will therefore be made absolute and a <em>venire de novo </em>will issue for the purpose of retrying all the issues.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

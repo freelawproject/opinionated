@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"943\" lastpage=\"943\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b967-23\">Benson, Respondent, <em>v. </em>Gerlach, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b967-24\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A7p\">May 9, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b967-25\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"Aqjh\"><em>Hamilton R. Squier, </em>for appellant. <em>C. G. Patterson, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADA\">Motion denied; $10 costs of motion to respondent to abide event of appeal. See 4 N. Y. Supp. 273.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

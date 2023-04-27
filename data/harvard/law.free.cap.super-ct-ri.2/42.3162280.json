@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"42\" lastpage=\"42\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b46-22\">Alphonse F. Girard vs. International Braid Company</parties>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Ar7\">Petition</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"ANJ\">No. 218</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AX_c\">April 4, 1919</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AlM\">Por petitioner: Arehambault &amp; Arehambault.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AFo\">Por respondent: Chas. R. Ballou.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADDc\">RESCRIPT</p>\n<author id=\"b46-26\">TANNER, P. J.</author>\n<p id=\"Anu\">Upon consideration of the testimony in this ease, including that of the expert appointed by the Court, we are of the opinion that the petitioner has sustained a total disability which entitles him to one-half his average weekly wage for the statutory period.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

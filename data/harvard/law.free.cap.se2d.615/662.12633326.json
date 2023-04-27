@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"662\" lastpage=\"662\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Markeith Rodgers LAWRENCE.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 293A05.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  June 2, 2005.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Amy C. Kunstling, Assistant Attorney General, Howard S. Boney, District Attorney, for State of NC.\n </attorneys>\n <attorneys id=\"p-6\">\n  Stephen D. Kiess, Greenville, for Markeith Rodgers Lawrence.\n </attorneys>\n <p id=\"p-7\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Attorney General on the 1st day of June 2005 for Writ of Supersedeas of the judgment of the Court of Appeals, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-9\">\n   \"Allowed by order of the Court in conference, this the 2nd day of June 2005.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

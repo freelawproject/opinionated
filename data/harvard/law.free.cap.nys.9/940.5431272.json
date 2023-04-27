@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"940\" lastpage=\"940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b964-4\">Andrews <em>v. </em>Brewster <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b964-5\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ALs\">March 14, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AP7Z\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b964-6\"><em>Wm. Allen Butler, </em>for plaintiff. <em>A. R. Byett, </em>for defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b964-7\">No opinion. Reargument ordered upon the question of damages. Por decision granting motion for new trial on exceptions, see <em>ante, </em>114.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

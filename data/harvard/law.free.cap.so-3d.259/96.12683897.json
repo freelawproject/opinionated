@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"96\" lastpage=\"96\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Andrea Carrasco COHEN, Appellant,\n  <br/>\n  v.\n  <br/>\n  Erez COHEN, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 3D18-739\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Third District.\n </court>\n <decisiondate id=\"p-4\">\n  Opinion filed November 7, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Buchbinder &amp; Elegant, P.A., and Harris J. Buchbinder, for appellant.\n </attorneys>\n <attorneys id=\"p-6\">\n  Erez Cohen, in proper person.\n </attorneys>\n <judges id=\"p-7\">\n  Before LAGOA, SALTER, and LOGUE, JJ.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   PER CURIAM.\n  </author>\n  <p id=\"p-9\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

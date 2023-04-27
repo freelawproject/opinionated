@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"745\" lastpage=\"745\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b761-6\">Bigbee <em>v. </em>Hutcheson.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b761-8\">March 25, 1895.</decisiondate>\n<p data-order=\"2\" data-type=\"headnotes\" id=\"At\">Brought forward from the last term.</p>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b761-9\">Petition for specific performance. Before Judge Wellborn. Lumpkin superior court. April term, 1894.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b761-10\">S. C. Dunlap, II. Thompson and M. G. Boyd, for plaintiff' in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AAb\">Price &amp; Charters and E. H. Baker, contra.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b761-7\">Lumpkin, J.</author>\n<p id=\"ALC\">There being no alleged error of law for review, and the evidence, though conflicting, being amply sufficient to sustain the verdict, the Supreme Court cannot set it aside as being contrary to law and the evidence. <em>Judgment affirmed.</em></p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

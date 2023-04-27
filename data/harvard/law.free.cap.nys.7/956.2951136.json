@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"956\" lastpage=\"956\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b980-9\">Heyderman, Appellant, <em>v. </em>Jenkins, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b980-10\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A7j\">May 16, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AFji\">Argued before Larremore, C. J., and Allen and Bookstaver, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b980-11\"><em>D. Steckler, </em>for appellant. <em>J. F. Horan, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b980-12\">Appeal dismissed, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

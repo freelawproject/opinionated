@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"950\" lastpage=\"950\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b974-19\">In re Brooklyn Cable Co.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b974-20\">(Supreme <em>Court, General Term, Second Department.</em></court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A29c\">June 28, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AIgu\">Argued before Barnard, P. J., and Dykman and Pratt, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b974-21\">Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

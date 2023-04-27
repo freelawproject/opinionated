@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"957\" lastpage=\"957\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b981-4\">Miner, Respondent, <em>v. </em>Edison Company for Isolated Lighting of the City of New York, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b981-5\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A-yg\">May 16, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"Aqqy\">Argued before Larremore, C. J., and Allen and Bookstaver, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"A4e\"><em>Mat\u00f3n &amp; Lewis, </em>for appellant. <em>Howe &amp; Hummel, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AlA8\">Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

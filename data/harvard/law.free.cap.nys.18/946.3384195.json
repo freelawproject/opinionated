@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"946\" lastpage=\"946\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b982-19\">Hogan, Appellant, <em>v. </em>Kavanaugh <em>et al., </em>Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A9P\">\n<em>(Supreme Court, General Term, Fifth Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AQ5z\">April 13, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A7t\">Action by Phoebe J. Hogan against Daniel Kavanaugh and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"An4\">Argued before Dwight, P. J\u201e and Macomber and Lewis, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b982-20\">No opinion. Judgment appealed from affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

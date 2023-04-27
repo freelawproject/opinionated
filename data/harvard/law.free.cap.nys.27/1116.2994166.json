@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1116\" lastpage=\"1116\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1144-21\">ROBLEE v. BARSS.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1144-22\">(Supreme Court, General Term, Third Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AcM\">March 1, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1144-23\">Action by Hiram O. Roblee against William Barss.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1144-24\">Argued before MAYHAM, P. J., and HERRICK and PUTNAM, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1144-25\">No opinion. Motion for leave to go to court of appeals denied, with $10 costs. See 26 N. Y. Supp. 461.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

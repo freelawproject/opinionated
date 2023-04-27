@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"959\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b983-7\">James, Appellant, <em>v. </em>McCreery, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b983-8\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AnsV\">April <em>7, </em>1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"b983-9\">Appeal from special term.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b983-10\">Action by Ada L. James against James McCreery. Plaintiff appeals from order staying proceedings.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b983-11\">Argued before Sedgwick, C. J., and Dugro, J.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b983-12\"><em>Edward E. James, </em>for appellant. <em>W. E. Dunning, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b983-13\">Per Curiam.</author>\n<p id=\"Aazh\">Order affirmed, with $10 costs and disbursements to be taxed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

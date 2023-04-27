@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"760\" lastpage=\"760\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b776-6\">Duncan <em>et al. v. </em>Bluthenthal <em>et al.</em></parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A-i\">April 15, 1895.</decisiondate>\n<judges data-order=\"2\" data-type=\"judges\" id=\"AEk\">By two Justices.</judges>\n<p data-order=\"3\" data-type=\"attorneys\" id=\"Aio\">Brought forward from the last term.</p>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b776-8\">Petition for injunction. Before Judge Janes. Haralson county. August 3, 1894.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b776-9\">John A. Wimpy, for plaintiffs.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ApE\">J. M. McBride and Edwards &amp; Edwards, for defendants.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b776-7\">Simmons, C. J.</author>\n<p id=\"Aa\">Under the facts appearing in the record, there was; no error in denying the injunction prayed for. <em>Judgment affirmed.</em></p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

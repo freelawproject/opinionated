@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"601\" lastpage=\"602\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Marcelo MARTINEZ -CEDILLO, aka Marcelo Martinez, Petitioner,\n  <br/>\n  v.\n  <br/>\n  William P. BARR, Attorney General, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14-71742\n </docketnumber>\n <court id=\"p-3\">\n  United States Court of Appeals, Ninth Circuit.\n </court>\n <decisiondate id=\"p-4\">\n  FILED MARCH 18, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   THOMAS, Chief Judge:\n  </author>\n  <p id=\"p-7\">\n   Upon the vote of a majority of nonrecused active judges, it is ordered that this\n   case be reheard en banc pursuant to Federal Rule of Appellate Procedure 35(a) and Circuit Rule 35-3. The three-judge panel disposition in this case shall not be cited as precedent by or to any court of the Ninth Circuit.\n  </p>\n  <p id=\"p-8\">\n   Judge Miller did not participate in the deliberations or vote in this case.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"941\" lastpage=\"941\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b969-20\"><em>In re </em>Kavanagh\u2019s Estate.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b969-21\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A7d\">October 24, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AU-\">Accounting of the executors of Benjamin A. Kavanagh, deceased. See, also, 5 S. V. Supp. 676; 6 S. V. Supp. 669 ; 9 S. V. Supp. 443, 941; 10 S. Y. Supp. 899.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b969-22\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b969-23\">So opinion. Motion denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

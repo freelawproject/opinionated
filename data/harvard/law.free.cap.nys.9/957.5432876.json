@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"957\" lastpage=\"957\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b981-13\">McKay, Respondent, <em>v. </em>Brewster, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b981-14\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A6iK\">May 7, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AWF\">Argued before Labremore, C. J., and Bookstaver, J.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b981-15\"><em>Chas. E. Le Barbiere, </em>for appellant. <em>Thomas D. Rambaut, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b981-16\">No opinion. Motion to strike case from calendar denied, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

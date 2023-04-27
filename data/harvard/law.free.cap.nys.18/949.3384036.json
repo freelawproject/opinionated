@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"949\" lastpage=\"949\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b985-7\">James S. Virtue &amp; Co., Limited, Respondent, v. Beacham, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Ai4e\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A6k1\"><em>General </em>Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AFNa\">March 7, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Aji9\">Appeal from city court, general term.</summary>\n<p data-order=\"5\" data-type=\"summary\" id=\"b985-8\">Action by James S. Virtue &amp; Co., Limited, against John Beacham. Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b985-9\">P. <em>Q. Eokerson, </em>for appellant. P. <em>Teoumseh Sherman, </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b985-10\">Ho opinion. Judgment affirmed, with costs. See 17 H. Y. Supp. 450.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

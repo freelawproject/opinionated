@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"952\" lastpage=\"952\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b976-11\">Collignor, Appellant, <em>v. </em>Miller, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b976-12\">\n<em>(Supreme Court,General Term, Fifth Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ASBo\">June 22, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AUBG\">Argued before Barker, P. J., and Dwight and Maoomber, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b976-13\">No opinion. Order of special term reversed, with $10 costs and disbursements, on the ground that the court had no power to make such order.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"935\" lastpage=\"935\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b997-22\">In the Matter of PLAY MART, INC., Bankrupt. Robert P. Herzog, Petitioner-Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b997-24\">No. 312, Docket 32815.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b997-25\">United States Court of Appeals Second Circuit.</court>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b997-26\">Argued Jan. 14, 1969.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b997-27\">Decided Jan. 16, 1969.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b997-29\">Robert P. Herzog, pro se.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b997-30\">Before WATERMAN, KAUFMAN and HAYS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b997-31\">PER CURIAM:</author>\n<p id=\"b997-32\">The order of Chief Judge Zavatt of September 9, 1968 is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

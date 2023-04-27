@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1032-5\">METCALF v. AMERICAN SCHOOL FURNITURE CO. et al.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A7B_\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ar6l\">February 4, 1902.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ADW3\">No. 90.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AHH\">Appeal from the Circuit Court of the United States for the Western District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AqP\">Frederick Seymour, for appellant.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"A0Tv\">Before WALLACE, LAOOMBE, and SHIPMAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1032-6\">PER CURIAM.</author>\n<p id=\"AS2Z\">Decree affirmed in open court, with instructions to allow plaintiff 30 days to amend, on payment of costs. For opinion below, see 108 Fed. 909.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

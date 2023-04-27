@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1125\" lastpage=\"1125\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1153-27\">SHAPIRO, Appellant, v. STEUERWALD, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1153-28\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AmeQ\">February 28, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1153-30\">Appeal from fourth district court.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1153-31\">Action by Leib Shapiro against Peter Steuerwald.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1153-32\">Argued before BISCHOFF and GIEGERICH, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1153-33\">M. J. Gretsch, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b1153-34\">M. Strassman, for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1153-35\">\u25a0 No opinion. Judgment reversed, new trial ordered, with costs to appellant to abide the event</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1019\" lastpage=\"1019\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1031-9\">McALLISTER et al. v. SOUTHERN PAC. CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AyHZ\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A4vm\">March 10, 1902.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AD-\">No. 133.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AWY\">Appeal from the District Court of the United States for the Eastern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Aa8s\">Maxwell Kvarts, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ARX\">Nelson Zabriskie, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"Ap-\">Before WALLACE, LACOMBi%pKl TOWNSEND, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1031-10\">PER CURIAM.</author>\n<p id=\"AAN\">Affirmed, on opinion below. See 111 Fed. 938.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

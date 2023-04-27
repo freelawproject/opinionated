@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"955\" lastpage=\"955\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b983-13\">Damon, Respondent, v. New York, N. H. &amp; H. R. Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ABKC\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AOKK\">November 17, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AS5\">Appeal from seventh district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b983-14\">Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b983-15\"><em>Page &amp; Taft, </em>for appellant. <em>Mr. Williams, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b983-16\">No opinion. Appeal dismissed, and judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"392\" lastpage=\"392\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b408-3\">OLLIE OSTENDORF v. STATE.</parties>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b408-4\">No. A-.</p>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ATi\">Opinion Filed Jan. 13, 1914.</decisiondate>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b408-5\">(137 Pac. 1196.)</citation>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b408-8\">A. J. Jones, for plaintiff in error.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b408-9\">PER CURIAM.</author>\n<p id=\"Abg\">The plaintiff, Ollie Ostendorf, was convicted of gaming, and on the 16th day of December, 1912, was sentenced by the court to be confined in the county jail for 30 days and pay a fine of $100. An appeal from this judgment was properly taken. The plaintiff in error has filed a motion to dismiss the appeal, which motion is hereby sustained, and the cause remanded to the lower court, with directions to enforce the judgment herein.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

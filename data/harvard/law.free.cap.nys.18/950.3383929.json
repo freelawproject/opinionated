@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"950\" lastpage=\"950\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b986-18\">Baldwin, Respondent, v. Thibadeau, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b986-19\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AsEp\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A_qY\">March 17, 1892.)</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"AVX\">Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b986-20\"><em>W. Parker, </em>for appellant. <em>8. F. Higgins, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ADCJ\">Ho opinion. Motion for reargument denied, but appellant may have leave to appeal to the court of appeals, if she desires so to do. See 14 N. Y. Supp. 788; 17 N. Y. Supp. 532.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

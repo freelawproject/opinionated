@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b570-7\">Arthur VANMOOR, Plaintiff-Appellant, v. SONOCO PRODUCTS COMPANY, INC., Defendant-Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b570-10\">No. 02-1382.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b570-11\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b570-12\">Jan. 10, 2003.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b570-14\">Before CLEVENGER, RADER, and GAJARSA, Circuit Judges.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b570-15\">Judgment</p>\n<author id=\"b570-16\">PER CURIAM.</author>\n<p id=\"b570-17\">This CAUSE having been heard and considered, it is ORDERED and ADJUDGED:</p>\n<p id=\"b570-18\">AFFIRMED. <em>See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

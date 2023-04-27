@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b984-5\"><em>In re </em>Department of Public Parks. <em>In re </em>O\u2019Brien.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b984-7\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AbjN\">December 2, 1889.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A26s\">Motion to confirm report of commissioners of estimate.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b984-8\">Argued before Van Brunt,P. J., and Barrett and Cullen, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b984-9\"><em>Wm. H. Clark, </em>for the Department of Public Parks. <em>Andrew A. Henderson, </em>for Maria O\u2019Brien.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b984-10\">Per Curiam.</author>\n<p id=\"AaOA\">Report sent back to commissioners for revision.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

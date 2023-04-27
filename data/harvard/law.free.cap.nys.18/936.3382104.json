@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"936\" lastpage=\"936\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b972-17\">Foerster <em>et al. v. </em>Gallinger <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b972-18\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AlOL\">March 31, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b972-19\">Action by William Foerster and others against Joseph Gallinger and another</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b972-20\">Argued before Van Brunt, P. J., and O\u2019Brien and Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b972-21\">No opinion. Motion denied. See 17 N. Y. Supp. 144.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

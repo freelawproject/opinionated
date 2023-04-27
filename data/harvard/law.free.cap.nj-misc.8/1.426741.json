@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1\" lastpage=\"1\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b15-4\">PETER PETERSON, PLAINTIFF, v. REBECCA KRINICK AND HARRY KRINICK, DEFENDANTS.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b15-5\">Submitted May term, 1929</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"As\">Decided December 21, 1929.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b15-6\">Before Justices Trenchard, Lloyd and Case.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b15-7\">Bor the plaintiff, Goult, <em>Satz &amp; Tomlinson.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b15-8\">Bor the defendants, <em>Turner &amp; Stalter.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b15-9\">Per Curiam.</author>\n<p id=\"b15-10\">This is an application for rule to show cause why a new trial should not be granted on the ground that the verdict was excessive. An examination of the proofs and the arguments leads ns to the conclusion that a rule to show cause should issue. Let it issue accordingly.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

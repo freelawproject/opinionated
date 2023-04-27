@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"944\" lastpage=\"944\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b968-16\">Kohler <em>et al. v. </em>Lindenmeyer.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b968-17\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ARc\">May 9, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AzT\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b968-18\">No opinion. Motion denied, with $10 costs to abide event of appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

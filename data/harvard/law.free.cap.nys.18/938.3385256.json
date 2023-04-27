@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"938\" lastpage=\"938\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b974-14\">Schlesinger <em>et al., </em>Respondents, <em>v. </em>Christian <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b974-15\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AF8W\">March 31, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b974-16\">Action by Charles Schlesinger and others against William A. Christian and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b974-17\">Argued before Van Brunt, P. J., and O\u2019Brien and Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b974-18\">No opinion. \u2022 Motion to dismiss appeal granted, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

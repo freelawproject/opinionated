@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"511\" lastpage=\"511\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"court\" id=\"b571-3\">Staunton</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b571-4\">Town of Bluefield, a Municipal Corporation v. Joe B. Lawrence.</parties>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b571-6\">September 21, 1933.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b571-7\">Present, Campbell, C. J., and Holt, Epes, Hudgins, Gregory and Browning, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b571-11\"><em>Kenneth C. Patty, </em>for the plaintiff in error.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b571-12\"><em>N. Clarence Smith, </em>for the defendant in error.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b571-9\">Per Curiam.</author>\n<p id=\"b571-10\">Upon rehearing, September 20, 1934, the opinion was affirmed by equally divided court. No opinion. Former opinion (170 S. E. 577) withdrawn.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

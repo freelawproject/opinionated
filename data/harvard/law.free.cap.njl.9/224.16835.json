@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"281\" lastpage=\"281\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b295-6\">Anonymous.</parties>\n<summary data-order=\"1\" data-type=\"summary\" id=\"b295-7\">AFFIDAVITS.</summary>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"b295-8\">\n<em>Scott,</em>\n</attorneys>\n<p data-order=\"3\" data-type=\"legal\" id=\"ARG\">asked the court, whether when one party obtains a rule for taking affidavits, that rule is a sufficient warrant to authorize the other party to take affidavits also ?</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b295-9\">The Chief Justice said, the practice is, when a general rule is obtained by one party to take affidavits for a specific purpose, then both parties have leave, by virtue of the rule, to take affidavits.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

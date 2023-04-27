@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b982-8\">Hall, Respondent, <em>v. </em>Dannerlein, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b982-9\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ayq3\">November 13, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"A_6\">Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b982-10\"><em>H. C. Henderson, </em>for appellant. <em>Thos. S. Bassford, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b982-11\">No opinion. Motion to dismiss appeal for non-service of papers denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

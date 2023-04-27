@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX REL. Rosheed GUILLORY\n  <br/>\n  v.\n  <br/>\n  STATE of Louisiana\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2017-KH-0945\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  January 8, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE FIFTEENTH JUDICIAL DISTRICT COURT, PARISH OF LAFAYETTE\n  </strong>\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM:\n  </author>\n  <p id=\"p-7\">\n   Writ granted in part. The district court is ordered to provide relator with the court's judgment denying his post-conviction application, which he is entitled as of right. La.C.Cr.P. art. 930.1. Upon receipt of those documents, relator shall have a reasonable opportunity to file an application for supervisory writs in the court of appeal.\n  </p>\n  <p id=\"p-8\">\n   CLARK, J., would deny.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

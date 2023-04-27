@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1023\" lastpage=\"1023\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1095-9\">WALLACE v. LANTRY.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A-K\">(Circuit Court, D. Kansas, First Division.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AqeG\">August 19, 1898.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"ABsP\">Before WILLIAMS and PHILIPS, District Judges.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1095-10\">PHILIPS, District Judge.</author>\n<p id=\"A4h\">The facts, as disclosed by the pleadings and the motions and demurrers in this case, are identical with those in the case No. 7,543 (Same Receiver v. Hood, 89 Fed. 11), with the exception, that the amount of stock purchased by defendant, Lantry, was 200 shares, and with the exception that there is no ground for the suggestion contained in the opinion in No. 7,543 that defendant. Lantry, was a director of the hank. For the reasons assigned in said opinion, the demurrers are sustained.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

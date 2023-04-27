@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"958\" lastpage=\"958\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b994-22\">Duff, Respondent, <em>v. </em>Russell, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b994-23\">\n<em>(Superior Court of New York City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AkG\">December 14, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b994-24\">Action by James O, Duff against Lillian Russell. Defendant appeals from judgment rendered at the equity term of the court in favor of plaintiff.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b994-25\">Argued before McAdam and Gildersleeve, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b994-26\"><em>Howe &amp; Hummel, </em>for appellant. <em>Vanderpoel, Green &amp; Cuming, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b994-27\">Per Curiam.</author>\n<p id=\"AkK\">Judgment affirmed, with costs, upon the opinion of the trial judge. 14 N. Y. Supp. 134.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

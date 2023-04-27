@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1122\" lastpage=\"1122\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1150-21\">FLANAGAN, Appellant, v. FOX, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1150-22\">(Common Pleas of New York City and County, General Term.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AMbn\">February 5, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1150-24\">Appeal from city court.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b1150-25\">Action by James Flanagan, as executor, etc., against Patrick Fox.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b1150-26\">Argued before BOOKSTAVER, BISCHOFF, and PRYOR, JJ.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1150-27\">No opinion. Motion for leave to appeal to the court of appeals granted. See 26 N. Y. Supp. 48.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

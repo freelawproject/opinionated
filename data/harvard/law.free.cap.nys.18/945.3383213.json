@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"945\" lastpage=\"945\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b981-8\">Zimmer, Respondent, v. New York Cent. &amp; H. R. R. Co., Appellant,</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A7Et\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A1D\">March 15, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AaK\">Action by Alvah J. Zimmer against the Hew York Central &amp; Hudson River Railroad Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b981-9\">Argued before Mayham, P. J., and Putnam and Herrick, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b981-10\">Ho opinion. Motion to amend order of previous general term granted. See 16 N. Y. Supp. 631.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

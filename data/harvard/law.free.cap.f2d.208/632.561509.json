@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"632\" lastpage=\"632\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b680-14\">R. L. HARDING, Plaintiff-Appellant, v. P. V. CAVANAUGH et al., Defendants-Appellees.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b680-16\">No. 55, Docket 22705.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b680-17\">United States Court of Appeals Second Circuit.</court>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b680-18\">Argued Dec. 10, 1953.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b680-19\">Decided Dec. 29, 1953.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b680-21\">R. L. Harding, pro se.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b680-22\">Ernest H. Halstedt, Asst. Atty. Gen., for defendants-appellees.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"b680-23\">Before CHASE, Chief Judge, and L. HAND and MEDINA, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b680-24\">PER CURIAM.</author>\n<p id=\"b680-25\">Judgment affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

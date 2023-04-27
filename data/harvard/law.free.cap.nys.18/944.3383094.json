@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"944\" lastpage=\"944\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b980-9\">Bradt, Respondent, <em>v. </em>Scott <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b980-10\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Adz\">March 15, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AfrQ\">Action by Fred A. Bradt against James T. Scott and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b980-11\">Argued before Mayham, P. J., and Putnam and Herrick, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b980-12\">Ho opinion. Order opening default on payment of costs. See 18 N. Y. Supp. 507.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

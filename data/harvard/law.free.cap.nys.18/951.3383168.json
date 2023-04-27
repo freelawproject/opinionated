@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"951\" lastpage=\"951\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b987-4\">Mackay, Respondent, <em>v. </em>Kahn, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b987-5\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AIdL\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AZHl\">March 17, 1892.)</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"Ak0\">Argued before Daly, 0. J., and Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b987-6\"><em>Aaron </em>Kahr, appellant, <em>pro se. L. B. Bunnell, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b987-7\">No opinion. Motion for leave to appeal to the court of appeals is denied\u00bb with $10 costs. See 17 N. Y. Supp. 503.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

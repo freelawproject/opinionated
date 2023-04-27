@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"944\" lastpage=\"944\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b968-20\">Munro, Respondent, v. Tousey, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ANj\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AKU\">May 9, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"And\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AP8\"><em>Wm. H. Townley, </em>for appellant. <em>Roger Foster, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0zl\">No opinion. Motion denied, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

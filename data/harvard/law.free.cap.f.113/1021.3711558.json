@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1021\" lastpage=\"1021\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"As3\">WITHEROW v. CARNEGIE STEEL CO.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ATID\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A3jq\">February 5, 1902.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AFR\">No. 117.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AWsy\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AQt\">H. M. Hitchings, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AZT\">John R. Bennett, for appellee.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AMRY\">Before WALLACE, LACOMBE. and SHIPMAN, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AXqD\">Dismissed in open court for lack of jurisdiction.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

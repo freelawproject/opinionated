@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"942\" lastpage=\"942\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b978-8\">Molloy <em>et al. v. </em>Board of Health.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b978-9\">\n<em>(Supreme Court, General Term, Second Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AtO\">December, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AzWe\">Action by William Y. Molloy and Frank W. Molloy against the board of health of the town of Mamaroneek.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b978-10\">Argued before Barnard, P. J., and Pratt, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b978-11\">Ho opinion. Motion denied. See 15 N. Y. Supp. 487.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

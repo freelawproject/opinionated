@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"92\" lastpage=\"92\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Steven BEEBE, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-3385\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  October 17, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Petitioner's petition for writ of habeas corpus is denied.\n  </p>\n  <judges id=\"p-7\">\n   LaROSE, C.J., and MORRIS and SALARIO, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

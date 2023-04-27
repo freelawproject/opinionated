@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"958\" lastpage=\"958\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b982-17\">Lane, Respondent, <em>v. </em>Robinson <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b982-18\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AD4\">May 15, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A5_L\">Appeal from city court, general term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b982-19\">Argued before Larremore, C. J., and Bookstaver, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b982-20\"><em>P. C. Talman, </em>for appellants. <em>Hascall, Clarke &amp; Vanderpoel, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b982-21\">No opinion. Ordered that the judgment be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

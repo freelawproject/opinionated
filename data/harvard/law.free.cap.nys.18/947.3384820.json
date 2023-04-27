@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"947\" lastpage=\"947\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b983-17\">Wells, Respondent, <em>v. </em>Sibley <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b983-18\">\n<em>(Supreme Court, General Term, Fifth Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aha\">April 13, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b983-19\">Action by George W. Wells against Rufus A. Sibley and others.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b983-20\">Argued before Dwight, P. J., and Macomber and Lewis, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b983-21\">No opinion. Motion for leave to appeal to the court of appeals granted. See 17 N. Y. Supp. 417.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

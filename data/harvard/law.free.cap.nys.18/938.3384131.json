@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"938\" lastpage=\"938\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b974-8\">Reich <em>v. </em>Cochran.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b974-9\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AkMS\">March 31, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AinJ\">Action by Lorenz Reich against William F. Cochran.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b974-10\">Argued before Van Brunt, P. J., and O\u2019Brien and Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A10b\">No opinion. Motion granted, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

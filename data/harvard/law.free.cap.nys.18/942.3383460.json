@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"942\" lastpage=\"942\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b978-12\">Saunders <em>v. </em>New York Cent. &amp; H. R. R. Co.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b978-13\">\n<em>(Supreme Court, General Term, Second Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A0_x\">December, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AxcR\">Action by Alexander Saunders against the Hew York Central <em>&amp; </em>Hudson River Railroad Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b978-14\">Argued before Barnard, P. J., and Pratt, J.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b978-15\">Ho opinion. Judgment affirmed, with costs, on opinion in <em>Railroad Co. </em>v. <em>Aldridge, </em>(Sup.) 16 N. Y. Supp. 674.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

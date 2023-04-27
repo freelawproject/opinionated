@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"841\" lastpage=\"841\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b889-20\">Henderson RICHARDSON v. C. H. LOONEY, Warden, United States Penitentiary, Leavenworth, Kansas.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b889-37\">No. 5995.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b889-38\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b889-39\">Nov. 19, 1958.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b889-41\">Charles Edward Wright, Denver, Colo., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b889-42\">Wilbur G. Leonard, U. S. Atty., and E. Edward Johnson, Asst. U. S. Atty., Topeka, Kan., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b889-43\">Before PHILLIPS, MURRAH and LEWIS, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b889-5\">PER CURIAM.</author>\n<p id=\"b889-6\">Appeal dismissed on application of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

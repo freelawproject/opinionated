@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"957\" lastpage=\"957\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b981-4\">Popper, Appellant, <em>v. </em>Cotte <em>et al., </em>Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b981-5\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A3eP\">May 6, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AU8c\">Appeal from first district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b981-6\">Argued before Larremore, C. J., and Bookstaver, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b981-7\"><em>H. Cooper, </em>for appellant. <em>J. Callahan, </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b981-8\">No opinion. Ordered that the final order be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

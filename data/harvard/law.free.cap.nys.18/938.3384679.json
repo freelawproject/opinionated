@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"938\" lastpage=\"938\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b974-4\">Pincus, Appellant, <em>v. </em>Dry Dock, E. B. &amp; B. R. Co., Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ATB1\">(Supreme Court, General <em>Term, First Department.</em></court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AYoo\">March 31, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b974-5\">Action by Isaac Pincus against the Dry Dock, East Broadway &amp; Battery Railroad Co.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b974-6\">Argued before Van Brunt, P. J., and O\u2019Brien and Ingraham, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b974-7\">No opinion. Motion to dismiss appeal granted, with $10 costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

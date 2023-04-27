@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"946\" lastpage=\"946\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b970-8\">Rumsey <em>v. </em>New York &amp; N. E. R. Co.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b970-9\">\n<em>(Supreme Court, General Term, Second Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AjxV\">December 9, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AqH6\">Argued before Dykman and Pratt, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b970-10\">No opinion. Judgment affirmed, with costs. For former report, see 4 N. Y. Supp. 293.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

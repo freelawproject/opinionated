@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"300\" lastpage=\"300\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b312-7\">LEONARD KELLY, PROSECUTOR, v. THE MAYOR AND BOARD OF ALDERMEN OF THE TOWN OF MORRISTOWN, ANGELO J. A. BENNELL AND FREDERICK HOFF, DEFENDANTS.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b312-8\">Decided June 6, 1923.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b312-10\">Before Justices Kalisch, Black and Katzenbach.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b312-11\">For the prosecutor, <em>James H. Bolitho.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b312-12\">For the defendants, <em>Nathaniel C. Toms.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b312-13\">Per Curiam.</author>\n<p id=\"b312-14\">The questions involved in this case are the same as have been passed upon by us in No. 204 of the November term, 1922, in which Michael Kelly was prosecutor and against the same defendants, and for the reasons stated in the opinion filed in that case the conviction herein is set aside, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

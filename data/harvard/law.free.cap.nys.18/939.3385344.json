@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"939\" lastpage=\"939\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b975-4\"><em>In re </em>Mayor, Etc., of City of New York.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b975-5\">\n<em>(Supreme Court, General Term, First Department</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aq-\">April 14, 1892.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AXVx\">Applications by the mayor, etc., of the city of New York in respect to lands between Thirty-Fourth and Thirty-Fifth streets, and between Thirty-Fifth and Thirty-Sixth streets, respectively.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b975-6\">Argued before Van Brunt, P. J., and O\u2019Brien and Andrews, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b975-7\">No opinion. Order affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

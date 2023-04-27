@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b984-21\">Clapp, Respondent, v. Atterbury <em>et al., </em>Appellants.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ABHP\">\n<em>(Superior Court of New York, City, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"At23\">June 20, 1888.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"A6P\">Argued before Sedgwick, C. J., and Truax, J.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b984-22\"><em>Logan &amp; Melliss, </em>for appellants. <em>Philip Carpenter, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3X\">Judgment affirmed. See 6 N. Y. Supp. 510.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

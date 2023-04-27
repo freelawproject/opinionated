@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"256\" lastpage=\"256\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b292-13\">Dutchess County Mut. Ins. Co. v. Van Wagonen <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b292-14\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ae0\">October, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b292-15\">Appeal from special term, Ulster county.</summary>\n<summary data-order=\"4\" data-type=\"summary\" id=\"b292-16\">Action by the Dutchess County Mutual Insurance Company against Frederick S. Van Wagonen and Jacob D. Van Wagonen. The complaint was dismissed, and plaintiff appeals.</summary>\n<p data-order=\"5\" data-type=\"judges\" id=\"b292-17\">Argued before Learned, P. J\u201e and Landon and Mayham, JJ.</p>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b292-18\"><em>Wilkinson &amp; Cossum, </em>for appellant. <em>A. T. Clearwater, </em>for respondents.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b292-19\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

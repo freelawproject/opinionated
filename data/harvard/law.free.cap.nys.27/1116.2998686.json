@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1116\" lastpage=\"1116\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1144-4\">GLOCKER v. SPENCER OPTICAL WORKS.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1144-5\">(Supreme Court, General Term, Third Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AIun\">March 1, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1144-6\">Action by Carl Glocker against the Spencer Optical Works.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1144-7\">Argued before MAYHAM, P. X, and HERRICK and PUTNAM, JX</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9SG\">No opinion. Motion for leave to go to court of appeals granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

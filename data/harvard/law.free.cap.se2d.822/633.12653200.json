@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"633\" lastpage=\"633\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Raymond Craig JOHNSON\n </parties>\n <docketnumber id=\"p-2\">\n  No. 431P18\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  January 30, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Daniel P. O'Brien, Special Deputy Attorney General, James R. O'Neill, District Attorney, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-6\">\n  Raymond Craig Johnson, for Johnson, Raymond Craig\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Defendant on the 10th of December 2018 in this matter for a writ of certiorari to review the order of the North Carolina Court of Appeals, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-9\">\n   \"Dismissed by order of the Court in conference, this the 30th of January 2019.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

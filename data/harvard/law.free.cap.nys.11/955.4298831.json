@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"955\" lastpage=\"955\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b983-25\">Shailer, Appellant, v. Morgan, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b983-26\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AN1\">November 17, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AiJC\">Appeal from eleventh district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b983-27\">Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b983-28\"><em>Hatch </em>&amp; <em>Warren, </em>for appellant. <em>E. C. O\u2019Brien, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b983-29\">No opinion. Judgment reversed, new trial ordered, costs to abide the event. See 9 N. Y. Supp. 492.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

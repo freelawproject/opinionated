@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b982-12\">Meyers, Respondent, <em>v. </em>Metropolitan El. R. Co., Appellant, (two cases.)</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b982-14\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Afoc\">November 13, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"A-U\">Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b982-15\"><em>Davies &amp; Rapallo, </em>for appellant. <em>Abbett &amp; Fuller, </em>for respondent. \u2022</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b982-16\">No opinion. Motion to dismiss appeal for non-service of printed papers denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

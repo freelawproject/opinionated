@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"950\" lastpage=\"950\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b974-22\">Cook <em>v. </em>Lalance &amp; Grosjean Manuf\u2019g Co.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AVC\">\n<em>(Supreme Court, General Term, Second Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AHK\">June 28, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AIdO\">Argued before Barnard, P. J., and Dykman and Pratt, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b974-23\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

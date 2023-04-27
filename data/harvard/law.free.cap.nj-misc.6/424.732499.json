@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"424\" lastpage=\"424\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b440-3\">MARTIN FORD, PROSECUTOR, v. VILLAGE OF RIDGEWOOD, DEFENDANT.</parties>\n<otherdate data-order=\"1\" data-type=\"otherdate\" id=\"b440-4\">Argued January 18, 1928</otherdate>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AXSG\">Decided May 1, 1928.</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b440-6\">Before Justices Parker, Minturn and Campbell.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b440-7\">For the prosecutor, <em>Frank Bergen.</em></attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b440-8\">For the defendant, <em>J. Willard De Yoe.</em></attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b440-9\">Per Curiam.</author>\n<p id=\"b440-10\">This case is controlled by the views expressed by us in the case of Public Service Electric and Gas Company against the same defendant, number 273 of the present term; and, for the reasons given in that case, the conviction under review will be set aside.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1108\" lastpage=\"1108\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1136-21\">AMERICAN EXCH. NAT. BANK, Respondent, v. CHEEVER, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1136-22\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AUE7\">March 16, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1136-23\">Action by the American Exchange National Bank against John H. Oheever.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"A4U\">Argued before VAN BRUNT, P. X, and O\u2019BRIEN and FOLLETT, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1136-24\">J. J. Myers, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1136-25\">M. H. Cardoze, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1136-26\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

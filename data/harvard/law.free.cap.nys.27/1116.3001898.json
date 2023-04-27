@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1116\" lastpage=\"1116\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1144-8\">GREEN v. EASTON.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1144-9\">(Supreme Court, General Term, Third Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEqf\">March 1, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1144-10\">Action by H. Cooley Green against Daniel C. Easton.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1144-11\">Argued before MAYHAM, P. X, and HERRICK and PUTNAM, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1144-12\">No opinion. Motion for reargument denied, with $10 costs. See 26 N. Y. Supp. 553.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

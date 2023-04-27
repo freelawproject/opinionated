@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"959\" lastpage=\"959\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b983-26\">Rauch, Respondent, <em>v. </em>New York, L. <em>&amp; </em>W. R. Co., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b983-27\">\n<em>(Superior Court of Buffalo, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AMa\">November 19, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b983-28\">Argued before Beckwith, C. J., and Hatch, J.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b983-29\">No opinion. Judgment reversed, and new trial ordered, with costs to abide the event, on opinion of Titus, J.,in <em>Reming </em>v. <em>Railroad Co., </em>7 N. Y. Supp. 516.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

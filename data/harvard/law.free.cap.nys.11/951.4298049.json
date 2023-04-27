@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"951\" lastpage=\"951\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b979-8\">Lyman <em>et al. v. </em>Stephenson.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b979-9\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ac9A\">November 3, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"AyQ\">Appeal from special term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b979-10\">Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b979-11\"><em>J. </em>N. <em>Hayes, </em>for appellant. <em>F. T. Murphy, </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b979-12\">No opinion. Motion to dismiss appeal denied, and case struck off calendar.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"940\" lastpage=\"940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b964-19\"><em>In re </em>Department of Public Parks. <em>In re </em>Bolton\u2019s Estate.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b964-21\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AyNE\">March 14, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AfNU\">Argued before Brady and Daniels, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b964-22\"><em>A. O. Salter, </em>for petitioner. <em>Wm. H. Clark, </em>Corp. Counsel.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b964-23\">No opinion. Motion denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"943\" lastpage=\"943\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b979-19\">Leedings, Appellant, <em>v. </em>Wilsey, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b979-20\">\n<em>(Supreme Court, General Term, Third Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AkHo\">December 5, 1891.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"A5B\">Action by John Leedings against Daniel Wilsey.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b979-21\">Argued before Barnard, P. J., and Dykman and Pratt, JJ.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b979-22\">Ho opinion. Judgment of county court affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"752\" lastpage=\"752\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b800-4\">No. -. Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AEQ\"><em>Ex parte: </em>In the Matter of Daniel E. Strub, Petitioner.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AjP\">Submitted April 27, 1914.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aj3\">Decided May 4, 1914.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AoQb\"><em>Mr. Joe Kirby </em>for the petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AfCG\">Motion for leave to file petition for writ of mandamus denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

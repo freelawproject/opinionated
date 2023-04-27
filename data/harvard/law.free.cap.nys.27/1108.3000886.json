@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1108\" lastpage=\"1108\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1136-4\">STUYVESANT, Respondent, v. NEW YORK FLOATING DRY-DOCK CO., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1136-6\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A3W\">February 16, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1136-7\">Action by Amelia Stuyvesant against the New York Floating Dry-Dock Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1136-8\">Argued before VAN BRUNT, P. X, and O\u2019BRIEN and FOLLETT, JX</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"APOX\">J. Adriance Bush, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1136-9\">Geo. V. N. Baldwin, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1136-10\">No opinion. Judgment affirmed, with costs on opinion of referee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

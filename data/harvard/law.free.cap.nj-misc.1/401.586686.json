@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"401\" lastpage=\"402\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b413-12\">CITY OF BRIDGETON, DEFENDANT IN CERTIORARI, v. LEON LOPER, PROSECUTOR IN CERTIORARI.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b413-13\">Decided July 14, 1923.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"Anh\">Before Justices Kalisch, Black and Kaizenbach.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b413-16\">For the prosecutor, <em>Rex A. Donnelly.</em></attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b413-17\">For the defendant, <em>Walter H. Bacon, Jr.</em></attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b414-3\"><page-number citation-index=\"1\" label=\"402\">*402</page-number>Per Curiam.</author>\n<p id=\"b414-4\">For the reasons given in the <em>per curiam </em>opinion filed in the <em>City of Bridgeton, </em>defendant in <em>certiorari, </em>v. <em>Hugh Smith, Jr., </em>prosecutor in <em>certiorari, </em>the judgment in this case is reversed, with costs. See <em>City of Bridgeton </em>v. <em>Smith, ante p. </em>398.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

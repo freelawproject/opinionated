@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"944\" lastpage=\"944\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b968-14\">Kell, Appellant, v. Isaacs <em>et al., </em>Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b968-15\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ahfj\">May 9, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"A4D9\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AE2\"><em>Blumenstiel &amp; Hirsch, </em>for appellants. <em>Benno Loewy, </em>for respondents.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AiX\">No opinion. Motion denied. \u25a0</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"956\" lastpage=\"956\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b980-28\">Freund, Respondent, v. Schlavsky, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b980-29\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ASTQ\">May 6, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AL9\">Appeal from fifth district court.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b980-30\">Argued before Larremore, C. J., and Bookstaver, J.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b980-31\"><em>A. H. Berrick, </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b980-32\">No opinion. Judgment affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

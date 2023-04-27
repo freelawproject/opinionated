@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"957\" lastpage=\"957\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b981-16\">Vincent, Appellant, <em>v. </em>Preferred Mut. Acc. Ass\u2019n, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b981-17\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aqqv\">May 6, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"A896\">Argued before Larremore, C. J., and Allen and Bookstaver, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b981-18\"><em>W. B. Kingham, </em>for appellant. <em>Blair &amp; Rudd, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AGsC\">Judgment affirmed, with costs. (Memorandum on papers.)</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

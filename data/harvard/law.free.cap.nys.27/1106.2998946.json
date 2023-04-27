@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1106\" lastpage=\"1106\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1134-28\">MITCHELL, Respondent, v. O\u2019REILLY, SKELLY &amp; FOGARTY CO., Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1134-30\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aii\">February 16, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"pAbIO\">Action by Samuel M. Mitchell against O\u2019Reilly, Skelly &amp; .Fogarty Company.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b1134-31\">Argued before VAN BRUNT, P. X, and O\u2019BRIEN and FOLLETT, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1134-32\">E. W. S, Johnson, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1134-33\">G. W. Blunt, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1134-34\">No opinion. Judgment and order affirmed, with costs.'</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

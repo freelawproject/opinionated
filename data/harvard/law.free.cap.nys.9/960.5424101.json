@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"960\" lastpage=\"960\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b984-7\">Sullivan <em>et al., </em>Appellants, <em>v. </em>Portington, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b984-8\">\n<em>(Superior Court of Buffalo, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Agu\">November 19, 1889.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"b984-9\">Argued before Beckwith, C. J., and Titus and Hatch, JJ.</p>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b984-10\">No opinion. Judgment of municipal court modified, by making judgment herein in favor of plaintiff for the sum of $157.72, and, as so modified, affirmed, without costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

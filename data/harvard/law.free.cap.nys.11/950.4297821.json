@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"950\" lastpage=\"950\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b978-23\">Foley, Respondent, <em>v. </em>Foley, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b978-24\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AqFz\">November 3, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"history\" id=\"ACq\">Appeal from special term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b978-25\">Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b978-26\"><em>G. W. Galinger, </em>for appellant. <em>Abbott Bros., </em>for respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b978-27\">No opinion. Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

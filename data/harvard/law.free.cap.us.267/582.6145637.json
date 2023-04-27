@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"582\" lastpage=\"582\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b622-5\">No. 12,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AGv\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Ayh\">State of New Mexico <em>v. </em>State of Colorado.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ABa7\">Motion for modification .of decree submitted March 2, 1925.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Amao\">March 9, 1925,</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"APjW\"><em>Messrs. F. W. Clancy, O. A. Larrazolo </em>and <em>Jay Turley </em>for complainant. <em>Messrs. Wm. L. Boatright, Victor E. Keyes, Delph E. Carpenter, Oliver Dean </em>and <em>Chas. Roach, </em>for defendant.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Axg3\">petition for modification of opinion in this cause denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

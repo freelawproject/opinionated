@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1107\" lastpage=\"1107\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1135-25\">SMITH, Respondent, v. RENTZ, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b1135-26\">(Supreme Court, General Term, First Department.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AAp2\">February 16, 1894.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b1135-27\">Action by Eugene Smith, as executor, etc., against Fredericka Rentz.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"AKW\">Argued before VAN BRUNT, P. J., and O\u2019BRIEN and FOLLETT, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"ACr8\">Leopold Leo, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1135-28\">H. B- Olosson, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b1135-29\">No opinion. Judgment affirmed, with costs. See 26 N. Y. Supp. 1115.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

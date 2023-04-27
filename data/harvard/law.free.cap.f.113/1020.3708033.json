@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1032-11\">TRAIN et al. v. UNITED STATES.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"AZmD\">(Circuit Court of Appeals, Second Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AN1\">January 4, 1902.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"AfY\">No. 27.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"APM\">Appeal from the Circuit Court of the United States for the Southern District of New York.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AaP1\">Albert Comstock, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AJ5\">D. Frank Lloyd, for the United States.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"AHuu\">Before WALLACE and LAOOMBE, Circuit Judges.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1032-12\">PER CURIAM.</author>\n<p id=\"Ao3\">Decision of circuit court affirmed, on opinion below. 107 Fed. 261.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

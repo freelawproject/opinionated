@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"782\" lastpage=\"782\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b798-8\">Clark, next friend, <em>v. </em>Flannery &amp; Co.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b798-10\">May 13, 1895.</decisiondate>\n<p data-order=\"2\" data-type=\"headnotes\" id=\"AdH\">Brought forward from the last term.</p>\n<summary data-order=\"3\" data-type=\"summary\" id=\"b798-11\">Petition for injunction. Before Judge Smith. Pulaski county. January 12, 1895.</summary>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b798-12\">W. L. &amp; Warren Grice, for plaintiff.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b798-13\">J. H. Martin, for defendants.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b798-9\">Atkinson, J.</author>\n<p id=\"AFj\">On the facts disclosed by the record, there was no error in denying the injunction. <em>Judgment affirmed.</em></p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

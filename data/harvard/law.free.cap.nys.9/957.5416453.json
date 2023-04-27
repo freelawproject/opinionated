@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"957\" lastpage=\"957\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b981-9\">Odell, Respondent, <em>v. </em>New York El. R. Co., Appellant, (two cases.)</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b981-10\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ait\">May 7, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AKMI\">Argued before Labremore, C. J., apd Bookstaver, J.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b981-11\"><em>Davies &amp; Rapallo, </em>for appellant. <em>Sackett </em>&amp; <em>Bennett, </em>for respondent.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b981-12\">No opinion. Motion to dismiss appeals from special term granted, with $10 costs. See 8 N. Y. Supp. 951.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

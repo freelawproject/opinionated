@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"943\" lastpage=\"943\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b967-19\">Chester <em>v. </em>Jumel <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b967-20\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"A4jA\">March 28, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"A8xk\">Argued before Van Brunt, P. J., and Brady and Daniels, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b967-21\"><em>E. Winslow Paige, </em>for plaintiff. <em>Everett P. Wheeler, </em>for defendants.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b967-22\">No opinion. Motion denied, with $10 costs. See 4 N. Y. Supp. 955; 5 N. Y. Supp. 809, 819, 822, 823; 7 N. Y. Supp. 949.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

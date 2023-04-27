@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"940\" lastpage=\"940\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b964-24\">Geisenheimer <em>v. </em>Simons <em>et al.</em></parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b964-25\">\n<em>(Supreme Court, General Term, First Department.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Am1Q\">March 14, 1890.)</decisiondate>\n<p data-order=\"3\" data-type=\"judges\" id=\"AqiE\">Argued before Van Brunt, P. J., and Bartlett and Barrett, JJ.</p>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AS64\"><em>Joseph Kohler, </em>for plaintiff. <em>John Fennel, </em>for defendants.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b964-26\">No opinion. Motion denied, on appellant\u2019s stipulating to argue at May term.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"532\" lastpage=\"532\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Matthew LAINE, Appellant/Petitioner(s),\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Appellee/Respondent(s).\n </parties>\n <docketnumber id=\"p-2\">\n  CASE NO.: 2D18-4776\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-4\">\n  December 18, 2018\n </decisiondate>\n <p id=\"p-5\">\n  BY ORDER OF THE COURT:\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   The petitioner's petition for writ of habeas corpus is dismissed. See Netting v. State,\n   <extracted-citation case-ids=\"7259011\" index=\"0\" url=\"https://cite.case.law/so-3d/129/429/#p432\">\n    129 So. 3d 429\n   </extracted-citation>\n   , 432 (Fla. 1st DCA 2013) (\"lneffective assistance of postconviction counsel is not a cognizable claim in Florida, because there is no constitutional entitlement to the appointment of postconviction counsel.\"); Fla. R. App. P. 9.141 (d)(5).\n  </p>\n  <judges id=\"p-7\">\n   CASANUEVA, LUCAS, and ROTHSTEIN-YOUAKIM, JJ., Concur.\n  </judges>\n </opinion>\n</casebody>\n"
+  }
+}

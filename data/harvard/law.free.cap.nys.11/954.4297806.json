@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"954\" lastpage=\"954\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b982-26\">Hamilton, Appellant, <em>v. </em>Gibbs <em>et al., </em>Respondents.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b982-27\">\n<em>(Common Pleas of New York City and County, General Term.</em>\n</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Axvr\">November 14, 1890.)</decisiondate>\n<summary data-order=\"3\" data-type=\"summary\" id=\"AtOG\">Appeal from city court, general term.</summary>\n<p data-order=\"4\" data-type=\"judges\" id=\"b982-28\">Argued before Daly, C. J., and Bischoff and Pryor, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b982-29\"><em>Ely &amp; Walker, </em>for appellant. <em>J. D. Hallen, </em>for respondents.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b982-30\">No opinion. Interlocutory judgment affirmed, with costs. Affirming 10 N. Y. Supp. 521.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

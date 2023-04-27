@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"949\" lastpage=\"949\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b985-29\">Steinhausen, Respondent, v. Mason, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"b985-30\">\n<em>(Common Pleas of New York City and County,</em>\n</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AR4R\">\n<em>General Term.</em>\n</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ayo6\">March 10, 1892.)</decisiondate>\n<summary data-order=\"4\" data-type=\"history\" id=\"Aasf\">Appeal from special term.</summary>\n<summary data-order=\"5\" data-type=\"summary\" id=\"b985-31\">Action by Henry W. Steinhausen, as assignee, etc., against John Mason.</summary>\n<p data-order=\"6\" data-type=\"judges\" id=\"AzG\">Argued before Daly, C. J., and Pryor and Giegerioh, JJ.</p>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b985-32\"><em>F. Bien, </em>for appellant. <em>A. Kling, </em>for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b985-33\">Ho opinion. Order affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

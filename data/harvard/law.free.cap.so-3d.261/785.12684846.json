@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"785\" lastpage=\"785\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX REL. Aaron Orlando RICHARDS\n  <br/>\n  v.\n  <br/>\n  STATE of Louisiana\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2017-KH-2016\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  January 14, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Reconsideration granted; relief denied.\n </opinion>\n <opinion id=\"p-6\">\n  HUGHES, J., would grant reconsideration and grant relief.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   GENOVESE, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

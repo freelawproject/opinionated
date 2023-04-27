@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1169\" lastpage=\"1169\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  CONWAY\n </parties>\n <docketnumber id=\"p-2\">\n  2019-0429\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  July 23, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   CASE ANNOUNCEMENT\n  </strong>\n </p>\n <history id=\"p-6\">\n  APPEAL NOT ACCEPTED FOR REVIEW.\n </history>\n <opinion id=\"p-7\">\n  Donnelly, J., dissents and would accept the appeal on proposition of law Nos. I, III, IV, and VIII.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   French, J., not participating.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

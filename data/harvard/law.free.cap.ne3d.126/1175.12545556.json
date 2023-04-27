@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1175\" lastpage=\"1175\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  REED\n </parties>\n <docketnumber id=\"p-2\">\n  2019-0631\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  July 23, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   CASE ANNOUNCEMENT\n  </strong>\n </p>\n <history id=\"p-6\">\n  <strong>\n   APPEAL ACCEPTED FOR REVIEW\n  </strong>\n </history>\n <opinion id=\"p-7\">\n  Appellee's motion to dismiss certified-conflict appeal denied.\n </opinion>\n <opinion id=\"p-8\">\n  O'Connor, C.J., and Stewart, J., concur in part and dissent in part and would grant appellee's motion to dismiss certified-conflict appeal.\n </opinion>\n <opinion id=\"p-9\">\n  Donnelly, J., concurs in part and dissents in part and would decline to accept jurisdiction of the appeal.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-10\">\n   French, J., dissents.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}
