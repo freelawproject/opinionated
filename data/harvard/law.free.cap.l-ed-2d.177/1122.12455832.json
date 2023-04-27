@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1122\" lastpage=\"1122\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1168-8\">No. 10A70.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aut-dedup-2\">Abdul Aziz Naji, Applicant v. Barack H. Obama, President of the United States, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1168-9\">561 U.S. 1042, 131 S. Ct. 32,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A-At\">177 L. Ed. 2d 1122,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AdDuo\">2010 U.S. LEXIS 5545.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1168-10\">July 16, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgAu\">Application for stay, presented to The Chief Justice, and by him referred to the Court, denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

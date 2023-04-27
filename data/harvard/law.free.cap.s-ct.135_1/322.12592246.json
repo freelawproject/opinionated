@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"322\" lastpage=\"322\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State of TEXAS, plaintiff,\n  <br/>\n  v.\n  <br/>\n  State of NEW MEXICO.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 65, Original.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 6, 2014.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Motion of the River Master for fees and expenses granted and the River Master is awarded a total of $8,455.87 for the period July 1, 2013, through June 30, 2014, to be paid equally by the parties.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

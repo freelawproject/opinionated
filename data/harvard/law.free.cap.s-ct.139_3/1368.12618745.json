@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1368\" lastpage=\"1368\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  HIKMA PHARMACEUTICALS USA INC., et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  VANDA PHARMACEUTICALS INC.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 18-817.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  March 18, 2019.\n </decisiondate>\n <opinion id=\"p-5\">\n  The Solicitor General is invited to file a brief in this case expressing the views of the United States.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"951\" lastpage=\"951\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1049-10\">No. 10-9779.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a9p-dedup-1\">Thomas Jones, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1049-11\">563 U.S. 969, 131 S. Ct. 2172,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aco-dedup-3\">179 L. Ed. 2d 951,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"al7l-dedup-0\">2011 U.S. LEXIS 3294.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1049-12\">April 25, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"agg-dedup-3\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b1049-13\">Same case below, 408 Fed. Appx. 600.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

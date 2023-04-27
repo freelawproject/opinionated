@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"571\" lastpage=\"571\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b637-6\">No. \u2014, original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AId\">Ex parte International Safety Razor Corp. et al.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"A_-\">Motion submitted October 17, 1932.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AZd\">Decided October 24, 1932.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AbX\"><em>Mr. Martin A. Schenck </em>for petitioners.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AMO2\">The motion for leave to file petition for writ of prohibition or mandamus is denied.</p>\n<judges id=\"AKH\">The Chief Justice and Mr. Justice Roberts took no part in the consideration and decision of this application.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

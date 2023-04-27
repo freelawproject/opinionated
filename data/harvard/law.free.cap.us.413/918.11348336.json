@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"918\" lastpage=\"918\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b904-5\">No. 64,</docketnumber>\n<p data-order=\"1\" data-type=\"misc\" id=\"A_k\">Orig.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"ABL\">New Hampshire <em>v. </em>Maine.</parties>\n<opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Afu\">Motion for preliminary injunction denied.</p>\n<judges id=\"AFW\">Mr. Justice Douglas and Mr. Justice Blackmun would grant the motion conditioned upon the imposition upon all fishermen operating in the disputed area of the more onerous of the conditions presently imposed by either New Hampshire or Maine.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

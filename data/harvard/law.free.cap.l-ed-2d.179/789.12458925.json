@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"789\" lastpage=\"789\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b887-31\">No. 10-9316.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AnF9\">Marcellas Hoffman, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b887-32\">563 U.S. 927, 131 S. Ct. 1835,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A2a71\">179 L. Ed. 2d 789,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A0CJj\">2011 U.S. LEXIS 2658.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b887-33\">April 4, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2J1\">Petition for writ of certio-rari to the United States Court of Appeals for the Third Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

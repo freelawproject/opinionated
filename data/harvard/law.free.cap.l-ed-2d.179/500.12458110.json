@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b598-4\">No. 10-721.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Alrt\">Sensient Technologies Corporation, et al., Petitioners v. SensoryEffects Flavor Company, fka SensoryFlavors, Inc., et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b598-5\">562 U.S. 1270, 131 S. Ct. 1603,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Aq35\">179 L. Ed. 2d 500,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Af9x\">2011 U.S. LEXIS 2081.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b598-6\">March 7, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AEEu\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Eighth Circuit denied.</p>\n<p id=\"b598-7\">Same case below, 613 F.3d 754.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

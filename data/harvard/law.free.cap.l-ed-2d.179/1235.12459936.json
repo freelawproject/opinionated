@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1235\" lastpage=\"1235\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1333-6\">No. 10-757.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ATyc\">Michael Newdow, et al., Petitioners v. John G. Roberts, Jr., Chief Justice of the United States, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"ADTv\">563 U.S. 1001, 131 S. Ct. 2441,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AxCZ\">179 L. Ed. 2d 1235,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ATY81\">2011 U.S. LEXIS 3573.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1333-8\">May 16, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AghzR\">Petition for writ of cer-tiorari to the United States Court of Appeals for the District of Columbia Circuit denied.</p>\n<judges id=\"A3AHQ\">The Chief Justice took no part in the consideration or decision of this petition.</judges>\n<p id=\"b1333-9\">Same case below, 390 U.S. App. D.C. 273, 603 F.3d 1002.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

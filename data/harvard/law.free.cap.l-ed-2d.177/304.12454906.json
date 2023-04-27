@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"304\" lastpage=\"305\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b350-30\">No. 09-1290.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"agd-dedup-0\">Ramona D. Taylor, Petitioner v. Judicial Inquiry and Review Commission of Virginia.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b350-31\">560 U.S. 953, 130 S. Ct. 3396,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"alo-dedup-0\">177 L. Ed. 2d 304,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AUJ\">2010 U.S. LEXIS 4645.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b350-32\">June 7, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABZ\">Petition for writ of certiorari to the Supreme Court of Virginia denied.</p>\n<p id=\"b351-2\"><page-number citation-index=\"1\" label=\"305\">*305</page-number>Same case below, 278 Va. 699, 685 S.E.2d 51.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1234\" lastpage=\"1234\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1332-23\">No. 10-10067.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aeia8\">Daniel T. Monahan, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1332-24\">563 U.S. 1001, 131 S. Ct. 2477,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AXjr\">179 L. Ed. 2d 1234,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ALjm\">2011 U.S. LEXIS 3603.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1332-25\">May 16, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A1Bk\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b1332-26\">Same case below, 405 Fed. Appx. 742.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

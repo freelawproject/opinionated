@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"666\" lastpage=\"666\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b764-24\">No. 10-9097.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"acul-dedup-0\">Joshua Vicol, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b764-25\">563 U.S. 911, 131 S. Ct. 1799,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ai4J\">179 L. Ed. 2d 666,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AMEG\">2011 U.S. LEXIS 2455.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b764-26\">March 28, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AO8Y\">Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n<p id=\"Ahpq\">Same case below, 404 Fed. Appx. 1.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

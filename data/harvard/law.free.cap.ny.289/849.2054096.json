@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"849\" lastpage=\"849\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b885-16\">Moe B. Rubin, as Assignee of Nettie Rubin, Appellant, <em>v. </em>Mary Koppelman et al., Respondents.</parties>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b885-18\">Reported below, 265 App. Div. 950.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b885-19\">Submitted January 18, 1943;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AfZ\">decided January 21, 1943.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b885-21\"><em>C. Elmer Spedick </em>for motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b885-22\"><em>Philip Olan </em>opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b885-23\">Motion denied without prejudice to a renewal thereof upon the argument of the appeal.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

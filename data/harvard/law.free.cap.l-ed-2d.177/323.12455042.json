@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"323\" lastpage=\"324\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b369-29\">No. 09-1074.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"asi-dedup-0\">John C. Justice and Mike Woodward, Petitioners v. Town of Cicero, Illinois, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b369-30\">560 U.S. 965, 130 S. Ct. 3410,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AUIC\">177 L. Ed. 2d 323,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AI-V\">2010 U.S. LEXIS 4857,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b369-31\">June 14, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2c\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"b370-3\"><page-number citation-index=\"1\" label=\"324\">*324</page-number>Same case below, 577 F.3d 768.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

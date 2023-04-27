@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"601\" lastpage=\"601\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b657-14\" pgmap=\"657\">Kenneth H. Idle, appellee, v. Continental Coffee Company, appellant.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Aqs1\" pgmap=\"657\">Gen. No. 35,527.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"Ajm5\" pgmap=\"657\">O\u2019Connor, P. J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Aem\" pgmap=\"657\">Opinion filed April 25, 1932.</decisiondate><otherdate data-order=\"4\" data-type=\"otherdate\" id=\"Azx\" pgmap=\"657\">Rehearing denied May 9, 1932.</otherdate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b657-16\" pgmap=\"657\">John A. Bloomingston, for appellant. Royal W. Irwin, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"Ax9\" pgmap=\"657\">Mr. Justice McSurely</author> <p id=\"AVn\" pgmap=\"657\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1104\" lastpage=\"1104\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1150-20\">No. 09-10801.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A40o\">Jason L. Schmidt, Petitioner v. Montana.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1150-21\">561 U.S. 1033, 130 S. Ct. 3522,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AygdT\">177 L. Ed. 2d 1104,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Ajkh\">2010 U.S. LEXIS 5379.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1150-22\">June 28, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AVrR\">Petition for writ of cer-tiorari to the Supreme Court of Montana denied.</p>\n<p id=\"b1150-23\">Same case below, 354 Mont. 280, 224 P.3d 618.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

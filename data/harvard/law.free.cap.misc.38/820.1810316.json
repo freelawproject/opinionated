@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"820\" lastpage=\"820\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b860-2\">Supreme Court, Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A8U\">June, 1902.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b860-3\">Before Freedman, P. J., Gildersleeve and MacLe\u00e1n, JJ.</p>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b860-4\">George Behsmann, Appellant, v. Gertrude R. Waldo, Respondent.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Atit\">Appeal from judgment of the General Term of the City Court affirming judgment for defendant entered upon the verdict of a jury and order denying plaintiff\u2019s motion for a new trial. F. Herwig, for appellant. Jones &amp; McCormick, for respondent. Judgment affirmed, with costs.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AqoL\">No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

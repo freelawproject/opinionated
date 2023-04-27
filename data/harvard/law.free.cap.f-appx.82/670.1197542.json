@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"670\" lastpage=\"670\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b712-19\">Leo STOLLER, Appellant, v. UNEX CORP., Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b712-21\">No. 03-1123.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b712-22\">United States Court of Appeals, Federal Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b712-23\">DECIDED: Dec. 5, 2003.</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b712-25\">Before MAYER, Chief Judge, MICHEL, and SCHALL, Circuit Judges. Judgment</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"ASZ\">PER CURIAM.</author>\n<p id=\"b712-27\">This CAUSE having been heard and considered, it is</p>\n<p id=\"b712-28\">ORDERED and ADJUDGED: <em>AFFIRMED. See </em>Fed. Cir. R. 36.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

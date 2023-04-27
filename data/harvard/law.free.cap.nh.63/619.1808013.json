@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"619\" lastpage=\"619\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"docketnumber\" id=\"b629-11\">[Grafton,</p>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A24\">June, 1885.]</decisiondate>\n<parties data-order=\"2\" data-type=\"parties\" id=\"b629-12\">Eaton <em>&amp; a. v. </em>Lehan.</parties>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b629-13\"><em>E. C. Stevens, </em>for the plaintiffs.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b629-14\"><em>Bingham, Mitchells $ Batchellor, </em>for the defendant.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b629-15\">Cabpenteb, J.</author>\n<p id=\"A4D3\">This case cannot be distinguished from <em>Brown </em>v. <em>Latham, </em>58 N. H. 80.</p>\n<p id=\"b629-16\">\n<em>Judgment for the defendant.</em>\n</p>\n<judges id=\"AaU\">Smith, J., did not sit; the others concurred.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

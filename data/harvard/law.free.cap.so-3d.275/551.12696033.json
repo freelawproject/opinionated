@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"551\" lastpage=\"551\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Eric EASTER, Petitioner,\n  <br/>\n  v.\n  <br/>\n  STATE of Florida, Respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 1D19-1267\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, First District.\n </court>\n <decisiondate id=\"p-4\">\n  June 6, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"366\" lastpage=\"367\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b464-28\">No. 10-6617.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a0l-dedup-0\">Isaac Jones, Petitioner v. Texas Department of Criminal Justice, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b464-29\">562 U.S. 1252, 131 S. Ct. 1560,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AmrD\">179 L. Ed. 2d 366,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ApIl\">2011 U.S. LEXIS 1192.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b464-30\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"abzi-dedup-0\">Petition for rehearing denied.</p>\n<p id=\"b465-2\"><page-number citation-index=\"1\" label=\"367\">*367</page-number>Former decision, 562 U.S. 1068, 131 S. Ct. 687, 178 L. Ed. 2d 490, 2010 U.S. LEXIS 9128.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

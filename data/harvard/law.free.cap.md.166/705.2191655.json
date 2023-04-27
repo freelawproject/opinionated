@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"705\" lastpage=\"705\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b733-3\">CLEMENT JOHN WAGNER <em>v. </em>MARIE EDITH WAGNER.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b733-4\">[No. 27,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AYC\">April Term, 1934.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b733-7\">\n<em>Decided April 27th, 1934.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b733-10\">The cause was argued before Bond, C. J., Pattison, Urner, Adkins, Offutt, Digges, Parke, and Sloan, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b733-11\"><em>Simon Silverberg, </em>with whom were <em>Silverberg &amp; Silver-berg </em>on the brief, for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b733-12\"><em>J. Abner Saylor, </em>with whom was. <em>J. Mayer Willen </em>on the brief, for the appellee.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b733-13\">The opinion was delivered</p>\n<author id=\"Aqy\">\n<em>per Curiam.</em>\n</author>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

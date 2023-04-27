@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"330\" lastpage=\"330\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b428-11\">No. 10-8065.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Adz2\">Farin A. Wells, Petitioner v. Illinois.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b428-12\">562 U.S. 1233, 131 S. Ct. 1505,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"anf-dedup-1\">179 L. Ed. 2d 330,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"aqam-dedup-0\">2011 U.S. LEXIS 1532.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b428-13\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"alc2-dedup-0\">Petition for writ of certiorari to the Appellate Court of Illinois, Fourth District, denied.</p>\n<p id=\"b428-14\">Same case below, 396 Ill. App. 3d 1142, 379 Ill. Dec. 378, 6 N.E.3d 455.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"535\" lastpage=\"535\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jared GUIDRY and Leigha Woods\n  <br/>\n  v.\n  <br/>\n  STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY and Ronald Chambers\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2019-C-0223\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 20, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON WRIT OF CERTIORARI TO THE FIFTH CIRCUIT COURT OF APPEAL, PARISH OF JEFFERSON\n  </strong>\n </history>\n <disposition id=\"p-6\">\n  Writ denied.\n </disposition>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   GUIDRY, J., recused.\n  </author>\n  <p id=\"p-8\">\n   HUGHES, J., would grant.\n  </p>\n  <p id=\"p-9\">\n   GENOVESE, J., would grant for the reasons assigned by Judge Marc Johnson.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

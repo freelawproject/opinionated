@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"438\" lastpage=\"438\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b486-19\">Arthur T. WASSERMAN, Trustee v. Benjamin SEIGEL.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b486-21\">No. 4811.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b486-22\">United States Court of Appeals First Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b486-23\">May 12, 1954.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b486-25\">Maurice M. Isen, Boston, Mass., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b486-26\">David Lasker, Boston, Mass., for ap-pellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b486-27\">Before MAGRUDER, Chief Judge, and WOODBURY and HARTIGAN, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b486-28\">PER CURIAM.</author>\n<p id=\"b486-29\">The judgment of the District Court is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

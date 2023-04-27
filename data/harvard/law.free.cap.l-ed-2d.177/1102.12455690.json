@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1102\" lastpage=\"1103\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1148-28\">No. 09-10616.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aodv-dedup-0\">Noel G. Roberts, Petitioner v. William Terry, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1148-29\">561 U.S. 1032, 130 S. Ct. 3519,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A1tT\">177 L. Ed. 2d 1102,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ArVe\">2010 U.S. LEXIS 5362.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1148-30\">June 28, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ai-q\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n<p id=\"b1149-2\"><page-number citation-index=\"1\" label=\"1103\">*1103</page-number>Same case below, 348 Fed. Appx. 524.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

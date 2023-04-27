@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"833\" lastpage=\"833\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b881-16\">City Court of New York \u2014 General Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AbXs\">March, 1900.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"AImC\">Before Fitzsimons, Ch. J., and Conlan, J.</p>\n<parties data-order=\"3\" data-type=\"attorneys\" id=\"b881-17\">Everett Clapp, Appellant, v. William A. Cooper, Impleaded, etc., Respondent.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"pAnQ\">Appeal from a judgment in favor of de-1 fendant.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AjM\">Henry B. Kinghom, for James P. Lowrey, for Respondent.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ASO\">Judgment affirmed, with costs. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

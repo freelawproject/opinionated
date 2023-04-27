@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"546\" lastpage=\"547\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Sherry Moore COLLINS\n  <br/>\n  v.\n  <br/>\n  David James COLLINS\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-CC-0382\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 25, 2018\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRIT TO THE THIRTY-SECOND JUDICIAL DISTRICT COURT, PARISH OF TERREBONNE\n  </strong>\n </history>\n <opinion id=\"p-6\">\n  Writ granted in part.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   GENOVESE, J., concurs in the result.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

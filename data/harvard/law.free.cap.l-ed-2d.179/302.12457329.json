@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"302\" lastpage=\"302\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b400-7\">No. 10-684.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A7K\">Harriet Bell, Individually and on Behalf of All Others Similarly Situated, Petitioner v. Callaway Partners, LLC, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b400-8\">562 U.S. 1217, 131 S. Ct. 1477,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ACz\">179 L. Ed. 2d 302,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AfBl\">2011 U.S. LEXIS 1499.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b400-9\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aym-dedup-1\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n<p id=\"b400-10\">Same case below, 394 Fed. Appx. 632.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

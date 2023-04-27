@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1102\" lastpage=\"1102\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1148-18\">No. 09-10594.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aym-dedup-1\">Freddie A. Land, Petitioner v. Florida.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1148-19\">561 U.S. 1032, 130 S. Ct. 3518,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Adt3\">177 L. Ed. 2d 1102,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A22B\">2010 U.S. LEXIS 5328,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1148-20\">June 28, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AmHO\">Petition for writ of cer-tiorari to the District Court of Appeal of Florida, Second District, denied.</p>\n<p id=\"b1148-21\">Same case below, 56 So. 3d 6.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

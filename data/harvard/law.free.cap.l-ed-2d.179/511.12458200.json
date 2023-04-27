@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"511\" lastpage=\"511\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b609-21\">No. 10-8519.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a0x-dedup-0\">Kareem Brown, Petitioner v. Pennsylvania.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b609-22\">562 U.S. 1277, 131 S. Ct. 1616,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"alim-dedup-0\">179 L. Ed. 2d 511,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AcWR\">2011 U.S. LEXIS 2069.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b609-23\">March 7, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aop3\">Petition for writ of cer-tiorari to the Superior Court of Pennsylvania, Philadelphia Office, denied.</p>\n<p id=\"b609-24\">Same case below, 998 A.2d 1002.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

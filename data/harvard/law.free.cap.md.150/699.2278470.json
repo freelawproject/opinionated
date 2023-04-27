@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"699\" lastpage=\"699\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b723-9\">ANNA SCHLEY ABELL <em>v. </em>WALTER W. ABELL, Surviving Trustee, et al.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b723-12\">\n<em>Decided February 19th, 1926.</em>\n</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b723-14\">The petition was argued before Bond, C. J., Pattison, Urner, Adkins, Offutt, Digges, Parke, and Walsii, JJ.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b723-15\"><em>John Henry Lewin, </em>for the petitioner.</attorneys>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b723-16\">Bond, C. J.,</author>\n<p id=\"AA18\">delivered the opinion of the Court, dismissing the petition.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

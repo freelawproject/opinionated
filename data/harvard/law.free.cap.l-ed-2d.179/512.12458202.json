@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"512\" lastpage=\"512\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b610-4\">No. 10-8567.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AhzU\">Alberto Hernandez, Petitioner v. Florida.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b610-5\">562 U.S. 1277, 131 S. Ct. 1616,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AqNS\">179 L. Ed. 2d 512,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Aetn\">2011 U.S. LEXIS 2054.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b610-6\">March 7, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AhVC\">Petition for writ of cer-tiorari to the District Court of Appeal of Florida, Third District, denied.</p>\n<p id=\"b610-7\">Same case below, 46 So. 3d 1010.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

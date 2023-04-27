@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"4\" lastpage=\"4\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b592-4\">STATE OF MONTANA, Plaintiff, vs. LELAND ARKINSON, Defendant.</parties>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b592-5\">DECISION</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b592-6\">No. 2734</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b592-9\">DATED this 24th day of April, 1975.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b592-7\">The application of the above-named defendant for a review of the sentence of 5 years for Aggravated Assault imposed on January 16th, 1975, was fully heard and after a careful consideration of the entire matter it is decided that:</p>\n<p id=\"b592-8\">The sentence be and is hereby increased to a term of ten (10 years.</p>\n<p id=\"AA5\">We wish to thank Steve Harmon of the Montana Defender Project for his assistance to the defendant and to this Court.</p>\n<p id=\"b592-10\">SENTENCE REVIEW DIVISION</p>\n<judges id=\"ALJ\">Jack D. Shanstrom, Chairman; Jack L. Green, Robert C. Sykes.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

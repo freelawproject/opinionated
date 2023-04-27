@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"345\" lastpage=\"345\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b443-19\">No. 10-8308.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Atcs\">Michael T. Stephens, Petitioner v. Gary Kubic, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b443-20\">562 U.S. 1242, 131 S. Ct. 1529,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A1zg\">179 L. Ed. 2d 345,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ace-dedup-1\">2011 U.S. LEXIS 1674.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b443-21\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AA6M\">Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"AZKx\">Same case below, 389 Fed. Appx. 235.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

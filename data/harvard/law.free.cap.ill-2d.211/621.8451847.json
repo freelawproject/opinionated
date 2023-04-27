@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"621\" lastpage=\"621\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b633-11\" pgmap=\"633\">In re COSGROVE, Thomas Gerard</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"Agd\" pgmap=\"633\">(MR 19629)</docketnumber><p data-order=\"2\" data-type=\"docketnumber\" id=\"Apl\" pgmap=\"633\">Chicago, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b633-15\" pgmap=\"633\">Order of the Court:</p> <p id=\"b633-16\" pgmap=\"633\">The petition by the Administrator of the Attorney Registration and Disciplinary Commission for leave to file exceptions to the report and recommendation of the Review Board is denied. Respondent Thomas Gerard Cosgrove is censured, as recommended by the Review Board.</p> <p id=\"b633-17\" pgmap=\"633\">Fitzgerald, J., took no part.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

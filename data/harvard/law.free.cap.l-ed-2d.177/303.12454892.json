@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"303\" lastpage=\"303\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b349-5\">No. 09-1199.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aqf-dedup-0\">Sylvia Bapte, et al., Petitioners v. West Caribbean Airways, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b349-6\">560 U.S. 952, 130 S. Ct. 3387,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Ajf\">177 L. Ed. 2d 303,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ALb\">2010 U.S. LEXIS 4641.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b349-7\">June 7, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9Y\">Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n<p id=\"b349-8\">Same case below, 584 F.3d 1052.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

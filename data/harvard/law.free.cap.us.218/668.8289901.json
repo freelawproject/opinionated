@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"668\" lastpage=\"669\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b720-9\">No. 11,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AG3K\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AOhA\"><em>Ex parte: </em>In the Matter of The Cudahy Packing Company, Petitioner.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AGxt\">Argued November 28, 1910.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AVpq\">Decided December 5, 1910.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Avtq\"><em>Mr. Ralph W. Breckenridge </em>and <em>Mr. Charles J. Greene </em>for petitioner.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AudE\">Petition for a writ of mandamus denied, rule discharged, and petition dismissed, on the authority of <em>In re Pennsylvania Company, Petitioner &amp;c., </em>137 U. S. 451.</p>\n<attorneys id=\"b721-3\"><page-number citation-index=\"1\" label=\"669\">*669</page-number><em>Mr. Constantine J. Smyth </em>and <em>Mr. Edward P. Smith </em>for respondent.</attorneys>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

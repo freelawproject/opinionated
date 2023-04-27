@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1003-13\">No. 10-9012.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"a7kl-dedup-0\">David Garcia, Petitioner v. New York.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1003-15\">563 U.S. 944, 131 S. Ct. 2109,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A6Fu\">179 L. Ed. 2d 905,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AfnZ\">2011 U.S. LEXIS 3008.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1003-16\">April 18, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aim6-dedup-0\">Petition for writ of cer-tiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department, denied.</p>\n<p id=\"b1003-17\">Same case below, 72 App. Div. 3d 986, 898 N.Y.S.2d 504.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

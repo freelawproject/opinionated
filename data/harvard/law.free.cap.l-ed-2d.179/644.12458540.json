@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"644\" lastpage=\"645\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b742-23\">No. 10-660.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Azk2\">The Clearing House Association, L.L.C., Petitioner v. Fox News Network, LLC, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b742-24\">562 U.S. 1303, 131 S. Ct. 1676,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A_0h\">179 L. Ed. 2d 644,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AT0a\">2011 U.S. LEXIS 2121.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b742-25\">March 21, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AyVH\">Petition for writ of certiorari to the United States Court of <page-number citation-index=\"1\" label=\"645\">*645</page-number>Appeals for the Second Circuit denied.</p>\n<judges id=\"aqnb-dedup-0\">Justice Kagan took no part in the consideration or decision of this petition.</judges>\n<p id=\"b743-3\">Same case below, 601 F.3d 158.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"696\" lastpage=\"696\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b720-4\">EDWIN M. WILMER <em>v. </em>HERBERT L. GRYMES.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b720-7\">\n<em>Decided November 6th, 1925.</em>\n</decisiondate>\n<p data-order=\"2\" data-type=\"otherdate\" id=\"b720-10\">Tbe cause was submitted on briefs to Bond, C. J., Patti-\u25a0son, Henee, Adkins, Oeeutt, Digges, Pabke. and Walsh, JJ.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b720-11\"><em>Edwin M. Wilmer, </em>for the appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b720-12\"><em>Philip B. Perlman, </em>for the appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b720-13\">Urner, J.,</author>\n<p id=\"AZmQ\">delivered tbe opinion of tbe Court, affirming tbe judgment, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

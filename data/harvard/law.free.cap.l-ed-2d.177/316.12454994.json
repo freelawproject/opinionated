@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"316\" lastpage=\"317\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b362-18\">No. 09-10646.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"afv-dedup-0\">Dwayne Stone, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b362-19\">560 U.S. 961, 130 S. Ct. 3402,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"azc-dedup-0\">177 L. Ed. 2d 316,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AHtc\">2010 U.S. LEXIS 4638.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b362-20\">June 7, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ahj2\">Petition for writ of certio<page-number citation-index=\"1\" label=\"317\">*317</page-number>rari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"Aq8g\">Justice Sotomayor took no part in the consideration or decision of this petition.</judges>\n<p id=\"b363-3\">Same case below, 354 Fed. Appx. 547.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

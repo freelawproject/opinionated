@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1139\" lastpage=\"1139\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1163-16\">BLANC v. BLANC</parties>\n<p data-order=\"1\" data-type=\"court\" id=\"AJQT\">(two cases).</p>\n<court data-order=\"2\" data-type=\"court\" id=\"A31\">(Supreme Court, Appellate Division, First Department.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AmN\">April 7, 1898.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Aln\">Action by Frederick N. Blanc against Elizabeth L. Blanc.</summary>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AW64\">No opinion. Motion granted, with $10 costs. See 47 N. Y. Supp. 694; 48 N. Y. Supp. 1101.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"57\" lastpage=\"57\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Errol Duke MOSES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 574A97-4.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  November 16, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Kenneth Rose, Durham, for Errol Duke Moses.\n </attorneys>\n <attorneys id=\"p-6\">\n  Steven Arbogast, Special Deputy Attorney General, Thomas J. Keith, District Attorney, for State of NC.\n </attorneys>\n <attorneys id=\"p-7\">\n  Burton Craige, Raleigh, for North Carolina Academy of Trial.\n </attorneys>\n <p id=\"p-8\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   Upon consideration of the petition filed by Defendant on the 29th day of June 2006 in this matter for a writ of certiorari to review the order of the Superior Court, Forsyth County, the following order was entered and is hereby certified to the Superior Court of that County:\n  </p>\n  <p id=\"p-10\">\n   \"Denied by order of the Court in conference, this the 16th day of November 2006.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

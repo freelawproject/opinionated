@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"472\" lastpage=\"472\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b570-6\">No. 10M77.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aqbx\">John Doe, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b570-8\">562 U.S. 1255, 131 S. Ct. 1591,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AC4_\">179 L. Ed. 2d 472,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AWYj\">2011 U.S. LEXIS 1716.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b570-9\">February 28, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aj2M\">Motion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

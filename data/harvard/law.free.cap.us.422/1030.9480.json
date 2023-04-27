@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1030\" lastpage=\"1030\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<decisiondate data-order=\"0\" data-type=\"decisiondate\" id=\"b1012-4\">June 23, 1975</decisiondate>\n<p data-order=\"1\" data-type=\"disposition\" id=\"b1012-5\">\n<em>Affirmed on Appeal</em>\n</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b1012-6\">No. 74-1375.</docketnumber>\n<parties data-order=\"3\" data-type=\"parties\" id=\"Afn\">Montgomery <em>v. </em>Douglas et al.</parties>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4zK\">Affirmed on appeal from D. C. Colo. Reported below: 388 F. Supp. 1139.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

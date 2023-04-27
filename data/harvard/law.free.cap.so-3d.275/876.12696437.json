@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"876\" lastpage=\"876\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE: Maurice R. FRANKS\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-B-1483\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  June 26, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Rehearing denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   WEIMER, J., would grant rehearing.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

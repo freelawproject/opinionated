@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1006\" lastpage=\"1006\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1020-11\">TEXAS &amp; P. RY. CO. v. TUCKER.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"A80-\">(Circuit Court of Appeals, Fifth Circuit.</court>\n<decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Ai9\">December 11, 1911.)</decisiondate>\n<docketnumber data-order=\"3\" data-type=\"docketnumber\" id=\"ARW\">No. 2,267.</docketnumber>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AGL\">In Error to the Circuit\u2019 Court of the United States for the Northern District of Texas.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AEY\">J. M. Wagstaff, for plaintiff in error.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ASq\">Theodore Mack, for defendant in error.</attorneys>\n<p data-order=\"7\" data-type=\"judges\" id=\"A18k\">Before PARDEE and SHELBY, Circuit Judges, and GRUBB, District Judge.</p>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1020-12\">PER CURIAM.</author>\n<p id=\"AA2B\">The judgment of the Circuit Court, is affirmed.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

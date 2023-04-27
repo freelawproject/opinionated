@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"475\" lastpage=\"475\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b591-17\">UNITED STATES of America, Appellant, v. Samson E. SHONDE, Appellee.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b591-20\">No. 85-5282-MN.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b591-21\">United States Court of Appeals, Eighth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b591-22\">March 23, 1987.</decisiondate>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b591-26\">Circuit Judges ROSS, JOHN R. GIBSON, FAGG, BOWMAN and WOLLMAN would have granted the petition.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AfN\">Petition for rehearing by the panel is also denied,</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

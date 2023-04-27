@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"700\" lastpage=\"700\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b724-3\">HELEN M. NOLES <em>v. </em>ARTHUR PETER, Assignee.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b724-7\"><em>Decided March </em>10th, <em>1926.</em></decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b724-10\">The cause was argued before Bond, C. J., Pattison, Urner, Adkins, Oeeutt, Digges, and Parke, JJ.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b724-11\"><em>Fred B. </em>Rhodes, for the appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b724-12\"><em>Arthur </em>Peter, with whom was <em>J. W. Whiting </em>on the brief, for the appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b724-13\">Urner, J.,</author>\n<p id=\"AmJU\">delivered the opinion of the Court, affirming the order, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

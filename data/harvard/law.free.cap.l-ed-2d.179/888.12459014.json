@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b986-18\">No. 10M103.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ANG-\">Joseph Crews, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b986-19\">563 U.S. 933, 131 S. Ct. 2141,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"afd-dedup-2\">179 L. Ed. 2d 888,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Aj2B\">2011 U.S. LEXIS 2990.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b986-20\">April 18, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"axcy-dedup-1\">Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

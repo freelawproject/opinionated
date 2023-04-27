@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1055\" lastpage=\"1055\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1101-10\">No. 09-949.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ASFX\">Joyce K. Matsuo, et al., Petitioners v. United States, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1101-11\">561 U.S. 1005, 130 S. Ct. 3462,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A4F_\">177 L. Ed. 2d 1055,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AG7D\">2010 U.S. LEXIS 5012.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1101-12\">June 21, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A9Bb\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b1101-13\">Same case below, 586 F.3d 1180.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

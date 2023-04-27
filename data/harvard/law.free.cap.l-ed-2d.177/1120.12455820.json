@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1120\" lastpage=\"1120\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1166-5\">No. 09-490.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AQ7eF\">Mayo Collaborative Services, dba Mayo Medical Laboratories, et al., Petitioners v. Prometheus Laboratories, Inc.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1166-6\">561 U.S. 1040, 130 S. Ct. 3543,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aze-dedup-2\">177 L. Ed. 2d 1120,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AI6r\">2010 U.S. LEXIS 5537.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1166-7\">June 29, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A5Wb\">Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of Bilski v. Kappos, 561 U.S. 593, 130 S. Ct. 3218, 177 L. Ed. 2d 792 (2010).</p>\n<p id=\"b1166-8\">Same case below, 581 F.3d 1336.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"32\" lastpage=\"32\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michele McQUIGG, applicant,\n  <br/>\n  v.\n  <br/>\n  Timothy B. BOSTIC, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14A196.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 20, 2014.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Application for stay presented to THE CHIEF JUSTICE and by him referred to the Court granted, and issuance of the mandate of the United States Court of Appeals for the Fourth Circuit in case No. 14-1167, is stayed pending the timely filing and disposition of a petition for a writ of certiorari. Should the petition for a writ of certiorari be denied, this stay shall terminate automatically. In the event the petition for writ of certiorari is granted, the stay shall terminate upon the sending down of the judgment of this Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

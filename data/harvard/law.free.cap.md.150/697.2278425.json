@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"697\" lastpage=\"697\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b721-7\">LOUIS S. ASHMAN <em>v. </em>WALTER KOCH et al.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b721-11\"><em>Decided January </em>12th, <em>1926.</em></decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b721-14\">The cause was argued before Bond, O. J., Pattison,. Ubneb, Adkins, Obeutt, Diuues, Pabke, and Walsii, JJ.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b721-15\"><em>J. Kemp Bartlett, Jr., </em>for the appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b721-16\"><em>Eldridge Hood Young, </em>with whom was <em>Harry T. Kellman </em>on the brief, for Mayer Resnick and Minnie Resnick, appellees.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b721-17\">Walsh, J.,</author>\n<p id=\"AtQk\">delivered the opinion of the Court, remanding the case, without affirmance or reversal, for further proceedings in accordance with the opinion, the costs to abide the event.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

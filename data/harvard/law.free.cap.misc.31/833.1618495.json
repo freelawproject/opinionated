@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"833\" lastpage=\"833\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b881-2\">Supreme Court \u2014 Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AkP\">May, 1900.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b881-3\">Before Truax, P. J., Scott and Dugro, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b881-4\">Peter J. McCourt, Respondent, v. Cynthia B. Cowperthwait, Appellant.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AWy\">\u2014Appeal from an order of the General Term of the City Court of New York, affirming an order of Special Term denying defendant\u2019s motion to preclude plaintiff herein from giving evidence, at the trial of the above-entitled action.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Aqb\">Dill, Seymour &amp; Baldwin (Henry Sehoenherr, Jr., of counsel), for Appellant; Walter Cox, for Respondent</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A8y\">Judgment affirmed, with costs. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

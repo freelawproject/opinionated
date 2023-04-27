@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"642\" lastpage=\"642\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b678-8\">Western New York and Pennsylvania Railway Company, Appellant, <em>v. </em>City of Buffalo et al., Respondents.</parties>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b678-10\">Reported below, 264 App. Div. 832.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b678-11\">Submitted October 5, 1942;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A8j\">decided October 15, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b678-13\"><em>Percy R. Smith </em>and <em>Harold J. Adams </em>for motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b678-14\"><em>Andrew P. Ronan, Corporation Counsel (Herbert A. Hickman </em>of counsel), opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b678-15\">Motion denied, with ten dollars costs and necessary printing disbursements on the ground the appeal lies as of right.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"534\" lastpage=\"534\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the Matter of K.B., Minor Child.\n  <br/>\n  Appealed by Respondent Mother.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 293P04.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 12, 2004.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Robert W. Ewing, Winston-Salem, for Cassia Barbosa.\n </attorneys>\n <attorneys id=\"p-6\">\n  Renee S. Alt, for Buncombe Co. DSS.\n </attorneys>\n <attorneys id=\"p-7\">\n  Judy N. Rudolph, for Guardian ad Litem.\n </attorneys>\n <p id=\"p-8\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-9\">\n   Upon consideration of the petition filed by Respondent (Mother) on the 15th day of June 2004 in this matter for a writ of certiorari to review the orders of the North Carolina Court of Appeals, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <blockquote id=\"p-10\">\n   \"Denied by order of the Court in conference, this the 12th day of August 2004.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

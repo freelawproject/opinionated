@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"320\" lastpage=\"320\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b418-7\">No. 10-7826.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"azs-dedup-1\">Derek Don Chappell, Petitioner v. Arizona.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b418-8\">562 U.S. 1227, 131 S. Ct. 1485,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ALK\">179 L. Ed. 2d 320,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AoXU\">2011 U.S. LEXIS 1501.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b418-9\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"acq-dedup-1\">Petition for writ of certiorari to the Supreme Court of Arizona denied.</p>\n<p id=\"b418-10\">Same case below, 225 Ariz. 229, 236 P.3d 1176.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"644\" lastpage=\"644\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b718-4\">No. 7,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"AU1L\">original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"Aon\">State of Wisconsin <em>v. </em>State of Illinois and the Sanitary District of Chicago.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AO7\">Motions submitted .November 1, 1926.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AZZ8\">Decided November 23, 1926.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AvF\"><em>Mr. James M. Beck </em>in behalf of <em>Messrs. William B. Applegate, Daniel N'. Kirby, </em>and <em>Cornelius Lynde </em>for the State of Arkansas, and in behalf of <em>Messrs. Rush H. Knox, Daniel N. Kirby, </em>and <em>Cornelius Lynde </em>for the State of Mississippi, in support of the motion.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ALTd\">The motions of the States of Arkansas and Mississippi for leave to intervene are granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

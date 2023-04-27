@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"462\" lastpage=\"462\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Ronald B. SMITH, Applicant,\n  <br/>\n  v.\n  <br/>\n  ALABAMA.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 16A569.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 8, 2016.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   CLARENCE THOMAS, Associate Justice.\n  </author>\n  <p id=\"p-7\">\n   UPON CONSIDERATION of the application of counsel for the applicant,\n  </p>\n  <p id=\"p-8\">\n   IT IS ORDERED that execution of the sentence of death is hereby stayed pending further order of the undersigned or of the Court.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

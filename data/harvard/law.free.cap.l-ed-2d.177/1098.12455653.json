@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1098\" lastpage=\"1098\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1144-10\">No. 09-10362.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AhAt\">Wendell Duncan, Petitioner v. Mississippi.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1144-11\">561 U.S. 1029, 130 S. Ct. 3510,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AUs7\">177 L. Ed. 2d 1098,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A2Rx\">2010 U.S. LEXIS 5407.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1144-12\">June 28, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A6UP\">Petition for writ of cer-tiorari to the Court of Appeals of Mississippi denied.</p>\n<p id=\"b1144-13\">Same case below, 28 So. 3d 665.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

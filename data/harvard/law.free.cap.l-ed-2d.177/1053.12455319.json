@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1053\" lastpage=\"1053\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1099-11\">No. 09M104.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aey-dedup-1\">John M. Vulpis, Petitioner v. Florida.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1099-12\">561 U.S. 1004, 130 S. Ct. 3492,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AMUs\">177 L. Ed. 2d 1053,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AbtT\">2010 U.S. LEXIS 5082.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1099-13\">June 21, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AosP\">Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

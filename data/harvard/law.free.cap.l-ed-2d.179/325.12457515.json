@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"325\" lastpage=\"325\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b423-22\">No. 10-7979.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ahl-dedup-1\">Paul Hupp, Petitioner v. Educational Credit Management Corporation, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b423-23\">562 U.S. 1231, 131 S. Ct. 1557,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"adh-dedup-1\">179 L. Ed. 2d 325,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"arm-dedup-1\">2011 U.S. LEXIS 1590.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b423-24\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A2Nn\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b423-25\">Same case below, 382 Fed. Appx. 572.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"448\" lastpage=\"448\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  William Thomas BAUBERGER.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 172A06.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  December 1, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Patricia A. Duffy, Assistant Attorney General, Isaac T. Avery, III, Special Deputy Attorney General, Thomas J. Keith, District Attorney, for State of NC.\n </attorneys>\n <p id=\"p-6\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   The Motion to Consider Supplemental Response of defendant William Thomas Bauberger is allowed. The State is allowed five (5) days from the date of this order to file a response, should it so desire.\n  </p>\n  <p id=\"p-8\">\n   By order of the Court in conference, this 1st day of December, 2006.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

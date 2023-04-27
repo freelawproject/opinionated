@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"950\" lastpage=\"950\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Donald J. TRUMP, President of the United States, et al., applicants,\n  <br/>\n  v.\n  <br/>\n  Ryan KARNOSKI, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 18A625.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Jan. 22, 2019.\n </decisiondate>\n <summary id=\"p-5\">\n  Application for stay presented to Justice KAGAN and by her referred to the Court granted, and the District Court's December 11, 2017 order granting a preliminary injunction is stayed pending disposition of the Government's appeal in the United States Court of Appeals for the Ninth Circuit and disposition of the Government's petition for a writ of certiorari, if such writ is sought. If a writ of certiorari is sought and the Court denies the petition, this order shall terminate automatically. If the Court grants the petition for a writ of certiorari, this order shall terminate when the Court enters its judgment.\n </summary>\n <opinion id=\"p-6\">\n  Justice GINSBURG, Justice BREYER, Justice SOTOMAYOR, and Justice KAGAN would deny the application.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

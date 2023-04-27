@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1146\" lastpage=\"1146\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1164-5\">NUSSBAUM, Appellant, v. WEBER, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Ay6s\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A4ch\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Anr\">May 26, 1899.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"A43L\">Action by Frank Nussbaum against Adolph Weber. From a judgment on a verdict in plaintiff\u2019s favor, and from an order denying a new trial, plaintiff appeals.</summary>\n<disposition data-order=\"5\" data-type=\"disposition\" id=\"A7oX\">Affirmed.</disposition>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Aiq1\">Thomas F. Crain, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"ANEI\">Robert L. Redfield, for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1164-6\">PER CURIAM.</author>\n<p id=\"AFu\">Judgment and order appealed from affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

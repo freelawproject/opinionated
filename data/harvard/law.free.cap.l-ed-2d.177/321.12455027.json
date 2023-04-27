@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"321\" lastpage=\"321\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b367-16\">No. 09-10184.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AJoJ\">Allen Glenn Thomas, Petitioner v. Rick Thaler, Director, Texas Department of Criminal Justice, Correctional Institutions Division.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b367-17\">560 U.S. 962, 130 S. Ct. 3420,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ana-dedup-1\">177 L. Ed. 2d 321,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"akr-dedup-1\">2010 U.S. LEXIS 4725.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b367-18\">June 14, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ANNx\">Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit dismissed. See Rule 39.8.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

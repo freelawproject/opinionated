@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"831\" lastpage=\"831\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  HORN\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0743\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  August 1, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <history id=\"p-6\">\n  APPEALS ACCEPTED FOR REVIEW\n </history>\n <opinion id=\"p-7\">\n  Appeal accepted on proposition of law No. II.\n </opinion>\n <opinion id=\"p-8\">\n  French, J., would also accept proposition of law Nos. I and III.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Fischer, J., would also accept proposition of law No. IV.\n  </author>\n  <p id=\"p-10\">\n   O'Donnell, Kennedy, and DeWine, JJ., dissent.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

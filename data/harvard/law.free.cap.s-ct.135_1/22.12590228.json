@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"22\" lastpage=\"22\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael Eric BALLARD, petitioner,\n  <br/>\n  v.\n  <br/>\n  PENNSYLVANIA.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-9364.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 11, 2014.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Letters of June 2, July 8, July 14, and July 16, 2014, received in this case referred to the Disciplinary Board of the Supreme Court of Pennsylvania for any investigation or action it finds appropriate.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

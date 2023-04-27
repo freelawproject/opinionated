@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"345\" lastpage=\"345\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b391-14\">No. 09-10756.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ACsX\">Jose Gonzalez-Garza, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b391-15\">560 U.S. 976, 130 S. Ct. 3439,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Abj-\">177 L. Ed. 2d 345,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A9Wu\">2010 U.S. LEXIS 4962.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b391-16\">June 14, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ay9t\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n<p id=\"b391-17\">Same case below, 365 Fed. Appx. 588.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

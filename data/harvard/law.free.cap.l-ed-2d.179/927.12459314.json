@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"927\" lastpage=\"928\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1025-26\">No. 10-9666.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ag5a-dedup-0\">Michael L. Riggs, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1025-27\">563 U.S. 957, 131 S. Ct. 2139,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Akix\">179 L. Ed. 2d 927,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AQis\">2011 U.S. LEXIS 2920.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1025-28\">April 18, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ALx5\">Petition for writ of cer-tiorari to the United States Court of <page-number citation-index=\"1\" label=\"928\">*928</page-number>Appeals for the Tenth Circuit denied.</p>\n<judges id=\"aluf-dedup-1\">Justice Kagan took no part in the consideration or decision of this petition.</judges>\n<p id=\"b1026-4\">Same case below, 400 Fed. Appx. 408.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

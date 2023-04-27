@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"314\" lastpage=\"314\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b412-13\">No. 10-7269.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"APj3\">Jason Farrell McGehee, Petitioner v. Ray Hobbs, Director, Arkansas Department of Correction.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b412-14\">562 U.S. 1224, 131 S. Ct. 1474,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A_pq\">179 L. Ed. 2d 314,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Aja\">2011 U.S. LEXIS 1384.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b412-15\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AExJ\">Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.</p>\n<p id=\"b412-16\">Same case below, 588 F.3d 1185.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

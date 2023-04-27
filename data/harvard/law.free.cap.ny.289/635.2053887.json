@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"635\" lastpage=\"636\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b671-5\">Harry Semanchuck, Respondent, <em>v. </em>Fifth Avenue and 37th Street Corporation, et al., Respondents, and Gotham Construction Corporation, Appellant.</parties>\n<p data-order=\"1\" data-type=\"parties\" id=\"b671-7\">Reported below, 264 App. Ky. 329.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b671-8\">Submitted July 29, 1942;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A0-\">decided October 8, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b672-6\"><page-number citation-index=\"1\" label=\"636\">*636</page-number><em>Charles F. Bachmann </em>for motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b672-7\"><em>William L. Shumate </em>opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b672-8\">Motion denied, with ten dollars costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

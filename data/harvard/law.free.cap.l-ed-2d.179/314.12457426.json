@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"314\" lastpage=\"314\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b412-21\">No. 10-7287.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AaG_\">Solomon Boyd, Petitioner v. Connecticut.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b412-22\">562 U.S. 1224, 131 S. Ct. 1474,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AD2P\">179 L. Ed. 2d 314,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"a5g-dedup-0\">2011 U.S. LEXIS 1319.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b412-23\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"a4k-dedup-0\">Petition for writ of certiorari to the Supreme Court of Connecticut denied.</p>\n<p id=\"b412-24\">Same case below, 295 Conn. 707, 992 A.2d 1071.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

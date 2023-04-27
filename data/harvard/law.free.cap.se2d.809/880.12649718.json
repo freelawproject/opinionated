@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"880\" lastpage=\"880\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  John Lewis WRAY, Jr.\n </parties>\n <docketnumber id=\"p-2\">\n  382P10-8\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  March 1, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Derrick Mertz, Assistant Attorney General, For State of North Carolina.\n </attorneys>\n <attorneys id=\"p-6\">\n  John L. Wray, Jr., For Wray, John Lewis, Jr.\n </attorneys>\n <attorneys id=\"p-7\">\n  Mike Miller, District Attorney, for the State of North Carolina.\n </attorneys>\n <opinion id=\"p-8\">\n  The following order has been entered on the motion filed on the 27th of November 2017 by Defendant for Appropriate Relief:\n </opinion>\n <opinion id=\"p-9\">\n  \"Motion Denied by order of the Court in conference, this the 1st of March 2018.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-10\">\n   Beasley, J. recused\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

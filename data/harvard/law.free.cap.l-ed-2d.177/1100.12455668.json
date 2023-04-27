@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1100\" lastpage=\"1100\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1146-7\">No. 09-10415.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AEut\">William Klein, Petitioner v. Florida.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1146-8\">561 U.S. 1030, 130 S. Ct. 3513,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AHNL\">177 L. Ed. 2d 1100,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ATG9\">2010 U.S. LEXIS 5451.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1146-9\">June 28, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Av7z\">Petition for writ of cer-tiorari to the District Court of Appeal of Florida, Second District, denied.</p>\n<p id=\"b1146-10\">Same case below, 19 So. 3d 991.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

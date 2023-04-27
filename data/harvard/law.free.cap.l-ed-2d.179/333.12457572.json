@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"333\" lastpage=\"333\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b431-3\">No. 10-8099.</docketnumber>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"age-dedup-0\">No. 10-8218.</docketnumber>\n<parties data-order=\"2\" data-type=\"parties\" id=\"a-q-dedup-0\">Darrell Amont Finn, Petitioner v. California. Albert Jerome Beckley, Jr., Petitioner v. California.</parties>\n<citation data-order=\"3\" data-type=\"citation\" id=\"b431-5\">562 U.S. 1235, 131 S. Ct. 1509,</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"A01\">179 L. Ed. 2d 333,</p>\n<citation data-order=\"5\" data-type=\"citation\" id=\"AYOn\">2011 U.S. LEXIS 1558.</citation>\n<decisiondate data-order=\"6\" data-type=\"decisiondate\" id=\"b431-6\">February 22, 2011.</decisiondate>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AODE\">Petitions for writs of certiorari to the Court of Appeal of California, Second Appellate District, denied.</p>\n<p id=\"b431-7\">Same cases below, 185 Cal. App. 4th 509, 110 Cal. Rptr. 3d 362.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

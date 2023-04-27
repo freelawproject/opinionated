@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1126\" lastpage=\"1127\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1172-32\">No. 09-9731.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"azrz-dedup-0\">Yvett Smith, Petitioner v. Atlanta Postal Credit Union.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1172-33\">561 U.S. 1047, 131 S. Ct. 36,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AGTD\">177 L. Ed. 2d 1126,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A3kK\">2010 U.S. LEXIS 5555.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1172-34\">July 26, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Apf9\">Petition for rehearing denied.</p>\n<p id=\"b1173-2\"><page-number citation-index=\"1\" label=\"1127\">*1127</page-number>Former decision, 560 U.S. 912, 130 S. Ct. 3292, 176 L. Ed. 2d 1196, 2010 U.S. LEXIS 4053.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

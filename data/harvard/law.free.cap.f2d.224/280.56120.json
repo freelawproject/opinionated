@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"280\" lastpage=\"280\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b328-34\">UNITED STATES of America v. Madge NIELSEN et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b328-36\">No. 5008.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b328-37\">United States Court of Appeals Tenth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b328-38\">May 5, 1955.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b328-40\">A. Pratt Kesler, U. S. Atty., Llewellyn O. Thomas and C. Nelson Day, Asst. U. S. Attys., Salt Lake City, Utah, for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b328-41\">Nielsen &amp; Conder, Salt Lake City, Utah, for appellees.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b328-42\">Before PHILLIPS, Chief Judge.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b328-43\">Dismissed on motion of appellant.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

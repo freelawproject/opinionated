@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"529\" lastpage=\"529\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Anthony DOVE\n  <br/>\n  v.\n  <br/>\n  WIL-O-WISP APARTMENTS, Owner(s) - John Doe(s), Wil-O-Wisp Apartments Manager, - Jane or Richard Doe, Luby Edward Outlaw, et. al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 186P04.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 12, 2004.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Anthony Dove, Pro Se.\n </attorneys>\n <attorneys id=\"p-6\">\n  Kari R. Johnson, Jaye E. Bingham, Raleigh, for Wil-O-Wisp Apartments et al.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Plaintiff on the 19th day of July 2004 for rehearing of the decision of this Court pursuant to Rule 31, N.C. Rules of Appellate Procedure, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <blockquote id=\"p-9\">\n   \"Dismissed by order of the Court in conference, this the 12th day of August 2004.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"871\" lastpage=\"871\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b913-2\">Supreme Court \u2014 Appellate Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A3TU\">October, 1901.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"AgD4\">Before Freedman, P. J., McAdam and Gildersleeve, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b913-3\">Kate J. Collins, Respondent, v. Anderson Fowler, Appellant.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Ai3\">Appeal from, a judgment of the General Term of the City Court of the city of New York, affirming a judgment in favor of plaintiff, entered upon the report of a referee.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ag3t\">Weiser &amp; Bridges (Rastus S. Ransom &amp; Henry W. Bridges, of counsel), for appellant;</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AQ-8\">Howe <em>&amp; </em>Hummel, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4H\">The judgment appealed from should be affirmed, with costs. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

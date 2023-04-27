@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b598-12\">No. 10-724.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ALeF\">Janet Hatmaker, Petitioner v. Memorial Medical Center.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b598-13\">562 U.S. 1270, 131 S. Ct. 1603,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"amc-dedup-2\">179 L. Ed. 2d 500,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"azjv-dedup-0\">2011 U.S. LEXIS 2078.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b598-14\">March 7, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0KA\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"b598-15\">Same case below, 619 F.3d 741.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

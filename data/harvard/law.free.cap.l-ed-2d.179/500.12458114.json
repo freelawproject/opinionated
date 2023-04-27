@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"500\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b598-19\">No. 10-749.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AZ00\">Richard Hongsermeier, et ux., Petitioners v. Commissioner of Internal Revenue.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b598-20\">562 U.S. 1271, 131 S. Ct. 1604,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AbQh\">179 L. Ed. 2d 500,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"At_E\">2011 U.S. LEXIS 2085.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b598-21\">March 7, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ALi0\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b598-22\">Same case below, 621 F.3d 890.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

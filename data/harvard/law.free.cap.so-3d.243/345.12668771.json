@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"345\" lastpage=\"345\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Gregory MYERS, Appellant,\n  <br/>\n  v.\n  <br/>\n  U.S. BANK NATIONAL ASSOCIATION, as trustee FOR CREDIT SUISSE FIRST BOSTON CSFB 2005-11, Appellee.\n </parties>\n <parties id=\"p-2\">\n  Barbara Ann Kelly, Appellant,\n  <br/>\n  v.\n  <br/>\n  U.S. Bank National Association, as trustee for Credit Suisse First Boston CSFB 2005-11, Appellee.\n </parties>\n <docketnumber id=\"p-3\">\n  Case No. 2D15-4521\n  <br/>\n  Case No. 2D15-4836\n </docketnumber>\n <court id=\"p-4\">\n  District Court of Appeal of Florida, Second District.\n </court>\n <decisiondate id=\"p-5\">\n  Opinion filed March 21, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   DECISION WITHOUT PUBLISHED OPINION\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Affirmed.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

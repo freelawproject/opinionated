@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"755\" lastpage=\"755\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b791-9\">In the Matter of the Estate of William Salzer, Deceased. Helen A. Maycrink, Appellant; Benjamin Salzer, as Executor of William Salzer, Deceased, Respondent.</parties>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b791-11\">Reported below, 264 App. Div. 846.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b791-12\">Submitted November 23, 1942;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A-WK\">decided December 10, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b791-14\"><em>Jacob Rappaport </em>for motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b791-15\"><em>Emanuel Schwartz </em>opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b791-16\">Motion dismissed, with ten dollars costs and necessary printing disbursements on the ground that the order does not finally determine the proceeding within the meaning of the Constitution.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

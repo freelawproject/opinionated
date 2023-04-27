@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1101\" lastpage=\"1101\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1147-22\">No. 09-10480.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AcVm\">Tony A. Wilson, Petitioner v. Howard E. Emond, Jr.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1147-23\">561 U.S. 1031, 130 S. Ct. 3516,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Atod\">177 L. Ed. 2d 1101,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A0rH\">2010 U.S. LEXIS 5363.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1147-24\">June 28, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aigg\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<p id=\"b1147-25\">Same case below, 373 Fed. Appx. 98.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

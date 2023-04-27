@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"676\" lastpage=\"676\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b710-3\">No.-. Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AcX\"><em>Ex parte: </em>In the Matter of Dan Chain, Petitioner.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"AA4\">Submitted January 28, 1913;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ase\">Decided February 3, 1913.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"ArL1\"><em>Mr. </em>A, <em>M. Belcher </em>and <em>Mr. H. W. Houston </em>for the petitioner.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_i\">Motion for leave to file petition for writ of <em>habeas corpus </em>denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

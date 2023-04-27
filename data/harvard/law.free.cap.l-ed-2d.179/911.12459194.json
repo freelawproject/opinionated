@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"912\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1009-26\">No. 10-9323.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A9MY\">Greg Gaines, Petitioner v. South Carolina, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1009-27\">563 U.S. 947, 131 S. Ct. 2118,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AJNW\">179 L. Ed. 2d 911,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AGWy\">2011 U.S. LEXIS 3131.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1009-28\">April 18, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ao2o-dedup-0\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Fourth Circuit denied.</p>\n<p id=\"b1010-3\"><page-number citation-index=\"1\" label=\"912\">*912</page-number>Same case below, 395 Fed. Appx. 988.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"326\" lastpage=\"326\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b372-26\">No. 09-9635.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ahl-dedup-0\">Antonio Lee Williams, Petitioner v. Texas.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b372-27\">560 U.S. 966, 130 S. Ct. 3411,</citation>\n<citation data-order=\"3\" data-type=\"citation\" id=\"anq-dedup-0\">2010 U.S. LEXIS 4837.</citation>\n<p data-order=\"4\" data-type=\"citation\" id=\"A_Fh\">177 L. Ed. 2d 326,</p>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b372-28\">June 14, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOW\">Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied.</p>\n<p id=\"b372-29\">Same case below, 301 S.W.3d 675.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"530\" lastpage=\"530\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b582-4\">No. \u2014, original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ay3\">Ex parte Rhode Island et al.</parties>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"ARHY\"><em>Mr. Sigmund W. Fischer, Jr., </em>for petitioner in support of the motion.</attorneys>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"ASi\"><em>Solicitor General Hughes </em>for respondent in opposition thereto.</attorneys>\n<otherdate data-order=\"4\" data-type=\"otherdate\" id=\"Abd\">Motion submitted January 6, 1930.</otherdate>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"AGQ\">Decided January 8, 1930.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AcS\">The motion for leave to file, a petition for writ of mandamus is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

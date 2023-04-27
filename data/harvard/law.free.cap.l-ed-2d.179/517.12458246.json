@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"517\" lastpage=\"517\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b615-21\">No. 10-8884.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"apei-dedup-0\">Dennis Paris, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b615-22\">562 U.S. 1280, 131 S. Ct. 1622,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aec-dedup-2\">179 L. Ed. 2d 517,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"aoo6-dedup-0\">2011 U.S. LEXIS 1942.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b615-23\">March 7, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ATdtf\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"AX5M\">Justice Sotomayor took no part in the consideration or decision of this petition.</judges>\n<p id=\"b615-24\">Same case below, 621 F.3d 101.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

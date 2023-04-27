@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"620\" lastpage=\"620\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b632-8\" pgmap=\"632\">In re BRENNAN, John Francis</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A7U\" pgmap=\"632\">(MR 19433)</docketnumber><p data-order=\"2\" data-type=\"docketnumber\" id=\"AC\" pgmap=\"632\">Chicago, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b632-12\" pgmap=\"632\">Order of the Court:</p> <p id=\"b632-13\" pgmap=\"632\">The petition by the Administrator of the Attorney Registration and Disciplinary Commission to impose discipline on consent pursuant to Supreme Court Rule 762(b) is allowed, and respondent John Francis Brennan is censured.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

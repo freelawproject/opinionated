@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"702\" lastpage=\"702\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b730-4\">LOUIS BERGER <em>v. </em>STATE OF MARYLAND.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b730-5\">[No. 22,</docketnumber>\n<p data-order=\"2\" data-type=\"misc\" id=\"AYH\">October Term, 1933.]</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b730-8\">\n<em>Decided October 27th, 1933.</em>\n</decisiondate>\n<p data-order=\"4\" data-type=\"judges\" id=\"b730-11\">The cause was submitted to Bond, C. J., Pattison, Urner, Adkins, Offutt, Digges, Parke, and Sloan, JJ.</p>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b730-12\"><em>Bernard Ades, </em>for the appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b730-13\"><em>Wm. Preston Lame, Jr., Attorney General, G. C. Anderson, Assistamt Attorney General, </em>and <em>A. Theodore Brady, State s Attorney for Anne Arundel County, </em>for the State.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b730-14\">The opinion was delivered</p>\n<author id=\"A8i\">\n<em>per Curiam.</em>\n</author>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

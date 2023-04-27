@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1064\" lastpage=\"1064\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1110-27\">No. 09-9007.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AW0\">Andre R. Thomas, Petitioner v. Thomas L. Carroll, Warden, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1110-28\">561 U.S. 1011, 130 S. Ct. 3462,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A8ol\">177 L. Ed. 2d 1064,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AMB1\">2010 U.S. LEXIS 5005.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1110-29\">June 21, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aevm\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Third Circuit denied.</p>\n<p id=\"b1110-30\">Same case below, 581 F.3d 118.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

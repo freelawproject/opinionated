@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"333\" lastpage=\"333\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b431-8\">No. 10-8100.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Aq1F\">Paul Free, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b431-9\">562 U.S. 1235, 131 S. Ct. 1509,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aym-dedup-2\">179 L. Ed. 2d 333,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AH78\">2011 U.S. LEXIS 1672,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b431-10\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aox-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

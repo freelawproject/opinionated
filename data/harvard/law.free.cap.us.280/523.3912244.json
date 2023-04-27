@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"523\" lastpage=\"523\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b575-6\">No. \u2014, original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AufW\">Ex parte Atwood et al.</parties>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"AXB\"><em>Mr. Lyman K. Clark, Jr., </em>for petitioners.</attorneys>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AAKN\">Motion submitted November 4, 1929.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AnR\">Decided November 25, 1929.</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ahpp\">The motion for leave to file petition for writ of mandamus is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

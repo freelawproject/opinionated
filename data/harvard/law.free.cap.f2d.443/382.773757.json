@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"382\" lastpage=\"382\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b444-4\">UNITED STATES of America, Appellee, v. Danny Bruce McINTURFF, Appellant.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b444-6\">No. 71-1210.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b444-7\">United States Court of Appeals, Ninth Circuit.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b444-8\">June 17, 1971.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b444-10\">Henry P. Opendack, Seattle, Wash., for appellant.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b444-11\">Richard K. Burke, U. S. Atty., James M. Wilkes, Asst. U. S. Atty., Tucson, Ariz., for appellee.</attorneys>\n<p data-order=\"6\" data-type=\"judges\" id=\"b444-12\">Before CHAMBERS, HAMLEY and MERRILL, Circuit Judges.</p>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b444-13\">The judgment is affirmed. United States v. Johnston, 440 F.2d 389 (9th Cir. 1971).</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"666\" lastpage=\"666\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b764-7\">No. 10-9046.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"asmk-dedup-1\">Jamie Stanton, Petitioner v. Bruce A. Salzburg, Attorney General of Wyoming.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b764-8\">563 U.S. 910, 131 S. Ct. 1798,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A0dZ\">179 L. Ed. 2d 666,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"aydm-dedup-0\">2011 U.S. LEXIS 2423.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b764-9\">March 28, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ad8g-dedup-0\">Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n<p id=\"AXP2\">Same case below, 401 Fed. Appx. 313.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

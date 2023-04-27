@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"651\" lastpage=\"651\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b663-11\" pgmap=\"663\">In re NEUENDORF, Louis Ernest</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AxY\" pgmap=\"663\">(MR 19441)</docketnumber><p data-order=\"2\" data-type=\"court\" id=\"Adm\" pgmap=\"663\">Sandwich, IL</p> <opinion data-order=\"3\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <p id=\"b663-15\" pgmap=\"663\">Order of the Court:</p> <p id=\"b663-16\" pgmap=\"663\">The petition by respondent Louis Ernest Neuendorf for leave to file exceptions to the report and recommendation of the Review Board is denied. Respondent is disbarred, as recommended by the Review Board.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

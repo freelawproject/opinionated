@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"342\" lastpage=\"342\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b440-11\">No. 10-8244.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AET1\">Linda Henning, Petitioner v. Allen Cooper, Warden, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b440-12\">562 U.S. 1240, 131 S. Ct. 1523,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"aco-dedup-2\">179 L. Ed. 2d 342,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AoAF\">2011 U.S. LEXIS 1629.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b440-13\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A4LG\">Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n<p id=\"b440-14\">Same case below, 381 Fed. Appx. 847.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

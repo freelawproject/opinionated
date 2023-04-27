@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"21\" lastpage=\"21\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Charles L. RYAN, Director, Arizona Department of Corrections, et al., applicants,\n  <br/>\n  v.\n  <br/>\n  Joseph WOOD, III.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14A82.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  July 22, 2014.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Application to vacate the judgment of the United States Court of Appeals for the Ninth Circuit granting a conditional preliminary injunction presented to Justice KENNEDY and by him referred to the Court granted. The district judge did not abuse his discretion in denying Wood's motion for a preliminary injunction. Judgment of the United States Court of Appeals for the Ninth Circuit reversing the district court and granting a preliminary injunction vacated.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

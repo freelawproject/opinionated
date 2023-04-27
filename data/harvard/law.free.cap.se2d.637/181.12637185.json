@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"181\" lastpage=\"181\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Shamonte Arnell GREEN.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 345P06.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  October 5, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Barbara S. Blackman, Matthew D. Wunsche, Assistant Appellate Defenders, for Green.\n </attorneys>\n <attorneys id=\"p-6\">\n  Beirne M. Harding, Assistant District Attorney, Robert C. Montgomery, Special Deputy Attorney General, Thomas J. Keith, for State.\n </attorneys>\n <p id=\"p-7\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Defendant on the 28th day of June 2006 for Writ of Supersedeas of the Order of the Forsyth County Superior Court, the following order was entered and is hereby certified to the Forsyth County Superior Court:\n  </p>\n  <p id=\"p-9\">\n   \"Dismissed as Moot by order of the Court in conference, this the 5th day of October 2006.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

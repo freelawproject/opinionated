@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1137\" lastpage=\"1137\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b1155-8\">BOWNS, Respondent, v. STEWART, Appellant.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"ApXZ\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"AGk0\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A0M\">May 22, 1899.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AJum\">Action by Henry E. Bowns against Samuel Stewart. There was judgment for plaintiff, from which defendant appeals.</summary>\n<disposition data-order=\"5\" data-type=\"disposition\" id=\"AtK\">Affirmed.</disposition>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ACL\">John H. Rogan, for appellant.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"ACq\">Putney &amp; Bishop, for respondent</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"AqBG\">PER CURIAM.</author>\n<p id=\"AsSs\">We have examined the case, and points submitted, and do not find any error-committed. We therefore think the judgment should be affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

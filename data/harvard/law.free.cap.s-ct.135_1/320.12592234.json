@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"320\" lastpage=\"320\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Fadi AL-MAQALEH, et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  Chuck HAGEL, Secretary of Defense, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 14M21.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 6, 2014.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Motion for leave to proceed\n   <em>\n    in forma pauperis\n   </em>\n   without affidavits of indigency executed by petitioners granted.\n  </p>\n  <author id=\"p-7\">\n   Justice KAGANtook no part in the consideration or decision of this motion.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

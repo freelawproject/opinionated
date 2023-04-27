@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"668\" lastpage=\"668\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  COURTNEY NC LLC\n  <br/>\n  v.\n  <br/>\n  BALDWIN\n </parties>\n <docketnumber id=\"p-2\">\n  219P17-1\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  July 7, 2017\n </decisiondate>\n <attorneys id=\"p-5\">\n  Monette Baldwin, for Baldwin, Monette.\n </attorneys>\n <attorneys id=\"p-6\">\n  A Bartlett White, Attorney at Law, Raleigh, Stephanie D'Atri, Attorney at Law, for Courtney NC, LLC\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 5th of July 2017 by Defendant for Temporary Stay:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Denied by order of the Court in conference, this the 7th of July 2017.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Beasley, J. recused\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1240\" lastpage=\"1240\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  CITY OF ORLANDO and Relation Insurance Services, Appellants,\n  <br/>\n  v.\n  <br/>\n  John BEST, Appellee.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 1D18-2902\n </docketnumber>\n <court id=\"p-3\">\n  District Court of Appeal of Florida, First District.\n </court>\n <otherdate id=\"p-4\">\n  Date of Accident: November 23, 2011\n  <br/>\n  April 15, 2019\n  <br/>\n  Rehearing Denied June 4, 2019\n </otherdate>\n <attorneys id=\"p-5\">\n  Kristen L. Magana of Broussard, Cullen &amp; Blastic, P.A., Orlando, for Appellants.\n </attorneys>\n <attorneys id=\"p-6\">\n  Lawrence H. Hornsby of Hornsby Law, Winter Park, and Wendy S. Loquasto of Fox &amp; Loquasto, LLC, Tallahassee, for Appellee.\n </attorneys>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   Per Curiam.\n  </author>\n  <p id=\"p-8\">\n   AFFIRMED .\n  </p>\n  <p id=\"p-9\">\n   B.L. Thomas, C.J., and Lewis and Roberts, JJ., concur.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

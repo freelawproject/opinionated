@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"305\" lastpage=\"305\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b403-16\">No. 10-793.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AKmY\">Darren Roy Mack, Petitioner v. Nevada.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b403-17\">562 U.S. 1219, 131 S. Ct. 1493,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AcqN\">179 L. Ed. 2d 305,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"adj-dedup-1\">2011 U.S. LEXIS 1471.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b403-18\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ayb-dedup-0\">Petition for writ of certiorari to the Supreme Court of Nevada denied.</p>\n<p id=\"b403-19\">Same case below, 126 Nev. 735.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"836\" lastpage=\"836\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b872-5\">Schenectady Trust Company, as Trustee, Appellant, <em>v. </em>Nathaniel D. Emmons, Defendant-Respondent, and Elizabeth B. Emmons et al., Infants, Defendants-Appellants et al., Defendants.</parties>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b872-8\">Reported below, 264 App. Div. 974.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b872-9\">Argued January 4, 1943;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AxKEn\">decided January 14, 1943.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b872-11\"><em>Walter A. Fullerton </em>for motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b872-12\"><em>Arthur S. Golden </em>and <em>Edmund B. Bellinger </em>opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b872-13\">Motion denied, with ten dollars costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

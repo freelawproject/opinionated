@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"643\" lastpage=\"644\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b679-12\">In the Matter of Raymond A. Morgan, Appellant, against Holton V. Noyes, as Commissioner of Agriculture and Markets of the State of New York, et al., Respondents.</parties>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b679-14\">Reported below, 264 App. Div. 823.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b679-15\">Submitted October 5, 1942;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Au6z\">decided October 15, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b680-5\"><page-number citation-index=\"1\" label=\"644\">*644</page-number><em>Milo R. Kniffen, Robert I. Millonzi, Hampton H. Halsey </em>and <em>Robert Lamont </em>for motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b680-6\"><em>Thomas M. Nichols </em>opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b680-7\">Motion denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

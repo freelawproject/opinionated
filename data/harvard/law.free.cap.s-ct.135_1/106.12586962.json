@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"106\" lastpage=\"106\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Doug WELBORN, in His Official Capacity as Clerk of Court of Nineteenth Judicial District for the Parish of East Baton Rouge, Louisiana, et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  BANK OF NEW YORK MELLON CORPORATION, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-1449.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 6, 2014.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

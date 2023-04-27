@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1110\" lastpage=\"1110\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1156-16\">No. 09-11073.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AfRF\">Tsegaye D. Takele, Petitioner v. The Mayo Clinic.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1156-17\">561 U.S. 1036, 130 S. Ct. 3530,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A8yV\">177 L. Ed. 2d 1110,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ANzZ\">2010 U.S. LEXIS 5341,</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1156-18\">June 28, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"a6c-dedup-0\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Eighth Circuit denied.</p>\n<p id=\"b1156-19\">Same case below, 576 F.3d 834.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

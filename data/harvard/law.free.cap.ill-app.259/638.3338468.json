@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"638\" lastpage=\"639\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b672-18\" pgmap=\"672\">A. Harris, appellee, v. Gertrude Yegendorf et al., appellants.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"A52\" pgmap=\"672\">Gen. No. 33,786.</docketnumber><otherdate data-order=\"2\" data-type=\"otherdate\" id=\"Af7\" pgmap=\"672(15) 673(2)\">Heard in the third division of this court for the first district at the October term, 1929.</otherdate><p data-order=\"3\" data-type=\"judges\" id=\"ADx\" pgmap=\"673\">Friend, J., not participating.</p><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"A3i\" pgmap=\"673\">Opinion filed October 29, 1930.</decisiondate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b673-4\" pgmap=\"673\">Levisohn &amp; Levisohn, for appellants. Frances E. Spooner, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b673-5\" pgmap=\"673\">Mr. Justice Hebei</author> <p id=\"AkLG\" pgmap=\"673\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

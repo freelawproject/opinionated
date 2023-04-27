@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"911\" lastpage=\"911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1009-2\">No. 10-9280.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AXDs\">Jamel Black, Petitioner v. New York.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1009-3\">563 U.S. 947, 131 S. Ct. 2117,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AsIK\">179 L. Ed. 2d 911,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A2OI\">2011 U.S. LEXIS 3154.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1009-4\">April 18, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A7ZK\">Petition for writ of certiorari to the Court of Appeals of New York denied.</p>\n<p id=\"b1009-5\">Same case below, 15 N.Y.3d 625, 917 N.Y.S.2d 39, 942 N.E.2d 248.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

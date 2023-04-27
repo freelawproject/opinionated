@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"761\" lastpage=\"761\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b797-14\">2018 Seventh Ave., Inc., Respondent, <em>v. </em>Nach-Haus Leasing Corporation, Appellant.</parties>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b797-17\">Reported below, 264 App. Div. 834.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b797-18\">Submitted December 7, 1942;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Az3\">decided December 10, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b797-20\"><em>David Seid </em>for motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b797-21\"><em>T. E. Purcell </em>opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b797-22\">Motion denied. (See 289 N. Y. 490, 650.)</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

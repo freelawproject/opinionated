@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"568\" lastpage=\"569\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Timothy L. JARQUIN\n  <br/>\n  v.\n  <br/>\n  Danny R. BLANKS, Individually and in his Capactiy as a Member and Manager of Pontchartrain Partners, L.L.C.; Barlow J. Cook, Individually and in his Capacity as a Member of Pont Chartrain Partners, L.L.C; James R. Washington, III, Individually and in his Capacity as a Member of Pontchartrain Partners, L.L.C.; Mary LeBlanc, Individually and in her Capacity as Director of Human Resources of Pontchartrain Partners, L.L.C.\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-CC-0548\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 25, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   GENOVESE, J., would grant.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

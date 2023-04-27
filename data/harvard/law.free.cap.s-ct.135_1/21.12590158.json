@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"21\" lastpage=\"21\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  TONY HSIAO-PING CHENG, petitioner,\n  <br/>\n  v.\n  <br/>\n  SCHLUMBERGER.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-9302.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  July 21, 2014.\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   Opinion\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-6\">\n   Petition for rehearing denied.\n  </p>\n  <author id=\"p-7\">\n   Justice ALITOtook no part in the consideration or decision of this petition.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

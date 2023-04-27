@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1148\" lastpage=\"1148\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"attorneys\" id=\"b1166-7\">ROSENSTOCK et al., Appellants, v. MONTAGUE, Respondent.</parties>\n<court data-order=\"1\" data-type=\"court\" id=\"Ax75J\">(City Court of New York,</court>\n<p data-order=\"2\" data-type=\"misc\" id=\"A-Jq\">General Term.</p>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"Ai5X\">May 26, 1899.)</decisiondate>\n<summary data-order=\"4\" data-type=\"summary\" id=\"AQn7\">Action by Samuel Rosenstock and others against Clara Montague. From an order in favor of defendant entered on a verdict directed by the court, plaintiffs appeal.</summary>\n<disposition data-order=\"5\" data-type=\"disposition\" id=\"AgBN\">Affirmed.</disposition>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AX8Q\">Abner C. Thomas, for appellants.</attorneys>\n<attorneys data-order=\"7\" data-type=\"attorneys\" id=\"AMJ\">Robert L. Redfield, for respondent.</attorneys>\n<opinion data-order=\"8\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b1166-8\">PER CURIAM.</author>\n<p id=\"A3NS\">Judgment appealed from affirmed, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

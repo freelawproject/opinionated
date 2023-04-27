@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"299\" lastpage=\"300\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b397-28\">No. 10-432.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"akz-dedup-0\">Dewayne Beggs, Sheriff, Cleveland County, Oklahoma, et al., <page-number citation-index=\"1\" label=\"300\">*300</page-number>Petitioners v. Anna M. Boen, Personal Representative of the Estate of Eva June Crowell, Deceased.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b398-4\">562 U.S. 1216, 131 S. Ct. 1470,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Axmd\">179 L. Ed. 2d 299,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A7l\">2011 U.S. LEXIS 1493.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b398-5\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"adr-dedup-1\">Petition for writ of certiorari to the Supreme Court of Oklahoma denied.</p>\n<p id=\"b398-6\">Same case below, 237 P.3d 134.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"841\" lastpage=\"841\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b877-9\">James B. Martin et al., Respondents <em>v. </em>DiMarco &amp; Reimann, Inc., Appellant et al., Defendants.</parties>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b877-12\">Reported below, 264 App. Div. 234.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b877-13\">Argued January 18, 1943;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AYd\">decided January 19, 1943.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b877-16\"><em>Henry E. Stohldreier </em>and <em>Walter W. Westall </em>for motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b877-17\"><em>Howard L. Kuttner </em>opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b877-18\">Motion granted.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"905\" lastpage=\"905\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Carlos Maurice FRINK\n  <br/>\n  v.\n  <br/>\n  CUMBERLAND COUNTY SUPERIOR COURT.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 409P03-2.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  December 2, 2004.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Carlos M. Frink, Pro Se.\n </attorneys>\n <attorneys id=\"p-6\">\n  William P. Hart, Special Deputy Attorney General, Edward W. Grannis, Jr., District Attorney, for Cumberland County Superior Court.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed on the 3rd day of November 2004 by Plaintiff in this matter for Writ of Error Coram Nobis, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <blockquote id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 2nd day of December 2004.\"\n  </blockquote>\n  <author id=\"p-10\">\n   Justice BRADY recused.\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

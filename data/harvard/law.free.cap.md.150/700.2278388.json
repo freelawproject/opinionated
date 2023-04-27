@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"700\" lastpage=\"701\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b724-14\">HOWE TOTTEN <em>v. </em>PRISCILLA STEARNS TOTTEN.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b724-16\">\n<em>Decided April 23rd, 1926.</em>\n</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b725-5\"><page-number citation-index=\"1\" label=\"701\">*701</page-number>The cause was argued before Borro, C. J., Pattison, Henee, Adkins, Oefutt, Digges, Paeke, and Walsii, J\"J.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b725-6\"><em>Elmer J. Cook </em>and <em>Edgar Allan Poe, </em>for the appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b725-7\"><em>George Weems Williams </em>and <em>Edward H. Burke, </em>for the appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b725-8\">Adkins, J.,</author>\n<p id=\"AO6\">delivered the opinion of the Court, affirming the decree, with costs to the appellee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"314\" lastpage=\"314\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b360-15\">No. 09-10632.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AB9\">Isaac Headman, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b360-16\">560 U.S. 958, 130 S. Ct. 3401,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AnKT\">177 L. Ed. 2d 314,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Aa5z\">2010 U.S. LEXIS 4647.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b360-17\">June 7, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AELX\">Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n<p id=\"b360-18\">Same case below, 594 F.3d 1179.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

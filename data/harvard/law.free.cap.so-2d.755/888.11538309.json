@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"888\" lastpage=\"888\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"ATS1\">John W. PARKER v. SOUTHWESTERN OFFSHORE CORPORATION, et al.</parties>\n<docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b940-4\">No. 2000-C-0081.</docketnumber>\n<court data-order=\"2\" data-type=\"court\" id=\"b940-5\">Supreme Court of Louisiana.</court>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b940-6\">Feb. 25, 2000.</decisiondate>\n<p data-order=\"4\" data-type=\"attorneys\" id=\"b940-7\">Prior report: La.App., \u2014 So.2d-.</p>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b940-8\">In re Southwestern Offshore Corp. Inc.; \u2014 Defendant; applying for writ of cer-tiorari and/or review, Parish of Caldwell, 37th Judicial District Court Div. F, Nos. 20501; to the Court of Appeal, Second Circuit, No. 32,606-CA.</p>\n<p id=\"b940-9\">Denied.</p>\n<judges id=\"b940-10\">KNOLL, J., not on panel.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

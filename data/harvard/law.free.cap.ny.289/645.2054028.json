@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"645\" lastpage=\"645\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b681-9\">In the Matter of Sidney M. Wittner, Appellant; Association of the Bar of the City of New York, Respondent.</parties>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b681-11\">Reported below, 264 App. Div. 576.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b681-12\">Submitted October 5, 1942;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A0g\">decided October 15, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b681-14\"><em>Dinar Chrystie </em>for motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b681-15\"><em>Sidney M. </em>Wittner, in person, and <em>Lloyd Paul Stryker </em>opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AEF\">Motion denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

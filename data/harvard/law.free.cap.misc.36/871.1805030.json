@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"871\" lastpage=\"871\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b913-17\">City Court of New York \u2014 General Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"A5H\">November, 1901.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"Ah9\">Before Conlan and Hascall, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"pAa2A\">Joseph Barondess, Respondent, v. Paul M. Kaminsky et al., Appellants.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"ARup\">Appeal from a entered verdict and order denying motion for new trial.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"Ax4\">William Klingenstein, for appellants;</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"ANbp\">Henry Kuntz, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AOz\">Judgment and order should be affirmed, with costs. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

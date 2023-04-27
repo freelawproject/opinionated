@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"301\" lastpage=\"301\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b399-17\">No. 10-605.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"arm-dedup-0\">Home Builders Association of Northern California, et al., Petitioners v. United States Fish and Wildlife Service, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b399-18\">562 U.S. 1217, 131 S. Ct. 1475,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A8F\">179 L. Ed. 2d 301,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"alm-dedup-0\">2011 U.S. LEXIS 1392.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b399-19\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A0CZ\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"AAI\">Same case below, 616 F.3d 983.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"701\" lastpage=\"701\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b725-9\">CHARLES C. BENJAMIN, Administrator, <em>v. </em>KLOTSCH &amp; APPEL, Incorporated, et al.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b725-13\">\n<em>Decided May 4th, 1926.</em>\n</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b725-16\">The cause was argued before Bond, C. J., Pattison, Henee, Oefutt, Digges, Paeke and Walsh, JJ.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b725-17\"><em>David Ash, </em>for the appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b725-18\"><em>Albert A. Sapero, </em>for the appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b725-19\">Urner, J.,</author>\n<p id=\"Aqu\">delivered the opinion of the Court, affirming the decree, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

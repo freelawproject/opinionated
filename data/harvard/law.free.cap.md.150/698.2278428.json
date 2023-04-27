@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"698\" lastpage=\"698\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b722-3\">DAVID MILLAR <em>v. </em>AGNES L. MILLAR.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b722-7\">\n<em>Decided March 10th, 1926.</em>\n</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b722-10\">The cause was argued before Bond, C. J., Pattison, Ubneb, Adkins, Oefdtt, Digges, and Pabke, JJ.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b722-11\"><em>Charles W. Heuisler, </em>with whom was <em>Morrill N. Packard </em>on the brief, for the appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b722-12\"><em>Watson E. Sherwood, </em>for the appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b722-13\">Urner, J.,</author>\n<p id=\"AYox\">delivered the opinion of the Court, affirming the decree, with costs.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

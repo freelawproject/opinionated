@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"5\" lastpage=\"5\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b593-11\">STATE OF MONTANA, Plaintiff, vs. RALPH DEAVILA, Defendant.</parties>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"b593-12\">DECISION</p>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b593-13\">No. 9412</docketnumber>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b593-17\">DATED this 24th day of April, 1975.</decisiondate>\n<opinion data-order=\"4\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b593-14\">The application of the above-named defendant for a review of the sentence of 7 years with 1 year deferred for Burglary and Criminal Possession of Dangerous Drugs imposed on October 11th, 1974, was fully heard and after a careful consideration of the entire matter it is decided that:</p>\n<p id=\"b593-15\">The sentence be and remain as originally imposed.</p>\n<p id=\"b593-16\">We wish to thank David Wing of the Montana Defender Project for his assistance to the defendant and to this court.</p>\n<p id=\"b593-18\">SENTENCE REVIEW DIVISION</p>\n<judges id=\"AjC\">Jack D. Shanstrom, Chairman; Jack L. Green, Robert C. Sykes.</judges>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"702\" lastpage=\"702\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b726-3\">ROBERT EARL NICKEL <em>v. </em>ELENORA NICKEL.</parties>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"b726-6\">\n<em>Decided June 11th, 1926.</em>\n</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b726-9\">The cause was argued before Bowd, C. J., Pattisow, Urwer, Adkiws, Oeeutt, Digges, Paeke, and Walsh, JJ.</p>\n<attorneys data-order=\"3\" data-type=\"attorneys\" id=\"b726-10\"><em>J. Philip Roman </em>and <em>Walter C. Capper, </em>for the appellant.</attorneys>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b726-11\"><em>Howard Galbreth </em>and <em>Harry R. Donnelly, </em>for the appellee.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<author id=\"b726-12\">Adkins, J.,</author>\n<p id=\"ApD\">delivered the opinion of the Court, affirming the decree in part and reversing it in part, and dismissing both the original and cross-bills, with costs to the appellee.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"777\" lastpage=\"777\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b875-12\">No. 10-8742.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"A8UL\">M. V., Petitioner v. Florida Department of Children and Families.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b875-13\">563 U.S. 920, 131 S. Ct. 1819,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A56a\">179 L. Ed. 2d 777,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ApkO\">2011 U.S. LEXIS 2801.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b875-14\">April 4, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"au6v-dedup-0\">Petition for writ of certio-rari to the Supreme Court of Florida denied.</p>\n<p id=\"b875-15\">Same case below, 46 So. 3d 47.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"595\" lastpage=\"595\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><court data-order=\"0\" data-type=\"court\" id=\"b651-2\" pgmap=\"651\">First District.</court><parties data-order=\"1\" data-type=\"parties\" id=\"b651-3\" pgmap=\"651\">Automobile Bonding Company, appellant, v. Edd C. Shain, appellee.</parties><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"A2h\" pgmap=\"651\">Gen. No. 35,723.</docketnumber><p data-order=\"3\" data-type=\"judges\" id=\"AuK\" pgmap=\"651\">Hatchett, J., dissents.</p><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AWt\" pgmap=\"651\">Opinion filed March 28, 1932.</decisiondate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b651-5\" pgmap=\"651\">Short, Rothbart, Willner &amp; Lewis, for appellant; Seymour M. Lewis, of counsel. Ralph A. Berkowitz, for appellee.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b651-6\" pgmap=\"651\">Mr. Presiding Justice O'Connor</author> <p id=\"ACq\" pgmap=\"651\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

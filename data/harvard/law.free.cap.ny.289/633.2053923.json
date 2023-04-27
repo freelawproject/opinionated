@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"633\" lastpage=\"634\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b669-14\">Valley Rolling Mills, Inc., Plaintiff, <em>v. </em>Irving J. Feldman, Trading under the Name of Columbia Tool &amp; Supply Company, Appellant, and Charles T. Baird, Respondent, Impleaded with Another.</parties>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b669-16\">Reported below, 264 App. Div. 717.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b669-17\">Submitted July 29, 1942;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AbU\">decided October 8, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b670-6\"><page-number citation-index=\"1\" label=\"634\">*634</page-number><em>Carl K. Harten </em>for motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b670-7\"><em>Leo Sandler </em>opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b670-8\">Motion dismissed, with ten dollars costs and necessary printing disbursements on the ground that the application was not made within the time fixed by the Civil Practice Act.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

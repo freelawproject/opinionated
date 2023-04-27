@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"586\" lastpage=\"586\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE SOUTHEASTERN EYE CENTER-PENDING MATTERS\n </parties>\n <parties id=\"p-2\">\n  In re Southeastern Eye Center-Judgments\n </parties>\n <docketnumber id=\"p-3\">\n  No. 259A17\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-5\">\n  March 1, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   Appellant has failed to demonstrate grounds for appellate review under N.C.G.S. 7A-27(a)(3) (2017). The appeal in this matter is therefore dismissed.\n  </p>\n  <p id=\"p-8\">\n   By order of the Court in Conference, this the 1\n   <sup>\n    st\n   </sup>\n   day of March, 2018.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

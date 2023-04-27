@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"603\" lastpage=\"603\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b641-6\">No. -. Original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Az7Y\"><em>Ex parte: </em>In the Matter of Charles F. Wilcox, Petitioner.</parties>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"ADM8\">Submitted March 24, 1913.</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AuH\">Decided April 7, 1913.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"AeQ\">\n<em>Mr. Chas. F. Wilcox pro se.</em>\n</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Age\">Motion for leave to file petition for a writ of mandamus and for leave to proceed <em>in forma pauperis </em>denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"530\" lastpage=\"530\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<p data-order=\"0\" data-type=\"misc\" id=\"b582-5\">No. \u2014, original.</p>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AMO\">Ex parte Bradford.</parties>\n<attorneys data-order=\"2\" data-type=\"attorneys\" id=\"ANTv\"><em>Mr. Otto Gresham </em>for petitioner.</attorneys>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AiHM\">Motion submitted January 6, 1930.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Ad4\">Decided January 13, 1930.</decisiondate>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AjY\">The motion for leave to file petition for writ of mandamus is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

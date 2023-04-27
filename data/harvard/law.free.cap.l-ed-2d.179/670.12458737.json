@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"670\" lastpage=\"671\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b768-24\">No. 10-976.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"aqin-dedup-0\">Freedom Holdings, Inc., et al., Petitioners v. Eric T. Schneiderman, Attorney General of New York, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b768-25\">563 U.S. 913, 131 S. Ct. 1810,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ajzo-dedup-0\">179 L. Ed. 2d 670,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AMmb\">2011 U.S. LEXIS 2548.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b768-26\">March 28, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A_v0\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n<judges id=\"b769-2\"><page-number citation-index=\"1\" label=\"671\">*671</page-number>Justice Sotomayor took no part in the consideration or decision of this petition.</judges>\n<p id=\"b769-3\">Same case below, 624 F.3d 38.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

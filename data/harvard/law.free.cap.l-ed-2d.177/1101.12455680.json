@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1101\" lastpage=\"1101\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1147-19\">No. 09-10475.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"asmc-dedup-1\">Dexter Darnell Johnson, Petitioner v. Texas.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1147-20\">561 U.S. 1031, 130 S. Ct. 3515,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ArhC\">177 L. Ed. 2d 1101,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A65F\">2010 U.S. LEXIS 5495.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1147-21\">June 28, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"aed0-dedup-0\">Petition for writ of cer-tiorari to the Court of Criminal Appeals of Texas denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

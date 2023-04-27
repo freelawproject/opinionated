@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"332\" lastpage=\"332\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b430-10\">No. 10-8091.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ami-dedup-0\">Marshall Fincher, Petitioner v. South Bend Heritage Foundation, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b430-11\">562 U.S. 1234, 131 S. Ct. 1508,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ad6-dedup-0\">179 L. Ed. 2d 332,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ai4-dedup-0\">2011 U.S. LEXIS 1635.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b430-12\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Ae6\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.</p>\n<p id=\"b430-13\">Same case below, 606 F.3d 331.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"23\" lastpage=\"23\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<citation data-order=\"0\" data-type=\"citation\" id=\"b65-6\">520 S.E.2d 842</citation>\n<parties data-order=\"1\" data-type=\"parties\" id=\"b65-7\">Robert ELMORE, s/k/a Robert D. Elmore, Appellant, v. COMMONWEALTH of Virginia, Appellee.</parties>\n<docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b65-10\">Record No. 2366-94-2.</docketnumber>\n<court data-order=\"3\" data-type=\"court\" id=\"b65-11\">Court of Appeals of Virginia.</court>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b65-12\">Nov. 9, 1999.</decisiondate>\n<p data-order=\"5\" data-type=\"judges\" id=\"b65-13\">From the Circuit Court of the City of Petersburg.</p>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b65-16\">The Commonwealth shall recover of the appellant the fees and costs to be assessed by the clerk of the trial court.</p>\n<p id=\"b65-17\">This order shall be published and certified to the trial court.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

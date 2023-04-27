@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"637\" lastpage=\"637\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><parties data-order=\"0\" data-type=\"parties\" id=\"b665-3\" pgmap=\"665\">Cosmopolitan State Bank, appellant, v. Lake Shore Trust &amp; Savings Bank, appellee.</parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"AEA\" pgmap=\"665\">Gen. No. 34,091.</docketnumber><p data-order=\"2\" data-type=\"judges\" id=\"Ahp\" pgmap=\"665\">O\u2019Connor, J., dissents.</p><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"A1A7\" pgmap=\"665\">Opinion filed April 28, 1930.</decisiondate><otherdate data-order=\"4\" data-type=\"otherdate\" id=\"AI3\" pgmap=\"665\">Rehearing denied May 12, 1930.</otherdate><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b665-5\" pgmap=\"665\">Eugene P. Kealy, for appellant. Alden, Latham &amp; Young, for appellee; Hobart P. Young, of counsel.</attorneys> <opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\"> <author id=\"b665-6\" pgmap=\"665\">Mr. Justice Matchett</author> <p id=\"APb\" pgmap=\"665\">delivered the opinion of the court.</p> </opinion> </casebody> ",
+    "status": "ok"
+  }
+}

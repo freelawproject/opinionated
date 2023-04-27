@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"776\" lastpage=\"776\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b874-7\">No. 10-8374.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"anmf-dedup-2\">Paul N. Farmer, Petitioner v. Alaska, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b874-8\">563 U.S. 919, 131 S. Ct. 1816,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"ALHN\">179 L. Ed. 2d 776,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"AWoHM\">2011 U.S. LEXIS 2711.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b874-9\">April 4, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ActD\">Petition for writ of certio-rari to the Supreme Court of Alaska denied.</p>\n<p id=\"b874-10\">Same case below, 235 P.3d 1012.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

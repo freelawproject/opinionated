@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"300\" lastpage=\"300\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b398-16\">No. 10-499.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ao_-dedup-0\">Landmark Screens, LLC, Petitioner v. Morgan, Lewis &amp; Bockius LLP, et al.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b398-17\">562 U.S. 1216, 131 S. Ct. 1472,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"azm-dedup-0\">179 L. Ed. 2d 300,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"alq-dedup-0\">2011 U.S. LEXIS 1472.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b398-18\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ALID\">Petition for writ of certiorari to the Court of Appeal of California, Sixth Appellate District, denied.</p>\n<p id=\"b398-19\">Same case below, 183 Cal. App. 4th 238, 107 Cal. Rptr. 3d 373.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

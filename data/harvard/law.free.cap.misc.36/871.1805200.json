@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"871\" lastpage=\"871\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<court data-order=\"0\" data-type=\"court\" id=\"b913-19\">City Court of New York \u2014 General Term,</court>\n<decisiondate data-order=\"1\" data-type=\"decisiondate\" id=\"AH8a\">December, 1901.</decisiondate>\n<p data-order=\"2\" data-type=\"judges\" id=\"b913-20\">Before Fitzsimons, Ch. J., Delehanty and Schuchman, JJ.</p>\n<parties data-order=\"3\" data-type=\"parties\" id=\"b913-21\">Ephraim Corotinsky, Respondent, v. Harry Maimin, the name Harry being fictitious, etc., Appellant.</parties>\n<summary data-order=\"4\" data-type=\"summary\" id=\"Agv\">Appeal from a judgment entered upon a verdict in favor of the plaintiff, and from an order denying a new trial.</summary>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b913-22\">Frederick J. Moses, for appellant.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"AtO\">John Bogart, for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"Aqe\">Judgment and order appealed from affirmed, with cost. No opinion.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"345\" lastpage=\"345\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b443-13\">No. 10-8304.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"azv-dedup-2\">Kevin Brunn, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b443-14\">562 U.S. 1241, 131 S. Ct. 1529,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"af5-dedup-0\">179 L. Ed. 2d 345,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"apk-dedup-1\">2011 U.S. LEXIS 1552.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b443-15\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AgpX\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n<p id=\"b443-2\">Same case below, 390 Fed. Appx. 631.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

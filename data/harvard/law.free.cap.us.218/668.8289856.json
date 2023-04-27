@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"668\" lastpage=\"668\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b720-8\">No. 8,</docketnumber>\n<p data-order=\"1\" data-type=\"docketnumber\" id=\"Acoz\">Original.</p>\n<parties data-order=\"2\" data-type=\"parties\" id=\"AUb\"><em>Ex parte: </em>In the Matter of Athanasi Nicola, Petitioner.</parties>\n<otherdate data-order=\"3\" data-type=\"otherdate\" id=\"AsH\">Argued November 28, 1910.</otherdate>\n<decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"AID5\">Decided December 5, 1910.</decisiondate>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"AgnY\"><em>Mr. Lon O. Hocker, Mr. J. J. Darlington </em>and <em>Mr. James C. Jones </em>for petitioner.</attorneys>\n<attorneys data-order=\"6\" data-type=\"attorneys\" id=\"Aq5\"><em>Mr. Tyson S. Dines </em>and <em>Mr. Millard F. Watts </em>for respondent.</attorneys>\n<opinion data-order=\"7\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AfFk\">Petition for a writ of mandamus denied, rule discharged, and petition dismissed, on authority of <em>Tobin, Petitioner, </em>214 U. S. 507.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"345\" lastpage=\"345\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b391-10\">No. 09-10754.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AmcW\">Kelvin Miller, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b391-11\">560 U.S. 976, 130 S. Ct. 3439,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AQRL\">177 L. Ed. 2d 345,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A94z\">2010 U.S. LEXIS 4948.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"ATyf\">June 14, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"ABSA\">Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.</p>\n<p id=\"b391-13\">Same case below, 358 Fed. Appx. 750.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

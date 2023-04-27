@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"1178\" lastpage=\"1178\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PMCM TV, LLC, petitioner,\n  <br/>\n  v.\n  <br/>\n  FEDERAL COMMUNICATIONS COMMISSION, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 18-717.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Feb. 19, 2019.\n </decisiondate>\n <opinion id=\"p-5\">\n  Motion of petitioner to defer consideration of the petition for a writ of certiorari denied. Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied.\n </opinion>\n <opinion id=\"p-6\">\n  THE CHIEF JUSTICE and Justice KAVANAUGH took no part in the consideration or decision of this motion and this petition.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
+  }
+}

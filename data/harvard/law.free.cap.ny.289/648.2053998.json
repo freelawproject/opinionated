@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"648\" lastpage=\"649\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b684-13\">George A. Owen, Appellant, <em>v. </em>Westchester Country Club, Inc., Respondent.</parties>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b684-16\">Reported below, 265 App. Div. 796.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b684-17\">Submitted October 5, 1942;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AL5T\">decided October 15, 1942.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b684-19\"><em>Munn Brewer </em>for motion.</attorneys>\n<attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b684-20\"><em>Daniel A. Lynch </em>opposed.</attorneys>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b685-5\"><page-number citation-index=\"1\" label=\"649\">*649</page-number>Motion granted and appeal dismissed, with costs and ten dollars costs of motion unless the appellant files and serves undertaking on appeal and pays ten dollars costs within thirty days, in which event the motion is denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"653\" lastpage=\"653\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of North Carolina\n  <br/>\n  v.\n  <br/>\n  Billy Junior BRADLEY.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 559P06.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  December 14, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  M. Gordon Widenhouse, Jr., Chapel Hill, for Billy Junior Bradley.\n </attorneys>\n <attorneys id=\"p-6\">\n  Amar Majmundar, Special Deputy Attorney General, Jeff Hunt, District Attorney, for State of NC.\n </attorneys>\n <p id=\"p-7\">\n  <em>\n   ORDER\n  </em>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed on the 24th day of October 2006 by Defendant in this matter for discretionary review of the decision of the North Carolina Court of Appeals pursuant to G.S. 7A-31, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <p id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 14th day of December 2006.\"\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

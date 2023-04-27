@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"557\" lastpage=\"558\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX REL. Peter MERCADEL\n  <br/>\n  v.\n  <br/>\n  STATE of Louisiana\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2017-KH-0593\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 25, 2018\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE CRIMINAL DISTRICT COURT, PARISH OF ORLEANS\n  </strong>\n </history>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   PER CURIAM:\n  </author>\n  <p id=\"p-7\">\n   Denied. With the enactment of Acts 2017, No. 280, \u00a7 3, relator's eligibility for parole consideration is no longer dependent upon a commutation of his life sentence to a fixed term of years, but is\n   instead governed by the criteria set forth in La.R.S. 15:574.4.\n  </p>\n </opinion>\n</casebody>\n"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"535\" lastpage=\"535\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Pauline KELLY, Employee, Plaintiff\n  <br/>\n  v.\n  <br/>\n  ADVANCED HOMECARE, INC., Employer,\n  <br/>\n  Zenith Insurance Company, (NC), Carrier, Defendants.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 314P04.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 12, 2004.\n </decisiondate>\n <attorneys id=\"p-5\">\n  James A. Dickens, Raleigh, for Pauline Kelly.\n </attorneys>\n <attorneys id=\"p-6\">\n  Henry C. Byrum, Charlotte, for Homecare &amp; Insurance.\n </attorneys>\n <p id=\"p-7\">\n  <strong>\n   <em>\n    ORDER\n   </em>\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-8\">\n   Upon consideration of the petition filed by Plaintiff on the 23rd day of June 2004 in this matter for a writ of certiorari to review the decision of the North Carolina Court of Appeals, the following order was entered and is hereby certified to the North Carolina Court of Appeals:\n  </p>\n  <blockquote id=\"p-9\">\n   \"Denied by order of the Court in conference, this the 12th day of August 2004.\"\n  </blockquote>\n </opinion>\n</casebody>\n"
+  }
+}

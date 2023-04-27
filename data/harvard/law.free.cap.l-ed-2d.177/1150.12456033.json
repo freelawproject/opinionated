@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1150\" lastpage=\"1150\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1196-19\">No. 09-9000.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"al7-dedup-0\">Henry W. Skinner, Petitioner v. Lynn Switzer, District Attorney for the 31st Judicial District of Texas.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1196-20\">561 U.S. 1057, 131 S. Ct. 64,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A4dH\">177 L. Ed. 2d 1150,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"Alxq\">2010 U.S. LEXIS 5744.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1196-21\">September 28, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"atvg-dedup-0\">Motion of petitioner for appointment of counsel granted. Robert C. Owen, Esquire, of Austin, Texas, is appointed to serve as counsel for the petitioner in this case.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

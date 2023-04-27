@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1111\" lastpage=\"1111\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1157-15\">No. 09-11090.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"Ago1\">Jesse Rondale Bailey, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1157-16\">561 U.S. 1036, 130 S. Ct. 3531,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"AKl4\">177 L. Ed. 2d 1111,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"adn-dedup-2\">2010 U.S. LEXIS 5443.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1157-17\">June 28, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"acqy-dedup-0\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n<p id=\"ATlc\">Same case below, 367 Fed. Appx. 647.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b999-20\">No. 10-8925.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"asbt-dedup-0\">Donald Jones, Petitioner v. James Walker, Warden.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b999-21\">563 U.S. 942, 131 S. Ct. 2103,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"A-EK\">179 L. Ed. 2d 901,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"A97Z\">2011 U.S. LEXIS 3022.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b999-22\">April 18, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AKDD\">Petition for writ of cer-tiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"313\" lastpage=\"313\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b411-9\">No. 10-6935.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"AeDY\">Tanya R. Jenkins, Petitioner v. United States.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b411-10\">562 U.S. 1224, 131 S. Ct. 1472,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"a1d-dedup-0\">179 L. Ed. 2d 313,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"a_t-dedup-0\">2011 U.S. LEXIS 1406.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b411-11\">February 22, 2011.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"AR9f\">Petition for writ of certiorari to the District of Columbia Court of Appeals denied.</p>\n<p id=\"b411-12\">Same case below, 998 A.2d 867.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

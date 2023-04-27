@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"848\" lastpage=\"848\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties data-order=\"0\" data-type=\"parties\" id=\"b884-11\">City of New Rochelle, Respondent, <em>v. </em>Morgan H. Seacord, Appellant et al., Defendants.</parties>\n<p data-order=\"1\" data-type=\"otherdate\" id=\"b884-13\">Reported below, 264 App. Div. 882.</p>\n<otherdate data-order=\"2\" data-type=\"otherdate\" id=\"b884-14\">Submitted January 11, 1943;</otherdate>\n<decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AR2\">decided January 21, 1943.</decisiondate>\n<attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b884-16\"><em>Aaron Simmons, Corporation Counsel (Murray C. Fuerst </em>of counsel), opposed.</attorneys>\n<opinion data-order=\"5\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"b884-17\">Motion dismissed, with ten dollars costs and necessary printing disbursements on the ground that the order does not finally determine the action within the meaning of the Constitution.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}

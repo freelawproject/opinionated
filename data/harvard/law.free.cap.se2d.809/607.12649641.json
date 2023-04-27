@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "status": "ok",
+    "data": "<casebody firstpage=\"607\" lastpage=\"607\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Kevlin W. SELLARS\n </parties>\n <docketnumber id=\"p-2\">\n  64P18-1\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  March 5, 2018\n </decisiondate>\n <attorneys id=\"p-5\">\n  Daniel P. O'Brien, Special Deputy Attorney General, N. Lorrin Freeman, District Attorney, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-6\">\n  Kelvin W. Sellars, for Sellars, Kelvin W.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 2nd of March 2018 by Defendant for Discretionary Review:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Denied by order of the Court in conference, this the 5th of March 2018.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Ervin, J. recused\n  </author>\n </opinion>\n</casebody>\n"
+  }
+}

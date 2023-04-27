@@ -1,0 +1,6 @@
+{
+  "casebody": {
+    "data": "<casebody firstpage=\"1100\" lastpage=\"1100\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b1146-3\">No. 09-10413.</docketnumber>\n<parties data-order=\"1\" data-type=\"parties\" id=\"ae1-dedup-0\">Steven L. Petty, Petitioner v. Rita Lavonne Petty.</parties>\n<citation data-order=\"2\" data-type=\"citation\" id=\"b1146-4\">561 U.S. 1030, 130 S. Ct. 3512,</citation>\n<p data-order=\"3\" data-type=\"citation\" id=\"Au8h\">177 L. Ed. 2d 1100,</p>\n<citation data-order=\"4\" data-type=\"citation\" id=\"ACro\">2010 U.S. LEXIS 5480.</citation>\n<decisiondate data-order=\"5\" data-type=\"decisiondate\" id=\"b1146-5\">June 28, 2010.</decisiondate>\n<opinion data-order=\"6\" data-type=\"opinion\" id=\"x999-1\" type=\"majority\">\n<p id=\"A3Yh\">Petition for writ of cer-tiorari to the Court of Appeals of North Carolina denied.</p>\n<p id=\"b1146-6\">Same case below, 199 N.C. App. 192, 680 S.E.2d 894.</p>\n</opinion>\n</casebody>\n",
+    "status": "ok"
+  }
+}
