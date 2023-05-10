@@ -1,6 +1,1 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"897\" lastpage=\"897\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Louisiana\n    <br/>\n    v.\n    <br/>\n    Damon L. PATTERSON\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 2018-KO-0611\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n   <decisiondate id=\"p-4\">\n    February 11, 2019\n   </decisiondate>\n   <disposition type=\"majority\">\n    <p id=\"p-5\">\n     Motion denied. Writ denied.\n    </p>\n   </disposition>\n  </casebody>\n </body>\n</html>\n"
-  }
-}
+{"casebody": {"status": "ok", "data": "<html>\n<body>\n<casebody firstpage=\"897\" lastpage=\"897\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">\n    STATE of Louisiana\n    <br/>\n    v.\n    <br/>\n    Damon L. PATTERSON\n   </parties>\n<docketnumber id=\"p-2\">\n    NO. 2018-KO-0611\n   </docketnumber>\n<court id=\"p-3\">\n    Supreme Court of Louisiana.\n   </court>\n<decisiondate id=\"p-4\">\n    February 11, 2019\n   </decisiondate>\n<opinion type=\"majority\">\n<p id=\"p-5\">\n     Motion denied. Writ denied.\n    </p>\n</opinion>\n</casebody>\n</body>\n</html>\n"}}

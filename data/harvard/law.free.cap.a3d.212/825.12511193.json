@@ -1,6 +1,1 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    James ST. LOUIS, Defendant Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Delaware, Plaintiff Below, Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 160, 2019\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <otherdate type=\"majority\">\n    <p id=\"p-4\">\n     Submitted: June 13, 2019\n     <br/>\n     Decided: June 18, 2019\n     <br/>\n     Rehearing Denied July 1, 2019\n    </p>\n    <p id=\"p-5\">\n     DISMISSED.\n    </p>\n   </otherdate>\n  </casebody>\n </body>\n</html>\n"
-  }
-}
+{"casebody": {"status": "ok", "data": "<html>\n<body>\n<casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">\n    James ST. LOUIS, Defendant Below, Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Delaware, Plaintiff Below, Appellee.\n   </parties>\n<docketnumber id=\"p-2\">\n    No. 160, 2019\n   </docketnumber>\n<court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n<opinion type=\"majority\">\n<p id=\"p-4\">\n     Submitted: June 13, 2019\n     <br/>\n     Decided: June 18, 2019\n     <br/>\n     Rehearing Denied July 1, 2019\n    </p>\n<p id=\"p-5\">\n     DISMISSED.\n    </p>\n</opinion>\n</casebody>\n</body>\n</html>\n"}}

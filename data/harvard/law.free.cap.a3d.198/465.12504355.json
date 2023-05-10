@@ -1,6 +1,1 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"465\" lastpage=\"465\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    COM. EX REL. JACOBS, A.\n    <br/>\n    v.\n    <br/>\n    CLARK, M.\n   </parties>\n   <docketnumber id=\"p-2\">\n    181 WDA 2018\n   </docketnumber>\n   <court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n   <decisiondate id=\"p-4\">\n    September 18, 2018\n   </decisiondate>\n   <p type=\"majority\">\n    <p id=\"p-5\">\n     Transfer to Commonwealth Court.\n    </p>\n   </p>\n  </casebody>\n </body>\n</html>\n"
-  }
-}
+{"casebody": {"status": "ok", "data": "<html>\n<body>\n<casebody firstpage=\"465\" lastpage=\"465\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">\n    COM. EX REL. JACOBS, A.\n    <br/>\n    v.\n    <br/>\n    CLARK, M.\n   </parties>\n<docketnumber id=\"p-2\">\n    181 WDA 2018\n   </docketnumber>\n<court id=\"p-3\">\n    Superior Court of Pennsylvania.\n   </court>\n<decisiondate id=\"p-4\">\n    September 18, 2018\n   </decisiondate>\n<opinion type=\"majority\">\n<p id=\"p-5\">\n     Transfer to Commonwealth Court.\n    </p>\n</opinion>\n</casebody>\n</body>\n</html>\n"}}
