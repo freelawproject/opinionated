@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2747\" lastpage=\"2747\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Ernest R. ELLIS, Sr., petitioner,\n  <br/>\n  v.\n  <br/>\n  Sloan D. GIBSON, Acting Secretary of Veterans Affairs.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-8804.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  June 9, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=528%20Fed.%20Appx.%201001\">\n   528 Fed.Appx. 1001\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

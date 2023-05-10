@@ -1,6 +1,1 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"1207\" lastpage=\"1207\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE\n    <br/>\n    v.\n    <br/>\n    OJILE\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-1506\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    January 23, 2019\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <judges id=\"p-7\">\n    Fischer and DeWine, JJ., not participating.\n   </judges>\n   <p type=\"majority\">\n    <p id=\"p-6\">\n     APPEALS NOT ACCEPTED FOR REVIEW\n    </p>\n   </p>\n  </casebody>\n </body>\n</html>\n"
-  }
-}
+{"casebody": {"status": "ok", "data": "<html>\n<body>\n<casebody firstpage=\"1207\" lastpage=\"1207\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">\n    STATE\n    <br/>\n    v.\n    <br/>\n    OJILE\n   </parties>\n<docketnumber id=\"p-2\">\n    2018-1506\n   </docketnumber>\n<court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n<decisiondate id=\"p-4\">\n    January 23, 2019\n   </decisiondate>\n<p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n<judges id=\"p-7\">\n    Fischer and DeWine, JJ., not participating.\n   </judges>\n<opinion type=\"majority\">\n<p id=\"p-6\">\n     APPEALS NOT ACCEPTED FOR REVIEW\n    </p>\n</opinion>\n</casebody>\n</body>\n</html>\n"}}

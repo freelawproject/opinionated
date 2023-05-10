@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1911\" lastpage=\"1911\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Bernard LANE, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-9207.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  April 21, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=556%20Fed.%20Appx.%2043\">\n   556 Fed.Appx. 43\n  </extracted-citation>\n  ,\n  <extracted-citation index=\"1\" url=\"https://cite.case.law/citations/?q=2014%20WL%20752270\">\n   2014 WL 752270\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

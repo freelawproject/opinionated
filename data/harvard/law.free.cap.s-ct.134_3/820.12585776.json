@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"820\" lastpage=\"820\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Gregory PAPADOPOULOS, petitioner,\n  <br/>\n  v.\n  <br/>\n  Barack H. OBAMA, President of the United States, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-6088.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 9, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12583968,12583969,12583970,12583971,12583972,12583973,12704296,12704201,12704202,12704305,12704313,12704314\" index=\"0\" url=\"https://cite.case.law/s-ct/134/446/\">\n   134 S.Ct. 446\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1031\" lastpage=\"1031\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <attorneys id=\"p-1\">\n  Herman SAUNDERS, aka Herman Fitzearld, aka Robert Marsh, aka Mickey Marsh, aka Adrian Marsh, petitioner,\n  <br/>\n  v.\n  <br/>\n  MISSISSIPPI.\n </attorneys>\n <docketnumber id=\"p-2\">\n  No. 13-7513.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Jan. 27, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"7003993\" index=\"0\" url=\"https://cite.case.law/so-3d/119/1051/\">\n   119 So.3d 1051\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the Court of Appeals of Mississippi denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

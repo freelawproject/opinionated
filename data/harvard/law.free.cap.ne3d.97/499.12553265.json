@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"499\" lastpage=\"500\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    U.S. BANK NATL. ASSN.\n    <br/>\n    v.\n    <br/>\n    SURREY MEDWICK ACQUISITION, L.L.C.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2017-1819\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    May 9, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <opinion id=\"p-7\">\n    O'Donnell, J., dissents and would hold the cause for the decision in 2017-1377, Farmers\n    State Bank v. Sponaugle.\n   </opinion>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     APPEALS NOT ACCEPTED FOR REVIEW\n    </p>\n    <p id=\"p-8\">\n     DeGenaro, J., dissents and would accept the cause on proposition of law No. I and hold the cause for the decision in 2017-1377, Farmers State Bank v. Sponaugle.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

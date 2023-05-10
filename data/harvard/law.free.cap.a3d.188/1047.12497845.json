@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"1047\" lastpage=\"1047\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of New Jersey, Plaintiff-Movant,\n  <br/>\n  v.\n  <br/>\n  Melvin HESTER, Defendant-Respondent.\n </parties>\n <opinion id=\"p-2\">\n  And Other Related Cases.\n </opinion>\n <docketnumber id=\"p-3\">\n  M-1347/1348/1349 September Term 2017\n  <br/>\n  079228\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of New Jersey.\n </court>\n <decisiondate id=\"p-5\">\n  July 6, 2018\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   ORDER\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   It is ORDERED that the motions for leave to file a supplemental brief (M-1347), for reconsideration of the Court's Opinion (M-1348), and for a stay of the Court's opinion (M-1349) are denied.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

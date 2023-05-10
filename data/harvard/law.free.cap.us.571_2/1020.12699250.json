@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"1020\" lastpage=\"1020\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  TOWNSHIP OF MOUNT HOLLY, NEW JERSEY, et al.,\n  <br/>\n  v.\n  <br/>\n  MT. HOLLY GARDENS CITIZENS IN ACTION, INC., et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 11-1507 (R46-004).\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Nov. 15, 2013.\n </decisiondate>\n <opinion id=\"p-5\">\n  The writ of certiorari was dismissed today pursuant to Rule 46.1 of the Rules of this Court.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

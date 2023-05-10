@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"593\" lastpage=\"593\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE v. RAINES\n   </parties>\n   <court id=\"p-3\">\n    North Carolina Court of Appeals\n   </court>\n   <court id=\"p-4\">\n    North Carolina Court of Appeals\n   </court>\n   <decisiondate id=\"p-5\">\n    Filed October 4, 2005\n   </decisiondate>\n   <decisiondate id=\"p-6\">\n    Certification Date October 24, 2005\n   </decisiondate>\n   <opinion id=\"p-7\">\n    Appeal from Buncombe (03CRS58279, 03CRS58280, 03CRS18023, 03CRS18024, 03CRS57664) Affirmed\n   </opinion>\n   <opinion type=\"majority\">\n    <p id=\"p-2\">\n     COA04-1708\n    </p>\n    <p id=\"p-8\">\n     Cases reported without published opinion. Affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

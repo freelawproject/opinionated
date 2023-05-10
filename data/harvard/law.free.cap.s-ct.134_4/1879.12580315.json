@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1879\" lastpage=\"1879\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Sharon LASKIN, et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  Veronica SIEGEL, Individually and as Trustee of the Phillip P. Siegel Revocable Trust Dated August 28, 1998, and as Executor of the Estate of Phillip P. Siegel, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-942.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  April 21, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"3697922\" index=\"0\" url=\"https://cite.case.law/f3d/728/731/\">\n   728 F.3d 731\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

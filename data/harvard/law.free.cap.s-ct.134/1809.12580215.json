@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1809\" lastpage=\"1810\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Dusan GRMUSA, petitioner,\n  <br/>\n  v.\n  <br/>\n  PNC BANK.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-7509.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  April 7, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12701091,12701092,12701093,12578063,12578064,12578065,12578066,12578067,12578068,12701075,12701179,12701085\" index=\"0\" url=\"https://cite.case.law/s-ct/134/1030/\">\n   134 S.Ct. 1030\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   <strong>\n    Justice ALITO took no part in the consideration or decision of this petition.\n   </strong>\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

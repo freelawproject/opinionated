@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"283\" lastpage=\"283\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael D. VICKS, petitioner,\n  <br/>\n  v.\n  <br/>\n  CALIFORNIA.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-5405.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 7, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"4224878\" index=\"0\" url=\"https://cite.case.law/cal-4th/56/274/\">\n   56 Cal.4th 274\n  </extracted-citation>\n  ,\n  <extracted-citation index=\"1\" url=\"https://cite.case.law/citations/?q=153%20Cal.%20Rptr.%203d%20471\">\n   153 Cal.Rptr.3d 471\n  </extracted-citation>\n  ,\n  <extracted-citation index=\"2\" url=\"https://cite.case.law/citations/?q=295%20P.3d%20863\">\n   295 P.3d 863\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the Supreme Court of California denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

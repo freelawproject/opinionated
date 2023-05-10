@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"1102\" lastpage=\"1102\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX REL. KERR\n  <br/>\n  v.\n  <br/>\n  REGER\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1063\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  October 10, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  MERIT DECISIONS WITHOUT OPINIONS\n </p>\n <opinion id=\"p-7\">\n  In Prohibition. On motion to dismiss complaint. Motion granted. Cause dismissed. Motion to have relator declared a vexatious litigator denied.\n </opinion>\n <judges id=\"p-8\">\n  O'Connor, C.J., and O'Donnell, Kennedy, and French, JJ., concur.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Fischer, DeWine, and DeGenaro, JJ., concur in granting the motion to dismiss and would also grant the motion to have relator declared a vexatious litigator.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

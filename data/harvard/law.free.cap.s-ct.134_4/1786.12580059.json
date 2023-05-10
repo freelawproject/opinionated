@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1786\" lastpage=\"1786\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Dennis Lee MAXBERRY, petitioner,\n  <br/>\n  v.\n  <br/>\n  SALLIE MAE EDUCATION LOANS.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-7339.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  March 31, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12577888,12577889,12577890,12577891,12577892,12700900,12700876,12700910,12700911,12700912,12700888,12577887\" index=\"0\" url=\"https://cite.case.law/s-ct/134/1004/\">\n   134 S.Ct. 1004\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

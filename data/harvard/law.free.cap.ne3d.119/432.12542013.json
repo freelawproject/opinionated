@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"432\" lastpage=\"432\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  FISHER\n </parties>\n <docketnumber id=\"p-2\">\n  2019-0158\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  March 20, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   MOTION AND PROCEDURAL RULING\n  </strong>\n </p>\n <opinion id=\"p-6\">\n  On review of an order certifying a conflict. The court determines that a conflict exists. Sua sponte, cause held for the decision in 2018-0012,\n  <em>\n   State v. Hitchcock,\n  </em>\n  and briefing schedule stayed.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   DEWINE, J., dissents.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

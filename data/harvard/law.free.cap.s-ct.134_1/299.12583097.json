@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"299\" lastpage=\"299\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  John C. DODD, III, petitioner,\n  <br/>\n  v.\n  <br/>\n  SEMMES, BOWEN &amp; SEMMES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-5497.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 7, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=207%20Md.%20App.%20777\">\n   207 Md.App. 777\n  </extracted-citation>\n  ;\n  <extracted-citation index=\"1\" url=\"https://cite.case.law/citations/?q=2012%20WL%207088528\">\n   2012 WL 7088528\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the Court of Special Appeals of Maryland denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

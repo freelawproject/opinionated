@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"91\" lastpage=\"91\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  MUTTER\n  <br/>\n  v.\n  <br/>\n  BALL.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 150P16-1.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  April 25, 2016.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Jason Lee Mutter, Spruce Pine, for Mutter, Jason Lee.\n </attorneys>\n <attorneys id=\"p-6\">\n  Mike Ball, Superintendant, for Ball, Michael (Superintendent).\n </attorneys>\n <attorneys id=\"p-7\">\n  Joseph L. Hyde, Assistant Attorney General, for Ball, Michael (Superintendent).\n </attorneys>\n <attorneys id=\"p-8\">\n  Todd Williams, District Attorney.\n </attorneys>\n <opinion id=\"p-9\">\n  The following order has been entered on the motion filed on the 22nd of April 2016 by Petitioner to Appoint Counsel:\n </opinion>\n <opinion id=\"p-10\">\n  \"Motion Dismissed as moot by order of the Court in conference, this the 25th of April 2016.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-11\">\n   ERVIN, J. recused.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

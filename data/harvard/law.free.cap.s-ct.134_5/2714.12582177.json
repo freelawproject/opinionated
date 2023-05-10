@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2714\" lastpage=\"2714\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Stacey Lane FISHER, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-9975.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  June 2, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=540%20Fed.%20Appx.%20226\">\n   540 Fed.Appx. 226\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

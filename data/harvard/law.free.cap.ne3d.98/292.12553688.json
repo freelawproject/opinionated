@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"292\" lastpage=\"292\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State\n  <br/>\n  v.\n  <br/>\n  Jeffries\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0338\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  May 23, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <history id=\"p-6\">\n  APPEALS ACCEPTED FOR REVIEW\n </history>\n <opinion id=\"p-7\">\n  Cause accepted on proposition of law No. I.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   O'Connor, C.J., would also accept the cause on proposition of law No. II.\n  </author>\n  <p id=\"p-9\">\n   Fischer, J., would accept the cause on all propositions of law.\n  </p>\n  <p id=\"p-10\">\n   O'Donnell, French, and DeWine, JJ., dissent.\n  </p>\n  <p id=\"p-11\">\n   Lisa L. Sadler, J., of the Tenth District Court of Appeals, sitting for DeGenaro, J.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

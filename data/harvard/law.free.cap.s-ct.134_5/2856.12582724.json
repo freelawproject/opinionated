@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2856\" lastpage=\"2856\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  UNITED STATES, ex rel. Samuel BABALOLA and Kayode Samuel Adetunmbi, petitioners,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-1378.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  June 23, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"4239539\" index=\"0\" url=\"https://cite.case.law/f3d/746/157/\">\n   746 F.3d 157\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

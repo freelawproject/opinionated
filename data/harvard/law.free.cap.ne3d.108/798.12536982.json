@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"798\" lastpage=\"798\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Kenrick ROBERTS, respondent,\n  <br/>\n  v.\n  <br/>\n  BOARD OF TRUSTEES COMMUNITY COLLEGE DISTRICT NO. 508, etc., petitioner.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 123594\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Illinois.\n </court>\n <decisiondate id=\"p-4\">\n  September 26, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Petition for Leave to Appeal Allowed.\n </opinion>\n <p id=\"p-6\">\n  This case is consolidated with Case No. 123599.\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   Neville, J. took no part.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

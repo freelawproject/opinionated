@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"789\" lastpage=\"789\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Todd HUVAL and Chad Boyer\n  <br/>\n  v.\n  <br/>\n  STATE of Louisiana THROUGH the DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONS, Office of State Police; Master Trooper Hal Hutchinson; Lieutenant Rhett Trahan; Investigator Buzzy Trahan; Lieutenant Kevin Devall; Investigator Bart Morris; Investigator Hampton Guillory; and Lieutenant Colonel Stanley Griffin\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-CC-0959\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  October 8, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   HUGHES, J., would grant.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

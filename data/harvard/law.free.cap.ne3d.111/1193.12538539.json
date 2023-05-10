@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"1193\" lastpage=\"1193\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  WELLS FARGO BANK, N.A.\n  <br/>\n  v.\n  <br/>\n  BURD\n </parties>\n <docketnumber id=\"p-2\">\n  2017-0279\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  November 21, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  RECONSIDERATION OF PRIOR DECISIONS\n </p>\n <attorneys id=\"p-7\">\n  On motion for reconsideration. Motion denied.\n </attorneys>\n <judges id=\"p-8\">\n  Kennedy and Piper, JJ., dissent.\n </judges>\n <opinion id=\"p-9\">\n  Robin N. Piper, J., of the Twelfth District Court of Appeals, sitting for O'Donnell, J.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-10\">\n   Charles M. Miller, J., of the First District Court of Appeals, sitting for DeGenaro, J.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"558\" lastpage=\"558\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Eleanor PEGG\n  <br/>\n  v.\n  <br/>\n  Ervin JONES, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 9A08.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  April 30, 2008.\n </decisiondate>\n <attorneys id=\"p-5\">\n  James E. Tanner, III, John T. Stewart, Chapel Hill, for Ervin Jones.\n </attorneys>\n <attorneys id=\"p-6\">\n  Sydenham B. Alexander, Jr., Chapel Hill, Meg K. Howes, for Eleanor Pegg.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the consent motion filed on the 28th day of April 2008 by Defendant (Ervin Jones) to Amend Record on Appeal:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Allowed by order of the Court in conference this the 30th day of April 2008.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   HUDSON, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

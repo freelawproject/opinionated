@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"543\" lastpage=\"544\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Melvin GUIDRY and Triege Guidry\n  <br/>\n  v.\n  <br/>\n  ABC TRUCKING COMPANY, et al.\n </parties>\n <parties id=\"p-2\">\n  Louisiana Scrap Metal Recycling, et al.\n  <br/>\n  v.\n  <br/>\n  Larsen Intermodal Services, Inc.\n </parties>\n <docketnumber id=\"p-3\">\n  NO. 2019-C-0554\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-5\">\n  June 3, 2019\n </decisiondate>\n <opinion id=\"p-6\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   GUIDRY, J., would grant.\n  </author>\n  <p id=\"p-8\">\n   HUGHES, J., would grant.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

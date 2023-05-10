@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"234\" lastpage=\"234\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    EMPLOYERS ASSURANCE CORP. and Marketplace Foods Inc., Plaintiffs-Respondents,\n    <br/>\n    v.\n    <br/>\n    Linda SCHUE-NILLES, Defendant-Appellant,\n   </parties>\n   <opinion id=\"p-2\">\n    Labor and Industry Review Commission, Defendant-Co-Appellant.\n   </opinion>\n   <docketnumber id=\"p-3\">\n    Appeal No. 2017AP841\n   </docketnumber>\n   <court id=\"p-4\">\n    Court of Appeals of Wisconsin.\n   </court>\n   <decisiondate id=\"p-5\">\n    DATED AND FILED January 25, 2018\n   </decisiondate>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Reversed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

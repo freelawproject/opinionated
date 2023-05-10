@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"831\" lastpage=\"831\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  RINEHART\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0656\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  August 1, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <history id=\"p-6\">\n  APPEALS NOT ACCEPTED FOR REVIEW\n </history>\n <opinion id=\"p-7\">\n  Appellant's motion for relief or order pursuant to S.Ct.Prac.R. 4.01 denied. Appellee's motion to strike appellant's motion for relief or order denied.\n </opinion>\n <opinion id=\"p-8\">\n  Kennedy and DeGenaro, JJ., would deny both motions as moot.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   DeWine, J., would deny appellee's motion to strike as moot.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

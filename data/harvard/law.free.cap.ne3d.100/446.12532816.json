@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"446\" lastpage=\"446\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Palace Hotels, L.L.C.\n  <br/>\n  v.\n  <br/>\n  Testa\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0558\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  June 27, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <summary id=\"p-6\">\n  PETITIONS TO TRANSFER\n </summary>\n <opinion id=\"p-7\">\n  On petition to transfer jurisdiction. Petition denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Kennedy, J. dissents.\n  </author>\n  <p id=\"p-9\">\n   Fischer, J., dissents, and would grant the petition on proposition of law No. I.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

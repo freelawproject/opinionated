@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"826\" lastpage=\"826\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  DISCIPLINARY COUNSEL\n  <br/>\n  v.\n  <br/>\n  MOORE\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0402\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  July 26, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <p id=\"p-6\">\n  DISCIPLINARY CASES\n </p>\n <opinion id=\"p-7\">\n  On respondent's motion for leave to file an answer. Motion granted. This matter is remanded to the Board of Professional Conduct for further proceedings under Gov.Bar R. V(12). The interim default suspension imposed against respondent on April 16, 2018, shall remain in place while this matter is pending before the board.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   DeGenaro, J., not participating.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

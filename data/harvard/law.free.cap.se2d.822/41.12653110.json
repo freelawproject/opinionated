@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"41\" lastpage=\"41\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Terraine Sanchez BYERS\n </parties>\n <docketnumber id=\"p-2\">\n  69A06-4\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  January 15, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Joseph L. Hyde, Assistant Attorney General, R. Andrew Murray, District Attorney, for State of NC.\n </attorneys>\n <attorneys id=\"p-6\">\n  Wyatt B. Orsbon, Assistant Appellant Defender, Glenn Gerding, Appellate Defender, for Byers, Terraine Sanchez.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 15th of January 2019 by State of NC for Temporary Stay:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Allowed by order of the Court in conference, this the 15th of January 2019.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Ervin, J. recused\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"817\" lastpage=\"817\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Carey L. ROSS, petitioner,\n  <br/>\n  v.\n  <br/>\n  William DANFORTH, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-5079.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 9, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12703351,12703352,12703353,12581267,12581268,12581269,12581270,12581271,12581272,12703350,12703354,12703355\" index=\"0\" url=\"https://cite.case.law/s-ct/134/227/\">\n   134 S.Ct. 227\n  </extracted-citation>\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

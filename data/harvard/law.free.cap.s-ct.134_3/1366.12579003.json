@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1366\" lastpage=\"1366\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Pedro PEREZ-HERNANDEZ, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-10558.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Feb. 24, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12578825,12578826,12578827,12578828,12578829,12578830,12702765,12702766,12702767,12702768,12702769,12702770\" index=\"0\" url=\"https://cite.case.law/s-ct/134/133/\">\n   134 S.Ct. 133\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

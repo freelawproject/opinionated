@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"1061\" lastpage=\"1061\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Yvonne AINSWORTH, Individually and on Behalf of Her Deceased Mother, Sylvia Taylor\n  <br/>\n  v.\n  <br/>\n  AMERICAN HOME ASSURANCE COMPANY, Healthcare Casualty Insurance Limited, Aggreko, LLC, and Touro Infirmary\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-C-0582\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  June 1, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   WEIMER, J., would grant.\n  </author>\n  <p id=\"p-7\">\n   CLARK, J., would grant.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

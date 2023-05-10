@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"927\" lastpage=\"927\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  CAPPS\n  <br/>\n  v.\n  <br/>\n  NW SIGN INDUSTRIES et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 383A05.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  April 6, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Norman W. Shearin, Jr., Kitty Hawk, for NW Sign Industries, et al.\n </attorneys>\n <attorneys id=\"p-6\">\n  Jared E. Gardner, Richard B. Fennell, Charlotte, for Alan Capps.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 1st day of March 2006 by Defendant to Take Judicial Notice of Subsequent Event:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Dismissed as Moot by order of the Court in conference this the 6th day of April 2006.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Justice MARTIN recused.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

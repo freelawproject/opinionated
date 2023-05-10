@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"265\" lastpage=\"266\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  UNION COUNTY\n  <br/>\n  v.\n  <br/>\n  TOWN OF MARSHVILLE\n </parties>\n <docketnumber id=\"p-2\">\n  411P16-1\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  November 15, 2016\n </decisiondate>\n <attorneys id=\"p-5\">\n  Karlene Scott Turrentine, Attorney at Law, Warrenton, for Town of Marshville.\n </attorneys>\n <attorneys id=\"p-6\">\n  S. C. Kitchen, Attorney at Law, Durham.\n </attorneys>\n <attorneys id=\"p-7\">\n  J. Daniel Bishop, Attorney at Law, Charlotte, for Union County.\n </attorneys>\n <attorneys id=\"p-8\">\n  Scott A. Hefner, Attorney at Law.\n </attorneys>\n <opinion id=\"p-9\">\n  The following order has been entered on the motion filed on the 7th of November 2016 by Defendant for Temporary Stay:\n </opinion>\n <opinion id=\"p-10\">\n  \"Motion Denied by order of the Court in conference, this the 15th of November 2016.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-11\">\n   Ervin, J. recused\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

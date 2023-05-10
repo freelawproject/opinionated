@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"996\" lastpage=\"996\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In re Danielle BITON, petitioner.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-6496.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Jan. 13, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12584898,12584899,12584900,12584901,12584902,12584903,12699273,12699369,12699370,12699477,12699291,12699292\" index=\"0\" url=\"https://cite.case.law/s-ct/134/648/\">\n   134 S.Ct. 648\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

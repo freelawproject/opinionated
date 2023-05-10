@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"360\" lastpage=\"360\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Tony MAYS, Warden, applicant,\n  <br/>\n  v.\n  <br/>\n  Edmund ZAGORSKI.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 18A385.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 11, 2018.\n </decisiondate>\n <opinion id=\"p-5\">\n  Application to vacate the stay of execution of sentence of death entered by the United States Court of Appeals for the Sixth Circuit on October 10, 2018, presented to Justice KAGAN and by her referred to the Court granted.\n </opinion>\n <opinion id=\"p-6\">\n  Justice BREYER and Justice SOTOMAYOR would deny the application to vacate the stay.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

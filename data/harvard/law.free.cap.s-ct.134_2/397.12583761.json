@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"397\" lastpage=\"397\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Barry Wayne ADAMS, petitioner,\n  <br/>\n  v.\n  <br/>\n  Willie SMITH, Warden.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-10177.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 7, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12698822,12698761,12698769,12698770,12698717,12698718\" index=\"0\" url=\"https://cite.case.law/s-ct/133/2866/\">\n   133 S.Ct. 2866\n  </extracted-citation>\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

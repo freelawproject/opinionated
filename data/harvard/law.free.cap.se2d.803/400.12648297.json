@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"400\" lastpage=\"400\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  WORLEY, et al.\n  <br/>\n  v.\n  <br/>\n  MOORE, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  310A16-1\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 24, 2017\n </decisiondate>\n <attorneys id=\"p-5\">\n  Adam H. Charnes, Attorney at Law, John M. Moye, Attorney at Law, for Moore, Roy J., et al.\n </attorneys>\n <attorneys id=\"p-6\">\n  R. Daniel Boyce, Attorney at Law, Thomas J. Ludlam, Attorney at Law, David S. Pokela, Attorney at Law, Greensboro, for Worley, Dennis, et al.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 21st of August 2017 by Jerrold J. Ganzfried for Admission Pro Hac Vice:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Allowed by order of the Court in conference, this the 24th of August 2017.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Ervin, J. recused\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

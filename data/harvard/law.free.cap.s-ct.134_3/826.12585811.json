@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"826\" lastpage=\"826\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Felicia Nicole JONES, petitioner,\n  <br/>\n  v.\n  <br/>\n  GREENWAY MERCEDES, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-6773.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 16, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=534%20Fed.%20Appx.%20244\">\n   534 Fed.Appx. 244\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Motion of petitioner for leave to proceed\n  <em>\n   in forma pauperis\n  </em>\n  denied, and petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit dismissed. See Rule 39.8.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

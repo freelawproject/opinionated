@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"901\" lastpage=\"901\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the MATTER OF the Hon. Richard J. SHERWOOD, a Justice of the Guilderland Town Court, Albany County.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 73\n </docketnumber>\n <court id=\"p-3\">\n  Court of Appeals of New York.\n </court>\n <decisiondate id=\"p-4\">\n  Decided February 27, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  On the Court's own motion, it is determined that Honorable Richard J. Sherwood is suspended, with pay, effective immediately, from the office of Justice of Guilderland Town Court, Albany County, pursuant to New York Constitution, article VI, \u00a7 22 and Judiciary Law \u00a7 44.\n </opinion>\n <judges id=\"p-6\">\n  Chief Judge DiFiore and Judges Rivera, Fahey, Garcia, Wilson and Feinman concur.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   Judge Stein took no part.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

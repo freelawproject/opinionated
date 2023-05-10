@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"158\" lastpage=\"158\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    James J. DECOULOS\n    <br/>\n    v.\n    <br/>\n    Elizabeth O'KEEFE &amp; others.\n    <footnotemark>\n     1\n    </footnotemark>\n   </parties>\n   <docketnumber id=\"p-2\">\n    18-P-376\n   </docketnumber>\n   <court id=\"p-3\">\n    Appeals Court of Massachusetts.\n   </court>\n   <decisiondate id=\"p-4\">\n    Entered: March 7, 2019\n   </decisiondate>\n   <opinion id=\"p-8\">\n    <sup>\n     1\n    </sup>\n   </opinion>\n   <p id=\"p-9\">\n    --------\n   </p>\n   <opinion type=\"majority\">\n    <p id=\"p-5\">\n     Judgment affirmed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

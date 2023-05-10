@@ -1,6 +1,1 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"1248\" lastpage=\"1248\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Bruce WOOD, Defendant Below-Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Delaware, Plaintiff Below-Appellee.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 474, 2017\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n   <otherdate type=\"majority\">\n    <p id=\"p-4\">\n     Submitted: April 20, 2018\n     <br/>\n     Decided: May 24, 2018\n     <br/>\n     Rehearing En Banc Denied June 11, 2018\n    </p>\n    <p id=\"p-5\">\n     AFFIRMED.\n    </p>\n   </otherdate>\n  </casebody>\n </body>\n</html>\n"
-  }
-}
+{"casebody": {"status": "ok", "data": "<html>\n<body>\n<casebody firstpage=\"1248\" lastpage=\"1248\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">\n    Bruce WOOD, Defendant Below-Appellant,\n    <br/>\n    v.\n    <br/>\n    STATE of Delaware, Plaintiff Below-Appellee.\n   </parties>\n<docketnumber id=\"p-2\">\n    No. 474, 2017\n   </docketnumber>\n<court id=\"p-3\">\n    Supreme Court of Delaware.\n   </court>\n<opinion type=\"majority\">\n<p id=\"p-4\">\n     Submitted: April 20, 2018\n     <br/>\n     Decided: May 24, 2018\n     <br/>\n     Rehearing En Banc Denied June 11, 2018\n    </p>\n<p id=\"p-5\">\n     AFFIRMED.\n    </p>\n</opinion>\n</casebody>\n</body>\n</html>\n"}}

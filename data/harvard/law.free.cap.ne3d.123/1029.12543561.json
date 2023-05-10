@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"1029\" lastpage=\"1029\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    ORANGE CITY SCHOOLS BD. OF EDN.\n    <br/>\n    v.\n    <br/>\n    CUYAHOGA CTY. BD. OF REVISION\n   </parties>\n   <docketnumber id=\"p-2\">\n    2019-0425\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    June 12, 2019\n   </decisiondate>\n   <p id=\"p-5\">\n    <strong>\n     CASE ANNOUNCEMENT\n    </strong>\n   </p>\n   <attorneys id=\"p-7\">\n    Cause held for the decision in 2018-1299, Columbus City Schools Bd. of Edn. v. Franklin Cty. Bd. of Revision.\n   </attorneys>\n   <opinion id=\"p-8\">\n    Kennedy, J., concurs in accepting the appeal but would not hold the cause for the decision in 2018-1299, Columbus City Schools Bd. of Edn. v. Franklin Cty. Bd. of Revision.\n   </opinion>\n   <judges id=\"p-9\">\n    Donnelly and Stewart, JJ., dissent.\n   </judges>\n   <p type=\"majority\">\n    <p id=\"p-6\">\n     <strong>\n      APPEAL ACCEPTED FOR REVIEW\n     </strong>\n    </p>\n   </p>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

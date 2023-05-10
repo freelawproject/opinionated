@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1371\" lastpage=\"1371\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Masoud BAMDAD, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-7081.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Feb. 24, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12699715,12699736,12699732,12699733,12585302,12585303,12585304,12585305,12585306,12585307,12699734,12699735\" index=\"0\" url=\"https://cite.case.law/s-ct/134/709/\">\n   134 S.Ct. 709\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

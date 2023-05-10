@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"376\" lastpage=\"376\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Jose Cristobal CARDONA, petitioner,\n  <br/>\n  v.\n  <br/>\n  Jeffery E. THOMAS, Warden.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 12-9824.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 7, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12696483,12698449,12698450,12698451,12698393,12698363\" index=\"0\" url=\"https://cite.case.law/s-ct/133/2404/\">\n   133 S.Ct. 2404\n  </extracted-citation>\n </history>\n <opinion id=\"p-6\">\n  Motion of petitioner for reconsideration of order denying leave to proceed\n  <em>\n   in forma pauperis\n  </em>\n  denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   <strong>\n    Justice KAGAN took no part in the consideration or decision of this motion.\n   </strong>\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"220\" lastpage=\"220\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Antwane BROOMFIELD, Appellant\n  <br/>\n  v.\n  <br/>\n  STATE of Indiana\n </parties>\n <court id=\"p-2\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-3\">\n  May 9, 2019\n </decisiondate>\n <opinion id=\"p-4\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-5\">\n   All Justices concur.\n  </author>\n  <p id=\"p-6\">\n   Riley, J., Kirsch, J., Robb, J.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

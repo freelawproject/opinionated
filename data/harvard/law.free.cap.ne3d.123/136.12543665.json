@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"136\" lastpage=\"136\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <attorneys id=\"p-1\">\n  PETITION FOR JUDICIAL REVIEW OF BOARD OF ZONING APPEALS, Appellants\n </attorneys>\n <court id=\"p-2\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-3\">\n  February 21, 2019\n </decisiondate>\n <opinion id=\"p-4\">\n  Denied.\n </opinion>\n <opinion id=\"p-5\">\n  All Justices concur, except Rush, C.J., and David, J., who vote to grant the petition.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   Najam, J., Pyle, J., Crone, J.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

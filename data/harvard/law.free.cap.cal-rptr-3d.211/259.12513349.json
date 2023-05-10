@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"259\" lastpage=\"260\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    T-MOBILE WEST\n    <br/>\n    v.\n    <br/>\n    CITY AND COUNTY OF SAN FRANCISCO\n   </parties>\n   <docketnumber id=\"p-2\">\n    S238001\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of California\n   </court>\n   <decisiondate id=\"p-4\">\n    December 21, 2016\n   </decisiondate>\n   <opinion id=\"p-5\">\n    Petition for review granted. The requests to appear as counsel pro hac vice are granted.\n   </opinion>\n   <judges id=\"p-6\">\n    Votes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ.\n   </judges>\n   <opinion type=\"majority\">\n    No opinion found.\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

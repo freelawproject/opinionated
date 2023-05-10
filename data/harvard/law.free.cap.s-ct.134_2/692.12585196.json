@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"692\" lastpage=\"692\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Samuel Lee ELLIOTT, petitioner,\n  <br/>\n  v.\n  <br/>\n  MICHIGAN.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-6500.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 2, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"4191032\" index=\"0\" url=\"https://cite.case.law/mich/494/292/\">\n   494 Mich. 292\n  </extracted-citation>\n  ,\n  <extracted-citation index=\"1\" url=\"https://cite.case.law/citations/?q=833%20N.W.2d%20284\">\n   833 N.W.2d 284\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the Supreme Court of Michigan denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1323\" lastpage=\"1323\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  UESCO INDUSTRIES, INC., et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  POOLMAN OF WISCONSIN, INC.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-771.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Feb. 24, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=373%20Ill.%20Dec.%2097\">\n   373 Ill.Dec. 97\n  </extracted-citation>\n  ,\n  <extracted-citation index=\"1\" url=\"https://cite.case.law/citations/?q=993%20N.E.2d%2097\">\n   993 N.E.2d 97\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

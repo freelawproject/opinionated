@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"609\" lastpage=\"610\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Louisiana Board of Ethics in the MATTER OF Clarence SAVOIE, II\n </parties>\n <parties id=\"p-2\">\n  Louisiana Board of Ethics in the Matter of C.J. Savoie Consulting Engineers, Inc.\n </parties>\n <parties id=\"p-3\">\n  Louisiana Board of Ethics in the Matter C.J. Savoie Consulting Engineers, Inc.\n </parties>\n <docketnumber id=\"p-4\">\n  NO. 2019-C-0273\n </docketnumber>\n <court id=\"p-5\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-6\">\n  April 8, 2019\n </decisiondate>\n <opinion id=\"p-7\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   WEIMER, J., recused.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

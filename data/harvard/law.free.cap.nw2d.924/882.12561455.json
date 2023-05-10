@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"882\" lastpage=\"882\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <opinion id=\"p-1\">\n  IN RE HOUSE OF REPRESENTATIVES REQUEST FOR ADVISORY OPINION REGARDING CONSTITUTIONALITY OF\n  <extracted-citation index=\"0\" url=\"https://cite.case.law/citations/?q=2018%20PA%20368\">\n   2018 PA 368\n  </extracted-citation>\n  &amp; 369\n </opinion>\n <opinion id=\"p-2\">\n  In re Senate Request for Advisory Opinion Regarding Constitutionality of\n  <extracted-citation index=\"1\" url=\"https://cite.case.law/citations/?q=2018%20PA%20368\">\n   2018 PA 368\n  </extracted-citation>\n  &amp; 369\n </opinion>\n <docketnumber id=\"p-3\">\n  SC: 159160\n  <br/>\n  SC: 159201\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Michigan.\n </court>\n <decisiondate id=\"p-5\">\n  April 3, 2019\n </decisiondate>\n <p id=\"p-6\">\n  <strong>\n   Order\n  </strong>\n </p>\n <opinion type=\"majority\">\n  <p id=\"p-7\">\n   On order of the Chief Justice, the motion of the Michigan Legislature to file a reply to the brief amicus curiae filed by Michigan One Fair Wage\n   <em>\n    et al\n   </em>\n   . is GRANTED. The reply submitted on March 27, 2019, is accepted for filing.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

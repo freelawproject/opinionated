@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"733\" lastpage=\"733\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Bobby Earl KEYS, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-6161.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 2, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12704193,12704194,12704195,12704327,12704328,12584010,12584011,12584012,12584013,12584014,12584015,12704337\" index=\"0\" url=\"https://cite.case.law/s-ct/134/452/\">\n   134 S.Ct. 452\n  </extracted-citation>\n </history>\n <attorneys id=\"p-6\">\n  Petitions for rehearing denied.\n </attorneys>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

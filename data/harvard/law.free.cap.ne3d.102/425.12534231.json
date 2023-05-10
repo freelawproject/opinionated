@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"425\" lastpage=\"425\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the MATTER OF A GRAND JURY INVESTIGATION.\n </parties>\n <court id=\"p-2\">\n  Supreme Judicial Court of Massachusetts.\n </court>\n <decisiondate id=\"p-3\">\n  February 6, 2018\n </decisiondate>\n <opinion id=\"p-4\">\n  Appellate review denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-5\">\n   Mme. Justice Budd did not participate.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"485\" lastpage=\"485\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  COUNTY OF WILL, petitioner,\n  <br/>\n  v.\n  <br/>\n  ILLINOIS POLLUTION CONTROL BOARD, respondent.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 122813\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Illinois.\n </court>\n <decisiondate id=\"p-4\">\n  March 21, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Petition for Leave to Appeal Allowed.\n </opinion>\n <p id=\"p-6\">\n  This case is consolidated with Case No. 122798.\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   Burke, J. took no part.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

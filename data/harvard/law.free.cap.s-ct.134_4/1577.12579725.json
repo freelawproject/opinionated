@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1577\" lastpage=\"1577\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Dennis Allen MAGGESE, petitioner,\n  <br/>\n  v.\n  <br/>\n  John STOIA, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-6869.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  March 24, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12586048,12586049,12586050,12586051,12700443,12700442,12700345,12700346,12700347,12700348,12586046,12586047\" index=\"0\" url=\"https://cite.case.law/s-ct/134/908/\">\n   134 S.Ct. 908\n  </extracted-citation>\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

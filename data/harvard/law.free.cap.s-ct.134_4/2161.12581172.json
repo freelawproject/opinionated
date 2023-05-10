@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2161\" lastpage=\"2161\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Randall K. VENZIE, petitioner,\n  <br/>\n  v.\n  <br/>\n  Meg W. YATAURO, Administrator, Adult Diagnostic and Treatment Center.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-7763.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  May 5, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12701484,12578545,12578546,12578547,12578548,12578549,12578550,12701493,12701498,12701499,12701500,12701341\" index=\"0\" url=\"https://cite.case.law/s-ct/134/1298/\">\n   134 S.Ct. 1298\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

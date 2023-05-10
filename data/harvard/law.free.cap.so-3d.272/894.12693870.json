@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"894\" lastpage=\"894\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  PONTCHARTRAIN NATURAL GAS SYSTEM, k/d/s Promix, L.L.C., and Acadian Gas Pipeline System\n  <br/>\n  v.\n  <br/>\n  TEXAS BRINE COMPANY, LLC\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2019-CD-0922\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  June 7, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Stay denied; writ denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   HUGHES, J., would grant.\n  </author>\n  <p id=\"p-7\">\n   GENOVESE, J., would deny stay and grant the writ.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

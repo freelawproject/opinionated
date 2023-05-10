@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"213\" lastpage=\"213\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  ZLOOP, INC.\n  <br/>\n  v.\n  <br/>\n  PARKER POE ADAMS &amp; BERNSTEIN LLP, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  122PA18-1\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  July 5, 2019\n </decisiondate>\n <attorneys id=\"p-5\">\n  Gavin J. Reardon, Attorney at Law, Greensboro, Amiel J. Rossabi, Attorney at Law, Bonnie Keith Green, Attorney at Law, for Zloop, INC.\n </attorneys>\n <attorneys id=\"p-6\">\n  Robert W. Fuller, Attorney at Law, Stuart L. Pratt, Attorney at Law, Mark W. Merritt, Attorney at Law, Charlotte, for Parker Poe Adams &amp; Bernstein, LLP, et al.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 3rd of July 2019 by Plaintiff to Stay All Proceedings in the Present Matter:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Allowed by order of the Court in conference, this the 5th of July 2019.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Davis, J. recused\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

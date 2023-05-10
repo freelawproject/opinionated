@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"60\" lastpage=\"60\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  SWIFT\n  <br/>\n  v.\n  <br/>\n  RICHARDSON SPORTS, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 598P05.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  June 29, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  R. James Lore, Raleigh, for Michael Swift.\n </attorneys>\n <attorneys id=\"p-6\">\n  Hatcher B. Kincheloe, Charlotte, for Richardson Sports, et al.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 28th day of April 2006 by Defendants to Dismiss Plaintiff's Petition for Discretionary Review:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Dismissed as moot by order of the Court in conference this the 29th day of June 2006.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Justice TIMMONS-GOODSON recused.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

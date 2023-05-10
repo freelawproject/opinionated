@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"893\" lastpage=\"893\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Gary R. HERBERT, Governor of Utah, et al., applicants,\n  <br/>\n  v.\n  <br/>\n  Derek KITCHEN, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13A687.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Jan. 6, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"3873929\" index=\"0\" url=\"https://cite.case.law/f-supp-2d/961/1181/\">\n   961 F.Supp.2d 1181\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Application for stay presented to Justice SOTOMAYOR and by her referred to the Court granted. Permanent injunction issued by the United States District Court for the District of Utah, case No. 2:13-cv-217, on December 20, 2013, stayed pending final disposition of the appeal by the United States Court of Appeals for the Tenth Circuit.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

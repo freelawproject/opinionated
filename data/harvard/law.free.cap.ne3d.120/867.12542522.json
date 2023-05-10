@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"867\" lastpage=\"867\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    NEUHART\n    <br/>\n    v.\n    <br/>\n    TRANSATLANTIC ENERGY CORP.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2019-0105\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 17, 2019\n   </decisiondate>\n   <opinion id=\"p-6\">\n    First and second appeals not accepted.\n   </opinion>\n   <judges id=\"p-7\">\n    KENNEDY, FRENCH, and STEWART, JJ., dissent.\n   </judges>\n   <history type=\"majority\">\n    <p id=\"p-5\">\n     <strong>\n      APPEAL NOT ACCEPTED FOR REVIEW\n     </strong>\n    </p>\n   </history>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

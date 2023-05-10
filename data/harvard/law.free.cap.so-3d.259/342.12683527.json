@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"342\" lastpage=\"342\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Richard PERNICIARO &amp; Robert Cleveland, Individually and on Behalf of ParaTech, LLC\n  <br/>\n  v.\n  <br/>\n  Guy MCINNIS, Ray Lauga, Jr., Casey W. Hunnicutt, Richard Lewis &amp; St. Bernard Parish Government, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-C-1659\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  December 17, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   WEIMER, J., recused.\n  </author>\n  <p id=\"p-7\">\n   HUGHES, J., would grant in part.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

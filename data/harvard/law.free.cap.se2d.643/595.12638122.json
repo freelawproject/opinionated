@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"595\" lastpage=\"596\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  DESPERADOS, INC. and Perez.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 629A06.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  February 28, 2007.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Jeffrey S. Miller, for Desperados &amp; Perez.\n </attorneys>\n <attorneys id=\"p-6\">\n  Seth Edwards, District Attorney, for State.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 28th day of February 2007 by Attorney General for Extension of Time to file Brief:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Allowed. Attorney General shall have up to and including the 9th day of March 2007 to file and serve his/her brief\n  with this Court. By order of the Court in conference this the 28th day of February 2007.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Justice HUDSON recused.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

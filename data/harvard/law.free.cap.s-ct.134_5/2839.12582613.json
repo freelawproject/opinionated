@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"2839\" lastpage=\"2839\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Terry VANGELDER, petitioner,\n  <br/>\n  v.\n  <br/>\n  CALIFORNIA.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-1012.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  June 23, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Case below,\n  <extracted-citation case-ids=\"4000987\" index=\"0\" url=\"https://cite.case.law/cal-4th/58/1/\">\n   58 Cal.4th 1\n  </extracted-citation>\n  ,\n  <extracted-citation index=\"1\" url=\"https://cite.case.law/citations/?q=164%20Cal.%20Rptr.%203d%20522\">\n   164 Cal.Rptr.3d 522\n  </extracted-citation>\n  ,\n  <extracted-citation index=\"2\" url=\"https://cite.case.law/citations/?q=312%20P.3d%201045\">\n   312 P.3d 1045\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for writ of certiorari to the Supreme Court of California denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

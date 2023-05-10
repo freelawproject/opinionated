@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1930\" lastpage=\"1930\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Halimah KNOX, petitioner,\n  <br/>\n  v.\n  <br/>\n  DIXON CORRECTIONAL INSTITUTE, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-7495.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  April 21, 2014.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12578051,12578052,12578053,12578054,12578055,12578056,12701073,12701074,12701081,12701082,12701083,12701084\" index=\"0\" url=\"https://cite.case.law/s-ct/134/1029/\">\n   134 S.Ct. 1029\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

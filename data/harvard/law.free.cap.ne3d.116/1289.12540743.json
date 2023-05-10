@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"1289\" lastpage=\"1289\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  RICHARDSON\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1705\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  February 20, 2019\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <history id=\"p-6\">\n  APPEALS NOT ACCEPTED FOR REVIEW\n </history>\n <opinion id=\"p-7\">\n  Appellant's motion to seal memorandum in support of jurisdiction and appellee's motion to seal memorandum in response to jurisdiction granted.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   DeWine, J., would deny both motions to seal.\n  </author>\n  <p id=\"p-9\">\n   French, J., dissents and would accept the cause on proposition of law Nos. I and II.\n  </p>\n  <p id=\"p-10\">\n   Stewart and Donnelly, JJ., dissent and would accept the cause.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}
