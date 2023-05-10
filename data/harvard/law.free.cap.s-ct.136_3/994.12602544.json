@@ -1,6 +1,1 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"994\" lastpage=\"994\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  WHOLE WOMAN'S HEALTH, et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  John HELLERSTEDT, Commissioner, Texas Department of State Health Services, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 15-274.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Jan. 25, 2016.\n </decisiondate>\n <opinion id=\"p-5\">\n  Motion of petitioners to file Volume VIII of the joint appendix under seal granted.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}
+{"casebody": {"status": "ok", "data": "<casebody firstpage=\"994\" lastpage=\"994\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">\n  WHOLE WOMAN'S HEALTH, et al., petitioners,\n  <br/>\n  v.\n  <br/>\n  John HELLERSTEDT, Commissioner, Texas Department of State Health Services, et al.\n </parties>\n<docketnumber id=\"p-2\">\n  No. 15-274.\n </docketnumber>\n<court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n<decisiondate id=\"p-4\">\n  Jan. 25, 2016.\n </decisiondate>\n<opinion id=\"p-5\">\n  Motion of petitioners to file Volume VIII of the joint appendix under seal granted.\n </opinion>\n\n</casebody>\n"}}

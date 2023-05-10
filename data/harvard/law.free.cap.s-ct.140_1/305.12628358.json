@@ -1,6 +1,1 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"305\" lastpage=\"305\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  William THROWER, Petitioner\n  <br/>\n  v.\n  <br/>\n  UNITED STATES\n </parties>\n <docketnumber id=\"p-2\">\n  No. 19-5024\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States.\n </court>\n <decisiondate id=\"p-4\">\n  October 7, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.\n </opinion>\n <opinion id=\"p-6\">\n  Justice Sotomayor took no part in the consideration or decision of this petition.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}
+{"casebody": {"status": "ok", "data": "<casebody firstpage=\"305\" lastpage=\"305\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">\n  William THROWER, Petitioner\n  <br/>\n  v.\n  <br/>\n  UNITED STATES\n </parties>\n<docketnumber id=\"p-2\">\n  No. 19-5024\n </docketnumber>\n<court id=\"p-3\">\n  Supreme Court of the United States.\n </court>\n<decisiondate id=\"p-4\">\n  October 7, 2019\n </decisiondate>\n<opinion id=\"p-5\">\n  Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.\n </opinion>\n<opinion id=\"p-6\">\n  Justice Sotomayor took no part in the consideration or decision of this petition.\n </opinion>\n\n</casebody>\n"}}

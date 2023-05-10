@@ -1,6 +1,1 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"1398\" lastpage=\"1398\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael S. GORBEY, petitioner,\n  <br/>\n  v.\n  <br/>\n  John T. RATHMAN, Warden.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 16-6960.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  March 27, 2017.\n </decisiondate>\n <opinion id=\"p-5\">\n  Petition for rehearing denied.\n </opinion>\n <opinion id=\"p-6\">\n  THE CHIEF JUSTICE and Justice KAGAN took no part in the consideration or decision of this petition.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}
+{"casebody": {"status": "ok", "data": "<casebody firstpage=\"1398\" lastpage=\"1398\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">\n  Michael S. GORBEY, petitioner,\n  <br/>\n  v.\n  <br/>\n  John T. RATHMAN, Warden.\n </parties>\n<docketnumber id=\"p-2\">\n  No. 16-6960.\n </docketnumber>\n<court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n<decisiondate id=\"p-4\">\n  March 27, 2017.\n </decisiondate>\n<opinion id=\"p-5\">\n  Petition for rehearing denied.\n </opinion>\n<opinion id=\"p-6\">\n  THE CHIEF JUSTICE and Justice KAGAN took no part in the consideration or decision of this petition.\n </opinion>\n\n</casebody>\n"}}

@@ -1,6 +1,1 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"522\" lastpage=\"522\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  JUNE MEDICAL SERVICES L.L.C., et al., Petitioners\n  <br/>\n  v.\n  <br/>\n  Rebekah GEE, Secretary, Louisiana Department of Health and Hospitals\n </parties>\n <docketnumber id=\"p-2\">\n  No. 18-1323\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States.\n </court>\n <decisiondate id=\"p-4\">\n  November 18, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Motion of petitioner to file the joint appendix pursuant to Rule 33.2 with one volume under seal granted.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}
+{"casebody": {"status": "ok", "data": "<casebody firstpage=\"522\" lastpage=\"522\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">\n  JUNE MEDICAL SERVICES L.L.C., et al., Petitioners\n  <br/>\n  v.\n  <br/>\n  Rebekah GEE, Secretary, Louisiana Department of Health and Hospitals\n </parties>\n<docketnumber id=\"p-2\">\n  No. 18-1323\n </docketnumber>\n<court id=\"p-3\">\n  Supreme Court of the United States.\n </court>\n<decisiondate id=\"p-4\">\n  November 18, 2019\n </decisiondate>\n<opinion id=\"p-5\">\n  Motion of petitioner to file the joint appendix pursuant to Rule 33.2 with one volume under seal granted.\n </opinion>\n\n</casebody>\n"}}

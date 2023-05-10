@@ -1,6 +1,1 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"658\" lastpage=\"658\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the MATTER OF DISBARMENT OF Steven Anthony LANG\n </parties>\n <docketnumber id=\"p-2\">\n  No. D-3051\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States.\n </court>\n <decisiondate id=\"p-4\">\n  December 9, 2019\n </decisiondate>\n <disposition id=\"p-5\">\n  Disbarment order entered.\n </disposition>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}
+{"casebody": {"status": "ok", "data": "<casebody firstpage=\"658\" lastpage=\"658\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">\n  In the MATTER OF DISBARMENT OF Steven Anthony LANG\n </parties>\n<docketnumber id=\"p-2\">\n  No. D-3051\n </docketnumber>\n<court id=\"p-3\">\n  Supreme Court of the United States.\n </court>\n<decisiondate id=\"p-4\">\n  December 9, 2019\n </decisiondate>\n<disposition id=\"p-5\">\n  Disbarment order entered.\n </disposition>\n\n</casebody>\n"}}

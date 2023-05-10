@@ -1,6 +1,1 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"919\" lastpage=\"919\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Randall MATHENA, Warden\n  <br/>\n  v.\n  <br/>\n  Lee Boyd MALVO\n </parties>\n <docketnumber id=\"p-2\">\n  No. 18-217 (R46-11 / OT 2019)\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States.\n </court>\n <decisiondate id=\"p-4\">\n  February 26, 2020\n </decisiondate>\n <opinion id=\"p-5\">\n  The case was dismissed on February 26, 2020, pursuant to Rule 46.1 of the Rules of this Court.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}
+{"casebody": {"status": "ok", "data": "<casebody firstpage=\"919\" lastpage=\"919\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">\n  Randall MATHENA, Warden\n  <br/>\n  v.\n  <br/>\n  Lee Boyd MALVO\n </parties>\n<docketnumber id=\"p-2\">\n  No. 18-217 (R46-11 / OT 2019)\n </docketnumber>\n<court id=\"p-3\">\n  Supreme Court of the United States.\n </court>\n<decisiondate id=\"p-4\">\n  February 26, 2020\n </decisiondate>\n<opinion id=\"p-5\">\n  The case was dismissed on February 26, 2020, pursuant to Rule 46.1 of the Rules of this Court.\n </opinion>\n\n</casebody>\n"}}

@@ -1,6 +1,1 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"329\" lastpage=\"329\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  In the Matter of DISCIPLINE OF Stanlee Earl CULBREATH.\n </parties>\n <docketnumber id=\"p-2\">\n  No. D-2922.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Oct. 11, 2016.\n </decisiondate>\n <opinion id=\"p-5\">\n  Stanlee Earl Culbreath, of Columbus, Ohio, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}
+{"casebody": {"status": "ok", "data": "<casebody firstpage=\"329\" lastpage=\"329\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n<parties id=\"p-1\">\n  In the Matter of DISCIPLINE OF Stanlee Earl CULBREATH.\n </parties>\n<docketnumber id=\"p-2\">\n  No. D-2922.\n </docketnumber>\n<court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n<decisiondate id=\"p-4\">\n  Oct. 11, 2016.\n </decisiondate>\n<opinion id=\"p-5\">\n  Stanlee Earl Culbreath, of Columbus, Ohio, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court.\n </opinion>\n\n</casebody>\n"}}
