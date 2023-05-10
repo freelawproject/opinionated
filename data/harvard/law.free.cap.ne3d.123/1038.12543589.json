@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1038\" lastpage=\"1038\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE EX REL. VONDERHEIDE\n  <br/>\n  v.\n  <br/>\n  MULTI-COLOR CORP.\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0832\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  June 12, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   CASE ANNOUNCEMENT\n  </strong>\n </p>\n <p id=\"p-6\">\n  <strong>\n   RECONSIDERATION OF PRIOR DECISION\n  </strong>\n </p>\n <opinion id=\"p-7\">\n  Reported at ___ Ohio St.3d ___,\n  <extracted-citation case-ids=\"12546211\" index=\"0\" url=\"https://cite.case.law/ne3d/128/188/\">\n   2019-Ohio-1270\n  </extracted-citation>\n  , ___ N.E.3d ___. On motion for reconsideration. Motion denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Donnelly, J., dissents.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"220\" lastpage=\"220\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STOKES\n  <br/>\n  v.\n  <br/>\n  CRUMPTON\n </parties>\n <docketnumber id=\"p-2\">\n  168A16-1\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  September 22, 2016\n </decisiondate>\n <attorneys id=\"p-5\">\n  Kieran J. Shanahan, Attorney at Law, Christopher S. Battles, Attorney at Law, John E. Branch, III, Attorney at Law, Raleigh, For Stokes, Thomas A. (III).\n </attorneys>\n <attorneys id=\"p-6\">\n  K. Edward Greene, Attorney at Law, Tobias S. Hampson, Attorney at Law, Raleigh, For Crumpton, Catherine C. (formerly Stokes).\n </attorneys>\n <attorneys id=\"p-7\">\n  Robert A. Ponton, Jr., Attorney at Law, Raleigh.\n </attorneys>\n <opinion id=\"p-8\">\n  The following order has been entered on the motion filed on the 17th of May 2016 by Plaintiff for Leave to Amend Notice of Appeal and Petition for Discretionary Review:\n </opinion>\n <opinion id=\"p-9\">\n  \"Motion Allowed by order of the Court in conference, this the 22nd of September 2016.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-10\">\n   Edmunds, J. recused\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

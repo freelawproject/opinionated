@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"773\" lastpage=\"773\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Dolan MCGINNIS\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2019-KK-77\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  January 18, 2019\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   ON SUPERVISORY WRITS TO THE CRIMINAL DISTRICT COURT, PARISH OF ORLEANS\n  </strong>\n </history>\n <opinion id=\"p-6\">\n  Denied.\n </opinion>\n <judges id=\"p-7\">\n  HUGHES, J., would grant and assigns reasons.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Hughes, J., would grant the writ.\n  </author>\n  <p id=\"p-9\">\n   La. C. Crim. Proc. article 312(F) provides that after sentence and until final judgment, bail\n   <em>\n    shall\n   </em>\n   be allowed if a sentence of 5 years or less is actually imposed.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

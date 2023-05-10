@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<html>\n <body>\n  <casebody firstpage=\"1001\" lastpage=\"1001\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    Joseph KOSTICK, et al., appellants,\n    <br/>\n    v.\n    <br/>\n    Scott T. NAGO, Chief Election Officer, State of Hawai'i, et al.\n   </parties>\n   <docketnumber id=\"p-2\">\n    No. 13-456.\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of the United States\n   </court>\n   <decisiondate id=\"p-4\">\n    Jan. 21, 2014.\n   </decisiondate>\n   <opinion id=\"p-6\">\n    On appeal from the United States District Court for the District of Hawai'i. Judgment affirmed.\n   </opinion>\n   <history type=\"majority\">\n    <p id=\"p-5\">\n     Case below,\n     <extracted-citation case-ids=\"3838082\" index=\"0\" url=\"https://cite.case.law/f-supp-2d/960/1074/\">\n      960 F.Supp.2d 1074\n     </extracted-citation>\n     .\n    </p>\n   </history>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

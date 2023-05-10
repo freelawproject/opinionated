@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"1151\" lastpage=\"1151\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE: L.D.B. Applying for Intra Family\n </parties>\n <parties id=\"p-2\">\n  Adoption of E.B.\n </parties>\n <docketnumber id=\"p-3\">\n  NO. 2018-CJ-1864\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-5\">\n  February 11, 2019\n </decisiondate>\n <opinion id=\"p-6\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   GUIDRY, J., recused.\n  </author>\n  <p id=\"p-8\">\n   HUGHES, J., would grant.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

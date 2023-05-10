@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"23\" lastpage=\"23\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Travis BECKLES, petitioner,\n  <br/>\n  v.\n  <br/>\n  UNITED STATES.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 15-8544.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Aug. 11, 2016.\n </decisiondate>\n <opinion id=\"p-5\">\n  Adam K. Mortara, Esquire, of Chicago, Illinois, is invited to brief and argue this case, as\n  <em>\n   amicus curiae,\n  </em>\n  in support of the judgment below on Question 2 presented by the petition.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   Justice KAGAN took no part in the consideration or decision of this order.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

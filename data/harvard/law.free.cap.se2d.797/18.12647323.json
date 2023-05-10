@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"18\" lastpage=\"19\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Tony Robert JONES\n </parties>\n <docketnumber id=\"p-2\">\n  669P03-5\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  March 16, 2017\n </decisiondate>\n <attorneys id=\"p-5\">\n  Tony Robert Jones, For Jones, Tony Robert.\n </attorneys>\n <attorneys id=\"p-6\">\n  Amy Kunstling Irene, Special Deputy Attorney General, Tom Horner, District Attorney, For State of NC.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 3rd of January 2017 by Defendant for Rehearing of Motion to Dismiss:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Dismissed by order of the Court in conference, this the 16th of March 2017.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Ervin, J. recused\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

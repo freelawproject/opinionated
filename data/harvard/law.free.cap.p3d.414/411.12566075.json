@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"411\" lastpage=\"411\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  SINES, John Albert\n </parties>\n <docketnumber id=\"p-2\">\n  S065464\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Oregon.\n </court>\n <decisiondate id=\"p-4\">\n  March 1, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Review Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   Kistler, J., would allow.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

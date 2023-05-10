@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"479\" lastpage=\"479\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE\n    <br/>\n    v.\n    <br/>\n    BEAR THUNDER\n   </parties>\n   <docketnumber id=\"p-2\">\n    28511\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of South Dakota.\n   </court>\n   <decisiondate id=\"p-4\">\n    May 6, 2019\n   </decisiondate>\n   <opinion id=\"p-5\">\n    <strong>\n     Unpublished Disposition; pursuant to SDCL 15-26A-87.1(E)\n    </strong>\n   </opinion>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     Affirmed (Houwman).\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

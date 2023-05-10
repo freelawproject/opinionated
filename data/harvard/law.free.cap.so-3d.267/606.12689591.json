@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"606\" lastpage=\"606\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Lisa TAYLOR\n  <br/>\n  v.\n  <br/>\n  CHIPOTLE MEXICAN GRILL, INC., Lauricella Land Company, LLC, Elmwood Village Center, LLC, Lauricella &amp; Associates, Inc., Elmwood Retail Properties, LLC and Travelers Insurance Company\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2019-C-0154\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  April 8, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   JOHNSON, C.J., would grant.\n  </author>\n  <p id=\"p-7\">\n   GUIDRY, J., recused.\n  </p>\n  <p id=\"p-8\">\n   GENOVESE, J., would grant.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

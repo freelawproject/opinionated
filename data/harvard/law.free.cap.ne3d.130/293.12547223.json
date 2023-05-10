@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"293\" lastpage=\"293\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  CINCINNATI\n  <br/>\n  v.\n  <br/>\n  FOURTH NATL. REALTY, L.L.C.\n </parties>\n <docketnumber id=\"p-2\">\n  2019-0898\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  September 3, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   CASE ANNOUNCEMENTS\n  </strong>\n </p>\n <history id=\"p-6\">\n  APPEALS ACCEPTED FOR REVIEW\n </history>\n <judges id=\"p-7\">\n  O'Connor, C.J., and Kennedy and Donnelly, JJ., dissent.\n </judges>\n <opinion id=\"p-8\">\n  Robin N. Piper, J., of the Twelfth District Court of Appeals, sitting for Fischer, J.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   William A. Klatt, J., of the Tenth District Court of Appeals, sitting for DeWine, J.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

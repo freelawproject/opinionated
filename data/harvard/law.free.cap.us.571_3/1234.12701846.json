@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"1234\" lastpage=\"1234\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Michael Anthony TAYLOR, petitioner,\n  <br/>\n  v.\n  <br/>\n  George A. LOMBARDI, Director, Missouri Department of Corrections, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-8856 (13A867).\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Feb. 25, 2014.\n </decisiondate>\n <opinion id=\"p-5\">\n  Application for stay of execution of sentence of death presented to Justice ALITO\n </opinion>\n <opinion id=\"p-6\">\n  and by him referred to the Court denied. Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.\n </opinion>\n <judges id=\"p-7\">\n  Justice GINSBURG, with whom Justice SOTOMAYOR and Justice KAGAN join, dissenting.\n </judges>\n <opinion id=\"p-8\">\n  For reasons well stated by Judge BYE in his statement calling for Eighth Circuit rehearing\n  <em>\n   en banc,\n  </em>\n  I would grant the stay and consider the petition for certiorari in the ordinary course.\n </opinion>\n <p type=\"majority\">\n </p>\n</casebody>\n"
-  }
-}

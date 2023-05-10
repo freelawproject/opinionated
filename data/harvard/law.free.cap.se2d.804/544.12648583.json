@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"544\" lastpage=\"544\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  ARMSTRONG\n  <br/>\n  v.\n  <br/>\n  NORTH CAROLINA, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  39P17-1\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  September 28, 2017\n </decisiondate>\n <attorneys id=\"p-5\">\n  Arthur O. Armstrong, Los Angeles, CA, for Armstrong, Arthur O.\n </attorneys>\n <opinion id=\"p-6\">\n  The following order has been entered on the motions filed by Plaintiff for Leave to File a Writ of Mandamus:\n </opinion>\n <opinion id=\"p-7\">\n  \"All Motions Denied by order of the Court in conference, this the 28th of September 2017.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Ervin, J. recused\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

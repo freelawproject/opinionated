@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"304\" lastpage=\"304\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Ashley Smith SCHULTZ\n  <br/>\n  v.\n  <br/>\n  The CINCINNATI INDEMNITY COMPANY, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-CC-0620\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  April 20, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Stay denied; writ denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   JOHNSON, C.J., recused.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

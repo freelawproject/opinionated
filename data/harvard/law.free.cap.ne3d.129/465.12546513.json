@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"465\" lastpage=\"465\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  MCELROY\n  <br/>\n  v.\n  <br/>\n  MOHR\n </parties>\n <docketnumber id=\"p-2\">\n  2019-0765\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  August 21, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   CASE ANNOUNCEMENT\n  </strong>\n </p>\n <p id=\"p-6\">\n  <strong>\n   MERIT DECISION WITHOUT OPINION\n  </strong>\n </p>\n <opinion id=\"p-7\">\n  On S.Ct.Prac.R. 12.04 determination. Cause dismissed.\n </opinion>\n <judges id=\"p-8\">\n  O'Connor, C.J., and Kennedy, Klatt, and DeWine, JJ., concur.\n </judges>\n <judges id=\"p-9\">\n  French, Donnelly, and Stewart, JJ., dissent.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-10\">\n   William A. Klatt, J., of the Tenth District Court of Appeals, sitting for Fischer, J.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

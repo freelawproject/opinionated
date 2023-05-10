@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"1004\" lastpage=\"1004\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    GMAC BANK\n    <br/>\n    v.\n    <br/>\n    BRADAC.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2017-1598\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    March 14, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <opinion id=\"p-7\">\n    Fischer, J., dissents and would accept the cause on proposition of law No. IV.\n   </opinion>\n   <p type=\"majority\">\n    <p id=\"p-6\">\n     APPEALS NOT ACCEPTED FOR REVIEW\n    </p>\n   </p>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"385\" lastpage=\"385\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  Roger BLACKSTOCK\n </parties>\n <docketnumber id=\"p-2\">\n  242P09-2\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  August 17, 2017\n </decisiondate>\n <attorneys id=\"p-5\">\n  Roger Blackstock, for Blackstock.\n </attorneys>\n <attorneys id=\"p-6\">\n  Anne M. Middleton, Special Deputy Attorney General, J. Douglas Henderson, District Attorney, for State of NC.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 28th of June 2017 by Defendant to Appoint Counsel:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Dismissed as moot by order of the Court in conference, this the 17th of August 2017.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Ervin, J. recused\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"841\" lastpage=\"842\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Vidya SAGAR, petitioner,\n  <br/>\n  v.\n  <br/>\n  ORACLE CORPORATION.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 13-328.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of the United States\n </court>\n <decisiondate id=\"p-4\">\n  Dec. 16, 2013.\n </decisiondate>\n <history id=\"p-5\">\n  Former decision,\n  <extracted-citation case-ids=\"12584227,12584228,12584229,12584230,12584231,12584232,12704552,12704553,12704554,12704555,12704613,12704472\" index=\"0\" url=\"https://cite.case.law/s-ct/134/485/\">\n   134 S.Ct. 485\n  </extracted-citation>\n  .\n </history>\n <opinion id=\"p-6\">\n  Petition for rehearing denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   <strong>\n    Justice ALITO took no part in the consideration or decision of this petition.\n   </strong>\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

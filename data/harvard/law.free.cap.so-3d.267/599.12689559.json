@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"599\" lastpage=\"599\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Tyrek MARTIN\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2019-KK-0008\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  March 25, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   WEIMER, J., would grant.\n  </author>\n  <p id=\"p-7\">\n   HUGHES, J., would grant.\n  </p>\n  <p id=\"p-8\">\n   GENOVESE, J., would grant.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

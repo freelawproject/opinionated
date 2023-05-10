@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"1018\" lastpage=\"1018\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Robert M. NOLAN, Appellant\n  <br/>\n  v.\n  <br/>\n  STATE of Indiana\n </parties>\n <court id=\"p-2\">\n  Supreme Court of Indiana.\n </court>\n <decisiondate id=\"p-3\">\n  October 25, 2018\n </decisiondate>\n <disposition id=\"p-4\">\n  Transfer Denied.\n </disposition>\n <opinion id=\"p-5\">\n  All Justices concur, except Rush, C.J., and Goff, J., who vote to grant the petition to transfer.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   Crone, J., Bailey, J., Brown, J.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

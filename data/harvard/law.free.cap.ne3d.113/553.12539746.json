@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"553\" lastpage=\"553\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  HARRIS\n </parties>\n <docketnumber id=\"p-2\">\n  2018-1366\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  December 12, 2018\n </decisiondate>\n <history id=\"p-5\">\n  <strong>\n   APPEAL NOT ACCEPTED FOR REVIEW\n  </strong>\n </history>\n <opinion id=\"p-6\">\n  Motion to amend notice of appeal and memorandum in support of jurisdiction granted.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   FRENCH, J., would deny the motion to amend as moot.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

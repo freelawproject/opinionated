@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"1103\" lastpage=\"1103\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE\n    <br/>\n    v.\n    <br/>\n    BOZSO\n   </parties>\n   <docketnumber id=\"p-2\">\n    2018-1007\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    October 10, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <history id=\"p-7\">\n    Appeal accepted. Cause held for 2017-0915, State v. Romero, and briefing scheduled stayed.\n   </history>\n   <opinion id=\"p-9\">\n    Kennedy, J, dissents.\n   </opinion>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     APPEALS ACCEPTED FOR REVIEW\n    </p>\n    <p id=\"p-8\">\n     O'Connor, C.J., and O'Donnell, J., would not hold the appeal and would order briefing to proceed.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

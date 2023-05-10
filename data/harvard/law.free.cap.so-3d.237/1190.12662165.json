@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<casebody firstpage=\"1190\" lastpage=\"1190\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Cornelius WILSON\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2017-KO-0392\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  February 23, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied; moot. See State v. Wilson, 17-0392 (La. 11/13/17),\n  <extracted-citation case-ids=\"12382624,12382634,12382611,12382605\" index=\"0\" url=\"https://cite.case.law/so-3d/229/924/\">\n   229 So.3d 924\n  </extracted-citation>\n  .\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   JOHNSON, C.J., would grant.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

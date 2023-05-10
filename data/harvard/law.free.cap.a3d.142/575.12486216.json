@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"575\" lastpage=\"575\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <opinion>\n    Affirmed\n   </opinion>\n   <parties id=\"p-1\">\n    Leroy Price\n    <br/>\n    v.\n    <br/>\n    United States\n   </parties>\n   <docketnumber id=\"p-2\">\n    NO. 15-CF-704\n   </docketnumber>\n   <court id=\"p-3\">\n    District of Columbia Court of Appeals\n   </court>\n   <decisiondate id=\"p-4\">\n    July 28, 2016\n   </decisiondate>\n   <summary id=\"p-5\">\n    Williams\n   </summary>\n   <opinion id=\"p-6\">\n    Disposition: Affirmed.\n   </opinion>\n   <opinion>\n    Affirmed\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

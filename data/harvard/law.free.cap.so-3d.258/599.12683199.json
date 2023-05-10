@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"599\" lastpage=\"599\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  IN RE: COMMITTEE ON BAR ADMISSIONS CFN-690183\n </parties>\n <docketnumber id=\"p-2\">\n  No. 2018-BA-1187\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  December 17, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Rehearing denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   CLARK, J., would grant.\n  </author>\n  <p id=\"p-7\">\n   CRICHTON, L., would grant.\n  </p>\n  <p id=\"p-8\">\n   GENOVESE, J., would grant.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

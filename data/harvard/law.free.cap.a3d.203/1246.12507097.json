@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<html>\n <body>\n  <casebody firstpage=\"1246\" lastpage=\"1246\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    STATE of Connecticut\n    <br/>\n    v.\n    <br/>\n    Alanna R. CAREY\n   </parties>\n   <court id=\"p-2\">\n    Supreme Court of Connecticut.\n   </court>\n   <decisiondate id=\"p-3\">\n    Decided March 27, 2019\n   </decisiondate>\n   <opinion id=\"p-5\">\n    \"Did the Appellate Court correctly conclude that the allegedly improper admission of Mark Manganello's hearsay testimony was harmless?\"\n   </opinion>\n   <opinion type=\"majority\">\n    <p id=\"p-4\">\n     The defendant's petition for certification to appeal from the Appellate Court,\n     <extracted-citation case-ids=\"12506728\" index=\"0\" url=\"https://cite.case.law/a3d/202/1067/\">\n      187 Conn.App. 438\n     </extracted-citation>\n     ,\n     <extracted-citation case-ids=\"12506728\" index=\"1\" url=\"https://cite.case.law/a3d/202/1067/\">\n      202 A.3d 1067\n     </extracted-citation>\n     (2019), is granted, limited to the following issue:\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

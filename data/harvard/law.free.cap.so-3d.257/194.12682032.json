@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"194\" lastpage=\"194\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  GEORGIA-PACIFIC CONSUMER OPERATIONS, LLC (f/k/a Georgia-Pacific Corporation)\n  <br/>\n  v.\n  <br/>\n  CITY OF BATON ROUGE and Parish of East Baton Rouge\n </parties>\n <parties id=\"p-2\">\n  Georgia-Pacific Consumer Operations, LLC (fka Georgia-Pacific Corporation)\n  <br/>\n  v.\n  <br/>\n  City of Baton Rouge-Parish of East Baton Rouge Department of Finance\n </parties>\n <docketnumber id=\"p-3\">\n  NO. 2018-C-1397\n </docketnumber>\n <court id=\"p-4\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-5\">\n  December 3, 2018\n </decisiondate>\n <opinion id=\"p-6\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   WEIMER, J., would grant.\n  </author>\n  <p id=\"p-8\">\n   HUGHES, J., would grant.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

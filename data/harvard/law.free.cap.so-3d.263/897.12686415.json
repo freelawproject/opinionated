@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"897\" lastpage=\"897\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Randal BOUDREAUX\n  <br/>\n  v.\n  <br/>\n  COMMERCE AND INDUSTRY INS. CO., et al.\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-C-2005\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  February 11, 2019\n </decisiondate>\n <opinion id=\"p-5\">\n  Denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   CLARK, J., would grant.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"878\" lastpage=\"878\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    SPECIALTY EXECUTIVES, INC.\n    <br/>\n    v.\n    <br/>\n    KDH DEFENSE SYS., INC.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2017-1119\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    February 28, 2018\n   </decisiondate>\n   <p id=\"p-5\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <opinion id=\"p-7\">\n    Appeal and cross-appeal not accepted.\n   </opinion>\n   <opinion type=\"majority\">\n    <p id=\"p-6\">\n     APPEALS NOT ACCEPTED FOR REVIEW\n    </p>\n    <p id=\"p-8\">\n     Fischer, J., dissents and would accept the appeal.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

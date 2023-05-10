@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<html>\n <body>\n  <casebody firstpage=\"302\" lastpage=\"302\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    State ex rel. Cincinnati Enquirer\n    <br/>\n    v.\n    <br/>\n    Pike Cty. Coroner's Office.\n   </parties>\n   <docketnumber id=\"p-2\">\n    2016-1115\n   </docketnumber>\n   <court id=\"p-3\">\n    Supreme Court of Ohio.\n   </court>\n   <decisiondate id=\"p-4\">\n    April 25, 2018\n   </decisiondate>\n   <attorneys id=\"p-5\">\n    Frank D. Celebrezze Jr., J., of the Eighth District Court of Appeals, sitting for French, J.\n   </attorneys>\n   <opinion id=\"p-6\">\n    Robin N. Piper, J., of the Twelfth District Court of Appeals, sitting for DeWine, J.\n   </opinion>\n   <p id=\"p-7\">\n    CASE ANNOUNCEMENTS\n   </p>\n   <judges id=\"p-10\">\n    O'Donnell and Kennedy, JJ., dissent.\n   </judges>\n   <opinion type=\"majority\">\n    <p id=\"p-8\">\n     RECONSIDERATION OF PRIOR DECISIONS\n    </p>\n    <p id=\"p-9\">\n     On motion for reconsideration. Motion denied.\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

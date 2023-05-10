@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"251\" lastpage=\"251\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  HOCKNEY &amp; ASSO.\n  <br/>\n  v.\n  <br/>\n  CORNELIUS.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 353P05-2.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  January 26, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Grady L. Balentine, Jr., Assistant Attorney General, for C. Preston Cornelius.\n </attorneys>\n <attorneys id=\"p-6\">\n  C. Preston Cornelius, Pro Se.\n </attorneys>\n <opinion id=\"p-7\">\n  The following order has been entered on the motion filed on the 26th day of July 2005 by Plaintiff to Request Article III Court:\n </opinion>\n <opinion id=\"p-8\">\n  \"Motion Dismissed by order of the Court in conference this the 26th day of January 2006.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-9\">\n   Justice EDMUNDS recused.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

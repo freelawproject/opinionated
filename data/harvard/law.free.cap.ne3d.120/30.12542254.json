@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"30\" lastpage=\"30\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  KING\n </parties>\n <docketnumber id=\"p-2\">\n  2019-0171\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  April 3, 2019\n </decisiondate>\n <p id=\"p-5\">\n  <strong>\n   MOTION AND PROCEDURAL RULING\n  </strong>\n </p>\n <opinion id=\"p-6\">\n  On motion for leave to file delayed appeal. Motion granted. Appellant shall file a memorandum in support of jurisdiction within 30 days. Appellant's motion requesting trial transcript denied.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   DONNELLY, J., would grant appellant's motion requesting trial transcript.\n  </author>\n  <p id=\"p-8\">\n   FISCHER, J., dissents and would deny appellant's motion for delayed appeal and appellant's motion requesting trial transcript.\n  </p>\n  <p id=\"p-9\">\n   STEWART, J., dissents and would deny appellant's motion for delayed appeal and deny appellant's motion requesting trial transcript as moot.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

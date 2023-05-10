@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"653\" lastpage=\"653\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  Justin Tait MITTON\n  <br/>\n  v.\n  <br/>\n  Candice H MITTON\n </parties>\n <docketnumber id=\"p-2\">\n  CV-17-0158-PR\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Arizona.\n </court>\n <decisiondate id=\"p-4\">\n  September 12, 2017\n </decisiondate>\n <opinion id=\"p-5\">\n  <strong>\n   MINUTES\n  </strong>\n </opinion>\n <opinion id=\"p-6\">\n  ORDERED: Petition for Review = DENIED.\n </opinion>\n <opinion id=\"p-7\">\n  FURTHER ORDERED: The Court of Appeals' Opinion shall not be published, pursuant to Rule 111(g), Arizona Rules of the Supreme Court.\n </opinion>\n <opinion id=\"p-8\">\n  FURTHER ORDERED: Request for Costs (Appellee C. Mitton) = GRANTED.\n </opinion>\n <p type=\"majority\">\n  <author id=\"p-9\">\n   Justice Gould voted to grant review.\n  </author>\n </p>\n</casebody>\n"
-  }
-}

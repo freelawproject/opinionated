@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"976\" lastpage=\"976\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  John JONES et al., Respondents,\n  <br/>\n  v.\n  <br/>\n  PNEUMO ABEX LLC, Petitioner.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 123895\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Illinois.\n </court>\n <decisiondate id=\"p-4\">\n  November 28, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Petition for Leave to Appeal Allowed.\n </opinion>\n <p id=\"p-6\">\n  This case is consolidated with Case No. 124002.\n </p>\n <opinion type=\"majority\">\n  <author id=\"p-7\">\n   Thomas, J. took no part.\n  </author>\n  <p id=\"p-8\">\n   Theis, J. took no part.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

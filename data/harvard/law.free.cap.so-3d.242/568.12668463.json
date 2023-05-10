@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"568\" lastpage=\"569\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE of Louisiana\n  <br/>\n  v.\n  <br/>\n  Ronald Dean BANDY, Jr.\n </parties>\n <docketnumber id=\"p-2\">\n  NO. 2018-KK-0776\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Louisiana.\n </court>\n <decisiondate id=\"p-4\">\n  May 14, 2018\n </decisiondate>\n <opinion id=\"p-5\">\n  Writ Granted. The ruling of the trial court is reversed.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-6\">\n   JOHNSON, C.J., would deny.\n  </author>\n  <p id=\"p-7\">\n   WEIMER, J., would deny.\n  </p>\n  <p id=\"p-8\">\n   GENOVESE, J., would deny.\n  </p>\n </opinion>\n</casebody>\n"
-  }
-}

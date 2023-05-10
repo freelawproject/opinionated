@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<?xml version='1.0' encoding='utf-8'?>\n<html>\n <body>\n  <casebody firstpage=\"387\" lastpage=\"387\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n   <parties id=\"p-1\">\n    LOBELLO\n    <br/>\n    v.\n    <br/>\n    NEW YORK CENT. MUT. FIRE INS. CO.\n   </parties>\n   <court id=\"p-2\">\n    Court of Appeals of New York.\n   </court>\n   <decisiondate id=\"p-3\">\n    Decided January 30, 2018\n   </decisiondate>\n   <opinion id=\"p-4\">\n    4th Dept:\n    <extracted-citation case-ids=\"12293203\" index=\"0\" url=\"https://cite.case.law/ad3d/152/1206/\">\n     152 AD3d 1206\n    </extracted-citation>\n   </opinion>\n   <opinion id=\"p-5\">\n    Appeal withdrawn.\n   </opinion>\n   <opinion type=\"majority\">\n    <p>\n     No opinion found.\n     <a href=\"https://cite.case.law/ne3d/101/387/12532977/\">\n      Click here to view source material.\n     </a>\n    </p>\n   </opinion>\n  </casebody>\n </body>\n</html>\n"
-  }
-}

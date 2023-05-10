@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"534\" lastpage=\"534\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  State\n  <br/>\n  v.\n  <br/>\n  Sethy Tony Seam\n </parties>\n <docketnumber id=\"p-2\">\n  82A14-1\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  December 30, 2016\n </decisiondate>\n <attorneys id=\"p-5\">\n  Charles H. Harp, II, Attorney at Law, Lexington, Barbara S. Blackman, Assistant Appellate Defender, for Seam, Sethy Tony.\n </attorneys>\n <attorneys id=\"p-6\">\n  Robert C. Montgomery, Special Deputy Attorney General, Garry W. Frank, District Attorney, for State of North Carolina.\n </attorneys>\n <attorneys id=\"p-7\">\n  Staples Hughes, Durham.\n </attorneys>\n <attorneys id=\"p-8\">\n  Kathryn L. VandenBerg, Attorney at Law, for Seam, Sethy Tony.\n </attorneys>\n <opinion id=\"p-9\">\n  The following order has been entered on the motion filed on the 29th of December 2016 by Defendant to Expedite Mandate:\n </opinion>\n <opinion id=\"p-10\">\n  \"Motion Denied by order of the Court in conference, this the 29th of December 2016.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-11\">\n   Ervin, J. recused\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

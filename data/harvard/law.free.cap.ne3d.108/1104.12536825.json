@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"1104\" lastpage=\"1104\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  STATE\n  <br/>\n  v.\n  <br/>\n  OGLE\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0970\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  October 10, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <history id=\"p-6\">\n  APPEALS NOT ACCEPTED FOR REVIEW\n </history>\n <opinion id=\"p-7\">\n  Appellant's motion for order to strike, motion for leave to file amended notice of appeal, and motion for leave to file amended memorandum in support of jurisdiction denied.\n </opinion>\n <opinion id=\"p-8\">\n  O'Donnell, Fischer, and DeGenaro, JJ., would grant appellant's motions for leave.\n </opinion>\n <opinion id=\"p-9\">\n  DeWine, J., would grant appellant's motion for order to strike.\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-10\">\n   Kennedy, J., would deny all of appellant's motions as moot.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

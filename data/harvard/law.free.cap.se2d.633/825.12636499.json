@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"825\" lastpage=\"825\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  SMITH\n  <br/>\n  v.\n  <br/>\n  RICHARDSON SPORTS, et al.\n </parties>\n <docketnumber id=\"p-2\">\n  No. 566P05.\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of North Carolina.\n </court>\n <decisiondate id=\"p-4\">\n  June 29, 2006.\n </decisiondate>\n <attorneys id=\"p-5\">\n  Shannon P. Metcalf, Hatcher B. Kincheloe, Charlotte, for Richardson Sports, et al.\n </attorneys>\n <opinion id=\"p-6\">\n  The following order has been entered on the motion filed on the 5th day of April 2006 by Plaintiff to Remand:\n </opinion>\n <opinion id=\"p-7\">\n  \"Motion Denied by order of the Court in conference this the 29th day of June 2006.\"\n </opinion>\n <opinion type=\"majority\">\n  <author id=\"p-8\">\n   Justice TIMMONS-GOODSON recused.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}

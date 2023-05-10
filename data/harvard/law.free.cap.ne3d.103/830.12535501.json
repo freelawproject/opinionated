@@ -1,6 +1,0 @@
-{
-  "casebody": {
-    "status": "ok",
-    "data": "<casebody firstpage=\"830\" lastpage=\"830\" xmlns=\"http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1\">\n <parties id=\"p-1\">\n  MCCONNELL\n  <br/>\n  v.\n  <br/>\n  DUDLEY\n </parties>\n <docketnumber id=\"p-2\">\n  2018-0377\n </docketnumber>\n <court id=\"p-3\">\n  Supreme Court of Ohio.\n </court>\n <decisiondate id=\"p-4\">\n  August 1, 2018\n </decisiondate>\n <p id=\"p-5\">\n  CASE ANNOUNCEMENTS\n </p>\n <history id=\"p-6\">\n  APPEALS ACCEPTED FOR REVIEW\n </history>\n <opinion id=\"p-7\">\n  Appeal accepted on proposition of law No. I. Cross-appeal not accepted.\n </opinion>\n <opinion id=\"p-8\">\n  Kennedy and DeWine, JJ., would accept the appeal on all propositions of law.\n </opinion>\n <opinion id=\"p-9\">\n  Fischer, J., would also accept proposition of law No. II and would accept the cross-appeal.\n </opinion>\n <judges id=\"p-10\">\n  O'Connor, C.J., and O'Donnell, J., dissent.\n </judges>\n <opinion type=\"majority\">\n  <author id=\"p-11\">\n   DeGenaro, J., not participating.\n  </author>\n </opinion>\n</casebody>\n"
-  }
-}
